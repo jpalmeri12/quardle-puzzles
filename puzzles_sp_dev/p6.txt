@@ -1,5 +1,0 @@
-6 8 darkness
-ennui 3 3 1
-plier 1 7 0
-panel 1 4 0
-inept 1 1 1

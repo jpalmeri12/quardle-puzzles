@@ -1,9 +1,0 @@
-7 8 spellbound
-human 1 1 0
-motor 3 1 1
-sneer 5 3 1
-corny 2 4 0
-!spellbound 0 3 4
-!spellbound 1 4 1
-!spellbound 2 0 3
-!spellbound 3 2 0

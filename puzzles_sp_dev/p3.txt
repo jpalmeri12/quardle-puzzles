@@ -1,5 +1,0 @@
-7 8 swap
-obwel 1 1 1
-wrsit 3 3 1
-esrve 1 4 0
-stnuk 2 7 0

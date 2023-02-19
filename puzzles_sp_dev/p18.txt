@@ -1,5 +1,0 @@
-6 8 bestfit
-erect 1 1 1
-abase 3 3 1
-cabby 1 4 0
-weedy 1 7 0

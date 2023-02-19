@@ -1,6 +1,0 @@
-7 10 island
-dwarf 2 1 1
-fight 2 5 0
-graph 4 5 1
-humph 1 8 0
-!island 32 41 2111 211
