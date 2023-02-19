@@ -1,0 +1,5 @@
+7 9 spaced
+sepia 6 1 1
+worth 4 4 1
+flora 2 5 0
+yacht 1 8 0

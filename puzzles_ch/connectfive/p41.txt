@@ -1,0 +1,6 @@
+6 9 connectfive
+yield 1 1 1
+beady 3 2 1
+cycle 5 4 1
+dodgy 1 5 0
+fibre 1 8 0

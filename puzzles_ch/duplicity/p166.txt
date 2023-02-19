@@ -1,0 +1,5 @@
+7 9 duplicity
+poise 4 1 1
+prior 1 2 0
+wiser 2 4 0
+rower 6 4 1

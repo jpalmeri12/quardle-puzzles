@@ -1,0 +1,5 @@
+7 9
+safer 2 1 1
+recap 1 4 0
+adage 4 4 1
+sweep 2 8 0

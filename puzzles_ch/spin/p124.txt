@@ -1,0 +1,5 @@
+7 7 spin
+pedal 4 1 1
+angel 1 2 0
+niece 2 2 1
+email 2 4 0

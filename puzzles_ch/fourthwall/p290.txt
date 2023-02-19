@@ -1,0 +1,7 @@
+6 6 fourthwall
+pupal 1 1 0
+paper 1 1 1
+paddy 1 3 0
+pudgy 3 1 1
+royal 1 5 0
+loyal 5 1 1

@@ -1,0 +1,5 @@
+7 9 soundscramble
+teght 5 1 1
+pateo 2 2 0
+tinth 1 4 0
+niegh 3 4 1

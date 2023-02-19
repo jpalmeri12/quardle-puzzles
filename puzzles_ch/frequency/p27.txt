@@ -1,0 +1,5 @@
+6 10 frequency
+magma 2 1 1
+mauve 1 5 0
+miser 1 5 1
+retro 1 9 0

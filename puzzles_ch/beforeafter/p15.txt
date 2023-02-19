@@ -1,0 +1,9 @@
+7 9 beforeafter
+midst 4 1 1
+tunic 1 2 0
+space 2 4 1
+petty 2 5 0
+!beforeafter 2 o
+!beforeafter 2 k
+!beforeafter 1 m
+!beforeafter 1 r

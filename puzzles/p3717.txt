@@ -1,0 +1,5 @@
+7 10
+sweep 3 1 1
+hippo 1 5 0
+parer 4 5 1
+forge 2 9 0

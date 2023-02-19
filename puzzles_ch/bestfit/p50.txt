@@ -1,0 +1,5 @@
+7 8 bestfit
+gaffe 1 1 0
+freak 3 1 1
+dying 6 3 1
+harpy 2 4 0

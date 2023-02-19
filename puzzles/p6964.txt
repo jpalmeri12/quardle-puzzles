@@ -1,0 +1,5 @@
+7 9
+lilac 2 1 1
+snoop 5 4 1
+scorn 1 5 0
+mayor 2 7 0

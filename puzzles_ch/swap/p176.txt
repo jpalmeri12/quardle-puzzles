@@ -1,0 +1,5 @@
+6 9 swap
+whiyn 1 1 1
+hvaoc 1 2 0
+viynl 4 4 1
+nutil 1 5 0

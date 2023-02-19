@@ -1,0 +1,5 @@
+7 10 frequency
+beady 6 1 1
+godly 2 5 0
+offal 3 5 1
+refer 1 7 0

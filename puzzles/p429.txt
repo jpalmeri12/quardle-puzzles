@@ -1,0 +1,5 @@
+7 9
+kneel 5 1 1
+steed 2 4 0
+tatty 3 4 1
+ditty 1 7 0

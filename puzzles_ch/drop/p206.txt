@@ -1,0 +1,6 @@
+7 12 drop
+paste 5 1 1
+taper 2 5 0
+album 3 5 1
+slung 1 8 0
+sober 1 11 0

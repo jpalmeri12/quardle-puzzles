@@ -1,0 +1,5 @@
+7 9
+aging 5 1 1
+scion 1 4 0
+coast 2 4 1
+smell 2 7 0

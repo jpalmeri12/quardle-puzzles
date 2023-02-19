@@ -1,0 +1,5 @@
+7 9
+favor 1 1 1
+ovine 1 4 0
+eject 5 4 1
+pouch 2 7 0

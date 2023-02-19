@@ -1,0 +1,5 @@
+7 9
+fugue 5 1 1
+scout 2 4 0
+clone 3 4 1
+cleft 1 8 0

@@ -1,0 +1,5 @@
+7 7
+aunty 4 1 1
+shrub 1 2 0
+hippy 2 2 1
+pithy 2 4 0

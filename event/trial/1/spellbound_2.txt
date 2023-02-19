@@ -1,0 +1,9 @@
+7 9 spellbound
+broth 6 1 1
+adept 2 4 0
+dally 3 4 1
+islet 1 7 0
+!spellbound 0 1 4
+!spellbound 1 0 3
+!spellbound 2 4 2
+!spellbound 3 1 3

@@ -1,0 +1,5 @@
+7 10
+surly 4 1 1
+zebra 1 3 0
+idyll 2 5 0
+lanky 6 5 1

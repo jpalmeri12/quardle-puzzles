@@ -1,0 +1,5 @@
+7 10
+curse 2 1 0
+rupee 4 1 1
+giver 1 5 0
+ingot 2 5 1

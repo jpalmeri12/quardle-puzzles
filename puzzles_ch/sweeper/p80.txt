@@ -1,0 +1,5 @@
+7 7 sweeper
+surly 5 1 1
+toxin 3 2 1
+sorry 2 3 0
+spiky 1 5 0

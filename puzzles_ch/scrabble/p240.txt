@@ -1,0 +1,5 @@
+7 9 scrabble
+plait 1 5 0
+fetal 2 1 1
+stake 5 4 1
+fiber 2 8 0

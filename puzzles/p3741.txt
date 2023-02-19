@@ -1,0 +1,5 @@
+7 8
+coast 2 1 1
+cause 2 1 0
+handy 1 3 0
+dicey 4 3 1

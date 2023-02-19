@@ -1,0 +1,5 @@
+6 10
+these 4 1 1
+level 1 3 0
+elder 1 5 0
+resin 5 5 1

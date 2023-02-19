@@ -1,0 +1,5 @@
+6 9
+giant 2 1 1
+piney 1 2 0
+anime 1 4 0
+motto 4 4 1

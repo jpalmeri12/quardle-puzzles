@@ -1,0 +1,5 @@
+7 10
+creek 4 1 1
+verse 2 2 0
+alike 1 5 0
+enter 5 5 1

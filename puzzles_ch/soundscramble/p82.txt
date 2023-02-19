@@ -1,0 +1,5 @@
+7 8 soundscramble
+hymin 1 1 0
+niegh 5 1 1
+anvel 2 3 0
+nader 3 3 1

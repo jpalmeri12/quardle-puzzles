@@ -1,0 +1,5 @@
+7 10 frequency
+abyss 5 1 1
+beast 2 5 0
+arrow 4 5 1
+frown 1 9 0

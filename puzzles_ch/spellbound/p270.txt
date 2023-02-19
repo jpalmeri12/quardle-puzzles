@@ -1,0 +1,9 @@
+7 10 spellbound
+stunk 5 1 1
+steak 1 5 0
+their 2 5 1
+exalt 2 7 0
+!spellbound 0 3 0
+!spellbound 1 3 2
+!spellbound 2 1 3
+!spellbound 3 4 1

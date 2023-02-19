@@ -1,0 +1,5 @@
+7 8 shiritori
+welch 2 1 1
+badly 5 3 1
+scuba 1 4 0
+vinyl 2 7 0

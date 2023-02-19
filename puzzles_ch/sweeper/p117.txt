@@ -1,0 +1,5 @@
+7 10 sweeper
+blitz 4 1 1
+cumin 1 3 0
+rabid 2 5 1
+razor 2 5 0

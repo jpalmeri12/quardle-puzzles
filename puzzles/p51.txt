@@ -1,0 +1,5 @@
+7 10
+spend 2 1 1
+evoke 2 3 0
+admit 1 5 0
+tawny 5 5 1

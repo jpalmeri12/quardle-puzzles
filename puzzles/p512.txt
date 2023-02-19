@@ -1,0 +1,5 @@
+6 9
+rusty 1 1 0
+until 2 1 1
+video 1 4 0
+offer 5 4 1

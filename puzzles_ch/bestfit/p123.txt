@@ -1,0 +1,5 @@
+7 8 bestfit
+mania 1 1 1
+false 4 3 1
+angle 1 5 0
+wrest 2 7 0

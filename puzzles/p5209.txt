@@ -1,0 +1,5 @@
+7 10
+theta 3 1 1
+madly 2 5 0
+meaty 2 5 1
+staff 1 8 0

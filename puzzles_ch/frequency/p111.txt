@@ -1,0 +1,5 @@
+7 7 frequency
+verge 6 1 1
+after 4 2 1
+safer 2 3 0
+snore 1 6 0

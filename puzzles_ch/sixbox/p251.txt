@@ -1,0 +1,7 @@
+8 8 sixbox
+tenet 3 1 1
+spoil 5 1 1
+tango 1 3 0
+glare 4 3 1
+elite 3 4 0
+fetal 1 5 0

@@ -1,0 +1,5 @@
+6 9
+daunt 1 1 0
+adept 2 1 1
+bring 4 4 1
+story 1 5 0

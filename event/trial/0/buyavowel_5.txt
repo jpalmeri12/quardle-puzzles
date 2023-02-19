@@ -1,0 +1,5 @@
+7 9 buyavowel
+ruler 4 1 1
+syrup 1 2 0
+speed 2 4 0
+shear 2 4 1

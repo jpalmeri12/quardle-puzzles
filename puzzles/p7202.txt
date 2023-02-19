@@ -1,0 +1,5 @@
+7 7
+avert 1 1 1
+voter 1 2 0
+tough 3 2 1
+shawl 2 6 0

@@ -1,0 +1,5 @@
+6 8 spin
+raven 1 1 0
+nasal 5 1 1
+gauge 2 3 1
+mafia 1 4 0

@@ -1,0 +1,7 @@
+6 6 fourthwall
+humor 1 1 0
+heard 1 1 1
+ardor 1 3 0
+medic 3 1 1
+decor 1 5 0
+rarer 5 1 1

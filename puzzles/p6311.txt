@@ -1,0 +1,5 @@
+7 8
+champ 1 1 0
+micro 4 1 1
+macro 2 3 0
+mover 2 3 1

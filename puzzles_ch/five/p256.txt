@@ -1,0 +1,6 @@
+6 9 five
+leave 1 1 1
+entry 1 2 0
+valid 1 4 0
+least 3 4 1
+aisle 1 7 0

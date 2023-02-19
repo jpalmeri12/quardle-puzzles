@@ -1,0 +1,5 @@
+7 9 frequency
+ethos 1 1 0
+thump 2 1 1
+eying 6 4 1
+puffy 2 5 0

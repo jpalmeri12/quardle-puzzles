@@ -1,0 +1,5 @@
+7 10 frequency
+ficus 4 1 1
+couch 1 3 0
+fussy 2 5 0
+false 2 5 1

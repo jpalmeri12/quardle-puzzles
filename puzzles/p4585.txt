@@ -1,0 +1,5 @@
+7 10
+ficus 5 1 1
+twixt 2 5 1
+toast 2 5 0
+rivet 1 7 0

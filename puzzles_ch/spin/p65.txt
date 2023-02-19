@@ -1,0 +1,5 @@
+7 9 spin
+sauce 4 1 1
+wrote 2 4 1
+reedy 2 5 0
+sting 1 7 0

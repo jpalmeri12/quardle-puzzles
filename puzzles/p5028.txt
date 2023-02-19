@@ -1,0 +1,5 @@
+7 10
+whack 5 1 1
+bloke 2 5 0
+owner 4 5 1
+along 1 7 0

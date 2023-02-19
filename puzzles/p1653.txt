@@ -1,0 +1,5 @@
+7 9
+sauce 2 1 1
+patch 1 2 0
+color 2 4 0
+opium 5 4 1

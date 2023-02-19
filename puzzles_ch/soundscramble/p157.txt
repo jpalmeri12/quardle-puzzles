@@ -1,0 +1,5 @@
+7 10 soundscramble
+crani 4 1 1
+griat 1 3 0
+stien 2 5 0
+tweni 3 5 1

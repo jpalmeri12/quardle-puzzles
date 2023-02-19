@@ -1,0 +1,5 @@
+7 9 darkness
+slyly 4 4 1
+nurse 1 4 0
+belie 2 7 0
+scone 1 1 1

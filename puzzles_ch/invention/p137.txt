@@ -1,0 +1,5 @@
+7 10 invention
+frail 3 1 1
+terse 1 2 0
+blurb 2 5 0
+bugle 2 5 1

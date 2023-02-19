@@ -1,0 +1,5 @@
+6 9 swap
+radra 1 1 0
+abhro 5 1 1
+tneor 1 4 0
+edlay 3 4 1

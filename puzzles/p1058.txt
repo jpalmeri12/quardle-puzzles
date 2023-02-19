@@ -1,0 +1,5 @@
+6 9
+stick 5 1 1
+joust 1 2 0
+tunic 1 4 0
+urban 2 4 1

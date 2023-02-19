@@ -1,0 +1,6 @@
+7 10 five
+chute 4 1 1
+bowel 1 5 0
+wagon 3 5 1
+lunch 5 5 1
+botch 2 8 0

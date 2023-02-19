@@ -1,0 +1,5 @@
+7 7
+pence 5 1 1
+furry 3 2 1
+suing 2 3 0
+verve 1 5 0

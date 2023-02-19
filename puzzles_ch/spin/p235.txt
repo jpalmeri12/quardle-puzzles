@@ -1,0 +1,5 @@
+6 7 spin
+photo 4 1 1
+lithe 1 2 0
+inlet 2 2 1
+sloth 1 4 0

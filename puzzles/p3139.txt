@@ -1,0 +1,5 @@
+6 9
+chasm 1 1 1
+slung 1 4 0
+goner 5 4 1
+froze 1 7 0

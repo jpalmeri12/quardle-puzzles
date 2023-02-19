@@ -1,0 +1,5 @@
+7 9
+swell 6 1 1
+harsh 4 4 1
+small 2 5 0
+whose 1 7 0

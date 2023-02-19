@@ -1,0 +1,5 @@
+7 7
+trump 2 1 1
+brook 1 2 0
+kappa 5 2 1
+morph 2 4 0

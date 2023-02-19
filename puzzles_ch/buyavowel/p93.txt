@@ -1,0 +1,5 @@
+7 10 buyavowel
+fella 5 1 1
+awful 1 3 0
+pecan 2 5 0
+cache 4 5 1

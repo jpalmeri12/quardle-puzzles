@@ -1,0 +1,5 @@
+7 10 soundscramble
+birth 3 1 1
+strep 1 3 0
+rhymi 2 5 0
+ixest 6 5 1

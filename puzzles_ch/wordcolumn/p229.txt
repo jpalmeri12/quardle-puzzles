@@ -1,0 +1,6 @@
+6 12 wordcolumn
+steam 4 1 1
+prior 2 4 1
+prime 1 5 0
+vocal 1 7 0
+ledge 5 7 1

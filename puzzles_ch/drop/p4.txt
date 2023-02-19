@@ -1,0 +1,6 @@
+7 10 drop
+pilot 2 1 1
+reset 4 3 1
+woken 1 4 0
+latch 2 7 0
+since 1 9 0

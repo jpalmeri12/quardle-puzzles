@@ -1,0 +1,5 @@
+7 10 skyscrapers
+usher 6 1 1
+cater 2 5 0
+along 3 5 1
+cloth 1 7 0

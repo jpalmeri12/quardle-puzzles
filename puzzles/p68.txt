@@ -1,0 +1,5 @@
+7 10
+dicey 4 1 1
+payer 2 5 0
+annul 3 5 1
+belly 1 9 0

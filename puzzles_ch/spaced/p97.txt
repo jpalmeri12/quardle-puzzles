@@ -1,0 +1,5 @@
+7 9 spaced
+elbow 2 1 1
+focus 1 4 0
+squib 5 4 1
+vapid 2 7 0

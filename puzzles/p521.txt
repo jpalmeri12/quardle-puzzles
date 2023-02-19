@@ -1,0 +1,5 @@
+7 9
+forgo 1 1 0
+outgo 5 1 1
+quoth 2 4 1
+union 2 5 0

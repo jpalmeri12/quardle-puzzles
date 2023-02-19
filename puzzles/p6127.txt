@@ -1,0 +1,5 @@
+7 10
+churn 1 1 1
+niche 1 5 0
+howdy 4 5 1
+video 2 8 0

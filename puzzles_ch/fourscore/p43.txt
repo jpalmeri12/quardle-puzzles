@@ -1,0 +1,5 @@
+7 9 fourscore
+elate 4 1 1
+filth 2 2 0
+amuse 1 4 1
+model 1 5 0

@@ -1,0 +1,5 @@
+6 10
+hardy 5 1 1
+goody 1 5 0
+opine 2 5 1
+angel 1 8 0

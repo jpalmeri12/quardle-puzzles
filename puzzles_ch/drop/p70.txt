@@ -1,0 +1,6 @@
+7 12 drop
+psalm 2 1 0
+leave 5 1 1
+stale 1 5 0
+shuck 1 5 1
+slush 1 11 0

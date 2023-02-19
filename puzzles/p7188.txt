@@ -1,0 +1,5 @@
+7 9
+risen 2 1 1
+rogue 2 1 0
+gruff 4 4 1
+inert 1 5 0

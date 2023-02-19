@@ -1,0 +1,5 @@
+7 10 spin
+threw 3 1 1
+swell 2 5 0
+leafy 5 5 1
+larva 1 7 0

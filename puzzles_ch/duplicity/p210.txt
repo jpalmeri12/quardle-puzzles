@@ -1,0 +1,5 @@
+7 9 duplicity
+shape 5 1 1
+equip 1 4 0
+quasi 2 4 1
+sheep 2 7 0

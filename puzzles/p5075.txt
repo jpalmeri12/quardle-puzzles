@@ -1,0 +1,5 @@
+7 10
+photo 3 1 1
+foray 2 3 0
+goody 1 5 0
+decay 4 5 1

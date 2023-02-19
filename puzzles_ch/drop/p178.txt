@@ -1,0 +1,6 @@
+6 9 drop
+heard 5 1 1
+usage 1 2 0
+shorn 2 2 1
+grand 1 5 0
+sound 1 8 0

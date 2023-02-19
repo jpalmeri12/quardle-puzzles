@@ -1,0 +1,6 @@
+6 9 island
+mammy 4 1 1
+roomy 1 4 0
+razor 1 4 1
+olive 1 7 0
+!island 111 1111 211 311

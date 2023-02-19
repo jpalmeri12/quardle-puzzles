@@ -1,0 +1,5 @@
+6 9 buyavowel
+lefty 1 1 1
+truss 1 4 0
+undid 3 4 1
+unify 1 7 0

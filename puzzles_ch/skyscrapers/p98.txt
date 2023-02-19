@@ -1,0 +1,5 @@
+7 9 skyscrapers
+wench 2 7 0
+vixen 3 4 1
+civic 1 4 0
+chick 5 1 1

@@ -1,0 +1,5 @@
+7 8 outoforder
+odder 1 1 0
+regal 5 1 1
+bough 2 3 0
+belly 2 3 1

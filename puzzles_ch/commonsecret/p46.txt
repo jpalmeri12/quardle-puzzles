@@ -1,0 +1,6 @@
+7 7 commonsecret
+macaw 2 1 1
+waist 1 2 0
+swash 4 2 1
+wispy 2 5 0
+!secret w

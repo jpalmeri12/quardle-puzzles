@@ -1,0 +1,6 @@
+7 10 five
+voter 2 1 0
+erupt 5 1 1
+warty 2 5 0
+again 3 5 1
+annex 1 9 0

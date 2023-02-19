@@ -1,0 +1,5 @@
+7 10
+stork 2 1 1
+knave 2 5 0
+villa 5 5 1
+libel 1 7 0

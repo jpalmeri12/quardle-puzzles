@@ -1,0 +1,5 @@
+7 9
+robot 5 1 1
+patio 1 4 0
+today 3 4 1
+gypsy 2 8 0

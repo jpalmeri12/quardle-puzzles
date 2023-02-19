@@ -1,0 +1,6 @@
+7 10 five
+purge 1 1 1
+awash 5 3 1
+extra 1 5 0
+trawl 3 5 1
+bathe 2 7 0

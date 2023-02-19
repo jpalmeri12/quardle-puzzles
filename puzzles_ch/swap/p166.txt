@@ -1,0 +1,5 @@
+7 10 swap
+eavde 5 1 1
+owken 2 5 0
+kniky 4 5 1
+uqake 1 8 0

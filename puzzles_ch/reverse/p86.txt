@@ -1,0 +1,5 @@
+7 9 reverse
+yrter 1 1 1
+otsug 3 4 1
+ratio 1 5 0
+hussy 2 7 0

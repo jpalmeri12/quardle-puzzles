@@ -1,0 +1,6 @@
+7 10 wordcolumn
+peace 1 1 1
+occur 3 4 1
+excel 1 5 0
+lupus 5 5 1
+argue 2 8 0

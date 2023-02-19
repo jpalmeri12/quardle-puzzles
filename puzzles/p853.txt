@@ -1,0 +1,5 @@
+7 9
+cameo 6 1 1
+place 2 4 0
+leafy 3 4 1
+trawl 1 6 0

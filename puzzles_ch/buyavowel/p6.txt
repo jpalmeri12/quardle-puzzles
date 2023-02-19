@@ -1,0 +1,5 @@
+7 8 buyavowel
+rajah 2 1 1
+retry 5 3 1
+haste 2 5 0
+harpy 1 7 0

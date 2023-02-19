@@ -1,0 +1,9 @@
+6 9 spellbound
+snipe 1 1 0
+penal 4 1 1
+pagan 1 4 0
+alien 2 4 1
+!spellbound 0 1 0
+!spellbound 1 4 2
+!spellbound 2 4 2
+!spellbound 3 3 1

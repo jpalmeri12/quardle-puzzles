@@ -1,0 +1,5 @@
+7 9 bestfit
+jumbo 2 1 1
+tutor 1 2 0
+balmy 2 4 0
+youth 6 4 1

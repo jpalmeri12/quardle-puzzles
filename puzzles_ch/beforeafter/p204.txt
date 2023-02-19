@@ -1,0 +1,9 @@
+7 8 beforeafter
+debut 1 1 1
+banjo 1 3 0
+jazzy 4 3 1
+dizzy 2 6 0
+!beforeafter 2 r
+!beforeafter 1 i
+!beforeafter 1 p
+!beforeafter 1 o

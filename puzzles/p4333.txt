@@ -1,0 +1,5 @@
+7 7
+fauna 4 1 1
+mulch 2 2 1
+augur 1 3 0
+chant 2 5 0

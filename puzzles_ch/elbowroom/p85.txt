@@ -1,0 +1,5 @@
+7 10 elbowroom
+learn 3 1 1
+maxim 2 3 0
+sonic 1 5 0
+input 4 5 1

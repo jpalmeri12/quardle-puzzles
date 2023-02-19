@@ -1,0 +1,5 @@
+7 7 scrabble
+labor 2 2 0
+truly 6 1 1
+brick 4 2 1
+wacky 1 6 0

@@ -1,0 +1,5 @@
+7 8
+woven 4 1 1
+pivot 1 2 0
+organ 6 3 1
+shear 2 4 0

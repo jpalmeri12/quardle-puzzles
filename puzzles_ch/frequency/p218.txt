@@ -1,0 +1,5 @@
+7 7 frequency
+lapse 2 1 1
+coast 5 2 1
+prior 2 3 0
+rebus 1 5 0

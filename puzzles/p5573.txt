@@ -1,0 +1,5 @@
+7 9
+cheat 6 1 1
+prank 3 4 1
+crust 2 5 0
+boney 1 7 0

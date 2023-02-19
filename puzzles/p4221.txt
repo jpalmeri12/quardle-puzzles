@@ -1,0 +1,5 @@
+7 7
+saute 4 1 1
+spear 1 2 0
+prank 2 2 1
+actor 2 4 0

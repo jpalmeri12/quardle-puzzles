@@ -1,0 +1,5 @@
+7 10 hardmode
+audio 2 1 1
+ionic 1 5 0
+chalk 5 5 1
+idyll 2 8 0

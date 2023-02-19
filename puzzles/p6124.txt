@@ -1,0 +1,5 @@
+7 10
+llama 1 1 0
+affix 3 1 1
+axiom 2 5 0
+irony 4 5 1

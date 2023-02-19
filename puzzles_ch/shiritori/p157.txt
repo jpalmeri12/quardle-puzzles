@@ -1,0 +1,5 @@
+7 9 shiritori
+gamma 4 1 1
+thumb 1 3 0
+fetid 6 4 1
+glare 2 5 0

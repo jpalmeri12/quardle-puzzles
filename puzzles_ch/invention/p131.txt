@@ -1,0 +1,5 @@
+7 8 invention
+hotel 5 1 1
+tight 1 3 0
+gloss 3 3 1
+could 2 5 0

@@ -1,0 +1,6 @@
+6 9 undercover
+utter 2 1 1
+stank 1 2 0
+niece 4 2 1
+crock 1 5 0
+glyph 1 8 0

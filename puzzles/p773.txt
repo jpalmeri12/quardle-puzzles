@@ -1,0 +1,5 @@
+7 9
+wispy 1 1 1
+pause 1 4 0
+unite 3 4 1
+tenet 2 8 0

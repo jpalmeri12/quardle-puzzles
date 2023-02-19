@@ -1,0 +1,5 @@
+7 8
+brand 1 1 0
+assay 3 1 1
+psalm 2 3 0
+moody 6 3 1

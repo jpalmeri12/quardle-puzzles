@@ -1,0 +1,5 @@
+7 10 invention
+spare 2 1 1
+embed 2 5 0
+major 3 5 1
+front 1 8 0

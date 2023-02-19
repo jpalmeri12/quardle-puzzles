@@ -1,0 +1,5 @@
+7 10 reverse
+twirl 2 1 1
+tardy 2 1 0
+aliov 1 5 0
+isauq 3 5 1

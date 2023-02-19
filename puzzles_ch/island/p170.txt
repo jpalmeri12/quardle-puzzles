@@ -1,0 +1,6 @@
+7 10 island
+junta 4 1 1
+grate 2 5 0
+guppy 2 5 1
+spilt 1 8 0
+!island 311 41 31 2111

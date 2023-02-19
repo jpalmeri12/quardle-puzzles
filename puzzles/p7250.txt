@@ -1,0 +1,5 @@
+6 7
+fanny 5 1 1
+plaza 1 2 0
+adept 3 2 1
+tipsy 1 5 0

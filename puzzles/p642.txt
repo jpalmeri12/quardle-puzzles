@@ -1,0 +1,5 @@
+6 9
+stilt 2 1 1
+stuck 1 2 0
+seven 5 4 1
+stove 1 5 0

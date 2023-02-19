@@ -1,0 +1,6 @@
+6 10 wordcolumn
+altar 5 1 1
+scuba 1 2 1
+snarl 1 2 0
+bluer 1 5 0
+untie 3 5 1

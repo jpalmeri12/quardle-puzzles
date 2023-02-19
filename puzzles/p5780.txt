@@ -1,0 +1,5 @@
+6 8
+stark 1 1 0
+knife 5 1 1
+throb 2 3 1
+wharf 1 4 0

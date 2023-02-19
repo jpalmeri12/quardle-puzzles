@@ -1,0 +1,5 @@
+6 9 hardmode
+fritz 4 1 1
+weary 1 2 0
+spicy 1 4 1
+plaza 1 5 0

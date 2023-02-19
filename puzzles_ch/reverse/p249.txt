@@ -1,0 +1,5 @@
+7 10 reverse
+dworc 4 1 1
+frock 1 5 0
+rough 2 5 1
+uoyab 2 7 0

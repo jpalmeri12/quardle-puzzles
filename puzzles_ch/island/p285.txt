@@ -1,0 +1,6 @@
+7 10 island
+class 4 1 1
+close 1 5 0
+leper 2 5 1
+poker 2 7 0
+!island 211 221 22 32

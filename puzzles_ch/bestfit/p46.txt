@@ -1,0 +1,5 @@
+6 6 bestfit
+nurse 1 1 1
+cream 5 1 1
+ulcer 1 2 0
+scuba 1 4 0

@@ -1,0 +1,5 @@
+7 8
+mangy 5 1 1
+crone 2 3 0
+chant 2 3 1
+tally 1 5 0

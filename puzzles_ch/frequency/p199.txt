@@ -1,0 +1,5 @@
+7 8 frequency
+greet 6 1 1
+abuse 2 3 0
+bread 3 3 1
+knack 1 6 0

@@ -1,0 +1,5 @@
+7 10 soundscramble
+quase 5 1 1
+drued 2 5 0
+riarm 3 5 1
+slavi 1 7 0

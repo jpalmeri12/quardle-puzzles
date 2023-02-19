@@ -1,0 +1,5 @@
+7 10 spaced
+crave 5 1 1
+taper 2 5 0
+panic 4 5 1
+snail 1 8 0

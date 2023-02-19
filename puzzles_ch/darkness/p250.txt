@@ -1,0 +1,5 @@
+7 8 darkness
+sense 4 3 1
+thief 1 7 0
+fatty 6 1 1
+bleat 2 4 0

@@ -1,0 +1,5 @@
+7 9 shiritori
+oxide 5 1 1
+gland 1 4 0
+acute 3 4 1
+meter 2 8 0

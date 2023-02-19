@@ -1,0 +1,5 @@
+7 9
+pinto 1 1 1
+trace 1 4 0
+eerie 5 4 1
+rapid 2 7 0

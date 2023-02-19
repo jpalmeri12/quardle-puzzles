@@ -1,0 +1,7 @@
+6 12 secretdistance
+foist 1 1 1
+throb 1 5 0
+rebel 3 5 1
+debug 1 7 0
+wispy 1 11 0
+!sdpos 0 1 1 3

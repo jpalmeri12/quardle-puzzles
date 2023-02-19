@@ -1,0 +1,5 @@
+7 9
+retro 3 1 1
+exert 1 2 0
+erase 2 4 0
+smash 5 4 1

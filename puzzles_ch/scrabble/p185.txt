@@ -1,0 +1,5 @@
+7 9 scrabble
+dingo 4 4 1
+cider 2 4 0
+hinge 1 7 0
+notch 2 1 1

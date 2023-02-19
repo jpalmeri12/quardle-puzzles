@@ -1,0 +1,5 @@
+7 9 beta
+armor 1 1 0
+melon 3 1 1
+focal 2 4 0
+ledge 6 4 1

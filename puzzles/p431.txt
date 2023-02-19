@@ -1,0 +1,5 @@
+7 10
+tally 2 1 1
+amity 2 2 0
+myrrh 1 5 0
+hussy 5 5 1

@@ -1,0 +1,5 @@
+7 10 soundscramble
+odare 3 1 1
+fetus 2 5 0
+ficus 2 5 1
+aceon 1 7 0

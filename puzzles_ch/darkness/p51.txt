@@ -1,0 +1,5 @@
+7 8 darkness
+asset 2 1 0
+lasso 1 4 0
+slush 3 1 1
+clash 1 3 1

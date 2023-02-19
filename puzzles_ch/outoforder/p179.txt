@@ -1,0 +1,5 @@
+7 9 outoforder
+fixer 5 1 1
+mambo 2 4 1
+azure 2 5 0
+obese 1 7 0

@@ -1,0 +1,5 @@
+6 8 soundscramble
+wreck 1 1 0
+rogua 2 1 1
+virel 5 3 1
+matar 1 5 0

@@ -1,0 +1,5 @@
+7 10 beta
+board 2 1 1
+tatty 1 3 0
+decoy 2 5 0
+orbit 5 5 1

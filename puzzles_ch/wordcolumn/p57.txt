@@ -1,0 +1,6 @@
+7 10 wordcolumn
+torus 2 1 1
+rigor 5 1 1
+store 2 5 0
+towel 3 5 1
+fiery 1 8 0

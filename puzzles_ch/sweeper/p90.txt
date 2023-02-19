@@ -1,0 +1,5 @@
+7 10 sweeper
+rower 3 1 1
+chose 1 2 0
+drank 2 5 0
+kneed 6 5 1

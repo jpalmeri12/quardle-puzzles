@@ -1,0 +1,6 @@
+7 10 wordcolumn
+rebel 3 1 1
+scent 1 2 0
+tramp 5 2 1
+climb 2 5 0
+caper 2 5 1

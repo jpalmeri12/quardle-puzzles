@@ -1,0 +1,5 @@
+7 7 soundscramble
+slyly 6 1 1
+clovi 4 2 1
+felly 2 3 0
+sheid 1 6 0

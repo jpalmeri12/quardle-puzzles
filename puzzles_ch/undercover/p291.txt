@@ -1,0 +1,6 @@
+7 9 undercover
+oaken 5 1 1
+nerve 3 2 1
+creek 1 3 0
+event 2 5 0
+shush 1 8 0

@@ -1,0 +1,5 @@
+7 7
+tidal 4 1 1
+chime 2 2 1
+hedge 2 3 0
+smelt 1 5 0

@@ -1,0 +1,5 @@
+7 9
+worse 1 1 1
+grace 4 4 1
+entry 1 5 0
+dicey 2 7 0

@@ -1,0 +1,5 @@
+7 9 invention
+motif 4 1 1
+shoot 1 2 0
+guise 2 4 0
+gloom 2 4 1

@@ -1,0 +1,6 @@
+7 9 commonsecret
+delta 3 1 1
+stern 1 2 0
+stony 2 4 0
+ninth 5 4 1
+!secret t

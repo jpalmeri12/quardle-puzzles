@@ -1,0 +1,5 @@
+7 8 buyavowel
+rouse 2 1 0
+spore 5 1 1
+lynch 3 3 1
+gayer 1 4 0

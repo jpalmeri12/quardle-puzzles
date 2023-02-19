@@ -1,0 +1,5 @@
+7 8
+gorge 6 1 1
+bible 4 3 1
+aging 2 4 0
+ester 1 7 0

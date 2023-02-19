@@ -1,0 +1,5 @@
+7 10 shiritori
+wrung 5 1 1
+debug 1 5 0
+blend 3 5 1
+beset 2 7 0

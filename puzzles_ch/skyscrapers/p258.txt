@@ -1,0 +1,5 @@
+7 10 skyscrapers
+whose 1 5 0
+slung 4 5 1
+eight 2 9 0
+girth 2 1 1

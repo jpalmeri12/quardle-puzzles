@@ -1,0 +1,5 @@
+6 7 scrabble
+augur 1 2 0
+unity 2 2 1
+wince 1 4 0
+quack 4 1 1

@@ -1,0 +1,6 @@
+7 10 five
+shown 2 1 1
+pooch 5 2 1
+onion 2 3 0
+antic 1 5 0
+aloft 1 5 1

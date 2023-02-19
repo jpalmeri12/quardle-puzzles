@@ -1,0 +1,5 @@
+7 10 desync
+taboo 1 1 1
+onset 1 5 0
+tilde 5 5 1
+droll 2 7 0

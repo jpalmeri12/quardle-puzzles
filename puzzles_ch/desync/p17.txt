@@ -1,0 +1,5 @@
+7 8 desync
+gamma 2 1 0
+gruel 2 1 1
+outer 1 3 0
+eager 4 3 1

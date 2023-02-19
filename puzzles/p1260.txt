@@ -1,0 +1,5 @@
+7 9
+cease 5 1 1
+miser 2 2 0
+rebus 1 4 0
+envoy 2 4 1

@@ -1,0 +1,5 @@
+7 8
+truck 3 1 1
+radar 5 3 1
+mocha 1 4 0
+shard 2 7 0

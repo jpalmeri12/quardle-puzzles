@@ -1,0 +1,5 @@
+7 9 spaced
+ripen 2 1 0
+paler 4 1 1
+ashen 1 4 0
+sauce 2 4 1

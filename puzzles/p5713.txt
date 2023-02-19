@@ -1,0 +1,5 @@
+7 7
+mogul 1 1 0
+organ 2 1 1
+halve 6 2 1
+guava 2 3 0

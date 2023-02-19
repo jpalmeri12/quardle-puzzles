@@ -1,0 +1,5 @@
+7 9 frequency
+adopt 2 1 0
+polyp 5 1 1
+delay 1 4 1
+deity 1 4 0

@@ -1,0 +1,5 @@
+7 9 clockdown
+tenet 4 1 1
+sleep 2 2 0
+class 2 4 1
+sloth 1 5 0

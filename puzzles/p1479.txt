@@ -1,0 +1,5 @@
+7 9
+allay 2 1 1
+slush 1 2 0
+askew 2 4 0
+white 6 4 1

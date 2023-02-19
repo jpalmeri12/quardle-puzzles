@@ -1,0 +1,5 @@
+7 10
+parry 2 1 1
+tying 1 5 0
+grill 5 5 1
+smelt 2 9 0

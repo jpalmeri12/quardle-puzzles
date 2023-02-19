@@ -1,0 +1,5 @@
+7 9 elbowroom
+fetch 1 1 0
+ethos 2 1 1
+known 5 4 1
+sling 2 5 0

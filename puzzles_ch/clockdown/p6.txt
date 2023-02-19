@@ -1,0 +1,5 @@
+7 9 clockdown
+avian 5 1 1
+solve 2 2 0
+hover 1 4 1
+organ 1 5 0

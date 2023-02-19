@@ -1,0 +1,5 @@
+7 10
+epoch 3 1 1
+wound 2 3 0
+ashen 1 5 0
+newly 5 5 1

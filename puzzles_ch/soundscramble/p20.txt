@@ -1,0 +1,5 @@
+6 8 soundscramble
+gaess 1 1 1
+guaze 1 1 0
+uwuit 3 3 1
+sture 1 5 0

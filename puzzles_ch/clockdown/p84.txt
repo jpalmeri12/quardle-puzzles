@@ -1,0 +1,5 @@
+7 8 clockdown
+coyly 6 1 1
+tardy 2 3 0
+antic 3 3 1
+ascot 1 7 0

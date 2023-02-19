@@ -1,0 +1,6 @@
+7 10 five
+teeth 1 1 1
+heavy 1 5 0
+allot 3 5 1
+yeast 5 5 1
+state 2 9 0

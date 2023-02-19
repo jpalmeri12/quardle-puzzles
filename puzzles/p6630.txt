@@ -1,0 +1,5 @@
+7 10
+elect 3 1 1
+sling 2 2 0
+entry 1 5 0
+repay 4 5 1

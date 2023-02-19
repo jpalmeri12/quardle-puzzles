@@ -1,0 +1,5 @@
+7 7 frequency
+birth 6 1 1
+flack 2 2 1
+abort 2 4 0
+skier 1 6 0

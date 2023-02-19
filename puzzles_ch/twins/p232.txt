@@ -1,0 +1,8 @@
+6 8 twins
+flint 1 1 0
+fanny 1 3 0
+tithe 1 5 0
+rival 1 7 0
+!twins 0 3
+!twins 2 3
+!twins 0 2

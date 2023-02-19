@@ -1,0 +1,5 @@
+7 10 buyavowel
+climb 1 1 1
+badge 1 5 0
+decal 3 5 1
+pagan 2 8 0

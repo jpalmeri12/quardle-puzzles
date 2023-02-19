@@ -1,0 +1,5 @@
+7 9
+emcee 5 1 1
+humid 3 4 1
+outer 2 5 0
+guise 1 7 0

@@ -1,0 +1,5 @@
+6 9 duplicity
+cater 5 1 1
+argue 1 4 0
+acute 1 4 1
+egret 1 8 0

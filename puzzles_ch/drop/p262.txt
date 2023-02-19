@@ -1,0 +1,6 @@
+7 11 drop
+cable 3 1 1
+haute 2 2 0
+growl 5 4 1
+shear 1 5 0
+lurch 1 10 0

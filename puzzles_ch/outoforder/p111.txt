@@ -1,0 +1,5 @@
+7 7 outoforder
+beady 6 1 1
+seven 4 2 1
+livid 2 4 0
+tying 1 6 0

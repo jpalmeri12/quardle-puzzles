@@ -1,0 +1,7 @@
+6 11 secretdistance
+diner 3 1 1
+abbot 1 4 1
+birth 1 5 0
+trawl 1 8 0
+eject 1 10 0
+!sdpos 0 3 2 1

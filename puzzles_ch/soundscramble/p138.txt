@@ -1,0 +1,5 @@
+7 10 soundscramble
+mecho 1 1 0
+oveta 5 1 1
+purar 2 5 0
+until 3 5 1

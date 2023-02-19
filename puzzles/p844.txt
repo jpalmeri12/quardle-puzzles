@@ -1,0 +1,5 @@
+7 9
+sloth 5 1 1
+topic 3 4 1
+tooth 1 5 0
+viola 2 7 0

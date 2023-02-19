@@ -1,0 +1,5 @@
+7 9
+splat 1 1 1
+belle 4 4 1
+tweed 1 5 0
+ocean 2 8 0

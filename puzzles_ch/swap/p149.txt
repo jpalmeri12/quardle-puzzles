@@ -1,0 +1,5 @@
+7 10 swap
+lathc 2 1 1
+chukn 2 5 0
+ksunk 5 5 1
+smrik 1 9 0

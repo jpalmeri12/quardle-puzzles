@@ -1,0 +1,5 @@
+7 10
+ratio 1 1 1
+opine 1 5 0
+inlay 3 5 1
+racer 2 8 0

@@ -1,0 +1,6 @@
+6 8 island
+betel 1 1 1
+booby 1 1 0
+torch 1 3 0
+heart 5 3 1
+!island 1111 111 2111 311

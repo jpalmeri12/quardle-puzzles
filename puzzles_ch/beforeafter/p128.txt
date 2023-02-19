@@ -1,0 +1,9 @@
+7 10 beforeafter
+chess 4 1 1
+preen 2 3 0
+chasm 1 5 0
+mossy 5 5 1
+!beforeafter 2 q
+!beforeafter 1 o
+!beforeafter 2 k
+!beforeafter 1 r

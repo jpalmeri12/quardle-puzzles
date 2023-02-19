@@ -1,0 +1,5 @@
+7 9 bestfit
+cacti 5 1 1
+afoot 2 4 1
+flail 2 5 0
+cough 1 7 0

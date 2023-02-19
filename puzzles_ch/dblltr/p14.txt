@@ -1,0 +1,5 @@
+7 10 dblltr
+libel 4 1 1
+rabbi 1 3 0
+dolly 2 5 0
+dross 2 5 1

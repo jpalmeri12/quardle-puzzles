@@ -1,0 +1,5 @@
+7 10
+cheap 1 1 0
+heave 2 1 1
+eject 2 5 0
+jumbo 3 5 1

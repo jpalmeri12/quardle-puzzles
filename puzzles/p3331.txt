@@ -1,0 +1,5 @@
+7 10
+tight 2 1 0
+groan 4 1 1
+drunk 1 5 0
+dandy 1 5 1

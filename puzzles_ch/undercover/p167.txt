@@ -1,0 +1,6 @@
+6 10 undercover
+align 4 1 1
+spent 2 3 1
+meant 1 5 0
+stray 1 7 0
+chock 1 9 0

@@ -1,0 +1,6 @@
+6 8 squaredance
+spied 1 1 1
+enact 5 1 1
+slave 1 1 0
+draft 1 5 0
+helix 1 7 0

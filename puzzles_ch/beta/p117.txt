@@ -1,0 +1,5 @@
+7 9 beta
+stunt 5 1 1
+yacht 1 2 0
+funny 2 4 0
+fancy 2 4 1

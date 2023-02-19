@@ -1,0 +1,6 @@
+7 9 island
+freer 6 1 1
+floss 4 4 1
+polar 2 5 0
+house 1 7 0
+!island 3 211 311 221

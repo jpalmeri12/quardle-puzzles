@@ -1,0 +1,5 @@
+6 9 fourscore
+harem 1 1 1
+steer 5 4 1
+midst 1 5 0
+eager 1 8 0

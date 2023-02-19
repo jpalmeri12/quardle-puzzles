@@ -1,0 +1,9 @@
+7 10 spellbound
+drool 5 1 1
+azure 2 2 0
+quell 1 5 0
+ether 3 5 1
+!spellbound 0 2 3
+!spellbound 1 0 2
+!spellbound 2 0 1
+!spellbound 3 4 3

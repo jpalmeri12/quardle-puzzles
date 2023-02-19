@@ -1,0 +1,6 @@
+7 8 island
+torus 2 1 1
+nylon 4 3 1
+silly 2 5 0
+slung 1 7 0
+!island 2111 211 1111 11111

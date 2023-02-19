@@ -1,0 +1,9 @@
+7 10 spellbound
+bayou 5 1 1
+petty 1 3 0
+snout 2 5 0
+nomad 3 5 1
+!spellbound 0 0 1
+!spellbound 1 2 3
+!spellbound 2 2 0
+!spellbound 3 3 2

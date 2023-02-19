@@ -1,0 +1,5 @@
+6 8 swap
+savlo 5 1 1
+dgiit 3 3 1
+mciro 1 5 0
+smtih 1 7 0

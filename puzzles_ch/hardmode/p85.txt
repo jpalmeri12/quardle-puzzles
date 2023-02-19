@@ -1,0 +1,5 @@
+7 10 hardmode
+visor 4 1 1
+which 2 2 0
+chart 1 5 0
+torch 5 5 1

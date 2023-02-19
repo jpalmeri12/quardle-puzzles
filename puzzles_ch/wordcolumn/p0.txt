@@ -1,0 +1,6 @@
+6 10 wordcolumn
+parka 2 1 1
+crisp 4 4 1
+fairy 1 5 0
+forte 1 5 1
+reuse 1 7 0

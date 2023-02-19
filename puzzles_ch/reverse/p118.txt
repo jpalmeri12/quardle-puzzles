@@ -1,0 +1,5 @@
+7 10 reverse
+silky 2 1 1
+hydro 1 5 0
+odnoc 5 5 1
+kaens 2 7 0

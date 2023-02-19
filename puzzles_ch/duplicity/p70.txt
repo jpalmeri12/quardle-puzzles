@@ -1,0 +1,5 @@
+7 10 duplicity
+dread 4 1 1
+smear 2 3 0
+slide 1 5 0
+email 5 5 1

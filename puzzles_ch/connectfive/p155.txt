@@ -1,0 +1,6 @@
+6 10 connectfive
+taffy 5 1 1
+doubt 3 4 1
+woody 1 5 0
+watch 1 5 1
+tuber 1 7 0

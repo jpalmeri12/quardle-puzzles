@@ -1,0 +1,5 @@
+7 9 swap
+nkeel 1 1 1
+pruee 3 4 1
+loryr 1 5 0
+nedry 2 7 0

@@ -1,0 +1,5 @@
+7 7 outoforder
+speed 6 1 1
+ovate 3 2 1
+evade 2 3 0
+sweat 1 6 0

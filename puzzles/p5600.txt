@@ -1,0 +1,5 @@
+7 10
+purer 2 1 1
+arbor 1 3 0
+rinse 2 5 0
+slyly 5 5 1

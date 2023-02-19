@@ -1,0 +1,5 @@
+7 9 reverse
+whine 4 1 1
+rehsu 2 2 0
+under 1 4 1
+nurer 1 5 0

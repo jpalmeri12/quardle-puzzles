@@ -1,0 +1,5 @@
+6 10
+stung 2 1 1
+agora 1 5 0
+ruddy 4 5 1
+glide 1 7 0

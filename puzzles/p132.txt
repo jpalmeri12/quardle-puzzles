@@ -1,0 +1,5 @@
+7 10
+plump 4 1 1
+silly 2 2 0
+erupt 1 5 0
+rivet 2 5 1

@@ -1,0 +1,5 @@
+7 8 frequency
+pupal 2 1 1
+punch 2 1 0
+laden 5 3 1
+plaid 1 5 0

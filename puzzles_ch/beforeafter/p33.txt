@@ -1,0 +1,9 @@
+6 6 beforeafter
+stuff 1 1 0
+troll 2 1 1
+fairy 4 1 1
+alert 1 4 0
+!beforeafter 2 p
+!beforeafter 1 q
+!beforeafter 2 j
+!beforeafter 2 q

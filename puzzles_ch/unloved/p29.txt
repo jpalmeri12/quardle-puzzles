@@ -1,0 +1,5 @@
+6 6 unloved
+dowdy 1 1 0
+dumpy 1 1 1
+welch 3 1 1
+picky 1 4 0

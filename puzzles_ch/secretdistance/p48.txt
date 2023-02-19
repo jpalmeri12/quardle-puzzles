@@ -1,0 +1,7 @@
+7 9 secretdistance
+drink 1 1 0
+right 2 1 1
+bongo 6 2 1
+human 2 4 0
+inane 1 8 0
+!sdpos 2 0 0 0

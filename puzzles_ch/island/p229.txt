@@ -1,0 +1,6 @@
+7 10 island
+cacti 3 1 1
+vista 2 5 0
+sieve 4 5 1
+dryer 1 7 0
+!island 1111 2111 211 31

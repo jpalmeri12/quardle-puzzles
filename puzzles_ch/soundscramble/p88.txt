@@ -1,0 +1,5 @@
+7 10 soundscramble
+rolic 4 1 1
+effor 1 2 0
+dicoy 2 5 0
+ireny 3 5 1

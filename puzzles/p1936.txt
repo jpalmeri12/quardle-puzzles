@@ -1,0 +1,5 @@
+7 8
+assay 1 1 1
+spice 3 3 1
+amply 1 4 0
+feast 2 7 0

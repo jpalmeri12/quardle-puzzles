@@ -1,0 +1,5 @@
+6 10
+valet 1 1 1
+tuber 1 5 0
+enact 4 5 1
+dance 1 8 0

@@ -1,0 +1,7 @@
+6 10 secretdistance
+cameo 4 1 1
+slant 2 3 1
+salon 1 5 0
+stein 1 7 0
+bloke 1 9 0
+!sdpos 3 3 2 2

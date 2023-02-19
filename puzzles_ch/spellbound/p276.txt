@@ -1,0 +1,9 @@
+7 9 spellbound
+brave 3 1 1
+ivory 2 4 0
+rhyme 5 4 1
+siege 1 8 0
+!spellbound 0 1 2
+!spellbound 1 0 2
+!spellbound 2 1 3
+!spellbound 3 1 0

@@ -1,0 +1,5 @@
+7 8 darkness
+rebus 1 3 0
+scion 2 5 0
+dress 2 1 1
+spore 5 3 1

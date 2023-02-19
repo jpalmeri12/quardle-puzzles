@@ -1,0 +1,5 @@
+7 10
+quack 4 1 1
+polka 1 5 0
+avail 5 5 1
+tibia 2 8 0

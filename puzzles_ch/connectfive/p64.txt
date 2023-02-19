@@ -1,0 +1,6 @@
+6 9 connectfive
+smash 1 1 1
+sloth 1 1 0
+skirt 1 4 0
+inlet 3 4 1
+poesy 1 7 0

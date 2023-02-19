@@ -1,0 +1,5 @@
+7 10
+shout 4 1 1
+rehab 2 2 0
+waltz 1 5 0
+ladle 3 5 1

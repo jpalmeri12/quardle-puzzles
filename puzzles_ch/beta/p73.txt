@@ -1,0 +1,5 @@
+6 6 beta
+ridge 1 1 0
+ideal 2 1 1
+grave 4 1 1
+savvy 1 4 0

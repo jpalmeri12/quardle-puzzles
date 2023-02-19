@@ -1,0 +1,7 @@
+6 11 secretdistance
+crave 1 1 1
+valet 1 4 0
+tangy 5 4 1
+folly 1 8 0
+lunar 1 10 0
+!sdpos 1 2 1 0

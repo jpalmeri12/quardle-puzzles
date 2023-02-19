@@ -1,0 +1,5 @@
+7 8 beta
+fella 1 1 0
+liege 4 1 1
+stale 6 3 1
+digit 2 4 0

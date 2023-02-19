@@ -1,0 +1,5 @@
+7 8
+totem 2 1 1
+trump 2 3 0
+medal 5 3 1
+embed 1 5 0

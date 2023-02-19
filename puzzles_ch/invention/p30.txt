@@ -1,0 +1,5 @@
+6 6 invention
+would 1 1 0
+union 3 1 1
+dolly 5 1 1
+broil 1 4 0

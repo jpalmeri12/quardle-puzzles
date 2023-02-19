@@ -1,0 +1,6 @@
+7 9 five
+smack 2 1 0
+cough 5 1 1
+snore 1 4 1
+north 1 5 0
+elude 1 8 0

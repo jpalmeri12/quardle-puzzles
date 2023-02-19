@@ -1,0 +1,6 @@
+7 9 island
+again 5 1 1
+staid 2 4 1
+think 2 5 0
+diode 1 7 0
+!island 1111 311 221 22

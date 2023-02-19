@@ -1,0 +1,9 @@
+6 8 beforeafter
+bliss 1 1 1
+blast 1 1 0
+tonga 5 3 1
+stain 1 5 0
+!beforeafter 2 m
+!beforeafter 2 m
+!beforeafter 2 k
+!beforeafter 1 o

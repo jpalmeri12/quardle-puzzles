@@ -1,0 +1,5 @@
+6 9
+sully 1 1 0
+ulcer 2 1 1
+decal 1 4 0
+annoy 4 4 1

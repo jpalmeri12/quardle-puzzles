@@ -1,0 +1,5 @@
+7 9 buyavowel
+plump 2 1 0
+musty 5 1 1
+joint 1 4 0
+oddly 2 4 1

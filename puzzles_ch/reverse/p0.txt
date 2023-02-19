@@ -1,0 +1,5 @@
+7 9 reverse
+esrap 6 1 1
+llota 2 4 0
+ovate 4 4 1
+array 1 6 0

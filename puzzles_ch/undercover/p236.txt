@@ -1,0 +1,6 @@
+7 11 undercover
+navel 3 1 1
+guava 1 2 0
+geese 2 4 0
+eying 6 4 1
+photo 1 10 0

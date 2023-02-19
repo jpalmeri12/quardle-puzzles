@@ -1,0 +1,8 @@
+6 8 twins
+abbot 1 1 0
+cabin 1 3 0
+macho 1 5 0
+chain 1 7 0
+!twins 3 4
+!twins 2 3
+!twins 3 4

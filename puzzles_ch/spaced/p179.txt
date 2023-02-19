@@ -1,0 +1,5 @@
+6 10 spaced
+inlay 1 1 0
+nicer 2 1 1
+froth 1 5 0
+omega 3 5 1

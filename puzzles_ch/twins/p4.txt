@@ -1,0 +1,8 @@
+6 8 twins
+befit 1 1 0
+ninny 1 3 0
+mauve 1 5 0
+gauze 1 7 0
+!twins 3 4
+!twins 1 3
+!twins 1 2

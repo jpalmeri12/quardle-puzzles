@@ -1,0 +1,5 @@
+7 9
+blink 5 1 1
+zonal 1 2 0
+crone 2 4 0
+clued 2 4 1

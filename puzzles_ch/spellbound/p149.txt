@@ -1,0 +1,9 @@
+7 10 spellbound
+whelp 1 1 0
+loyal 4 1 1
+bulky 2 5 0
+basal 2 5 1
+!spellbound 0 4 1
+!spellbound 1 1 3
+!spellbound 2 1 4
+!spellbound 3 4 3

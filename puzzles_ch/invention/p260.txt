@@ -1,0 +1,5 @@
+7 10 invention
+quasi 2 1 1
+libel 1 5 0
+being 3 5 1
+unmet 2 8 0

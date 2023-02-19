@@ -1,0 +1,5 @@
+6 8 hardmode
+brass 1 1 0
+shyly 5 1 1
+lefty 1 3 0
+embed 2 3 1

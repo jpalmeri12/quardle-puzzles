@@ -1,0 +1,5 @@
+6 9
+amble 1 1 0
+evade 5 1 1
+midst 2 4 1
+piece 1 5 0

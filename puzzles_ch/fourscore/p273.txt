@@ -1,0 +1,5 @@
+7 9 fourscore
+foggy 2 1 0
+gawky 5 1 1
+chalk 1 4 0
+ashen 3 4 1

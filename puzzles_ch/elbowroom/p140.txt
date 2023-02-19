@@ -1,0 +1,5 @@
+7 9 elbowroom
+month 2 1 1
+torch 2 4 0
+ripen 4 4 1
+haunt 1 8 0

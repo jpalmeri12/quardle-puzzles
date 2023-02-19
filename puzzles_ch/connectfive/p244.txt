@@ -1,0 +1,6 @@
+7 12 connectfive
+slurp 2 1 1
+mushy 5 4 1
+pique 2 5 0
+harsh 1 7 0
+hotly 1 7 1

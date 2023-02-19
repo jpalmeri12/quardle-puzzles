@@ -1,0 +1,5 @@
+6 9
+crump 1 1 0
+palsy 5 1 1
+today 1 4 1
+oddly 1 5 0

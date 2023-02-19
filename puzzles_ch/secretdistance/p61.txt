@@ -1,0 +1,7 @@
+7 10 secretdistance
+swami 3 1 1
+sewer 1 2 0
+tryst 6 3 1
+dirty 2 5 0
+coach 1 9 0
+!sdpos 2 0 0 0

@@ -1,0 +1,9 @@
+6 10 beforeafter
+chess 1 1 0
+sushi 5 1 1
+swami 1 5 0
+agony 3 5 1
+!beforeafter 2 l
+!beforeafter 2 l
+!beforeafter 1 r
+!beforeafter 1 i

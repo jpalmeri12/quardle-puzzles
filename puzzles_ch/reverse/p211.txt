@@ -1,0 +1,5 @@
+7 9 reverse
+quail 2 1 0
+amiss 4 1 1
+lwocs 1 4 1
+weksa 1 5 0

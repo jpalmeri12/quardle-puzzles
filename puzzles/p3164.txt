@@ -1,0 +1,5 @@
+7 8
+clean 1 1 0
+elude 3 1 1
+lurch 2 3 0
+crony 5 3 1

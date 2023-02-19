@@ -1,0 +1,5 @@
+7 10 beta
+shrub 1 1 0
+bayou 5 1 1
+rebut 2 5 0
+exile 3 5 1

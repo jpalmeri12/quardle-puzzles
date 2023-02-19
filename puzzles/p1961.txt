@@ -1,0 +1,5 @@
+7 10
+revel 2 1 1
+slept 1 5 0
+elegy 3 5 1
+repay 2 7 0

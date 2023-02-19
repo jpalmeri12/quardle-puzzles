@@ -1,0 +1,5 @@
+7 9
+stare 5 1 1
+sweet 3 4 1
+tweed 2 5 0
+seedy 1 7 0

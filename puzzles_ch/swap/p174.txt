@@ -1,0 +1,5 @@
+6 8 swap
+falil 3 1 1
+belak 1 3 0
+knvae 5 3 1
+glboe 1 7 0

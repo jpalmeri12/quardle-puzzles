@@ -1,0 +1,5 @@
+7 9
+taste 2 1 1
+motor 4 4 1
+melon 1 5 0
+stove 2 7 0

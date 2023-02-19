@@ -1,0 +1,5 @@
+7 10 sweeper
+micro 6 1 1
+igloo 2 5 0
+leapt 4 5 1
+elope 1 8 0

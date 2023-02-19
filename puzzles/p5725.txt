@@ -1,0 +1,5 @@
+6 10
+blare 1 1 0
+alley 3 1 1
+gayer 1 5 0
+rusty 5 5 1

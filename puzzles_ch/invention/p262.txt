@@ -1,0 +1,5 @@
+6 9 invention
+alpha 5 1 1
+impel 1 2 0
+fetch 1 4 0
+elude 2 4 1

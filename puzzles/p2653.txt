@@ -1,0 +1,5 @@
+6 10
+depth 3 1 1
+ethos 1 5 0
+truce 2 5 1
+scrap 1 8 0

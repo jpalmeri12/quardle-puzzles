@@ -1,0 +1,5 @@
+7 10
+fella 2 1 1
+lousy 2 3 0
+badly 1 5 0
+diode 3 5 1

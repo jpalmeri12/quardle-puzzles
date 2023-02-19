@@ -1,0 +1,5 @@
+7 7
+femme 6 1 1
+thyme 2 2 0
+youth 4 2 1
+bathe 1 6 0

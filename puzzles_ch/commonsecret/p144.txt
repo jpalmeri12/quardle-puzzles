@@ -1,0 +1,6 @@
+7 8 commonsecret
+throb 1 1 0
+broil 5 1 1
+hover 2 3 1
+voila 2 5 0
+!secret o

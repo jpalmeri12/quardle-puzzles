@@ -1,0 +1,5 @@
+7 10
+speck 5 1 1
+kappa 2 2 0
+frank 1 5 0
+ample 3 5 1

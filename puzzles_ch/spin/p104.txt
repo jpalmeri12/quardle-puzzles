@@ -1,0 +1,5 @@
+7 10 spin
+alive 6 1 1
+globe 2 5 0
+optic 4 5 1
+trace 1 9 0

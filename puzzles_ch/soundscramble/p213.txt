@@ -1,0 +1,5 @@
+7 9 soundscramble
+ibhor 2 1 1
+poase 1 4 0
+spaky 4 4 1
+giyly 2 8 0

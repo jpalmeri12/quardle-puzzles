@@ -1,0 +1,6 @@
+6 12 drop
+siren 5 1 1
+login 1 5 0
+going 3 5 1
+panel 1 8 0
+align 1 11 0

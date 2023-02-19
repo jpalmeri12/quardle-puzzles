@@ -1,0 +1,7 @@
+8 8 sixbox
+arise 3 1 1
+scrap 5 1 1
+briar 1 3 0
+ahead 4 3 1
+share 3 4 0
+bleep 1 5 0

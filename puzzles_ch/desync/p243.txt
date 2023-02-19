@@ -1,0 +1,5 @@
+7 9 desync
+scare 2 1 0
+retry 5 1 1
+mafia 2 4 1
+sadly 1 5 0

@@ -1,0 +1,5 @@
+7 8 hardmode
+gayer 6 1 1
+rugby 2 3 0
+geese 4 3 1
+abyss 1 6 0

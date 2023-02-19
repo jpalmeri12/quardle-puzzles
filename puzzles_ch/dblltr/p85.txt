@@ -1,0 +1,5 @@
+6 10 dblltr
+cycle 4 1 1
+reset 1 5 0
+ether 2 5 1
+reedy 1 8 0

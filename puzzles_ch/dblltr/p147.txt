@@ -1,0 +1,5 @@
+7 7 dblltr
+gouge 2 1 1
+dodge 1 2 0
+ensue 5 2 1
+gypsy 2 4 0

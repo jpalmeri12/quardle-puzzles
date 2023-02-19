@@ -1,0 +1,5 @@
+7 9 buyavowel
+crumb 2 1 1
+tribe 1 2 0
+idyll 5 4 1
+bawdy 2 5 0

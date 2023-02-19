@@ -1,0 +1,5 @@
+7 8
+lofty 2 1 0
+labor 2 1 1
+shush 5 3 1
+cough 1 4 0

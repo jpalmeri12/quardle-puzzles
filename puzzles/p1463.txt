@@ -1,0 +1,5 @@
+7 8
+swath 3 1 1
+saner 2 3 0
+elder 5 3 1
+aphid 1 5 0

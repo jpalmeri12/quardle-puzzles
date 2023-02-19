@@ -1,0 +1,5 @@
+7 8 scrabble
+upset 1 5 0
+icing 2 3 0
+voice 4 1 1
+imply 2 3 1

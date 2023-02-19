@@ -1,0 +1,5 @@
+7 10
+clung 2 1 1
+guppy 2 5 0
+poise 4 5 1
+nurse 1 8 0

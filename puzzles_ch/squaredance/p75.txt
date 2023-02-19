@@ -1,0 +1,6 @@
+6 8 squaredance
+marsh 1 1 1
+chard 5 1 1
+manic 1 1 0
+hoard 1 5 0
+gecko 1 7 0

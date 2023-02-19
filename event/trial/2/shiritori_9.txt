@@ -1,0 +1,5 @@
+6 9 shiritori
+write 5 1 1
+upset 1 4 0
+swoon 3 4 1
+whose 1 7 0

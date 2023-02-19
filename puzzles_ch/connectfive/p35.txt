@@ -1,0 +1,6 @@
+6 10 connectfive
+sever 2 1 1
+newly 1 2 0
+lousy 4 2 1
+tryst 1 5 0
+toxic 1 5 1

@@ -1,0 +1,5 @@
+7 9 clockdown
+spied 2 1 0
+psalm 3 1 1
+allot 1 4 0
+amber 1 4 1

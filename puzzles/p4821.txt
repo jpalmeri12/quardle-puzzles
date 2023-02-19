@@ -1,0 +1,5 @@
+7 9
+ladle 3 1 1
+eager 2 2 0
+melee 1 4 0
+envoy 5 4 1

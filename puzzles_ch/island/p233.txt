@@ -1,0 +1,6 @@
+6 9 island
+vigil 3 1 1
+skimp 1 2 0
+thigh 1 4 0
+tilde 1 4 1
+!island 211 311 31 2111

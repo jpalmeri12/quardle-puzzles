@@ -1,0 +1,5 @@
+7 8 dblltr
+robot 2 1 0
+offal 3 1 1
+widow 1 3 1
+dolly 1 5 0

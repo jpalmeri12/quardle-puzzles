@@ -1,0 +1,7 @@
+6 6 fourthwall
+swath 1 1 0
+sleep 1 1 1
+eight 1 3 0
+angst 3 1 1
+pithy 1 5 0
+hotly 5 1 1

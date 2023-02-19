@@ -1,0 +1,5 @@
+7 10 darkness
+ninja 1 5 1
+navel 1 5 0
+bride 4 1 1
+throw 2 2 0

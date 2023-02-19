@@ -1,0 +1,6 @@
+7 8 commonsecret
+pinto 2 1 1
+chaos 5 3 1
+offal 2 5 0
+ethos 1 7 0
+!secret o

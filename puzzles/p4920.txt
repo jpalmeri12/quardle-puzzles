@@ -1,0 +1,5 @@
+7 9
+gland 4 1 1
+slunk 1 4 0
+liver 2 4 1
+randy 2 8 0

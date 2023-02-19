@@ -1,0 +1,5 @@
+7 7
+papal 5 1 1
+guava 1 2 0
+apnea 3 2 1
+belle 2 5 0

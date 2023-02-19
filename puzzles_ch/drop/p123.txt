@@ -1,0 +1,6 @@
+7 12 drop
+lower 2 1 0
+weave 4 1 1
+rider 1 5 0
+irate 2 5 1
+peril 1 11 0

@@ -1,0 +1,5 @@
+6 9 bestfit
+acute 2 1 1
+octet 1 2 0
+stray 1 4 0
+avert 4 4 1

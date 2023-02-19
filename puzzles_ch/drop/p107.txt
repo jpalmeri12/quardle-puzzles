@@ -1,0 +1,6 @@
+6 9 drop
+cache 4 1 1
+crook 2 2 1
+tract 1 3 0
+rodeo 1 5 0
+corer 1 8 0

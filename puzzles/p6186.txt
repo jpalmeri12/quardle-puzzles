@@ -1,0 +1,5 @@
+7 8
+purer 1 1 0
+unset 2 1 1
+shore 2 3 0
+rebel 5 3 1

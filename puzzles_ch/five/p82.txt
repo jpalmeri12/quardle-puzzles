@@ -1,0 +1,6 @@
+6 10 five
+drape 1 1 1
+rivet 1 2 0
+enema 4 2 1
+enemy 1 5 0
+ninja 2 5 1

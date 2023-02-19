@@ -1,0 +1,5 @@
+7 8 hardmode
+wacky 1 1 0
+chili 3 1 1
+digit 5 3 1
+liege 2 5 0

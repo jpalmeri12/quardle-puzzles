@@ -1,0 +1,5 @@
+7 10 spin
+modal 2 1 0
+ovate 3 1 1
+weedy 1 5 0
+drape 4 5 1

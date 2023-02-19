@@ -1,0 +1,5 @@
+6 9
+dirge 5 1 1
+sprig 1 4 0
+penny 2 4 1
+vying 1 8 0

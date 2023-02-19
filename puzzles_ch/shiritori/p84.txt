@@ -1,0 +1,5 @@
+6 8 shiritori
+trice 1 1 1
+amuse 5 3 1
+cream 1 4 0
+plume 1 7 0

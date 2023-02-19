@@ -1,0 +1,5 @@
+7 9 swap
+ablde 1 1 0
+dault 4 1 1
+leats 2 4 1
+emter 2 5 0

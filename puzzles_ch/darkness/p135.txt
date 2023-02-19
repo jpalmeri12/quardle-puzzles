@@ -1,0 +1,5 @@
+7 9 darkness
+ready 3 4 1
+tying 1 1 0
+prowl 2 4 0
+growl 5 1 1

@@ -1,0 +1,9 @@
+6 6 spellbound
+float 2 1 1
+aside 4 1 1
+slush 1 2 0
+other 1 5 0
+!spellbound 0 3 2
+!spellbound 1 2 0
+!spellbound 2 2 0
+!spellbound 3 2 4

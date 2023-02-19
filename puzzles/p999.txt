@@ -1,0 +1,5 @@
+7 10
+sworn 5 1 1
+verso 1 3 0
+owing 2 5 0
+ocean 2 5 1

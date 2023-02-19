@@ -1,0 +1,5 @@
+7 9
+sober 3 1 1
+touch 2 2 0
+creak 1 4 0
+kebab 5 4 1

@@ -1,0 +1,5 @@
+6 9 duplicity
+major 5 1 1
+juror 1 4 1
+jumbo 1 4 0
+rumba 1 8 0

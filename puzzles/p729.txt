@@ -1,0 +1,5 @@
+7 10
+pence 4 1 1
+gonad 2 3 0
+alter 1 5 0
+theme 3 5 1

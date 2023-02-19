@@ -1,0 +1,5 @@
+7 9 dblltr
+riser 6 1 1
+naval 2 4 1
+arbor 2 5 0
+alpha 1 8 0

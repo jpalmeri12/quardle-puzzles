@@ -1,0 +1,6 @@
+6 11 drop
+rebel 5 1 1
+halve 1 2 0
+stare 1 4 0
+avail 3 4 1
+blaze 1 10 0

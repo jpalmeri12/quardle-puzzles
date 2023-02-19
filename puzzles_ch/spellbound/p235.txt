@@ -1,0 +1,9 @@
+6 9 spellbound
+eclat 4 1 1
+match 2 4 1
+hasty 1 5 0
+shake 1 8 0
+!spellbound 0 3 2
+!spellbound 1 2 3
+!spellbound 2 0 2
+!spellbound 3 3 2

@@ -1,0 +1,5 @@
+7 7
+swath 5 1 1
+straw 1 2 0
+rebar 3 2 1
+abate 2 4 0

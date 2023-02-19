@@ -1,0 +1,5 @@
+6 7
+wordy 3 1 1
+crone 1 2 0
+eater 5 2 1
+midst 1 4 0

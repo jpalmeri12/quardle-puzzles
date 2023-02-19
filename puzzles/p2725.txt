@@ -1,0 +1,5 @@
+7 8
+penne 2 1 1
+plait 2 1 0
+fling 4 3 1
+knoll 1 4 0

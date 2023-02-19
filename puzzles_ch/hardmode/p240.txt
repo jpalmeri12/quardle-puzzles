@@ -1,0 +1,5 @@
+7 7 hardmode
+gawky 2 1 1
+locus 4 2 1
+whoop 2 3 0
+syrup 1 5 0

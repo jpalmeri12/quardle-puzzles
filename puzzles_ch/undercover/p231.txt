@@ -1,0 +1,6 @@
+7 11 undercover
+forty 6 1 1
+ascot 2 4 0
+skulk 3 4 1
+sauna 1 6 0
+weigh 1 10 0

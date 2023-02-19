@@ -1,0 +1,5 @@
+7 9 skyscrapers
+ninja 1 2 0
+mason 5 1 1
+amend 2 5 0
+daily 2 4 1

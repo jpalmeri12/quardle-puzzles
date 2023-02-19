@@ -1,0 +1,5 @@
+7 10 scrabble
+again 4 5 1
+racer 1 1 0
+aglow 2 1 1
+weave 2 5 0

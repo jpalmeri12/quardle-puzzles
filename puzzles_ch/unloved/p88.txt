@@ -1,0 +1,5 @@
+7 9 unloved
+alpha 2 1 1
+lobby 2 2 0
+shoot 1 4 0
+outdo 4 4 1

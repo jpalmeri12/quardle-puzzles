@@ -1,0 +1,5 @@
+6 10 assembly
+theta 1 3 1
+olden 5 3 1
+tumor 1 1 0
+erode 1 9 0

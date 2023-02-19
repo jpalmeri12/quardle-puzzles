@@ -1,0 +1,5 @@
+7 10
+joist 2 1 1
+totem 2 5 0
+exile 5 5 1
+chill 1 8 0

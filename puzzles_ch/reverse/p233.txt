@@ -1,0 +1,5 @@
+7 9 reverse
+tnaem 2 1 0
+egnar 5 1 1
+koala 1 4 0
+ascot 3 4 1

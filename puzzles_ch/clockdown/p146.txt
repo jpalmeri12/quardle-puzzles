@@ -1,0 +1,5 @@
+7 10 clockdown
+steam 4 1 1
+width 1 2 0
+humus 2 5 0
+harry 2 5 1

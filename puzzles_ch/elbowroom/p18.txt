@@ -1,0 +1,5 @@
+7 9 elbowroom
+mocha 2 1 1
+midge 2 1 0
+shame 1 4 0
+evict 5 4 1

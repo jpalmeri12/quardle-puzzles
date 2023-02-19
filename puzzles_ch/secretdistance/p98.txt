@@ -1,0 +1,7 @@
+6 11 secretdistance
+tweet 1 1 0
+tacit 5 1 1
+reign 1 4 1
+eclat 1 5 0
+begat 1 10 0
+!sdpos 0 2 2 3

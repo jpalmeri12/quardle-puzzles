@@ -1,0 +1,6 @@
+6 8 squaredance
+roger 1 1 1
+noose 5 1 1
+ripen 1 1 0
+rouse 1 5 0
+swing 1 7 0

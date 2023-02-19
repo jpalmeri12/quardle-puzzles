@@ -1,0 +1,5 @@
+7 9
+eerie 6 1 1
+swami 2 4 0
+woman 3 4 1
+conic 1 8 0

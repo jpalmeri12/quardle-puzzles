@@ -1,0 +1,5 @@
+7 10
+rouge 5 1 1
+mango 1 2 0
+matey 2 5 0
+tooth 4 5 1

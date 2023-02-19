@@ -1,0 +1,9 @@
+7 10 spellbound
+fetus 1 1 1
+shift 1 5 0
+frame 4 5 1
+humid 2 8 0
+!spellbound 0 3 2
+!spellbound 1 1 4
+!spellbound 2 2 4
+!spellbound 3 0 1

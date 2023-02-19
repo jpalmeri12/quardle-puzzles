@@ -1,0 +1,5 @@
+7 9 spaced
+plier 5 1 1
+boule 2 2 0
+ivory 3 4 1
+hover 1 5 0

@@ -1,0 +1,5 @@
+7 8
+swirl 5 1 1
+swine 2 3 1
+swear 1 4 0
+event 2 7 0

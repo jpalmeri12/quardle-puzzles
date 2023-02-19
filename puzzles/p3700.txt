@@ -1,0 +1,5 @@
+7 10
+spool 4 1 1
+realm 1 5 0
+elbow 2 5 1
+optic 2 8 0

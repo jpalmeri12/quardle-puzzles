@@ -1,0 +1,7 @@
+6 10 secretdistance
+tweak 5 1 1
+emcee 1 3 0
+close 3 3 1
+flock 1 5 0
+rocky 1 9 0
+!sdpos 0 0 3 2

@@ -1,0 +1,5 @@
+7 10 hardmode
+igloo 3 1 1
+colon 2 5 0
+lodge 4 5 1
+caddy 1 7 0

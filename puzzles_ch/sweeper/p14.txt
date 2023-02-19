@@ -1,0 +1,5 @@
+7 10 sweeper
+snake 5 1 1
+ombre 1 5 0
+maize 2 5 1
+extra 2 9 0

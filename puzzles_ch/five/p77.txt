@@ -1,0 +1,6 @@
+6 10 five
+torus 1 1 1
+stomp 4 4 1
+salty 1 5 0
+azure 2 5 1
+tripe 1 8 0

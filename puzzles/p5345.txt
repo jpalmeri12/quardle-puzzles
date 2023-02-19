@@ -1,0 +1,5 @@
+7 10
+recut 3 1 1
+scorn 2 3 0
+motor 1 5 0
+ovary 4 5 1

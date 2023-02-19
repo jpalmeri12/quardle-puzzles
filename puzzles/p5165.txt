@@ -1,0 +1,5 @@
+7 10
+lumen 6 1 1
+resin 2 5 0
+inner 5 5 1
+chain 1 7 0

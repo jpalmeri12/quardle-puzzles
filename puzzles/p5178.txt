@@ -1,0 +1,5 @@
+7 10
+scaly 2 1 1
+macro 1 3 0
+young 2 5 0
+going 6 5 1

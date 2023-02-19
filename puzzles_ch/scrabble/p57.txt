@@ -1,0 +1,5 @@
+6 9 scrabble
+retro 5 1 1
+swear 1 4 0
+scowl 1 4 1
+wreak 1 7 0

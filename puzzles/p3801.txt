@@ -1,0 +1,5 @@
+7 8
+visor 4 1 1
+digit 2 3 1
+agora 1 5 0
+taker 2 7 0

@@ -1,0 +1,5 @@
+6 10
+sauce 1 1 0
+usage 3 1 1
+clerk 1 5 0
+lupus 2 5 1

@@ -1,0 +1,5 @@
+7 10
+pride 5 1 1
+risen 2 5 0
+infer 3 5 1
+fifty 1 7 0

@@ -1,0 +1,5 @@
+6 9 shiritori
+waive 3 1 1
+spade 1 2 0
+lever 1 4 0
+rocky 5 4 1

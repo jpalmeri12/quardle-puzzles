@@ -1,0 +1,6 @@
+7 10 drop
+wheel 5 1 1
+usher 2 3 0
+steer 3 3 1
+shell 1 5 0
+swath 1 9 0

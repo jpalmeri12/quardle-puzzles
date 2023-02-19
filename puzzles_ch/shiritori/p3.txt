@@ -1,0 +1,5 @@
+7 10 shiritori
+delta 4 1 1
+snaky 2 5 0
+khaki 5 5 1
+agora 1 7 0

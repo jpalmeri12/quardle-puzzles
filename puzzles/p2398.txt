@@ -1,0 +1,5 @@
+7 10
+thorn 5 1 1
+coven 1 5 0
+elder 4 5 1
+eject 2 8 0

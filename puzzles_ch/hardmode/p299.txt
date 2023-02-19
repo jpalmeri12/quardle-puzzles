@@ -1,0 +1,5 @@
+7 10 hardmode
+clang 3 1 1
+blame 2 2 0
+mogul 1 5 0
+ulcer 4 5 1

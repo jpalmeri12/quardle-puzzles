@@ -1,0 +1,5 @@
+7 9 hardmode
+drawl 4 1 1
+covet 2 4 1
+folly 1 5 0
+error 2 7 0

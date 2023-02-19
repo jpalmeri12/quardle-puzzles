@@ -1,0 +1,5 @@
+7 9 skyscrapers
+woman 2 4 1
+doing 1 5 0
+along 5 1 1
+nasty 2 8 0

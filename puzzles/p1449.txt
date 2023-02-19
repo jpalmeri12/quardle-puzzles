@@ -1,0 +1,5 @@
+7 10
+sound 5 1 1
+snout 2 3 0
+stand 1 5 0
+awash 3 5 1

@@ -1,0 +1,5 @@
+7 8 hardmode
+locus 1 1 1
+sperm 5 3 1
+stage 1 5 0
+swami 2 7 0

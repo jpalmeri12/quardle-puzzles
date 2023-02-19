@@ -1,0 +1,6 @@
+6 11 undercover
+crane 4 1 1
+azure 1 2 0
+mangy 1 4 1
+askew 1 5 0
+booth 1 10 0

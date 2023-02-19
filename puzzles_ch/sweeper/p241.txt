@@ -1,0 +1,5 @@
+7 10 sweeper
+dodgy 6 1 1
+oddly 2 5 0
+dirty 3 5 1
+scrub 1 7 0

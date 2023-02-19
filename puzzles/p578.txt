@@ -1,0 +1,5 @@
+6 9
+repel 1 1 0
+lefty 5 1 1
+burnt 1 4 0
+ralph 3 4 1

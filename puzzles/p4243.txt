@@ -1,0 +1,5 @@
+6 6
+umbra 1 1 0
+brace 3 1 1
+adobe 5 1 1
+where 1 5 0

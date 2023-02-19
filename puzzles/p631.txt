@@ -1,0 +1,5 @@
+7 10
+dusty 3 1 1
+dying 2 5 0
+nasal 5 5 1
+chill 1 9 0

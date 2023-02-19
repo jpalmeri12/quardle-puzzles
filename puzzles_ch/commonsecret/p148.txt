@@ -1,0 +1,6 @@
+7 10 commonsecret
+scuba 2 1 1
+chest 2 2 0
+basil 1 5 0
+stall 3 5 1
+!secret s

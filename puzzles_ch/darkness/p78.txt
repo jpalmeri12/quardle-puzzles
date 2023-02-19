@@ -1,0 +1,5 @@
+7 9 darkness
+wharf 2 1 1
+gusty 1 7 0
+broth 4 4 1
+rebus 2 4 0

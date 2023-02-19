@@ -1,0 +1,5 @@
+7 10
+corer 6 1 1
+caper 2 5 0
+plead 4 5 1
+nasal 1 8 0

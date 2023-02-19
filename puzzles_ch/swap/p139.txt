@@ -1,0 +1,5 @@
+7 8 swap
+thmee 4 1 1
+sermu 1 3 0
+eftch 2 3 1
+hmuid 2 7 0

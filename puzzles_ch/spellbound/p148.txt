@@ -1,0 +1,9 @@
+7 9 spellbound
+thief 2 1 1
+leafy 1 4 0
+flash 4 4 1
+masse 2 7 0
+!spellbound 0 4 2
+!spellbound 1 0 4
+!spellbound 2 1 4
+!spellbound 3 1 0

@@ -1,0 +1,6 @@
+7 10 undercover
+ulcer 2 1 1
+basic 4 3 1
+prism 1 5 0
+mucus 2 7 0
+woozy 1 9 0

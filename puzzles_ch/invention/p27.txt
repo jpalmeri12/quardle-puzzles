@@ -1,0 +1,5 @@
+7 9 invention
+realm 4 1 1
+kneed 1 2 0
+value 2 4 0
+erect 6 4 1

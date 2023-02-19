@@ -1,0 +1,6 @@
+7 8 island
+awash 1 1 0
+whisk 2 1 1
+annul 4 3 1
+sonic 2 4 0
+!island 31 221 1111 2111

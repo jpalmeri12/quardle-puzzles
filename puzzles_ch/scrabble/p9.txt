@@ -1,0 +1,5 @@
+7 10 scrabble
+inert 3 5 1
+neigh 2 1 0
+inbox 4 1 1
+twixt 1 5 0

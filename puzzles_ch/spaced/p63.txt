@@ -1,0 +1,5 @@
+7 9 spaced
+mushy 5 1 1
+worth 1 4 0
+reign 3 4 1
+angel 2 8 0

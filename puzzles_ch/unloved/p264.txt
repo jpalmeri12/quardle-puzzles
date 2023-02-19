@@ -1,0 +1,5 @@
+7 8 unloved
+fecal 3 1 1
+showy 5 3 1
+crash 1 4 0
+polyp 2 7 0

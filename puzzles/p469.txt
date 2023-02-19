@@ -1,0 +1,5 @@
+7 10
+scout 5 1 1
+vomit 1 5 0
+ocean 2 5 1
+alley 2 8 0

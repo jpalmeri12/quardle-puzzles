@@ -1,0 +1,5 @@
+6 8
+vista 1 1 0
+among 5 1 1
+bowel 2 3 1
+owing 1 5 0

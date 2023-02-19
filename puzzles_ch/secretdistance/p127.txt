@@ -1,0 +1,7 @@
+6 12 secretdistance
+among 1 1 1
+grass 1 5 0
+scent 4 5 1
+plied 1 7 0
+tramp 1 11 0
+!sdpos 0 1 1 1

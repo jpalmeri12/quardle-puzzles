@@ -1,0 +1,5 @@
+7 7 fourscore
+spank 4 1 1
+sappy 2 2 0
+slung 2 2 1
+burnt 1 4 0

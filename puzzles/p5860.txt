@@ -1,0 +1,5 @@
+7 10
+lease 1 1 1
+endow 1 5 0
+noble 2 5 1
+basis 2 7 0

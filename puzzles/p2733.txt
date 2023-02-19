@@ -1,0 +1,5 @@
+7 10
+motif 2 1 1
+after 1 5 0
+epoxy 4 5 1
+layer 2 9 0

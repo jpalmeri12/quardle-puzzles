@@ -1,0 +1,6 @@
+6 9 drop
+vital 3 1 1
+slime 1 2 0
+serif 1 2 1
+islet 1 5 0
+title 1 8 0

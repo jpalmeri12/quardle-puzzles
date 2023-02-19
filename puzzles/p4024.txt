@@ -1,0 +1,5 @@
+7 9
+spray 6 1 1
+jelly 3 4 1
+pesky 2 5 0
+idyll 1 8 0

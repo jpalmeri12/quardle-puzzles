@@ -1,0 +1,5 @@
+7 10 darkness
+grasp 2 5 1
+habit 5 1 1
+gusty 2 5 0
+sport 1 9 0

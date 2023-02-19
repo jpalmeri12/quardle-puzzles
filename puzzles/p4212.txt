@@ -1,0 +1,5 @@
+7 10
+snake 1 1 0
+aware 3 1 1
+grant 2 5 1
+geese 2 5 0

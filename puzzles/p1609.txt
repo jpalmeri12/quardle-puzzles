@@ -1,0 +1,5 @@
+7 9
+giver 2 1 0
+erect 5 1 1
+sumac 1 4 0
+start 1 4 1

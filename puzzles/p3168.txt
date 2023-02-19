@@ -1,0 +1,5 @@
+7 8
+proud 1 1 0
+raise 2 1 1
+idiot 2 3 0
+ionic 4 3 1

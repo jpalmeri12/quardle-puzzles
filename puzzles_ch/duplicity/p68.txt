@@ -1,0 +1,5 @@
+7 9 duplicity
+belch 5 1 1
+lunar 2 4 1
+bunch 1 5 0
+arena 2 7 0

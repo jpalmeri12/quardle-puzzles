@@ -1,0 +1,5 @@
+7 8
+barge 1 1 0
+gusty 4 1 1
+easel 2 3 0
+libel 6 3 1

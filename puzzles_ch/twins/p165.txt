@@ -1,0 +1,8 @@
+6 8 twins
+eclat 1 1 0
+radii 1 3 0
+anime 1 5 0
+spasm 1 7 0
+!twins 2 3
+!twins 3 4
+!twins 2 4

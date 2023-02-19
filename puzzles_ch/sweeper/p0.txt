@@ -1,0 +1,5 @@
+7 9 sweeper
+sooty 1 1 1
+torus 1 4 0
+steed 5 4 1
+tenet 2 7 0

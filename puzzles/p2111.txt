@@ -1,0 +1,5 @@
+6 10
+bobby 3 1 1
+noble 1 3 0
+crypt 1 5 0
+phony 4 5 1

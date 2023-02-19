@@ -1,0 +1,5 @@
+7 7 fourscore
+amaze 4 1 1
+acorn 2 2 1
+admin 2 2 0
+woozy 1 4 0

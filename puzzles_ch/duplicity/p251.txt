@@ -1,0 +1,5 @@
+6 8 duplicity
+rabbi 1 1 1
+ratty 1 1 0
+altar 4 3 1
+billy 1 4 0

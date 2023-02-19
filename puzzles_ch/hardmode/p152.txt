@@ -1,0 +1,5 @@
+7 8 hardmode
+stoic 1 1 1
+emcee 3 3 1
+cacao 1 5 0
+begat 2 7 0

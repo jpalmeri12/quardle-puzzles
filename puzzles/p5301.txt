@@ -1,0 +1,5 @@
+6 9
+cello 2 1 1
+bench 4 4 1
+hover 1 5 0
+shock 1 7 0

@@ -1,0 +1,6 @@
+7 10 connectfive
+until 6 1 1
+vixen 3 2 1
+wight 2 3 0
+stove 1 5 1
+tonga 1 6 0

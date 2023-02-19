@@ -1,0 +1,5 @@
+7 10
+tough 4 1 1
+alpha 1 5 0
+prime 3 5 1
+smite 2 8 0

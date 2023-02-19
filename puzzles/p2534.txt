@@ -1,0 +1,5 @@
+7 9
+paste 6 1 1
+rebut 2 4 0
+basal 4 4 1
+trial 1 7 0

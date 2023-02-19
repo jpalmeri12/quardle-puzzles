@@ -1,0 +1,5 @@
+7 10
+shirt 4 1 1
+bushy 1 2 0
+latte 2 5 0
+tough 5 5 1

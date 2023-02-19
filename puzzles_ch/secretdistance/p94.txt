@@ -1,0 +1,7 @@
+6 10 secretdistance
+drink 4 1 1
+awful 2 3 1
+twang 1 4 0
+blend 1 7 0
+drawn 1 9 0
+!sdpos 0 1 1 2

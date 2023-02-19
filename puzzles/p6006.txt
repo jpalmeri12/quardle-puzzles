@@ -1,0 +1,5 @@
+6 9
+minim 1 1 0
+movie 5 1 1
+fungi 1 4 0
+nobly 3 4 1

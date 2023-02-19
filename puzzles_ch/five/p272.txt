@@ -1,0 +1,6 @@
+7 10 five
+unlit 1 1 0
+turbo 5 1 1
+droop 2 5 0
+parry 6 5 1
+flyer 2 7 0

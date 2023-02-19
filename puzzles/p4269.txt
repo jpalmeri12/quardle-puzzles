@@ -1,0 +1,5 @@
+7 7
+sixth 2 1 1
+livid 1 2 0
+digit 5 2 1
+tango 2 4 0

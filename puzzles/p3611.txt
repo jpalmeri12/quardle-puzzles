@@ -1,0 +1,5 @@
+7 10
+vouch 4 1 1
+alpha 1 5 0
+lusty 2 5 1
+tuber 2 8 0

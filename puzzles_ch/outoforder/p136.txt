@@ -1,0 +1,5 @@
+7 8 outoforder
+usurp 2 1 1
+islet 1 2 0
+wrest 6 3 1
+prize 2 5 0

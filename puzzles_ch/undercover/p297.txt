@@ -1,0 +1,6 @@
+6 11 undercover
+couch 2 1 1
+scoff 1 4 0
+furor 4 4 1
+beard 1 8 0
+willy 1 10 0

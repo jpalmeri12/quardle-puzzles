@@ -1,0 +1,5 @@
+7 8 shiritori
+sheep 2 1 0
+hover 3 1 1
+naval 1 3 0
+niece 1 3 1

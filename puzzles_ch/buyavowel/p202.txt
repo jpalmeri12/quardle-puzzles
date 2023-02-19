@@ -1,0 +1,5 @@
+7 9 buyavowel
+goose 1 1 1
+sally 1 4 0
+lover 3 4 1
+sedan 2 7 0

@@ -1,0 +1,9 @@
+7 9 beforeafter
+leapt 5 1 1
+prime 1 2 0
+adapt 2 4 0
+actor 2 4 1
+!beforeafter 2 n
+!beforeafter 1 o
+!beforeafter 2 j
+!beforeafter 1 j

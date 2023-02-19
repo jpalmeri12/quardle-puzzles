@@ -1,0 +1,5 @@
+7 10
+sheep 1 1 0
+prong 5 1 1
+purge 2 5 0
+elope 6 5 1

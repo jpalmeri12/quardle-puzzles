@@ -1,0 +1,7 @@
+6 6 fourthwall
+rumor 1 1 0
+ralph 1 1 1
+ladle 1 3 0
+modal 3 1 1
+holly 1 5 0
+reedy 5 1 1

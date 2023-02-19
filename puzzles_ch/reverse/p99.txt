@@ -1,0 +1,5 @@
+7 8 reverse
+ydoow 2 1 1
+motif 1 3 0
+fracs 5 3 1
+wheat 2 5 0

@@ -1,0 +1,5 @@
+7 9 swap
+dride 1 1 0
+imght 3 1 1
+thonr 2 4 0
+rnady 6 4 1

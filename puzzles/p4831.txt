@@ -1,0 +1,5 @@
+7 10
+cling 5 1 1
+bough 2 5 0
+unzip 4 5 1
+maize 1 7 0

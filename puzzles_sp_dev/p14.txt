@@ -1,0 +1,5 @@
+7 10 hardmode
+algae 2 1 1
+gavel 2 3 0
+meaty 1 5 0
+munch 1 5 1

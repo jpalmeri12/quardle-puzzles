@@ -1,0 +1,6 @@
+7 9 five
+chuck 1 1 1
+hilly 1 2 0
+plumb 4 4 1
+knoll 1 5 0
+umbra 2 8 0

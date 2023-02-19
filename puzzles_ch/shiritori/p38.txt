@@ -1,0 +1,5 @@
+7 9 shiritori
+towel 6 1 1
+offal 2 4 1
+feral 2 5 0
+cabal 1 7 0

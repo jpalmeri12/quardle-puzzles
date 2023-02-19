@@ -1,0 +1,5 @@
+7 10
+batch 2 1 1
+human 2 5 0
+moron 4 5 1
+diary 1 7 0

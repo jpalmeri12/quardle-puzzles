@@ -1,0 +1,5 @@
+7 9 desync
+slate 2 1 1
+stuff 1 4 0
+fuzzy 5 4 1
+satyr 2 8 0

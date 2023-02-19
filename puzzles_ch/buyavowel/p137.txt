@@ -1,0 +1,5 @@
+7 8 buyavowel
+dross 1 1 0
+storm 5 1 1
+troop 2 3 0
+royal 3 3 1

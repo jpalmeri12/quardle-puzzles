@@ -1,0 +1,5 @@
+7 8 fourscore
+shake 1 1 0
+krill 4 1 1
+lager 2 3 1
+gulch 2 5 0

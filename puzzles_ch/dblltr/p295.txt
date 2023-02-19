@@ -1,0 +1,5 @@
+7 8 dblltr
+river 2 1 0
+valve 4 1 1
+wooly 1 3 0
+oddly 2 3 1

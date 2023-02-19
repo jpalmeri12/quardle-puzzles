@@ -1,0 +1,5 @@
+7 10 swap
+worte 1 1 1
+ethci 1 5 0
+culry 4 5 1
+oryal 2 9 0

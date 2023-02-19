@@ -1,0 +1,6 @@
+7 10 connectfive
+scald 3 1 1
+caste 2 3 0
+ideal 2 5 0
+ebony 4 5 1
+penne 1 8 0

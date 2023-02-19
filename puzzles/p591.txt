@@ -1,0 +1,5 @@
+7 7
+dirty 3 1 1
+suite 1 2 0
+exist 5 2 1
+gypsy 2 5 0

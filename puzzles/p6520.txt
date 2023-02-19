@@ -1,0 +1,5 @@
+7 9
+jumpy 4 1 1
+wrung 2 2 0
+scope 1 4 0
+spare 1 4 1

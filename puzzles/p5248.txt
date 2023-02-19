@@ -1,0 +1,5 @@
+7 9
+rainy 6 1 1
+bleed 2 4 1
+brown 2 4 0
+tense 1 6 0

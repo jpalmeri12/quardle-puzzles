@@ -1,0 +1,6 @@
+6 9 commonsecret
+wound 4 1 1
+minor 1 2 0
+burnt 1 4 0
+blunt 1 4 1
+!secret n

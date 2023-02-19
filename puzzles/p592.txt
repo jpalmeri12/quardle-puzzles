@@ -1,0 +1,5 @@
+7 9
+tonic 2 1 1
+prong 4 4 1
+cargo 2 5 0
+urine 1 7 0

@@ -1,0 +1,5 @@
+6 9
+hurry 5 1 1
+safer 1 4 1
+smear 1 4 0
+eagle 1 7 0

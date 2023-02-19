@@ -1,0 +1,5 @@
+7 9 outoforder
+booth 4 1 1
+crowd 2 2 0
+mound 1 4 1
+ought 1 5 0

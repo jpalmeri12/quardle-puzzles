@@ -1,0 +1,5 @@
+7 9
+medic 2 1 1
+meant 1 2 0
+abate 5 4 1
+cabby 2 5 0

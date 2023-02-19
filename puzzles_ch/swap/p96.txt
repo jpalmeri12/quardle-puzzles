@@ -1,0 +1,5 @@
+7 10 swap
+erach 5 1 1
+uqart 2 2 0
+hucnh 1 5 0
+naime 4 5 1

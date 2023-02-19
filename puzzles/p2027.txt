@@ -1,0 +1,5 @@
+6 6
+grain 1 1 1
+guile 1 1 0
+issue 3 1 1
+needy 1 5 0

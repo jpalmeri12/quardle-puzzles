@@ -1,0 +1,5 @@
+6 8 reverse
+deenk 1 1 0
+kneed 5 1 1
+maets 1 3 1
+mince 1 3 0

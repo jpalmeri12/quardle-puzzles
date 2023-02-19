@@ -1,0 +1,5 @@
+7 8 sweeper
+unfit 1 1 1
+hyena 3 3 1
+idyll 1 4 0
+marry 2 7 0

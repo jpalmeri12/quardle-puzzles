@@ -1,0 +1,5 @@
+7 10
+tacit 1 1 0
+index 4 1 1
+pixel 2 5 0
+lyric 6 5 1

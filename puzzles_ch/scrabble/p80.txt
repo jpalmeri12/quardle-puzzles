@@ -1,0 +1,5 @@
+6 9 scrabble
+begat 1 5 0
+dairy 1 7 0
+shrub 1 1 1
+fairy 4 4 1

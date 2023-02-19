@@ -1,0 +1,5 @@
+7 10 scrabble
+order 5 1 1
+nutty 2 7 0
+caper 1 5 0
+extra 4 5 1

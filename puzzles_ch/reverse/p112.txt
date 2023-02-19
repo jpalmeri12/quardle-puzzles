@@ -1,0 +1,5 @@
+7 10 reverse
+thgil 4 1 1
+exalt 1 5 0
+amity 3 5 1
+etaks 2 8 0

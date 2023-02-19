@@ -1,0 +1,5 @@
+7 10
+mogul 5 1 1
+petal 1 5 0
+tepid 3 5 1
+hippy 2 8 0

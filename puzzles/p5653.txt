@@ -1,0 +1,5 @@
+7 10
+train 2 1 1
+route 2 2 0
+snoop 1 5 0
+ovine 3 5 1

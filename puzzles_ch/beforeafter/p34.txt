@@ -1,0 +1,9 @@
+7 7 beforeafter
+lemur 1 1 1
+unwed 3 2 1
+minus 1 3 0
+idyll 2 6 0
+!beforeafter 2 o
+!beforeafter 2 j
+!beforeafter 2 p
+!beforeafter 1 j

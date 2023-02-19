@@ -1,0 +1,5 @@
+7 7
+stone 4 1 1
+smite 1 2 0
+mecca 2 2 1
+canoe 2 4 0

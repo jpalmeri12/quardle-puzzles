@@ -1,0 +1,5 @@
+7 10 invention
+swami 2 1 0
+mucus 5 1 1
+bicep 1 5 1
+bless 1 5 0

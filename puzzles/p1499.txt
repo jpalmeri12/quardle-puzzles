@@ -1,0 +1,5 @@
+7 9
+fight 1 1 1
+slave 3 4 1
+talon 1 5 0
+ovate 2 7 0

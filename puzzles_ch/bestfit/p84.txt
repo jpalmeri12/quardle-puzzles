@@ -1,0 +1,5 @@
+7 8 bestfit
+octet 1 1 0
+cycle 2 1 1
+crook 2 3 0
+order 4 3 1

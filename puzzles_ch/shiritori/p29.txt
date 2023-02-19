@@ -1,0 +1,5 @@
+7 8 shiritori
+morph 1 1 0
+plump 4 1 1
+lying 6 3 1
+dummy 2 4 0

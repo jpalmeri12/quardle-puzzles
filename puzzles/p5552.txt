@@ -1,0 +1,5 @@
+7 8
+icing 5 1 1
+valid 2 3 0
+abuse 3 3 1
+swung 1 5 0

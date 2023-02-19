@@ -1,0 +1,7 @@
+6 11 secretdistance
+score 2 1 1
+icily 1 2 0
+brisk 1 4 0
+kneel 5 4 1
+brick 1 10 0
+!sdpos 0 0 3 1

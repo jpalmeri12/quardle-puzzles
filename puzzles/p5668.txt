@@ -1,0 +1,5 @@
+7 10
+motif 5 1 1
+skiff 1 5 0
+kebab 2 5 1
+arrow 2 8 0

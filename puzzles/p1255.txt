@@ -1,0 +1,5 @@
+7 9
+qualm 2 1 1
+curly 1 2 0
+ladle 2 4 0
+drake 4 4 1

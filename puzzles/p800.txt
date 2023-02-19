@@ -1,0 +1,5 @@
+7 7
+apart 5 1 1
+puppy 2 2 0
+undid 3 2 1
+built 1 5 0

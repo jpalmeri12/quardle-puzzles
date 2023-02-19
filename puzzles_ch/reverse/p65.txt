@@ -1,0 +1,5 @@
+6 10 reverse
+lians 3 1 1
+musty 1 5 0
+tuolc 4 5 1
+envoy 1 7 0

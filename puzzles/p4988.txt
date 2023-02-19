@@ -1,0 +1,5 @@
+7 10
+cross 3 1 1
+psalm 2 5 0
+piper 2 5 1
+opine 1 7 0

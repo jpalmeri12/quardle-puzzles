@@ -1,0 +1,5 @@
+6 8
+knife 1 1 0
+nasty 2 1 1
+repay 4 3 1
+otter 1 4 0

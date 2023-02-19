@@ -1,0 +1,6 @@
+6 11 undercover
+blitz 1 1 0
+lynch 2 1 1
+scene 1 4 0
+needy 4 4 1
+magma 1 10 0

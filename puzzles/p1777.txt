@@ -1,0 +1,5 @@
+7 10
+swarm 4 1 1
+crawl 1 2 0
+humor 2 5 0
+ovary 5 5 1

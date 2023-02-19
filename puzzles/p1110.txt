@@ -1,0 +1,5 @@
+7 10
+freak 4 1 1
+gecko 1 5 0
+chain 3 5 1
+harsh 2 7 0

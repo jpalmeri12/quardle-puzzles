@@ -1,0 +1,5 @@
+7 8 duplicity
+total 2 1 1
+tasty 2 3 0
+stool 4 3 1
+alloy 1 5 0

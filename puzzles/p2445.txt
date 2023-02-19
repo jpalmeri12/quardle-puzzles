@@ -1,0 +1,5 @@
+7 9
+buxom 2 1 1
+edify 5 4 1
+moody 2 5 0
+scarf 1 7 0

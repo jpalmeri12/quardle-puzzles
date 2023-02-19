@@ -1,0 +1,9 @@
+7 9 spellbound
+scour 2 1 0
+cacao 3 1 1
+islet 1 4 1
+stool 1 5 0
+!spellbound 0 4 2
+!spellbound 1 2 1
+!spellbound 2 4 2
+!spellbound 3 1 4

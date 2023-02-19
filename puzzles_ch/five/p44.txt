@@ -1,0 +1,6 @@
+7 9 five
+witty 6 1 1
+cacao 2 4 1
+count 2 4 0
+undue 4 4 1
+value 1 7 0

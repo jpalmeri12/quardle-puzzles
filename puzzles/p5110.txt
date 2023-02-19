@@ -1,0 +1,5 @@
+7 7
+knead 3 1 1
+giddy 5 2 1
+merit 2 3 0
+undid 1 5 0

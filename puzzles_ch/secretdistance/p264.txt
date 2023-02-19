@@ -1,0 +1,7 @@
+6 11 secretdistance
+shoot 2 1 1
+affix 4 4 1
+staff 1 5 0
+twixt 1 8 0
+knoll 1 10 0
+!sdpos 2 2 0 0

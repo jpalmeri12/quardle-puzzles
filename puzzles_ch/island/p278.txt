@@ -1,0 +1,6 @@
+7 10 island
+magma 3 1 1
+again 1 5 0
+genre 2 5 1
+resin 2 8 0
+!island 111 1111 211 311

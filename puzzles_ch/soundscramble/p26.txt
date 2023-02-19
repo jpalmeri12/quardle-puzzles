@@ -1,0 +1,5 @@
+7 10 soundscramble
+bayoe 1 1 0
+enfit 5 1 1
+castu 2 5 0
+sluuk 4 5 1

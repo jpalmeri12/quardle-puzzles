@@ -1,0 +1,9 @@
+6 9 beforeafter
+squib 1 1 1
+psalm 4 4 1
+bliss 1 5 0
+style 1 7 0
+!beforeafter 2 l
+!beforeafter 1 n
+!beforeafter 2 m
+!beforeafter 2 m

@@ -1,0 +1,5 @@
+6 9 bestfit
+rupee 2 1 1
+musty 1 2 0
+fence 1 4 0
+erect 5 4 1

@@ -1,0 +1,5 @@
+6 9
+radio 4 1 1
+banal 1 2 0
+meant 2 4 1
+depot 1 5 0

@@ -1,0 +1,7 @@
+7 12 secretdistance
+abyss 2 1 1
+aback 1 2 0
+squib 2 5 0
+quell 3 5 1
+opium 1 11 0
+!sdpos 0 3 2 2

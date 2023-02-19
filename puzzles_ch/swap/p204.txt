@@ -1,0 +1,5 @@
+7 10 swap
+abcon 1 1 1
+nkeed 1 5 0
+ehavy 3 5 1
+syurp 2 9 0

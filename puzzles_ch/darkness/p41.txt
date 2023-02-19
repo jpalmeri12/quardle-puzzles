@@ -1,0 +1,5 @@
+7 9 darkness
+abode 6 1 1
+plush 1 7 0
+boule 2 5 0
+forum 3 4 1

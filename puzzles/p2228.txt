@@ -1,0 +1,5 @@
+7 10
+snide 3 1 1
+beady 2 5 0
+dryer 5 5 1
+honor 1 9 0

@@ -1,0 +1,5 @@
+7 10
+along 4 1 1
+wight 2 5 0
+intro 3 5 1
+lathe 1 7 0

@@ -1,0 +1,6 @@
+6 11 drop
+their 1 1 1
+tamer 1 1 0
+irate 1 4 0
+aglow 3 4 1
+ratio 1 10 0

@@ -1,0 +1,5 @@
+7 8 reverse
+forty 1 1 0
+tageb 4 1 1
+beget 2 3 0
+talce 6 3 1

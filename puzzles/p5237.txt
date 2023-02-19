@@ -1,0 +1,5 @@
+7 10
+ficus 5 1 1
+lilac 1 3 0
+fussy 2 5 0
+sheep 4 5 1

@@ -1,0 +1,6 @@
+6 7 commonsecret
+waive 2 1 1
+patio 1 2 0
+oxide 5 2 1
+weird 1 5 0
+!secret i

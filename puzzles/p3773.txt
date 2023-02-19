@@ -1,0 +1,5 @@
+7 10
+salad 2 1 1
+odder 1 5 0
+dodgy 3 5 1
+idler 2 7 0

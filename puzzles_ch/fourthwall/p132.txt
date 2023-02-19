@@ -1,0 +1,7 @@
+6 6 fourthwall
+rivet 1 1 0
+robot 1 1 1
+balmy 1 3 0
+villa 3 1 1
+trace 1 5 0
+thyme 5 1 1

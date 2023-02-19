@@ -1,0 +1,5 @@
+7 10 soundscramble
+mawer 5 1 1
+hoter 1 5 0
+thang 3 5 1
+onvil 2 8 0

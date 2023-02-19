@@ -1,0 +1,6 @@
+6 10 connectfive
+guava 5 1 1
+stash 1 4 1
+theta 1 5 0
+thrum 4 5 1
+sperm 1 7 0

@@ -1,0 +1,5 @@
+7 7
+sumac 5 1 1
+forum 2 2 0
+odder 3 2 1
+media 1 4 0

@@ -1,0 +1,5 @@
+6 7 spin
+curio 3 1 1
+dough 1 2 0
+harry 5 2 1
+floor 1 5 0

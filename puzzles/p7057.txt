@@ -1,0 +1,5 @@
+7 10
+minty 1 1 1
+young 1 5 0
+nobly 4 5 1
+rabbi 2 7 0

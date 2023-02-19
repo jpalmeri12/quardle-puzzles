@@ -1,0 +1,5 @@
+6 9 buyavowel
+ralph 3 1 1
+sappy 1 4 0
+stamp 1 4 1
+plain 1 8 0

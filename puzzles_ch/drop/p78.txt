@@ -1,0 +1,6 @@
+6 11 drop
+scarf 5 1 1
+hyper 1 4 0
+hoist 1 4 1
+tiger 1 8 0
+grief 1 10 0

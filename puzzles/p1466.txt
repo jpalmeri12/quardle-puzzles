@@ -1,0 +1,5 @@
+7 9
+greet 2 1 0
+rumor 3 1 1
+glove 1 4 0
+glide 1 4 1

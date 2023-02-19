@@ -1,0 +1,5 @@
+7 8 scrabble
+regal 2 1 1
+aging 1 3 0
+lousy 2 5 0
+gassy 5 3 1

@@ -1,0 +1,6 @@
+6 9 island
+spurn 5 1 1
+truly 1 4 1
+tutor 1 4 0
+lingo 1 7 0
+!island 11111 41 211 311

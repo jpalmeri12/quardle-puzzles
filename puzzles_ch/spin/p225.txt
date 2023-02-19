@@ -1,0 +1,5 @@
+7 9 spin
+shaft 1 1 1
+flick 1 4 0
+krill 5 4 1
+guile 2 7 0

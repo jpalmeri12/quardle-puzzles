@@ -1,0 +1,5 @@
+7 9 spaced
+guard 4 1 1
+crump 2 2 0
+mover 1 4 1
+micro 1 4 0

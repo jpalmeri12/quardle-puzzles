@@ -1,0 +1,5 @@
+7 8 beta
+scrub 3 1 1
+chick 5 3 1
+bough 1 4 0
+smoky 2 7 0

@@ -1,0 +1,6 @@
+6 8 squaredance
+valve 1 1 1
+rebel 5 1 1
+vapor 1 1 0
+expel 1 5 0
+clump 1 7 0

@@ -1,0 +1,5 @@
+6 9
+shore 1 1 1
+soapy 1 1 0
+fella 5 4 1
+elate 1 5 0

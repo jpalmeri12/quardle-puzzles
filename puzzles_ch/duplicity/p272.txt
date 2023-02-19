@@ -1,0 +1,5 @@
+7 8 duplicity
+hippo 1 1 1
+hydro 5 3 1
+piggy 1 4 0
+droop 2 7 0

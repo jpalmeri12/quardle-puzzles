@@ -1,0 +1,5 @@
+6 6 reverse
+sniff 1 1 0
+nolef 2 1 1
+flack 4 1 1
+ffiks 1 5 0

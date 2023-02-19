@@ -1,0 +1,9 @@
+6 9 beforeafter
+macro 4 1 1
+rural 1 2 0
+about 1 4 1
+bacon 1 5 0
+!beforeafter 2 n
+!beforeafter 2 q
+!beforeafter 2 p
+!beforeafter 2 l

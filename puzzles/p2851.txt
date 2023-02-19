@@ -1,0 +1,5 @@
+6 6
+pedal 1 1 0
+prick 1 1 1
+abbey 4 1 1
+clued 1 4 0

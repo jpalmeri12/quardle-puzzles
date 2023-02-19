@@ -1,0 +1,5 @@
+7 10
+slimy 2 1 0
+inner 4 1 1
+guava 1 5 1
+guard 1 5 0

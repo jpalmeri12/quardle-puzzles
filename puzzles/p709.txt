@@ -1,0 +1,5 @@
+7 10
+blade 1 1 0
+debut 4 1 1
+after 2 5 0
+revel 6 5 1

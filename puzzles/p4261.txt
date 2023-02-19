@@ -1,0 +1,5 @@
+7 9
+ghoul 4 1 1
+lunar 2 4 1
+built 1 5 0
+alone 2 7 0

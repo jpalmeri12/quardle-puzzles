@@ -1,0 +1,5 @@
+7 10 shiritori
+elbow 2 1 1
+booby 2 3 0
+tweed 1 5 0
+track 1 5 1

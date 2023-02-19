@@ -1,0 +1,6 @@
+7 11 drop
+chord 2 1 0
+ramen 5 1 1
+front 2 4 1
+grain 1 5 0
+harry 1 10 0

@@ -1,0 +1,6 @@
+7 8 commonsecret
+amiss 1 1 0
+sedan 4 1 1
+stave 2 3 1
+trait 2 4 0
+!secret a

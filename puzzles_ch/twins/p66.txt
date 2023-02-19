@@ -1,0 +1,8 @@
+6 8 twins
+shank 1 1 0
+gulch 1 3 0
+grass 1 5 0
+idler 1 7 0
+!twins 2 3
+!twins 2 4
+!twins 1 3

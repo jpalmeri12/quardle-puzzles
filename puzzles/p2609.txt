@@ -1,0 +1,5 @@
+7 10
+fleck 5 1 1
+slick 1 5 0
+leave 2 5 1
+early 2 9 0

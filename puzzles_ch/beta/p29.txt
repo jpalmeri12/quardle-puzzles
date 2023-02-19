@@ -1,0 +1,5 @@
+7 8 beta
+gruff 2 1 1
+wrote 5 3 1
+floor 2 5 0
+binge 1 7 0

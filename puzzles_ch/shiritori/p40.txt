@@ -1,0 +1,5 @@
+7 9 shiritori
+arose 4 1 1
+begun 2 4 1
+deter 1 5 0
+unity 2 7 0

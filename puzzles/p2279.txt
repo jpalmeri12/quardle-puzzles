@@ -1,0 +1,5 @@
+7 10
+cutie 2 1 1
+reply 1 5 0
+yeast 5 5 1
+heist 2 8 0

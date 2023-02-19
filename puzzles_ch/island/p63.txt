@@ -1,0 +1,6 @@
+7 8 island
+marry 6 1 1
+piper 2 3 0
+polyp 4 3 1
+satyr 1 6 0
+!island 1111 211 31 32

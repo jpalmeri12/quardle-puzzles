@@ -1,0 +1,5 @@
+7 10
+paste 1 1 1
+edify 1 5 0
+flock 4 5 1
+micro 2 8 0

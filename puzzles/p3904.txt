@@ -1,0 +1,5 @@
+7 10
+these 6 1 1
+spare 2 5 0
+abase 4 5 1
+renal 1 7 0

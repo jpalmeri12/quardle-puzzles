@@ -1,0 +1,5 @@
+7 10
+ounce 5 1 1
+ficus 2 2 0
+clove 1 5 0
+latch 2 5 1

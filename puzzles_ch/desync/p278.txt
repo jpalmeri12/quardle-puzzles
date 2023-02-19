@@ -1,0 +1,5 @@
+7 8 desync
+minim 5 1 1
+eerie 3 3 1
+refit 2 4 0
+steel 1 7 0

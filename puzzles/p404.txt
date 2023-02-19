@@ -1,0 +1,5 @@
+6 10
+frond 1 1 0
+ounce 3 1 1
+sieve 1 5 0
+ensue 5 5 1

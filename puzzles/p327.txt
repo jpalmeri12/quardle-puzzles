@@ -1,0 +1,5 @@
+6 9
+angel 1 1 1
+needy 1 2 0
+elude 1 4 0
+eerie 5 4 1

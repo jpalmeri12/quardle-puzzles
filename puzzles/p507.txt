@@ -1,0 +1,5 @@
+7 9
+threw 2 1 1
+willy 5 4 1
+swami 1 5 0
+vinyl 2 8 0

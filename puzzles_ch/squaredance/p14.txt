@@ -1,0 +1,6 @@
+6 8 squaredance
+caper 1 1 1
+etude 5 1 1
+cease 1 1 0
+route 1 5 0
+light 1 7 0

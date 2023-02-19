@@ -1,0 +1,5 @@
+7 9 darkness
+again 2 4 0
+align 2 4 1
+genie 5 1 1
+olive 1 2 0

@@ -1,0 +1,5 @@
+7 9 desync
+kappa 3 1 1
+manic 2 2 0
+stint 5 4 1
+least 1 5 0

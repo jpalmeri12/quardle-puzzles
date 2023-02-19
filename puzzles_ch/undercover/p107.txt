@@ -1,0 +1,6 @@
+7 10 undercover
+nosey 2 1 1
+staff 2 3 0
+fresh 5 3 1
+rough 1 7 0
+vivid 1 9 0

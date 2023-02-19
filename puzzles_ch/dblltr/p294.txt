@@ -1,0 +1,5 @@
+7 9 dblltr
+there 5 1 1
+harsh 1 2 0
+usurp 2 4 0
+uncut 2 4 1

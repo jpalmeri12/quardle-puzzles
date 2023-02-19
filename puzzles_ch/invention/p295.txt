@@ -1,0 +1,5 @@
+7 8 invention
+naval 1 1 0
+algae 4 1 1
+vegan 2 3 0
+naive 6 3 1

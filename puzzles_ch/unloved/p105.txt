@@ -1,0 +1,5 @@
+7 8 unloved
+oaken 2 1 0
+kneel 4 1 1
+paper 1 3 0
+plier 1 3 1

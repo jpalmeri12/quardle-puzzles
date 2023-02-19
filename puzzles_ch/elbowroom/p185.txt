@@ -1,0 +1,5 @@
+7 9 elbowroom
+leach 1 1 0
+click 4 1 1
+bacon 2 4 0
+belly 2 4 1

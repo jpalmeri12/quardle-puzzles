@@ -1,0 +1,7 @@
+7 11 secretdistance
+midge 2 1 1
+virus 1 2 0
+going 2 4 0
+imply 4 4 1
+sworn 1 10 0
+!sdpos 0 2 0 0

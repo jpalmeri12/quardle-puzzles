@@ -1,0 +1,9 @@
+7 9 beforeafter
+rouge 2 1 1
+noisy 1 2 0
+glint 2 4 0
+novel 5 4 1
+!beforeafter 2 i
+!beforeafter 2 p
+!beforeafter 2 m
+!beforeafter 2 m

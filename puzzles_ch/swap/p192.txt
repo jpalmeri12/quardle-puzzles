@@ -1,0 +1,5 @@
+6 8 swap
+suond 1 1 1
+sldie 1 1 0
+vlaet 5 3 1
+nvaal 1 4 0

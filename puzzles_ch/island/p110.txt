@@ -1,0 +1,6 @@
+6 9 island
+mafia 1 1 1
+avert 1 2 0
+loyal 3 4 1
+above 1 5 0
+!island 1111 311 211 2111

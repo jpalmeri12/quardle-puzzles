@@ -1,0 +1,5 @@
+7 7
+batch 2 1 1
+twirl 4 2 1
+tower 2 3 0
+shorn 1 5 0

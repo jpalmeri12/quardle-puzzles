@@ -1,0 +1,5 @@
+6 7
+brief 1 1 1
+rogue 1 2 0
+glass 3 2 1
+evade 1 4 0

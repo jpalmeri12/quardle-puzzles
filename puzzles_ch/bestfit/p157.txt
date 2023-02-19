@@ -1,0 +1,5 @@
+6 9 bestfit
+roger 5 1 1
+whine 1 4 0
+haven 2 4 1
+envoy 1 8 0

@@ -1,0 +1,5 @@
+7 10 swap
+drpae 2 1 1
+racnh 2 2 0
+deocy 1 5 0
+danyd 1 5 1

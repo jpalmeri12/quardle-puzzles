@@ -1,0 +1,6 @@
+6 9 wordcolumn
+flyer 5 1 1
+nosey 1 2 1
+snipe 1 4 0
+irony 3 4 1
+wryly 1 8 0

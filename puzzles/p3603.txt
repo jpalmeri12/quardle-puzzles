@@ -1,0 +1,5 @@
+7 9
+facet 1 1 0
+acute 2 1 1
+teeth 2 4 0
+extol 4 4 1

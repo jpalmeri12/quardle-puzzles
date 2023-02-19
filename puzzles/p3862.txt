@@ -1,0 +1,5 @@
+7 9
+crone 2 1 1
+roomy 2 2 0
+inert 1 4 0
+ripen 4 4 1

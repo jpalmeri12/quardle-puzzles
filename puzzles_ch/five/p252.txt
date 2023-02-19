@@ -1,0 +1,6 @@
+7 10 five
+lymph 2 1 1
+learn 2 1 0
+shady 1 5 0
+allay 3 5 1
+belle 1 7 0

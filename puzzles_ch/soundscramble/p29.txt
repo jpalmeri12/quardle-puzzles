@@ -1,0 +1,5 @@
+7 8 soundscramble
+luose 5 1 1
+serom 2 3 0
+synud 2 3 1
+ankle 1 5 0

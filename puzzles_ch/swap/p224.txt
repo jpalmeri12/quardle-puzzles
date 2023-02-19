@@ -1,0 +1,5 @@
+7 9 swap
+dtuch 2 1 1
+tarwl 2 2 0
+hcafe 1 4 0
+froez 4 4 1

@@ -1,0 +1,5 @@
+6 8
+store 2 1 1
+terse 4 3 1
+teary 1 5 0
+kneel 1 7 0

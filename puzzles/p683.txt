@@ -1,0 +1,5 @@
+7 10
+value 3 1 1
+delve 2 5 0
+loath 4 5 1
+creak 1 7 0

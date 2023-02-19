@@ -1,0 +1,5 @@
+6 9
+scale 2 1 1
+scoop 1 2 0
+craft 4 4 1
+terra 1 5 0

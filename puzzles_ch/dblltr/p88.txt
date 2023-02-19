@@ -1,0 +1,5 @@
+7 10 dblltr
+tacit 5 1 1
+local 2 2 0
+beget 1 5 0
+gloss 3 5 1

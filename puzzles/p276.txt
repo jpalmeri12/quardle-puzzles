@@ -1,0 +1,5 @@
+7 10
+aider 2 1 1
+rebel 2 5 0
+egret 3 5 1
+sleep 1 8 0

@@ -1,0 +1,5 @@
+7 9
+stank 2 1 1
+antic 1 4 0
+image 4 4 1
+piety 2 8 0

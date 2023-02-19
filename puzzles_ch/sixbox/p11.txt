@@ -1,0 +1,7 @@
+8 8 sixbox
+titan 3 1 1
+vocal 5 1 1
+antic 1 3 0
+idyll 4 3 1
+adapt 3 4 0
+vinyl 1 5 0

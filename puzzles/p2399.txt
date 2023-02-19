@@ -1,0 +1,5 @@
+7 8
+strap 3 1 1
+intro 1 2 0
+gruff 6 3 1
+tamer 2 4 0

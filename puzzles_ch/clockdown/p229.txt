@@ -1,0 +1,5 @@
+7 9 clockdown
+hatch 1 1 0
+cacao 4 1 1
+spurn 2 4 1
+phony 2 5 0

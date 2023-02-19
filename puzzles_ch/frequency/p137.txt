@@ -1,0 +1,5 @@
+7 9 frequency
+steed 4 1 1
+aorta 1 2 0
+among 2 4 1
+model 2 5 0

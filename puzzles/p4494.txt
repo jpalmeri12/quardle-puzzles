@@ -1,0 +1,5 @@
+7 8
+flume 1 1 0
+motto 4 1 1
+ditch 2 3 0
+humid 6 3 1

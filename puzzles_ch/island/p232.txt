@@ -1,0 +1,6 @@
+7 9 island
+curly 2 1 1
+globe 1 4 0
+beset 4 4 1
+voter 2 8 0
+!island 2111 221 211 311

@@ -1,0 +1,5 @@
+7 9
+humid 5 1 1
+stout 2 2 0
+safer 1 4 1
+amend 1 5 0

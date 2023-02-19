@@ -1,0 +1,6 @@
+7 12 five
+rearm 6 1 1
+torch 3 4 1
+golem 2 5 0
+uncut 1 7 0
+unfed 1 7 1

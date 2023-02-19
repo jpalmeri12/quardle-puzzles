@@ -1,0 +1,6 @@
+7 9 connectfive
+token 5 1 1
+spoof 2 2 0
+anime 1 4 0
+image 3 4 1
+algae 1 7 0

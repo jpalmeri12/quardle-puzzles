@@ -1,0 +1,5 @@
+7 8 unloved
+shape 2 1 1
+shear 1 2 0
+plied 6 3 1
+peril 2 4 0

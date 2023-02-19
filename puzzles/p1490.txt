@@ -1,0 +1,5 @@
+7 9
+leery 3 1 1
+trice 2 4 0
+civil 5 4 1
+radii 1 7 0

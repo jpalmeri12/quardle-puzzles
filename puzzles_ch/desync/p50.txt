@@ -1,0 +1,5 @@
+6 9 desync
+cliff 5 1 1
+staff 1 4 0
+stead 1 4 1
+droll 1 8 0

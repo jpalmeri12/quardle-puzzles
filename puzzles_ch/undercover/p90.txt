@@ -1,0 +1,6 @@
+6 11 undercover
+haute 1 1 1
+hazel 1 1 0
+sworn 5 4 1
+elbow 1 5 0
+mimic 1 10 0

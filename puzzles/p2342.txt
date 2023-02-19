@@ -1,0 +1,5 @@
+7 10
+scree 4 1 1
+lunch 1 2 0
+whelp 2 5 0
+wench 2 5 1

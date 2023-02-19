@@ -1,0 +1,5 @@
+6 9
+abbot 1 1 0
+olive 4 1 1
+privy 1 4 0
+resin 2 4 1

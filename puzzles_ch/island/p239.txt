@@ -1,0 +1,6 @@
+7 10 island
+scrum 4 1 1
+humid 2 5 0
+upset 3 5 1
+steel 1 8 0
+!island 11111 311 2111 211

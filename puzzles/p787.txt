@@ -1,0 +1,5 @@
+7 9
+grade 4 1 1
+viral 2 2 0
+crude 1 4 0
+rehab 2 4 1

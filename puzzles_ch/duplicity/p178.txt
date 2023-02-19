@@ -1,0 +1,5 @@
+6 10 duplicity
+horse 2 1 1
+roach 1 5 1
+reach 1 5 0
+arose 1 7 0

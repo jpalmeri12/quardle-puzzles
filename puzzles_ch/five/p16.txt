@@ -1,0 +1,6 @@
+7 9 five
+pinto 1 1 0
+naval 3 1 1
+yacht 2 4 0
+toxic 6 4 1
+sonic 2 8 0

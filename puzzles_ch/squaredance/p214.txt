@@ -1,0 +1,6 @@
+6 8 squaredance
+bezel 1 1 1
+hitch 5 1 1
+bunch 1 1 0
+lunch 1 5 0
+putty 1 7 0

@@ -1,0 +1,5 @@
+7 9
+binge 4 1 1
+bulge 1 4 0
+using 2 4 1
+north 2 7 0

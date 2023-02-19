@@ -1,0 +1,5 @@
+7 10 dblltr
+tabby 6 1 1
+dolly 2 5 0
+dandy 2 5 1
+ensue 1 7 0

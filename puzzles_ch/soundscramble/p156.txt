@@ -1,0 +1,5 @@
+7 9 soundscramble
+scane 2 1 0
+aceon 4 1 1
+pedol 1 4 0
+ploid 1 4 1

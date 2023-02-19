@@ -1,0 +1,5 @@
+7 9
+proud 5 1 1
+pesky 3 4 1
+heady 2 5 0
+maker 1 7 0

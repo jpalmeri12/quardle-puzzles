@@ -1,0 +1,5 @@
+7 9
+bless 2 1 1
+gland 1 2 0
+badly 5 4 1
+strap 2 5 0

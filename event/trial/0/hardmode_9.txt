@@ -1,0 +1,5 @@
+7 8 hardmode
+posit 2 1 1
+icily 4 3 1
+niece 1 4 0
+loyal 2 7 0

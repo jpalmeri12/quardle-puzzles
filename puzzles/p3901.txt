@@ -1,0 +1,5 @@
+7 10
+place 1 1 0
+laugh 2 1 1
+hotly 2 5 0
+leggy 5 5 1

@@ -1,0 +1,5 @@
+7 10 buyavowel
+stunt 6 1 1
+short 2 5 0
+ridge 5 5 1
+dying 1 8 0

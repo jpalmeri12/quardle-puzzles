@@ -1,0 +1,5 @@
+7 7
+taste 2 1 1
+canoe 1 2 0
+embed 5 2 1
+tabby 2 4 0

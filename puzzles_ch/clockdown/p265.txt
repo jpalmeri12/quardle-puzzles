@@ -1,0 +1,5 @@
+7 10 clockdown
+media 5 1 1
+gonad 2 5 0
+grout 2 5 1
+jumpy 1 8 0

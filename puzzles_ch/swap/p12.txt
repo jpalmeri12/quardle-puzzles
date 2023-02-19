@@ -1,0 +1,5 @@
+7 9 swap
+satni 6 1 1
+whoes 2 4 1
+hkaki 2 5 0
+tsern 1 8 0

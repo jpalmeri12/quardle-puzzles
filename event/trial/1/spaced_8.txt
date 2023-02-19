@@ -1,0 +1,5 @@
+7 10 spaced
+glaze 5 1 1
+nadir 2 5 1
+nicer 2 5 0
+rivet 1 8 0

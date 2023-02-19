@@ -1,0 +1,6 @@
+6 11 drop
+chief 1 1 1
+purse 4 4 1
+forum 1 5 0
+gnash 1 7 0
+minus 1 10 0

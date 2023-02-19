@@ -1,0 +1,5 @@
+7 7 duplicity
+erode 1 1 0
+dodge 4 1 1
+deter 6 2 1
+digit 2 4 0

@@ -1,0 +1,5 @@
+7 9
+mason 6 1 1
+cameo 2 4 0
+crime 2 4 1
+dirge 1 6 0

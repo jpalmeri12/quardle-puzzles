@@ -1,0 +1,5 @@
+7 9
+cried 1 1 1
+sniff 4 4 1
+daunt 1 5 0
+infer 2 7 0

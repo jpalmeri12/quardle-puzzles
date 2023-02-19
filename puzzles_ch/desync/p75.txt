@@ -1,0 +1,5 @@
+7 7 desync
+jumbo 2 1 1
+stall 5 2 1
+meaty 2 3 0
+dowel 1 5 0

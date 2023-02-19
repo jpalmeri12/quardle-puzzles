@@ -1,0 +1,5 @@
+7 10 beta
+radii 1 1 1
+igloo 1 5 0
+greet 2 5 1
+empty 2 8 0

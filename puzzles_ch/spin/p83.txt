@@ -1,0 +1,5 @@
+7 10 spin
+exact 4 1 1
+batty 1 5 0
+truly 3 5 1
+humus 2 7 0

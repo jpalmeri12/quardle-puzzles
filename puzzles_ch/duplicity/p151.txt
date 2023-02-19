@@ -1,0 +1,5 @@
+7 9 duplicity
+resin 5 1 1
+baste 1 2 0
+brain 2 4 0
+reset 3 4 1

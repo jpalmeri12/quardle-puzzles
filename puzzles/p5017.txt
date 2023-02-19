@@ -1,0 +1,5 @@
+7 10
+alert 5 1 1
+drake 1 3 0
+deity 2 5 0
+dimly 2 5 1

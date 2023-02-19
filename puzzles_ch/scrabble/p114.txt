@@ -1,0 +1,5 @@
+7 8 scrabble
+floor 1 4 0
+below 3 1 1
+polyp 2 7 0
+proxy 5 3 1

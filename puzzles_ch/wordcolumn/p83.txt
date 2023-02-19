@@ -1,0 +1,6 @@
+7 10 wordcolumn
+brass 1 1 1
+snaky 1 5 0
+navel 2 5 1
+yeast 5 5 1
+erase 2 8 0

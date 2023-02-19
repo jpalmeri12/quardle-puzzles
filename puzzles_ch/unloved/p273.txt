@@ -1,0 +1,5 @@
+7 9 unloved
+natal 1 1 1
+lymph 5 4 1
+leggy 1 5 0
+pulpy 2 7 0

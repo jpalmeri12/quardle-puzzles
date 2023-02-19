@@ -1,0 +1,6 @@
+7 9 connectfive
+sweet 1 1 1
+exact 1 4 0
+cynic 4 4 1
+junto 2 6 0
+evict 1 8 0

@@ -1,0 +1,5 @@
+7 9 clockdown
+outgo 1 1 1
+godly 1 4 0
+legal 4 4 1
+mulch 2 8 0

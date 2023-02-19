@@ -1,0 +1,5 @@
+6 8 swap
+whiks 1 1 1
+wihgt 1 1 0
+ibrch 4 3 1
+sacre 1 5 0

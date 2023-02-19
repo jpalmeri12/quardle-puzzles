@@ -1,0 +1,5 @@
+6 8
+steel 1 1 0
+liner 5 1 1
+puree 2 3 1
+juice 1 4 0

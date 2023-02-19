@@ -1,0 +1,6 @@
+7 11 drop
+fiend 1 1 0
+drawl 5 1 1
+windy 3 4 1
+silly 2 5 0
+style 1 10 0

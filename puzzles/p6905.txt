@@ -1,0 +1,5 @@
+7 10
+tawny 1 1 0
+wrest 3 1 1
+stiff 2 5 0
+imply 4 5 1

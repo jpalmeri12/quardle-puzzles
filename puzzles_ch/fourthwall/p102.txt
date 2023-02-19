@@ -1,0 +1,7 @@
+6 6 fourthwall
+mecca 1 1 0
+miser 1 1 1
+slosh 1 3 0
+chord 3 1 1
+ruder 1 5 0
+abhor 5 1 1

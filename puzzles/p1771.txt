@@ -1,0 +1,5 @@
+7 8
+short 6 1 1
+primo 2 3 0
+rigid 3 3 1
+plied 1 6 0

@@ -1,0 +1,6 @@
+7 10 five
+haute 6 1 1
+three 2 4 1
+hence 2 5 0
+nosey 4 5 1
+feast 1 7 0

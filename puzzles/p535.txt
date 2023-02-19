@@ -1,0 +1,5 @@
+7 9
+aider 5 1 1
+belle 3 4 1
+zebra 2 5 0
+valor 1 7 0

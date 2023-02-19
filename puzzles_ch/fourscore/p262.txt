@@ -1,0 +1,5 @@
+7 9 fourscore
+odder 2 1 1
+idyll 1 2 0
+jerky 6 4 1
+route 2 5 0

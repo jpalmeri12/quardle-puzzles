@@ -1,0 +1,6 @@
+6 11 drop
+taken 4 1 1
+rebar 1 2 0
+spark 1 4 1
+print 1 5 0
+brink 1 10 0

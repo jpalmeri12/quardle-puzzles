@@ -1,0 +1,5 @@
+7 10
+rouge 5 1 1
+manor 2 2 0
+acute 1 5 0
+twixt 4 5 1

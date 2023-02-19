@@ -1,0 +1,5 @@
+6 9
+apple 3 1 1
+topaz 1 2 0
+bacon 1 4 1
+alert 1 5 0

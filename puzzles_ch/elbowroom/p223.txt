@@ -1,0 +1,5 @@
+7 9 elbowroom
+hotel 5 1 1
+twine 2 4 1
+whale 2 5 0
+leaky 1 8 0

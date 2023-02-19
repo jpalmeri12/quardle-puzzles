@@ -1,0 +1,5 @@
+7 10 invention
+ghoul 4 1 1
+might 1 2 0
+sulky 2 5 0
+unlit 3 5 1

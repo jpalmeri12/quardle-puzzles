@@ -1,0 +1,5 @@
+7 10
+filet 2 1 1
+tangy 2 5 0
+giddy 5 5 1
+field 1 8 0

@@ -1,0 +1,5 @@
+7 10
+steed 1 1 0
+these 2 1 1
+ember 2 5 0
+broth 4 5 1

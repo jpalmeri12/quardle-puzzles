@@ -1,0 +1,5 @@
+6 9 invention
+salty 5 1 1
+plane 1 4 1
+lefty 1 5 0
+endow 1 8 0

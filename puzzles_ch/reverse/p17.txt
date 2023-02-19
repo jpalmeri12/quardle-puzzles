@@ -1,0 +1,5 @@
+6 9 reverse
+chart 3 1 1
+rehab 1 2 0
+etoms 1 4 1
+tetco 1 5 0

@@ -1,0 +1,5 @@
+6 10 reverse
+folio 2 1 1
+forth 1 2 0
+roirp 1 5 0
+imaws 3 5 1

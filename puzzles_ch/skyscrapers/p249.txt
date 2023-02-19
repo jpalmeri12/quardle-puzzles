@@ -1,0 +1,5 @@
+6 8 skyscrapers
+skill 1 4 0
+stake 2 1 1
+askew 1 1 0
+flour 5 3 1

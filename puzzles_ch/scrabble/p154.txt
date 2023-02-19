@@ -1,0 +1,5 @@
+7 8 scrabble
+eagle 6 3 1
+opera 2 4 0
+refer 4 1 1
+clerk 1 1 0

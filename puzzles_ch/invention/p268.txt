@@ -1,0 +1,5 @@
+7 10 invention
+chard 4 1 1
+fraud 2 3 0
+heave 1 5 1
+heady 1 5 0

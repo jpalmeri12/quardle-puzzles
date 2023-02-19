@@ -1,0 +1,5 @@
+7 9 elbowroom
+cramp 2 1 1
+gravy 1 2 0
+venue 6 4 1
+payee 2 5 0

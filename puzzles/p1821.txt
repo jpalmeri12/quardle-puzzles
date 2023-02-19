@@ -1,0 +1,5 @@
+7 9
+court 4 1 1
+gauge 2 4 1
+saute 1 5 0
+giant 2 7 0

@@ -1,0 +1,5 @@
+7 7 unloved
+crash 4 1 1
+alarm 1 2 0
+learn 2 2 1
+rehab 2 5 0

@@ -1,0 +1,5 @@
+7 10
+flaky 4 1 1
+mayor 2 5 0
+overt 5 5 1
+guile 1 7 0

@@ -1,0 +1,6 @@
+7 10 island
+freed 1 1 1
+diode 1 5 0
+drove 4 5 1
+spout 2 7 0
+!island 4 22 311 2111

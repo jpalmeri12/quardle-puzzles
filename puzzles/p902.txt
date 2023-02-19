@@ -1,0 +1,5 @@
+7 10
+impel 2 1 1
+murky 2 2 0
+plump 1 5 0
+unfed 3 5 1

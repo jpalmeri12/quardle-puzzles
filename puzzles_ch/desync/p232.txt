@@ -1,0 +1,5 @@
+6 7 desync
+throw 2 1 1
+whale 1 2 0
+lying 4 2 1
+solid 1 4 0

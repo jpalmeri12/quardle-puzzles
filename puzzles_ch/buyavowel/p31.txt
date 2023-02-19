@@ -1,0 +1,5 @@
+6 10 buyavowel
+blurb 1 1 0
+bugle 5 1 1
+earth 1 5 1
+elude 1 5 0

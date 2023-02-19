@@ -1,0 +1,7 @@
+7 10 secretdistance
+panic 2 1 1
+masse 5 3 1
+crisp 2 5 0
+gaffe 1 7 0
+inbox 1 9 0
+!sdpos 1 0 1 1

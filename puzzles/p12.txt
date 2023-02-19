@@ -1,0 +1,5 @@
+7 7
+trout 5 1 1
+tutor 1 2 0
+ulcer 2 2 1
+clout 2 4 0

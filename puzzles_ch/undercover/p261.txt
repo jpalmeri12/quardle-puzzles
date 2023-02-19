@@ -1,0 +1,6 @@
+7 9 undercover
+grill 2 1 1
+teary 4 2 1
+widen 1 3 0
+larva 2 5 0
+smock 1 8 0

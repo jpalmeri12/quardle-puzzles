@@ -1,0 +1,5 @@
+7 10 elbowroom
+abyss 2 1 1
+myrrh 1 3 0
+sleek 2 5 0
+kappa 6 5 1

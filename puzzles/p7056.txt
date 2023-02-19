@@ -1,0 +1,5 @@
+7 9
+batty 1 1 1
+thief 1 4 0
+erase 4 4 1
+break 2 8 0

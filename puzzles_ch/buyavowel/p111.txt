@@ -1,0 +1,5 @@
+7 10 buyavowel
+talon 6 1 1
+thyme 2 5 1
+taken 2 5 0
+syrup 1 7 0

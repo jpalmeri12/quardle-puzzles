@@ -1,0 +1,5 @@
+7 9
+could 1 1 1
+llama 1 4 0
+apnea 3 4 1
+macaw 2 8 0

@@ -1,0 +1,5 @@
+7 9
+mouse 2 1 0
+spend 5 1 1
+plead 1 4 1
+livid 1 5 0

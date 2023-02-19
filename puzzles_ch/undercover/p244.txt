@@ -1,0 +1,6 @@
+7 12 undercover
+lupus 5 1 1
+obese 2 5 0
+banjo 3 5 1
+lunch 1 7 0
+dizzy 1 11 0

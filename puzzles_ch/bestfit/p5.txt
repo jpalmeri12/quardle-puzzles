@@ -1,0 +1,5 @@
+7 10 bestfit
+ennui 4 1 1
+penny 2 2 0
+lipid 1 5 0
+dread 5 5 1

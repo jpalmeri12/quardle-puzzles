@@ -1,0 +1,5 @@
+7 10
+chant 4 1 1
+grate 1 5 0
+equip 5 5 1
+loopy 2 9 0

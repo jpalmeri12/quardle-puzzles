@@ -1,0 +1,5 @@
+7 9
+treat 2 1 1
+thumb 2 1 0
+haven 1 4 0
+elide 4 4 1

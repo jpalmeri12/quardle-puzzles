@@ -1,0 +1,5 @@
+7 10 soundscramble
+teddy 5 1 1
+boady 2 3 0
+morry 1 5 0
+reemy 4 5 1

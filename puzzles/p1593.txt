@@ -1,0 +1,5 @@
+6 9
+mogul 1 1 0
+unwed 4 1 1
+jelly 1 4 1
+elide 1 5 0

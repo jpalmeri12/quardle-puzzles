@@ -1,0 +1,5 @@
+6 6 fourscore
+nosey 1 1 1
+chaos 4 1 1
+ought 1 2 0
+enjoy 1 4 0

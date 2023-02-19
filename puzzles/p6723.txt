@@ -1,0 +1,5 @@
+6 9
+donor 2 1 1
+poser 1 4 0
+eager 4 4 1
+cheer 1 7 0

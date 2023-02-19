@@ -1,0 +1,7 @@
+7 9 secretdistance
+macho 1 1 0
+crawl 3 1 1
+growl 6 2 1
+major 2 3 0
+totem 1 8 0
+!sdpos 2 0 2 2

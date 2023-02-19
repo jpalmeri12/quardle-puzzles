@@ -1,0 +1,5 @@
+7 10 spaced
+other 1 1 0
+threw 2 1 1
+wrung 2 5 0
+grind 6 5 1

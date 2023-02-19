@@ -1,0 +1,5 @@
+7 9 frequency
+snide 2 1 0
+naval 3 1 1
+flank 1 4 0
+froze 1 4 1

@@ -1,0 +1,5 @@
+7 9
+prime 2 1 1
+savvy 4 4 1
+exact 2 5 0
+vinyl 1 8 0

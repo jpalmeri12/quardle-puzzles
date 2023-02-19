@@ -1,0 +1,5 @@
+7 10 sweeper
+sauce 5 1 1
+rodeo 2 5 0
+repay 2 5 1
+matey 1 8 0

@@ -1,0 +1,5 @@
+7 7
+hobby 5 1 1
+scion 2 2 0
+crank 3 2 1
+boney 1 5 0

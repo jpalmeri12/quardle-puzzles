@@ -1,0 +1,5 @@
+7 10 hardmode
+stiff 3 1 1
+affix 2 5 0
+flick 4 5 1
+pitch 1 8 0

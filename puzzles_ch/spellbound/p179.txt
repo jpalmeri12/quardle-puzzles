@@ -1,0 +1,9 @@
+6 10 spellbound
+cagey 5 1 1
+stung 1 3 0
+leery 1 5 0
+liege 1 5 1
+!spellbound 0 3 0
+!spellbound 1 0 2
+!spellbound 2 1 3
+!spellbound 3 2 3

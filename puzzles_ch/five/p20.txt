@@ -1,0 +1,6 @@
+7 10 five
+order 2 1 1
+rider 2 5 0
+inlet 3 5 1
+elope 5 5 1
+igloo 1 7 0

@@ -1,0 +1,5 @@
+6 10 reverse
+ztilb 4 1 1
+derby 1 5 0
+rekoj 3 5 1
+smoke 1 8 0

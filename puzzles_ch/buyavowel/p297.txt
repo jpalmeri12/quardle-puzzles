@@ -1,0 +1,5 @@
+7 8 buyavowel
+joust 1 1 0
+sheik 4 1 1
+delta 6 3 1
+brine 2 4 0

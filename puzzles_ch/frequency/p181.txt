@@ -1,0 +1,5 @@
+7 8 frequency
+trade 2 1 0
+dolly 5 1 1
+tally 3 3 1
+pearl 1 4 0

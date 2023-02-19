@@ -1,0 +1,5 @@
+7 9
+flora 2 1 1
+close 1 2 0
+rehab 2 4 0
+bunny 6 4 1

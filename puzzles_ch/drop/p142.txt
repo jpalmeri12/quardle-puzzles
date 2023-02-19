@@ -1,0 +1,6 @@
+7 12 drop
+reach 6 1 1
+plush 2 5 0
+story 5 5 1
+cameo 1 7 0
+shore 1 11 0

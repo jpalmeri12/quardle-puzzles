@@ -1,0 +1,5 @@
+7 9
+hydro 2 1 1
+hyper 1 2 0
+renal 2 4 0
+lumpy 6 4 1

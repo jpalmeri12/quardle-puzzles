@@ -1,0 +1,5 @@
+6 9
+focus 1 1 1
+frock 1 1 0
+udder 1 4 0
+decal 3 4 1

@@ -1,0 +1,5 @@
+6 7
+smirk 5 1 1
+prism 1 2 0
+realm 2 2 1
+clink 1 5 0

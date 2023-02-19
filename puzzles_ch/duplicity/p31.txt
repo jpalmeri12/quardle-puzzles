@@ -1,0 +1,5 @@
+7 9 duplicity
+carat 5 1 1
+tepee 2 4 1
+treat 2 4 0
+peace 1 7 0

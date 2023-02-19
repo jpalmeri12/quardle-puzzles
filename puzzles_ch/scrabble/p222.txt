@@ -1,0 +1,5 @@
+7 10 scrabble
+cameo 1 5 0
+magic 3 5 1
+junto 5 1 1
+banjo 2 1 0

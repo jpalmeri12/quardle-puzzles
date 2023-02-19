@@ -1,0 +1,5 @@
+6 9 skyscrapers
+spell 5 1 1
+hazel 1 5 0
+baker 2 4 1
+artsy 1 8 0

@@ -1,0 +1,5 @@
+7 10 dblltr
+radar 5 1 1
+leery 2 5 0
+enema 4 5 1
+theme 1 8 0

@@ -1,0 +1,5 @@
+6 8 beta
+ether 2 1 1
+throb 1 3 0
+below 5 3 1
+trial 1 5 0

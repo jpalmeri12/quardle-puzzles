@@ -1,0 +1,5 @@
+7 9
+decoy 5 1 1
+waxen 2 2 0
+crawl 1 4 1
+rusty 1 5 0

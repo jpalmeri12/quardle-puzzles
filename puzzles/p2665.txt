@@ -1,0 +1,5 @@
+7 10
+caulk 4 1 1
+altar 1 2 0
+ankle 2 5 0
+lance 5 5 1

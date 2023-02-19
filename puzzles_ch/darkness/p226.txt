@@ -1,0 +1,5 @@
+6 8 darkness
+felon 1 4 0
+glint 3 3 1
+motto 1 7 0
+graft 1 1 1

@@ -1,0 +1,5 @@
+7 10 frequency
+lyric 4 1 1
+pecan 2 5 0
+proud 2 5 1
+adorn 1 9 0

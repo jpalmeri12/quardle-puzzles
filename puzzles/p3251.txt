@@ -1,0 +1,5 @@
+7 8
+shack 1 1 0
+koala 5 1 1
+carat 2 3 0
+close 2 3 1

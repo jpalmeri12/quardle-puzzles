@@ -1,0 +1,5 @@
+6 10 swap
+shfat 1 1 0
+fuzyz 3 1 1
+razro 1 5 0
+abtae 2 5 1

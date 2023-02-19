@@ -1,0 +1,5 @@
+7 9 fourscore
+nylon 6 1 1
+fetch 4 4 1
+green 2 5 0
+bench 1 7 0

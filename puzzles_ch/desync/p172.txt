@@ -1,0 +1,5 @@
+7 8 desync
+lower 6 1 1
+unfit 2 3 1
+flier 2 5 0
+stave 1 7 0

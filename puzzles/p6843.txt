@@ -1,0 +1,5 @@
+6 10
+rower 5 1 1
+sugar 1 5 0
+unfit 2 5 1
+utter 1 9 0

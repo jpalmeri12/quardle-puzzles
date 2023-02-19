@@ -1,0 +1,5 @@
+7 10
+seedy 6 1 1
+wiser 2 5 1
+wryly 2 5 0
+decal 1 8 0

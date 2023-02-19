@@ -1,0 +1,6 @@
+6 8 drop
+white 2 1 1
+swine 4 1 1
+shown 1 2 0
+sting 1 4 0
+sense 1 7 0

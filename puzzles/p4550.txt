@@ -1,0 +1,5 @@
+7 10
+bough 2 1 1
+outdo 1 3 0
+haste 2 5 0
+trite 5 5 1

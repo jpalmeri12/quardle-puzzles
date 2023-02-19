@@ -1,0 +1,6 @@
+7 8 five
+those 2 1 1
+thick 1 2 0
+claim 4 2 1
+bleed 6 3 1
+elite 2 5 0

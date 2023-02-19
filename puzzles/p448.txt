@@ -1,0 +1,5 @@
+7 9
+smell 2 1 1
+amiss 1 2 0
+lynch 2 4 0
+hutch 6 4 1

@@ -1,0 +1,5 @@
+7 8 spaced
+sneak 6 1 1
+usage 2 3 0
+sigma 3 3 1
+teary 1 7 0

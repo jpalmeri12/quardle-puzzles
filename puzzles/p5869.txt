@@ -1,0 +1,5 @@
+7 9
+chest 2 1 1
+islet 1 4 0
+trace 5 4 1
+bunch 2 7 0

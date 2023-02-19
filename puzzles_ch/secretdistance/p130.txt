@@ -1,0 +1,7 @@
+7 10 secretdistance
+zesty 1 1 0
+snowy 3 1 1
+imbue 5 3 1
+swamp 2 4 0
+bawdy 1 9 0
+!sdpos 0 1 2 1

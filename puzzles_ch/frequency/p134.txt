@@ -1,0 +1,5 @@
+6 9 frequency
+vocal 1 1 0
+clove 3 1 1
+revel 1 4 0
+leach 5 4 1

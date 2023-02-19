@@ -1,0 +1,5 @@
+7 10
+worse 3 1 1
+verge 1 3 0
+leaky 2 5 0
+axial 4 5 1

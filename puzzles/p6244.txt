@@ -1,0 +1,5 @@
+7 7
+zesty 3 1 1
+weigh 2 2 0
+gamut 5 2 1
+totem 1 4 0

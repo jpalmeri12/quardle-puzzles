@@ -1,0 +1,5 @@
+6 8
+groan 5 1 1
+count 3 3 1
+churn 1 5 0
+betel 1 7 0

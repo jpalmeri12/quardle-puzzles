@@ -1,0 +1,5 @@
+6 8 spaced
+dwarf 1 1 1
+daisy 1 1 0
+twang 3 3 1
+fraud 1 5 0

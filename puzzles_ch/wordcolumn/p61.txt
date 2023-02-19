@@ -1,0 +1,6 @@
+6 12 wordcolumn
+spire 2 1 1
+rebut 1 5 0
+bicep 3 5 1
+niche 1 7 0
+epoch 5 7 1

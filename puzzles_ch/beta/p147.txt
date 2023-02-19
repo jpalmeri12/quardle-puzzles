@@ -1,0 +1,5 @@
+7 9 beta
+prism 1 1 0
+spire 4 1 1
+first 2 4 0
+flirt 2 4 1

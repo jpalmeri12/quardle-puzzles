@@ -1,0 +1,6 @@
+6 8 island
+enter 4 1 1
+vivid 2 3 1
+siren 1 4 0
+idiom 1 7 0
+!island 31 111 311 211

@@ -1,0 +1,5 @@
+7 9
+puree 2 1 1
+puffy 1 2 0
+endow 2 4 0
+drank 4 4 1

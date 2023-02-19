@@ -1,0 +1,5 @@
+6 7 soundscramble
+edlir 5 1 1
+acred 1 2 0
+chena 2 2 1
+bengi 1 4 0

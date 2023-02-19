@@ -1,0 +1,6 @@
+7 10 wordcolumn
+welsh 3 1 1
+poppy 6 2 1
+wagon 2 5 1
+whoop 2 5 0
+ingot 1 9 0

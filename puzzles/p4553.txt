@@ -1,0 +1,5 @@
+6 9
+datum 4 1 1
+rebut 1 4 0
+equal 2 4 1
+warty 1 7 0

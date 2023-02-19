@@ -1,0 +1,5 @@
+7 10
+alibi 1 1 0
+blare 4 1 1
+steep 2 5 0
+embed 5 5 1

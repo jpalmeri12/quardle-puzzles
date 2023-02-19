@@ -1,0 +1,5 @@
+7 7 darkness
+minus 3 1 1
+sling 1 2 0
+curvy 2 4 0
+gavel 5 2 1

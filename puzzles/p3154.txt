@@ -1,0 +1,5 @@
+7 9
+fussy 5 1 1
+mogul 2 2 0
+cross 1 4 0
+cress 1 4 1

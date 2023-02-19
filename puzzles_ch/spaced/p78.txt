@@ -1,0 +1,5 @@
+7 10 spaced
+anger 6 1 1
+other 2 5 0
+thank 3 5 1
+pansy 1 8 0

@@ -1,0 +1,6 @@
+7 10 drop
+pinto 2 1 1
+piper 2 1 0
+shelf 5 3 1
+forge 1 5 0
+graph 1 9 0

@@ -1,0 +1,5 @@
+7 8 elbowroom
+ficus 2 1 1
+dimly 1 2 0
+filth 6 3 1
+steal 2 5 0

@@ -1,0 +1,6 @@
+7 8 connectfive
+amuse 2 1 0
+envoy 6 1 1
+blimp 4 3 1
+spicy 2 5 0
+soapy 1 7 0

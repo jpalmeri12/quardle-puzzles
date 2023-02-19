@@ -1,0 +1,5 @@
+7 9 reverse
+thick 5 1 1
+ffocs 2 4 0
+foola 2 4 1
+glory 1 7 0

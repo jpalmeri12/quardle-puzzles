@@ -1,0 +1,5 @@
+7 10
+topaz 5 1 1
+waltz 1 5 0
+agony 2 5 1
+oxide 2 7 0

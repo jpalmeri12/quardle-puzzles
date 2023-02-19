@@ -1,0 +1,5 @@
+7 8 desync
+nylon 3 1 1
+place 2 3 0
+creep 5 3 1
+penne 1 5 0

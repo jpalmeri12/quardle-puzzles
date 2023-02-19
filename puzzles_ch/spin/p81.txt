@@ -1,0 +1,5 @@
+7 10 spin
+brink 4 1 1
+adore 1 2 0
+taker 2 5 0
+rover 6 5 1

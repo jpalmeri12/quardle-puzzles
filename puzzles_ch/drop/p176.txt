@@ -1,0 +1,6 @@
+7 11 drop
+purse 2 1 0
+rebel 4 1 1
+squad 1 4 1
+quilt 1 5 0
+bliss 1 10 0

@@ -1,0 +1,5 @@
+7 10
+worth 5 1 1
+light 2 5 0
+grain 4 5 1
+resin 1 8 0

@@ -1,0 +1,7 @@
+6 6 fourthwall
+ethos 1 1 0
+eager 1 1 1
+grunt 1 3 0
+haunt 3 1 1
+rotor 1 5 0
+satyr 5 1 1

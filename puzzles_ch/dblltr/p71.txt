@@ -1,0 +1,5 @@
+7 7 dblltr
+payee 6 1 1
+tenet 3 2 1
+undue 2 4 0
+utter 1 6 0

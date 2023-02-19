@@ -1,0 +1,5 @@
+7 10 invention
+agape 1 1 0
+gnash 2 1 1
+hussy 2 5 0
+steam 5 5 1

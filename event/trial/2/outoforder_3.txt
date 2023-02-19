@@ -1,0 +1,5 @@
+7 10 outoforder
+alibi 3 1 1
+vinyl 2 5 0
+yacht 5 5 1
+match 1 8 0

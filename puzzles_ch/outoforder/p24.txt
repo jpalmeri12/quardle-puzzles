@@ -1,0 +1,5 @@
+6 10 outoforder
+suing 3 1 1
+wight 1 5 0
+where 1 5 1
+erupt 1 9 0

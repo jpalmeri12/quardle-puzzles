@@ -1,0 +1,5 @@
+7 9 reverse
+habit 2 1 1
+cibuc 4 4 1
+thing 2 5 0
+ffocs 1 8 0

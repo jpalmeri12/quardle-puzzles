@@ -1,0 +1,5 @@
+7 10 desync
+hover 5 1 1
+weave 2 3 0
+solar 1 5 0
+snipe 1 5 1

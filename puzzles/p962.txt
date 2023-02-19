@@ -1,0 +1,5 @@
+6 7
+learn 1 1 1
+event 1 2 0
+toddy 5 2 1
+nomad 1 5 0

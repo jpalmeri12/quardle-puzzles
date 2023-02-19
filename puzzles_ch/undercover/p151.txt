@@ -1,0 +1,6 @@
+7 12 undercover
+slush 1 1 1
+hobby 1 5 0
+birth 4 5 1
+jerky 2 7 0
+mamma 1 11 0

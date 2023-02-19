@@ -1,0 +1,7 @@
+7 12 secretdistance
+while 4 1 1
+fishy 1 2 0
+amend 2 5 0
+meaty 3 5 1
+irate 1 11 0
+!sdpos 0 3 2 2

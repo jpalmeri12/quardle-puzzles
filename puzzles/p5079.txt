@@ -1,0 +1,5 @@
+7 10
+wound 2 1 1
+deuce 2 5 0
+urban 4 5 1
+solar 1 8 0

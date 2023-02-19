@@ -1,0 +1,6 @@
+6 12 five
+speed 3 1 1
+elder 1 5 0
+entry 4 5 1
+jetty 1 7 0
+jiffy 1 7 1

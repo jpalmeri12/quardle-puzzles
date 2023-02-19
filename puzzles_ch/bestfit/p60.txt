@@ -1,0 +1,5 @@
+7 9 bestfit
+sprig 2 1 1
+siren 5 4 1
+grain 2 5 0
+usage 1 7 0

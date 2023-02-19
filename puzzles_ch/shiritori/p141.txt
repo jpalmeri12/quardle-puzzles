@@ -1,0 +1,5 @@
+7 9 shiritori
+tapir 5 1 1
+basic 2 4 0
+bushy 2 4 1
+photo 1 7 0

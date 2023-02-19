@@ -1,0 +1,5 @@
+7 9
+shrub 2 1 1
+pupal 5 4 1
+bonus 2 5 0
+pizza 1 7 0

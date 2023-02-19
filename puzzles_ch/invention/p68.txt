@@ -1,0 +1,5 @@
+7 8 invention
+islet 2 1 1
+smack 4 3 1
+tramp 2 5 0
+khaki 1 7 0

@@ -1,0 +1,5 @@
+7 8 scrabble
+verso 3 1 1
+covet 1 1 0
+gruff 2 3 0
+fuzzy 5 3 1

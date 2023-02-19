@@ -1,0 +1,5 @@
+6 7 swap
+rleic 2 1 1
+mloar 1 2 0
+aigng 4 2 1
+miage 1 4 0

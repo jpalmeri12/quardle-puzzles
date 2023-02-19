@@ -1,0 +1,5 @@
+7 7
+ninja 2 1 1
+devil 4 2 1
+niece 2 3 0
+habit 1 5 0

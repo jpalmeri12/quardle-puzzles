@@ -1,0 +1,6 @@
+6 10 five
+nylon 3 1 1
+rayon 1 2 0
+nadir 5 2 1
+ennui 1 5 0
+nymph 2 5 1

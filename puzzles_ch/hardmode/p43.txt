@@ -1,0 +1,5 @@
+7 7 hardmode
+holly 3 1 1
+lymph 5 2 1
+silky 1 3 0
+nymph 2 5 0

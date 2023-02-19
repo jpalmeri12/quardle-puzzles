@@ -1,0 +1,5 @@
+7 9 soundscramble
+tritu 2 1 1
+rubet 2 2 0
+stedy 1 4 0
+dencu 4 4 1

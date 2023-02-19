@@ -1,0 +1,5 @@
+7 10 reverse
+aroga 2 1 1
+annul 2 1 0
+maets 1 5 0
+sugar 5 5 1

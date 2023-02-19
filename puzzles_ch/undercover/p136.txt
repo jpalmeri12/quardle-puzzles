@@ -1,0 +1,6 @@
+6 12 undercover
+radii 2 1 1
+ninja 1 5 0
+jumbo 4 5 1
+crimp 1 7 0
+testy 1 11 0

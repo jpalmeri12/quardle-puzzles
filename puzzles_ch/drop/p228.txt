@@ -1,0 +1,6 @@
+7 10 drop
+soapy 1 1 0
+parka 4 1 1
+baker 6 3 1
+clack 2 5 0
+scary 1 9 0

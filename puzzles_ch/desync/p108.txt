@@ -1,0 +1,5 @@
+7 9 desync
+goose 1 1 1
+speed 1 4 0
+emcee 3 4 1
+scaly 2 6 0

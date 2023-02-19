@@ -1,0 +1,5 @@
+7 10 invention
+pizza 4 1 1
+titan 1 5 0
+nurse 5 5 1
+shirt 2 7 0

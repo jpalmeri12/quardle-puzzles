@@ -1,0 +1,5 @@
+7 7 desync
+alter 5 1 1
+skull 2 2 0
+knack 3 2 1
+racer 1 5 0

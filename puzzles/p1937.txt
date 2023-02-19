@@ -1,0 +1,5 @@
+7 9
+foyer 5 1 1
+savoy 2 2 0
+taste 1 4 0
+tease 1 4 1

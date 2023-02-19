@@ -1,0 +1,5 @@
+7 10
+china 4 1 1
+pushy 1 2 0
+draft 2 5 0
+flood 5 5 1

@@ -1,0 +1,5 @@
+7 10
+gruel 5 1 1
+where 2 2 0
+skull 1 5 0
+lorry 4 5 1

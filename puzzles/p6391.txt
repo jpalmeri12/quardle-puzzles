@@ -1,0 +1,5 @@
+7 10
+fifth 6 1 1
+cough 2 5 0
+grace 5 5 1
+rumba 1 7 0

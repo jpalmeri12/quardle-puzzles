@@ -1,0 +1,5 @@
+7 10
+windy 2 1 1
+myrrh 1 5 0
+rearm 3 5 1
+imbue 2 9 0

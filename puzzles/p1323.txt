@@ -1,0 +1,5 @@
+7 9
+munch 5 1 1
+crisp 2 4 1
+right 2 5 0
+ascot 1 7 0

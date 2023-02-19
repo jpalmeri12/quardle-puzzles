@@ -1,0 +1,8 @@
+6 8 twins
+limbo 1 1 0
+agora 1 3 0
+abort 1 5 0
+gauge 1 7 0
+!twins 1 2
+!twins 0 2
+!twins 0 2

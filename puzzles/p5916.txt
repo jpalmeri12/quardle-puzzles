@@ -1,0 +1,5 @@
+7 10
+arose 6 1 1
+knife 2 5 0
+intro 4 5 1
+prior 1 9 0

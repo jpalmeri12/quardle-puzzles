@@ -1,0 +1,6 @@
+6 8 drop
+blimp 1 1 0
+board 1 1 1
+pasty 5 1 1
+amiss 1 3 0
+bawdy 1 7 0

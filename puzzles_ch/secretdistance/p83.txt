@@ -1,0 +1,7 @@
+7 11 secretdistance
+trice 2 1 1
+cabby 2 4 0
+brush 5 4 1
+amiss 1 7 0
+primo 1 10 0
+!sdpos 1 0 2 1

@@ -1,0 +1,5 @@
+6 10
+safer 2 1 1
+prime 1 5 0
+index 3 5 1
+sadly 1 7 0

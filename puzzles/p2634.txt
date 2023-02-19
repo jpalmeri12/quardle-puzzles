@@ -1,0 +1,5 @@
+7 8
+aloft 1 1 1
+dryly 3 3 1
+thyme 1 5 0
+hyena 2 7 0

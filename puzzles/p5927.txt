@@ -1,0 +1,5 @@
+7 8
+boule 2 1 0
+brave 2 1 1
+folio 4 3 1
+dealt 1 5 0

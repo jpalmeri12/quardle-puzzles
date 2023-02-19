@@ -1,0 +1,5 @@
+7 10
+tramp 5 1 1
+cheap 1 5 0
+enjoy 3 5 1
+fjord 2 7 0

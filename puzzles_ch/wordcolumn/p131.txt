@@ -1,0 +1,6 @@
+7 10 wordcolumn
+diver 2 1 1
+blurt 5 1 1
+idyll 2 2 0
+draft 1 5 0
+freak 4 5 1

@@ -1,0 +1,5 @@
+7 9 duplicity
+satin 1 1 1
+issue 1 4 0
+untie 4 4 1
+titan 2 6 0

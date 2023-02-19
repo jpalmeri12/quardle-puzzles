@@ -1,0 +1,9 @@
+7 8 beforeafter
+nasty 1 1 0
+stole 3 1 1
+lousy 2 3 0
+snuff 5 3 1
+!beforeafter 1 o
+!beforeafter 1 q
+!beforeafter 1 q
+!beforeafter 2 k

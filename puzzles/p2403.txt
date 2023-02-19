@@ -1,0 +1,5 @@
+6 10
+mulch 3 1 1
+rehab 1 5 0
+aider 4 5 1
+toddy 1 7 0

@@ -1,0 +1,8 @@
+6 8 twins
+purer 1 1 0
+board 1 3 0
+hyena 1 5 0
+bribe 1 7 0
+!twins 0 4
+!twins 2 3
+!twins 2 4

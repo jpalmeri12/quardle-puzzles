@@ -1,0 +1,8 @@
+6 8 twins
+flame 1 1 0
+theft 1 3 0
+chest 1 5 0
+creep 1 7 0
+!twins 1 2
+!twins 1 2
+!twins 0 2

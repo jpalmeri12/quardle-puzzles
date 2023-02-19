@@ -1,0 +1,5 @@
+7 10
+bevel 1 1 1
+lunge 1 5 0
+grope 4 5 1
+pupil 2 8 0

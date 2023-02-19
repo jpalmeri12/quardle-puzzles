@@ -1,0 +1,5 @@
+7 9
+table 4 1 1
+papal 1 2 0
+belly 2 4 0
+below 2 4 1

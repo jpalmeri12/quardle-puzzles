@@ -1,0 +1,5 @@
+7 9 shiritori
+known 1 1 1
+warty 1 4 0
+renal 3 4 1
+bacon 2 7 0

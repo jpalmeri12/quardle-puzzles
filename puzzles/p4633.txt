@@ -1,0 +1,5 @@
+7 10
+punch 5 1 1
+welch 1 5 0
+lorry 3 5 1
+trust 2 8 0

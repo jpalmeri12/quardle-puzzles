@@ -1,0 +1,5 @@
+7 8 bestfit
+error 6 1 1
+after 2 3 0
+freed 3 3 1
+medic 1 7 0

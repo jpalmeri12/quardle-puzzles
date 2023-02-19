@@ -1,0 +1,6 @@
+6 10 five
+rebel 1 1 1
+slink 3 1 1
+eclat 1 2 0
+liken 1 5 0
+enjoy 4 5 1

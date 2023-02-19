@@ -1,0 +1,5 @@
+7 7 buyavowel
+bingo 5 1 1
+khaki 1 2 0
+hello 2 2 1
+labor 2 5 0

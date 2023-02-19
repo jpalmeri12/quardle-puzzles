@@ -1,0 +1,5 @@
+7 9
+khaki 6 1 1
+cabin 3 4 1
+rabbi 2 5 0
+pride 1 7 0

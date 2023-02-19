@@ -1,0 +1,9 @@
+7 9 spellbound
+copse 1 1 0
+optic 2 1 1
+helix 6 4 1
+crime 2 5 0
+!spellbound 0 3 0
+!spellbound 1 2 3
+!spellbound 2 3 0
+!spellbound 3 3 1

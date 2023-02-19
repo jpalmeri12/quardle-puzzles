@@ -1,0 +1,5 @@
+7 8 dblltr
+aware 2 1 0
+rotor 5 1 1
+beset 1 3 0
+ennui 2 3 1

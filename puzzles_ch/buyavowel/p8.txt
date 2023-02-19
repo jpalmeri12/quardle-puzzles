@@ -1,0 +1,5 @@
+7 10 buyavowel
+bayou 4 1 1
+shard 2 2 0
+aloud 1 5 0
+leapt 2 5 1

@@ -1,0 +1,5 @@
+7 10
+wooer 1 1 1
+rerun 1 5 0
+elegy 2 5 1
+exult 2 7 0

@@ -1,0 +1,5 @@
+7 9 reverse
+hsalc 1 1 1
+enihs 5 4 1
+clown 1 5 0
+false 2 8 0

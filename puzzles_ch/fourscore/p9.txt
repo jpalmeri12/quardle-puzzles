@@ -1,0 +1,5 @@
+7 10 fourscore
+fetus 2 1 1
+smack 2 5 0
+amble 4 5 1
+hotly 1 8 0

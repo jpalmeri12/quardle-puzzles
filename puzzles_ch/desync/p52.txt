@@ -1,0 +1,5 @@
+7 9 desync
+briar 2 1 1
+privy 1 2 0
+aging 2 4 0
+idiot 4 4 1

@@ -1,0 +1,5 @@
+7 8
+cabal 2 1 0
+augur 5 1 1
+sprig 1 3 0
+privy 2 3 1

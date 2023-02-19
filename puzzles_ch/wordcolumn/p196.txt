@@ -1,0 +1,6 @@
+7 10 wordcolumn
+third 1 1 1
+mecca 3 1 1
+drawn 1 5 0
+weigh 4 5 1
+ether 2 9 0

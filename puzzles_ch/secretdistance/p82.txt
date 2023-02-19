@@ -1,0 +1,7 @@
+7 12 secretdistance
+reign 5 1 1
+rarer 2 2 0
+blown 1 5 0
+blank 1 5 1
+halve 1 11 0
+!sdpos 3 0 0 1

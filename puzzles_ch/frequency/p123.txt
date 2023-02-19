@@ -1,0 +1,5 @@
+6 6 frequency
+rough 1 1 0
+rugby 1 1 1
+glaze 4 1 1
+boozy 1 4 0

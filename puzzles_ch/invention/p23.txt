@@ -1,0 +1,5 @@
+6 6 invention
+acorn 3 1 1
+leach 5 1 1
+uncle 1 2 0
+lyric 1 4 0

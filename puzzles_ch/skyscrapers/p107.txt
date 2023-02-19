@@ -1,0 +1,5 @@
+7 7 skyscrapers
+world 1 5 0
+fetid 5 1 1
+piety 2 3 0
+diary 3 2 1

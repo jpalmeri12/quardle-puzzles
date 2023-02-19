@@ -1,0 +1,5 @@
+7 8 scrabble
+liege 2 1 1
+gleam 1 1 0
+elegy 2 3 0
+yacht 6 3 1

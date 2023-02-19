@@ -1,0 +1,5 @@
+7 7
+junto 4 1 1
+clout 1 2 0
+linen 2 2 1
+ebony 2 5 0

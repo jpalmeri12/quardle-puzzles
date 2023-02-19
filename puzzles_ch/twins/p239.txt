@@ -1,0 +1,8 @@
+6 8 twins
+welch 1 1 0
+hussy 1 3 0
+boney 1 5 0
+idiot 1 7 0
+!twins 1 3
+!twins 0 1
+!twins 2 4

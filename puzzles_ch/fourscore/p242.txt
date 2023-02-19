@@ -1,0 +1,5 @@
+6 9 fourscore
+syrup 1 1 1
+stung 1 1 0
+urban 1 4 0
+ninth 5 4 1

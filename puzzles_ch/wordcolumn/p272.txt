@@ -1,0 +1,6 @@
+6 10 wordcolumn
+pilot 2 1 1
+vista 1 2 0
+awake 5 2 1
+stack 1 5 0
+swing 1 5 1

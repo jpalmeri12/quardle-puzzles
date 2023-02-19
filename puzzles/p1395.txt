@@ -1,0 +1,5 @@
+7 10
+roast 5 1 1
+jaunt 1 5 0
+unite 3 5 1
+stack 2 8 0

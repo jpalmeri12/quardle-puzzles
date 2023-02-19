@@ -1,0 +1,9 @@
+7 10 beforeafter
+bayou 3 1 1
+rumba 2 5 0
+blast 5 5 1
+tonga 1 7 0
+!beforeafter 1 l
+!beforeafter 1 p
+!beforeafter 2 m
+!beforeafter 2 i

@@ -1,0 +1,5 @@
+7 9 darkness
+prawn 1 5 0
+grout 2 4 1
+ulcer 2 7 0
+nylon 5 1 1

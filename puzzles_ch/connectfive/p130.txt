@@ -1,0 +1,6 @@
+7 9 connectfive
+quota 2 1 1
+rupee 1 2 0
+niece 4 4 1
+patio 1 5 0
+occur 2 7 0

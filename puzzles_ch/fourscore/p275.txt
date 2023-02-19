@@ -1,0 +1,5 @@
+7 9 fourscore
+stern 1 1 0
+tardy 2 1 1
+buggy 4 4 1
+youth 2 5 0

@@ -1,0 +1,5 @@
+7 10 darkness
+tiara 2 1 1
+igloo 2 2 0
+yacht 5 5 1
+palsy 1 5 0

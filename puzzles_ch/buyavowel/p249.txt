@@ -1,0 +1,5 @@
+7 8 buyavowel
+ficus 2 1 0
+cumin 4 1 1
+bunny 2 3 1
+tunic 1 4 0

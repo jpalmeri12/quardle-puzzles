@@ -1,0 +1,9 @@
+7 9 spellbound
+cacti 5 1 1
+asset 1 4 0
+stint 3 4 1
+anger 2 7 0
+!spellbound 0 2 0
+!spellbound 1 3 0
+!spellbound 2 4 1
+!spellbound 3 3 4

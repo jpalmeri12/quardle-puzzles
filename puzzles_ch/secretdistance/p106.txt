@@ -1,0 +1,7 @@
+6 10 secretdistance
+loath 1 1 1
+lasso 1 1 0
+mercy 5 3 1
+hater 1 5 0
+tangy 1 9 0
+!sdpos 2 1 1 0

@@ -1,0 +1,5 @@
+7 8 swap
+flete 1 1 0
+lahte 2 1 1
+falme 5 3 1
+excle 2 5 0

@@ -1,0 +1,5 @@
+7 9 fourscore
+hardy 6 1 1
+knead 2 4 0
+erode 4 4 1
+crook 1 6 0

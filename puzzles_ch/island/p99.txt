@@ -1,0 +1,6 @@
+7 9 island
+dwarf 4 1 1
+short 1 4 0
+hater 2 4 1
+riper 2 8 0
+!island 32 2111 311 211

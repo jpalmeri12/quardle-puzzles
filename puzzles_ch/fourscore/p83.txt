@@ -1,0 +1,5 @@
+6 9 fourscore
+jerky 1 1 0
+karma 4 1 1
+thyme 1 4 0
+hippo 2 4 1

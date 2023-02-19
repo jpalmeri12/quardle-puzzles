@@ -1,0 +1,5 @@
+6 7
+afoul 2 1 1
+after 1 2 0
+expel 4 2 1
+clued 1 5 0

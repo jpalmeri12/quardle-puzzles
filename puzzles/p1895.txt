@@ -1,0 +1,5 @@
+7 8
+tonal 1 1 0
+latch 5 1 1
+wacky 3 3 1
+match 2 4 0

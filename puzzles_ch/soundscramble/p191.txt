@@ -1,0 +1,5 @@
+6 7 soundscramble
+aonty 4 1 1
+shune 1 2 1
+setop 1 2 0
+uvate 1 4 0

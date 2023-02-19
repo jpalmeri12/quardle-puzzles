@@ -1,0 +1,5 @@
+7 9
+binge 1 1 0
+guppy 4 1 1
+pupil 2 4 0
+leant 6 4 1

@@ -1,0 +1,5 @@
+7 10 duplicity
+tryst 2 1 1
+ether 1 5 0
+hyena 3 5 1
+snare 2 8 0

@@ -1,0 +1,5 @@
+7 7 spin
+flute 1 1 1
+expel 4 2 1
+tripe 1 4 0
+holly 2 6 0

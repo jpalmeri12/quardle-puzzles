@@ -1,0 +1,5 @@
+6 7 hardmode
+globe 4 1 1
+smell 1 2 0
+staid 1 2 1
+alibi 1 4 0

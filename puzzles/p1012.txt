@@ -1,0 +1,5 @@
+7 10
+debug 2 1 0
+enjoy 3 1 1
+coyly 1 5 0
+ought 2 5 1

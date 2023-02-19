@@ -1,0 +1,5 @@
+7 10
+udder 2 1 1
+cruel 1 5 0
+empty 4 5 1
+totem 2 8 0

@@ -1,0 +1,6 @@
+6 10 connectfive
+cubic 1 1 1
+uncle 1 2 0
+drain 5 4 1
+cedar 1 5 0
+dream 3 5 1

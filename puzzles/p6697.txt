@@ -1,0 +1,5 @@
+7 8
+ultra 3 1 1
+natal 5 3 1
+saute 2 5 0
+extol 1 7 0

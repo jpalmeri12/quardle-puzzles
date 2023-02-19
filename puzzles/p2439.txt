@@ -1,0 +1,5 @@
+6 7
+drone 4 1 1
+scorn 1 2 0
+chaff 2 2 1
+often 1 5 0

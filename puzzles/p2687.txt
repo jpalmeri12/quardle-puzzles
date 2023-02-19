@@ -1,0 +1,5 @@
+7 10
+bacon 2 1 1
+scowl 1 3 0
+nadir 2 5 0
+alike 3 5 1

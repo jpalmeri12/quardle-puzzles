@@ -1,0 +1,6 @@
+7 10 drop
+macho 2 1 1
+skirt 5 3 1
+hunky 2 4 0
+unfit 1 7 0
+foray 1 9 0

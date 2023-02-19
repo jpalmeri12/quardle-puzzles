@@ -1,0 +1,5 @@
+7 8
+hello 5 1 1
+colon 3 3 1
+aloof 2 5 0
+junto 1 7 0

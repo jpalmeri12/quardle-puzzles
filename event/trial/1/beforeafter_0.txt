@@ -1,0 +1,9 @@
+7 9 beforeafter
+spend 6 1 1
+epoxy 2 4 1
+pried 2 5 0
+tying 1 8 0
+!beforeafter 1 o
+!beforeafter 2 r
+!beforeafter 1 k
+!beforeafter 1 o

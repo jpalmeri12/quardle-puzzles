@@ -1,0 +1,5 @@
+6 6
+leper 1 1 0
+labor 1 1 1
+robin 5 1 1
+rerun 1 5 0

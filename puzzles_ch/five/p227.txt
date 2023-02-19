@@ -1,0 +1,6 @@
+7 10 five
+delta 4 1 1
+shelf 2 2 0
+rehab 1 5 1
+rebar 1 5 0
+banjo 3 5 1

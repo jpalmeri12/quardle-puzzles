@@ -1,0 +1,5 @@
+6 7
+share 2 1 1
+child 1 2 0
+lunch 4 2 1
+crony 1 4 0

@@ -1,0 +1,5 @@
+7 8
+spiny 2 1 0
+ionic 4 1 1
+thing 1 3 0
+hobby 2 3 1

@@ -1,0 +1,5 @@
+7 9
+bench 2 1 1
+acute 1 4 0
+tying 4 4 1
+bingo 2 7 0

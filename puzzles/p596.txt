@@ -1,0 +1,5 @@
+7 8
+loyal 3 1 1
+exact 5 3 1
+clean 2 5 0
+gaunt 1 7 0

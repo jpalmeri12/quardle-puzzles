@@ -1,0 +1,5 @@
+6 7 soundscramble
+gowky 4 1 1
+essoy 1 2 0
+spaut 2 2 1
+palko 1 4 0

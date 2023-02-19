@@ -1,0 +1,6 @@
+7 11 undercover
+fluff 1 1 0
+frame 5 1 1
+erupt 2 4 1
+ruder 2 5 0
+conch 1 10 0

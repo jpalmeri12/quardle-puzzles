@@ -1,0 +1,5 @@
+7 9
+fishy 4 1 1
+creak 2 4 1
+royal 2 5 0
+sauna 1 7 0

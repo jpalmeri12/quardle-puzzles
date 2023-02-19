@@ -1,0 +1,6 @@
+6 10 commonsecret
+cross 1 1 0
+snort 4 1 1
+aorta 1 5 0
+annoy 5 5 1
+!secret o

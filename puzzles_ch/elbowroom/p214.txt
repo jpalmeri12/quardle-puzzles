@@ -1,0 +1,5 @@
+7 7 elbowroom
+admit 1 1 0
+dumpy 2 1 1
+fleck 6 2 1
+probe 2 4 0

@@ -1,0 +1,7 @@
+7 10 secretdistance
+speak 2 1 1
+steel 5 3 1
+skate 1 5 0
+scaly 2 7 0
+rebut 1 9 0
+!sdpos 0 0 2 3

@@ -1,0 +1,6 @@
+6 9 wordcolumn
+theme 5 1 1
+wrath 1 2 0
+plaid 1 4 1
+louse 1 5 0
+icing 1 7 0

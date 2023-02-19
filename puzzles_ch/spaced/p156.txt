@@ -1,0 +1,5 @@
+6 10 spaced
+focus 1 1 1
+skimp 1 5 0
+piety 5 5 1
+twice 1 7 0

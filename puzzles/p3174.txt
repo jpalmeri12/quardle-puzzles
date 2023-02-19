@@ -1,0 +1,5 @@
+6 10
+chore 3 1 1
+guess 1 5 0
+style 4 5 1
+whelp 1 8 0

@@ -1,0 +1,9 @@
+7 10 beforeafter
+quill 1 1 1
+least 1 5 0
+twine 5 5 1
+steel 2 9 0
+!beforeafter 1 p
+!beforeafter 2 q
+!beforeafter 1 q
+!beforeafter 1 n

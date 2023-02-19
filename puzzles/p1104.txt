@@ -1,0 +1,5 @@
+7 9
+whirl 5 1 1
+booze 2 4 1
+berry 2 4 0
+needy 1 8 0

@@ -1,0 +1,5 @@
+7 7
+froth 1 1 0
+tapir 4 1 1
+milky 6 2 1
+whirl 2 4 0

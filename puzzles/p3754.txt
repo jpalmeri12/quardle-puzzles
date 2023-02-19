@@ -1,0 +1,5 @@
+7 10
+bushy 1 1 1
+yearn 1 5 0
+aisle 3 5 1
+bland 2 8 0

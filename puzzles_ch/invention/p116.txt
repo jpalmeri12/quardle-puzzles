@@ -1,0 +1,5 @@
+7 9 invention
+plier 6 1 1
+fibre 2 4 0
+bawdy 4 4 1
+handy 1 7 0

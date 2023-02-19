@@ -1,0 +1,5 @@
+7 7
+zebra 5 1 1
+ledge 1 2 0
+ditch 3 2 1
+stork 2 4 0

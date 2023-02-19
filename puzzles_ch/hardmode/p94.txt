@@ -1,0 +1,5 @@
+7 9 hardmode
+datum 3 1 1
+drawn 1 2 0
+adopt 6 4 1
+embed 2 5 0

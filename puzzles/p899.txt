@@ -1,0 +1,5 @@
+7 10
+stein 4 1 1
+batch 2 2 0
+blink 1 5 0
+kitty 5 5 1

@@ -1,0 +1,5 @@
+7 10
+twixt 5 1 1
+aglow 1 2 0
+spite 2 5 0
+excel 6 5 1

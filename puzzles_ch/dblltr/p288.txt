@@ -1,0 +1,5 @@
+7 9 dblltr
+erode 2 1 1
+idyll 1 4 0
+latte 4 4 1
+cress 2 8 0

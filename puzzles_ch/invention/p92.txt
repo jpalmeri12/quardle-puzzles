@@ -1,0 +1,5 @@
+7 10 invention
+haven 5 1 1
+sound 2 5 0
+uncut 4 5 1
+watch 1 7 0

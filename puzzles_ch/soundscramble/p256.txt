@@ -1,0 +1,5 @@
+6 10 soundscramble
+augur 1 1 1
+radee 1 5 0
+enlit 5 5 1
+tinit 1 9 0

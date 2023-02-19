@@ -1,0 +1,5 @@
+7 9 soundscramble
+oxcol 4 1 1
+oxtel 2 4 1
+oxilo 1 5 0
+lecal 2 8 0

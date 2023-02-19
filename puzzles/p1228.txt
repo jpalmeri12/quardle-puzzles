@@ -1,0 +1,5 @@
+6 10
+beach 3 1 1
+ashen 1 5 0
+stuff 2 5 1
+butch 1 7 0

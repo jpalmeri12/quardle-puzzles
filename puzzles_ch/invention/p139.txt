@@ -1,0 +1,5 @@
+7 9 invention
+grown 1 1 1
+psalm 4 4 1
+noisy 1 5 0
+vomit 2 8 0

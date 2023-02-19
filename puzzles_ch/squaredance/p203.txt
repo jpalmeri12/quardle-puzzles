@@ -1,0 +1,6 @@
+6 8 squaredance
+racer 1 1 1
+riser 5 1 1
+rider 1 1 0
+river 1 5 0
+upper 1 7 0

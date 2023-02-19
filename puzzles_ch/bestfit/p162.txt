@@ -1,0 +1,5 @@
+7 8 bestfit
+sinew 2 1 1
+tulle 4 3 1
+dwell 1 5 0
+erect 2 7 0

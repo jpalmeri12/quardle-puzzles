@@ -1,0 +1,5 @@
+7 10
+cluck 3 1 1
+skimp 2 5 0
+minim 5 5 1
+sushi 1 8 0

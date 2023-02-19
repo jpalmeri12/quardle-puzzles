@@ -1,0 +1,5 @@
+7 9 sweeper
+scoop 5 1 1
+shone 2 4 1
+salon 2 4 0
+fetch 1 8 0

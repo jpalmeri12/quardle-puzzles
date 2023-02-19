@@ -1,0 +1,5 @@
+7 10
+mossy 5 1 1
+terse 2 3 0
+party 1 5 0
+avert 2 5 1

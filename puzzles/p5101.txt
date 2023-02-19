@@ -1,0 +1,5 @@
+7 9
+tacit 4 1 1
+penal 1 2 0
+spiel 2 4 0
+lipid 6 4 1

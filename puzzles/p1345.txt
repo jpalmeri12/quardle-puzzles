@@ -1,0 +1,5 @@
+6 7
+cabin 4 1 1
+bleak 1 2 0
+livid 2 2 1
+piano 1 5 0

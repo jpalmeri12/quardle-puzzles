@@ -1,0 +1,5 @@
+6 8 hardmode
+stark 1 1 0
+abhor 3 1 1
+hyena 5 3 1
+irony 1 4 0

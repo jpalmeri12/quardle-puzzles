@@ -1,0 +1,5 @@
+7 8
+river 6 1 1
+group 3 3 1
+creme 2 4 0
+stung 1 6 0

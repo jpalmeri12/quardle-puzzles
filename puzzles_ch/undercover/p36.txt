@@ -1,0 +1,6 @@
+6 12 undercover
+prowl 1 1 0
+wrack 4 1 1
+swath 1 5 1
+shake 1 5 0
+dingy 1 11 0

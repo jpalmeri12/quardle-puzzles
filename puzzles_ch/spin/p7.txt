@@ -1,0 +1,5 @@
+7 10 spin
+scald 4 1 1
+rodeo 2 5 0
+edict 5 5 1
+radii 1 7 0

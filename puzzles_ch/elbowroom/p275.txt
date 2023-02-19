@@ -1,0 +1,5 @@
+6 8 elbowroom
+prism 1 1 0
+mambo 5 1 1
+penal 3 3 1
+pinto 1 5 0

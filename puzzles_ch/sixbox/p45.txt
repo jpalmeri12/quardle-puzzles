@@ -1,0 +1,7 @@
+8 8 sixbox
+noise 3 1 1
+crept 5 1 1
+aside 1 3 0
+dusty 4 3 1
+super 3 4 0
+crest 1 5 0

@@ -1,0 +1,5 @@
+7 10 shiritori
+borne 5 1 1
+egret 2 5 0
+gonad 3 5 1
+stare 1 8 0

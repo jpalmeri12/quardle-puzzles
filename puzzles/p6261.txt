@@ -1,0 +1,5 @@
+7 10
+furor 5 1 1
+upper 1 5 0
+purge 3 5 1
+crook 2 7 0

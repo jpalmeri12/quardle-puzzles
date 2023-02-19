@@ -1,0 +1,5 @@
+6 7 beta
+moldy 2 1 1
+unfed 4 2 1
+slang 1 3 0
+hymen 1 5 0

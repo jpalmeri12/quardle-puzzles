@@ -1,0 +1,5 @@
+6 9 reverse
+throb 1 1 1
+hutch 1 2 0
+obmil 1 4 0
+laixa 5 4 1

@@ -1,0 +1,5 @@
+7 7
+belch 5 1 1
+amber 2 2 0
+mambo 3 2 1
+mimic 1 4 0

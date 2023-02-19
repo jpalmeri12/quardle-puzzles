@@ -1,0 +1,5 @@
+6 9 spin
+jaunt 2 1 1
+badly 1 2 0
+renew 5 4 1
+style 1 5 0

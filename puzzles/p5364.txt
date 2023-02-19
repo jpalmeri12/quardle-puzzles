@@ -1,0 +1,5 @@
+6 6
+fetus 1 1 1
+privy 5 1 1
+elder 1 2 0
+slyly 1 5 0

@@ -1,0 +1,5 @@
+6 9 outoforder
+islet 1 1 0
+slope 2 1 1
+spurt 1 4 0
+roomy 4 4 1

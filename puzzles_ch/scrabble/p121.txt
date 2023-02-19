@@ -1,0 +1,5 @@
+7 9 scrabble
+adept 2 5 0
+shave 1 7 0
+cache 2 4 1
+amaze 4 1 1

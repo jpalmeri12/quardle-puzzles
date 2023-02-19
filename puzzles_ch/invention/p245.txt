@@ -1,0 +1,5 @@
+7 9 invention
+alibi 3 1 1
+renal 5 4 1
+fiber 2 5 0
+pasta 1 7 0

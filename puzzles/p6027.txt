@@ -1,0 +1,5 @@
+6 7
+chunk 1 1 1
+halve 1 2 0
+lurid 3 2 1
+nerve 1 4 0

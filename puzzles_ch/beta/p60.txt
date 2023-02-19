@@ -1,0 +1,5 @@
+7 10 beta
+disco 2 1 0
+stomp 4 1 1
+happy 1 5 0
+hovel 1 5 1

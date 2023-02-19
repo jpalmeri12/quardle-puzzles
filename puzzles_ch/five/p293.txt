@@ -1,0 +1,6 @@
+7 10 five
+fraud 2 1 1
+radii 2 2 0
+adapt 1 5 0
+parka 4 5 1
+topaz 1 9 0

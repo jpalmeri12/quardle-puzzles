@@ -1,0 +1,5 @@
+6 9
+stick 1 1 0
+toxic 2 1 1
+truly 4 4 1
+score 1 5 0

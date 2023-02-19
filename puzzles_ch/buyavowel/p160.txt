@@ -1,0 +1,5 @@
+7 9 buyavowel
+bingo 1 1 1
+dummy 4 4 1
+occur 1 5 0
+idyll 2 8 0

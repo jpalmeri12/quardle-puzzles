@@ -1,0 +1,5 @@
+7 9 duplicity
+angst 2 1 1
+gnome 4 4 1
+stone 1 5 0
+gamma 2 7 0

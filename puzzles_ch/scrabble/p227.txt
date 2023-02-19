@@ -1,0 +1,5 @@
+6 10 scrabble
+neigh 3 5 1
+gumbo 1 1 0
+brisk 4 1 1
+lanky 1 5 0

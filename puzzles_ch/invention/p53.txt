@@ -1,0 +1,5 @@
+6 10 invention
+panic 2 1 1
+salty 1 2 0
+icing 1 5 0
+glean 5 5 1

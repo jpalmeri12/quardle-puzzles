@@ -1,0 +1,5 @@
+6 9 bestfit
+merge 4 1 1
+easel 1 2 0
+gorge 1 4 0
+glean 1 4 1

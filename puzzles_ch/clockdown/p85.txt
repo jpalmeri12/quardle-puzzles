@@ -1,0 +1,5 @@
+6 8 clockdown
+gamma 2 1 1
+among 1 3 0
+gauze 5 3 1
+bayou 1 5 0

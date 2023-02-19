@@ -1,0 +1,6 @@
+7 12 drop
+polka 2 1 1
+loose 2 3 0
+raspy 1 5 0
+stray 3 5 1
+rayon 1 11 0

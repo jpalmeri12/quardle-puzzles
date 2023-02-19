@@ -1,0 +1,5 @@
+7 9 spin
+marry 1 1 0
+roach 3 1 1
+actor 2 4 0
+order 5 4 1

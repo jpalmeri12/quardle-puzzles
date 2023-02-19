@@ -1,0 +1,5 @@
+7 10
+worth 2 1 1
+holly 2 5 0
+overt 3 5 1
+curly 1 8 0

@@ -1,0 +1,9 @@
+7 10 beforeafter
+chest 6 1 1
+joust 2 5 0
+squib 5 5 1
+bayou 1 7 0
+!beforeafter 2 k
+!beforeafter 1 q
+!beforeafter 2 n
+!beforeafter 1 m

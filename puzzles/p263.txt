@@ -1,0 +1,5 @@
+7 10
+ledge 3 1 1
+chess 1 2 0
+beast 2 5 0
+squad 5 5 1

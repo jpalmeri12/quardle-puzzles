@@ -1,0 +1,6 @@
+6 9 drop
+skate 1 1 1
+krill 1 2 0
+lofty 4 2 1
+elite 1 5 0
+perky 1 8 0

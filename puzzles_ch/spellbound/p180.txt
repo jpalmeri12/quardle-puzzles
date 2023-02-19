@@ -1,0 +1,9 @@
+7 8 spellbound
+jewel 2 1 1
+wispy 2 3 0
+pushy 5 3 1
+bliss 1 5 0
+!spellbound 0 0 1
+!spellbound 1 1 2
+!spellbound 2 4 3
+!spellbound 3 3 2

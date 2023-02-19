@@ -1,0 +1,5 @@
+7 8
+stunk 5 1 1
+shorn 3 3 1
+frock 1 5 0
+unwed 2 7 0

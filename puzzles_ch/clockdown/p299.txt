@@ -1,0 +1,5 @@
+7 10 clockdown
+spell 4 1 1
+topaz 2 2 0
+stole 1 5 0
+sever 1 5 1

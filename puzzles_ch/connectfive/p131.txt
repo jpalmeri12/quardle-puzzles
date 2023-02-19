@@ -1,0 +1,6 @@
+7 10 connectfive
+spoon 3 1 1
+impel 1 2 0
+snack 2 5 0
+alive 4 5 1
+coven 2 8 0

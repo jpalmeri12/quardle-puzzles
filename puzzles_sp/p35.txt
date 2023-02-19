@@ -1,0 +1,6 @@
+6 9 undercover
+swamp 1 1 1
+wharf 1 2 0
+floor 5 2 1
+primo 1 5 0
+judge 1 8 0

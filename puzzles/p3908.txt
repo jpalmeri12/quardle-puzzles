@@ -1,0 +1,5 @@
+7 8
+croak 2 1 1
+chore 5 3 1
+rajah 1 4 0
+paler 2 7 0

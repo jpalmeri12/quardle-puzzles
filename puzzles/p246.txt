@@ -1,0 +1,5 @@
+7 8
+whack 1 1 0
+cloud 4 1 1
+stove 2 3 0
+erase 6 3 1

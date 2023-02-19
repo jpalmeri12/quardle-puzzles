@@ -1,0 +1,5 @@
+7 10 elbowroom
+slurp 2 1 1
+pearl 2 5 0
+eying 3 5 1
+daisy 1 7 0

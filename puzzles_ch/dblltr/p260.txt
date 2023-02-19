@@ -1,0 +1,5 @@
+7 9 dblltr
+humph 5 1 1
+fugue 2 2 0
+offal 1 4 1
+fifth 1 5 0

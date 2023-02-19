@@ -1,0 +1,5 @@
+6 9 duplicity
+spasm 1 1 1
+parse 1 2 0
+smell 1 4 0
+leper 5 4 1

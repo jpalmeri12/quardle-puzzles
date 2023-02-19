@@ -1,0 +1,5 @@
+7 10
+rarer 4 1 1
+forth 2 3 0
+store 1 5 0
+often 3 5 1

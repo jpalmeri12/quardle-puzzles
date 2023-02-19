@@ -1,0 +1,9 @@
+7 8 beforeafter
+mayor 4 1 1
+locus 2 3 1
+carry 2 5 0
+usual 1 7 0
+!beforeafter 1 n
+!beforeafter 2 q
+!beforeafter 1 q
+!beforeafter 2 q

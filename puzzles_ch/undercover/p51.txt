@@ -1,0 +1,6 @@
+6 12 undercover
+china 2 1 1
+rinse 1 3 0
+savor 1 5 0
+octal 4 5 1
+pygmy 1 11 0

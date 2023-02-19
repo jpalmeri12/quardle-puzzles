@@ -1,0 +1,5 @@
+7 9 sweeper
+spout 2 1 1
+stank 2 1 0
+cubic 1 4 0
+igloo 4 4 1

@@ -1,0 +1,5 @@
+7 10 duplicity
+model 4 1 1
+mayor 1 2 0
+drama 2 5 1
+delay 2 5 0

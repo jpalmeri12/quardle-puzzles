@@ -1,0 +1,9 @@
+6 9 beforeafter
+swell 4 1 1
+clown 1 2 0
+psalm 1 4 1
+stall 1 5 0
+!beforeafter 1 q
+!beforeafter 1 m
+!beforeafter 1 o
+!beforeafter 1 m

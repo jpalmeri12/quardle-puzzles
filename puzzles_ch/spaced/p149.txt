@@ -1,0 +1,5 @@
+7 10 spaced
+inert 1 1 1
+threw 1 5 0
+hyper 2 5 1
+enact 2 8 0

@@ -1,0 +1,5 @@
+6 9
+harsh 3 1 1
+poser 1 4 0
+parse 1 4 1
+snarl 1 7 0

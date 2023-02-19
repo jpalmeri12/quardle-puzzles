@@ -1,0 +1,5 @@
+6 9 reverse
+ahead 1 1 0
+accem 4 1 1
+talps 1 4 1
+anime 1 5 0

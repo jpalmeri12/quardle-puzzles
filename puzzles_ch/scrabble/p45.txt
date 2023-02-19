@@ -1,0 +1,5 @@
+7 9 scrabble
+coast 2 4 1
+krill 5 1 1
+chili 2 4 0
+brink 1 1 0

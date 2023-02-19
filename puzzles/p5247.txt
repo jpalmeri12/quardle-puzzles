@@ -1,0 +1,5 @@
+7 10
+dream 4 1 1
+queen 1 3 0
+gamut 2 5 0
+adult 3 5 1

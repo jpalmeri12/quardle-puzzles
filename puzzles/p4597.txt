@@ -1,0 +1,5 @@
+7 9
+vixen 2 1 1
+egret 2 4 0
+rover 4 4 1
+agree 1 7 0

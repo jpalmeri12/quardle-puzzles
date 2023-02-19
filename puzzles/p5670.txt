@@ -1,0 +1,5 @@
+7 10
+pluck 2 1 0
+chalk 5 1 1
+shuck 1 5 0
+undid 3 5 1

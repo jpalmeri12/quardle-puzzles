@@ -1,0 +1,5 @@
+7 10
+manic 3 1 1
+lucid 1 5 0
+upset 2 5 1
+toxin 2 9 0

@@ -1,0 +1,5 @@
+7 8 invention
+event 2 1 0
+nanny 5 1 1
+waxen 1 3 0
+wacky 1 3 1

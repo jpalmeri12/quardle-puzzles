@@ -1,0 +1,6 @@
+6 10 commonsecret
+strip 2 1 1
+scary 1 5 1
+spore 1 5 0
+aware 1 7 0
+!secret r

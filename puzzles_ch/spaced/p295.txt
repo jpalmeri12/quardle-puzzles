@@ -1,0 +1,5 @@
+7 7 spaced
+incur 2 1 1
+naive 2 2 0
+voila 5 2 1
+quasi 1 4 0

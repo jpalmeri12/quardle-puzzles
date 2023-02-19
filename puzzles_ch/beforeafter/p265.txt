@@ -1,0 +1,9 @@
+7 9 beforeafter
+joist 6 1 1
+untie 3 4 1
+input 2 5 0
+chirp 1 7 0
+!beforeafter 2 r
+!beforeafter 2 k
+!beforeafter 2 r
+!beforeafter 2 l

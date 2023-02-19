@@ -1,0 +1,5 @@
+7 7 clockdown
+shrub 1 1 0
+roach 3 1 1
+vodka 6 2 1
+shank 2 5 0

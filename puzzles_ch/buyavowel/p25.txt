@@ -1,0 +1,5 @@
+7 8 buyavowel
+cyber 2 1 0
+beech 4 1 1
+unset 1 3 0
+newly 2 3 1

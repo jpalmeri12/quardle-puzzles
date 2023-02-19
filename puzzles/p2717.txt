@@ -1,0 +1,5 @@
+7 7
+stoop 5 1 1
+might 1 2 0
+inbox 2 2 1
+baron 2 4 0

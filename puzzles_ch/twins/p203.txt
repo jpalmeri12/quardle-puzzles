@@ -1,0 +1,8 @@
+6 8 twins
+loath 1 1 0
+forth 1 3 0
+tarot 1 5 0
+chair 1 7 0
+!twins 1 3
+!twins 0 1
+!twins 0 2

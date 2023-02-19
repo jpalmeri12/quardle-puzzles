@@ -1,0 +1,5 @@
+6 8 duplicity
+optic 2 1 1
+toddy 5 3 1
+disco 1 4 0
+tipsy 1 7 0

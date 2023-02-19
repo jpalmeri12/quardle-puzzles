@@ -1,0 +1,5 @@
+7 9
+cubic 3 1 1
+music 2 2 0
+blink 1 4 0
+brush 1 4 1

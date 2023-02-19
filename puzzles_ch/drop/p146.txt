@@ -1,0 +1,6 @@
+7 9 drop
+rusty 1 1 0
+tango 4 1 1
+bathe 6 2 1
+cloth 2 5 0
+honey 1 8 0

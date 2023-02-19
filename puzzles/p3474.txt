@@ -1,0 +1,5 @@
+7 7
+warty 4 1 1
+straw 1 2 0
+their 2 2 1
+eater 2 4 0

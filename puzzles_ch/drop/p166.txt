@@ -1,0 +1,6 @@
+6 11 drop
+cameo 3 1 1
+blown 1 4 1
+loopy 1 5 0
+nicer 1 8 0
+rayon 1 10 0

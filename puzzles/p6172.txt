@@ -1,0 +1,5 @@
+7 9
+suave 4 1 1
+spurn 2 2 0
+solve 1 4 0
+stomp 1 4 1

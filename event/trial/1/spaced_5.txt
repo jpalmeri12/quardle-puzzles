@@ -1,0 +1,5 @@
+7 9 spaced
+halve 2 1 0
+havoc 2 1 1
+towel 1 4 0
+extra 4 4 1

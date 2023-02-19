@@ -1,0 +1,5 @@
+7 8 spaced
+begin 1 1 0
+gloat 3 1 1
+vodka 2 3 0
+knave 5 3 1

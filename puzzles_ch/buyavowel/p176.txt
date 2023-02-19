@@ -1,0 +1,5 @@
+7 9 buyavowel
+scrum 6 1 1
+sweet 3 4 1
+swarm 2 5 0
+natal 1 8 0

@@ -1,0 +1,6 @@
+7 10 five
+bingo 5 1 1
+humid 2 2 0
+vigor 2 5 0
+inlet 3 5 1
+speed 1 8 0

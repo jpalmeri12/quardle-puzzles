@@ -1,0 +1,6 @@
+7 9 five
+afire 3 1 1
+lefty 1 2 0
+gouge 6 4 1
+hello 2 5 0
+style 2 8 0

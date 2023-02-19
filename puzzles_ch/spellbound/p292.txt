@@ -1,0 +1,9 @@
+6 8 spellbound
+kneel 1 1 0
+nurse 2 1 1
+array 1 3 0
+anode 4 3 1
+!spellbound 0 3 0
+!spellbound 1 3 1
+!spellbound 2 4 2
+!spellbound 3 3 1

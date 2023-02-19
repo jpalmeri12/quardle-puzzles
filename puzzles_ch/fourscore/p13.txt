@@ -1,0 +1,5 @@
+6 7 fourscore
+close 2 1 1
+clash 1 2 0
+seedy 4 2 1
+ashen 1 4 0

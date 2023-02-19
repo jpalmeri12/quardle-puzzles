@@ -1,0 +1,6 @@
+6 10 wordcolumn
+kebab 1 1 0
+bison 5 1 1
+after 1 4 1
+felon 1 5 0
+locus 3 5 1

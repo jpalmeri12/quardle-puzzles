@@ -1,0 +1,5 @@
+7 8 scrabble
+aside 1 6 0
+tulip 2 4 0
+blade 4 3 1
+soapy 6 1 1

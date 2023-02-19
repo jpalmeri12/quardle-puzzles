@@ -1,0 +1,5 @@
+6 7 shiritori
+pecan 4 1 1
+usher 1 2 0
+snowy 2 2 1
+twang 1 5 0

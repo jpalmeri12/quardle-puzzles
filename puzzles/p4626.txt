@@ -1,0 +1,5 @@
+7 9
+medic 4 1 1
+taken 1 2 0
+sling 2 4 0
+swoon 2 4 1

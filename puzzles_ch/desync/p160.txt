@@ -1,0 +1,5 @@
+7 9 desync
+halve 2 1 0
+harsh 2 1 1
+wooer 4 4 1
+whoop 1 5 0

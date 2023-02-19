@@ -1,0 +1,6 @@
+7 10 drop
+metal 2 1 0
+tread 4 1 1
+glory 2 3 1
+moody 1 5 0
+tally 1 9 0

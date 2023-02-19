@@ -1,0 +1,5 @@
+7 8 scrabble
+pried 1 6 0
+belly 6 1 1
+offal 2 4 0
+dowry 2 3 1

@@ -1,0 +1,5 @@
+6 7
+adapt 1 1 1
+delve 1 2 0
+loopy 3 2 1
+phony 1 4 0

@@ -1,0 +1,5 @@
+7 9
+drove 5 1 1
+infer 1 2 0
+spool 3 4 1
+spree 2 5 0

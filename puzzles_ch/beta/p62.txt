@@ -1,0 +1,5 @@
+6 6 beta
+belch 1 1 0
+elbow 2 1 1
+claim 4 1 1
+conic 1 4 0

@@ -1,0 +1,5 @@
+6 7
+strap 1 1 1
+tabby 1 2 0
+brush 4 2 1
+album 1 4 0

@@ -1,0 +1,5 @@
+7 9 invention
+knave 1 1 0
+voila 4 1 1
+feral 6 4 1
+grape 2 5 0

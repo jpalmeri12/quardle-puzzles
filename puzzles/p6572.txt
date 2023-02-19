@@ -1,0 +1,5 @@
+7 10
+grave 5 1 1
+range 1 5 0
+agile 2 5 1
+igloo 2 7 0

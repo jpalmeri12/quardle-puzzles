@@ -1,0 +1,5 @@
+7 9
+ladle 1 1 0
+droit 3 1 1
+crock 6 4 1
+ether 2 5 0

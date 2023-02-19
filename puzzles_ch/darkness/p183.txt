@@ -1,0 +1,5 @@
+7 7 darkness
+valor 3 2 1
+drunk 2 6 0
+testy 1 1 1
+scare 1 3 0

@@ -1,0 +1,6 @@
+7 10 five
+audit 1 1 1
+idiom 1 4 0
+opera 4 4 1
+cacti 6 5 1
+arena 2 6 0

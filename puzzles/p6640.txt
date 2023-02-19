@@ -1,0 +1,5 @@
+6 8
+finer 1 1 0
+eclat 4 1 1
+segue 2 3 1
+agate 1 5 0

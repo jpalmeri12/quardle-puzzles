@@ -1,0 +1,5 @@
+7 10
+abode 4 1 1
+goody 2 3 0
+waver 1 5 0
+rabid 5 5 1

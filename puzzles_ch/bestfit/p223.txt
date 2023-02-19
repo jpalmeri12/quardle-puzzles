@@ -1,0 +1,5 @@
+6 8 bestfit
+ebony 3 1 1
+arrow 5 3 1
+owner 1 4 0
+below 1 7 0

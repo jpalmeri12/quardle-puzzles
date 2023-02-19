@@ -1,0 +1,6 @@
+7 10 wordcolumn
+guava 2 1 1
+gleam 2 1 0
+aloud 5 1 1
+valid 1 5 0
+verso 1 5 1

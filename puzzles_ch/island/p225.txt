@@ -1,0 +1,6 @@
+6 10 island
+bribe 5 1 1
+urine 1 5 0
+icily 3 5 1
+opine 1 7 0
+!island 211 221 1111 311

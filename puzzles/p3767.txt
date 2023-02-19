@@ -1,0 +1,5 @@
+7 7
+blare 5 1 1
+speck 2 2 1
+plead 2 3 0
+scare 1 5 0

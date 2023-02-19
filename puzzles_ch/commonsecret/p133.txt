@@ -1,0 +1,6 @@
+7 10 commonsecret
+elfin 2 1 0
+fungi 4 1 1
+basin 1 5 0
+bunch 1 5 1
+!secret n

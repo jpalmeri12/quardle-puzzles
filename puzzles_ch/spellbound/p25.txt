@@ -1,0 +1,9 @@
+7 9 spellbound
+skimp 1 1 0
+kiosk 2 1 1
+super 2 4 0
+revel 6 4 1
+!spellbound 0 3 4
+!spellbound 1 2 4
+!spellbound 2 3 2
+!spellbound 3 2 1

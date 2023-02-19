@@ -1,0 +1,5 @@
+7 9
+where 5 1 1
+wight 2 2 0
+mower 1 4 0
+ocean 2 4 1

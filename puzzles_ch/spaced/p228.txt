@@ -1,0 +1,5 @@
+7 8 spaced
+lance 2 1 1
+sandy 1 2 0
+other 6 3 1
+craft 2 4 0

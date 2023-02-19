@@ -1,0 +1,5 @@
+7 10 reverse
+topic 1 1 1
+cinut 1 5 0
+uoyab 4 5 1
+stage 2 8 0

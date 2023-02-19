@@ -1,0 +1,5 @@
+6 7
+among 5 1 1
+swarm 1 2 0
+awake 3 2 1
+drain 1 4 0

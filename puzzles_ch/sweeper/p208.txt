@@ -1,0 +1,5 @@
+7 9 sweeper
+shawl 3 1 1
+ashen 1 2 0
+swept 2 4 0
+press 5 4 1

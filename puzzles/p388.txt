@@ -1,0 +1,5 @@
+6 9
+aware 4 1 1
+crown 1 2 0
+mirth 1 4 1
+islet 1 5 0

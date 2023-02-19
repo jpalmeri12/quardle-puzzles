@@ -1,0 +1,5 @@
+7 10
+jumbo 3 1 1
+quilt 2 2 0
+smoky 1 5 0
+kiosk 4 5 1

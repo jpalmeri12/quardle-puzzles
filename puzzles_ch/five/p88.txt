@@ -1,0 +1,6 @@
+6 10 five
+reign 4 1 1
+fever 1 2 0
+endow 2 2 1
+doing 1 5 0
+goody 5 5 1

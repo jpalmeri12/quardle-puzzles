@@ -1,0 +1,5 @@
+7 9
+press 6 1 1
+ficus 2 4 0
+cover 4 4 1
+serve 1 6 0

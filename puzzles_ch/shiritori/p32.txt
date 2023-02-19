@@ -1,0 +1,5 @@
+7 10 shiritori
+loser 1 1 0
+stung 3 1 1
+agora 2 5 0
+ombre 4 5 1

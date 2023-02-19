@@ -1,0 +1,5 @@
+7 9 invention
+crumb 4 1 1
+often 2 4 1
+fibre 2 5 0
+decor 1 7 0

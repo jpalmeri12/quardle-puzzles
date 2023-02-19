@@ -1,0 +1,5 @@
+6 9 unloved
+bossy 1 1 0
+stool 3 1 1
+cloud 1 4 0
+crisp 1 4 1

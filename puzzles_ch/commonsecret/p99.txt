@@ -1,0 +1,6 @@
+7 7 commonsecret
+hardy 1 1 1
+hydro 5 2 1
+ready 1 3 0
+demon 2 6 0
+!secret d

@@ -1,0 +1,9 @@
+7 9 beforeafter
+vodka 2 1 1
+steel 5 4 1
+gaunt 1 5 0
+unwed 2 7 0
+!beforeafter 1 n
+!beforeafter 1 n
+!beforeafter 1 j
+!beforeafter 2 l

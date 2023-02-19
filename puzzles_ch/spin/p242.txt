@@ -1,0 +1,5 @@
+7 8 spin
+thump 1 1 1
+reply 5 3 1
+midge 1 4 0
+polyp 2 7 0

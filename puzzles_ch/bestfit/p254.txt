@@ -1,0 +1,5 @@
+6 9 bestfit
+evade 1 1 1
+easel 1 1 0
+daisy 1 4 0
+icing 3 4 1

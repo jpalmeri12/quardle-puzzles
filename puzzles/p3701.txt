@@ -1,0 +1,5 @@
+7 10
+afoot 5 1 1
+baton 2 3 0
+chart 1 5 0
+abyss 3 5 1

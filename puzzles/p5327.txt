@@ -1,0 +1,5 @@
+7 9
+bowel 2 1 0
+octal 3 1 1
+charm 1 4 0
+modem 5 4 1

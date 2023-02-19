@@ -1,0 +1,5 @@
+7 7
+heavy 5 1 1
+amble 1 2 0
+match 2 2 1
+trove 2 4 0

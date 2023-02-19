@@ -1,0 +1,5 @@
+6 8
+stale 4 1 1
+sloth 2 3 1
+slyly 1 4 0
+thong 1 7 0

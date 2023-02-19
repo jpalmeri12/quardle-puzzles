@@ -1,0 +1,5 @@
+6 9
+lingo 4 1 1
+siege 1 4 0
+small 1 4 1
+lasso 1 8 0

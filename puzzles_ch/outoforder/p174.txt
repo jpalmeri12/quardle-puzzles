@@ -1,0 +1,5 @@
+7 10 outoforder
+ruler 2 1 1
+razor 2 5 0
+amuse 3 5 1
+music 1 8 0

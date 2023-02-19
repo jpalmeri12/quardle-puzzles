@@ -1,0 +1,6 @@
+7 9 drop
+flail 2 1 1
+globe 1 2 0
+being 4 2 1
+lunge 2 5 0
+melee 1 8 0

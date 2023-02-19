@@ -1,0 +1,5 @@
+7 9 frequency
+began 5 1 1
+model 2 2 0
+scrap 1 4 1
+crown 1 5 0

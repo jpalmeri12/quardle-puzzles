@@ -1,0 +1,5 @@
+8 10
+alone 7 1 1
+risky 5 5 1
+nurse 3 5 0
+virus 1 7 0

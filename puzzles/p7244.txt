@@ -1,0 +1,5 @@
+7 9
+sepia 6 1 1
+quasi 2 4 0
+abort 4 4 1
+havoc 1 6 0

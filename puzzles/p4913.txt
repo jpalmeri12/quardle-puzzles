@@ -1,0 +1,5 @@
+7 9
+flush 4 1 1
+billy 2 2 0
+warty 2 4 1
+macho 1 5 0

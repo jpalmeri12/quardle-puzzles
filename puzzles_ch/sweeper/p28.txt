@@ -1,0 +1,5 @@
+6 6 sweeper
+moist 2 1 1
+sneer 4 1 1
+sound 1 2 0
+asset 1 4 0

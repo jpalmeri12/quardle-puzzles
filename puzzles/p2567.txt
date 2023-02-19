@@ -1,0 +1,5 @@
+7 10
+quoth 3 1 1
+whole 2 5 0
+lorry 5 5 1
+skier 1 7 0

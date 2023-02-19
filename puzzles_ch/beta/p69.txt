@@ -1,0 +1,5 @@
+7 10 beta
+dusky 1 1 0
+koala 4 1 1
+flake 2 5 0
+fruit 2 5 1

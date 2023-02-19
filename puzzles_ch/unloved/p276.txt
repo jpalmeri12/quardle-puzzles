@@ -1,0 +1,5 @@
+7 8 unloved
+clout 5 1 1
+puree 3 3 1
+mucus 2 4 0
+inert 1 7 0

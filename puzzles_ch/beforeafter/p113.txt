@@ -1,0 +1,9 @@
+6 9 beforeafter
+rouge 4 1 1
+usage 1 4 0
+spoil 2 4 1
+bison 1 7 0
+!beforeafter 2 n
+!beforeafter 1 o
+!beforeafter 2 m
+!beforeafter 1 j

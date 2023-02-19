@@ -1,0 +1,5 @@
+6 10
+tidal 1 1 1
+level 1 5 0
+eager 2 5 1
+agate 1 7 0

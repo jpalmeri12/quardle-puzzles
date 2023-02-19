@@ -1,0 +1,5 @@
+7 9
+smack 1 1 1
+chunk 1 4 0
+nerve 4 4 1
+cover 2 7 0

@@ -1,0 +1,9 @@
+7 10 spellbound
+jumbo 4 1 1
+scoop 1 5 0
+chime 2 5 1
+exert 2 9 0
+!spellbound 0 1 0
+!spellbound 1 4 2
+!spellbound 2 2 1
+!spellbound 3 4 3

@@ -1,0 +1,5 @@
+7 8 frequency
+pique 1 1 0
+quart 3 1 1
+score 5 3 1
+crock 2 4 0

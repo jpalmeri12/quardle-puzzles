@@ -1,0 +1,5 @@
+6 9 swap
+drudi 1 1 0
+uqalm 3 1 1
+swlil 1 4 0
+shrad 1 4 1

@@ -1,0 +1,5 @@
+7 8
+shyly 1 1 1
+abbot 4 3 1
+limbo 1 4 0
+hater 2 7 0

@@ -1,0 +1,6 @@
+7 10 connectfive
+credo 3 1 1
+rebut 5 4 1
+roast 2 5 1
+rodeo 2 5 0
+ascot 1 8 0

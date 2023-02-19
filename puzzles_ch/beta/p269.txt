@@ -1,0 +1,5 @@
+6 8 beta
+anode 5 1 1
+spore 2 3 1
+spend 1 4 0
+leapt 1 7 0

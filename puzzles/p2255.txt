@@ -1,0 +1,5 @@
+7 10
+scowl 2 1 1
+plate 1 5 0
+every 5 5 1
+polyp 2 9 0

@@ -1,0 +1,5 @@
+6 7
+resin 4 1 1
+dicey 1 2 0
+idiom 2 2 1
+vigil 1 4 0

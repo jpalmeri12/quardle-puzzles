@@ -1,0 +1,6 @@
+7 10 island
+cameo 4 1 1
+equal 1 2 0
+drool 2 5 0
+outer 5 5 1
+!island 11111 2111 22 311

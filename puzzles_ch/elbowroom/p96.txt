@@ -1,0 +1,5 @@
+7 7 elbowroom
+bribe 5 1 1
+bacon 3 2 1
+tacit 2 3 0
+grove 1 5 0

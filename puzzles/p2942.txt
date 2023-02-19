@@ -1,0 +1,5 @@
+7 10
+egret 1 1 0
+epoch 4 1 1
+ethos 2 5 0
+shove 6 5 1

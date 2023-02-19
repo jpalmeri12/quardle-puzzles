@@ -1,0 +1,5 @@
+7 9
+penny 4 1 1
+stint 1 4 0
+tasty 2 4 1
+tumor 2 7 0

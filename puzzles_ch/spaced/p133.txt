@@ -1,0 +1,5 @@
+7 10 spaced
+tower 2 1 1
+ralph 2 5 0
+plaid 5 5 1
+vodka 1 7 0

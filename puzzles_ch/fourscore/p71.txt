@@ -1,0 +1,5 @@
+7 9 fourscore
+mocha 2 1 1
+poser 4 4 1
+aloof 2 5 0
+sheep 1 7 0

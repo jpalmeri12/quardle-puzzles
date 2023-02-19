@@ -1,0 +1,5 @@
+7 10
+board 6 1 1
+vapid 2 5 0
+input 5 5 1
+crimp 1 7 0

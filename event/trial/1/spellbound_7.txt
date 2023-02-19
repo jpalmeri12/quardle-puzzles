@@ -1,0 +1,9 @@
+7 10 spellbound
+steep 1 1 1
+press 1 5 0
+stock 5 5 1
+stoop 2 7 0
+!spellbound 0 1 3
+!spellbound 1 2 1
+!spellbound 2 4 1
+!spellbound 3 4 2

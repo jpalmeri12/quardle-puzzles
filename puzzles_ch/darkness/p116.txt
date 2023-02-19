@@ -1,0 +1,5 @@
+7 10 darkness
+aglow 1 1 0
+inane 6 5 1
+fungi 2 5 0
+wrung 5 1 1

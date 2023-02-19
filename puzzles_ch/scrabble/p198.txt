@@ -1,0 +1,5 @@
+7 10 scrabble
+trice 5 1 1
+rabbi 1 3 0
+screw 2 5 0
+risky 4 5 1

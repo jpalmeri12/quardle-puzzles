@@ -1,0 +1,6 @@
+7 10 island
+talon 4 1 1
+squad 1 2 0
+tangy 2 5 0
+goose 5 5 1
+!island 2111 41 311 211

@@ -1,0 +1,5 @@
+7 8 sweeper
+slave 6 1 1
+forte 3 3 1
+craze 2 5 0
+glean 1 7 0

@@ -1,0 +1,5 @@
+7 10 desync
+fatal 2 1 0
+fungi 2 1 1
+riper 1 5 0
+parry 3 5 1

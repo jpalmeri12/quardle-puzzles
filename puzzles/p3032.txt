@@ -1,0 +1,5 @@
+7 10
+marsh 3 1 1
+scree 1 3 0
+chick 2 5 0
+knack 6 5 1

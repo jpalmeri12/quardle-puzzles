@@ -1,0 +1,9 @@
+6 9 spellbound
+lager 5 1 1
+chair 2 4 1
+sheer 1 5 0
+proof 1 8 0
+!spellbound 0 3 2
+!spellbound 1 2 3
+!spellbound 2 0 3
+!spellbound 3 0 3

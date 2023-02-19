@@ -1,0 +1,5 @@
+7 9
+freed 4 1 1
+shore 1 2 0
+these 2 4 0
+tryst 2 4 1

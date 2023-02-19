@@ -1,0 +1,6 @@
+7 12 drop
+totem 2 1 1
+start 1 3 0
+miner 2 5 0
+nosey 4 5 1
+meter 1 11 0

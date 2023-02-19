@@ -1,0 +1,6 @@
+7 10 undercover
+wheel 5 1 1
+wagon 2 3 1
+farce 1 4 0
+nudge 2 7 0
+spiky 1 9 0

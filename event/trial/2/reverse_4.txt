@@ -1,0 +1,5 @@
+6 7 reverse
+peels 4 1 1
+tenet 1 2 0
+egnam 2 2 1
+harsh 1 5 0

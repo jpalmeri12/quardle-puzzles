@@ -1,0 +1,5 @@
+7 9
+crept 2 1 0
+palsy 5 1 1
+women 3 4 1
+moody 1 5 0

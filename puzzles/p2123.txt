@@ -1,0 +1,5 @@
+7 9
+aping 2 1 1
+honor 4 4 1
+globe 2 5 0
+blurt 1 8 0

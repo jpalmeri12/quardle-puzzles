@@ -1,0 +1,5 @@
+7 10 desync
+loser 2 1 0
+swami 4 1 1
+sheik 1 5 0
+elate 3 5 1

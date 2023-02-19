@@ -1,0 +1,5 @@
+7 9
+haunt 1 1 0
+thick 5 1 1
+force 2 4 0
+owner 3 4 1

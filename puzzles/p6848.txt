@@ -1,0 +1,5 @@
+7 8
+timer 3 1 1
+gamma 1 3 0
+annul 5 3 1
+crone 2 5 0

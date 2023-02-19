@@ -1,0 +1,6 @@
+6 10 five
+seven 2 1 1
+buyer 5 1 1
+every 1 3 0
+under 1 5 0
+upset 1 5 1

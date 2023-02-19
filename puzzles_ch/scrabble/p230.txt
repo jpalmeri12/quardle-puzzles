@@ -1,0 +1,5 @@
+7 10 scrabble
+alibi 2 3 0
+sieve 1 5 1
+cabal 5 1 1
+shawl 1 5 0

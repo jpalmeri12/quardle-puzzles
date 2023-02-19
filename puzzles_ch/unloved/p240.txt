@@ -1,0 +1,5 @@
+7 8 unloved
+cheap 4 1 1
+wrest 2 3 1
+roach 2 4 0
+stalk 1 7 0

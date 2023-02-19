@@ -1,0 +1,6 @@
+7 11 undercover
+stare 3 1 1
+stark 2 2 0
+owing 1 4 1
+where 1 5 0
+pulpy 1 10 0

@@ -1,0 +1,5 @@
+7 9 buyavowel
+scoop 2 1 1
+occur 1 2 0
+safer 5 4 1
+polar 2 5 0

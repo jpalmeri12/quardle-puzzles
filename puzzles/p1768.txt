@@ -1,0 +1,5 @@
+7 8
+tight 1 1 0
+incur 2 1 1
+crane 2 3 0
+after 4 3 1

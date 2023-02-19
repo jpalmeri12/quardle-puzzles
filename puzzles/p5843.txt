@@ -1,0 +1,5 @@
+7 10
+avert 4 1 1
+fixer 1 3 0
+motif 2 5 0
+mural 2 5 1

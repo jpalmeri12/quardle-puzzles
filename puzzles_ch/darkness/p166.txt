@@ -1,0 +1,5 @@
+7 9 darkness
+radio 2 1 1
+snarl 4 4 1
+corny 1 5 0
+rifle 2 1 0

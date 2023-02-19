@@ -1,0 +1,5 @@
+7 10
+fetal 2 1 1
+lingo 2 5 0
+neigh 4 5 1
+dodgy 1 8 0

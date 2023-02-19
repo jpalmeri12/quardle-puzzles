@@ -1,0 +1,6 @@
+6 12 drop
+reset 1 1 1
+smart 1 3 0
+thorn 1 5 0
+ovary 3 5 1
+stole 1 11 0

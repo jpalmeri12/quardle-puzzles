@@ -1,0 +1,9 @@
+6 7 spellbound
+tryst 2 1 1
+drool 1 2 0
+lever 5 2 1
+stale 1 5 0
+!spellbound 0 0 3
+!spellbound 1 2 0
+!spellbound 2 2 1
+!spellbound 3 3 2

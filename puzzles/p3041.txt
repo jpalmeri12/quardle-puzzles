@@ -1,0 +1,5 @@
+7 7
+waxen 3 1 1
+altar 5 2 1
+exalt 2 3 0
+junta 1 5 0

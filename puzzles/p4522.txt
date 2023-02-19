@@ -1,0 +1,5 @@
+6 8
+irony 2 1 1
+eaten 4 3 1
+knead 1 4 0
+blend 1 7 0

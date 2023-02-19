@@ -1,0 +1,5 @@
+6 9 bestfit
+posit 3 1 1
+stout 1 2 0
+build 1 4 0
+blond 1 4 1

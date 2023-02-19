@@ -1,0 +1,5 @@
+7 7
+gaudy 2 1 1
+ratty 1 2 0
+trick 4 2 1
+deign 2 4 0

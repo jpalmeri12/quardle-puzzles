@@ -1,0 +1,5 @@
+7 9 elbowroom
+macho 5 1 1
+gruel 3 4 1
+torso 1 5 0
+click 2 8 0

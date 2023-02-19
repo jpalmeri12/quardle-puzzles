@@ -1,0 +1,7 @@
+6 12 secretdistance
+covet 1 1 1
+twang 1 5 0
+write 2 5 1
+stout 1 8 0
+lyric 1 11 0
+!sdpos 1 2 1 2

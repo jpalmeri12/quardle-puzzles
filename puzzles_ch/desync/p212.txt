@@ -1,0 +1,5 @@
+7 8 desync
+radii 5 1 1
+catty 2 3 1
+tunic 2 5 0
+cycle 1 7 0

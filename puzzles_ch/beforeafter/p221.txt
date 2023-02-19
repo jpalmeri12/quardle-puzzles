@@ -1,0 +1,9 @@
+6 10 beforeafter
+bonus 5 1 1
+cello 1 2 0
+glass 1 5 0
+lynch 2 5 1
+!beforeafter 2 q
+!beforeafter 1 k
+!beforeafter 2 r
+!beforeafter 2 i

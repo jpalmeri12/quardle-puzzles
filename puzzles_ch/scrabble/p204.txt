@@ -1,0 +1,5 @@
+6 7 scrabble
+treat 1 4 0
+fetal 4 1 1
+butch 1 2 1
+boxer 1 2 0

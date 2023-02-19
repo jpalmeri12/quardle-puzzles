@@ -1,0 +1,7 @@
+6 6 fourthwall
+rehab 1 1 0
+rebel 1 1 1
+brawn 1 3 0
+heart 3 1 1
+lathe 1 5 0
+binge 5 1 1

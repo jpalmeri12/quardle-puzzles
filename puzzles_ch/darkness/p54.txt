@@ -1,0 +1,5 @@
+6 9 darkness
+incur 1 2 0
+endow 5 4 1
+piety 1 1 1
+tulle 1 4 0

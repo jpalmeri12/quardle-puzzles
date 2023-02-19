@@ -1,0 +1,9 @@
+6 8 spellbound
+forgo 4 1 1
+scarf 1 3 0
+creak 2 3 1
+demon 1 5 0
+!spellbound 0 0 3
+!spellbound 1 0 4
+!spellbound 2 1 4
+!spellbound 3 0 4

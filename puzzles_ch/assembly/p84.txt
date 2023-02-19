@@ -1,0 +1,5 @@
+6 10 assembly
+wispy 1 3 1
+foyer 5 3 1
+essay 1 1 0
+layer 1 9 0

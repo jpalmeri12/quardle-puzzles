@@ -1,0 +1,5 @@
+7 9 reverse
+basic 5 1 1
+gnals 2 4 1
+tnuoc 1 5 0
+smite 2 8 0

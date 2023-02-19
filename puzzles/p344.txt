@@ -1,0 +1,5 @@
+7 10
+taker 2 1 1
+savvy 1 2 0
+recur 2 5 0
+uncle 5 5 1

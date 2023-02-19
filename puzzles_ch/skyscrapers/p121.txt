@@ -1,0 +1,5 @@
+7 9 skyscrapers
+zesty 2 1 0
+saint 4 1 1
+gusty 1 5 0
+curvy 2 4 1

@@ -1,0 +1,5 @@
+7 10 outoforder
+honor 5 1 1
+ester 1 5 0
+slush 2 5 1
+upper 2 7 0

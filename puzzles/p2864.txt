@@ -1,0 +1,5 @@
+7 10
+helix 3 1 1
+heron 2 2 0
+waxen 1 5 0
+again 2 5 1

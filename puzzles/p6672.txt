@@ -1,0 +1,5 @@
+7 10
+deign 2 1 1
+relax 1 2 0
+naval 2 5 0
+loath 6 5 1

@@ -1,0 +1,6 @@
+7 11 drop
+china 3 1 1
+whirl 2 2 0
+dunce 1 4 0
+exist 5 4 1
+scald 1 10 0

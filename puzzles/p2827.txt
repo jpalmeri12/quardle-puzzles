@@ -1,0 +1,5 @@
+7 9
+stand 1 1 0
+axiom 3 1 1
+crepe 6 4 1
+amber 2 5 0

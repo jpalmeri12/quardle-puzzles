@@ -1,0 +1,5 @@
+7 8 scrabble
+alter 2 1 1
+crane 1 5 0
+berth 2 7 0
+quest 5 3 1

@@ -1,0 +1,5 @@
+7 8
+villa 1 1 1
+brown 4 3 1
+learn 1 4 0
+sower 2 6 0

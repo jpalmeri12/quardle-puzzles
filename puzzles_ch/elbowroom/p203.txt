@@ -1,0 +1,5 @@
+7 7 elbowroom
+cavil 4 1 1
+spray 1 2 0
+proxy 2 2 1
+ovine 2 4 0

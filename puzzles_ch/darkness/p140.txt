@@ -1,0 +1,5 @@
+7 9 darkness
+react 1 8 0
+moist 4 1 1
+ladle 2 4 1
+loser 2 4 0

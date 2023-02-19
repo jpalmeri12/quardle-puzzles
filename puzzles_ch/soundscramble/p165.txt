@@ -1,0 +1,5 @@
+7 8 soundscramble
+likan 6 1 1
+sherk 2 3 0
+hersh 3 3 1
+tasty 1 6 0

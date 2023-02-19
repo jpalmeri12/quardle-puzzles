@@ -1,0 +1,6 @@
+7 10 wordcolumn
+ramen 2 1 0
+macro 4 1 1
+favor 1 5 0
+ferry 1 5 1
+rodeo 5 5 1

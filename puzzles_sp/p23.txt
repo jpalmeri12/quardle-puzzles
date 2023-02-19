@@ -1,0 +1,5 @@
+7 9 elbowroom
+candy 2 1 1
+disco 2 4 0
+steel 4 4 1
+woven 1 7 0

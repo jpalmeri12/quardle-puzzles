@@ -1,0 +1,5 @@
+7 9
+prime 2 1 1
+pause 2 1 0
+smirk 1 4 0
+knoll 5 4 1

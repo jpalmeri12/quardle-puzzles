@@ -1,0 +1,5 @@
+7 10 darkness
+prism 3 5 1
+waive 1 7 0
+affix 5 1 1
+epoxy 2 5 0

@@ -1,0 +1,5 @@
+7 7 invention
+occur 2 1 1
+cagey 2 2 0
+gumbo 4 2 1
+tribe 1 5 0

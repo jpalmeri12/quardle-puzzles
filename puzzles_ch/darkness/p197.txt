@@ -1,0 +1,5 @@
+7 7 darkness
+undue 5 2 1
+adore 2 1 1
+debug 2 2 0
+dried 1 4 0

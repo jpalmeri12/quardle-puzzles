@@ -1,0 +1,5 @@
+6 8 duplicity
+apply 1 1 1
+papal 1 3 0
+latch 5 3 1
+yacht 1 5 0

@@ -1,0 +1,5 @@
+6 9 soundscramble
+bongi 3 1 1
+froed 1 2 0
+sewer 5 4 1
+anide 1 5 0

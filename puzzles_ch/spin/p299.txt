@@ -1,0 +1,5 @@
+6 9 spin
+junta 1 1 1
+jolly 1 1 0
+tardy 1 4 0
+risen 3 4 1

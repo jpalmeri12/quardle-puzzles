@@ -1,0 +1,5 @@
+7 9
+noise 6 1 1
+amass 2 4 0
+mound 3 4 1
+ranch 1 7 0

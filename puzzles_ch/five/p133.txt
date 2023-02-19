@@ -1,0 +1,6 @@
+7 8 five
+gruel 1 1 0
+label 5 1 1
+rabbi 2 3 0
+admit 3 3 1
+imply 2 5 0

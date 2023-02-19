@@ -1,0 +1,6 @@
+7 12 wordcolumn
+crime 4 1 1
+lefty 2 3 1
+freer 2 5 0
+lymph 1 7 0
+pithy 4 7 1

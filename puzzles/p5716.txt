@@ -1,0 +1,5 @@
+7 8
+onion 5 1 1
+swami 1 3 0
+arise 3 3 1
+bezel 2 7 0

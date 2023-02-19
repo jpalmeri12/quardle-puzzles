@@ -1,0 +1,5 @@
+6 10 unloved
+adept 3 1 1
+retry 1 5 1
+retch 1 5 0
+teeth 1 7 0

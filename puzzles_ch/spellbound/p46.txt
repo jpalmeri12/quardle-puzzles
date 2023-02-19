@@ -1,0 +1,9 @@
+6 7 spellbound
+revel 2 1 1
+below 1 2 0
+wreak 5 2 1
+geese 1 4 0
+!spellbound 0 2 0
+!spellbound 1 2 0
+!spellbound 2 4 3
+!spellbound 3 0 2

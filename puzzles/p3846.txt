@@ -1,0 +1,5 @@
+6 9
+shoal 1 1 0
+light 5 1 1
+swash 1 4 0
+snack 1 4 1

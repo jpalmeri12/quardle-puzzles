@@ -1,0 +1,6 @@
+7 11 drop
+learn 5 1 1
+ovoid 3 4 1
+ovine 2 5 0
+lodge 1 8 0
+forgo 1 10 0

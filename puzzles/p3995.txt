@@ -1,0 +1,5 @@
+6 6
+cling 1 1 0
+ledge 2 1 1
+grain 5 1 1
+feign 1 5 0

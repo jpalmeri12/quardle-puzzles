@@ -1,0 +1,5 @@
+6 6 outoforder
+swami 2 1 1
+digit 4 1 1
+await 1 2 0
+sixth 1 5 0

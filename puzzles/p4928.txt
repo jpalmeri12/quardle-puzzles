@@ -1,0 +1,5 @@
+7 10
+safer 3 1 1
+siren 1 5 0
+ionic 2 5 1
+inept 2 8 0

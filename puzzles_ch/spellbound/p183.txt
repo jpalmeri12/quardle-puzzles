@@ -1,0 +1,9 @@
+7 10 spellbound
+delve 4 1 1
+quell 2 2 0
+breed 1 5 0
+rivet 2 5 1
+!spellbound 0 3 0
+!spellbound 1 3 1
+!spellbound 2 0 4
+!spellbound 3 3 2

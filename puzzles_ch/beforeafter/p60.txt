@@ -1,0 +1,9 @@
+7 9 beforeafter
+dairy 2 1 1
+prude 1 4 0
+detox 4 4 1
+toxic 2 8 0
+!beforeafter 2 p
+!beforeafter 2 m
+!beforeafter 1 l
+!beforeafter 2 l

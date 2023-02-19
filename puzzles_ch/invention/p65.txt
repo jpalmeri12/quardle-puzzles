@@ -1,0 +1,5 @@
+6 9 invention
+fifty 5 1 1
+asset 1 4 0
+slide 2 4 1
+pence 1 8 0

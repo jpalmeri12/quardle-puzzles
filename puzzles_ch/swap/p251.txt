@@ -1,0 +1,5 @@
+6 8 swap
+hsale 3 1 1
+tseep 5 3 1
+rcepe 1 5 0
+eloep 1 7 0

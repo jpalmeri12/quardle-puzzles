@@ -1,0 +1,9 @@
+7 9 spellbound
+taffy 5 1 1
+smash 2 4 1
+staff 2 4 0
+using 1 7 0
+!spellbound 0 2 4
+!spellbound 1 1 4
+!spellbound 2 1 4
+!spellbound 3 2 3

@@ -1,0 +1,5 @@
+7 9 frequency
+vault 2 1 0
+linen 5 1 1
+bloke 1 4 0
+loyal 2 4 1

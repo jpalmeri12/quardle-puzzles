@@ -1,0 +1,5 @@
+7 9
+fiery 6 1 1
+layer 2 4 0
+armor 3 4 1
+homer 1 6 0

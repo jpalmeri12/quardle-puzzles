@@ -1,0 +1,5 @@
+7 10 swap
+garph 5 1 1
+seirf 2 3 0
+swtah 1 5 0
+tuebr 3 5 1

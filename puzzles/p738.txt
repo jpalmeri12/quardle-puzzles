@@ -1,0 +1,5 @@
+7 7
+major 2 1 1
+rajah 1 2 0
+havoc 5 2 1
+olive 2 4 0

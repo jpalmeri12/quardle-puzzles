@@ -1,0 +1,6 @@
+6 11 undercover
+brute 4 1 1
+ferry 1 2 0
+track 2 4 1
+freed 1 5 0
+going 1 10 0

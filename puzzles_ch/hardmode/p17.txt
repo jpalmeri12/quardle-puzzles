@@ -1,0 +1,5 @@
+6 6 hardmode
+frown 1 1 0
+route 2 1 1
+wound 4 1 1
+stony 1 4 0

@@ -1,0 +1,5 @@
+7 9
+valve 6 1 1
+bough 4 4 1
+erode 2 5 0
+thigh 1 7 0

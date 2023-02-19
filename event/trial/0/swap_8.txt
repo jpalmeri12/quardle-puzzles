@@ -1,0 +1,5 @@
+7 10 swap
+ufror 2 1 1
+dranw 1 5 0
+wtist 5 5 1
+itbia 2 7 0

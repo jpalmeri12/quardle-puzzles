@@ -1,0 +1,8 @@
+6 8 twins
+meaty 1 1 0
+befit 1 3 0
+elbow 1 5 0
+gnash 1 7 0
+!twins 0 3
+!twins 0 4
+!twins 0 1

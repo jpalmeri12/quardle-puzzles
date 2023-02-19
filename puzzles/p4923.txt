@@ -1,0 +1,5 @@
+6 8
+venue 2 1 1
+rarer 4 3 1
+sugar 1 4 0
+ivory 1 7 0

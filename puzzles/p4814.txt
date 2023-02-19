@@ -1,0 +1,5 @@
+7 7
+debit 3 1 1
+resin 2 2 0
+idyll 5 2 1
+briny 1 4 0

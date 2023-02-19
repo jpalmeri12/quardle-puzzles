@@ -1,0 +1,5 @@
+7 9
+fresh 4 1 1
+carry 1 2 0
+bosom 2 4 0
+minty 6 4 1

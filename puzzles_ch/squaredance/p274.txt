@@ -1,0 +1,6 @@
+6 8 squaredance
+couch 1 1 1
+heavy 5 1 1
+conch 1 1 0
+holly 1 5 0
+admin 1 7 0

@@ -1,0 +1,5 @@
+6 9
+craft 2 1 1
+freak 1 2 0
+unwed 4 4 1
+stunk 1 5 0

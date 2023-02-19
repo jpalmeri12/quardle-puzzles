@@ -1,0 +1,5 @@
+7 9 duplicity
+begin 6 1 1
+obese 2 4 1
+bison 2 5 0
+geese 1 8 0

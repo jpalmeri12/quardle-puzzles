@@ -1,0 +1,6 @@
+7 11 undercover
+match 5 1 1
+angry 3 4 1
+conch 1 5 0
+dying 2 8 0
+jewel 1 10 0

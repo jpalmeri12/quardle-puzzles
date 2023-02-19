@@ -1,0 +1,5 @@
+7 7
+claim 4 1 1
+dwelt 1 2 0
+woozy 2 2 1
+oxide 2 4 0

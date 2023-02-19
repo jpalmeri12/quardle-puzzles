@@ -1,0 +1,9 @@
+7 10 beforeafter
+tramp 4 1 1
+court 1 2 0
+gipsy 2 5 0
+ghoul 2 5 1
+!beforeafter 1 q
+!beforeafter 1 p
+!beforeafter 2 r
+!beforeafter 1 k

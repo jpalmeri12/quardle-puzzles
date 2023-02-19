@@ -1,0 +1,5 @@
+6 10
+afire 1 1 1
+enema 1 5 0
+elite 3 5 1
+weedy 1 9 0

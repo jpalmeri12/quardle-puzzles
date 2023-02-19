@@ -1,0 +1,5 @@
+7 10 swap
+sklil 2 1 1
+blodo 1 5 0
+drmaa 4 5 1
+suaev 2 9 0

@@ -1,0 +1,5 @@
+7 9 dblltr
+gloss 1 1 1
+slosh 1 4 0
+ovoid 3 4 1
+loopy 2 6 0

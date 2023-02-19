@@ -1,0 +1,5 @@
+7 8
+fiber 1 1 0
+repel 5 1 1
+enact 3 3 1
+madly 2 5 0

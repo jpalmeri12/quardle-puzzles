@@ -1,0 +1,5 @@
+7 7 beta
+grade 4 1 1
+usurp 1 2 0
+stink 2 2 1
+index 2 4 0

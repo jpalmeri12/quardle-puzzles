@@ -1,0 +1,5 @@
+7 10
+graze 4 1 1
+drama 2 3 0
+freed 1 5 0
+rivet 2 5 1

@@ -1,0 +1,5 @@
+7 10
+scalp 1 1 1
+petal 1 5 0
+eight 2 5 1
+thump 2 9 0

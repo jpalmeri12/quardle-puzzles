@@ -1,0 +1,5 @@
+7 9 hardmode
+screw 1 1 0
+cabal 2 1 1
+dumpy 4 4 1
+lousy 2 5 0

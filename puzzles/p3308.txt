@@ -1,0 +1,5 @@
+7 9
+bacon 3 1 1
+toast 2 4 0
+shout 5 4 1
+fleet 1 8 0

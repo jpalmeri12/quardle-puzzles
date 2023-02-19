@@ -1,0 +1,5 @@
+7 9 sweeper
+shady 6 1 1
+meter 3 4 1
+beefy 2 5 0
+spear 1 7 0

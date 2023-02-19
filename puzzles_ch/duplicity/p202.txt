@@ -1,0 +1,5 @@
+7 8 duplicity
+learn 6 1 1
+eclat 4 3 1
+nicer 2 4 0
+trial 1 6 0

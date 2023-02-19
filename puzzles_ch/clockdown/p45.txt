@@ -1,0 +1,5 @@
+7 8 clockdown
+polyp 5 1 1
+scaly 2 3 0
+clove 3 3 1
+droop 1 5 0

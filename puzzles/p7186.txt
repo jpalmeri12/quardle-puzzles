@@ -1,0 +1,5 @@
+7 9
+girth 6 1 1
+grime 3 4 1
+brash 2 5 0
+timid 1 7 0

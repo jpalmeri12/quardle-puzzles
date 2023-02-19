@@ -1,0 +1,5 @@
+7 9
+brash 3 1 1
+cream 2 2 0
+resin 1 4 0
+nutty 5 4 1

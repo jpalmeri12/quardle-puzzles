@@ -1,0 +1,6 @@
+7 9 undercover
+foyer 5 1 1
+merit 2 2 1
+mercy 1 3 0
+inert 2 5 0
+guava 1 8 0

@@ -1,0 +1,5 @@
+7 9 soundscramble
+buyoa 4 1 1
+metul 1 2 0
+skiff 6 4 1
+snack 2 5 0

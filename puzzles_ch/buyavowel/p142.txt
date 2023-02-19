@@ -1,0 +1,5 @@
+7 10 buyavowel
+sieve 4 1 1
+asset 1 5 0
+shyly 3 5 1
+pygmy 2 7 0

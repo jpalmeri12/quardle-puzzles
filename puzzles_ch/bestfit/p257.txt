@@ -1,0 +1,5 @@
+7 8 bestfit
+needy 2 1 1
+nasty 2 1 0
+beard 1 3 0
+rarer 4 3 1

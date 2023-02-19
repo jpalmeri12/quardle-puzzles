@@ -1,0 +1,6 @@
+6 9 commonsecret
+junta 4 1 1
+input 1 2 0
+junto 1 4 0
+unify 2 4 1
+!secret n

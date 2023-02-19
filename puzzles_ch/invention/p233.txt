@@ -1,0 +1,5 @@
+7 9 invention
+macaw 1 1 0
+award 4 1 1
+adobe 2 4 1
+dodge 2 5 0

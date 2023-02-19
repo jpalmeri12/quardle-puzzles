@@ -1,0 +1,9 @@
+7 9 spellbound
+limbo 2 1 1
+filly 1 2 0
+brink 2 4 0
+kneel 6 4 1
+!spellbound 0 0 4
+!spellbound 1 2 4
+!spellbound 2 3 2
+!spellbound 3 2 1

@@ -1,0 +1,5 @@
+6 7 invention
+nylon 2 1 1
+vying 1 2 0
+geeky 5 2 1
+house 1 4 0

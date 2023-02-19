@@ -1,0 +1,6 @@
+6 9 undercover
+shaft 1 1 1
+delay 4 2 1
+asset 1 3 0
+treat 1 5 0
+gumbo 1 8 0

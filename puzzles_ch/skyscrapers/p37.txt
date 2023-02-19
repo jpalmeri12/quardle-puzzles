@@ -1,0 +1,5 @@
+7 9 skyscrapers
+winch 2 5 0
+awake 2 4 1
+eking 1 7 0
+admin 4 1 1

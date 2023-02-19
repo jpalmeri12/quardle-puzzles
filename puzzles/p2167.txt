@@ -1,0 +1,5 @@
+7 10
+drawn 6 1 1
+given 2 5 0
+grimy 2 5 1
+smart 1 8 0

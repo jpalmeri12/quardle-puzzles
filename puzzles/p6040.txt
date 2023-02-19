@@ -1,0 +1,5 @@
+7 10
+crook 5 1 1
+clerk 1 5 0
+essay 3 5 1
+syrup 2 9 0

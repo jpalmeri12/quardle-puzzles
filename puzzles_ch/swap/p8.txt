@@ -1,0 +1,5 @@
+7 9 swap
+sehar 4 1 1
+boxre 2 4 1
+ocrer 2 5 0
+legla 1 8 0

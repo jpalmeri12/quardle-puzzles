@@ -1,0 +1,5 @@
+6 10
+loopy 2 1 1
+synod 1 5 0
+decoy 5 5 1
+basic 1 7 0

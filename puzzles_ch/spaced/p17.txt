@@ -1,0 +1,5 @@
+7 10 spaced
+ficus 1 1 1
+smoke 1 5 0
+entry 5 5 1
+yearn 2 8 0

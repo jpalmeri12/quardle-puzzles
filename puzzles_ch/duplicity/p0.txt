@@ -1,0 +1,5 @@
+7 8 duplicity
+payee 6 1 1
+enemy 2 3 0
+nymph 3 3 1
+happy 1 6 0

@@ -1,0 +1,5 @@
+7 9 buyavowel
+satyr 5 1 1
+knead 2 2 0
+whiny 1 4 0
+imbue 3 4 1

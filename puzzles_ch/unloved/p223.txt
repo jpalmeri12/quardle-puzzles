@@ -1,0 +1,5 @@
+7 10 unloved
+dwarf 4 1 1
+offer 2 5 0
+fauna 3 5 1
+brute 1 7 0

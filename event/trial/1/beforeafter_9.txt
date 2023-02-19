@@ -1,0 +1,9 @@
+7 10 beforeafter
+squib 3 1 1
+abhor 2 5 0
+heart 4 5 1
+court 1 8 0
+!beforeafter 2 k
+!beforeafter 2 j
+!beforeafter 2 k
+!beforeafter 1 q

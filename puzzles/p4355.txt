@@ -1,0 +1,5 @@
+7 9
+briar 1 1 0
+imply 3 1 1
+gloss 2 4 0
+stein 6 4 1

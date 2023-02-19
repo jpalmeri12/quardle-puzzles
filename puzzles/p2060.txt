@@ -1,0 +1,5 @@
+7 9
+charm 4 1 1
+lurch 2 4 0
+loamy 2 4 1
+email 1 7 0

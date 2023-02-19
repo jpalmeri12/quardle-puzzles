@@ -1,0 +1,5 @@
+6 6 reverse
+splat 1 1 0
+putes 2 1 1
+apple 4 1 1
+redlo 1 4 0

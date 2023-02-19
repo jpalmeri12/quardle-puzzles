@@ -1,0 +1,5 @@
+6 10 fourscore
+sheik 5 1 1
+slick 1 5 0
+spite 1 5 1
+index 1 7 0

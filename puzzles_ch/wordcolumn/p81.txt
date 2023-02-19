@@ -1,0 +1,6 @@
+7 10 wordcolumn
+stamp 4 1 1
+satin 2 2 0
+shape 1 5 0
+amass 3 5 1
+exile 5 5 1

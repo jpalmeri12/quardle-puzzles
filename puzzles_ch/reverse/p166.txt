@@ -1,0 +1,5 @@
+6 6 reverse
+vowel 1 1 1
+ognat 5 1 1
+okceg 1 2 0
+enema 1 4 0

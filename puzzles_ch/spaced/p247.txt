@@ -1,0 +1,5 @@
+7 8 spaced
+plant 1 1 0
+aglow 3 1 1
+place 2 3 0
+evict 6 3 1

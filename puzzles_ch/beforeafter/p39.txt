@@ -1,0 +1,9 @@
+6 10 beforeafter
+wring 1 1 1
+gipsy 1 5 0
+poesy 3 5 1
+speed 1 7 0
+!beforeafter 1 q
+!beforeafter 1 n
+!beforeafter 2 q
+!beforeafter 1 j

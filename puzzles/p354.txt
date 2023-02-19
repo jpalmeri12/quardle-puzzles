@@ -1,0 +1,5 @@
+7 10
+threw 5 1 1
+straw 1 5 0
+route 3 5 1
+stock 2 8 0

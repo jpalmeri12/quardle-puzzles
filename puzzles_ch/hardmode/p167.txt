@@ -1,0 +1,5 @@
+7 9 hardmode
+truer 5 1 1
+worry 2 2 0
+evade 1 4 0
+eagle 1 4 1

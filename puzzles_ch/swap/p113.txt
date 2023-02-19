@@ -1,0 +1,5 @@
+6 6 swap
+rerty 1 1 0
+rfoth 1 1 1
+rerto 3 1 1
+hiost 1 5 0

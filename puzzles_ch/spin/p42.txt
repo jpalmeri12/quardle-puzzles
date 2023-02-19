@@ -1,0 +1,5 @@
+7 9 spin
+alpha 5 1 1
+lease 3 4 1
+begat 2 5 0
+vista 1 7 0

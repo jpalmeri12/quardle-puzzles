@@ -1,0 +1,5 @@
+7 9 elbowroom
+smelt 2 1 0
+label 5 1 1
+offal 1 4 1
+flail 1 5 0

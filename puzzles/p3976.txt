@@ -1,0 +1,5 @@
+7 10
+gripe 2 1 1
+green 1 2 0
+ebony 2 5 0
+baggy 3 5 1

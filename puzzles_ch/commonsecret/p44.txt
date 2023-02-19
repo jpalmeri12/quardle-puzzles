@@ -1,0 +1,6 @@
+7 8 commonsecret
+quirk 1 1 0
+rhino 4 1 1
+prize 2 3 0
+perky 2 3 1
+!secret r

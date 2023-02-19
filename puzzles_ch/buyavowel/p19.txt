@@ -1,0 +1,5 @@
+7 10 buyavowel
+shrub 1 1 0
+bayou 5 1 1
+proud 2 5 0
+pouch 2 5 1

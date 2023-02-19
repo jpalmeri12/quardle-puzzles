@@ -1,0 +1,6 @@
+7 8 commonsecret
+fling 6 1 1
+ledge 2 3 1
+doing 2 5 0
+being 1 7 0
+!secret g

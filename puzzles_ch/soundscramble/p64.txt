@@ -1,0 +1,5 @@
+7 7 soundscramble
+tewor 3 1 1
+geedy 2 2 0
+danco 5 2 1
+cloan 1 4 0

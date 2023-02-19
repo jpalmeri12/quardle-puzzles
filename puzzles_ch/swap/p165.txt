@@ -1,0 +1,5 @@
+7 8 swap
+cyrpt 3 1 1
+sauan 5 3 1
+pupla 1 4 0
+psank 2 7 0

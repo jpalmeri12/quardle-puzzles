@@ -1,0 +1,6 @@
+6 12 drop
+front 1 1 1
+rouse 1 2 0
+taken 1 5 0
+neigh 5 5 1
+snore 1 11 0

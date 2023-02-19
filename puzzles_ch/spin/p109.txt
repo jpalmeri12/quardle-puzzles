@@ -1,0 +1,5 @@
+7 9 spin
+scald 2 1 1
+hovel 5 4 1
+decor 2 5 0
+penne 1 7 0

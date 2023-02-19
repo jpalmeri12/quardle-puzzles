@@ -1,0 +1,5 @@
+7 10 bestfit
+cider 2 1 0
+cagey 2 1 1
+cynic 1 5 0
+crush 5 5 1

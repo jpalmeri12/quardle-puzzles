@@ -1,0 +1,6 @@
+7 11 drop
+china 2 1 1
+salty 4 4 1
+agate 2 5 0
+vista 1 7 0
+nasty 1 10 0

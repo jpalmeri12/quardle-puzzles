@@ -1,0 +1,6 @@
+7 11 drop
+pasta 1 1 0
+amiss 2 1 1
+ideal 6 4 1
+staid 2 5 0
+tiara 1 10 0

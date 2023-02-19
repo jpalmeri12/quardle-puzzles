@@ -1,0 +1,5 @@
+7 9
+taboo 6 1 1
+cameo 2 4 0
+arena 3 4 1
+crept 1 6 0

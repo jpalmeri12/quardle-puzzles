@@ -1,0 +1,5 @@
+7 9
+droll 4 1 1
+burnt 2 2 0
+chalk 1 4 0
+horny 2 4 1

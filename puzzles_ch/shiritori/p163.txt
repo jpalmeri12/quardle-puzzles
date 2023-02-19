@@ -1,0 +1,5 @@
+6 7 shiritori
+delta 5 1 1
+dunce 1 2 0
+undid 2 2 1
+adopt 1 4 0

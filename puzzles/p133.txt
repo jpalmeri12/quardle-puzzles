@@ -1,0 +1,5 @@
+7 9
+lover 2 1 1
+sooth 1 2 0
+rally 4 4 1
+realm 2 5 0

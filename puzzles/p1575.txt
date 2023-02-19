@@ -1,0 +1,5 @@
+7 9
+salad 1 1 1
+ascot 1 4 0
+click 3 4 1
+scope 2 7 0

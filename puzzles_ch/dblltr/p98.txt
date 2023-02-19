@@ -1,0 +1,5 @@
+7 10 dblltr
+dally 6 1 1
+harry 2 5 0
+abase 3 5 1
+coach 1 7 0

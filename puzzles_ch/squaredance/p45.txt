@@ -1,0 +1,6 @@
+6 8 squaredance
+tough 1 1 1
+envoy 5 1 1
+theme 1 1 0
+holly 1 5 0
+juicy 1 7 0

@@ -1,0 +1,5 @@
+6 8 spin
+lapel 1 1 0
+angst 2 1 1
+drown 5 3 1
+ester 1 4 0

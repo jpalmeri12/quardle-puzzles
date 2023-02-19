@@ -1,0 +1,6 @@
+7 12 five
+cheap 6 1 1
+llama 2 4 0
+lumen 3 4 1
+quest 1 7 0
+quirk 1 7 1

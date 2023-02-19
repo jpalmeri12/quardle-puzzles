@@ -1,0 +1,5 @@
+7 8
+radar 6 1 1
+braid 2 3 0
+rapid 3 3 1
+midst 1 7 0

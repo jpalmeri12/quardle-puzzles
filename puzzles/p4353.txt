@@ -1,0 +1,5 @@
+7 10
+prose 5 1 1
+shark 2 2 0
+heave 1 5 0
+algae 3 5 1

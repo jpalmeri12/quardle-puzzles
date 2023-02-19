@@ -1,0 +1,7 @@
+6 12 secretdistance
+grief 1 1 1
+fifth 1 5 0
+float 3 5 1
+clown 1 7 0
+quick 1 11 0
+!sdpos 2 3 0 2

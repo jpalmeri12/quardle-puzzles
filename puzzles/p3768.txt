@@ -1,0 +1,5 @@
+7 9
+mummy 4 1 1
+acute 2 2 0
+chump 1 4 0
+horny 2 4 1

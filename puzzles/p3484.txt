@@ -1,0 +1,5 @@
+7 10
+rural 6 1 1
+drool 2 5 0
+ocean 5 5 1
+spoke 1 7 0

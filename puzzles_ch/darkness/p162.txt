@@ -1,0 +1,5 @@
+7 9 darkness
+qualm 1 7 0
+ashen 2 4 0
+prank 6 1 1
+hello 4 4 1

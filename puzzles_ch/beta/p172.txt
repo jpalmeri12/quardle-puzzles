@@ -1,0 +1,5 @@
+7 9 beta
+stick 2 1 0
+tepid 3 1 1
+spiky 1 4 0
+scion 1 4 1

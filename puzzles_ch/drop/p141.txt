@@ -1,0 +1,6 @@
+7 12 drop
+dwell 5 1 1
+screw 1 2 0
+wield 2 5 0
+early 4 5 1
+seedy 1 11 0

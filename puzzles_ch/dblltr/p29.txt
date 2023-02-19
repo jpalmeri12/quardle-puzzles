@@ -1,0 +1,5 @@
+7 10 dblltr
+fully 5 1 1
+sassy 1 5 0
+stool 4 5 1
+salad 2 9 0

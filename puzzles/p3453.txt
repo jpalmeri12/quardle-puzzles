@@ -1,0 +1,5 @@
+7 9
+start 1 1 0
+ruddy 4 1 1
+atone 2 4 1
+aider 2 4 0

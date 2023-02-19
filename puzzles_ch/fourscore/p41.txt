@@ -1,0 +1,5 @@
+7 10 fourscore
+thorn 5 1 1
+spoon 1 5 0
+primo 2 5 1
+mulch 2 8 0

@@ -1,0 +1,5 @@
+7 9
+mambo 2 1 0
+major 2 1 1
+sound 1 4 0
+noise 4 4 1

@@ -1,0 +1,5 @@
+7 9 reverse
+value 2 1 1
+llits 5 4 1
+devil 1 5 0
+tocsa 2 8 0

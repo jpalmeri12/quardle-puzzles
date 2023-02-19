@@ -1,0 +1,7 @@
+7 12 secretdistance
+larva 3 1 1
+serve 1 3 0
+rayon 2 5 0
+yacht 4 5 1
+zesty 1 11 0
+!sdpos 3 0 3 2

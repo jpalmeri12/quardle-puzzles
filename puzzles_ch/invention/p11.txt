@@ -1,0 +1,5 @@
+7 9 invention
+hobby 2 1 1
+poesy 1 2 0
+brand 2 4 0
+nudge 5 4 1

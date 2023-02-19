@@ -1,0 +1,5 @@
+6 6 unloved
+inter 1 1 0
+thyme 3 1 1
+rouse 5 1 1
+bayou 1 3 0

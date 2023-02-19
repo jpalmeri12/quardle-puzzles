@@ -1,0 +1,5 @@
+7 7 desync
+might 6 1 1
+kneel 3 2 1
+leash 2 4 0
+salve 1 6 0

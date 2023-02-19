@@ -1,0 +1,6 @@
+7 9 island
+strip 2 1 1
+fifty 4 4 1
+point 2 5 0
+zesty 1 7 0
+!island 2111 31 311 32

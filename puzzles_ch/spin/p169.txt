@@ -1,0 +1,5 @@
+7 10 spin
+party 2 1 1
+alloy 2 2 0
+bylaw 1 5 0
+brute 1 5 1

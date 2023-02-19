@@ -1,0 +1,6 @@
+7 9 connectfive
+leafy 5 1 1
+cache 1 2 0
+motif 1 4 0
+tangy 3 4 1
+hyper 2 8 0

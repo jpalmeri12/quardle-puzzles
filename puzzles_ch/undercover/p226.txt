@@ -1,0 +1,6 @@
+7 10 undercover
+nurse 5 1 1
+fjord 2 3 0
+judge 3 3 1
+ladle 1 5 0
+which 1 9 0

@@ -1,0 +1,5 @@
+7 8
+wrong 1 1 0
+ovary 3 1 1
+butte 5 3 1
+trout 2 4 0

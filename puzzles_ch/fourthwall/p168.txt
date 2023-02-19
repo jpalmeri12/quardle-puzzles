@@ -1,0 +1,7 @@
+6 6 fourthwall
+gleam 1 1 0
+guava 1 1 1
+awful 1 3 0
+elfin 3 1 1
+annoy 1 5 0
+milky 5 1 1

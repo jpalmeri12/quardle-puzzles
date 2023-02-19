@@ -1,0 +1,5 @@
+6 9 frequency
+drown 1 1 0
+wight 4 1 1
+bushy 1 4 0
+burst 1 4 1

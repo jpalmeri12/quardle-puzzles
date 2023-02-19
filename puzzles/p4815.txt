@@ -1,0 +1,5 @@
+6 10
+whiff 3 1 1
+fifty 1 5 0
+tulip 4 5 1
+exalt 1 7 0

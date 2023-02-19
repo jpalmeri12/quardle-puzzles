@@ -1,0 +1,5 @@
+7 9 swap
+treid 1 1 0
+doign 5 1 1
+stfif 3 4 1
+atint 2 5 0

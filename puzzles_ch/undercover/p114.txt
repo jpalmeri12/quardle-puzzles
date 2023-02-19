@@ -1,0 +1,6 @@
+7 11 undercover
+mafia 1 1 1
+eying 3 4 1
+abyss 1 5 0
+angel 2 7 0
+trout 1 10 0

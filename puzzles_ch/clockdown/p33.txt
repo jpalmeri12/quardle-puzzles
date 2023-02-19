@@ -1,0 +1,5 @@
+7 10 clockdown
+rerun 4 1 1
+prong 1 5 0
+occur 3 5 1
+lumpy 2 8 0

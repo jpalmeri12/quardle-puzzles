@@ -1,0 +1,5 @@
+7 8
+truce 2 1 1
+umbra 2 3 0
+ruddy 5 3 1
+heard 1 5 0

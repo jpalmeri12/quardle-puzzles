@@ -1,0 +1,5 @@
+7 10
+slide 3 1 1
+boule 2 5 1
+beret 2 5 0
+feral 1 9 0

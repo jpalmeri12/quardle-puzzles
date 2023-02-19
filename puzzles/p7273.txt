@@ -1,0 +1,5 @@
+7 10
+milky 4 1 1
+abyss 2 5 0
+slink 5 5 1
+given 1 8 0

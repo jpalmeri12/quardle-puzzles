@@ -1,0 +1,5 @@
+7 9 fourscore
+inane 2 1 0
+nadir 5 1 1
+spray 3 4 1
+upper 1 5 0

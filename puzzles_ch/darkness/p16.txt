@@ -1,0 +1,5 @@
+7 10 darkness
+alert 2 7 0
+spare 1 1 1
+smart 2 5 1
+essay 1 5 0

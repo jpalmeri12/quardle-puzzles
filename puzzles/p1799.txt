@@ -1,0 +1,5 @@
+7 8
+madly 2 1 0
+leach 5 1 1
+junta 1 3 0
+niche 3 3 1

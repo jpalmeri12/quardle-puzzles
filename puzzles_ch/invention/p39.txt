@@ -1,0 +1,5 @@
+7 9 invention
+going 5 1 1
+curio 1 2 0
+music 3 4 1
+outgo 2 5 0

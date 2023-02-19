@@ -1,0 +1,5 @@
+6 10 clockdown
+pinto 3 1 1
+stomp 1 5 0
+tardy 2 5 1
+group 1 7 0

@@ -1,0 +1,6 @@
+7 8 connectfive
+ounce 1 1 0
+newly 3 1 1
+rival 5 3 1
+plaid 2 4 0
+quill 2 7 0

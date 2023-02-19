@@ -1,0 +1,5 @@
+7 9 soundscramble
+blaam 5 1 1
+woste 3 4 1
+sposm 1 5 0
+ather 2 7 0

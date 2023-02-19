@@ -1,0 +1,5 @@
+7 9
+might 5 1 1
+sushi 1 2 0
+amaze 3 4 1
+smith 2 5 0

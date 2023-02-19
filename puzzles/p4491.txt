@@ -1,0 +1,5 @@
+7 10
+cubic 4 1 1
+group 1 2 0
+uncut 2 5 0
+utter 5 5 1

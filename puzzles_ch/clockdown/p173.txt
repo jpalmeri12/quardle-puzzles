@@ -1,0 +1,5 @@
+7 10 clockdown
+reach 4 1 1
+cheat 2 2 0
+niche 1 5 0
+north 1 5 1

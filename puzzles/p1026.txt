@@ -1,0 +1,5 @@
+7 9
+tasty 5 1 1
+canal 2 2 0
+adult 1 4 0
+dowel 2 4 1

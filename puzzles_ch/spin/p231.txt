@@ -1,0 +1,5 @@
+7 7 spin
+sweat 5 1 1
+sinew 1 2 0
+nymph 3 2 1
+smear 2 4 0

@@ -1,0 +1,6 @@
+6 11 drop
+resin 4 1 1
+later 1 2 0
+abase 1 4 1
+brine 1 5 0
+snarl 1 10 0

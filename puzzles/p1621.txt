@@ -1,0 +1,5 @@
+7 10
+inlet 6 1 1
+sleet 2 5 0
+latch 3 5 1
+local 1 8 0

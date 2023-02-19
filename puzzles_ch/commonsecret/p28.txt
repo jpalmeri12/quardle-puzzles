@@ -1,0 +1,6 @@
+6 7 commonsecret
+artsy 3 1 1
+curry 1 2 0
+yield 5 2 1
+royal 1 5 0
+!secret y

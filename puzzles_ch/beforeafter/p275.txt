@@ -1,0 +1,9 @@
+7 9 beforeafter
+staid 6 1 1
+tunic 4 4 1
+squad 2 5 0
+ovoid 1 7 0
+!beforeafter 1 r
+!beforeafter 2 k
+!beforeafter 2 n
+!beforeafter 2 n

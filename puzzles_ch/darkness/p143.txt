@@ -1,0 +1,5 @@
+7 10 darkness
+cruel 2 1 0
+smack 4 5 1
+tipsy 1 5 0
+every 5 1 1

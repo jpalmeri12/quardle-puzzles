@@ -1,0 +1,6 @@
+6 9 undercover
+music 2 1 1
+sumac 1 2 0
+charm 5 2 1
+ninja 1 4 0
+booze 1 8 0

@@ -1,0 +1,5 @@
+6 8
+shift 1 1 1
+stall 4 3 1
+filth 1 4 0
+spell 1 7 0

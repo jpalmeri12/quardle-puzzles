@@ -1,0 +1,5 @@
+7 8 swap
+abohr 2 1 1
+tuhmp 5 3 1
+roahc 2 5 0
+dorop 1 7 0

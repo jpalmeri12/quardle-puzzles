@@ -1,0 +1,5 @@
+6 7 darkness
+masse 1 2 1
+sinew 1 5 0
+mafia 1 2 0
+often 3 1 1

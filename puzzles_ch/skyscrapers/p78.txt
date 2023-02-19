@@ -1,0 +1,5 @@
+7 9 skyscrapers
+wafer 1 7 0
+weary 5 4 1
+grown 2 4 0
+dingo 2 1 1

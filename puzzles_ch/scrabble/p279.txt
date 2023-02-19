@@ -1,0 +1,5 @@
+6 6 scrabble
+arose 1 2 0
+radar 1 1 1
+foist 3 1 1
+retch 1 5 0

@@ -1,0 +1,9 @@
+7 8 beforeafter
+afoul 1 1 0
+flour 2 1 1
+ounce 2 3 0
+noisy 4 3 1
+!beforeafter 1 j
+!beforeafter 2 p
+!beforeafter 2 k
+!beforeafter 2 q

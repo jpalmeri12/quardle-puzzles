@@ -1,0 +1,5 @@
+6 6 swap
+belnd 2 1 1
+janut 4 1 1
+celat 1 2 0
+udsty 1 5 0

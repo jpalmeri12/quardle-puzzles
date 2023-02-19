@@ -1,0 +1,5 @@
+7 8 duplicity
+mecca 1 1 1
+camel 1 3 0
+mulch 3 3 1
+shush 2 7 0

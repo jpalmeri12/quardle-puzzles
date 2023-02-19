@@ -1,0 +1,5 @@
+7 10
+plaid 2 1 1
+adept 1 5 0
+parka 4 5 1
+baker 2 8 0

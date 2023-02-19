@@ -1,0 +1,5 @@
+7 10
+berth 5 1 1
+plier 2 2 0
+quash 1 5 0
+urban 2 5 1

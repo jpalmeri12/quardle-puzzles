@@ -1,0 +1,5 @@
+7 10 skyscrapers
+ultra 5 1 1
+basal 2 5 0
+bushy 2 5 1
+ghoul 1 8 0

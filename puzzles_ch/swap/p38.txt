@@ -1,0 +1,5 @@
+6 10 swap
+pealr 5 1 1
+zonla 1 3 0
+scaer 1 5 0
+eexrt 4 5 1

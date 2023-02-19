@@ -1,0 +1,5 @@
+7 10 unloved
+gloom 1 1 1
+modal 1 5 0
+debar 3 5 1
+cacti 2 8 0

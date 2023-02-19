@@ -1,0 +1,5 @@
+7 10 buyavowel
+smoke 1 1 0
+manic 2 1 1
+crust 2 5 0
+spout 5 5 1

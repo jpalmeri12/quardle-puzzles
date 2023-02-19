@@ -1,0 +1,5 @@
+7 7
+joker 5 1 1
+scion 2 2 0
+civic 3 2 1
+revue 1 4 0

@@ -1,0 +1,5 @@
+7 10 beta
+shake 4 1 1
+ether 2 2 0
+crier 1 5 0
+cyber 1 5 1

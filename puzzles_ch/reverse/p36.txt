@@ -1,0 +1,5 @@
+6 8 reverse
+gloat 1 1 0
+octal 3 1 1
+yllib 5 3 1
+tsael 1 4 0

@@ -1,0 +1,5 @@
+6 10 desync
+knead 1 1 0
+dandy 5 1 1
+fatty 1 5 0
+focus 1 5 1

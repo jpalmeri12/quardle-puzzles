@@ -1,0 +1,5 @@
+7 9
+rifle 5 1 1
+diver 3 4 1
+miser 2 5 0
+porch 1 8 0

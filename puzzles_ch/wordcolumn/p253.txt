@@ -1,0 +1,6 @@
+7 9 wordcolumn
+vinyl 6 1 1
+sushi 2 2 0
+agony 2 4 0
+giant 3 4 1
+tithe 1 8 0

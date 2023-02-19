@@ -1,0 +1,5 @@
+7 10 invention
+trust 4 1 1
+fifth 1 5 0
+freed 3 5 1
+oddly 2 9 0

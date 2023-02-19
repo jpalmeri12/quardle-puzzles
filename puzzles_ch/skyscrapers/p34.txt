@@ -1,0 +1,5 @@
+7 9 skyscrapers
+waive 2 1 0
+vinyl 5 1 1
+dumpy 1 4 0
+dilly 1 4 1

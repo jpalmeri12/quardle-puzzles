@@ -1,0 +1,5 @@
+6 9 elbowroom
+gonad 2 1 1
+magic 1 4 0
+curly 5 4 1
+idyll 1 7 0

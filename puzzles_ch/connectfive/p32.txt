@@ -1,0 +1,6 @@
+6 9 connectfive
+rabid 1 1 1
+actor 1 2 0
+abbey 4 4 1
+derby 1 5 0
+udder 1 7 0

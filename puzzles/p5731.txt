@@ -1,0 +1,5 @@
+7 8
+savoy 2 1 1
+visit 2 3 0
+idiom 5 3 1
+madam 1 7 0

@@ -1,0 +1,5 @@
+6 9
+thigh 5 1 1
+pouch 1 2 0
+being 1 4 0
+beset 1 4 1

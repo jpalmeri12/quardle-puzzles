@@ -1,0 +1,6 @@
+7 10 connectfive
+minus 5 1 1
+nanny 2 3 0
+locus 1 5 0
+octal 2 5 1
+plush 1 9 0

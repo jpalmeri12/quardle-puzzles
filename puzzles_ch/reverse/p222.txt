@@ -1,0 +1,5 @@
+7 10 reverse
+edilg 4 1 1
+egada 1 2 0
+lager 2 5 0
+roomy 6 5 1

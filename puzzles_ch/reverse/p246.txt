@@ -1,0 +1,5 @@
+7 8 reverse
+eight 1 1 1
+tuocs 3 3 1
+haunt 1 4 0
+kcirt 2 6 0

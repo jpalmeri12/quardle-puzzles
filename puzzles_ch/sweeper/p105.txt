@@ -1,0 +1,5 @@
+7 8 sweeper
+agree 1 1 0
+guild 2 1 1
+quote 5 3 1
+demon 2 5 0

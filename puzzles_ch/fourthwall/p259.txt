@@ -1,0 +1,7 @@
+6 6 fourthwall
+conic 1 1 0
+comma 1 1 1
+miser 1 3 0
+nasal 3 1 1
+allot 1 5 0
+carat 5 1 1

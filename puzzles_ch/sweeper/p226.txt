@@ -1,0 +1,5 @@
+6 9 sweeper
+cheat 3 1 1
+ether 1 2 0
+clasp 1 4 0
+power 5 4 1

@@ -1,0 +1,5 @@
+6 7 scrabble
+oaken 2 2 1
+theft 5 1 1
+porch 1 2 0
+skiff 1 4 0

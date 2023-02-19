@@ -1,0 +1,9 @@
+7 10 spellbound
+glass 3 1 1
+dilly 1 2 0
+islet 2 5 0
+trust 6 5 1
+!spellbound 0 3 0
+!spellbound 1 1 4
+!spellbound 2 3 2
+!spellbound 3 3 1

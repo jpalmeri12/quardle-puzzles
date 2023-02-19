@@ -1,0 +1,5 @@
+7 8 frequency
+vinyl 6 1 1
+spare 2 3 1
+pygmy 2 4 0
+crave 1 6 0

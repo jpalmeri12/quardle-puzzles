@@ -1,0 +1,5 @@
+7 9 duplicity
+magma 6 1 1
+relic 2 4 1
+realm 2 4 0
+cigar 1 7 0

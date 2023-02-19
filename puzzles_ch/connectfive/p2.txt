@@ -1,0 +1,6 @@
+7 10 connectfive
+zebra 2 1 0
+excel 3 1 1
+flesh 2 5 0
+elfin 4 5 1
+medic 1 8 0

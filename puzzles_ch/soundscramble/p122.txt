@@ -1,0 +1,5 @@
+7 9 soundscramble
+egila 5 1 1
+dodga 2 2 0
+tidel 1 4 0
+tutor 1 4 1

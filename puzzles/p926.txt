@@ -1,0 +1,5 @@
+7 10
+stuff 4 1 1
+stump 2 3 0
+beefy 1 5 0
+epoxy 2 5 1

@@ -1,0 +1,5 @@
+7 10 clockdown
+binge 5 1 1
+ethic 2 2 0
+erode 1 5 0
+dicey 4 5 1

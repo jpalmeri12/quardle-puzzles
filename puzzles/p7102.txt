@@ -1,0 +1,5 @@
+7 9
+sower 6 1 1
+abuse 2 4 0
+brawn 3 4 1
+tower 1 7 0

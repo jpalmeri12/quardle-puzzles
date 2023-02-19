@@ -1,0 +1,5 @@
+7 10
+flail 5 1 1
+surly 2 5 0
+snaky 2 5 1
+pygmy 1 9 0

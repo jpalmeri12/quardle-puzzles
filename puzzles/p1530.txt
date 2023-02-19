@@ -1,0 +1,5 @@
+7 9
+shank 2 1 1
+hitch 2 2 0
+stuff 4 4 1
+skate 1 5 0

@@ -1,0 +1,5 @@
+7 8
+frown 1 1 0
+newly 5 1 1
+prowl 2 3 0
+rower 3 3 1

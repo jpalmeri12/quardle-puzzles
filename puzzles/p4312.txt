@@ -1,0 +1,5 @@
+6 8
+retro 1 1 1
+raise 1 1 0
+spank 4 3 1
+raspy 1 4 0

@@ -1,0 +1,5 @@
+7 9
+built 2 1 1
+leper 2 4 0
+pinch 4 4 1
+pushy 1 8 0

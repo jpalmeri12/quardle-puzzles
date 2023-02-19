@@ -1,0 +1,5 @@
+7 7 reverse
+ytnua 2 1 1
+sieve 5 2 1
+nadir 2 3 0
+lativ 1 5 0

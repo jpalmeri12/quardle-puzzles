@@ -1,0 +1,5 @@
+6 8 dblltr
+verge 1 1 1
+valve 1 1 0
+apart 4 3 1
+guppy 1 4 0

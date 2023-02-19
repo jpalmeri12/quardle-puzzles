@@ -1,0 +1,5 @@
+7 10
+gusty 6 1 1
+abbey 2 5 0
+brief 3 5 1
+break 1 8 0

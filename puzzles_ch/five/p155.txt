@@ -1,0 +1,6 @@
+7 8 five
+admin 2 1 1
+imbue 1 3 0
+unset 4 3 1
+angst 1 5 0
+matey 2 7 0

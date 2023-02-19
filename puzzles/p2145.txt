@@ -1,0 +1,5 @@
+7 10
+flack 5 1 1
+wheat 2 3 0
+clerk 1 5 0
+lying 2 5 1

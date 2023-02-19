@@ -1,0 +1,5 @@
+7 9
+belch 5 1 1
+basic 1 4 0
+aloof 2 4 1
+orbit 2 7 0

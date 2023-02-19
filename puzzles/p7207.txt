@@ -1,0 +1,5 @@
+7 7
+final 6 1 1
+scram 3 2 1
+acorn 2 3 0
+human 1 6 0

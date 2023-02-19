@@ -1,0 +1,5 @@
+7 9
+prude 1 1 0
+rigor 2 1 1
+iliac 6 4 1
+renal 2 5 0

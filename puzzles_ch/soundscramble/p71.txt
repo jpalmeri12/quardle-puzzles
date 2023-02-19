@@ -1,0 +1,5 @@
+7 9 soundscramble
+koppo 2 1 0
+palyp 5 1 1
+dummy 1 4 0
+maund 3 4 1

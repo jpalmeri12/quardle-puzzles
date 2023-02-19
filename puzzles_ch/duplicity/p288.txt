@@ -1,0 +1,5 @@
+7 9 duplicity
+lilac 5 1 1
+heath 3 4 1
+leech 2 5 0
+attic 1 7 0

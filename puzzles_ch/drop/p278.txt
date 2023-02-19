@@ -1,0 +1,6 @@
+6 11 drop
+suite 5 1 1
+tacit 1 4 0
+crude 3 4 1
+teddy 1 7 0
+tunic 1 10 0

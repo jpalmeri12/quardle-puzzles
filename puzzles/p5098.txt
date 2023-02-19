@@ -1,0 +1,5 @@
+7 10
+scree 5 1 1
+farce 2 2 0
+knave 1 5 0
+album 3 5 1

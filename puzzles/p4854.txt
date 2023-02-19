@@ -1,0 +1,5 @@
+7 9
+tooth 5 1 1
+joint 1 4 0
+inane 3 4 1
+known 2 7 0

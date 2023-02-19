@@ -1,0 +1,7 @@
+6 6 fourthwall
+flair 1 1 0
+fiber 1 1 1
+blame 1 3 0
+award 3 1 1
+ruddy 1 5 0
+reedy 5 1 1

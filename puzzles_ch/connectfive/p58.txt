@@ -1,0 +1,6 @@
+6 10 connectfive
+usual 5 1 1
+ruler 1 2 1
+equal 1 5 0
+atone 4 5 1
+brief 1 9 0

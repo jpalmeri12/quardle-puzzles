@@ -1,0 +1,5 @@
+7 10
+civic 5 1 1
+manic 1 5 0
+icily 4 5 1
+voice 2 7 0

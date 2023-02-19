@@ -1,0 +1,5 @@
+7 7 invention
+aloft 4 1 1
+knoll 1 2 0
+naive 2 2 1
+voter 2 5 0

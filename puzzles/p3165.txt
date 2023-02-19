@@ -1,0 +1,5 @@
+7 9
+bride 5 1 1
+dowry 2 2 0
+strip 3 4 1
+lithe 1 5 0

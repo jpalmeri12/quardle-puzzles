@@ -1,0 +1,5 @@
+6 8 swap
+dratf 1 1 1
+sevne 4 3 1
+tseed 1 4 0
+droen 1 7 0

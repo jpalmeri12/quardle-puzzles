@@ -1,0 +1,5 @@
+7 10 soundscramble
+emand 5 1 1
+geval 2 3 0
+unwad 1 5 0
+undua 1 5 1

@@ -1,0 +1,5 @@
+7 7 elbowroom
+crisp 2 1 1
+gross 1 2 0
+scrub 5 2 1
+smirk 2 4 0

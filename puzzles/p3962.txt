@@ -1,0 +1,5 @@
+7 9
+razor 4 1 1
+maize 1 3 0
+bound 6 4 1
+forgo 2 5 0

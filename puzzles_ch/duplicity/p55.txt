@@ -1,0 +1,5 @@
+7 9 duplicity
+short 6 1 1
+shoot 2 4 1
+steer 2 4 0
+sooth 1 7 0

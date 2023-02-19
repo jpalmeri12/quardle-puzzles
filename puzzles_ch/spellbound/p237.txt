@@ -1,0 +1,9 @@
+7 9 spellbound
+lumen 4 1 1
+ficus 1 2 0
+siege 2 4 0
+exalt 6 4 1
+!spellbound 0 0 4
+!spellbound 1 1 4
+!spellbound 2 1 0
+!spellbound 3 2 1

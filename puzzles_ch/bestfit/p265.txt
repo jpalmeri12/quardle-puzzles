@@ -1,0 +1,5 @@
+7 7 bestfit
+quart 2 1 1
+turbo 1 2 0
+organ 5 2 1
+trial 2 5 0

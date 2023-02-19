@@ -1,0 +1,5 @@
+7 10 skyscrapers
+sling 1 5 0
+vying 5 1 1
+suave 2 1 0
+study 1 5 1

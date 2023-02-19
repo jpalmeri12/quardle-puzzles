@@ -1,0 +1,5 @@
+7 8 bestfit
+price 5 1 1
+ethic 2 3 0
+trash 3 3 1
+abate 1 5 0

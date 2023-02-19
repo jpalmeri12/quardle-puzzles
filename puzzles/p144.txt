@@ -1,0 +1,5 @@
+7 10
+baste 4 1 1
+spied 1 5 0
+pedal 2 5 1
+dusky 2 7 0

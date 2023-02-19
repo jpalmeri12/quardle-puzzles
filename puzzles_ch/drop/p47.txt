@@ -1,0 +1,6 @@
+7 11 drop
+demon 2 1 1
+dealt 2 1 0
+bound 1 4 0
+nudge 4 4 1
+gaunt 1 10 0

@@ -1,0 +1,5 @@
+6 9
+maybe 3 1 1
+bingo 1 4 1
+bible 1 4 0
+opera 1 8 0

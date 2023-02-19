@@ -1,0 +1,5 @@
+7 9
+apart 5 1 1
+blimp 1 2 0
+stork 2 4 0
+screw 2 4 1

@@ -1,0 +1,5 @@
+7 9 spin
+close 1 1 1
+study 1 4 0
+until 3 4 1
+stank 2 6 0

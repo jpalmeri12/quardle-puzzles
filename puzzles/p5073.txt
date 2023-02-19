@@ -1,0 +1,5 @@
+7 8
+brunt 2 1 0
+begun 2 1 1
+vague 4 3 1
+lunar 1 4 0

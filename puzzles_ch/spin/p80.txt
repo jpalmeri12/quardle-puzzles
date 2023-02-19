@@ -1,0 +1,5 @@
+7 8 spin
+blimp 1 1 0
+pivot 5 1 1
+curvy 2 3 0
+chair 2 3 1

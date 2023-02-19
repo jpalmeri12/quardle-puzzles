@@ -1,0 +1,5 @@
+7 10
+ankle 3 1 1
+break 1 5 0
+refer 2 5 1
+rumba 2 9 0

@@ -1,0 +1,5 @@
+7 8 reverse
+ksirf 2 1 0
+ideal 4 1 1
+sweet 1 3 0
+woble 2 3 1

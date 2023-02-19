@@ -1,0 +1,5 @@
+7 10
+fable 2 1 1
+alive 2 2 0
+relax 1 5 0
+ample 4 5 1

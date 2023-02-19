@@ -1,0 +1,5 @@
+7 10 dblltr
+gloss 2 1 1
+leggy 2 2 0
+usual 1 5 0
+label 5 5 1

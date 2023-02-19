@@ -1,0 +1,9 @@
+7 10 beforeafter
+lofty 1 1 0
+train 4 1 1
+fanny 2 5 0
+flout 2 5 1
+!beforeafter 2 p
+!beforeafter 1 q
+!beforeafter 1 j
+!beforeafter 1 n

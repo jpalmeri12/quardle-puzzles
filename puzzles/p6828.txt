@@ -1,0 +1,5 @@
+7 10
+torso 5 1 1
+piano 1 2 0
+mayor 2 5 0
+rebus 6 5 1

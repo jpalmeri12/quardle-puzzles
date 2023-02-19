@@ -1,0 +1,5 @@
+7 10 skyscrapers
+tango 1 2 0
+rower 5 1 1
+flare 2 5 0
+affix 4 5 1

@@ -1,0 +1,9 @@
+7 9 beforeafter
+caput 1 1 1
+unfed 1 4 0
+fiery 3 4 1
+learn 2 6 0
+!beforeafter 2 r
+!beforeafter 1 k
+!beforeafter 2 o
+!beforeafter 2 m

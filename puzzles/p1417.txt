@@ -1,0 +1,5 @@
+7 10
+wedge 3 1 1
+sheep 1 5 0
+elegy 4 5 1
+shell 2 7 0

@@ -1,0 +1,5 @@
+7 10
+false 1 1 0
+leafy 3 1 1
+lying 2 5 0
+gnash 6 5 1

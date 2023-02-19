@@ -1,0 +1,7 @@
+6 11 secretdistance
+tibia 4 1 1
+plane 2 4 1
+float 1 5 0
+knack 1 7 0
+regal 1 10 0
+!sdpos 0 2 0 2

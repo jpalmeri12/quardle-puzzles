@@ -1,0 +1,5 @@
+7 9
+snoop 2 1 1
+navel 2 2 0
+gauze 4 4 1
+speak 1 5 0

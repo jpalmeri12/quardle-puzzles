@@ -1,0 +1,5 @@
+7 10
+roomy 5 1 1
+droop 2 2 0
+gooey 1 5 0
+ebony 4 5 1

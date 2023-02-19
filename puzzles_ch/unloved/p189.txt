@@ -1,0 +1,5 @@
+6 9 unloved
+borne 3 1 1
+blond 1 2 0
+squat 1 4 1
+queue 1 5 0

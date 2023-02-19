@@ -1,0 +1,5 @@
+6 10 darkness
+groin 1 5 0
+abode 1 2 0
+condo 3 1 1
+imbue 4 5 1

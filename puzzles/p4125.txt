@@ -1,0 +1,5 @@
+6 10
+video 5 1 1
+sushi 1 2 0
+cacao 1 5 0
+anime 2 5 1

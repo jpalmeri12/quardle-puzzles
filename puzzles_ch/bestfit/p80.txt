@@ -1,0 +1,5 @@
+7 10 bestfit
+broom 2 1 1
+mouse 2 5 0
+offal 3 5 1
+befit 1 7 0

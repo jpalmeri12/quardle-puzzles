@@ -1,0 +1,5 @@
+7 10 skyscrapers
+terse 1 5 0
+cater 3 1 1
+straw 2 3 0
+study 4 5 1

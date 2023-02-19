@@ -1,0 +1,5 @@
+6 9 sweeper
+hound 1 1 1
+oxide 1 2 0
+slink 4 4 1
+dally 1 5 0

@@ -1,0 +1,5 @@
+7 10 swap
+shapr 2 1 1
+rdain 2 5 0
+dorss 3 5 1
+barin 1 7 0

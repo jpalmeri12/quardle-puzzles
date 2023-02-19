@@ -1,0 +1,5 @@
+7 10 spaced
+frank 2 1 1
+skimp 1 5 0
+mushy 4 5 1
+rhyme 2 9 0

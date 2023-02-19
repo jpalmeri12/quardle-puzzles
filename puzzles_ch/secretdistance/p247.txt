@@ -1,0 +1,7 @@
+7 10 secretdistance
+claim 1 1 0
+input 4 1 1
+rehab 6 3 1
+haute 2 4 0
+piney 1 9 0
+!sdpos 0 0 2 1

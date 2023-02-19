@@ -1,0 +1,9 @@
+7 7 beforeafter
+alloy 5 1 1
+style 2 2 0
+troll 3 2 1
+palsy 1 5 0
+!beforeafter 2 n
+!beforeafter 2 o
+!beforeafter 2 n
+!beforeafter 2 q

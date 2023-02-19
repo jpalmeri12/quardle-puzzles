@@ -1,0 +1,5 @@
+7 10
+pence 2 1 0
+eerie 3 1 1
+bleep 1 5 0
+prong 5 5 1

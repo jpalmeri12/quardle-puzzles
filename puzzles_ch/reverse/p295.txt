@@ -1,0 +1,5 @@
+7 9 reverse
+nolas 1 1 0
+otohp 2 1 1
+lance 5 4 1
+pupal 2 5 0

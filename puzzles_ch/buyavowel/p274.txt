@@ -1,0 +1,5 @@
+7 10 buyavowel
+broad 2 1 1
+retry 2 2 0
+admin 1 5 0
+amiss 1 5 1

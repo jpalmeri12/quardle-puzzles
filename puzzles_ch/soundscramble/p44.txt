@@ -1,0 +1,5 @@
+6 7 soundscramble
+slapt 4 1 1
+smalt 1 2 0
+medly 2 2 1
+edept 1 4 0

@@ -1,0 +1,8 @@
+6 8 twins
+tepee 1 1 0
+evade 1 3 0
+tubal 1 5 0
+horny 1 7 0
+!twins 0 2
+!twins 1 2
+!twins 3 4

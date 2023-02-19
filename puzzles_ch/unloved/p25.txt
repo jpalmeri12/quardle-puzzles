@@ -1,0 +1,5 @@
+7 7 unloved
+wheel 1 1 0
+humus 2 1 1
+slink 6 2 1
+shorn 2 5 0

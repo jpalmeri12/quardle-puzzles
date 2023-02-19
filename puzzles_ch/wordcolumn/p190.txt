@@ -1,0 +1,6 @@
+7 8 wordcolumn
+hutch 2 1 0
+truly 4 1 1
+patty 2 3 1
+fault 1 4 0
+lying 1 7 0

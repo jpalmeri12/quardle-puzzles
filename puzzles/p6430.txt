@@ -1,0 +1,5 @@
+6 7
+giddy 3 1 1
+spawn 1 2 1
+spice 1 2 0
+aider 1 4 0

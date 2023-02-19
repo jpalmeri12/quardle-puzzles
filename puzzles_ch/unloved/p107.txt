@@ -1,0 +1,5 @@
+7 9 unloved
+kayak 2 1 1
+maybe 1 2 0
+avian 2 4 0
+nudge 6 4 1

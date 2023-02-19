@@ -1,0 +1,5 @@
+7 9
+basic 2 1 1
+mirth 1 4 0
+tepee 4 4 1
+ahead 2 7 0

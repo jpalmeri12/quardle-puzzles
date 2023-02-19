@@ -1,0 +1,6 @@
+7 8 island
+madam 2 1 1
+maker 2 1 0
+stock 4 3 1
+tasty 1 4 0
+!island 111 221 2111 22

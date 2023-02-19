@@ -1,0 +1,9 @@
+7 9 beforeafter
+spunk 5 1 1
+trend 2 4 0
+toxic 2 4 1
+ficus 1 7 0
+!beforeafter 2 o
+!beforeafter 1 p
+!beforeafter 2 l
+!beforeafter 2 l

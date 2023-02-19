@@ -1,0 +1,5 @@
+6 10 clockdown
+ideal 5 1 1
+offal 1 5 0
+outgo 1 5 1
+tango 1 7 0

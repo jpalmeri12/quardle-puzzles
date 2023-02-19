@@ -1,0 +1,5 @@
+6 8
+truss 2 1 1
+flown 4 3 1
+psalm 1 4 0
+spent 1 7 0

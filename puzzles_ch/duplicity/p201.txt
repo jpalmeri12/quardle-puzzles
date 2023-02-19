@@ -1,0 +1,5 @@
+6 9 duplicity
+parry 4 1 1
+charm 1 4 0
+caper 1 4 1
+rhyme 1 8 0

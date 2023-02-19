@@ -1,0 +1,5 @@
+7 10
+heist 3 1 1
+stone 2 5 0
+ninth 5 5 1
+abort 1 8 0

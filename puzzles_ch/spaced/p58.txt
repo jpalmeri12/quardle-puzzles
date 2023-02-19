@@ -1,0 +1,5 @@
+7 9 spaced
+randy 2 1 1
+nadir 1 2 0
+drawl 2 4 0
+avoid 4 4 1

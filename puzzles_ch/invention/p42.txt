@@ -1,0 +1,5 @@
+6 7 invention
+bowel 2 1 1
+hover 1 2 0
+rusty 5 2 1
+rebus 1 4 0

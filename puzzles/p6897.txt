@@ -1,0 +1,5 @@
+7 10
+thumb 3 1 1
+hunch 2 3 0
+rebar 1 5 0
+epoxy 2 5 1

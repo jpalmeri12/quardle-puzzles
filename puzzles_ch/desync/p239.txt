@@ -1,0 +1,5 @@
+7 10 desync
+snarl 3 1 1
+affix 2 5 1
+altar 2 5 0
+offer 1 7 0

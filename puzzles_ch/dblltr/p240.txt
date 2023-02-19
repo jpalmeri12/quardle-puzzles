@@ -1,0 +1,5 @@
+7 9 dblltr
+troll 6 1 1
+dwell 2 4 0
+weedy 3 4 1
+elegy 1 6 0

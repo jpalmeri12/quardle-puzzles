@@ -1,0 +1,5 @@
+6 8 reverse
+spook 1 1 0
+poppy 2 1 1
+ekove 4 3 1
+pylop 1 5 0

@@ -1,0 +1,6 @@
+6 9 island
+shelf 1 1 1
+serum 1 1 0
+algae 4 4 1
+fable 1 5 0
+!island 2111 311 1111 11111

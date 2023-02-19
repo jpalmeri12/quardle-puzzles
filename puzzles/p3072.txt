@@ -1,0 +1,5 @@
+7 7
+smock 2 1 1
+embed 1 2 0
+eaten 4 2 1
+knead 2 5 0

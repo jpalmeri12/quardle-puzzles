@@ -1,0 +1,6 @@
+6 7 island
+ratio 4 1 1
+offal 1 2 0
+flock 2 2 1
+movie 1 4 0
+!island 221 211 32 2111

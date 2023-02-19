@@ -1,0 +1,6 @@
+6 8 squaredance
+riper 1 1 1
+noise 5 1 1
+risen 1 1 0
+rouse 1 5 0
+pesto 1 7 0

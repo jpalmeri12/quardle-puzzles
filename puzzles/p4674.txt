@@ -1,0 +1,5 @@
+7 10
+shuck 3 1 1
+oaken 1 5 0
+erect 4 5 1
+sleep 2 7 0

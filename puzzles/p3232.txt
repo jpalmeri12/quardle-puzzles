@@ -1,0 +1,5 @@
+7 9
+build 3 1 1
+sunny 2 2 0
+hilly 1 4 0
+harpy 1 4 1

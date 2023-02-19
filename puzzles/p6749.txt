@@ -1,0 +1,5 @@
+6 10
+above 5 1 1
+scrub 1 2 0
+ridge 1 5 0
+gonad 4 5 1

@@ -1,0 +1,6 @@
+7 8 five
+dwelt 2 1 1
+dryly 2 1 0
+rarer 4 3 1
+torus 2 5 0
+myrrh 1 7 0

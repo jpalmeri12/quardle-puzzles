@@ -1,0 +1,5 @@
+7 8 unloved
+youth 4 1 1
+bigot 1 2 0
+snore 6 3 1
+often 2 4 0

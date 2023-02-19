@@ -1,0 +1,5 @@
+7 10 frequency
+bayou 3 1 1
+digit 2 5 1
+dusty 2 5 0
+agree 1 7 0

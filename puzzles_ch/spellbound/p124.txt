@@ -1,0 +1,9 @@
+7 7 spellbound
+sniff 6 1 1
+sedan 2 2 0
+detox 4 2 1
+twixt 1 6 0
+!spellbound 0 3 2
+!spellbound 1 0 1
+!spellbound 2 1 2
+!spellbound 3 4 2

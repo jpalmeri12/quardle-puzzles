@@ -1,0 +1,5 @@
+7 9
+place 1 1 0
+embed 5 1 1
+brook 2 4 1
+randy 2 5 0

@@ -1,0 +1,5 @@
+7 10 beta
+grasp 4 1 1
+weird 1 2 0
+kappa 2 5 0
+prank 5 5 1

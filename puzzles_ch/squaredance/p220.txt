@@ -1,0 +1,6 @@
+6 8 squaredance
+stone 1 1 1
+total 5 1 1
+splat 1 1 0
+excel 1 5 0
+pinch 1 7 0

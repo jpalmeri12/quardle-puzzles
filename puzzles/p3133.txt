@@ -1,0 +1,5 @@
+7 10
+butte 2 1 1
+below 1 5 0
+light 3 5 1
+whack 2 8 0

@@ -1,0 +1,7 @@
+6 11 secretdistance
+prior 1 1 1
+riper 1 2 0
+other 1 4 0
+racer 5 4 1
+flare 1 10 0
+!sdpos 2 2 3 0

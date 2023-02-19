@@ -1,0 +1,5 @@
+7 10 unloved
+macaw 2 1 0
+anvil 5 1 1
+petal 1 5 0
+tease 3 5 1

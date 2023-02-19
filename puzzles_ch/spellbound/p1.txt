@@ -1,0 +1,9 @@
+6 7 spellbound
+surly 2 1 1
+rugby 1 2 0
+birch 4 2 1
+glory 1 4 0
+!spellbound 0 2 4
+!spellbound 1 0 4
+!spellbound 2 1 4
+!spellbound 3 2 0

@@ -1,0 +1,5 @@
+7 10 swap
+debry 5 1 1
+soebr 2 3 0
+ewedy 1 5 0
+wihff 2 5 1

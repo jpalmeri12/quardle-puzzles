@@ -1,0 +1,6 @@
+7 10 five
+photo 2 1 0
+hoard 3 1 1
+godly 1 5 0
+lever 4 5 1
+waive 1 7 0

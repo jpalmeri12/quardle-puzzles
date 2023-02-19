@@ -1,0 +1,5 @@
+7 10
+funny 3 1 1
+stark 2 5 1
+syrup 2 5 0
+growl 1 8 0

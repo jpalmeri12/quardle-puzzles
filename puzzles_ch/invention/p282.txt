@@ -1,0 +1,5 @@
+6 7 invention
+scree 4 1 1
+knock 1 2 0
+koala 1 2 1
+alley 1 4 0

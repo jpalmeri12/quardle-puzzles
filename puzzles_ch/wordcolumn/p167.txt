@@ -1,0 +1,6 @@
+7 10 wordcolumn
+abbey 1 1 0
+bless 3 1 1
+onset 1 5 0
+noise 2 5 1
+shook 2 8 0

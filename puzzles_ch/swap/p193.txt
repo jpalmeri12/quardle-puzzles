@@ -1,0 +1,5 @@
+7 8 swap
+lycnh 4 1 1
+isnge 2 3 1
+psent 1 4 0
+ebgun 2 7 0

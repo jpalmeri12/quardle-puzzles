@@ -1,0 +1,5 @@
+7 10 shiritori
+swing 4 1 1
+fewer 2 2 0
+fudge 1 5 0
+udder 2 5 1

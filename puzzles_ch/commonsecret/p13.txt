@@ -1,0 +1,6 @@
+7 8 commonsecret
+abhor 1 1 0
+blush 2 1 1
+hippo 5 3 1
+sheik 2 4 0
+!secret h

@@ -1,0 +1,6 @@
+7 11 five
+probe 5 1 1
+ghoul 3 3 1
+rehab 1 4 0
+leggy 6 6 1
+flume 2 7 0

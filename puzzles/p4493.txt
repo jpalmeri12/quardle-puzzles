@@ -1,0 +1,5 @@
+7 10
+scold 4 1 1
+apron 1 3 0
+godly 2 5 0
+glory 2 5 1

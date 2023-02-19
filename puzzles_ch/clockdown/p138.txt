@@ -1,0 +1,5 @@
+7 9 clockdown
+inane 5 1 1
+issue 3 4 1
+waste 1 5 0
+guppy 2 7 0

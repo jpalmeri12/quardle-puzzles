@@ -1,0 +1,7 @@
+7 10 secretdistance
+meant 4 1 1
+scone 2 3 1
+conic 2 4 0
+begun 1 7 0
+turbo 1 9 0
+!sdpos 2 0 1 0

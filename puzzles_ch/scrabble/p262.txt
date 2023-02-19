@@ -1,0 +1,5 @@
+6 7 scrabble
+utile 1 1 1
+incur 3 2 1
+lucid 1 4 0
+thigh 1 2 0

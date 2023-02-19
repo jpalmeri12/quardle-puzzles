@@ -1,0 +1,5 @@
+6 6
+frisk 1 1 1
+fifty 1 1 0
+tenor 4 1 1
+savor 1 4 0

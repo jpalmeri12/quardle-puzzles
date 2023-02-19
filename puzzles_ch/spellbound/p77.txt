@@ -1,0 +1,9 @@
+7 9 spellbound
+tubal 4 1 1
+spurn 2 2 0
+pleat 1 4 0
+layer 2 4 1
+!spellbound 0 2 0
+!spellbound 1 4 0
+!spellbound 2 0 4
+!spellbound 3 3 2

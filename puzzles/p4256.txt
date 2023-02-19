@@ -1,0 +1,5 @@
+7 9
+anger 2 1 1
+taste 4 4 1
+friar 1 5 0
+cleft 2 8 0

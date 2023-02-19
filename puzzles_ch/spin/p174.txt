@@ -1,0 +1,5 @@
+7 7 spin
+crone 1 1 1
+tenet 3 2 1
+ninth 1 4 0
+atone 2 6 0

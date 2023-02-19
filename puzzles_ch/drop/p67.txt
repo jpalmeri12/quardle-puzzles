@@ -1,0 +1,6 @@
+6 11 drop
+trash 1 1 1
+trend 1 1 0
+brown 5 4 1
+hover 1 5 0
+thorn 1 10 0

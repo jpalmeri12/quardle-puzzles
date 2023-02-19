@@ -1,0 +1,5 @@
+7 10 sweeper
+split 5 1 1
+syrup 1 2 0
+latte 2 5 0
+lunch 2 5 1

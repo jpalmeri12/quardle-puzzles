@@ -1,0 +1,5 @@
+7 10 bestfit
+octet 6 1 1
+sweat 2 5 0
+worry 3 5 1
+serum 1 7 0

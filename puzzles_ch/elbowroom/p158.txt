@@ -1,0 +1,5 @@
+7 9 elbowroom
+bingo 5 1 1
+gaffe 3 4 1
+tarot 2 5 0
+steak 1 8 0

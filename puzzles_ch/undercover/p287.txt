@@ -1,0 +1,6 @@
+7 10 undercover
+turbo 1 1 0
+recut 3 1 1
+egret 5 3 1
+fudge 2 4 0
+shank 1 9 0

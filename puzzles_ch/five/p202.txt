@@ -1,0 +1,6 @@
+7 12 five
+funky 3 1 1
+cyber 2 5 0
+elect 5 5 1
+terse 1 7 0
+etude 2 7 1

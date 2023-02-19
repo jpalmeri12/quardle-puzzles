@@ -1,0 +1,5 @@
+7 8
+avoid 1 1 0
+oddly 3 1 1
+tract 5 3 1
+flirt 2 4 0

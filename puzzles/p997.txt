@@ -1,0 +1,5 @@
+6 6
+brood 1 1 1
+bloke 1 1 0
+envoy 5 1 1
+daisy 1 5 0

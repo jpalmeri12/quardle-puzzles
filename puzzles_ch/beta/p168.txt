@@ -1,0 +1,5 @@
+7 7 beta
+inept 4 1 1
+skunk 1 2 0
+knife 2 2 1
+imply 2 4 0

@@ -1,0 +1,9 @@
+7 9 spellbound
+duchy 2 1 0
+heady 5 1 1
+ovoid 1 4 0
+viola 2 4 1
+!spellbound 0 4 1
+!spellbound 1 2 4
+!spellbound 2 0 2
+!spellbound 3 3 2

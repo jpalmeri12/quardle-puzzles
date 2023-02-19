@@ -1,0 +1,5 @@
+7 10
+odder 6 1 1
+ruler 2 5 0
+lower 4 5 1
+leper 1 8 0

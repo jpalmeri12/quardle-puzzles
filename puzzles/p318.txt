@@ -1,0 +1,5 @@
+7 9
+shalt 5 1 1
+fecal 1 4 0
+clove 3 4 1
+avian 2 7 0

@@ -1,0 +1,9 @@
+6 7 spellbound
+druid 2 1 1
+probe 1 2 0
+bleep 4 2 1
+liver 1 4 0
+!spellbound 0 2 0
+!spellbound 1 0 2
+!spellbound 2 4 1
+!spellbound 3 4 2

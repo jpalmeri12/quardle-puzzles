@@ -1,0 +1,5 @@
+6 9 invention
+minor 2 1 1
+fifty 1 2 0
+toddy 1 4 0
+depth 4 4 1

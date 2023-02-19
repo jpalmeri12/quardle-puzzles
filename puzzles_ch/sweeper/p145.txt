@@ -1,0 +1,5 @@
+7 7 sweeper
+frail 6 1 1
+feign 4 2 1
+alibi 2 4 0
+wound 1 6 0

@@ -1,0 +1,6 @@
+6 12 connectfive
+truss 3 1 1
+rarer 1 5 1
+risen 1 5 0
+raven 1 7 0
+voter 3 7 1

@@ -1,0 +1,5 @@
+6 10 skyscrapers
+third 1 5 0
+dance 5 5 1
+civic 1 8 0
+glint 1 1 1

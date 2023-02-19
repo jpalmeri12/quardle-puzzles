@@ -1,0 +1,5 @@
+7 10 frequency
+stiff 2 1 1
+straw 1 2 0
+freak 2 5 0
+elope 4 5 1

@@ -1,0 +1,5 @@
+7 10
+metal 2 1 1
+sting 1 3 0
+leach 2 5 0
+eject 3 5 1

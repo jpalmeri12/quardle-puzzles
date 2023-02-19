@@ -1,0 +1,6 @@
+7 10 five
+unset 2 1 1
+beefy 5 2 1
+sweep 2 3 0
+stuff 1 5 0
+undue 3 5 1

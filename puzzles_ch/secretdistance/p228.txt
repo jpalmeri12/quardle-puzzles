@@ -1,0 +1,7 @@
+6 12 secretdistance
+chief 1 1 1
+helix 1 2 0
+fjord 1 5 0
+otter 3 5 1
+storm 1 11 0
+!sdpos 1 0 1 0

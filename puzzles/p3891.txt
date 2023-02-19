@@ -1,0 +1,5 @@
+7 9
+randy 2 1 1
+relic 2 1 0
+admit 1 4 0
+tight 5 4 1

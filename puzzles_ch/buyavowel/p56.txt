@@ -1,0 +1,5 @@
+6 8 buyavowel
+flout 1 1 1
+finer 1 1 0
+false 4 3 1
+tulle 1 5 0

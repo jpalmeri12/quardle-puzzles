@@ -1,0 +1,9 @@
+7 9 beforeafter
+tonal 1 1 1
+abbot 1 4 0
+baron 3 4 1
+triad 2 6 0
+!beforeafter 2 m
+!beforeafter 2 n
+!beforeafter 1 i
+!beforeafter 1 p

@@ -1,0 +1,5 @@
+7 10
+woken 5 1 1
+ripen 1 5 0
+itchy 2 5 1
+harem 2 8 0

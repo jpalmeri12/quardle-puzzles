@@ -1,0 +1,5 @@
+7 7
+mount 2 1 1
+goody 1 2 0
+yearn 5 2 1
+there 2 5 0

@@ -1,0 +1,5 @@
+7 9 spin
+flirt 1 1 1
+trial 3 4 1
+thrum 1 5 0
+tatty 2 7 0

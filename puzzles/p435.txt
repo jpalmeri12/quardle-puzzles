@@ -1,0 +1,5 @@
+7 8
+grimy 5 1 1
+elect 3 3 1
+geeky 1 5 0
+sting 2 7 0

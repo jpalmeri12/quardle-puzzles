@@ -1,0 +1,5 @@
+7 9
+proof 2 1 1
+creed 1 2 0
+hymen 6 4 1
+fuzzy 2 5 0

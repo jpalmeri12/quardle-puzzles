@@ -1,0 +1,5 @@
+7 10 bestfit
+resin 2 1 0
+salsa 4 1 1
+groan 1 5 0
+octal 3 5 1

@@ -1,0 +1,6 @@
+6 11 drop
+flute 2 1 1
+stock 1 4 0
+kinky 5 4 1
+jerky 1 8 0
+kitty 1 10 0

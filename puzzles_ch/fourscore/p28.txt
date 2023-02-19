@@ -1,0 +1,5 @@
+7 7 fourscore
+devil 4 1 1
+genre 2 2 1
+envoy 2 3 0
+troll 1 5 0

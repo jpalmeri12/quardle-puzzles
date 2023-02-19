@@ -1,0 +1,9 @@
+6 10 beforeafter
+ghost 5 1 1
+boast 1 5 0
+stoop 4 5 1
+detox 1 7 0
+!beforeafter 2 q
+!beforeafter 2 q
+!beforeafter 1 q
+!beforeafter 1 n

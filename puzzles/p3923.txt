@@ -1,0 +1,5 @@
+7 8
+dowry 2 1 0
+wight 4 1 1
+barge 1 3 0
+ashen 2 3 1

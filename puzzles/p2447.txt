@@ -1,0 +1,5 @@
+7 10
+groin 4 1 1
+skunk 1 5 0
+utile 3 5 1
+leggy 2 9 0

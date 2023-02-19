@@ -1,0 +1,5 @@
+7 9
+fence 6 1 1
+excel 3 4 1
+exile 2 5 0
+holly 1 8 0

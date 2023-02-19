@@ -1,0 +1,5 @@
+6 10
+aunty 3 1 1
+minor 1 3 0
+glyph 1 5 0
+paler 4 5 1

@@ -1,0 +1,5 @@
+7 9 scrabble
+trice 2 1 1
+price 4 4 1
+vocal 2 7 0
+weary 1 5 0

@@ -1,0 +1,5 @@
+7 10
+slice 2 1 1
+finch 1 3 0
+enact 2 5 0
+axiom 4 5 1

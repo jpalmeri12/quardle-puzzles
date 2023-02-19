@@ -1,0 +1,5 @@
+7 10
+stark 2 1 1
+skull 1 5 0
+loose 5 5 1
+river 2 9 0

@@ -1,0 +1,7 @@
+7 11 secretdistance
+putty 4 1 1
+truer 2 2 0
+tasty 1 4 0
+admit 2 4 1
+spook 1 10 0
+!sdpos 2 1 2 2

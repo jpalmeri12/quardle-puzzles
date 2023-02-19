@@ -1,0 +1,6 @@
+7 11 drop
+abide 1 1 0
+brawn 2 1 1
+wacky 2 4 0
+krill 5 4 1
+weary 1 10 0

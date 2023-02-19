@@ -1,0 +1,6 @@
+6 11 undercover
+clump 2 1 1
+cling 1 2 0
+flare 4 4 1
+spill 1 5 0
+howdy 1 10 0

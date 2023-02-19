@@ -1,0 +1,5 @@
+7 9 skyscrapers
+lilac 4 1 1
+ounce 1 5 0
+puppy 2 4 1
+proxy 2 7 0

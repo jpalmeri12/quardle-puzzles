@@ -1,0 +1,6 @@
+6 10 wordcolumn
+suing 1 1 1
+smock 3 3 1
+goofy 1 5 0
+yeast 5 5 1
+dealt 1 9 0

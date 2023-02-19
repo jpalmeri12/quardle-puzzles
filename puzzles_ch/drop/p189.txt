@@ -1,0 +1,6 @@
+6 8 drop
+slain 2 1 1
+stunt 4 1 1
+flute 1 2 0
+unite 1 5 0
+fetus 1 7 0

@@ -1,0 +1,5 @@
+7 8
+fritz 2 1 0
+talon 5 1 1
+shall 1 3 0
+hippy 2 3 1

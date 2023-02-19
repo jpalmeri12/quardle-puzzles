@@ -1,0 +1,9 @@
+6 9 beforeafter
+toxic 1 1 1
+optic 1 2 0
+usage 4 4 1
+chest 1 5 0
+!beforeafter 2 l
+!beforeafter 2 l
+!beforeafter 1 l
+!beforeafter 2 j

@@ -1,0 +1,5 @@
+7 8
+trove 1 1 0
+olive 3 1 1
+slink 6 3 1
+avail 2 4 0

@@ -1,0 +1,8 @@
+6 8 twins
+giver 1 1 0
+mambo 1 3 0
+model 1 5 0
+suite 1 7 0
+!twins 3 4
+!twins 3 4
+!twins 0 1

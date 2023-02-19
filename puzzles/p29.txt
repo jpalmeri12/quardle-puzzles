@@ -1,0 +1,5 @@
+7 9
+ensue 1 1 1
+mouth 4 4 1
+error 1 5 0
+abhor 2 8 0

@@ -1,0 +1,5 @@
+7 10 spin
+vodka 5 1 1
+focal 2 5 0
+cease 4 5 1
+borax 1 7 0

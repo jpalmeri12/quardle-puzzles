@@ -1,0 +1,5 @@
+7 10
+aloof 5 1 1
+devil 1 2 0
+stuff 2 5 0
+trial 3 5 1

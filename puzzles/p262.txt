@@ -1,0 +1,5 @@
+7 8
+meant 6 1 1
+giddy 4 3 1
+align 2 4 0
+nerdy 1 6 0

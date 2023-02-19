@@ -1,0 +1,5 @@
+7 9
+craze 3 1 1
+troop 2 2 0
+hazel 1 4 0
+haute 1 4 1

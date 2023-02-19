@@ -1,0 +1,5 @@
+7 10
+plume 4 1 1
+south 2 3 0
+shied 1 5 0
+story 1 5 1

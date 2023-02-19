@@ -1,0 +1,5 @@
+7 10
+mulch 4 1 1
+silly 2 3 0
+light 1 5 0
+impel 2 5 1

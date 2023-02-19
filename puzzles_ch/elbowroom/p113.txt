@@ -1,0 +1,5 @@
+7 10 elbowroom
+bench 1 1 0
+havoc 5 1 1
+winch 2 5 0
+wrung 2 5 1

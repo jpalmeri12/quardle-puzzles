@@ -1,0 +1,5 @@
+7 7 darkness
+weary 2 4 0
+forgo 5 2 1
+scoff 1 2 0
+bowel 3 1 1

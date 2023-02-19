@@ -1,0 +1,5 @@
+7 9 fourscore
+aping 2 1 0
+niche 5 1 1
+scene 3 4 1
+emcee 1 5 0

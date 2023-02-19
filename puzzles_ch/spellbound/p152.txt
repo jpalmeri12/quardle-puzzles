@@ -1,0 +1,9 @@
+7 9 spellbound
+denim 5 1 1
+quote 1 2 0
+scout 2 4 1
+comma 2 5 0
+!spellbound 0 2 3
+!spellbound 1 0 2
+!spellbound 2 0 4
+!spellbound 3 2 1

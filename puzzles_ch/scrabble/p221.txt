@@ -1,0 +1,5 @@
+6 8 scrabble
+agile 1 4 0
+clump 4 3 1
+baggy 2 1 1
+guppy 1 7 0

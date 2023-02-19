@@ -1,0 +1,5 @@
+7 10
+flare 6 1 1
+noble 2 5 0
+lynch 5 5 1
+panic 1 8 0

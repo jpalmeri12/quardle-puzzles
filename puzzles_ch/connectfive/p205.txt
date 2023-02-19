@@ -1,0 +1,6 @@
+7 10 connectfive
+teeth 6 1 1
+brief 2 3 1
+brace 2 3 0
+quasi 4 5 1
+debug 1 6 0

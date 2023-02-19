@@ -1,0 +1,5 @@
+7 10 fourscore
+lusty 5 1 1
+bayou 1 2 0
+vinyl 2 5 0
+labor 6 5 1

@@ -1,0 +1,5 @@
+7 10
+swing 4 1 1
+hairy 2 3 0
+mangy 1 5 0
+yeast 5 5 1

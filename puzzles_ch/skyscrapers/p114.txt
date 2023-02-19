@@ -1,0 +1,5 @@
+7 9 skyscrapers
+these 2 2 0
+stilt 2 1 1
+blush 1 4 0
+study 4 4 1

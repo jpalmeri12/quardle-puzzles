@@ -1,0 +1,6 @@
+7 9 island
+dream 5 1 1
+abbey 2 4 1
+blimp 2 5 0
+gypsy 1 8 0
+!island 311 1111 2111 211

@@ -1,0 +1,5 @@
+6 9
+proof 1 1 1
+phone 1 1 0
+onset 1 4 0
+shied 3 4 1

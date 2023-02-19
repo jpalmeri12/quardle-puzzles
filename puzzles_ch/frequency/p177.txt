@@ -1,0 +1,5 @@
+7 10 frequency
+mafia 2 1 1
+rapid 1 5 0
+poise 3 5 1
+psalm 2 8 0

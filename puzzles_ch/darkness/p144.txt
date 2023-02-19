@@ -1,0 +1,5 @@
+7 9 darkness
+stake 4 1 1
+shunt 2 4 1
+tutor 2 8 0
+cheer 1 5 0

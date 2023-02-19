@@ -1,0 +1,5 @@
+7 9 frequency
+crack 1 1 1
+crumb 1 4 0
+burst 5 4 1
+spire 2 6 0

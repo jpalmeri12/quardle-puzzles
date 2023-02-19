@@ -1,0 +1,5 @@
+7 9
+staff 1 1 1
+pilot 4 4 1
+flair 1 5 0
+goody 2 7 0

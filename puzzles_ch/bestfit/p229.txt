@@ -1,0 +1,5 @@
+7 10 bestfit
+flora 2 1 1
+natal 1 5 0
+aphid 4 5 1
+guilt 2 8 0

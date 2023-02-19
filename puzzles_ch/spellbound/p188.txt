@@ -1,0 +1,9 @@
+7 10 spellbound
+mercy 1 1 0
+rumor 3 1 1
+trash 2 5 0
+tarot 2 5 1
+!spellbound 0 3 1
+!spellbound 1 2 1
+!spellbound 2 3 2
+!spellbound 3 3 1

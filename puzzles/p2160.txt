@@ -1,0 +1,5 @@
+7 10
+furry 2 1 0
+reuse 4 1 1
+watch 1 5 1
+women 1 5 0

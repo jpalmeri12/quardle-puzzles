@@ -1,0 +1,5 @@
+7 8 swap
+fojrd 2 1 0
+flakc 2 1 1
+eaetr 1 3 0
+rtite 5 3 1

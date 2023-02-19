@@ -1,0 +1,5 @@
+6 7 soundscramble
+glass 4 1 1
+orbar 1 2 1
+omble 1 2 0
+burst 1 4 0

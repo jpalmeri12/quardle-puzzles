@@ -1,0 +1,5 @@
+7 7 spaced
+today 5 1 1
+cargo 1 2 0
+anger 2 2 1
+gloat 2 4 0

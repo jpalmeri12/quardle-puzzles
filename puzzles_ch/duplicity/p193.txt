@@ -1,0 +1,5 @@
+7 9 duplicity
+crass 1 1 1
+stiff 1 4 0
+friar 5 4 1
+attic 2 6 0

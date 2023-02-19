@@ -1,0 +1,5 @@
+7 7
+weigh 4 1 1
+dowel 1 2 0
+often 2 2 1
+tiger 2 4 0

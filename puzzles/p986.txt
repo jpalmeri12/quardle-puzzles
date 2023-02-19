@@ -1,0 +1,5 @@
+7 9
+taken 4 1 1
+knead 1 2 0
+bread 2 4 0
+being 2 4 1

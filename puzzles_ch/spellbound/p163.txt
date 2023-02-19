@@ -1,0 +1,9 @@
+6 9 spellbound
+rocky 1 1 0
+knack 4 1 1
+crick 1 4 0
+relic 2 4 1
+!spellbound 0 0 2
+!spellbound 1 4 1
+!spellbound 2 0 4
+!spellbound 3 3 1

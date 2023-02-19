@@ -1,0 +1,5 @@
+7 9 frequency
+arrow 1 1 1
+pixel 3 4 1
+waive 1 5 0
+verge 2 7 0

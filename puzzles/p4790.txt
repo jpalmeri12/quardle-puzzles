@@ -1,0 +1,5 @@
+7 10
+thump 4 1 1
+prune 2 3 0
+snipe 1 5 0
+iliac 3 5 1

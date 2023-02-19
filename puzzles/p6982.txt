@@ -1,0 +1,5 @@
+7 10
+tweak 2 1 1
+kiosk 2 5 0
+occur 4 5 1
+disco 1 7 0

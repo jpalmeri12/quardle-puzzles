@@ -1,0 +1,5 @@
+6 9 altending
+spore 1 1 0
+stone 1 3 0
+shook 1 5 0
+spoil 1 7 0

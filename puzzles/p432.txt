@@ -1,0 +1,5 @@
+7 10
+relay 4 1 1
+payer 2 5 0
+aisle 3 5 1
+bossy 1 7 0

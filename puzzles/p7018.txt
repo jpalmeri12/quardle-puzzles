@@ -1,0 +1,5 @@
+7 9
+stiff 2 1 1
+steak 1 2 0
+ferry 2 4 0
+renew 4 4 1

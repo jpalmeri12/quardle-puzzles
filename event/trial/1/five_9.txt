@@ -1,0 +1,6 @@
+7 10 five
+ethos 2 1 1
+vinyl 6 2 1
+spiny 2 5 0
+idiot 4 5 1
+cabin 1 7 0

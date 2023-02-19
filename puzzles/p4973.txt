@@ -1,0 +1,5 @@
+7 9
+weary 6 1 1
+graph 2 4 1
+rainy 2 5 0
+whirl 1 8 0

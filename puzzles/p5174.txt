@@ -1,0 +1,5 @@
+7 8
+hippy 1 1 0
+imbue 2 1 1
+booze 2 3 0
+occur 4 3 1

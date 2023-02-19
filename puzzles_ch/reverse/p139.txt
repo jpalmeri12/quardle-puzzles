@@ -1,0 +1,5 @@
+6 8 reverse
+palsy 1 1 0
+piuqe 1 1 1
+yfinu 4 3 1
+email 1 5 0

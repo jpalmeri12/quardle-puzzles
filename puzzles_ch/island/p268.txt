@@ -1,0 +1,6 @@
+7 8 island
+usher 1 1 0
+scamp 2 1 1
+bully 4 3 1
+palsy 2 5 0
+!island 32 2111 211 221

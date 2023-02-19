@@ -1,0 +1,5 @@
+7 8 scrabble
+ultra 5 1 1
+focus 2 1 0
+juror 1 4 0
+quick 2 3 1

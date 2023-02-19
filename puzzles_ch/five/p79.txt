@@ -1,0 +1,6 @@
+6 9 five
+steel 5 1 1
+actor 1 4 1
+amaze 1 4 0
+alter 3 4 1
+rural 1 8 0

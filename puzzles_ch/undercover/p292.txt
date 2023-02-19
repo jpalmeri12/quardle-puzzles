@@ -1,0 +1,6 @@
+7 11 undercover
+foray 5 1 1
+tarot 2 2 0
+comma 1 4 0
+catty 1 4 1
+snide 1 10 0

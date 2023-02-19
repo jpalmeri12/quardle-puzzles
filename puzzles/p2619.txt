@@ -1,0 +1,5 @@
+7 10
+risen 2 1 1
+asset 1 3 0
+nurse 2 5 0
+sleet 5 5 1

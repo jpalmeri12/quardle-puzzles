@@ -1,0 +1,6 @@
+6 10 five
+lilac 1 1 1
+lobby 1 1 0
+brand 4 1 1
+candy 1 5 0
+acute 2 5 1

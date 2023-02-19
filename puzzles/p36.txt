@@ -1,0 +1,5 @@
+7 10
+micro 2 1 1
+clung 2 3 0
+bonus 1 5 0
+suing 5 5 1

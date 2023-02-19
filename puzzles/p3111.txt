@@ -1,0 +1,5 @@
+7 7
+fifty 2 1 1
+inlay 2 2 0
+lover 4 2 1
+stove 1 4 0

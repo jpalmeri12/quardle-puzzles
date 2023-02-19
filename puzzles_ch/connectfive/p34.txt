@@ -1,0 +1,6 @@
+7 9 connectfive
+rajah 2 1 0
+angry 5 1 1
+wafer 1 4 0
+aphid 2 4 1
+deity 2 8 0

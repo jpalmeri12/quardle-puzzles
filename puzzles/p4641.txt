@@ -1,0 +1,5 @@
+7 9
+actor 1 1 1
+foist 3 4 1
+roomy 1 5 0
+stalk 2 8 0

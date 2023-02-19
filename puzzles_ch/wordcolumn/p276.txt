@@ -1,0 +1,6 @@
+7 10 wordcolumn
+eager 1 1 1
+khaki 4 1 1
+ratio 1 5 0
+tough 3 5 1
+funny 2 7 0

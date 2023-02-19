@@ -1,0 +1,6 @@
+7 11 drop
+pleat 1 1 1
+amiss 1 4 0
+shack 5 4 1
+niece 2 7 0
+slave 1 10 0

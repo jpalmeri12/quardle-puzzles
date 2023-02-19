@@ -1,0 +1,5 @@
+6 9
+aware 4 1 1
+spire 1 4 0
+snort 1 4 1
+repay 1 7 0

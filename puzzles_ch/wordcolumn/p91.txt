@@ -1,0 +1,6 @@
+7 10 wordcolumn
+gloss 2 1 1
+error 5 1 1
+bluer 1 2 0
+shorn 2 5 0
+noble 6 5 1

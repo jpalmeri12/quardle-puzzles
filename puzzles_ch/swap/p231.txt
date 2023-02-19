@@ -1,0 +1,5 @@
+7 10 swap
+hiest 4 1 1
+suamc 2 5 1
+sitll 2 5 0
+hmuan 1 8 0

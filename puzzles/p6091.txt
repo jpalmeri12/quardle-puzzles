@@ -1,0 +1,5 @@
+7 10
+chafe 3 1 1
+tweak 1 5 0
+wrack 2 5 1
+alert 2 7 0

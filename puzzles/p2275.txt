@@ -1,0 +1,5 @@
+7 10
+scour 2 1 1
+chalk 2 2 0
+crock 1 5 0
+ounce 3 5 1

@@ -1,0 +1,5 @@
+7 7
+speck 1 1 1
+vapor 4 2 1
+crypt 1 4 0
+spree 2 6 0

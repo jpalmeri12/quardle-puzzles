@@ -1,0 +1,6 @@
+6 11 undercover
+blown 1 1 1
+lupus 1 2 0
+wager 1 4 0
+easel 4 4 1
+civic 1 10 0

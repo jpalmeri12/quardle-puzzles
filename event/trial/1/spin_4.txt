@@ -1,0 +1,5 @@
+7 9 spin
+basic 1 1 1
+idyll 3 4 1
+cedar 1 5 0
+allow 2 7 0

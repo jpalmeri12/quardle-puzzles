@@ -1,0 +1,6 @@
+7 8 five
+natal 1 1 0
+leach 5 1 1
+debar 2 3 0
+elder 3 3 1
+width 1 5 0

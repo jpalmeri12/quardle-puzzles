@@ -1,0 +1,5 @@
+7 10 desync
+opera 1 1 1
+adopt 1 5 0
+dunce 2 5 1
+chase 2 8 0

@@ -1,0 +1,5 @@
+7 10
+spout 1 1 1
+tasty 1 5 0
+atoll 2 5 1
+lipid 2 8 0

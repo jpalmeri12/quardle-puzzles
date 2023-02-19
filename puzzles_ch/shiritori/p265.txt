@@ -1,0 +1,5 @@
+6 9 shiritori
+whiff 1 1 0
+ferry 5 1 1
+prior 1 4 1
+paler 1 4 0

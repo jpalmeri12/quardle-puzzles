@@ -1,0 +1,5 @@
+6 8
+crass 1 1 0
+rapid 2 1 1
+gusty 4 3 1
+pique 1 4 0

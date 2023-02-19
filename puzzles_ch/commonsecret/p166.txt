@@ -1,0 +1,6 @@
+7 9 commonsecret
+bathe 5 1 1
+wheat 2 2 0
+loath 1 4 0
+awoke 3 4 1
+!secret a

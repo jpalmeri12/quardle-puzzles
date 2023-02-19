@@ -1,0 +1,5 @@
+7 10
+joist 4 1 1
+spoof 1 2 0
+ester 2 5 0
+rugby 6 5 1

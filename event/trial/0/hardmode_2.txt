@@ -1,0 +1,5 @@
+6 8 hardmode
+scoff 1 1 1
+quest 4 3 1
+foyer 1 5 0
+waltz 1 7 0

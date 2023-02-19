@@ -1,0 +1,5 @@
+7 10
+groin 3 1 1
+junta 1 5 0
+amber 5 5 1
+where 2 9 0

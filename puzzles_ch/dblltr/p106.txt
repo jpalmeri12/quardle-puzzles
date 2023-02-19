@@ -1,0 +1,5 @@
+6 7 dblltr
+tease 3 1 1
+patty 1 2 1
+abate 1 3 0
+theta 1 5 0

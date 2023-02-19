@@ -1,0 +1,7 @@
+6 9 secretdistance
+randy 3 1 1
+stark 1 2 0
+sever 1 2 1
+video 1 4 0
+rarer 1 8 0
+!sdpos 1 2 1 0

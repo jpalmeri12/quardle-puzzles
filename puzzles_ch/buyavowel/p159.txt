@@ -1,0 +1,5 @@
+7 9 buyavowel
+friar 1 1 0
+ramen 5 1 1
+later 2 4 0
+awash 3 4 1

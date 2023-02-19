@@ -1,0 +1,5 @@
+7 9
+theta 5 1 1
+pouch 1 2 0
+sonar 3 4 1
+total 2 5 0

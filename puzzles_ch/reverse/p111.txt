@@ -1,0 +1,5 @@
+7 9 reverse
+ruler 4 1 1
+level 1 4 0
+ekalf 2 4 1
+lluks 2 7 0

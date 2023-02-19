@@ -1,0 +1,5 @@
+7 10
+smile 6 1 1
+whale 2 5 0
+hatch 3 5 1
+pitch 1 7 0

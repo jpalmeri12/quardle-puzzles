@@ -1,0 +1,9 @@
+7 9 spellbound
+baste 2 1 0
+sedan 4 1 1
+ascot 1 4 1
+stint 1 5 0
+!spellbound 0 4 1
+!spellbound 1 2 1
+!spellbound 2 2 4
+!spellbound 3 4 1

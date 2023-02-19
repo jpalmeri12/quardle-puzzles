@@ -1,0 +1,5 @@
+7 10
+allot 5 1 1
+girth 2 5 0
+reuse 4 5 1
+ficus 1 7 0

@@ -1,0 +1,5 @@
+6 7
+spook 3 1 1
+puffy 1 2 1
+puppy 1 2 0
+frown 1 4 0

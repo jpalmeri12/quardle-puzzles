@@ -1,0 +1,5 @@
+7 8
+spire 2 1 0
+saner 2 1 1
+angry 1 3 0
+rebus 4 3 1

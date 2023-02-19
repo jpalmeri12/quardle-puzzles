@@ -1,0 +1,5 @@
+7 8 sweeper
+champ 1 1 0
+hussy 2 1 1
+idiot 5 3 1
+study 2 4 0

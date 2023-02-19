@@ -1,0 +1,5 @@
+7 9 skyscrapers
+uncle 2 1 1
+plumb 1 4 0
+bosom 5 4 1
+balmy 2 8 0

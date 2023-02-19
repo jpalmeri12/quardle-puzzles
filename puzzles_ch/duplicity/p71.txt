@@ -1,0 +1,5 @@
+7 8 duplicity
+newer 1 1 0
+waxen 3 1 1
+exalt 2 3 0
+trawl 6 3 1

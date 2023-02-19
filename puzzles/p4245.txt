@@ -1,0 +1,5 @@
+6 9
+guild 1 1 0
+dusty 5 1 1
+night 1 4 0
+nutty 1 4 1

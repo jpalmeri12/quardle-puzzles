@@ -1,0 +1,5 @@
+6 9
+berth 1 1 0
+raven 3 1 1
+poesy 1 4 0
+penne 1 4 1

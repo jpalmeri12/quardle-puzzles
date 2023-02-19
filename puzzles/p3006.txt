@@ -1,0 +1,5 @@
+7 8
+suing 2 1 0
+nomad 5 1 1
+beast 3 3 1
+theta 1 4 0

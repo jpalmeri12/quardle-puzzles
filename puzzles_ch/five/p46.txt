@@ -1,0 +1,6 @@
+6 10 five
+false 4 1 1
+flick 2 4 1
+alley 1 5 0
+yeast 5 5 1
+scuba 1 7 0

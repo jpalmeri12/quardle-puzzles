@@ -1,0 +1,5 @@
+7 9
+duchy 2 1 0
+clued 4 1 1
+maker 1 4 0
+masse 1 4 1

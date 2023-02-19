@@ -1,0 +1,5 @@
+6 7 fourscore
+tough 4 1 1
+droop 1 2 0
+razor 2 2 1
+mocha 1 5 0

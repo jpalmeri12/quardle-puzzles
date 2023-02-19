@@ -1,0 +1,5 @@
+7 9 swap
+itmid 5 1 1
+ploka 3 4 1
+pleda 2 5 0
+lsaso 1 8 0

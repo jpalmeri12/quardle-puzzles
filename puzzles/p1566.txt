@@ -1,0 +1,5 @@
+7 10
+spelt 2 1 0
+shied 2 1 1
+udder 1 5 0
+ruddy 5 5 1

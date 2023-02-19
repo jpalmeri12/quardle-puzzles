@@ -1,0 +1,5 @@
+7 10
+tardy 5 1 1
+tacky 1 5 0
+krill 4 5 1
+unlit 2 8 0

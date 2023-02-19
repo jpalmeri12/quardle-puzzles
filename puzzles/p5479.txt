@@ -1,0 +1,5 @@
+7 7
+label 2 1 1
+augur 2 2 0
+grown 4 2 1
+depot 1 4 0

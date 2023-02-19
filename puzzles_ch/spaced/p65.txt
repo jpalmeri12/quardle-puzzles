@@ -1,0 +1,5 @@
+6 9 spaced
+ripen 3 1 1
+hydro 5 4 1
+randy 1 5 0
+macho 1 8 0

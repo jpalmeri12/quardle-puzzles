@@ -1,0 +1,5 @@
+6 8
+sworn 1 1 1
+salad 1 1 0
+depot 5 3 1
+rouge 1 4 0

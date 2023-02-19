@@ -1,0 +1,5 @@
+7 8
+mulch 1 1 1
+elegy 3 3 1
+color 1 4 0
+lymph 2 7 0

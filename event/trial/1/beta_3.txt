@@ -1,0 +1,5 @@
+7 8 beta
+shirk 5 1 1
+homer 3 3 1
+board 2 4 0
+viral 1 7 0

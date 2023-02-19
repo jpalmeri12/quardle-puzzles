@@ -1,0 +1,5 @@
+7 10 duplicity
+retro 3 1 1
+torso 2 5 0
+snore 5 5 1
+stone 1 9 0

@@ -1,0 +1,5 @@
+7 9 beta
+prime 2 1 1
+small 1 4 0
+linen 5 4 1
+going 2 8 0

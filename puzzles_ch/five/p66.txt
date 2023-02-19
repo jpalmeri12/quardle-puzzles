@@ -1,0 +1,6 @@
+7 10 five
+super 4 1 1
+table 2 4 1
+carry 1 5 0
+yeast 5 5 1
+loyal 2 7 0

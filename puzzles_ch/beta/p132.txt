@@ -1,0 +1,5 @@
+7 7 beta
+mammy 2 1 1
+award 2 2 0
+resin 5 2 1
+amiss 1 4 0

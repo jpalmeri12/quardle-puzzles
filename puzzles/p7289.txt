@@ -1,0 +1,5 @@
+7 10
+guile 4 1 1
+poise 2 3 0
+board 1 5 1
+bleed 1 5 0

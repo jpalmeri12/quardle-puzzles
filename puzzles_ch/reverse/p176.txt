@@ -1,0 +1,5 @@
+6 9 reverse
+plane 3 1 1
+felon 1 2 0
+htaeh 5 4 1
+hteet 1 5 0

@@ -1,0 +1,5 @@
+6 8 soundscramble
+berst 1 1 0
+eppur 2 1 1
+uclat 4 3 1
+bulch 1 4 0

@@ -1,0 +1,5 @@
+7 10
+affix 2 1 0
+froze 4 1 1
+cheer 1 5 0
+chore 1 5 1

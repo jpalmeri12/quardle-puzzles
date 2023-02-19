@@ -1,0 +1,9 @@
+7 9 spellbound
+groom 1 1 0
+mealy 5 1 1
+guile 2 4 0
+grant 2 4 1
+!spellbound 0 1 0
+!spellbound 1 2 4
+!spellbound 2 1 4
+!spellbound 3 3 1

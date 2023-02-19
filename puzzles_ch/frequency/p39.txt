@@ -1,0 +1,5 @@
+7 9 frequency
+basis 4 1 1
+boxer 2 4 1
+bossy 1 5 0
+racer 2 8 0

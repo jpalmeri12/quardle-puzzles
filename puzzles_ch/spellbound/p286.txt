@@ -1,0 +1,9 @@
+7 10 spellbound
+night 4 1 1
+foist 2 2 0
+heath 1 5 0
+howdy 1 5 1
+!spellbound 0 2 0
+!spellbound 1 0 1
+!spellbound 2 1 2
+!spellbound 3 2 4

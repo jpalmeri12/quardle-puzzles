@@ -1,0 +1,5 @@
+7 7 soundscramble
+ripil 5 1 1
+igrit 2 2 0
+geddy 3 2 1
+redgi 1 4 0

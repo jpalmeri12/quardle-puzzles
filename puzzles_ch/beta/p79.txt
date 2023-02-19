@@ -1,0 +1,5 @@
+7 9 beta
+yearn 2 1 1
+truss 1 4 0
+scale 5 4 1
+filet 2 8 0

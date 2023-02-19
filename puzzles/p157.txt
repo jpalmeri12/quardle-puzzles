@@ -1,0 +1,5 @@
+7 9
+canoe 2 1 1
+mocha 1 4 0
+hymen 4 4 1
+fanny 2 8 0

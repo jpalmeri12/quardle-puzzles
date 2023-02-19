@@ -1,0 +1,6 @@
+7 11 connectfive
+quiet 3 1 1
+penny 2 4 0
+nerdy 5 4 1
+moose 1 6 1
+oddly 1 8 0

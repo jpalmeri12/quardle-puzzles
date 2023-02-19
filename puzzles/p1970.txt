@@ -1,0 +1,5 @@
+7 7
+brick 2 1 1
+rumor 2 2 0
+melon 4 2 1
+icily 1 4 0

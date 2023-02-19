@@ -1,0 +1,5 @@
+6 10
+blame 5 1 1
+price 1 5 0
+clock 4 5 1
+troop 1 7 0

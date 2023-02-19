@@ -1,0 +1,5 @@
+7 9 spin
+rusty 2 1 1
+flake 5 4 1
+yield 2 5 0
+prank 1 7 0

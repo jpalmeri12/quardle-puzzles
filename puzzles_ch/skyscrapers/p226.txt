@@ -1,0 +1,5 @@
+6 7 skyscrapers
+salad 1 2 0
+large 2 1 1
+agate 1 4 0
+aptly 4 2 1

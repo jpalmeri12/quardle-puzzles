@@ -1,0 +1,5 @@
+7 7 fourscore
+enact 4 1 1
+torch 2 2 1
+tense 2 2 0
+wrack 1 4 0

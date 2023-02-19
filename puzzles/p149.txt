@@ -1,0 +1,5 @@
+6 9
+nerve 2 1 1
+ovary 1 4 0
+reuse 4 4 1
+queen 1 8 0

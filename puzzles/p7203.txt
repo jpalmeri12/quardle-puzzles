@@ -1,0 +1,5 @@
+7 8
+tithe 2 1 1
+grief 4 3 1
+churn 1 4 0
+hefty 2 7 0

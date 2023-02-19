@@ -1,0 +1,5 @@
+7 10
+bingo 4 1 1
+spool 1 5 0
+orbit 3 5 1
+abyss 2 7 0

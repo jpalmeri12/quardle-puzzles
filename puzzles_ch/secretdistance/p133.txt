@@ -1,0 +1,7 @@
+6 11 secretdistance
+hyena 1 1 1
+yacht 1 2 0
+wrist 4 4 1
+avert 1 5 0
+coyly 1 10 0
+!sdpos 3 3 2 2

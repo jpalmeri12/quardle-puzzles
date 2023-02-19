@@ -1,0 +1,5 @@
+6 10
+cutie 4 1 1
+scout 1 2 0
+fewer 1 5 0
+wrath 3 5 1

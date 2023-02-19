@@ -1,0 +1,5 @@
+7 10
+floor 2 1 1
+lover 2 2 0
+front 1 5 0
+offal 3 5 1

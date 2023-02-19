@@ -1,0 +1,5 @@
+7 9
+swash 1 1 1
+third 5 4 1
+hitch 1 5 0
+angry 2 7 0

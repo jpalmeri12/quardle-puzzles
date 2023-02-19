@@ -1,0 +1,6 @@
+6 10 island
+taboo 2 1 1
+mauve 1 2 0
+rocky 1 5 0
+cover 3 5 1
+!island 1111 11111 2111 221

@@ -1,0 +1,5 @@
+7 8 sweeper
+soggy 4 1 1
+posse 2 3 1
+dodgy 1 4 0
+equal 2 7 0

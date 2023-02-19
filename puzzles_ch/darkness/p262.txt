@@ -1,0 +1,5 @@
+7 8 darkness
+furor 6 1 1
+defer 2 5 0
+spare 1 7 0
+refer 4 3 1

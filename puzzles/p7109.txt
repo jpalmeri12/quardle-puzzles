@@ -1,0 +1,5 @@
+7 9
+eagle 2 1 1
+abbey 2 2 0
+trite 5 4 1
+meter 1 5 0

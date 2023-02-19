@@ -1,0 +1,5 @@
+7 10 scrabble
+salon 2 1 1
+incur 1 5 0
+unwed 4 5 1
+loopy 2 3 0

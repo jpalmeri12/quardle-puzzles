@@ -1,0 +1,6 @@
+6 9 commonsecret
+taker 5 1 1
+quake 1 4 0
+quick 1 4 1
+knife 1 8 0
+!secret k

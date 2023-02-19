@@ -1,0 +1,5 @@
+7 10
+tutor 2 1 1
+reply 2 5 0
+evict 3 5 1
+macaw 1 8 0

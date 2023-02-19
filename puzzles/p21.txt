@@ -1,0 +1,5 @@
+7 8
+vista 1 1 0
+timid 4 1 1
+revel 6 3 1
+bride 2 4 0

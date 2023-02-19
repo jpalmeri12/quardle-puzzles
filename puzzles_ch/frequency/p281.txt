@@ -1,0 +1,5 @@
+7 10 frequency
+major 4 1 1
+early 2 5 0
+lager 5 5 1
+sneer 1 9 0

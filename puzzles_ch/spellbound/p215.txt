@@ -1,0 +1,9 @@
+7 9 spellbound
+fella 2 1 1
+exist 2 2 0
+masse 4 4 1
+cacao 1 5 0
+!spellbound 0 0 3
+!spellbound 1 2 4
+!spellbound 2 0 4
+!spellbound 3 2 4

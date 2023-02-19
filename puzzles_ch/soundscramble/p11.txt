@@ -1,0 +1,5 @@
+7 10 soundscramble
+exiom 3 1 1
+nomed 1 5 0
+ordar 2 5 1
+rhyma 2 9 0

@@ -1,0 +1,5 @@
+6 9
+pecan 5 1 1
+snore 1 2 0
+karma 1 4 0
+attic 2 4 1

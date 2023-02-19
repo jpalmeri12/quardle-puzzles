@@ -1,0 +1,5 @@
+7 10
+pasty 3 1 1
+coyly 1 5 0
+onset 2 5 1
+trope 2 9 0

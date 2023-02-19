@@ -1,0 +1,6 @@
+6 9 undercover
+tubal 1 1 1
+uncle 1 2 0
+creed 3 2 1
+avert 1 4 0
+wimpy 1 8 0

@@ -1,0 +1,6 @@
+7 10 undercover
+stork 3 1 1
+newer 5 3 1
+cruel 2 4 0
+vigor 1 7 0
+jazzy 1 9 0

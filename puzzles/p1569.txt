@@ -1,0 +1,5 @@
+7 9
+grope 4 1 1
+perch 2 2 0
+trade 2 4 1
+cried 1 5 0

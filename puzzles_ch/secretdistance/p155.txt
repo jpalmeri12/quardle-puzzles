@@ -1,0 +1,7 @@
+7 10 secretdistance
+junto 6 1 1
+bossy 2 3 1
+salvo 2 5 0
+bylaw 1 7 0
+flake 1 9 0
+!sdpos 2 3 2 2

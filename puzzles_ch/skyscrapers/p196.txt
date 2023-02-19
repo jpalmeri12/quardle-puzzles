@@ -1,0 +1,5 @@
+7 8 skyscrapers
+visor 1 1 0
+sweep 3 1 1
+beady 2 3 0
+dingy 5 3 1

@@ -1,0 +1,6 @@
+7 10 connectfive
+curio 3 1 1
+devil 2 5 1
+doubt 2 5 0
+visor 2 7 0
+ultra 1 9 0

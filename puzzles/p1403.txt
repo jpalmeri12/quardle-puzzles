@@ -1,0 +1,5 @@
+7 7
+segue 5 1 1
+fault 2 2 1
+fever 2 2 0
+slime 1 5 0

@@ -1,0 +1,5 @@
+7 10 swap
+fuuge 5 1 1
+vauge 1 5 0
+gaezr 4 5 1
+hyepr 2 7 0

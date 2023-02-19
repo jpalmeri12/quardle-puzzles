@@ -1,0 +1,5 @@
+7 8
+clout 1 1 0
+usurp 4 1 1
+stung 2 3 0
+gayer 6 3 1

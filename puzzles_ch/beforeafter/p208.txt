@@ -1,0 +1,9 @@
+7 10 beforeafter
+datum 4 1 1
+champ 1 5 0
+alert 3 5 1
+stale 2 9 0
+!beforeafter 1 i
+!beforeafter 2 l
+!beforeafter 2 q
+!beforeafter 1 o

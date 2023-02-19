@@ -1,0 +1,5 @@
+7 10 elbowroom
+bayou 2 1 1
+young 2 3 0
+rural 1 5 0
+roomy 3 5 1

@@ -1,0 +1,5 @@
+7 10
+fifty 3 1 1
+crypt 1 5 0
+teary 5 5 1
+ferry 2 8 0

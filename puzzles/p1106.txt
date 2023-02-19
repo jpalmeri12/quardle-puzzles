@@ -1,0 +1,5 @@
+7 9
+plead 5 1 1
+catch 3 4 1
+bawdy 2 5 0
+abhor 1 8 0

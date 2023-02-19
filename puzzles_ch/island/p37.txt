@@ -1,0 +1,6 @@
+7 9 island
+shape 1 1 0
+alarm 3 1 1
+stare 5 4 1
+smite 2 5 0
+!island 311 1111 5 2111

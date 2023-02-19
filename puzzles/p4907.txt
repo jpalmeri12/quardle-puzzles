@@ -1,0 +1,5 @@
+6 8
+sassy 1 1 1
+shirk 1 1 0
+sniff 1 3 0
+finch 5 3 1

@@ -1,0 +1,5 @@
+7 9
+blimp 5 1 1
+quell 1 2 0
+cabin 3 4 1
+kappa 2 5 0

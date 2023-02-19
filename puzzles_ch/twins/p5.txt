@@ -1,0 +1,8 @@
+6 8 twins
+reuse 1 1 0
+gypsy 1 3 0
+palsy 1 5 0
+payer 1 7 0
+!twins 1 4
+!twins 3 4
+!twins 0 1

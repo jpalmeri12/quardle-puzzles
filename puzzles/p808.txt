@@ -1,0 +1,5 @@
+7 7
+spent 6 1 1
+pearl 3 2 1
+hence 2 3 0
+mulch 1 6 0

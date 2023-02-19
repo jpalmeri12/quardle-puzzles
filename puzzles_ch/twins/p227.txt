@@ -1,0 +1,8 @@
+6 8 twins
+audit 1 1 0
+spiel 1 3 0
+spank 1 5 0
+snaky 1 7 0
+!twins 1 2
+!twins 0 1
+!twins 0 2

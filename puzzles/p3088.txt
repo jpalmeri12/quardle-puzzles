@@ -1,0 +1,5 @@
+7 9
+swoop 4 1 1
+vegan 2 4 1
+viola 2 4 0
+vaunt 1 7 0

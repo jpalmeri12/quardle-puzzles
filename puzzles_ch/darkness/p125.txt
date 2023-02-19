@@ -1,0 +1,5 @@
+7 8 darkness
+matey 1 7 0
+poesy 2 3 0
+erase 4 3 1
+foyer 6 1 1

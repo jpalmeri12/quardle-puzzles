@@ -1,0 +1,5 @@
+7 10 skyscrapers
+uncle 1 5 0
+grill 4 1 1
+eight 2 1 0
+corny 3 5 1

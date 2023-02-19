@@ -1,0 +1,5 @@
+7 10 darkness
+viola 4 1 1
+atoll 1 9 0
+knack 2 5 0
+knelt 2 5 1

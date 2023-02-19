@@ -1,0 +1,5 @@
+6 8
+saucy 1 1 0
+udder 3 1 1
+smock 5 3 1
+sperm 1 4 0

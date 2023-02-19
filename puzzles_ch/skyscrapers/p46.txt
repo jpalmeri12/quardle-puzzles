@@ -1,0 +1,5 @@
+7 9 skyscrapers
+oaken 2 5 0
+login 2 4 1
+fiber 1 7 0
+aback 4 1 1

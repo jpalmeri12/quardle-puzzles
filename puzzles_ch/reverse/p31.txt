@@ -1,0 +1,5 @@
+7 9 reverse
+swoop 6 1 1
+reffo 2 4 0
+enorp 3 4 1
+repel 1 8 0

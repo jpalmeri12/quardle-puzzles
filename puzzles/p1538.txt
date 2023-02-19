@@ -1,0 +1,5 @@
+7 9
+above 2 1 1
+abuse 1 2 0
+gumbo 5 4 1
+ensue 2 5 0

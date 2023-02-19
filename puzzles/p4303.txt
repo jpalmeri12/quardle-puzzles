@@ -1,0 +1,5 @@
+6 9
+haste 5 1 1
+dogma 1 2 0
+large 1 4 1
+anode 1 5 0

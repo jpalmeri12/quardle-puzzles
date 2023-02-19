@@ -1,0 +1,5 @@
+7 10
+mamma 3 1 1
+early 2 5 0
+rebar 4 5 1
+scuba 1 7 0

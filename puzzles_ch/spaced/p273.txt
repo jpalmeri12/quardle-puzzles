@@ -1,0 +1,5 @@
+7 9 spaced
+froth 1 1 0
+hotel 5 1 1
+solid 3 4 1
+would 2 5 0

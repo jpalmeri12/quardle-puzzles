@@ -1,0 +1,5 @@
+6 9 invention
+mount 4 1 1
+bosom 1 2 0
+adapt 1 4 1
+ditty 1 5 0

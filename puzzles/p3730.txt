@@ -1,0 +1,5 @@
+7 8
+spank 5 1 1
+plaza 1 3 0
+lucid 2 3 1
+dress 2 7 0

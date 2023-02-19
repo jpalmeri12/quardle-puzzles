@@ -1,0 +1,6 @@
+7 11 drop
+tipsy 5 1 1
+amiss 2 4 0
+moron 3 4 1
+woozy 1 7 0
+weary 1 10 0

@@ -1,0 +1,6 @@
+6 8 undercover
+octet 1 1 1
+acrid 4 1 1
+conch 1 2 0
+trade 1 5 0
+jumpy 1 7 0

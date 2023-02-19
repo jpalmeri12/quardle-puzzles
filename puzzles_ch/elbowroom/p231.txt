@@ -1,0 +1,5 @@
+7 10 elbowroom
+teach 2 1 1
+envoy 2 2 0
+wheel 1 5 0
+early 3 5 1

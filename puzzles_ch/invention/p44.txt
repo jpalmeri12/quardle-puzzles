@@ -1,0 +1,5 @@
+6 6 invention
+slang 1 1 0
+loser 2 1 1
+given 5 1 1
+terse 1 4 0

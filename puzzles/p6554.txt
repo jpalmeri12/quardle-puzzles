@@ -1,0 +1,5 @@
+7 9
+serif 2 1 1
+sperm 2 1 0
+wiser 1 4 0
+rouse 5 4 1

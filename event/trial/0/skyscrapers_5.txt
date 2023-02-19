@@ -1,0 +1,5 @@
+6 9 skyscrapers
+mamma 1 5 0
+gamma 5 4 1
+circa 1 8 0
+flora 2 1 1

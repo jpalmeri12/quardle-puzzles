@@ -1,0 +1,5 @@
+7 8
+alarm 2 1 1
+agree 2 1 0
+begat 4 3 1
+green 1 4 0

@@ -1,0 +1,9 @@
+6 9 beforeafter
+hippo 5 1 1
+tulip 1 4 0
+tramp 1 4 1
+merry 1 7 0
+!beforeafter 1 m
+!beforeafter 1 r
+!beforeafter 1 q
+!beforeafter 1 q

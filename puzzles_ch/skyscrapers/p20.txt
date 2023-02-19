@@ -1,0 +1,5 @@
+7 8 skyscrapers
+wrong 2 5 0
+warty 3 3 1
+foyer 1 7 0
+chain 5 1 1

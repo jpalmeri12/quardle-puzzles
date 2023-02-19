@@ -1,0 +1,5 @@
+6 9 reverse
+irony 3 1 1
+tsrow 1 2 0
+penne 1 4 0
+eguag 5 4 1

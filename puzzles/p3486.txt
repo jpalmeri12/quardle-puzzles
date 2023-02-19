@@ -1,0 +1,5 @@
+7 7
+coast 2 1 1
+vinyl 5 2 1
+aphid 2 3 0
+study 1 5 0

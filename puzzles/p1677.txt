@@ -1,0 +1,5 @@
+7 10
+under 2 1 1
+crock 1 5 0
+onion 3 5 1
+snaky 2 9 0

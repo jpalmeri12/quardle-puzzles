@@ -1,0 +1,5 @@
+7 10
+shove 5 1 1
+camel 2 5 0
+mambo 4 5 1
+jumbo 1 8 0

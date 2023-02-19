@@ -1,0 +1,5 @@
+6 7 scrabble
+aroma 1 4 0
+fraud 1 2 1
+forum 1 2 0
+mummy 4 1 1

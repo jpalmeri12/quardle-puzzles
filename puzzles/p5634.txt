@@ -1,0 +1,5 @@
+7 10
+cider 6 1 1
+furor 2 5 0
+rebar 4 5 1
+genre 1 9 0

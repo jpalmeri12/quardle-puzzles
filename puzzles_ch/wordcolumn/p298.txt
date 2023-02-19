@@ -1,0 +1,6 @@
+7 12 wordcolumn
+sleep 1 1 1
+phone 1 5 0
+ocean 3 5 1
+scoop 5 7 1
+endow 2 9 0

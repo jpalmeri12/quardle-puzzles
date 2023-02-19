@@ -1,0 +1,5 @@
+6 9
+crick 5 1 1
+adorn 1 4 1
+attic 1 4 0
+raven 1 7 0

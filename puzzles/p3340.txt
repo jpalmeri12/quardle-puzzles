@@ -1,0 +1,5 @@
+7 7
+shire 3 1 1
+stare 5 2 1
+birth 2 3 0
+sneer 1 5 0

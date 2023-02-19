@@ -1,0 +1,5 @@
+7 10 spin
+stank 2 1 1
+knack 2 5 0
+noble 3 5 1
+fiber 1 7 0

@@ -1,0 +1,6 @@
+7 12 connectfive
+lucid 3 1 1
+hyena 5 4 1
+daddy 1 5 0
+lease 3 7 1
+rebar 2 8 0

@@ -1,0 +1,5 @@
+7 9
+scour 1 1 0
+obese 3 1 1
+snarl 6 4 1
+pecan 2 5 0

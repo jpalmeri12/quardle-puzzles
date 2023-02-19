@@ -1,0 +1,6 @@
+7 8 island
+wafer 1 1 1
+fibre 1 3 0
+rebel 4 3 1
+belie 2 7 0
+!island 5 311 211 1111

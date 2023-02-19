@@ -1,0 +1,5 @@
+7 9 dblltr
+floor 5 1 1
+rural 1 2 0
+proof 2 4 0
+pupil 2 4 1

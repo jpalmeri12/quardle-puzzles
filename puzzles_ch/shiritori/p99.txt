@@ -1,0 +1,5 @@
+7 9 shiritori
+shift 2 1 1
+fence 2 4 0
+newly 4 4 1
+wryly 1 7 0

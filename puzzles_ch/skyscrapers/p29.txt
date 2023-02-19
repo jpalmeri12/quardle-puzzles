@@ -1,0 +1,5 @@
+7 9 skyscrapers
+upper 2 4 1
+suite 1 4 0
+grate 4 1 1
+berth 2 2 0

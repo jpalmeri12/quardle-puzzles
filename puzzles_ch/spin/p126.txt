@@ -1,0 +1,5 @@
+6 10 spin
+badly 3 1 1
+twang 1 2 0
+abyss 1 5 0
+artsy 1 5 1

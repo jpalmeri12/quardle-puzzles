@@ -1,0 +1,5 @@
+6 9 reverse
+scare 3 1 1
+elcnu 1 2 0
+yrrah 1 4 0
+yearn 1 4 1

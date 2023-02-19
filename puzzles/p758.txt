@@ -1,0 +1,5 @@
+7 9
+hyper 2 1 1
+extol 2 4 0
+opium 5 4 1
+bayou 1 7 0

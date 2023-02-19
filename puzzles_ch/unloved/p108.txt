@@ -1,0 +1,5 @@
+7 8 unloved
+rumba 5 1 1
+dirge 3 3 1
+dread 2 5 0
+wreak 1 7 0

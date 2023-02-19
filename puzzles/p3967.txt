@@ -1,0 +1,5 @@
+7 9
+fence 4 1 1
+towel 1 2 0
+daily 2 4 1
+duchy 2 4 0

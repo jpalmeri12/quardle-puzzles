@@ -1,0 +1,9 @@
+7 9 beforeafter
+fatty 1 1 1
+touch 1 4 0
+urine 3 4 1
+dirty 2 6 0
+!beforeafter 1 r
+!beforeafter 2 n
+!beforeafter 1 o
+!beforeafter 1 m

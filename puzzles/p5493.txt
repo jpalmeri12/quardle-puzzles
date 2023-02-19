@@ -1,0 +1,5 @@
+7 10
+blood 4 1 1
+coyly 1 2 0
+toddy 2 5 0
+tease 2 5 1

@@ -1,0 +1,5 @@
+7 9 darkness
+dopey 5 1 1
+cache 1 4 0
+coupe 3 4 1
+rigor 2 2 0

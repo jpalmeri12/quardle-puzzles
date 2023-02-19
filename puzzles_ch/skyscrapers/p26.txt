@@ -1,0 +1,5 @@
+7 8 skyscrapers
+where 2 3 0
+sweet 4 1 1
+chess 1 1 0
+entry 6 3 1

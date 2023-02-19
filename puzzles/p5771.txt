@@ -1,0 +1,5 @@
+6 7
+stead 5 1 1
+craft 1 2 0
+reign 2 2 1
+vista 1 4 0

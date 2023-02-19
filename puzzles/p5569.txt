@@ -1,0 +1,5 @@
+7 10
+count 4 1 1
+girth 1 5 0
+intro 2 5 1
+ruddy 2 8 0

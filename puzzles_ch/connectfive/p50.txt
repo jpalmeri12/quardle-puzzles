@@ -1,0 +1,6 @@
+7 12 connectfive
+pixie 5 1 1
+moult 2 5 1
+mover 2 5 0
+buyer 1 7 0
+rowdy 5 7 1

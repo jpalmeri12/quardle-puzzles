@@ -1,0 +1,5 @@
+7 9 dblltr
+trout 2 1 1
+crack 1 2 0
+usurp 2 4 0
+roger 5 4 1

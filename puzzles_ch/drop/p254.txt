@@ -1,0 +1,6 @@
+7 12 drop
+agent 4 1 1
+freed 2 3 0
+caste 1 5 0
+chase 1 5 1
+chafe 1 11 0

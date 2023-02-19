@@ -1,0 +1,5 @@
+7 9 buyavowel
+hasty 1 1 1
+trope 1 4 0
+purer 4 4 1
+seedy 2 7 0

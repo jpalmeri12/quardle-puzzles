@@ -1,0 +1,6 @@
+7 9 commonsecret
+float 2 1 0
+aorta 5 1 1
+flout 1 4 0
+ovine 3 4 1
+!secret o

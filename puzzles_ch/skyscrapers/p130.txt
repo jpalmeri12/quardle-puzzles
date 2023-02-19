@@ -1,0 +1,5 @@
+7 9 skyscrapers
+tramp 3 4 1
+shrug 1 5 0
+clung 5 1 1
+child 2 2 0

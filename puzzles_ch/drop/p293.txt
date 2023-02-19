@@ -1,0 +1,6 @@
+7 10 drop
+mangy 6 1 1
+idler 2 3 1
+dying 2 4 0
+irate 1 7 0
+girly 1 9 0

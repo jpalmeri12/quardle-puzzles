@@ -1,0 +1,5 @@
+7 9
+macho 6 1 1
+trash 2 4 0
+acrid 4 4 1
+abode 1 8 0

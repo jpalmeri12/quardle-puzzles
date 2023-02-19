@@ -1,0 +1,5 @@
+7 9 shiritori
+knead 4 1 1
+borne 1 2 0
+snare 2 4 0
+swoop 2 4 1

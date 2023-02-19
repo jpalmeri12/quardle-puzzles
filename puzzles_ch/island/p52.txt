@@ -1,0 +1,6 @@
+7 8 island
+booth 2 1 1
+bulky 2 1 0
+mover 1 3 0
+emcee 4 3 1
+!island 211 221 2111 111

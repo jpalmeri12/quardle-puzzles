@@ -1,0 +1,9 @@
+7 9 beforeafter
+locus 2 1 1
+patty 4 4 1
+swami 2 5 0
+ditto 1 7 0
+!beforeafter 2 q
+!beforeafter 1 r
+!beforeafter 1 n
+!beforeafter 1 l

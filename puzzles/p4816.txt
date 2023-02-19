@@ -1,0 +1,5 @@
+7 10
+nymph 2 1 1
+shone 1 5 0
+epoch 5 5 1
+aback 2 8 0

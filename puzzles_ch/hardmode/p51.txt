@@ -1,0 +1,5 @@
+6 10 hardmode
+gloss 1 1 1
+gayer 1 1 0
+slant 1 5 0
+adorn 3 5 1

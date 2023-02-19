@@ -1,0 +1,6 @@
+6 12 drop
+ideal 1 1 0
+dingo 2 1 1
+downy 1 5 0
+night 4 5 1
+tying 1 11 0

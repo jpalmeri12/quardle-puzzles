@@ -1,0 +1,5 @@
+7 9 frequency
+shear 2 1 1
+storm 2 1 0
+niece 4 4 1
+frail 1 5 0

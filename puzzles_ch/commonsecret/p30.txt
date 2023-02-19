@@ -1,0 +1,6 @@
+7 10 commonsecret
+vouch 2 1 1
+havoc 2 5 0
+vigil 4 5 1
+verge 1 7 0
+!secret v

@@ -1,0 +1,5 @@
+7 10
+harem 4 1 1
+limit 2 5 0
+loath 2 5 1
+chose 1 9 0

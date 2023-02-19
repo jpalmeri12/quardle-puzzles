@@ -1,0 +1,5 @@
+7 8 swap
+cusre 6 1 1
+falre 4 3 1
+talbe 2 5 0
+vtoer 1 7 0

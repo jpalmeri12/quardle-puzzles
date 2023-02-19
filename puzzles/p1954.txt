@@ -1,0 +1,5 @@
+7 8
+leafy 1 1 0
+erect 2 1 1
+elder 2 3 0
+rebut 6 3 1

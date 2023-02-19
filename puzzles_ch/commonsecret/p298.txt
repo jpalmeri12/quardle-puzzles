@@ -1,0 +1,6 @@
+7 8 commonsecret
+throb 4 1 1
+bathe 1 2 0
+bread 6 3 1
+amble 2 5 0
+!secret b

@@ -1,0 +1,6 @@
+6 8 commonsecret
+whisk 1 1 0
+slick 4 1 1
+kneel 2 3 1
+geeky 1 5 0
+!secret k

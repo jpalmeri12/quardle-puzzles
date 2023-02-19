@@ -1,0 +1,5 @@
+7 10 swap
+nduge 5 1 1
+salte 1 5 0
+lucdi 3 5 1
+mcuky 2 7 0

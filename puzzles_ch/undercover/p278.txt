@@ -1,0 +1,6 @@
+7 10 undercover
+skill 5 1 1
+widow 3 3 1
+villa 2 4 0
+tower 1 7 0
+gummy 1 9 0

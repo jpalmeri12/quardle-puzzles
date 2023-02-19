@@ -1,0 +1,5 @@
+7 9
+algae 6 1 1
+flush 3 4 1
+fluke 2 5 0
+waste 1 7 0

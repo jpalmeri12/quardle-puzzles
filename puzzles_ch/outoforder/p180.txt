@@ -1,0 +1,5 @@
+7 8 outoforder
+shied 2 1 1
+sweat 5 3 1
+dried 2 5 0
+befit 1 7 0

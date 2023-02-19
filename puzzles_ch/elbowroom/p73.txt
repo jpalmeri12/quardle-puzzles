@@ -1,0 +1,5 @@
+7 9 elbowroom
+algae 6 1 1
+tacky 3 4 1
+dance 2 5 0
+taken 1 7 0

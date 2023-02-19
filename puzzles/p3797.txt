@@ -1,0 +1,5 @@
+7 9
+whack 1 1 1
+cloak 1 4 0
+axion 4 4 1
+smith 2 6 0

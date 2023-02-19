@@ -1,0 +1,5 @@
+6 8 reverse
+molar 1 1 0
+retal 5 1 1
+wedge 2 3 1
+eerga 1 4 0

@@ -1,0 +1,5 @@
+7 7 unloved
+humor 3 1 1
+hound 1 2 0
+droop 5 2 1
+troop 2 5 0

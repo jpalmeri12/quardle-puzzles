@@ -1,0 +1,5 @@
+7 10 sweeper
+roost 2 1 1
+worse 1 2 0
+twang 2 5 0
+goody 6 5 1

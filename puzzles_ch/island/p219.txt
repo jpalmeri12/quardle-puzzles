@@ -1,0 +1,6 @@
+7 10 island
+sheer 5 1 1
+mower 2 3 0
+wiser 1 5 0
+evict 4 5 1
+!island 31 311 41 2111

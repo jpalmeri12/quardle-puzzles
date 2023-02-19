@@ -1,0 +1,5 @@
+7 9
+ideal 1 1 1
+await 1 4 0
+tango 5 4 1
+sting 2 6 0

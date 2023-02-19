@@ -1,0 +1,5 @@
+7 8 frequency
+gusty 2 1 0
+speak 4 1 1
+otter 1 3 0
+those 2 3 1

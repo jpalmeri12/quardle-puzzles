@@ -1,0 +1,5 @@
+7 10 soundscramble
+oiter 5 1 1
+pruor 1 5 0
+umbie 3 5 1
+abude 2 7 0

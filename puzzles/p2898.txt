@@ -1,0 +1,5 @@
+7 9
+forge 2 1 0
+goose 5 1 1
+chide 2 4 1
+shade 1 5 0

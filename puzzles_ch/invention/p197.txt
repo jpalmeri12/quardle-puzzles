@@ -1,0 +1,5 @@
+7 10 invention
+hatch 3 1 1
+chose 2 5 1
+cheat 2 5 0
+askew 1 8 0

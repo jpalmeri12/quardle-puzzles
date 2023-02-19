@@ -1,0 +1,5 @@
+7 9 invention
+being 6 1 1
+abhor 4 4 1
+debug 2 5 0
+ascot 1 7 0

@@ -1,0 +1,5 @@
+7 9 elbowroom
+booby 1 1 0
+bleak 4 1 1
+scald 2 4 0
+daddy 6 4 1

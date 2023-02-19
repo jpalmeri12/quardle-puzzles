@@ -1,0 +1,5 @@
+7 10
+prawn 2 1 0
+wiser 5 1 1
+hater 1 5 0
+hobby 1 5 1

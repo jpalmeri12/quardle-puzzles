@@ -1,0 +1,5 @@
+7 10
+slope 1 1 0
+logic 2 1 1
+cheap 2 5 0
+hater 3 5 1

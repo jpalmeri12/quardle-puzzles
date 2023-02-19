@@ -1,0 +1,5 @@
+7 7 swap
+bigle 2 1 1
+laert 5 2 1
+grian 2 3 0
+leumr 1 5 0

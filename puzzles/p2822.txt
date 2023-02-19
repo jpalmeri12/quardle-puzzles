@@ -1,0 +1,5 @@
+7 9
+crier 1 1 0
+eight 4 1 1
+drunk 6 4 1
+water 2 5 0

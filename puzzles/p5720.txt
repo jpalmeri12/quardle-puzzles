@@ -1,0 +1,5 @@
+7 9
+mocha 4 1 1
+shoot 1 2 0
+abhor 2 4 0
+agate 2 4 1

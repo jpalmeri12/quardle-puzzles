@@ -1,0 +1,5 @@
+7 10
+night 6 1 1
+evict 2 5 0
+value 3 5 1
+erupt 1 8 0

@@ -1,0 +1,5 @@
+7 10
+butte 1 1 0
+tough 3 1 1
+cheap 2 5 0
+cress 2 5 1

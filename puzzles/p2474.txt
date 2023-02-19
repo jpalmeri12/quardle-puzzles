@@ -1,0 +1,5 @@
+7 9
+amber 2 1 1
+tease 1 4 0
+sweat 4 4 1
+ditto 2 8 0

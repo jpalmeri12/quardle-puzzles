@@ -1,0 +1,6 @@
+7 8 wordcolumn
+sappy 1 1 0
+askew 2 1 1
+glyph 4 3 1
+wryly 2 5 0
+ought 1 7 0

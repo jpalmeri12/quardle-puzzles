@@ -1,0 +1,6 @@
+7 11 undercover
+bless 1 1 1
+kiosk 3 4 1
+spill 1 5 0
+usurp 2 7 0
+canny 1 10 0

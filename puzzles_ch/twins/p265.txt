@@ -1,0 +1,8 @@
+6 8 twins
+stump 1 1 0
+sweep 1 3 0
+dough 1 5 0
+brink 1 7 0
+!twins 0 4
+!twins 1 4
+!twins 1 4

@@ -1,0 +1,5 @@
+7 10 frequency
+shell 1 1 0
+learn 4 1 1
+tango 2 5 0
+tamer 2 5 1

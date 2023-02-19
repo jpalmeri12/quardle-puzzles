@@ -1,0 +1,5 @@
+7 9 reverse
+enota 2 1 1
+ytsud 4 4 1
+aptly 2 5 0
+annul 1 7 0

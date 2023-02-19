@@ -1,0 +1,9 @@
+7 7 spellbound
+satin 4 1 1
+artsy 2 2 1
+irate 1 3 0
+synod 2 5 0
+!spellbound 0 3 0
+!spellbound 1 2 4
+!spellbound 2 0 2
+!spellbound 3 3 1

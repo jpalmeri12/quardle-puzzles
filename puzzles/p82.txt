@@ -1,0 +1,5 @@
+7 10
+tangy 5 1 1
+daunt 2 3 0
+pouty 1 5 0
+usurp 3 5 1

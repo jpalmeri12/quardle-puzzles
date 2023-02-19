@@ -1,0 +1,5 @@
+6 8
+tutor 5 1 1
+worry 2 3 1
+bongo 1 4 0
+hyena 1 7 0

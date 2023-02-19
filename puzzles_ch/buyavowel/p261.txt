@@ -1,0 +1,5 @@
+7 9 buyavowel
+kebab 2 1 1
+model 4 4 1
+booth 2 5 0
+jolly 1 8 0

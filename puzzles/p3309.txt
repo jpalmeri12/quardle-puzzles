@@ -1,0 +1,5 @@
+7 7
+clank 5 1 1
+chill 1 2 0
+inane 3 2 1
+saint 2 4 0

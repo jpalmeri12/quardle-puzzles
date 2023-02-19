@@ -1,0 +1,8 @@
+6 8 twins
+stood 1 1 0
+salsa 1 3 0
+daddy 1 5 0
+fussy 1 7 0
+!twins 2 4
+!twins 0 3
+!twins 2 3

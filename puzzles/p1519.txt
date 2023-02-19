@@ -1,0 +1,5 @@
+6 7
+sleek 4 1 1
+amble 1 2 0
+mower 2 2 1
+owner 1 4 0

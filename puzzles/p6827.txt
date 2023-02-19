@@ -1,0 +1,5 @@
+7 8
+fecal 5 1 1
+place 2 3 0
+lobby 3 3 1
+label 1 5 0

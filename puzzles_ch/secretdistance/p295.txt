@@ -1,0 +1,7 @@
+7 12 secretdistance
+dwelt 3 1 1
+rower 1 2 0
+strip 2 5 0
+parry 6 5 1
+skill 1 11 0
+!sdpos 3 0 1 2

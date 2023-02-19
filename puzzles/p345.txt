@@ -1,0 +1,5 @@
+6 9
+curly 1 1 1
+limbo 1 4 0
+merit 3 4 1
+satin 1 8 0

@@ -1,0 +1,6 @@
+7 12 undercover
+treat 6 1 1
+spout 2 5 0
+punch 3 5 1
+excel 1 8 0
+vivid 1 11 0

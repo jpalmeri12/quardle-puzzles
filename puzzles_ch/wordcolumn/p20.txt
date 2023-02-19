@@ -1,0 +1,6 @@
+6 11 wordcolumn
+glory 5 1 1
+ledge 1 3 1
+ether 1 4 0
+sauna 3 6 1
+elate 1 7 0

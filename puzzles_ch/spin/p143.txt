@@ -1,0 +1,5 @@
+7 7 spin
+among 4 1 1
+salvo 2 2 1
+bacon 1 3 0
+vigor 2 5 0

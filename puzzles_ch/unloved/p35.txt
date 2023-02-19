@@ -1,0 +1,5 @@
+7 7 unloved
+satin 5 1 1
+agate 2 2 1
+agent 1 3 0
+thong 2 5 0

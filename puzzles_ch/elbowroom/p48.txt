@@ -1,0 +1,5 @@
+6 10 elbowroom
+conic 1 1 1
+caput 1 5 0
+annoy 2 5 1
+syrup 1 9 0

@@ -1,0 +1,5 @@
+6 7 desync
+raise 4 1 1
+mossy 1 2 1
+molar 1 2 0
+slash 1 4 0

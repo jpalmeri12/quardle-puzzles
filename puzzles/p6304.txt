@@ -1,0 +1,5 @@
+7 10
+stood 2 1 1
+covey 1 3 0
+delve 2 5 0
+equip 3 5 1

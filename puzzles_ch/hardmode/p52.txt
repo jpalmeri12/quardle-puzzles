@@ -1,0 +1,5 @@
+7 9 hardmode
+sigma 3 1 1
+chick 1 2 0
+infer 6 4 1
+pagan 2 5 0

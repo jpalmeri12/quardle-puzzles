@@ -1,0 +1,5 @@
+7 9 invention
+llama 3 1 1
+rumor 1 4 0
+rehab 5 4 1
+spear 2 7 0

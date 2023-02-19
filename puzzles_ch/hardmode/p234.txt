@@ -1,0 +1,5 @@
+7 10 hardmode
+avail 4 1 1
+groan 1 3 0
+fully 2 5 0
+yield 6 5 1

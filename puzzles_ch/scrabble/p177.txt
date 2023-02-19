@@ -1,0 +1,5 @@
+7 9 scrabble
+aloud 2 2 0
+curse 2 4 1
+scram 1 4 0
+gummy 5 1 1

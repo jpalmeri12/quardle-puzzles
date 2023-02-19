@@ -1,0 +1,5 @@
+6 9
+whelp 2 1 1
+shave 1 2 0
+bloat 1 4 0
+tweed 5 4 1

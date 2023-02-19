@@ -1,0 +1,5 @@
+7 10 reverse
+hcuoc 6 1 1
+tangy 2 5 1
+taelc 2 5 0
+agate 1 8 0

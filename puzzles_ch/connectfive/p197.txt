@@ -1,0 +1,6 @@
+7 10 connectfive
+panic 3 1 1
+yearn 6 2 1
+scour 2 5 0
+obese 4 5 1
+udder 1 7 0

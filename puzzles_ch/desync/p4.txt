@@ -1,0 +1,5 @@
+7 8 desync
+ascot 1 1 0
+snuff 2 1 1
+stall 6 3 1
+frost 2 4 0

@@ -1,0 +1,5 @@
+7 8 swap
+rbash 1 1 1
+thoes 3 3 1
+sihft 1 4 0
+begnu 2 6 0

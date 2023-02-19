@@ -1,0 +1,5 @@
+6 9 altending
+wacky 1 1 0
+tacit 1 3 0
+visor 1 5 0
+tenth 1 7 0

@@ -1,0 +1,5 @@
+6 8
+altar 4 1 1
+bayou 2 3 1
+fatal 1 4 0
+sunny 1 7 0

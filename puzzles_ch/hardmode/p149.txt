@@ -1,0 +1,5 @@
+7 10 hardmode
+idiot 1 1 0
+dream 2 1 1
+midst 2 5 0
+irony 3 5 1

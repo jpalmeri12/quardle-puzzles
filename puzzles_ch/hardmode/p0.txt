@@ -1,0 +1,5 @@
+6 10 hardmode
+ovoid 5 1 1
+fjord 1 5 0
+jetty 2 5 1
+lymph 1 9 0

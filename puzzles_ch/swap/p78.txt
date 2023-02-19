@@ -1,0 +1,5 @@
+7 9 swap
+clera 5 1 1
+fbire 2 4 0
+bulry 3 4 1
+imrth 1 7 0

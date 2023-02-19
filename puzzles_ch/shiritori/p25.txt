@@ -1,0 +1,5 @@
+7 10 shiritori
+idler 2 1 1
+drank 2 2 0
+trust 1 5 0
+uncut 3 5 1

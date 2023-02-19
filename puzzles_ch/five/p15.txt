@@ -1,0 +1,6 @@
+7 8 five
+moult 2 1 0
+owner 3 1 1
+drill 5 3 1
+rearm 2 4 0
+pearl 1 7 0

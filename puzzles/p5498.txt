@@ -1,0 +1,5 @@
+6 9
+gland 1 1 0
+aphid 3 1 1
+dying 1 4 0
+demur 1 4 1

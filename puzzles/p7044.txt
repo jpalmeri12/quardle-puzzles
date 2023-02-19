@@ -1,0 +1,5 @@
+7 9
+shale 2 1 1
+lefty 4 4 1
+erect 2 5 0
+satyr 1 8 0

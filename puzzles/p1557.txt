@@ -1,0 +1,5 @@
+6 8
+baler 5 1 1
+valor 3 3 1
+shape 1 4 0
+farce 1 7 0

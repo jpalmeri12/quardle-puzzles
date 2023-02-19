@@ -1,0 +1,5 @@
+7 10
+waive 6 1 1
+blaze 2 5 0
+logic 3 5 1
+wagon 1 7 0

@@ -1,0 +1,6 @@
+7 12 undercover
+fungi 2 1 1
+nicer 2 3 0
+wiser 1 5 0
+spurt 3 5 1
+modal 1 11 0

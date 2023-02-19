@@ -1,0 +1,9 @@
+7 8 beforeafter
+queen 4 1 1
+begun 1 2 0
+vodka 6 3 1
+synod 2 5 0
+!beforeafter 1 p
+!beforeafter 2 l
+!beforeafter 1 n
+!beforeafter 1 p

@@ -1,0 +1,5 @@
+6 10 scrabble
+valet 2 1 1
+caput 1 2 0
+staff 1 5 0
+funky 5 5 1

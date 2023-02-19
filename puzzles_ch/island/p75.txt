@@ -1,0 +1,6 @@
+7 9 island
+pansy 1 1 1
+sushi 1 4 0
+heron 4 4 1
+droit 2 7 0
+!island 2111 31 221 32

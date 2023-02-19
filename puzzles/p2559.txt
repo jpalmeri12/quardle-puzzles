@@ -1,0 +1,5 @@
+7 10
+ditch 4 1 1
+other 2 5 0
+oxide 2 5 1
+admin 1 8 0

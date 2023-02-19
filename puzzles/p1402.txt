@@ -1,0 +1,5 @@
+7 9
+women 5 1 1
+cargo 1 2 0
+filer 2 4 0
+ivory 3 4 1

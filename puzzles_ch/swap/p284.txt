@@ -1,0 +1,5 @@
+7 10 swap
+brvae 4 1 1
+icvil 2 3 0
+butet 1 5 0
+tbaoo 5 5 1

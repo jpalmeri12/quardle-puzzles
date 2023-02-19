@@ -1,0 +1,5 @@
+6 8 swap
+mecac 1 1 0
+asner 4 1 1
+afetr 2 3 1
+rfeer 1 4 0

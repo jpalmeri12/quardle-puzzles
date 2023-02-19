@@ -1,0 +1,5 @@
+7 10 elbowroom
+nadir 2 1 1
+naive 2 1 0
+argue 1 5 0
+using 4 5 1

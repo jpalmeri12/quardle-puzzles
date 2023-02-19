@@ -1,0 +1,5 @@
+7 10
+model 4 1 1
+knoll 1 5 0
+obese 3 5 1
+weary 2 9 0

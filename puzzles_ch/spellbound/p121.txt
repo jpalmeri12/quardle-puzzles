@@ -1,0 +1,9 @@
+6 8 spellbound
+macho 5 1 1
+waxen 2 3 1
+rajah 1 4 0
+knock 1 7 0
+!spellbound 0 2 0
+!spellbound 1 3 2
+!spellbound 2 3 0
+!spellbound 3 4 0

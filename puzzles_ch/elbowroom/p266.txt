@@ -1,0 +1,5 @@
+7 9 elbowroom
+began 4 1 1
+binge 1 3 0
+groom 6 4 1
+sonar 2 5 0

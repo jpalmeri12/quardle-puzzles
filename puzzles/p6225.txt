@@ -1,0 +1,5 @@
+7 9
+deter 2 1 1
+teary 4 4 1
+reedy 2 5 0
+weary 1 7 0

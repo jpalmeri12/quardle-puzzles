@@ -1,0 +1,5 @@
+7 9
+maker 2 1 1
+madly 1 2 0
+evade 2 4 0
+avail 4 4 1

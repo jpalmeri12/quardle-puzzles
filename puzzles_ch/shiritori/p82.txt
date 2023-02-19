@@ -1,0 +1,5 @@
+7 9 shiritori
+riser 6 1 1
+style 2 4 1
+tutor 2 5 0
+flank 1 7 0

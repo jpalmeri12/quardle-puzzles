@@ -1,0 +1,5 @@
+7 9 soundscramble
+soner 5 1 1
+evart 3 4 1
+navar 1 5 0
+grind 2 7 0

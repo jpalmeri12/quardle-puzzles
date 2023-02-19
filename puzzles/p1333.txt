@@ -1,0 +1,5 @@
+7 10
+aider 4 1 1
+lunar 2 5 1
+larva 2 5 0
+naive 1 8 0

@@ -1,0 +1,5 @@
+7 10 dblltr
+these 1 1 1
+evoke 1 5 0
+visit 2 5 1
+inane 2 8 0

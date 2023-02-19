@@ -1,0 +1,5 @@
+7 9
+spicy 6 1 1
+spelt 3 4 1
+spray 2 5 0
+dully 1 7 0

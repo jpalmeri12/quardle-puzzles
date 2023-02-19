@@ -1,0 +1,9 @@
+6 9 beforeafter
+logic 1 1 1
+marry 3 4 1
+chart 1 5 0
+gayly 1 8 0
+!beforeafter 1 j
+!beforeafter 1 q
+!beforeafter 2 q
+!beforeafter 1 k

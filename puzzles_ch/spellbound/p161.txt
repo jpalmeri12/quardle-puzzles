@@ -1,0 +1,9 @@
+6 6 spellbound
+bylaw 1 1 1
+belle 1 1 0
+limit 4 1 1
+write 1 5 0
+!spellbound 0 2 1
+!spellbound 1 4 1
+!spellbound 2 2 3
+!spellbound 3 1 4

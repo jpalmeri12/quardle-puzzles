@@ -1,0 +1,6 @@
+7 11 drop
+larva 3 1 1
+spurt 5 4 1
+clasp 1 5 0
+hasty 2 8 0
+satyr 1 10 0

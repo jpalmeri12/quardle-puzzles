@@ -1,0 +1,5 @@
+7 9 desync
+theta 1 1 0
+elder 3 1 1
+aphid 5 4 1
+trope 2 5 0

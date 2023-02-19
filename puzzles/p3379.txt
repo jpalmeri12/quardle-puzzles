@@ -1,0 +1,5 @@
+7 10
+froze 1 1 1
+ennui 1 5 0
+upset 4 5 1
+ratio 2 9 0

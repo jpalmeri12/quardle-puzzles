@@ -1,0 +1,6 @@
+6 10 commonsecret
+egret 1 1 0
+grape 2 1 1
+rebus 1 5 0
+siren 5 5 1
+!secret r

@@ -1,0 +1,5 @@
+7 10 fourscore
+bleak 1 1 1
+koala 1 5 0
+overt 2 5 1
+eagle 2 7 0

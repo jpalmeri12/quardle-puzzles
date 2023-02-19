@@ -1,0 +1,5 @@
+6 7 scrabble
+onset 1 4 0
+scalp 1 2 0
+harsh 3 1 1
+pithy 5 2 1

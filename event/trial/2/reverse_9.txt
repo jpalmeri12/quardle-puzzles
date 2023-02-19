@@ -1,0 +1,5 @@
+7 8 reverse
+pmurt 1 1 0
+reldi 4 1 1
+wordy 2 3 1
+odder 2 4 0

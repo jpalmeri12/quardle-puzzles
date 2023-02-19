@@ -1,0 +1,5 @@
+7 10
+fetal 2 1 1
+cleat 1 5 0
+admit 4 5 1
+union 2 8 0

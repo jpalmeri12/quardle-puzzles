@@ -1,0 +1,6 @@
+6 8 squaredance
+brood 1 1 1
+deter 5 1 1
+beard 1 1 0
+dryer 1 5 0
+folio 1 7 0

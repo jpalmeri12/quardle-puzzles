@@ -1,0 +1,5 @@
+7 9 spaced
+lofty 1 1 0
+flora 3 1 1
+tying 6 4 1
+daisy 2 5 0

@@ -1,0 +1,5 @@
+7 10 skyscrapers
+whiff 1 1 1
+fetch 1 5 0
+clung 4 5 1
+manor 2 8 0

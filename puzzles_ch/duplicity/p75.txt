@@ -1,0 +1,5 @@
+7 10 duplicity
+staff 1 1 1
+fatal 1 5 0
+asset 2 5 1
+steel 2 7 0

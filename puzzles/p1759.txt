@@ -1,0 +1,5 @@
+7 10
+salve 4 1 1
+spawn 2 2 0
+dozen 1 5 0
+odder 2 5 1

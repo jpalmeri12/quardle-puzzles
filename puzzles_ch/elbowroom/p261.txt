@@ -1,0 +1,5 @@
+7 9 elbowroom
+label 4 1 1
+tiara 2 2 0
+inlet 1 4 0
+novel 2 4 1

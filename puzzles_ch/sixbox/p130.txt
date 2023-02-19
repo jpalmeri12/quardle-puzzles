@@ -1,0 +1,7 @@
+8 8 sixbox
+fresh 3 1 1
+motor 5 1 1
+quest 1 3 0
+spend 4 3 1
+sport 3 4 0
+ether 1 5 0

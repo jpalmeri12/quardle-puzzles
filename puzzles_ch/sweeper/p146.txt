@@ -1,0 +1,5 @@
+7 9 sweeper
+shear 4 1 1
+mocha 1 2 0
+chasm 2 4 0
+mucky 6 4 1

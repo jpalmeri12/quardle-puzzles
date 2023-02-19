@@ -1,0 +1,9 @@
+6 10 beforeafter
+patty 5 1 1
+missy 1 5 0
+sneak 4 5 1
+knead 1 8 0
+!beforeafter 1 r
+!beforeafter 1 o
+!beforeafter 1 l
+!beforeafter 1 i

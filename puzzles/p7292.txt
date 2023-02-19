@@ -1,0 +1,5 @@
+6 8
+speck 1 1 1
+bliss 4 3 1
+chalk 1 4 0
+gassy 1 7 0

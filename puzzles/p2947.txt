@@ -1,0 +1,5 @@
+7 9
+enemy 1 1 0
+noise 2 1 1
+prank 6 4 1
+error 2 5 0

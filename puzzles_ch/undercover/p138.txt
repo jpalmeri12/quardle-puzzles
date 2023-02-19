@@ -1,0 +1,6 @@
+7 10 undercover
+pouch 1 1 0
+chick 4 1 1
+after 2 3 1
+facet 2 4 0
+slyly 1 9 0

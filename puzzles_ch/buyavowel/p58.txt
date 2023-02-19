@@ -1,0 +1,5 @@
+6 7 buyavowel
+cheek 2 1 1
+sharp 1 2 0
+patio 5 2 1
+befit 1 4 0

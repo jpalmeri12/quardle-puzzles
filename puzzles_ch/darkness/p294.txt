@@ -1,0 +1,5 @@
+6 8 darkness
+unwed 5 3 1
+batch 1 1 0
+clown 1 4 0
+troop 3 1 1

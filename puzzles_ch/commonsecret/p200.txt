@@ -1,0 +1,6 @@
+7 10 commonsecret
+angle 4 1 1
+cigar 2 3 0
+caper 1 5 0
+ralph 5 5 1
+!secret a

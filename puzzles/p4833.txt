@@ -1,0 +1,5 @@
+7 10
+gross 4 1 1
+karma 2 2 0
+class 1 5 0
+ashen 3 5 1

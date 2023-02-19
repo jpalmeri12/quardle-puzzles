@@ -1,0 +1,5 @@
+7 9
+renal 1 1 0
+nosey 3 1 1
+wedge 2 4 0
+empty 6 4 1

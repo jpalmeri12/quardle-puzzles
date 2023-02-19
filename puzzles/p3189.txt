@@ -1,0 +1,5 @@
+6 8
+swamp 1 1 1
+await 1 3 0
+iliac 4 3 1
+plaid 1 5 0

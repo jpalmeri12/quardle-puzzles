@@ -1,0 +1,5 @@
+7 8 swap
+duthc 1 1 0
+hceer 4 1 1
+asucy 2 3 1
+ulrta 2 5 0

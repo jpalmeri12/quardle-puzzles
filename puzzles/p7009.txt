@@ -1,0 +1,5 @@
+7 7
+stony 1 1 0
+twixt 2 1 1
+moist 6 2 1
+truss 2 5 0

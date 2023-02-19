@@ -1,0 +1,6 @@
+7 9 island
+bully 1 1 0
+loopy 3 1 1
+spade 2 4 0
+enjoy 6 4 1
+!island 211 31 41 2111

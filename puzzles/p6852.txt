@@ -1,0 +1,5 @@
+7 9
+three 5 1 1
+sniff 3 4 1
+dunce 1 5 0
+afire 2 8 0

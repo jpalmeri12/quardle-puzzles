@@ -1,0 +1,5 @@
+7 9 hardmode
+attic 2 1 1
+wight 1 4 0
+hound 4 4 1
+tense 2 7 0

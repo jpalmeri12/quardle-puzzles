@@ -1,0 +1,5 @@
+6 9
+gruff 5 1 1
+fluff 1 4 0
+learn 2 4 1
+broth 1 7 0

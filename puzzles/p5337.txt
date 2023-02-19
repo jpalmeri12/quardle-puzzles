@@ -1,0 +1,5 @@
+7 10
+leper 5 1 1
+rider 2 2 0
+cower 1 5 0
+otter 2 5 1

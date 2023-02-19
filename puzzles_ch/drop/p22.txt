@@ -1,0 +1,6 @@
+7 10 drop
+copse 3 1 1
+boost 1 2 0
+hater 6 3 1
+tenet 2 5 0
+cress 1 9 0

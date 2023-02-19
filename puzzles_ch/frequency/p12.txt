@@ -1,0 +1,5 @@
+7 7 frequency
+above 1 1 1
+basis 1 2 0
+scrap 3 2 1
+apnea 2 6 0

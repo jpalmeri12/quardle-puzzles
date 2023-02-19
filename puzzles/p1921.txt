@@ -1,0 +1,5 @@
+7 10
+fetid 4 1 1
+bleat 2 2 0
+evade 1 5 0
+afire 3 5 1

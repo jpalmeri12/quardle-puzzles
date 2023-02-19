@@ -1,0 +1,5 @@
+7 8
+brawl 4 1 1
+slurp 1 2 0
+canal 6 3 1
+talon 2 5 0

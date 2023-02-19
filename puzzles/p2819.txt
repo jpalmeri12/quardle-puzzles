@@ -1,0 +1,5 @@
+7 10
+prism 2 1 1
+smirk 1 5 0
+rumor 4 5 1
+purer 2 9 0

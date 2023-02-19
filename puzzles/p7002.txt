@@ -1,0 +1,5 @@
+7 9
+meant 5 1 1
+colon 1 4 0
+lyric 3 4 1
+scuba 2 8 0

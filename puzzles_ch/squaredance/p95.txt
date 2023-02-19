@@ -1,0 +1,6 @@
+6 8 squaredance
+blond 1 1 1
+elect 5 1 1
+binge 1 1 0
+drift 1 5 0
+flair 1 7 0

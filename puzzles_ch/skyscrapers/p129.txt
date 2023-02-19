@@ -1,0 +1,5 @@
+7 8 skyscrapers
+snake 2 7 0
+waxen 3 3 1
+gland 1 4 0
+howdy 5 1 1

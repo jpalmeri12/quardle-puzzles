@@ -1,0 +1,6 @@
+6 10 commonsecret
+strap 1 1 1
+twirl 1 2 0
+piety 1 5 0
+inter 2 5 1
+!secret t

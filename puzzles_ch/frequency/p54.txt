@@ -1,0 +1,5 @@
+7 8 frequency
+embed 6 1 1
+count 4 3 1
+awoke 2 4 0
+state 1 7 0

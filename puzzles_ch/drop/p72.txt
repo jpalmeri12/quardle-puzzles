@@ -1,0 +1,6 @@
+7 9 drop
+aglow 2 1 1
+islet 4 2 1
+plush 1 3 0
+wrest 2 5 0
+trawl 1 8 0

@@ -1,0 +1,5 @@
+7 9 duplicity
+shyly 4 1 1
+mulch 2 4 0
+mucky 2 4 1
+skull 1 7 0

@@ -1,0 +1,5 @@
+6 8 clockdown
+fritz 1 1 0
+thumb 4 1 1
+alpha 2 3 1
+climb 1 4 0

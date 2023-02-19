@@ -1,0 +1,6 @@
+6 12 wordcolumn
+taint 5 1 1
+salsa 2 3 1
+plant 1 5 0
+salad 1 7 0
+duchy 5 7 1

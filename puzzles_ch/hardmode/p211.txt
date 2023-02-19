@@ -1,0 +1,5 @@
+7 9 hardmode
+minus 5 1 1
+smoky 3 4 1
+smash 2 5 0
+ankle 1 7 0

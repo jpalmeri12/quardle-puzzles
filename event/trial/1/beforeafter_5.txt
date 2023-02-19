@@ -1,0 +1,9 @@
+7 10 beforeafter
+mayor 6 1 1
+occur 2 5 0
+champ 3 5 1
+demur 1 8 0
+!beforeafter 1 n
+!beforeafter 2 p
+!beforeafter 2 i
+!beforeafter 1 k

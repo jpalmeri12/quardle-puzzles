@@ -1,0 +1,5 @@
+6 10
+stilt 4 1 1
+petty 1 2 0
+witty 1 5 0
+iliac 2 5 1

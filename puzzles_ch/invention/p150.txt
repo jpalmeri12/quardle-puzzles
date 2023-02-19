@@ -1,0 +1,5 @@
+7 9 invention
+bayou 5 1 1
+arrow 3 4 1
+argue 2 5 0
+bloat 1 7 0

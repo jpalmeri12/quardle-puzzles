@@ -1,0 +1,5 @@
+7 9 spaced
+havoc 1 1 1
+windy 4 4 1
+cavil 1 5 0
+pudgy 2 7 0

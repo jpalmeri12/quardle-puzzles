@@ -1,0 +1,5 @@
+7 10 shiritori
+piano 2 1 1
+offer 2 5 0
+fiery 3 5 1
+thyme 1 9 0

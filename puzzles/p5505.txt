@@ -1,0 +1,5 @@
+6 7
+urban 4 1 1
+quark 1 2 0
+unity 2 2 1
+vicar 1 4 0

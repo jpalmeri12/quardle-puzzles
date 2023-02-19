@@ -1,0 +1,5 @@
+7 9 skyscrapers
+hedge 5 1 1
+unwed 2 5 0
+knave 3 4 1
+covey 1 7 0

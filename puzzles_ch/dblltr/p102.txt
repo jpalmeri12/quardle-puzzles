@@ -1,0 +1,5 @@
+7 8 dblltr
+posse 3 1 1
+asset 2 3 0
+elate 5 3 1
+undue 1 7 0

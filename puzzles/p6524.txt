@@ -1,0 +1,5 @@
+7 9
+buddy 3 1 1
+budge 1 4 0
+erase 5 4 1
+steel 2 8 0

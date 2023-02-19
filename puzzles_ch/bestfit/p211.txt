@@ -1,0 +1,5 @@
+7 10 bestfit
+stash 5 1 1
+cache 2 5 0
+clink 4 5 1
+cubic 1 7 0

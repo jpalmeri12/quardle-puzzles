@@ -1,0 +1,5 @@
+7 7
+feral 5 1 1
+welsh 2 2 1
+rebar 1 3 0
+sally 2 5 0

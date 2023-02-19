@@ -1,0 +1,5 @@
+6 9
+dully 1 1 0
+login 4 1 1
+posit 1 4 0
+paper 1 4 1

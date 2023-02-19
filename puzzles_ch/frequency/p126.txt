@@ -1,0 +1,5 @@
+7 10 frequency
+drive 6 1 1
+amble 2 5 0
+mushy 3 5 1
+dusky 1 7 0

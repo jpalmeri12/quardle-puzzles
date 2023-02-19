@@ -1,0 +1,6 @@
+7 10 connectfive
+quart 4 1 1
+dryer 6 1 1
+ester 2 5 0
+event 5 5 1
+stein 1 8 0

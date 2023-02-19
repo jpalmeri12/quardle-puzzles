@@ -1,0 +1,5 @@
+7 10
+sewer 1 1 0
+rumba 5 1 1
+essay 2 5 0
+sense 3 5 1

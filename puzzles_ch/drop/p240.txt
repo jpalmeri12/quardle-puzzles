@@ -1,0 +1,6 @@
+6 11 drop
+blond 4 1 1
+debar 2 4 1
+ready 1 5 0
+rally 1 7 0
+burly 1 10 0

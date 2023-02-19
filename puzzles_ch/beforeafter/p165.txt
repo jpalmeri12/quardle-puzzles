@@ -1,0 +1,9 @@
+7 7 beforeafter
+towel 5 1 1
+afoot 2 2 0
+flint 3 2 1
+knife 1 4 0
+!beforeafter 2 m
+!beforeafter 1 j
+!beforeafter 2 m
+!beforeafter 1 j

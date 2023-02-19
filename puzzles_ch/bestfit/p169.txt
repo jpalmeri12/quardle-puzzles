@@ -1,0 +1,5 @@
+7 9 bestfit
+mambo 1 1 1
+banjo 1 4 0
+jetty 4 4 1
+patsy 2 7 0

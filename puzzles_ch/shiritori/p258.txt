@@ -1,0 +1,5 @@
+6 6 shiritori
+faith 1 1 0
+alpha 2 1 1
+trend 4 1 1
+thong 1 4 0

@@ -1,0 +1,5 @@
+7 8 reverse
+label 3 1 1
+ezorf 5 3 1
+aloof 2 5 0
+ekulf 1 7 0

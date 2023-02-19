@@ -1,0 +1,5 @@
+7 9 swap
+crahs 1 1 1
+usula 5 4 1
+sasys 1 5 0
+swmai 2 8 0

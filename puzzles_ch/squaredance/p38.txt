@@ -1,0 +1,6 @@
+6 8 squaredance
+tramp 1 1 1
+knead 5 1 1
+trick 1 1 0
+plied 1 5 0
+usher 1 7 0

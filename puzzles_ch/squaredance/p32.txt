@@ -1,0 +1,6 @@
+6 8 squaredance
+hover 1 1 1
+tenth 5 1 1
+hoist 1 1 0
+retch 1 5 0
+enema 1 7 0

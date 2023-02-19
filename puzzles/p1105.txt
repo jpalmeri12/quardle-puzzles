@@ -1,0 +1,5 @@
+7 10
+range 4 1 1
+tawny 1 3 0
+tread 2 5 0
+alloy 5 5 1

@@ -1,0 +1,5 @@
+7 9
+voter 1 1 0
+organ 2 1 1
+adapt 2 4 0
+agree 4 4 1

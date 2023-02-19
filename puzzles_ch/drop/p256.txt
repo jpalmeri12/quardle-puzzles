@@ -1,0 +1,6 @@
+6 11 drop
+mealy 5 1 1
+clove 1 2 0
+flail 1 4 0
+lucky 2 4 1
+coyly 1 10 0

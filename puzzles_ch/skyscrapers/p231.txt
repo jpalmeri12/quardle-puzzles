@@ -1,0 +1,5 @@
+7 7 skyscrapers
+panic 2 6 0
+sauna 3 2 1
+stuff 1 4 0
+dense 1 1 1

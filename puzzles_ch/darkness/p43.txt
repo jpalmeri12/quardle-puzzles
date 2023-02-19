@@ -1,0 +1,5 @@
+7 9 darkness
+sandy 1 4 1
+album 2 1 0
+scoop 1 4 0
+buxom 4 1 1

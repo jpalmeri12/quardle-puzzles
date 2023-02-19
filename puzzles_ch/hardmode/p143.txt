@@ -1,0 +1,5 @@
+7 9 hardmode
+vigil 2 1 0
+goner 4 1 1
+spree 1 4 0
+shore 1 4 1

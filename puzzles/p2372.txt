@@ -1,0 +1,5 @@
+7 10
+oddly 6 1 1
+dirty 2 5 0
+talon 5 5 1
+curio 1 8 0

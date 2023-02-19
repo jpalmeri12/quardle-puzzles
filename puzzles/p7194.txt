@@ -1,0 +1,5 @@
+7 7
+women 1 1 0
+motor 3 1 1
+roast 6 2 1
+crass 2 5 0

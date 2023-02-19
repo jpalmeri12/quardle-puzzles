@@ -1,0 +1,5 @@
+6 9
+crawl 2 1 1
+award 1 4 0
+radar 4 4 1
+quart 1 8 0

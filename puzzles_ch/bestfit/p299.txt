@@ -1,0 +1,5 @@
+7 8 bestfit
+scrub 1 1 0
+caste 2 1 1
+aphid 5 3 1
+trope 2 4 0

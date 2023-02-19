@@ -1,0 +1,5 @@
+7 9 fourscore
+truer 5 1 1
+marry 2 2 0
+snipe 1 4 0
+ideal 3 4 1

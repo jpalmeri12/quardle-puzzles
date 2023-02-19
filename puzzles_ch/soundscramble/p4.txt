@@ -1,0 +1,5 @@
+7 10 soundscramble
+pilat 4 1 1
+heort 2 5 1
+hitch 2 5 0
+moyar 1 7 0

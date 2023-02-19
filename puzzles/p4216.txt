@@ -1,0 +1,5 @@
+7 9
+trend 1 1 1
+nomad 1 4 0
+afoot 4 4 1
+scoff 2 7 0

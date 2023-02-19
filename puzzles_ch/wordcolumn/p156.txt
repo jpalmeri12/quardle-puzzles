@@ -1,0 +1,6 @@
+6 10 wordcolumn
+sting 4 1 1
+wheel 2 2 1
+their 1 3 0
+reign 1 5 0
+noose 5 5 1

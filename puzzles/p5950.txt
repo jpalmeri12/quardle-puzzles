@@ -1,0 +1,5 @@
+7 8
+algae 2 1 1
+gauze 2 3 0
+ultra 4 3 1
+berth 1 5 0

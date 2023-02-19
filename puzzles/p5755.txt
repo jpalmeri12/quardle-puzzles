@@ -1,0 +1,5 @@
+7 10
+crypt 6 1 1
+paint 2 5 0
+ingot 4 5 1
+dusty 1 9 0

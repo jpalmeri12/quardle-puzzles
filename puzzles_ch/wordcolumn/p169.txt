@@ -1,0 +1,6 @@
+7 10 wordcolumn
+shale 4 1 1
+ethos 2 2 0
+onset 1 5 0
+octal 1 5 1
+angel 1 8 0

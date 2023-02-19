@@ -1,0 +1,5 @@
+6 9
+unfed 5 1 1
+merge 1 4 0
+madly 1 4 1
+leper 1 7 0

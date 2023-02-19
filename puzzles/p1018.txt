@@ -1,0 +1,5 @@
+7 10
+liner 2 1 1
+known 1 3 0
+ridge 2 5 0
+easel 6 5 1

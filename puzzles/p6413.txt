@@ -1,0 +1,5 @@
+7 9
+nasal 2 1 1
+alley 2 2 0
+vault 1 4 0
+tasty 5 4 1

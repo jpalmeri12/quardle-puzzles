@@ -1,0 +1,5 @@
+7 10
+eking 4 1 1
+ethic 1 3 0
+buggy 2 5 0
+blond 2 5 1

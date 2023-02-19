@@ -1,0 +1,5 @@
+7 7 dblltr
+riper 5 1 1
+tenet 2 2 1
+elope 2 3 0
+sever 1 5 0

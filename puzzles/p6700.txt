@@ -1,0 +1,5 @@
+7 9
+helix 2 1 1
+riper 1 4 0
+rabid 5 4 1
+tepid 2 7 0

@@ -1,0 +1,5 @@
+6 9
+bulky 2 1 1
+skiff 1 4 0
+flunk 4 4 1
+thing 1 7 0

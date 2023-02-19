@@ -1,0 +1,6 @@
+7 7 commonsecret
+flour 5 1 1
+bowel 1 2 0
+wrote 3 2 1
+store 2 5 0
+!secret o

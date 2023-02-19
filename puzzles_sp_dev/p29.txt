@@ -1,0 +1,6 @@
+6 8 squaredance
+clamp 1 1 1
+daisy 5 1 1
+chard 1 1 0
+putty 1 5 0
+rouse 1 7 0

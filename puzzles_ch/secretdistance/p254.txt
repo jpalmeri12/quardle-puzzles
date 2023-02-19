@@ -1,0 +1,7 @@
+7 9 secretdistance
+pupal 2 1 1
+upper 2 2 0
+party 4 2 1
+dairy 1 4 0
+charm 1 8 0
+!sdpos 0 0 1 3

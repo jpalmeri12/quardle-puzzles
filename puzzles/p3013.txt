@@ -1,0 +1,5 @@
+6 8
+plier 5 1 1
+rabbi 1 3 0
+resin 1 3 1
+sonar 1 5 0

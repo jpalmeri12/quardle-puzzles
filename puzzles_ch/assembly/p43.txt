@@ -1,0 +1,5 @@
+6 10 assembly
+faint 1 3 1
+yield 5 3 1
+ferry 1 1 0
+irate 1 9 0

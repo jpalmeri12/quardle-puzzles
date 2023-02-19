@@ -1,0 +1,5 @@
+7 9
+scrub 1 1 1
+camel 3 4 1
+brawn 1 5 0
+dense 2 7 0

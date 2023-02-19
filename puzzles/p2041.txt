@@ -1,0 +1,5 @@
+7 10
+beret 5 1 1
+frost 1 5 0
+shell 4 5 1
+dally 2 9 0

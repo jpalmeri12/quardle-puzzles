@@ -1,0 +1,6 @@
+7 11 drop
+caper 2 1 1
+taken 1 2 0
+stare 5 4 1
+route 2 5 0
+sneer 1 10 0

@@ -1,0 +1,5 @@
+7 9 frequency
+bayou 4 1 1
+spare 2 4 1
+pound 2 5 0
+greed 1 7 0

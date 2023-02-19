@@ -1,0 +1,5 @@
+7 10
+porch 2 1 1
+wrong 1 3 0
+hairy 2 5 0
+recur 5 5 1

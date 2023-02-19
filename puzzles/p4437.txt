@@ -1,0 +1,5 @@
+6 9
+tough 1 1 0
+heard 5 1 1
+ruder 1 4 0
+dance 3 4 1

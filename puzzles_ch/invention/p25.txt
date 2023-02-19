@@ -1,0 +1,5 @@
+7 8 invention
+exalt 5 1 1
+hovel 3 3 1
+dolly 2 4 0
+delay 1 7 0

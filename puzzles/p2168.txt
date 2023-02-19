@@ -1,0 +1,5 @@
+7 9
+cloth 2 1 1
+slice 1 2 0
+turbo 2 4 0
+roomy 4 4 1

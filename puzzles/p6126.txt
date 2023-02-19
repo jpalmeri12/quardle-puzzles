@@ -1,0 +1,5 @@
+7 10
+melon 1 1 1
+north 1 5 0
+occur 2 5 1
+under 2 8 0

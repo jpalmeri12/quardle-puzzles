@@ -1,0 +1,5 @@
+7 10 scrabble
+polar 1 5 1
+impel 2 3 0
+polyp 1 5 0
+guppy 4 1 1

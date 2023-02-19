@@ -1,0 +1,6 @@
+6 11 drop
+aglow 1 1 1
+event 3 4 1
+waver 1 5 0
+panel 1 7 0
+pearl 1 10 0

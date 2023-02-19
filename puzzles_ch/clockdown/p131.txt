@@ -1,0 +1,5 @@
+6 9 clockdown
+civil 5 1 1
+sushi 1 4 0
+spade 3 4 1
+elder 1 7 0

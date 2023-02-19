@@ -1,0 +1,5 @@
+7 9 invention
+maybe 1 1 0
+extra 5 1 1
+remit 3 4 1
+feral 2 5 0

@@ -1,0 +1,6 @@
+7 10 commonsecret
+chair 3 1 1
+crepe 2 5 0
+plier 5 5 1
+rabbi 1 7 0
+!secret r

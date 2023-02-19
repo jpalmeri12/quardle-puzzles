@@ -1,0 +1,5 @@
+7 10 fourscore
+prove 1 1 0
+endow 5 1 1
+known 2 5 0
+olden 4 5 1

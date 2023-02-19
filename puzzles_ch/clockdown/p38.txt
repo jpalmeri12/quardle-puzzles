@@ -1,0 +1,5 @@
+6 8 clockdown
+tempo 1 1 0
+marry 3 1 1
+sever 5 3 1
+carve 1 4 0

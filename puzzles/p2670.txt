@@ -1,0 +1,5 @@
+7 7
+madly 2 1 1
+amble 2 2 0
+lingo 5 2 1
+lying 1 5 0

@@ -1,0 +1,5 @@
+7 10
+vapor 5 1 1
+poppy 2 3 0
+manor 1 5 0
+mogul 1 5 1

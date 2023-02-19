@@ -1,0 +1,5 @@
+7 8 invention
+ashen 1 1 0
+sloth 2 1 1
+overt 2 3 0
+rocky 5 3 1

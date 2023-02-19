@@ -1,0 +1,5 @@
+7 10 hardmode
+inner 5 1 1
+clank 2 2 0
+under 1 5 0
+elegy 4 5 1

@@ -1,0 +1,5 @@
+7 10 soundscramble
+fluti 5 1 1
+pequi 1 5 0
+quart 3 5 1
+maezi 2 7 0

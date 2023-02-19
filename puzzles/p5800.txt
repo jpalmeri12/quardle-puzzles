@@ -1,0 +1,5 @@
+7 10
+fugue 3 1 1
+snuff 1 2 0
+delay 2 5 0
+axion 5 5 1

@@ -1,0 +1,5 @@
+7 9
+allow 3 1 1
+comic 2 4 0
+inert 5 4 1
+molar 1 7 0

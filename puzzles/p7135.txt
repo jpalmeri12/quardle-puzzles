@@ -1,0 +1,5 @@
+6 8
+junto 1 1 0
+nicer 3 1 1
+viper 5 3 1
+strap 1 5 0

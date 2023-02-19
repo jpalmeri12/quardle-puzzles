@@ -1,0 +1,5 @@
+7 10 swap
+barwl 4 1 1
+ebast 2 5 1
+eblow 2 5 0
+gague 1 7 0

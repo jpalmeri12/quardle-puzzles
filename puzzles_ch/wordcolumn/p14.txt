@@ -1,0 +1,6 @@
+7 11 wordcolumn
+snare 6 1 1
+other 2 4 0
+timid 3 4 1
+about 1 6 1
+olden 1 8 0

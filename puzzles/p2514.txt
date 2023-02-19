@@ -1,0 +1,5 @@
+7 10
+tuber 3 1 1
+mural 1 5 0
+logic 5 5 1
+align 2 7 0

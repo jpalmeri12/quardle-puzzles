@@ -1,0 +1,5 @@
+7 10 swap
+traot 2 1 1
+awkoe 2 3 0
+rtust 1 5 0
+tarct 5 5 1

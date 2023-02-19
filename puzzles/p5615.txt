@@ -1,0 +1,5 @@
+7 8
+spill 2 1 0
+libel 5 1 1
+chafe 3 3 1
+quail 1 5 0

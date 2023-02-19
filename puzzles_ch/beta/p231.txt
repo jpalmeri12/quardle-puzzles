@@ -1,0 +1,5 @@
+7 8 beta
+begun 5 1 1
+feign 2 3 0
+enter 3 3 1
+girth 1 7 0

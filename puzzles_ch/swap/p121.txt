@@ -1,0 +1,5 @@
+7 10 swap
+wisre 2 1 1
+inlte 2 2 0
+mecac 1 5 0
+amuve 4 5 1

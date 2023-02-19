@@ -1,0 +1,5 @@
+7 8
+agate 2 1 0
+trope 5 1 1
+gumbo 1 3 0
+gripe 1 3 1

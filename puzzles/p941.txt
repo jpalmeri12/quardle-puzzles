@@ -1,0 +1,5 @@
+7 10
+woozy 5 1 1
+drool 2 3 0
+gypsy 1 5 0
+given 1 5 1

@@ -1,0 +1,5 @@
+7 10 outoforder
+grape 2 1 0
+plant 5 1 1
+ingot 1 5 0
+ounce 4 5 1

@@ -1,0 +1,5 @@
+7 10
+flank 5 1 1
+carol 1 2 0
+alike 2 5 0
+audit 2 5 1

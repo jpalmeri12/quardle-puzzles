@@ -1,0 +1,5 @@
+6 10 shiritori
+augur 2 1 1
+agent 1 3 0
+trust 1 5 0
+usual 3 5 1

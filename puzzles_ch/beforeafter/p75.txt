@@ -1,0 +1,9 @@
+7 10 beforeafter
+jetty 1 1 0
+troop 4 1 1
+gipsy 2 5 0
+squib 5 5 1
+!beforeafter 1 o
+!beforeafter 1 q
+!beforeafter 2 q
+!beforeafter 2 j

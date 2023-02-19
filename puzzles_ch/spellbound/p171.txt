@@ -1,0 +1,9 @@
+6 7 spellbound
+cycle 5 1 1
+testy 1 2 0
+spiny 3 2 1
+twirl 1 4 0
+!spellbound 0 2 0
+!spellbound 1 1 0
+!spellbound 2 3 1
+!spellbound 3 1 3

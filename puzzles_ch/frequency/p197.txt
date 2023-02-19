@@ -1,0 +1,5 @@
+7 8 frequency
+blame 3 1 1
+dryly 5 3 1
+every 1 5 0
+polyp 2 7 0

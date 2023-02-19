@@ -1,0 +1,5 @@
+7 9 reverse
+drier 5 1 1
+lacov 2 4 1
+angry 2 5 0
+evaus 1 8 0

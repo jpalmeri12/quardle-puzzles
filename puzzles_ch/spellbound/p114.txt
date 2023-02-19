@@ -1,0 +1,9 @@
+6 9 spellbound
+sinew 1 1 1
+cease 4 4 1
+women 1 5 0
+greet 1 8 0
+!spellbound 0 3 0
+!spellbound 1 2 3
+!spellbound 2 2 4
+!spellbound 3 0 1

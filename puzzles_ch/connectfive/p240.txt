@@ -1,0 +1,6 @@
+7 8 connectfive
+knoll 2 1 1
+navel 6 1 1
+mucus 4 3 1
+local 2 5 0
+obese 1 7 0

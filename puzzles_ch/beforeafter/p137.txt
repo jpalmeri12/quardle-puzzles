@@ -1,0 +1,9 @@
+6 10 beforeafter
+turbo 2 1 1
+nomad 1 5 0
+mulch 3 5 1
+igloo 1 7 0
+!beforeafter 2 p
+!beforeafter 2 i
+!beforeafter 2 k
+!beforeafter 2 n

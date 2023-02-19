@@ -1,0 +1,5 @@
+6 6 frequency
+caulk 1 1 0
+aphid 2 1 1
+lithe 4 1 1
+might 1 4 0

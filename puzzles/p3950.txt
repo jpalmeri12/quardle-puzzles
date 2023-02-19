@@ -1,0 +1,5 @@
+7 10
+fibre 6 1 1
+grove 2 5 0
+rural 3 5 1
+lilac 1 9 0

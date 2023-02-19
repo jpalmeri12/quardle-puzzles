@@ -1,0 +1,5 @@
+7 7
+puree 2 1 1
+undid 2 2 0
+doubt 4 2 1
+recut 1 4 0

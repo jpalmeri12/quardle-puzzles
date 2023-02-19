@@ -1,0 +1,5 @@
+7 10
+pixel 3 1 1
+slick 2 5 0
+idiom 4 5 1
+clump 1 9 0

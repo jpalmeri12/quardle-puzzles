@@ -1,0 +1,5 @@
+7 9
+piety 2 1 1
+witty 1 2 0
+thump 2 4 0
+unzip 4 4 1

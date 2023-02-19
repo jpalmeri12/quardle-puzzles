@@ -1,0 +1,5 @@
+7 10 skyscrapers
+trite 6 1 1
+emcee 2 5 0
+morph 3 5 1
+depot 1 8 0

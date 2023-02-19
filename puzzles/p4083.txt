@@ -1,0 +1,5 @@
+7 10
+sinew 2 1 1
+siren 1 2 0
+whirl 2 5 0
+harem 3 5 1

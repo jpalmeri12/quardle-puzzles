@@ -1,0 +1,7 @@
+6 8 secretdistance
+manic 1 1 0
+ascot 2 1 1
+clean 5 1 1
+vodka 1 4 0
+coyly 1 7 0
+!sdpos 1 2 3 3

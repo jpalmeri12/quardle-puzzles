@@ -1,0 +1,5 @@
+6 8
+druid 4 1 1
+mamma 2 3 1
+tacit 1 4 0
+hazel 1 7 0

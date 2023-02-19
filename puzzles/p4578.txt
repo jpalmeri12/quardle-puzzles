@@ -1,0 +1,5 @@
+7 9
+craze 2 1 0
+adorn 4 1 1
+scary 2 4 1
+scone 1 5 0

@@ -1,0 +1,5 @@
+7 8 soundscramble
+pesti 1 1 0
+swire 3 1 1
+doide 5 3 1
+traon 2 4 0

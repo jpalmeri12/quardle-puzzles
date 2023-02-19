@@ -1,0 +1,5 @@
+6 6
+alike 1 1 1
+droop 3 1 1
+lurch 1 2 0
+known 1 4 0

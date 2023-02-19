@@ -1,0 +1,5 @@
+7 8
+hound 2 1 1
+focus 1 2 0
+gloat 6 3 1
+naval 2 4 0

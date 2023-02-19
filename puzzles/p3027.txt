@@ -1,0 +1,5 @@
+7 10
+bigot 5 1 1
+patty 2 5 0
+atoll 3 5 1
+arose 1 7 0

@@ -1,0 +1,5 @@
+7 10 outoforder
+chili 4 1 1
+aside 2 5 0
+stark 3 5 1
+qualm 1 7 0

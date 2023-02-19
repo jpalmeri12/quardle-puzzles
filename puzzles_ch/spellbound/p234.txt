@@ -1,0 +1,9 @@
+7 10 spellbound
+crave 3 1 1
+reach 2 5 0
+award 4 5 1
+randy 1 9 0
+!spellbound 0 2 0
+!spellbound 1 4 3
+!spellbound 2 1 2
+!spellbound 3 4 1

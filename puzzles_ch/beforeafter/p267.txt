@@ -1,0 +1,9 @@
+6 8 beforeafter
+bonus 5 1 1
+bacon 1 3 0
+apart 2 3 1
+stung 1 7 0
+!beforeafter 2 r
+!beforeafter 2 k
+!beforeafter 2 q
+!beforeafter 2 p

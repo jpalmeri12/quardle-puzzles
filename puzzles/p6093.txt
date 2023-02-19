@@ -1,0 +1,5 @@
+7 9
+godly 4 1 1
+chore 2 2 0
+troll 1 4 0
+roach 2 4 1

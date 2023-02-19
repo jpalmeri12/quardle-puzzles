@@ -1,0 +1,7 @@
+6 6 fourthwall
+truss 1 1 0
+terra 1 1 1
+round 1 3 0
+usual 3 1 1
+alloy 1 5 0
+sadly 5 1 1

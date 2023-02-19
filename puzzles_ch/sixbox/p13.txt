@@ -1,0 +1,7 @@
+8 8 sixbox
+tribe 3 1 1
+crest 5 1 1
+swine 1 3 0
+ninja 4 3 1
+bison 3 4 0
+event 1 5 0

@@ -1,0 +1,6 @@
+7 9 island
+scoop 2 1 0
+croak 3 1 1
+awash 1 4 0
+hydro 5 4 1
+!island 211 2111 31 221

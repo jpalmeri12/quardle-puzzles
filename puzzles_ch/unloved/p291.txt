@@ -1,0 +1,5 @@
+7 8 unloved
+dough 4 1 1
+media 2 3 1
+wedge 1 4 0
+adage 2 7 0

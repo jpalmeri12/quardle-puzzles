@@ -1,0 +1,5 @@
+7 9 spin
+flame 3 1 1
+bylaw 1 2 0
+world 6 4 1
+pesto 2 5 0

@@ -1,0 +1,5 @@
+6 8
+aunty 1 1 0
+trash 4 1 1
+jewel 2 3 1
+tense 1 4 0

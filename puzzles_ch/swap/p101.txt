@@ -1,0 +1,5 @@
+6 9 swap
+iwndy 5 1 1
+csrew 1 2 0
+emebd 1 4 0
+enver 3 4 1

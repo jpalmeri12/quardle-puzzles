@@ -1,0 +1,5 @@
+7 9
+fever 6 1 1
+those 2 4 0
+tread 2 4 1
+lapel 1 7 0

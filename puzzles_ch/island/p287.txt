@@ -1,0 +1,6 @@
+7 10 island
+field 5 1 1
+oxide 1 3 0
+etude 2 5 0
+utter 4 5 1
+!island 311 32 211 31

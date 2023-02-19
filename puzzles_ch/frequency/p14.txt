@@ -1,0 +1,5 @@
+7 8 frequency
+grunt 3 1 1
+breed 5 3 1
+latte 1 5 0
+glade 2 7 0

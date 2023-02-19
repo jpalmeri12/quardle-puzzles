@@ -1,0 +1,5 @@
+7 10
+debar 2 1 1
+bluff 2 3 0
+tried 1 5 0
+daily 5 5 1

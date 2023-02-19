@@ -1,0 +1,5 @@
+6 7 clockdown
+curve 3 1 1
+bison 1 2 1
+bough 1 2 0
+obese 1 5 0

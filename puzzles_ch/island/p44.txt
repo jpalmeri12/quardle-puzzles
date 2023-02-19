@@ -1,0 +1,6 @@
+7 9 island
+adopt 2 1 0
+pearl 5 1 1
+sight 3 4 1
+drill 1 5 0
+!island 2111 221 311 211

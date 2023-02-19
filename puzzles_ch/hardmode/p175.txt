@@ -1,0 +1,5 @@
+7 9 hardmode
+agent 6 1 1
+basin 2 4 0
+sugar 4 4 1
+image 1 6 0

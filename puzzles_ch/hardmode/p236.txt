@@ -1,0 +1,5 @@
+6 9 hardmode
+tenor 3 1 1
+steak 1 2 0
+stoic 1 4 0
+curly 5 4 1

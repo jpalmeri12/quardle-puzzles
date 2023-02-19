@@ -1,0 +1,5 @@
+7 10
+snoop 3 1 1
+dandy 1 2 0
+spear 2 5 0
+augur 5 5 1

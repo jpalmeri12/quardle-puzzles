@@ -1,0 +1,9 @@
+7 9 beforeafter
+blitz 1 1 1
+tonga 1 4 0
+alloy 5 4 1
+swill 2 6 0
+!beforeafter 2 n
+!beforeafter 2 j
+!beforeafter 2 m
+!beforeafter 1 o

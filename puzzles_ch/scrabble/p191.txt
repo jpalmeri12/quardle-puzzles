@@ -1,0 +1,5 @@
+7 10 scrabble
+liege 5 1 1
+alibi 1 2 0
+bezel 2 5 0
+zesty 4 5 1

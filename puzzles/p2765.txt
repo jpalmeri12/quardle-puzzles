@@ -1,0 +1,5 @@
+7 9
+salon 2 1 0
+ombre 5 1 1
+cover 1 4 1
+caper 1 4 0

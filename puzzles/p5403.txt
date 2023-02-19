@@ -1,0 +1,5 @@
+7 10
+cycle 4 1 1
+mayor 2 2 0
+cagey 1 5 0
+caulk 1 5 1

@@ -1,0 +1,5 @@
+7 7 swap
+deiyt 1 1 0
+ysrup 4 1 1
+ailke 6 2 1
+acrdi 2 3 0

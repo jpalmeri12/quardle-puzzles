@@ -1,0 +1,5 @@
+7 9 duplicity
+annoy 2 1 1
+bobby 1 4 0
+bongo 4 4 1
+agony 2 8 0

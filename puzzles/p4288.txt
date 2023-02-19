@@ -1,0 +1,5 @@
+7 10
+bosom 2 1 1
+hound 1 2 0
+midst 2 5 0
+stern 5 5 1

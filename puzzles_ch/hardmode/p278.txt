@@ -1,0 +1,5 @@
+7 10 hardmode
+sigma 1 1 1
+alpha 1 5 0
+peach 3 5 1
+maxim 2 7 0

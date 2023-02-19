@@ -1,0 +1,5 @@
+7 7
+gross 1 1 0
+onset 3 1 1
+waltz 6 2 1
+fetal 2 4 0

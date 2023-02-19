@@ -1,0 +1,5 @@
+6 9
+timer 4 1 1
+swell 1 4 1
+screw 1 4 0
+lemur 1 7 0

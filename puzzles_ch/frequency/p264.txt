@@ -1,0 +1,5 @@
+7 8 frequency
+gumbo 2 1 0
+belle 5 1 1
+noble 1 3 1
+brake 1 5 0

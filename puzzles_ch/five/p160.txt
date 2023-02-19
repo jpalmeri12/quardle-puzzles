@@ -1,0 +1,6 @@
+6 12 five
+among 5 1 1
+thong 1 5 0
+nurse 4 5 1
+crone 2 7 1
+brisk 1 8 0

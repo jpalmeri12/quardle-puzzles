@@ -1,0 +1,7 @@
+8 8 sixbox
+metro 3 1 1
+elegy 5 1 1
+latte 1 3 0
+topaz 4 3 1
+rogue 3 4 0
+loopy 1 5 0

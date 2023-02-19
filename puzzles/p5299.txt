@@ -1,0 +1,5 @@
+7 9
+honey 6 1 1
+spore 2 4 0
+ovoid 4 4 1
+brook 1 6 0

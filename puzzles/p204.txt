@@ -1,0 +1,5 @@
+6 9
+suave 1 1 0
+aside 3 1 1
+radio 1 4 0
+roach 1 4 1

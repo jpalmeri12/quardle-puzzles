@@ -1,0 +1,6 @@
+7 9 commonsecret
+attic 1 1 1
+affix 5 4 1
+chief 1 5 0
+unfit 2 7 0
+!secret i

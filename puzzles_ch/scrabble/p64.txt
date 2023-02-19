@@ -1,0 +1,5 @@
+7 8 scrabble
+sloop 1 2 0
+forth 4 1 1
+extra 2 4 0
+rajah 6 3 1

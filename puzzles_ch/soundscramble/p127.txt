@@ -1,0 +1,5 @@
+7 10 soundscramble
+cureo 4 1 1
+gooiy 2 5 0
+goosi 2 5 1
+useng 1 8 0

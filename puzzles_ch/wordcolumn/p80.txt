@@ -1,0 +1,6 @@
+7 8 wordcolumn
+musky 2 1 1
+manly 2 1 0
+usher 1 3 0
+eerie 4 3 1
+hydro 1 5 0

@@ -1,0 +1,6 @@
+6 9 undercover
+spicy 1 1 1
+pithy 1 2 0
+hazel 4 2 1
+craze 1 4 0
+mound 1 8 0

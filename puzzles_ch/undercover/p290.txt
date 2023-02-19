@@ -1,0 +1,6 @@
+7 10 undercover
+beach 2 1 1
+genie 1 2 0
+snare 6 3 1
+canon 2 4 0
+lumpy 1 9 0

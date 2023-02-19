@@ -1,0 +1,5 @@
+7 10 unloved
+crazy 1 1 0
+ashen 3 1 1
+knock 2 5 0
+kneed 6 5 1

@@ -1,0 +1,5 @@
+7 9 skyscrapers
+sling 2 5 0
+droll 3 1 1
+moody 1 3 0
+agile 6 4 1

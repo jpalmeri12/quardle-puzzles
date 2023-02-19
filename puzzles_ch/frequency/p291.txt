@@ -1,0 +1,5 @@
+7 8 frequency
+minor 4 1 1
+lymph 2 3 1
+mirth 2 5 0
+chaff 1 7 0

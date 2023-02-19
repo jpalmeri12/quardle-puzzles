@@ -1,0 +1,6 @@
+6 9 connectfive
+tibia 2 1 1
+nicer 1 2 0
+laden 5 4 1
+mafia 1 5 0
+green 1 8 0

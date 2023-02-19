@@ -1,0 +1,5 @@
+7 9 clockdown
+hello 2 1 1
+relic 4 4 1
+rodeo 1 5 0
+krill 2 7 0

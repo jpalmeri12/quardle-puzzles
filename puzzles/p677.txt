@@ -1,0 +1,5 @@
+7 10
+faint 2 1 1
+steam 1 5 0
+equip 3 5 1
+lunge 2 7 0

@@ -1,0 +1,5 @@
+6 6
+imply 2 1 1
+nicer 4 1 1
+email 1 2 0
+plier 1 4 0

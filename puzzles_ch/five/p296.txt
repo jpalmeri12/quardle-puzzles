@@ -1,0 +1,6 @@
+6 9 five
+dwelt 1 1 0
+tibia 5 1 1
+rabbi 1 4 0
+brush 3 4 1
+usher 1 8 0

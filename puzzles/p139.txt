@@ -1,0 +1,5 @@
+7 8
+shoot 5 1 1
+wince 3 3 1
+donut 1 5 0
+mecca 2 7 0

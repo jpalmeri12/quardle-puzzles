@@ -1,0 +1,5 @@
+7 10 dblltr
+mimic 1 1 0
+idiom 2 1 1
+masse 2 5 0
+algae 3 5 1

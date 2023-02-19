@@ -1,0 +1,8 @@
+6 8 twins
+papal 1 1 0
+punch 1 3 0
+bosom 1 5 0
+frown 1 7 0
+!twins 2 3
+!twins 2 4
+!twins 0 2

@@ -1,0 +1,5 @@
+7 10 duplicity
+rusty 2 1 0
+stunt 4 1 1
+snarl 1 5 1
+salty 1 5 0

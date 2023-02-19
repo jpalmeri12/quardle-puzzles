@@ -1,0 +1,5 @@
+7 10
+least 2 1 0
+smoky 5 1 1
+daisy 1 5 0
+inert 3 5 1

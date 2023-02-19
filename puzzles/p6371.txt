@@ -1,0 +1,5 @@
+7 7
+crumb 2 1 1
+frank 1 2 0
+knoll 5 2 1
+mayor 2 4 0

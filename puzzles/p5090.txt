@@ -1,0 +1,5 @@
+7 10
+rivet 4 1 1
+valve 1 3 0
+titan 2 5 0
+alien 5 5 1

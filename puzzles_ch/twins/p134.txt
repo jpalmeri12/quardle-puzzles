@@ -1,0 +1,8 @@
+6 8 twins
+media 1 1 0
+adept 1 3 0
+lefty 1 5 0
+quark 1 7 0
+!twins 1 2
+!twins 1 2
+!twins 0 2

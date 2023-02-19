@@ -1,0 +1,5 @@
+7 10
+midge 5 1 1
+ample 1 5 0
+linen 4 5 1
+breed 2 8 0

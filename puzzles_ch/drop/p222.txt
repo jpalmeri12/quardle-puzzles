@@ -1,0 +1,6 @@
+7 11 drop
+zesty 1 1 0
+scour 3 1 1
+suite 2 4 0
+envoy 6 4 1
+decoy 1 10 0

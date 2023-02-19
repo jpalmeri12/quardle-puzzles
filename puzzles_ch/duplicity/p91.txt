@@ -1,0 +1,5 @@
+6 9 duplicity
+since 1 1 0
+colon 4 1 1
+synod 1 4 0
+yield 2 4 1

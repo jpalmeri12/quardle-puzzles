@@ -1,0 +1,5 @@
+7 10
+fixer 2 1 1
+ficus 2 1 0
+proud 1 5 0
+prong 1 5 1

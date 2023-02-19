@@ -1,0 +1,5 @@
+7 10 spin
+amiss 1 1 1
+snack 1 5 0
+clout 4 5 1
+truth 2 8 0

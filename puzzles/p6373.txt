@@ -1,0 +1,5 @@
+7 8
+spill 3 1 1
+rugby 5 3 1
+flour 2 4 0
+fussy 1 7 0

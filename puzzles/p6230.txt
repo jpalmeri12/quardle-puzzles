@@ -1,0 +1,5 @@
+7 10
+genre 2 1 0
+eying 3 1 1
+dogma 1 5 0
+magma 4 5 1

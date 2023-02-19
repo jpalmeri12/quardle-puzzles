@@ -1,0 +1,5 @@
+6 9 spin
+giant 4 1 1
+snail 1 2 0
+nanny 1 4 0
+noise 1 4 1

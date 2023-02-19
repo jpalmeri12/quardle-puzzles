@@ -1,0 +1,5 @@
+7 10
+fibre 1 1 1
+every 1 5 0
+reply 4 5 1
+thyme 2 9 0

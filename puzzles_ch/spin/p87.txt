@@ -1,0 +1,5 @@
+7 8 spin
+glide 1 1 0
+empty 5 1 1
+elope 2 3 0
+latte 3 3 1

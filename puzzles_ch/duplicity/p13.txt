@@ -1,0 +1,5 @@
+7 10 duplicity
+clasp 2 1 1
+lilac 2 2 0
+spade 1 5 0
+slide 1 5 1

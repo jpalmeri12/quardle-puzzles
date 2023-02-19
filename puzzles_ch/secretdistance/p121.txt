@@ -1,0 +1,7 @@
+6 11 secretdistance
+dunce 1 1 0
+deuce 1 1 1
+chess 1 4 0
+stash 4 4 1
+psalm 1 10 0
+!sdpos 2 2 1 0

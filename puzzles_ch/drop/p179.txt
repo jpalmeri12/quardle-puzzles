@@ -1,0 +1,6 @@
+6 10 drop
+mangy 4 1 1
+haunt 1 3 0
+aunty 2 3 1
+hymen 1 7 0
+gayer 1 9 0

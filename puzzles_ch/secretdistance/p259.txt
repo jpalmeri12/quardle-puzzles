@@ -1,0 +1,7 @@
+7 10 secretdistance
+torus 2 1 0
+recut 4 1 1
+older 2 3 1
+cloud 1 4 0
+surer 1 9 0
+!sdpos 3 0 3 1

@@ -1,0 +1,7 @@
+7 9 secretdistance
+crypt 5 1 1
+ester 1 2 0
+scrap 2 2 1
+amity 2 5 0
+cried 1 8 0
+!sdpos 2 1 1 1

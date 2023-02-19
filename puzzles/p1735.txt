@@ -1,0 +1,5 @@
+7 10
+riser 4 1 1
+wince 2 5 1
+worst 2 5 0
+acute 1 8 0

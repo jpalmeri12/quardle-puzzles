@@ -1,0 +1,6 @@
+7 11 undercover
+thing 1 1 1
+smear 5 4 1
+groom 1 5 0
+where 2 8 0
+pulpy 1 10 0

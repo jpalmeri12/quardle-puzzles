@@ -1,0 +1,5 @@
+6 7 sweeper
+tweak 1 1 1
+wispy 1 2 0
+smote 3 2 1
+adore 1 4 0

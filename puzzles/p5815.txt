@@ -1,0 +1,5 @@
+7 9
+quart 2 1 0
+unite 3 1 1
+octal 1 4 0
+optic 1 4 1

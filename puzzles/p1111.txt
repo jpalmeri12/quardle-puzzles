@@ -1,0 +1,5 @@
+7 9
+tumor 2 1 1
+usher 2 2 0
+vomit 1 4 0
+theme 5 4 1

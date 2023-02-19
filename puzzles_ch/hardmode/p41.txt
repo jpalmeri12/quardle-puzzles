@@ -1,0 +1,5 @@
+7 10 hardmode
+crass 5 1 1
+cedar 1 2 0
+daisy 2 5 0
+youth 6 5 1

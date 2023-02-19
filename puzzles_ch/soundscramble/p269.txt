@@ -1,0 +1,5 @@
+7 7 soundscramble
+arror 3 1 1
+aerth 1 2 0
+hesta 5 2 1
+writa 2 5 0

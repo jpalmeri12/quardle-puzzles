@@ -1,0 +1,5 @@
+7 10
+deuce 6 1 1
+white 2 5 0
+thank 5 5 1
+pizza 1 7 0

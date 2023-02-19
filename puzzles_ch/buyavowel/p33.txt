@@ -1,0 +1,5 @@
+7 9 buyavowel
+charm 4 1 1
+ethos 2 2 0
+quart 1 4 0
+quote 1 4 1

@@ -1,0 +1,5 @@
+7 9 swap
+glied 5 1 1
+grotu 2 4 1
+preid 1 5 0
+tsale 2 7 0

@@ -1,0 +1,5 @@
+7 8 swap
+pares 5 1 1
+cesae 2 3 1
+exret 2 4 0
+rebsu 1 7 0

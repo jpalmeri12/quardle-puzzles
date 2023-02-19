@@ -1,0 +1,5 @@
+7 9 soundscramble
+tolly 2 1 1
+ormar 2 2 0
+olpho 1 4 0
+ogany 5 4 1

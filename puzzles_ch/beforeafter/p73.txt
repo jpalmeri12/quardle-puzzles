@@ -1,0 +1,9 @@
+6 7 beforeafter
+touch 4 1 1
+idiot 1 2 0
+ditto 2 2 1
+stock 1 4 0
+!beforeafter 2 j
+!beforeafter 2 j
+!beforeafter 1 n
+!beforeafter 1 q

@@ -1,0 +1,6 @@
+6 12 undercover
+slang 5 1 1
+being 1 5 0
+blade 1 5 1
+adapt 1 7 0
+frock 1 11 0

@@ -1,0 +1,5 @@
+7 9 unloved
+thing 6 1 1
+booth 4 4 1
+along 2 5 0
+pushy 1 8 0

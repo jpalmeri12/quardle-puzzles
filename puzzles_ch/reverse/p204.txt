@@ -1,0 +1,5 @@
+7 9 reverse
+ralos 1 1 0
+lurid 3 1 1
+rouge 5 4 1
+ydrow 2 5 0

@@ -1,0 +1,5 @@
+7 10
+peach 2 1 0
+curly 5 1 1
+snowy 1 5 0
+world 4 5 1

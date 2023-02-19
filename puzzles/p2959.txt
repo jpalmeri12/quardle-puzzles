@@ -1,0 +1,5 @@
+7 10
+brook 2 1 1
+briar 1 2 0
+kinky 2 5 0
+kitty 5 5 1

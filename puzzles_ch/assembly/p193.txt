@@ -1,0 +1,5 @@
+6 10 assembly
+salvo 1 3 1
+basin 5 3 1
+salad 1 1 0
+avail 1 9 0

@@ -1,0 +1,5 @@
+7 8
+panel 1 1 0
+nasal 3 1 1
+thorn 6 3 1
+rajah 2 4 0

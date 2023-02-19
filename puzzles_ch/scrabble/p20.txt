@@ -1,0 +1,5 @@
+7 9 scrabble
+radio 2 1 0
+ramen 2 1 1
+beget 1 4 0
+throb 5 4 1

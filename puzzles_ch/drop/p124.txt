@@ -1,0 +1,6 @@
+6 10 drop
+mayor 5 1 1
+lefty 1 3 0
+flour 3 3 1
+carve 1 7 0
+lorry 1 9 0

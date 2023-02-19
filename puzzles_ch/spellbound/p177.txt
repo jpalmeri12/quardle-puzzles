@@ -1,0 +1,9 @@
+7 10 spellbound
+buxom 2 1 1
+magic 2 5 0
+golly 4 5 1
+vinyl 1 9 0
+!spellbound 0 2 3
+!spellbound 1 1 4
+!spellbound 2 2 1
+!spellbound 3 1 2

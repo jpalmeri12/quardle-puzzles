@@ -1,0 +1,9 @@
+7 8 beforeafter
+untie 1 1 0
+tunic 3 1 1
+inert 2 3 0
+tulle 6 3 1
+!beforeafter 2 k
+!beforeafter 2 l
+!beforeafter 2 o
+!beforeafter 1 o

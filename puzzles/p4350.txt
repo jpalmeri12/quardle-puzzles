@@ -1,0 +1,5 @@
+7 9
+fever 5 1 1
+power 2 2 0
+stone 1 4 0
+onion 3 4 1

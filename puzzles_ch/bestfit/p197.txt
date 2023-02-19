@@ -1,0 +1,5 @@
+7 8 bestfit
+ether 2 1 1
+hasty 2 3 0
+stoic 4 3 1
+pitch 1 7 0

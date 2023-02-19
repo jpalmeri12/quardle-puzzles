@@ -1,0 +1,9 @@
+6 7 spellbound
+large 3 1 1
+abase 1 2 0
+ahead 1 2 1
+eagle 1 4 0
+!spellbound 0 2 0
+!spellbound 1 1 4
+!spellbound 2 4 1
+!spellbound 3 1 4

@@ -1,0 +1,7 @@
+8 8 sixbox
+first 3 1 1
+cubic 5 1 1
+scrub 1 3 0
+utile 4 3 1
+sting 3 4 0
+attic 1 5 0

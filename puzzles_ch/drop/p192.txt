@@ -1,0 +1,6 @@
+7 10 drop
+spoof 2 1 1
+shock 2 1 0
+small 4 3 1
+comma 1 4 0
+smash 1 9 0

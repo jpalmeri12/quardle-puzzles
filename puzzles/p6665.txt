@@ -1,0 +1,5 @@
+7 10
+broil 4 1 1
+circa 2 2 0
+jolly 1 5 0
+lease 3 5 1

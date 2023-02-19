@@ -1,0 +1,6 @@
+7 9 wordcolumn
+umbra 3 1 1
+annex 1 2 1
+atoll 5 4 1
+exalt 1 5 0
+newly 2 7 0

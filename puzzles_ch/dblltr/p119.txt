@@ -1,0 +1,5 @@
+6 7 dblltr
+aback 1 1 1
+belle 1 2 0
+libel 4 2 1
+cabby 1 4 0

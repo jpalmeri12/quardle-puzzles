@@ -1,0 +1,5 @@
+7 10
+prong 2 1 1
+golem 2 5 0
+leery 4 5 1
+blurb 1 8 0

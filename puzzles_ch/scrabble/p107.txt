@@ -1,0 +1,5 @@
+7 10 scrabble
+route 1 5 0
+rebut 4 1 1
+omega 2 2 0
+epoch 5 5 1

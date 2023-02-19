@@ -1,0 +1,8 @@
+6 8 twins
+sissy 1 1 0
+bunny 1 3 0
+erupt 1 5 0
+forte 1 7 0
+!twins 2 3
+!twins 0 1
+!twins 1 2

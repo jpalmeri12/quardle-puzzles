@@ -1,0 +1,6 @@
+7 8 commonsecret
+bonus 2 1 1
+clung 4 3 1
+bugle 1 4 0
+argue 2 7 0
+!secret u

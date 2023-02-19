@@ -1,0 +1,7 @@
+8 8 sixbox
+lemon 3 1 1
+irony 5 1 1
+limbo 1 3 0
+bugle 4 3 1
+ounce 3 4 0
+dingy 1 5 0

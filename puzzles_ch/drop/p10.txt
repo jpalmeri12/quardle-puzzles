@@ -1,0 +1,6 @@
+7 11 drop
+brown 2 1 1
+reply 2 2 0
+swami 1 4 0
+manly 4 4 1
+plain 1 10 0

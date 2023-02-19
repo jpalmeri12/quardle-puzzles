@@ -1,0 +1,5 @@
+7 9 skyscrapers
+wield 4 4 1
+flail 1 5 0
+crawl 2 1 1
+chime 2 1 0

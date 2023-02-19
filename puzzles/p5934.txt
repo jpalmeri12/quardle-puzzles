@@ -1,0 +1,5 @@
+7 10
+wharf 6 1 1
+glass 2 5 1
+grief 2 5 0
+fatty 1 7 0

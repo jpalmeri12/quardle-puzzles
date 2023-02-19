@@ -1,0 +1,6 @@
+6 9 drop
+stale 5 1 1
+scent 1 2 0
+could 2 2 1
+pupal 1 4 0
+clout 1 8 0

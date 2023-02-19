@@ -1,0 +1,5 @@
+7 9
+acorn 1 1 0
+nomad 5 1 1
+tidal 2 4 0
+ideal 3 4 1

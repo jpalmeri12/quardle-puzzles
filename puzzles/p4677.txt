@@ -1,0 +1,5 @@
+7 9
+sever 1 1 0
+enemy 4 1 1
+tamer 2 4 0
+torch 2 4 1

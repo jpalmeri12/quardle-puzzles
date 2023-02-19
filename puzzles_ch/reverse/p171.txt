@@ -1,0 +1,5 @@
+7 10 reverse
+htarw 3 1 1
+sower 1 5 0
+empty 4 5 1
+ylpmi 2 7 0

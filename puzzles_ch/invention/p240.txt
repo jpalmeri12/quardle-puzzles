@@ -1,0 +1,5 @@
+7 10 invention
+beard 6 1 1
+broad 2 5 0
+audit 5 5 1
+pried 1 7 0

@@ -1,0 +1,9 @@
+6 10 spellbound
+gecko 1 1 0
+ozone 5 1 1
+rogue 1 5 0
+optic 2 5 1
+!spellbound 0 0 1
+!spellbound 1 2 3
+!spellbound 2 0 2
+!spellbound 3 2 4

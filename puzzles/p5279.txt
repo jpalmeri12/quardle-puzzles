@@ -1,0 +1,5 @@
+7 10
+sperm 6 1 1
+amuse 2 5 1
+album 2 5 0
+psalm 1 8 0

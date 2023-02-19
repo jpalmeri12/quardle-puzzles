@@ -1,0 +1,5 @@
+6 9 scrabble
+torus 1 7 0
+rhino 1 5 0
+dutch 2 1 1
+joust 5 4 1

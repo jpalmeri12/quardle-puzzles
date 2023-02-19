@@ -1,0 +1,5 @@
+6 7
+dough 4 1 1
+shook 1 2 0
+spied 1 2 1
+eight 1 5 0

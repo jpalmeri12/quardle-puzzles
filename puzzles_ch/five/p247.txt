@@ -1,0 +1,6 @@
+6 10 five
+jelly 4 1 1
+surer 1 2 0
+urban 2 2 1
+satyr 1 5 0
+risen 5 5 1

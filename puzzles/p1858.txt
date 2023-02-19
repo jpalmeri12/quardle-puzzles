@@ -1,0 +1,5 @@
+7 9
+shear 1 1 0
+adore 4 1 1
+shaky 6 4 1
+flesh 2 5 0

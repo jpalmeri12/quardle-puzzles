@@ -1,0 +1,5 @@
+6 7 frequency
+fried 2 1 1
+arise 1 2 0
+scour 4 2 1
+tenor 1 4 0

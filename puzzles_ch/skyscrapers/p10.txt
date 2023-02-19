@@ -1,0 +1,5 @@
+6 8 skyscrapers
+welsh 1 7 0
+camel 3 3 1
+grasp 1 4 0
+hippy 5 1 1

@@ -1,0 +1,5 @@
+7 10
+cramp 2 1 1
+drill 1 2 0
+piper 2 5 0
+erode 5 5 1

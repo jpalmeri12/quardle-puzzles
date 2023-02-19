@@ -1,0 +1,5 @@
+7 7
+carat 5 1 1
+bleat 3 2 1
+slurp 2 3 0
+chart 1 5 0

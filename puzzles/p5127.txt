@@ -1,0 +1,5 @@
+7 9
+belie 3 1 1
+needy 1 2 0
+shave 6 4 1
+teach 2 5 0

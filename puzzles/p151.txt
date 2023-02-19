@@ -1,0 +1,5 @@
+7 9
+movie 4 1 1
+conic 1 4 0
+ovate 2 4 1
+truth 2 7 0

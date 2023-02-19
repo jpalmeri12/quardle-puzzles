@@ -1,0 +1,5 @@
+7 9 spin
+tower 2 1 1
+trash 2 1 0
+setup 1 4 0
+pleat 5 4 1

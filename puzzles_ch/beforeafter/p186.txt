@@ -1,0 +1,9 @@
+7 9 beforeafter
+tonga 2 1 1
+totem 1 2 0
+giant 2 4 0
+agony 4 4 1
+!beforeafter 2 l
+!beforeafter 2 n
+!beforeafter 2 k
+!beforeafter 1 j

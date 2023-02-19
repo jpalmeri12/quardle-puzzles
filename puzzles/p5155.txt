@@ -1,0 +1,5 @@
+7 10
+crept 1 1 1
+tryst 1 5 0
+youth 3 5 1
+budge 2 7 0

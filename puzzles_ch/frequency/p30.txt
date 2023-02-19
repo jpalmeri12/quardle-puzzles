@@ -1,0 +1,5 @@
+7 9 frequency
+algae 4 1 1
+palsy 2 2 0
+eclat 1 4 1
+comet 1 5 0

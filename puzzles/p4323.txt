@@ -1,0 +1,5 @@
+7 9
+drawl 2 1 1
+cedar 5 4 1
+liver 2 5 0
+cyber 1 8 0

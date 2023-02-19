@@ -1,0 +1,5 @@
+7 8
+plant 1 1 1
+grind 4 3 1
+tunic 1 5 0
+dodgy 2 7 0

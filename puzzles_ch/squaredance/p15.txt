@@ -1,0 +1,6 @@
+6 8 squaredance
+super 1 1 1
+hutch 5 1 1
+slash 1 1 0
+reach 1 5 0
+round 1 7 0

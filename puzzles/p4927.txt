@@ -1,0 +1,5 @@
+7 9
+troll 1 1 1
+papal 4 4 1
+lilac 1 5 0
+trace 2 7 0

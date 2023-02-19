@@ -1,0 +1,6 @@
+7 9 wordcolumn
+snide 2 1 1
+unite 1 2 0
+decay 2 4 0
+cutie 4 4 1
+hover 1 8 0

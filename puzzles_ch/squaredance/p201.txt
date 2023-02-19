@@ -1,0 +1,6 @@
+6 8 squaredance
+leant 1 1 1
+enjoy 5 1 1
+ledge 1 1 0
+toddy 1 5 0
+salvo 1 7 0

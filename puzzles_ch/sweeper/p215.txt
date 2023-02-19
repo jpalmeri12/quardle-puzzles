@@ -1,0 +1,5 @@
+7 8 sweeper
+terra 1 1 0
+ardor 5 1 1
+heady 2 3 0
+hurry 2 3 1

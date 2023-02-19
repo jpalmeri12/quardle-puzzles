@@ -1,0 +1,6 @@
+6 10 commonsecret
+candy 2 1 1
+snipe 1 3 0
+eying 1 5 0
+ingot 3 5 1
+!secret n

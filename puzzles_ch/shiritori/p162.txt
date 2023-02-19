@@ -1,0 +1,5 @@
+7 8 shiritori
+place 4 1 1
+guilt 1 2 0
+disco 6 3 1
+chess 2 5 0

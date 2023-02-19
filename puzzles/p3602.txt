@@ -1,0 +1,5 @@
+7 7
+group 1 1 0
+urine 4 1 1
+dread 6 2 1
+theta 2 5 0

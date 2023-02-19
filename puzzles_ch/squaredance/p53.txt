@@ -1,0 +1,6 @@
+6 8 squaredance
+gauge 1 1 1
+exact 5 1 1
+gauze 1 1 0
+edict 1 5 0
+glove 1 7 0

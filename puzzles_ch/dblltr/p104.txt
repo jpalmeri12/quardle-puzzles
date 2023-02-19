@@ -1,0 +1,5 @@
+7 10 dblltr
+smash 2 1 1
+sheep 1 5 0
+parer 5 5 1
+alarm 2 7 0

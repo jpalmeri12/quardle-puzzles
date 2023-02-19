@@ -1,0 +1,5 @@
+6 7
+depth 4 1 1
+greet 1 2 0
+revue 2 2 1
+ovate 1 4 0

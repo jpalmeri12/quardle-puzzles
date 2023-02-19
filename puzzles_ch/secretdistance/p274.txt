@@ -1,0 +1,7 @@
+6 11 secretdistance
+stall 1 1 0
+taker 2 1 1
+twice 4 4 1
+brawl 1 5 0
+ratio 1 10 0
+!sdpos 2 0 2 1

@@ -1,0 +1,5 @@
+7 9 spaced
+usage 5 1 1
+pulse 2 2 0
+sling 1 4 0
+scale 1 4 1

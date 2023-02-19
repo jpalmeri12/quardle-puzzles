@@ -1,0 +1,5 @@
+6 8 swap
+praer 1 1 1
+ahppy 1 3 0
+pelat 4 3 1
+revle 1 5 0

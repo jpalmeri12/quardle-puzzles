@@ -1,0 +1,5 @@
+7 7 beta
+rival 3 1 1
+piety 2 2 0
+tasty 5 2 1
+crass 1 4 0

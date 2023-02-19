@@ -1,0 +1,6 @@
+7 10 five
+peril 2 1 1
+teary 1 2 0
+latch 2 5 0
+tacky 4 5 1
+joker 2 8 0

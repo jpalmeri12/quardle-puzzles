@@ -1,0 +1,5 @@
+6 9 sweeper
+vinyl 5 1 1
+rabbi 1 2 0
+array 1 4 0
+rover 2 4 1

@@ -1,0 +1,6 @@
+7 10 five
+forgo 5 1 1
+mocha 2 4 1
+onion 2 5 0
+iliac 4 5 1
+sheik 1 7 0

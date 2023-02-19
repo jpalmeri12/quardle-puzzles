@@ -1,0 +1,5 @@
+7 10 spin
+lefty 3 1 1
+bylaw 2 5 0
+borne 2 5 1
+prick 1 7 0

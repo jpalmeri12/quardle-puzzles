@@ -1,0 +1,5 @@
+7 9
+pulse 4 1 1
+flour 1 2 0
+bushy 2 4 0
+badge 2 4 1

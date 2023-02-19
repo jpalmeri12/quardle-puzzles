@@ -1,0 +1,5 @@
+7 10 shiritori
+swell 2 1 1
+award 1 2 0
+lever 2 5 0
+rarer 6 5 1

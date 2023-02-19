@@ -1,0 +1,5 @@
+7 10
+prick 2 1 1
+wrest 1 2 0
+kappa 2 5 0
+place 4 5 1

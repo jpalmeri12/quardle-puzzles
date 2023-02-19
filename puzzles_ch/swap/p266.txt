@@ -1,0 +1,5 @@
+7 7 swap
+deinm 3 1 1
+knlol 5 2 1
+viyng 2 3 0
+ammbo 1 5 0

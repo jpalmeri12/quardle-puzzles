@@ -1,0 +1,5 @@
+7 9
+shift 6 1 1
+mummy 4 4 1
+brunt 2 5 0
+clamp 1 7 0

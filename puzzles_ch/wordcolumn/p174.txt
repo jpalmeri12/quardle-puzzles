@@ -1,0 +1,6 @@
+7 9 wordcolumn
+spray 6 1 1
+booze 4 2 1
+afoot 2 4 1
+fuzzy 2 5 0
+otter 1 8 0

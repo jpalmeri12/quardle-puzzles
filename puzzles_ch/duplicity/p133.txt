@@ -1,0 +1,5 @@
+7 10 duplicity
+brake 1 1 0
+kebab 4 1 1
+taboo 2 5 0
+otter 6 5 1

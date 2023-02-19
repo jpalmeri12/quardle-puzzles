@@ -1,0 +1,5 @@
+7 10
+leave 3 1 1
+cease 2 5 0
+smote 5 5 1
+igloo 1 7 0

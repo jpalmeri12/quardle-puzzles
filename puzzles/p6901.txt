@@ -1,0 +1,5 @@
+7 9
+chick 5 1 1
+conic 1 4 0
+navel 3 4 1
+delay 2 7 0

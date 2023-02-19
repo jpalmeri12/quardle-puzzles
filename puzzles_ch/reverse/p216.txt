@@ -1,0 +1,5 @@
+7 9 reverse
+bloom 5 1 1
+dowel 3 4 1
+ydoom 1 5 0
+ollec 2 8 0

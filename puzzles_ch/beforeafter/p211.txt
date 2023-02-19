@@ -1,0 +1,9 @@
+6 8 beforeafter
+fatty 2 1 1
+spoke 5 3 1
+steep 1 4 0
+twice 1 7 0
+!beforeafter 1 p
+!beforeafter 2 l
+!beforeafter 1 r
+!beforeafter 1 p

@@ -1,0 +1,5 @@
+7 9 bestfit
+purge 5 1 1
+buddy 3 4 1
+acute 1 5 0
+lymph 2 8 0

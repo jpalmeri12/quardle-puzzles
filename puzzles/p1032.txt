@@ -1,0 +1,5 @@
+7 9
+login 2 1 1
+booth 4 4 1
+noose 2 5 0
+skate 1 7 0

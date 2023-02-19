@@ -1,0 +1,5 @@
+7 9 fourscore
+gipsy 5 1 1
+khaki 1 2 0
+feast 2 4 0
+fishy 2 4 1

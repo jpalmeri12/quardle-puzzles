@@ -1,0 +1,7 @@
+7 11 secretdistance
+shale 5 1 1
+wight 2 2 0
+kneel 1 4 0
+known 1 4 1
+cleft 1 10 0
+!sdpos 1 0 1 1

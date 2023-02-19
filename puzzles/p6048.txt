@@ -1,0 +1,5 @@
+7 9
+swept 2 1 1
+awake 1 2 0
+pixie 2 4 0
+ethos 6 4 1

@@ -1,0 +1,5 @@
+7 10 skyscrapers
+usher 1 5 0
+swine 2 5 1
+elfin 2 9 0
+choir 5 1 1

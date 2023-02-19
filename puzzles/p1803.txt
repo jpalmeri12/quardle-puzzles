@@ -1,0 +1,5 @@
+6 10
+spied 2 1 1
+admit 1 5 0
+tutor 5 5 1
+utter 1 9 0

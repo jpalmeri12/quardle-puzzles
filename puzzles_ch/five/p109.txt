@@ -1,0 +1,6 @@
+7 10 five
+rifle 6 1 1
+salve 2 5 0
+adore 3 5 1
+visit 5 5 1
+gloss 1 7 0

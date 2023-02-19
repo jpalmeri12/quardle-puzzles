@@ -1,0 +1,5 @@
+6 9
+nosey 5 1 1
+copse 3 4 1
+goody 1 5 0
+disco 1 7 0

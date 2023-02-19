@@ -1,0 +1,5 @@
+7 9
+dimly 6 1 1
+waver 4 4 1
+mealy 2 5 0
+sharp 1 8 0

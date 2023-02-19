@@ -1,0 +1,5 @@
+7 9 dblltr
+fifth 6 1 1
+stilt 2 4 0
+tibia 3 4 1
+aback 1 8 0

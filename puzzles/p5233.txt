@@ -1,0 +1,5 @@
+7 7
+leapt 2 1 1
+rebus 1 2 0
+stale 5 2 1
+troll 2 5 0

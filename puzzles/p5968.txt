@@ -1,0 +1,5 @@
+6 9
+wager 2 1 1
+marry 4 4 1
+dream 1 5 0
+dwarf 1 7 0

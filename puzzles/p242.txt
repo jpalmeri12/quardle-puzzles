@@ -1,0 +1,5 @@
+6 9
+dirty 5 1 1
+wight 1 4 0
+imply 2 4 1
+syrup 1 8 0

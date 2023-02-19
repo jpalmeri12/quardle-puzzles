@@ -1,0 +1,5 @@
+7 9
+flout 5 1 1
+group 2 4 0
+grace 2 4 1
+scour 1 7 0

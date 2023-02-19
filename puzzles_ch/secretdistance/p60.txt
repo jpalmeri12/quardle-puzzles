@@ -1,0 +1,7 @@
+7 12 secretdistance
+extol 2 1 0
+topic 4 1 1
+batch 1 5 0
+tiger 3 5 1
+prong 1 11 0
+!sdpos 3 2 0 1

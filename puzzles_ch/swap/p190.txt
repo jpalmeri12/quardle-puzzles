@@ -1,0 +1,5 @@
+7 8 swap
+ftech 1 1 0
+tesre 2 1 1
+solop 2 3 0
+laoft 4 3 1

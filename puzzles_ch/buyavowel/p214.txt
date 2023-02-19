@@ -1,0 +1,5 @@
+7 8 buyavowel
+plead 6 1 1
+while 2 3 0
+wrest 2 3 1
+stair 1 7 0

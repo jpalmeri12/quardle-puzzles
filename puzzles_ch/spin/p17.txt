@@ -1,0 +1,5 @@
+6 9 spin
+guide 1 1 0
+digit 4 1 1
+nurse 2 4 1
+dusty 1 5 0

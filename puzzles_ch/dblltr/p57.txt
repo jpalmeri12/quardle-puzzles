@@ -1,0 +1,5 @@
+7 9 dblltr
+nerve 4 1 1
+three 1 2 0
+savvy 2 4 0
+start 2 4 1

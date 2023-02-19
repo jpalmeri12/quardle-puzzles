@@ -1,0 +1,5 @@
+7 9
+moron 6 1 1
+month 3 4 1
+woman 2 5 0
+latte 1 7 0

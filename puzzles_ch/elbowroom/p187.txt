@@ -1,0 +1,5 @@
+7 9 elbowroom
+chafe 2 1 0
+first 5 1 1
+bonus 1 4 0
+oaken 2 4 1

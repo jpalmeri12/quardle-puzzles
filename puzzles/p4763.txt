@@ -1,0 +1,5 @@
+6 8
+smell 1 1 0
+medic 2 1 1
+trout 4 3 1
+fibre 1 4 0

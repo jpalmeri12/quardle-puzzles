@@ -1,0 +1,5 @@
+7 7 sweeper
+fetid 4 1 1
+bezel 1 2 0
+eerie 2 2 1
+rainy 2 4 0

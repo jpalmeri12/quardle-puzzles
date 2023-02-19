@@ -1,0 +1,5 @@
+7 9
+regal 4 1 1
+other 1 2 0
+quake 2 4 0
+eking 6 4 1

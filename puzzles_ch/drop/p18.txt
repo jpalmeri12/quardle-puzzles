@@ -1,0 +1,6 @@
+7 12 drop
+avail 4 1 1
+aglow 2 5 0
+gully 3 5 1
+mayor 1 9 0
+array 1 11 0

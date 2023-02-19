@@ -1,0 +1,5 @@
+7 9
+vital 5 1 1
+mocha 1 4 0
+ovine 2 4 1
+north 2 7 0

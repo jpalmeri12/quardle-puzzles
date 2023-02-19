@@ -1,0 +1,5 @@
+7 8
+pixie 5 1 1
+inbox 1 3 0
+bound 3 3 1
+admin 2 7 0

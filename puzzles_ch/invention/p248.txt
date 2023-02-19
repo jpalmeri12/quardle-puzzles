@@ -1,0 +1,5 @@
+7 10 invention
+blurb 2 1 1
+allay 1 2 0
+bribe 2 5 0
+evade 6 5 1

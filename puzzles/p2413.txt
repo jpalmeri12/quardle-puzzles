@@ -1,0 +1,5 @@
+7 9
+caste 2 1 1
+amaze 2 2 0
+duvet 4 4 1
+serum 1 5 0

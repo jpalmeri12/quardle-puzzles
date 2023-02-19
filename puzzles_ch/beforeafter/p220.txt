@@ -1,0 +1,9 @@
+7 10 beforeafter
+troop 4 1 1
+gloss 2 3 0
+adapt 1 5 0
+adept 3 5 1
+!beforeafter 1 q
+!beforeafter 2 r
+!beforeafter 2 o
+!beforeafter 2 k

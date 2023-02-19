@@ -1,0 +1,5 @@
+7 10
+unite 2 1 1
+beret 1 5 0
+theft 5 5 1
+stuff 2 8 0

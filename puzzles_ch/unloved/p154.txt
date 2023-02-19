@@ -1,0 +1,5 @@
+7 7 unloved
+jumbo 1 1 0
+biome 4 1 1
+nerve 6 2 1
+stole 2 3 0

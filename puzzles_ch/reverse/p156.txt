@@ -1,0 +1,5 @@
+6 6 reverse
+tlewd 2 1 1
+woleb 4 1 1
+sloop 1 2 0
+sweet 1 4 0

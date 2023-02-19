@@ -1,0 +1,5 @@
+7 10 elbowroom
+bingo 4 1 1
+cocoa 1 5 0
+affix 5 5 1
+fluff 2 7 0

@@ -1,0 +1,5 @@
+7 8
+bison 5 1 1
+house 2 3 0
+organ 3 3 1
+begun 1 5 0

@@ -1,0 +1,5 @@
+7 10 invention
+shaft 4 1 1
+lofty 1 5 0
+fishy 3 5 1
+chase 2 8 0

@@ -1,0 +1,5 @@
+6 8 swap
+froge 1 1 0
+etrse 5 1 1
+aromr 1 3 0
+ofamy 3 3 1

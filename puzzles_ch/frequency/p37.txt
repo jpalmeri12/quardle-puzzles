@@ -1,0 +1,5 @@
+6 6 frequency
+organ 2 1 1
+skier 5 1 1
+frock 1 2 0
+gauge 1 4 0

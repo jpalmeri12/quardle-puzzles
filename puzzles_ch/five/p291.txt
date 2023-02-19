@@ -1,0 +1,6 @@
+7 10 five
+debit 2 1 1
+royal 4 2 1
+abhor 1 3 0
+twang 2 5 0
+gaily 6 5 1

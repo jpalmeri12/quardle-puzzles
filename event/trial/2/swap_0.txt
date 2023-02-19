@@ -1,0 +1,5 @@
+7 10 swap
+ninaj 2 1 1
+ujdge 1 5 0
+drian 3 5 1
+knfie 2 9 0

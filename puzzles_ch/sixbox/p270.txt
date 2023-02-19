@@ -1,0 +1,7 @@
+8 8 sixbox
+cameo 3 1 1
+droit 5 1 1
+gumbo 1 3 0
+blurb 4 3 1
+elite 3 4 0
+about 1 5 0

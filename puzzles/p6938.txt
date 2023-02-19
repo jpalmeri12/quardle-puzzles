@@ -1,0 +1,5 @@
+7 10
+skiff 3 1 1
+offal 1 5 0
+angel 4 5 1
+tulip 2 9 0

@@ -1,0 +1,5 @@
+7 10
+sorry 5 1 1
+worry 2 3 0
+tardy 1 5 0
+think 1 5 1

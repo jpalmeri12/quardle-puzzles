@@ -1,0 +1,5 @@
+6 9
+paddy 1 1 0
+youth 5 1 1
+count 1 4 0
+catch 1 4 1

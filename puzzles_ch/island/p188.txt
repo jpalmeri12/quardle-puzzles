@@ -1,0 +1,6 @@
+6 10 island
+ultra 4 1 1
+papal 1 5 0
+poker 3 5 1
+maker 1 7 0
+!island 2111 21 32 221

@@ -1,0 +1,5 @@
+7 10
+waive 3 1 1
+dicey 2 3 0
+shell 1 5 0
+house 2 5 1

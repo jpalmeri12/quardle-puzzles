@@ -1,0 +1,5 @@
+7 10
+crimp 2 1 1
+villa 1 3 0
+proud 2 5 0
+rapid 3 5 1

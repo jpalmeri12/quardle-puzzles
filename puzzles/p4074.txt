@@ -1,0 +1,5 @@
+6 9
+golly 2 1 1
+slosh 1 4 0
+hazel 5 4 1
+issue 1 7 0

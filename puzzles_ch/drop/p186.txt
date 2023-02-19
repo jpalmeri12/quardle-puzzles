@@ -1,0 +1,6 @@
+7 10 drop
+ascot 1 1 0
+saute 2 1 1
+blown 4 3 1
+tally 2 4 0
+aunty 1 9 0

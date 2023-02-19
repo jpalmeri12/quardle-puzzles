@@ -1,0 +1,7 @@
+7 10 secretdistance
+augur 5 1 1
+stage 2 3 0
+terra 3 3 1
+purer 1 5 0
+spool 1 9 0
+!sdpos 3 0 2 1

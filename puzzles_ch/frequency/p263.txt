@@ -1,0 +1,5 @@
+7 8 frequency
+canon 5 1 1
+swing 2 3 0
+whirl 3 3 1
+onion 1 5 0

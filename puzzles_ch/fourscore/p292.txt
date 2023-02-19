@@ -1,0 +1,5 @@
+7 9 fourscore
+nymph 2 1 1
+cycle 1 2 0
+blast 4 4 1
+holly 2 5 0

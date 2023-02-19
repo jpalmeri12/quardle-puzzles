@@ -1,0 +1,5 @@
+6 9
+shone 1 1 1
+hovel 1 2 0
+needy 1 4 0
+edify 3 4 1

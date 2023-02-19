@@ -1,0 +1,5 @@
+7 10 elbowroom
+navel 6 1 1
+metal 2 5 0
+touch 4 5 1
+pence 1 8 0

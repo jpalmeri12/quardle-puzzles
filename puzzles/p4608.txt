@@ -1,0 +1,5 @@
+7 10
+minor 4 1 1
+shrew 2 5 0
+squib 2 5 1
+cinch 1 8 0

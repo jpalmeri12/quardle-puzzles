@@ -1,0 +1,5 @@
+7 9
+segue 6 1 1
+clone 2 4 1
+large 2 5 0
+peace 1 8 0

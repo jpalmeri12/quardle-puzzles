@@ -1,0 +1,6 @@
+6 12 five
+aglow 2 1 1
+augur 4 4 1
+awful 1 5 0
+tiara 2 7 1
+diary 1 8 0

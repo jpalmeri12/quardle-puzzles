@@ -1,0 +1,5 @@
+7 10 desync
+decor 1 1 0
+curio 3 1 1
+count 2 5 0
+tenet 6 5 1

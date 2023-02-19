@@ -1,0 +1,5 @@
+7 9
+theft 2 1 1
+beard 4 4 1
+theta 2 5 0
+outdo 1 8 0

@@ -1,0 +1,5 @@
+7 10 soundscramble
+human 1 1 0
+areso 4 1 1
+inopt 2 5 0
+ireny 2 5 1

@@ -1,0 +1,5 @@
+7 7
+betel 2 1 1
+beast 1 2 0
+tepee 5 2 1
+lever 2 5 0

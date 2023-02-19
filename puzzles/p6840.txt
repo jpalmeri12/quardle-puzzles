@@ -1,0 +1,5 @@
+6 7
+cobra 4 1 1
+rugby 1 2 1
+rotor 1 2 0
+guard 1 4 0

@@ -1,0 +1,5 @@
+6 6
+spelt 1 1 0
+saint 1 1 1
+eying 3 1 1
+ninth 1 4 0

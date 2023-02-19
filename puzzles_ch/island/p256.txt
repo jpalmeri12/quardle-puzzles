@@ -1,0 +1,6 @@
+7 10 island
+dance 1 1 1
+eater 1 5 0
+tipsy 3 5 1
+spear 2 7 0
+!island 311 31 2111 41

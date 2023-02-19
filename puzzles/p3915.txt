@@ -1,0 +1,5 @@
+7 9
+grope 5 1 1
+debar 1 2 0
+sling 2 4 1
+swept 2 4 0

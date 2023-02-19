@@ -1,0 +1,5 @@
+7 10 darkness
+spell 1 5 0
+stuff 2 3 0
+offal 5 1 1
+pinky 2 5 1

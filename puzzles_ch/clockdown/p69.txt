@@ -1,0 +1,5 @@
+6 7 clockdown
+cyber 5 1 1
+empty 1 2 0
+primo 3 2 1
+spire 1 4 0

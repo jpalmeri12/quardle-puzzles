@@ -1,0 +1,5 @@
+7 10
+bribe 2 1 0
+idiom 4 1 1
+balmy 1 5 0
+await 2 5 1

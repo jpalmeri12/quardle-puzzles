@@ -1,0 +1,6 @@
+7 8 island
+dough 5 1 1
+scrub 2 3 0
+crepe 3 3 1
+cream 1 7 0
+!island 311 11111 211 2111

@@ -1,0 +1,9 @@
+6 7 spellbound
+skate 5 1 1
+break 1 2 0
+ethic 3 2 1
+urine 1 5 0
+!spellbound 0 0 2
+!spellbound 1 0 1
+!spellbound 2 2 4
+!spellbound 3 3 1

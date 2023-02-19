@@ -1,0 +1,5 @@
+7 9 duplicity
+other 5 1 1
+forth 2 2 0
+tooth 1 4 1
+offer 1 5 0

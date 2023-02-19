@@ -1,0 +1,5 @@
+7 9
+swami 2 1 1
+waive 5 4 1
+viola 1 5 0
+heavy 2 7 0

@@ -1,0 +1,5 @@
+7 10
+drove 4 1 1
+easel 1 5 0
+stony 3 5 1
+angle 2 8 0

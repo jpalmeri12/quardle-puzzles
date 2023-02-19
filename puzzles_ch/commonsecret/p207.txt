@@ -1,0 +1,6 @@
+7 10 commonsecret
+amiss 4 1 1
+missy 2 5 0
+spill 5 5 1
+anvil 1 8 0
+!secret i

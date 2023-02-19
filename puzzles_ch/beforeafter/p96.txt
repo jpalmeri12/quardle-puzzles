@@ -1,0 +1,9 @@
+6 8 beforeafter
+purge 1 1 1
+rouge 5 3 1
+gecko 1 4 0
+pride 1 7 0
+!beforeafter 2 o
+!beforeafter 2 i
+!beforeafter 2 i
+!beforeafter 1 o

@@ -1,0 +1,5 @@
+7 9
+flyer 1 1 1
+extol 1 4 0
+train 3 4 1
+birth 2 7 0

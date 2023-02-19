@@ -1,0 +1,5 @@
+7 9 swap
+lieeg 3 1 1
+blizt 1 2 0
+lefin 2 4 0
+nager 6 4 1

@@ -1,0 +1,5 @@
+6 6 bestfit
+drool 2 1 1
+thorn 5 1 1
+crash 1 2 0
+corer 1 4 0

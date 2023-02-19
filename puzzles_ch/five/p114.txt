@@ -1,0 +1,6 @@
+6 10 five
+shalt 1 1 1
+wrong 5 4 1
+tutor 1 5 0
+uncut 2 5 1
+scion 1 7 0

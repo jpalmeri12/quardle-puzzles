@@ -1,0 +1,5 @@
+7 8 beta
+whack 5 1 1
+sever 3 3 1
+evoke 2 5 0
+feral 1 7 0

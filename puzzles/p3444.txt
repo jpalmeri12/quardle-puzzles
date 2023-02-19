@@ -1,0 +1,5 @@
+7 7
+jetty 6 1 1
+crime 2 2 1
+input 2 4 0
+weedy 1 6 0

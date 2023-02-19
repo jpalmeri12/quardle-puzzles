@@ -1,0 +1,6 @@
+7 10 five
+unlit 3 1 1
+shake 5 4 1
+itchy 2 5 0
+icily 2 5 1
+place 1 8 0

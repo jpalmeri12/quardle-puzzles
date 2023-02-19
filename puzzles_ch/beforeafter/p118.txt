@@ -1,0 +1,9 @@
+7 8 beforeafter
+bayou 1 1 0
+unwed 5 1 1
+speed 2 3 1
+pried 2 4 0
+!beforeafter 1 i
+!beforeafter 2 m
+!beforeafter 1 i
+!beforeafter 1 n

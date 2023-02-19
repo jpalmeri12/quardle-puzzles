@@ -1,0 +1,5 @@
+7 9 elbowroom
+cliff 1 1 1
+first 1 4 0
+sully 4 4 1
+rayon 2 8 0

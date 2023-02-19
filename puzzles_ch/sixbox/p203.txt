@@ -1,0 +1,7 @@
+8 8 sixbox
+drift 3 1 1
+carol 5 1 1
+flier 1 3 0
+eject 4 3 1
+fjord 3 4 0
+motel 1 5 0

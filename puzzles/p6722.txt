@@ -1,0 +1,5 @@
+6 10
+peach 4 1 1
+skirt 1 5 1
+sushi 1 5 0
+triad 1 9 0

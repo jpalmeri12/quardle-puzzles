@@ -1,0 +1,5 @@
+7 10
+yacht 2 1 1
+cable 2 3 0
+storm 1 5 0
+odder 3 5 1

@@ -1,0 +1,5 @@
+7 9 skyscrapers
+tibia 2 1 0
+bride 4 1 1
+candy 1 4 0
+curvy 1 4 1

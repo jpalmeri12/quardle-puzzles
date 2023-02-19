@@ -1,0 +1,6 @@
+7 10 undercover
+began 1 1 0
+grown 3 1 1
+glint 5 3 1
+swill 2 4 0
+mummy 1 9 0

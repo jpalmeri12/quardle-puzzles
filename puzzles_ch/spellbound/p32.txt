@@ -1,0 +1,9 @@
+7 9 spellbound
+spunk 1 1 1
+banal 4 4 1
+kebab 1 5 0
+drawn 2 7 0
+!spellbound 0 0 3
+!spellbound 1 4 2
+!spellbound 2 4 1
+!spellbound 3 1 4

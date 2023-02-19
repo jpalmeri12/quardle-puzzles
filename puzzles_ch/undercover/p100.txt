@@ -1,0 +1,6 @@
+7 10 undercover
+brave 1 1 0
+voter 4 1 1
+outdo 2 3 0
+ocean 2 3 1
+slimy 1 9 0

@@ -1,0 +1,6 @@
+7 9 wordcolumn
+scarf 2 1 0
+fixer 6 1 1
+cleat 2 4 1
+layer 2 5 0
+faint 1 7 0

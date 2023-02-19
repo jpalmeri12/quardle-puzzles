@@ -1,0 +1,5 @@
+6 10 swap
+viepr 4 1 1
+ewird 1 5 0
+inptu 3 5 1
+sopof 1 7 0

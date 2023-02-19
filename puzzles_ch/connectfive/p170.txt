@@ -1,0 +1,6 @@
+6 10 connectfive
+scree 5 1 1
+alibi 2 4 1
+glade 1 5 0
+decay 4 5 1
+aback 1 7 0

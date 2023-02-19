@@ -1,0 +1,5 @@
+6 10
+alone 2 1 1
+beefy 1 5 0
+bison 1 5 1
+nerdy 1 9 0

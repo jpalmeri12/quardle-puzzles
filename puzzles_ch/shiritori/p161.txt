@@ -1,0 +1,5 @@
+7 9 shiritori
+shoot 2 1 1
+roach 1 4 0
+chick 4 4 1
+focus 2 7 0

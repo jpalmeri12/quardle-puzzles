@@ -1,0 +1,5 @@
+7 9 dblltr
+salsa 1 1 1
+papal 5 4 1
+arena 1 5 0
+rebar 2 7 0

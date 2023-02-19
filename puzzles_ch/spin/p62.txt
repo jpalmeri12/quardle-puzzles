@@ -1,0 +1,5 @@
+6 7 spin
+diner 2 1 1
+diary 1 2 0
+yeast 5 2 1
+cress 1 5 0

@@ -1,0 +1,5 @@
+7 9
+bowel 2 1 0
+often 3 1 1
+swept 1 4 0
+segue 1 4 1

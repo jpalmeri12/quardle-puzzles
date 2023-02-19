@@ -1,0 +1,5 @@
+6 9
+major 1 1 1
+mange 1 1 0
+elope 3 4 1
+relic 1 5 0

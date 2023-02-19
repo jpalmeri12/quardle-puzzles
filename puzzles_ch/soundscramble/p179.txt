@@ -1,0 +1,5 @@
+7 10 soundscramble
+whaet 5 1 1
+aetar 2 3 0
+sheft 1 5 0
+sling 1 5 1

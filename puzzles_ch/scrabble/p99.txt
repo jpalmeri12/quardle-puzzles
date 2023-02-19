@@ -1,0 +1,5 @@
+7 9 scrabble
+scone 3 1 1
+knoll 2 4 0
+leggy 5 4 1
+gecko 1 2 0

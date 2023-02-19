@@ -1,0 +1,5 @@
+7 8 dblltr
+error 1 1 0
+rabbi 3 1 1
+abase 2 3 0
+segue 5 3 1

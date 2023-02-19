@@ -1,0 +1,5 @@
+7 9
+sport 4 1 1
+shrug 2 4 0
+smelt 2 4 1
+along 1 7 0

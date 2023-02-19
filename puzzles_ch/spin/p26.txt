@@ -1,0 +1,5 @@
+7 9 spin
+share 5 1 1
+retch 1 2 0
+swirl 2 4 0
+wordy 3 4 1

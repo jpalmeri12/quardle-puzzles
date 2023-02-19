@@ -1,0 +1,7 @@
+6 9 secretdistance
+ficus 3 1 1
+bliss 1 2 0
+swear 5 2 1
+haute 1 4 0
+basic 1 8 0
+!sdpos 1 0 1 2

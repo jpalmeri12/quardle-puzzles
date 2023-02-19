@@ -1,0 +1,6 @@
+7 10 island
+forgo 4 1 1
+merry 1 3 0
+agony 2 5 0
+grove 3 5 1
+!island 31 211 2111 221

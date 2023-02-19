@@ -1,0 +1,6 @@
+6 12 wordcolumn
+blurb 1 1 1
+agate 4 4 1
+bingo 1 5 0
+sixth 1 7 0
+iliac 2 7 1

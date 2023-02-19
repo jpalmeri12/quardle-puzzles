@@ -1,0 +1,5 @@
+7 9
+alone 4 1 1
+vault 1 2 0
+banal 2 4 0
+lever 6 4 1

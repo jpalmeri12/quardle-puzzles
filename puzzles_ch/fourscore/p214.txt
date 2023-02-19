@@ -1,0 +1,5 @@
+6 7 fourscore
+enjoy 3 1 1
+screw 1 2 1
+sandy 1 2 0
+roost 1 4 0

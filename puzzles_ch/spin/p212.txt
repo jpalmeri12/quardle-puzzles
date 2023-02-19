@@ -1,0 +1,5 @@
+7 10 spin
+vinyl 4 1 1
+amiss 2 2 0
+wryly 1 5 0
+react 2 5 1

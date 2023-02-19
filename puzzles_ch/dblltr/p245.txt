@@ -1,0 +1,5 @@
+7 10 dblltr
+tryst 2 1 1
+nylon 1 3 0
+treat 2 5 0
+enemy 4 5 1

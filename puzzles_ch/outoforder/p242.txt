@@ -1,0 +1,5 @@
+7 9 outoforder
+wimpy 6 1 1
+stump 2 4 0
+tabby 3 4 1
+cable 1 7 0

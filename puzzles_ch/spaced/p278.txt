@@ -1,0 +1,5 @@
+6 7 spaced
+carve 3 1 1
+slain 1 2 0
+shack 1 2 1
+cream 1 5 0

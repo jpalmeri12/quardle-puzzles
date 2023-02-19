@@ -1,0 +1,6 @@
+6 9 island
+opium 1 1 0
+prowl 2 1 1
+sweep 1 4 0
+pulpy 5 4 1
+!island 41 311 31 22

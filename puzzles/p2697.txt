@@ -1,0 +1,5 @@
+7 10
+break 1 1 0
+eking 3 1 1
+agile 2 5 0
+input 4 5 1

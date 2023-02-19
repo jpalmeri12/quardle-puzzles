@@ -1,0 +1,5 @@
+7 10 outoforder
+delta 3 1 1
+stave 1 5 0
+thyme 2 5 1
+exalt 2 9 0

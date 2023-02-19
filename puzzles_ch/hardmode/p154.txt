@@ -1,0 +1,5 @@
+7 10 hardmode
+quasi 4 1 1
+fatal 1 3 0
+drier 2 5 0
+drake 2 5 1

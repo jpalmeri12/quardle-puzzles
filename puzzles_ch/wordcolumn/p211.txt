@@ -1,0 +1,6 @@
+7 11 wordcolumn
+shrub 1 1 1
+creme 4 2 1
+upper 1 4 0
+bleak 2 6 0
+kayak 6 6 1

@@ -1,0 +1,6 @@
+7 10 wordcolumn
+endow 2 1 1
+radii 5 3 1
+tweed 1 5 0
+exact 3 5 1
+stout 2 9 0

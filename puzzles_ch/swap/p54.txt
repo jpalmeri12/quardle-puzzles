@@ -1,0 +1,5 @@
+7 7 swap
+embre 3 1 1
+imssy 2 2 0
+sclap 5 2 1
+creka 1 5 0

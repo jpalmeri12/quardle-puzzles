@@ -1,0 +1,5 @@
+7 10 fourscore
+vapor 2 1 1
+erupt 1 5 0
+plumb 4 5 1
+azure 2 7 0

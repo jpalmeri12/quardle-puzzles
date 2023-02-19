@@ -1,0 +1,5 @@
+7 9
+navel 6 1 1
+habit 2 4 1
+hence 2 4 0
+final 1 7 0

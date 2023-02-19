@@ -1,0 +1,5 @@
+6 6
+blown 1 1 0
+beget 1 1 1
+wince 4 1 1
+tried 1 5 0

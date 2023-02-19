@@ -1,0 +1,6 @@
+7 9 five
+rumba 5 1 1
+bayou 1 2 0
+scrub 1 4 0
+craze 2 4 1
+elude 2 8 0

@@ -1,0 +1,6 @@
+7 10 five
+steel 1 1 1
+inter 3 1 1
+lyric 1 5 0
+idler 4 5 1
+filer 2 7 0

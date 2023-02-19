@@ -1,0 +1,6 @@
+6 10 island
+logic 1 1 1
+opium 1 2 0
+craze 1 5 0
+alarm 3 5 1
+!island 311 41 221 1111

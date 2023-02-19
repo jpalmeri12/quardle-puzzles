@@ -1,0 +1,6 @@
+6 10 commonsecret
+snarl 4 1 1
+salad 1 3 0
+aptly 1 5 0
+title 3 5 1
+!secret l

@@ -1,0 +1,5 @@
+6 10 invention
+sumac 1 1 0
+chaff 5 1 1
+gruff 1 5 0
+razor 2 5 1

@@ -1,0 +1,5 @@
+6 9 soundscramble
+snial 3 1 1
+ipnei 1 2 0
+lyang 1 4 0
+liyer 1 4 1

@@ -1,0 +1,5 @@
+7 10 spaced
+askew 2 1 1
+whose 2 5 0
+snail 5 5 1
+swami 1 8 0

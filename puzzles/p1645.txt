@@ -1,0 +1,5 @@
+7 9
+lodge 5 1 1
+axion 2 2 0
+steal 1 4 1
+theme 1 5 0

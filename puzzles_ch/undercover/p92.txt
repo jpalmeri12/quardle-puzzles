@@ -1,0 +1,6 @@
+7 11 undercover
+pasty 1 1 0
+trunk 4 1 1
+mince 2 4 0
+eying 6 4 1
+flood 1 10 0

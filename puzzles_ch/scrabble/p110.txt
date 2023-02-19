@@ -1,0 +1,5 @@
+7 8 scrabble
+spell 2 1 1
+leery 2 4 0
+right 1 7 0
+heath 4 3 1

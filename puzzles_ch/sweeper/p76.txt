@@ -1,0 +1,5 @@
+7 10 sweeper
+hutch 3 1 1
+chasm 2 5 0
+camel 2 5 1
+fecal 1 8 0

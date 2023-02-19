@@ -1,0 +1,5 @@
+7 9 fourscore
+drama 5 1 1
+balmy 2 4 0
+abase 3 4 1
+gusty 1 7 0

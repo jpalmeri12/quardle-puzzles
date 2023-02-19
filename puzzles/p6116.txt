@@ -1,0 +1,5 @@
+7 9
+vowel 3 1 1
+drown 1 2 0
+fetid 2 4 0
+dowel 6 4 1

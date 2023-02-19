@@ -1,0 +1,9 @@
+6 10 spellbound
+swore 5 1 1
+acute 1 5 0
+comic 2 5 1
+smoke 1 7 0
+!spellbound 0 2 0
+!spellbound 1 0 3
+!spellbound 2 1 4
+!spellbound 3 2 3

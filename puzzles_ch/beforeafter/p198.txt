@@ -1,0 +1,9 @@
+7 10 beforeafter
+elbow 2 1 1
+flout 1 2 0
+wrong 2 5 0
+rouge 3 5 1
+!beforeafter 2 m
+!beforeafter 2 r
+!beforeafter 1 p
+!beforeafter 2 m

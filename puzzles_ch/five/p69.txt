@@ -1,0 +1,6 @@
+6 10 five
+about 1 1 1
+shake 4 2 1
+ought 1 3 0
+tacky 1 5 0
+abase 2 5 1

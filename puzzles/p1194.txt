@@ -1,0 +1,5 @@
+7 8
+thyme 6 1 1
+crock 4 3 1
+serum 2 4 0
+react 1 6 0

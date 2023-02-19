@@ -1,0 +1,5 @@
+7 9 outoforder
+ulcer 6 1 1
+rinse 2 4 0
+radii 2 4 1
+admin 1 6 0

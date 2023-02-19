@@ -1,0 +1,7 @@
+7 12 secretdistance
+shelf 2 1 1
+flail 2 5 0
+inbox 5 5 1
+rehab 1 7 0
+thick 1 11 0
+!sdpos 3 2 1 3

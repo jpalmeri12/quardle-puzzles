@@ -1,0 +1,5 @@
+6 7 frequency
+dolly 2 1 1
+condo 1 2 0
+dingy 4 2 1
+clank 1 4 0

@@ -1,0 +1,7 @@
+6 11 secretdistance
+rumba 1 1 1
+blast 1 4 0
+shunt 4 4 1
+smote 1 8 0
+moist 1 10 0
+!sdpos 3 0 3 1

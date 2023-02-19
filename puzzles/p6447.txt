@@ -1,0 +1,5 @@
+6 9
+cloud 1 1 0
+uncle 4 1 1
+dimly 1 4 0
+dwelt 1 4 1

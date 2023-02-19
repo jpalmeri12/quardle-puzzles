@@ -1,0 +1,6 @@
+7 11 drop
+ovary 6 1 1
+rower 2 4 0
+wheat 4 4 1
+miner 1 6 0
+arrow 1 10 0

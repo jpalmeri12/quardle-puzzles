@@ -1,0 +1,5 @@
+7 8
+pupal 5 1 1
+total 3 3 1
+quota 1 4 0
+flack 2 7 0

@@ -1,0 +1,5 @@
+6 9 unloved
+fairy 1 1 1
+abort 1 2 0
+riper 1 4 0
+elbow 4 4 1

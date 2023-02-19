@@ -1,0 +1,5 @@
+7 10
+sigma 1 1 0
+meaty 4 1 1
+kayak 2 5 0
+knack 2 5 1

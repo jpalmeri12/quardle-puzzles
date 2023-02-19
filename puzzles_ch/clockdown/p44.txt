@@ -1,0 +1,5 @@
+6 8 clockdown
+sugar 4 1 1
+hitch 1 3 1
+hinge 1 3 0
+teary 1 5 0

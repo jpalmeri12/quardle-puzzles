@@ -1,0 +1,5 @@
+7 9 clockdown
+cache 5 1 1
+grove 2 4 1
+riper 2 5 0
+seedy 1 8 0

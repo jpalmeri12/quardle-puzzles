@@ -1,0 +1,6 @@
+7 10 island
+stash 6 1 1
+blush 2 5 0
+stank 5 5 1
+zebra 1 7 0
+!island 211 311 2111 221

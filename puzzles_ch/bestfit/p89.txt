@@ -1,0 +1,5 @@
+6 10 bestfit
+topaz 5 1 1
+waltz 1 5 0
+leapt 3 5 1
+ample 1 8 0

@@ -1,0 +1,6 @@
+7 11 five
+climb 6 1 1
+shall 2 2 0
+aloof 4 2 1
+drift 1 6 0
+taker 5 6 1

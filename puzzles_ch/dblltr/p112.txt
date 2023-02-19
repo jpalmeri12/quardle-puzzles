@@ -1,0 +1,5 @@
+7 9 dblltr
+cynic 1 1 0
+noose 3 1 1
+swash 6 4 1
+renew 2 5 0

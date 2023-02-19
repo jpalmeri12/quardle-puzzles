@@ -1,0 +1,5 @@
+6 9
+sleet 1 1 0
+eagle 4 1 1
+still 1 4 0
+trunk 2 4 1

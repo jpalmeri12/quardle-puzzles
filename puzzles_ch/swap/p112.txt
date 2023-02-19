@@ -1,0 +1,5 @@
+7 10 swap
+flokc 2 1 1
+fbire 2 1 0
+scuab 1 5 0
+bluly 5 5 1

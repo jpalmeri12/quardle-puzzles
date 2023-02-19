@@ -1,0 +1,5 @@
+7 10
+blade 5 1 1
+ankle 1 5 0
+knead 3 5 1
+medal 2 7 0

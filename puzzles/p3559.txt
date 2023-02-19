@@ -1,0 +1,5 @@
+7 9
+crash 4 1 1
+gorge 2 2 0
+gipsy 1 4 0
+golem 1 4 1

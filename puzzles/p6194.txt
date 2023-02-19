@@ -1,0 +1,5 @@
+7 10
+comfy 2 1 0
+mince 4 1 1
+waver 1 5 0
+witty 1 5 1

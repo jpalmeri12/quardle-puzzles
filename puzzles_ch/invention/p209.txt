@@ -1,0 +1,5 @@
+7 7 invention
+comfy 4 1 1
+snoop 1 2 0
+noose 2 2 1
+offer 2 4 0

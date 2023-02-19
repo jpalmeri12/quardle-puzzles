@@ -1,0 +1,5 @@
+6 9 altending
+forgo 1 1 0
+outer 1 3 0
+truly 1 5 0
+scary 1 7 0

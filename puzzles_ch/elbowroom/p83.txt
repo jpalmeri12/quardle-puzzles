@@ -1,0 +1,5 @@
+7 9 elbowroom
+showy 2 1 0
+women 5 1 1
+argue 1 4 0
+genie 3 4 1

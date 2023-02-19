@@ -1,0 +1,5 @@
+7 10 frequency
+fauna 2 1 1
+fjord 2 1 0
+maple 1 5 0
+login 4 5 1

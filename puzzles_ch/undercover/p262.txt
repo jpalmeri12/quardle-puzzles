@@ -1,0 +1,6 @@
+6 11 undercover
+arson 4 1 1
+shard 1 2 0
+whoop 1 4 0
+wight 1 4 1
+mummy 1 10 0

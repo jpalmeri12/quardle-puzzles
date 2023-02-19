@@ -1,0 +1,5 @@
+7 10
+datum 5 1 1
+steam 1 5 0
+tower 2 5 1
+witty 2 7 0

@@ -1,0 +1,5 @@
+7 9 sweeper
+fleet 2 1 1
+lease 2 2 0
+demon 1 4 0
+obese 4 4 1

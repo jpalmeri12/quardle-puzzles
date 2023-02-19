@@ -1,0 +1,5 @@
+7 10
+whiff 6 1 1
+proof 2 5 0
+onion 5 5 1
+forgo 1 8 0

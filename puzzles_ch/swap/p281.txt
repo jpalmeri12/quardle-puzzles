@@ -1,0 +1,5 @@
+7 10 swap
+uplpy 5 1 1
+soayp 1 2 0
+busyh 2 5 0
+biltz 2 5 1

@@ -1,0 +1,6 @@
+8 10 five
+annex 1 5 0
+epoxy 3 4 0
+ennui 3 4 1
+coupe 4 1 1
+oxide 5 4 1

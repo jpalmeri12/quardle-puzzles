@@ -1,0 +1,6 @@
+6 8 squaredance
+count 1 1 1
+manly 5 1 1
+charm 1 1 0
+toddy 1 5 0
+dress 1 7 0

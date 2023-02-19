@@ -1,0 +1,5 @@
+7 9 shiritori
+robot 2 1 1
+poppy 1 2 0
+duchy 4 4 1
+tough 2 5 0

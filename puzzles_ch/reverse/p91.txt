@@ -1,0 +1,5 @@
+6 6 reverse
+riper 2 1 1
+ediug 5 1 1
+vivid 1 2 0
+tesnu 1 4 0

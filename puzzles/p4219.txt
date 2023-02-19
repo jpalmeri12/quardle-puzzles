@@ -1,0 +1,5 @@
+7 9
+buxom 2 1 1
+unite 4 4 1
+among 1 5 0
+sneak 2 8 0

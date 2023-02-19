@@ -1,0 +1,5 @@
+7 10
+quark 6 1 1
+click 2 5 0
+cough 2 5 1
+agent 1 8 0

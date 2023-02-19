@@ -1,0 +1,5 @@
+7 10
+rough 2 1 1
+habit 2 5 0
+arson 3 5 1
+vista 1 7 0

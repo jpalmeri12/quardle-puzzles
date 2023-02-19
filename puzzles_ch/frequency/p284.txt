@@ -1,0 +1,5 @@
+7 10 frequency
+motto 2 1 1
+dogma 1 5 0
+mucky 4 5 1
+baker 2 8 0

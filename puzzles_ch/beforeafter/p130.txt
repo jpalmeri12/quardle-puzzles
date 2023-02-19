@@ -1,0 +1,9 @@
+7 7 beforeafter
+surge 1 1 1
+style 3 2 1
+gayly 1 4 0
+belly 2 6 0
+!beforeafter 2 p
+!beforeafter 2 m
+!beforeafter 1 j
+!beforeafter 1 i

@@ -1,0 +1,5 @@
+7 8 fourscore
+talon 2 1 0
+lathe 4 1 1
+pesto 1 3 0
+exalt 2 3 1

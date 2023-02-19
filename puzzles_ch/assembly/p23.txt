@@ -1,0 +1,5 @@
+6 10 assembly
+mania 1 3 1
+grief 5 3 1
+mange 1 1 0
+aloft 1 9 0

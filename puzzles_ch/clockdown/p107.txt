@@ -1,0 +1,5 @@
+6 8 clockdown
+cress 1 1 0
+rigor 2 1 1
+syrup 5 3 1
+loamy 1 4 0

@@ -1,0 +1,5 @@
+6 9
+train 1 1 1
+incur 1 4 0
+cavil 3 4 1
+opine 1 7 0

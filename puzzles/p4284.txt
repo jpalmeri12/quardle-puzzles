@@ -1,0 +1,5 @@
+6 8
+gummy 1 1 1
+poser 4 3 1
+mason 1 4 0
+share 1 7 0

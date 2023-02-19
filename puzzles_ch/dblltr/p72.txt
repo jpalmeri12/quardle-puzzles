@@ -1,0 +1,5 @@
+7 9 dblltr
+golly 5 1 1
+krill 1 4 0
+inner 3 4 1
+greet 2 8 0

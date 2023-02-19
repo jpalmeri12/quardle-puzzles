@@ -1,0 +1,5 @@
+7 10
+dried 3 1 1
+adult 2 5 0
+afoot 2 5 1
+gourd 1 8 0

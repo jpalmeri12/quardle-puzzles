@@ -1,0 +1,9 @@
+7 10 beforeafter
+banjo 4 1 1
+steam 1 2 0
+stole 2 5 0
+ebony 6 5 1
+!beforeafter 1 i
+!beforeafter 1 o
+!beforeafter 2 n
+!beforeafter 1 j

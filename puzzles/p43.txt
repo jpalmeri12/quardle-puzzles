@@ -1,0 +1,5 @@
+7 10
+using 3 1 1
+visit 1 2 0
+agate 2 5 0
+edify 6 5 1

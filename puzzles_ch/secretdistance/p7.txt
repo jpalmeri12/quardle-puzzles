@@ -1,0 +1,7 @@
+6 10 secretdistance
+prior 2 1 1
+adopt 5 3 1
+bound 1 4 0
+abort 1 7 0
+regal 1 9 0
+!sdpos 2 1 0 3

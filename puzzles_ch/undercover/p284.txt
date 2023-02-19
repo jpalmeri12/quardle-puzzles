@@ -1,0 +1,6 @@
+7 12 undercover
+papal 2 1 1
+poesy 2 1 0
+bleat 1 5 0
+terse 5 5 1
+chick 1 11 0

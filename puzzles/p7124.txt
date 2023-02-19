@@ -1,0 +1,5 @@
+7 8
+woven 1 1 0
+vague 3 1 1
+aglow 2 3 0
+wrist 6 3 1

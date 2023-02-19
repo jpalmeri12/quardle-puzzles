@@ -1,0 +1,9 @@
+6 9 spellbound
+lilac 1 1 1
+vying 3 4 1
+coyly 1 5 0
+mogul 1 8 0
+!spellbound 0 2 3
+!spellbound 1 2 3
+!spellbound 2 1 4
+!spellbound 3 1 0

@@ -1,0 +1,5 @@
+7 8
+surly 5 1 1
+radii 3 3 1
+pearl 1 4 0
+minim 2 7 0

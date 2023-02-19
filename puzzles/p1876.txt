@@ -1,0 +1,5 @@
+7 10
+grass 5 1 1
+rebus 1 5 0
+unfed 4 5 1
+defer 2 7 0

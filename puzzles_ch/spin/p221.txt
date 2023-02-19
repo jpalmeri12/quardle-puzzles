@@ -1,0 +1,5 @@
+7 10 spin
+queen 3 1 1
+snout 2 5 0
+swift 2 5 1
+staff 1 9 0

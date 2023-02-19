@@ -1,0 +1,5 @@
+7 9 reverse
+inlet 2 1 1
+nexaw 2 2 0
+ought 5 4 1
+ytinu 1 5 0

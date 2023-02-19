@@ -1,0 +1,5 @@
+6 6 bestfit
+aloft 1 1 1
+antic 1 1 0
+craft 5 1 1
+fluff 1 4 0

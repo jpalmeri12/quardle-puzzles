@@ -1,0 +1,6 @@
+6 11 drop
+gripe 4 1 1
+rifle 2 4 1
+diver 1 5 0
+slang 1 7 0
+learn 1 10 0

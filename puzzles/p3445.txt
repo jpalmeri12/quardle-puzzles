@@ -1,0 +1,5 @@
+7 9
+valet 2 1 1
+bleat 5 4 1
+atoll 1 5 0
+stray 2 7 0

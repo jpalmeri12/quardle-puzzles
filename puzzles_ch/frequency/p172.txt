@@ -1,0 +1,5 @@
+7 9 frequency
+cleft 2 1 1
+skunk 4 4 1
+token 2 5 0
+eying 1 7 0

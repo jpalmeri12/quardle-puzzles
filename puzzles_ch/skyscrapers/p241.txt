@@ -1,0 +1,5 @@
+7 10 skyscrapers
+zesty 1 5 0
+wordy 5 1 1
+drawn 2 1 0
+study 3 5 1

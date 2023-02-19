@@ -1,0 +1,7 @@
+6 11 secretdistance
+viola 1 1 0
+alpha 5 1 1
+truth 1 4 0
+tally 1 4 1
+outgo 1 10 0
+!sdpos 1 2 2 3

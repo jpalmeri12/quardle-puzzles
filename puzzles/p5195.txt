@@ -1,0 +1,5 @@
+7 10
+embed 2 1 1
+adopt 1 5 0
+trade 5 5 1
+reedy 2 8 0

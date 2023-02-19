@@ -1,0 +1,5 @@
+7 10 dblltr
+missy 2 1 0
+skiff 4 1 1
+puffy 1 5 0
+floor 3 5 1

@@ -1,0 +1,5 @@
+6 8
+shire 1 1 0
+ester 5 1 1
+beset 3 3 1
+theme 1 4 0

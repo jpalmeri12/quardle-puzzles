@@ -1,0 +1,5 @@
+7 10 unloved
+shire 5 1 1
+movie 1 5 0
+verge 3 5 1
+gravy 2 7 0

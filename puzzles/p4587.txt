@@ -1,0 +1,5 @@
+6 6
+amber 1 1 0
+breed 3 1 1
+repay 5 1 1
+hyena 1 4 0

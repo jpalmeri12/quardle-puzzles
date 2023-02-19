@@ -1,0 +1,6 @@
+6 9 undercover
+swath 3 1 1
+vital 1 2 1
+vowel 1 2 0
+abhor 1 5 0
+pygmy 1 8 0

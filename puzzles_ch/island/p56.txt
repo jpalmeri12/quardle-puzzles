@@ -1,0 +1,6 @@
+7 10 island
+mamma 1 1 0
+alarm 2 1 1
+mange 2 5 0
+exist 6 5 1
+!island 11 1111 2111 311

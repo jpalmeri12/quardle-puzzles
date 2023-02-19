@@ -1,0 +1,5 @@
+7 9
+sheen 4 1 1
+sight 1 2 0
+sauce 2 4 1
+scene 2 4 0

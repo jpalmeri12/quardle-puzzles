@@ -1,0 +1,5 @@
+7 10
+cling 1 1 0
+niche 4 1 1
+cheek 2 5 0
+kneed 6 5 1

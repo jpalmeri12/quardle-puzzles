@@ -1,0 +1,5 @@
+7 9
+vaunt 1 1 0
+trite 5 1 1
+haste 2 4 0
+hound 2 4 1

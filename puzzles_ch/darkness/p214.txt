@@ -1,0 +1,5 @@
+7 9 darkness
+laugh 5 1 1
+charm 2 4 1
+pedal 2 2 0
+icing 1 4 0

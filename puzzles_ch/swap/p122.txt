@@ -1,0 +1,5 @@
+7 8 swap
+agnig 3 1 1
+idngy 1 3 0
+yaest 5 3 1
+rguel 2 5 0

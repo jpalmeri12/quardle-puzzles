@@ -1,0 +1,6 @@
+7 10 five
+risky 4 1 1
+issue 2 3 0
+satyr 1 5 0
+about 2 5 1
+realm 5 5 1

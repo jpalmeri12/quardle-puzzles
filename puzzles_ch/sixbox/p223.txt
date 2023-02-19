@@ -1,0 +1,7 @@
+8 8 sixbox
+trust 3 1 1
+their 5 1 1
+gouge 1 3 0
+ghoul 4 3 1
+shine 3 4 0
+rotor 1 5 0

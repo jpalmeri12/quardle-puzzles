@@ -1,0 +1,9 @@
+6 9 beforeafter
+bossy 1 1 0
+stank 3 1 1
+tulip 1 4 1
+tonic 1 4 0
+!beforeafter 1 r
+!beforeafter 1 r
+!beforeafter 1 r
+!beforeafter 2 l

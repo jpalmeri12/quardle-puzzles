@@ -1,0 +1,6 @@
+7 9 island
+cheek 5 1 1
+duchy 2 2 0
+aside 1 4 1
+stuck 1 5 0
+!island 1111 32 41 11111

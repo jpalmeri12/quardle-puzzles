@@ -1,0 +1,6 @@
+7 10 undercover
+cress 3 1 1
+zebra 2 3 0
+ready 5 3 1
+pasta 1 5 0
+owing 1 9 0

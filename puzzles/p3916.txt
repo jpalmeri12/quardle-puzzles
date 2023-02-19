@@ -1,0 +1,5 @@
+6 6
+incur 1 1 0
+naive 2 1 1
+ultra 4 1 1
+decal 1 5 0

@@ -1,0 +1,5 @@
+7 9
+bleed 4 1 1
+solid 2 2 0
+widen 1 4 0
+incur 2 4 1

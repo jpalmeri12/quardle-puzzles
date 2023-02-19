@@ -1,0 +1,5 @@
+7 10
+pinch 2 1 0
+caddy 5 1 1
+filmy 1 5 0
+morph 4 5 1

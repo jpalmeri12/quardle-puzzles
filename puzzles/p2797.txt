@@ -1,0 +1,5 @@
+6 9
+patty 3 1 1
+botch 1 4 0
+bongo 1 4 1
+optic 1 8 0

@@ -1,0 +1,6 @@
+6 9 undercover
+dealt 2 1 1
+ashen 4 2 1
+cause 1 3 0
+ether 1 5 0
+fizzy 1 8 0

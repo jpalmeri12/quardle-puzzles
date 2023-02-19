@@ -1,0 +1,5 @@
+6 6 reverse
+ytfol 1 1 0
+fight 3 1 1
+lease 5 1 1
+retne 1 5 0

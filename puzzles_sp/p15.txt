@@ -1,0 +1,5 @@
+7 8 skyscrapers
+virus 4 1 1
+rerun 2 3 0
+raspy 2 3 1
+curvy 1 1 0

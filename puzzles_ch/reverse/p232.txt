@@ -1,0 +1,5 @@
+6 6 reverse
+enalp 1 1 0
+abate 3 1 1
+pmots 5 1 1
+octet 1 4 0

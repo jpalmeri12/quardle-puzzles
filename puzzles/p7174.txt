@@ -1,0 +1,5 @@
+7 10
+spite 4 1 1
+nadir 1 3 0
+quest 2 5 0
+quiet 2 5 1

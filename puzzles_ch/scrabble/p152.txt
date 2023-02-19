@@ -1,0 +1,5 @@
+7 9 scrabble
+unite 3 4 1
+rigor 6 1 1
+curio 2 4 0
+ditch 1 7 0

@@ -1,0 +1,5 @@
+7 8 frequency
+crush 2 1 1
+clack 2 1 0
+fussy 1 3 0
+young 5 3 1

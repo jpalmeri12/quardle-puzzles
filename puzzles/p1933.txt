@@ -1,0 +1,5 @@
+7 9
+pasty 6 1 1
+flier 4 4 1
+rally 2 5 0
+sewer 1 7 0

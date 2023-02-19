@@ -1,0 +1,5 @@
+7 8
+showy 5 1 1
+cramp 3 3 1
+brawl 2 4 0
+gipsy 1 7 0

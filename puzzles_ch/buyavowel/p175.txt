@@ -1,0 +1,5 @@
+7 9 buyavowel
+clear 4 1 1
+chili 1 2 0
+hymen 6 4 1
+wordy 2 5 0

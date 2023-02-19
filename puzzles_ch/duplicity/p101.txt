@@ -1,0 +1,5 @@
+7 9 duplicity
+chaff 1 1 1
+atoll 4 4 1
+froth 1 5 0
+color 2 7 0

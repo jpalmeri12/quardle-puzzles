@@ -1,0 +1,6 @@
+7 9 wordcolumn
+chart 5 1 1
+pushy 2 2 0
+never 1 4 0
+nasal 1 4 1
+venom 3 4 1

@@ -1,0 +1,5 @@
+7 10 dblltr
+kappa 3 1 1
+cache 2 5 0
+comic 2 5 1
+octet 1 9 0

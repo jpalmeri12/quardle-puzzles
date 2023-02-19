@@ -1,0 +1,5 @@
+7 7 darkness
+wrest 4 2 1
+patch 2 6 0
+melee 1 4 0
+plump 1 1 1

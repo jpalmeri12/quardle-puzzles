@@ -1,0 +1,9 @@
+6 6 spellbound
+rouse 2 1 1
+nerdy 5 1 1
+horde 1 2 0
+perky 1 5 0
+!spellbound 0 3 0
+!spellbound 1 3 0
+!spellbound 2 0 2
+!spellbound 3 0 3

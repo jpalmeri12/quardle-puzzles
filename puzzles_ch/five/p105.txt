@@ -1,0 +1,6 @@
+7 10 five
+crowd 4 1 1
+irony 2 3 0
+ionic 2 3 1
+anode 1 5 0
+exert 5 5 1

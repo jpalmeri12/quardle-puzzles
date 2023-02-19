@@ -1,0 +1,5 @@
+7 9 shiritori
+glass 1 1 0
+swarm 5 1 1
+shalt 3 4 1
+thumb 2 5 0

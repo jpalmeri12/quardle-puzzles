@@ -1,0 +1,5 @@
+7 7 spin
+polyp 1 1 1
+ozone 1 2 0
+ought 3 2 1
+start 2 6 0

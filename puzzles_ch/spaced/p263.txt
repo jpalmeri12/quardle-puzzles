@@ -1,0 +1,5 @@
+7 9 spaced
+wench 2 1 1
+octal 4 4 1
+whack 1 5 0
+heavy 2 7 0

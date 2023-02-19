@@ -1,0 +1,5 @@
+7 10
+chaff 2 1 1
+shrug 1 2 0
+folio 2 5 0
+oddly 3 5 1

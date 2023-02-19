@@ -1,0 +1,5 @@
+7 10 buyavowel
+might 4 1 1
+lodge 1 3 0
+after 2 5 0
+fungi 3 5 1

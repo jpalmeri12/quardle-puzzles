@@ -1,0 +1,5 @@
+7 10
+owner 6 1 1
+ruder 2 5 0
+ranch 2 5 1
+shape 1 9 0

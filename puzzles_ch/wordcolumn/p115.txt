@@ -1,0 +1,6 @@
+6 9 wordcolumn
+navel 5 1 1
+spasm 1 3 1
+probe 1 4 0
+optic 3 4 1
+maize 1 7 0

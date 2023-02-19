@@ -1,0 +1,5 @@
+7 9
+beech 5 1 1
+conch 2 4 0
+onion 3 4 1
+boost 1 7 0

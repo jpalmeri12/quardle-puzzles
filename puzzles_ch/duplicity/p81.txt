@@ -1,0 +1,5 @@
+7 9 duplicity
+filly 4 1 1
+agile 1 4 0
+grief 2 4 1
+early 2 7 0

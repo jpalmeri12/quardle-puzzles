@@ -1,0 +1,5 @@
+7 8
+graze 2 1 0
+zesty 5 1 1
+biome 3 3 1
+waist 1 4 0

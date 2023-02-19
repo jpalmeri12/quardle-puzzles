@@ -1,0 +1,5 @@
+7 9
+truly 6 1 1
+cramp 4 4 1
+spray 2 5 0
+mammy 1 7 0

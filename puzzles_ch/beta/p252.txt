@@ -1,0 +1,5 @@
+6 9 beta
+swami 3 1 1
+valet 1 4 1
+axial 1 5 0
+every 1 7 0

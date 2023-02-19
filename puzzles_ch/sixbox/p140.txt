@@ -1,0 +1,7 @@
+8 8 sixbox
+digit 3 1 1
+heron 5 1 1
+vigor 1 3 0
+overt 4 3 1
+ivory 3 4 0
+often 1 5 0

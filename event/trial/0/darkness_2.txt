@@ -1,0 +1,5 @@
+7 10 darkness
+fauna 1 3 0
+knead 5 5 1
+perky 2 5 0
+stamp 2 1 1

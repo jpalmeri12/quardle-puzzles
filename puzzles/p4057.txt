@@ -1,0 +1,5 @@
+7 10
+hotly 4 1 1
+baton 2 3 0
+polyp 1 5 0
+prism 5 5 1

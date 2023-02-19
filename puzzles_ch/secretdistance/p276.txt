@@ -1,0 +1,7 @@
+7 10 secretdistance
+taboo 4 1 1
+judge 2 3 1
+idiom 1 5 0
+enter 2 7 0
+fanny 1 9 0
+!sdpos 3 0 0 3

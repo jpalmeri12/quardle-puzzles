@@ -1,0 +1,6 @@
+7 11 drop
+lasso 3 1 1
+repel 5 4 1
+rover 2 5 0
+aisle 1 7 0
+vapor 1 10 0

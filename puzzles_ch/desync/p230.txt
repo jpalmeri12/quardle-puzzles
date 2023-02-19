@@ -1,0 +1,5 @@
+7 10 desync
+logic 1 1 1
+cadet 1 5 0
+erect 4 5 1
+avert 2 7 0

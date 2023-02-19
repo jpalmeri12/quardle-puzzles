@@ -1,0 +1,5 @@
+7 8
+rusty 1 1 0
+yield 5 1 1
+avail 2 3 1
+vault 2 4 0

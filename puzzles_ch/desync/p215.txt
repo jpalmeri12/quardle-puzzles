@@ -1,0 +1,5 @@
+7 9 desync
+aglow 5 1 1
+vying 1 2 0
+snoop 2 4 0
+snake 2 4 1

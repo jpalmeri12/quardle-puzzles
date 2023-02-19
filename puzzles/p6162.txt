@@ -1,0 +1,5 @@
+7 10
+petty 2 1 1
+these 2 3 0
+bylaw 1 5 0
+anode 4 5 1

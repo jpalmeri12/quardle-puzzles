@@ -1,0 +1,5 @@
+7 10
+knack 2 1 1
+khaki 2 5 0
+kinky 5 5 1
+cheek 1 8 0

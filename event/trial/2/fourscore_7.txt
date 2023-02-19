@@ -1,0 +1,5 @@
+7 7 fourscore
+octet 2 1 1
+cabby 2 2 0
+brand 5 2 1
+stein 1 5 0

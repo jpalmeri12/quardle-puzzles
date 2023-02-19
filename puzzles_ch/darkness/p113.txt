@@ -1,0 +1,5 @@
+6 8 darkness
+thumb 1 1 1
+today 1 1 0
+itchy 4 3 1
+brace 1 5 0

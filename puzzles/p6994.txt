@@ -1,0 +1,5 @@
+7 9
+smelt 6 1 1
+bacon 2 4 1
+bagel 2 4 0
+acrid 1 6 0

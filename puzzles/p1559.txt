@@ -1,0 +1,5 @@
+7 10
+psalm 5 1 1
+enema 2 5 0
+ninja 3 5 1
+enjoy 1 8 0

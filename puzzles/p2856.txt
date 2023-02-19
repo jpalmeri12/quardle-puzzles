@@ -1,0 +1,5 @@
+7 8
+haven 1 1 1
+porch 3 3 1
+ebony 1 4 0
+actor 2 6 0

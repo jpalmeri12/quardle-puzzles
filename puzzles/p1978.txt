@@ -1,0 +1,5 @@
+7 10
+plain 2 1 1
+leery 2 2 0
+antic 1 5 0
+tithe 3 5 1

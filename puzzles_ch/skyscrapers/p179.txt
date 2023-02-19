@@ -1,0 +1,5 @@
+6 8 skyscrapers
+virus 1 3 0
+shrug 5 3 1
+eking 1 7 0
+gaily 2 1 1

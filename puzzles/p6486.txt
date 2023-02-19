@@ -1,0 +1,5 @@
+7 10
+marry 5 1 1
+board 2 3 0
+spiny 1 5 0
+pupil 2 5 1

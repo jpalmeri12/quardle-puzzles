@@ -1,0 +1,5 @@
+7 9 skyscrapers
+whelp 1 4 0
+poise 5 4 1
+given 2 8 0
+beset 3 1 1

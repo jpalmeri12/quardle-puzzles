@@ -1,0 +1,9 @@
+7 9 spellbound
+waist 4 1 1
+peach 2 2 0
+crest 1 4 0
+ruder 2 4 1
+!spellbound 0 4 0
+!spellbound 1 0 1
+!spellbound 2 4 0
+!spellbound 3 1 3

@@ -1,0 +1,6 @@
+6 11 drop
+gusto 1 1 1
+utile 1 2 0
+table 1 4 0
+lumpy 4 4 1
+bayou 1 10 0

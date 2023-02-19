@@ -1,0 +1,9 @@
+6 7 beforeafter
+foist 4 1 1
+quail 2 2 1
+tunic 1 3 0
+ditty 1 5 0
+!beforeafter 2 r
+!beforeafter 1 o
+!beforeafter 2 j
+!beforeafter 1 o

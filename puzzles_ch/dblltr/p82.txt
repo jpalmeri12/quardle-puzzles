@@ -1,0 +1,5 @@
+7 7 dblltr
+taboo 5 1 1
+kappa 1 2 0
+puffy 3 2 1
+afoot 2 5 0

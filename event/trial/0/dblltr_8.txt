@@ -1,0 +1,5 @@
+6 10 dblltr
+torso 3 1 1
+bloom 1 5 0
+otter 4 5 1
+sooty 1 7 0

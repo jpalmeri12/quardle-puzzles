@@ -1,0 +1,6 @@
+7 8 island
+snail 1 1 0
+nylon 2 1 1
+lease 2 3 0
+elate 6 3 1
+!island 2111 211 31 1111

@@ -1,0 +1,5 @@
+7 10
+bulge 4 1 1
+speed 1 5 0
+embed 3 5 1
+abode 2 7 0

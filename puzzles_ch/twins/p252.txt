@@ -1,0 +1,8 @@
+6 8 twins
+slept 1 1 0
+least 1 3 0
+paper 1 5 0
+adept 1 7 0
+!twins 0 1
+!twins 0 1
+!twins 2 3

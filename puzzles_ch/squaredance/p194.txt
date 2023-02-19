@@ -1,0 +1,6 @@
+6 8 squaredance
+stand 1 1 1
+eager 5 1 1
+state 1 1 0
+diner 1 5 0
+rivet 1 7 0

@@ -1,0 +1,5 @@
+7 8
+fixer 1 1 0
+erupt 4 1 1
+caulk 2 3 0
+civil 2 3 1

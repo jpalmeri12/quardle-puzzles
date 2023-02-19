@@ -1,0 +1,5 @@
+7 9 scrabble
+rouge 2 4 0
+uncut 4 4 1
+sorry 2 1 1
+opium 1 7 0

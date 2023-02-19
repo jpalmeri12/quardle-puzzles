@@ -1,0 +1,5 @@
+7 10 desync
+child 5 1 1
+bushy 2 2 0
+blond 1 5 0
+badge 1 5 1

@@ -1,0 +1,5 @@
+7 10
+shake 1 1 1
+eclat 1 5 0
+loser 3 5 1
+assay 2 7 0

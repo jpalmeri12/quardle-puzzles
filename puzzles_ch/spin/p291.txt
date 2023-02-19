@@ -1,0 +1,5 @@
+7 7 spin
+prize 2 1 1
+rabbi 2 2 0
+bigot 4 2 1
+below 1 5 0

@@ -1,0 +1,6 @@
+6 11 undercover
+bowel 2 1 1
+reign 1 4 0
+gruel 4 4 1
+grill 1 8 0
+assay 1 10 0

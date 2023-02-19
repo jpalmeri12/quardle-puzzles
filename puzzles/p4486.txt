@@ -1,0 +1,5 @@
+7 10
+cagey 3 1 1
+royal 1 5 0
+aptly 4 5 1
+kayak 2 9 0

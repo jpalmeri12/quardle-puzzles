@@ -1,0 +1,5 @@
+6 8
+magma 1 1 1
+maybe 1 1 0
+round 3 3 1
+moose 1 4 0

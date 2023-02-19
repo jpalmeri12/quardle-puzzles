@@ -1,0 +1,5 @@
+6 6 hardmode
+synod 1 1 1
+shrew 1 1 0
+widow 5 1 1
+outdo 1 4 0

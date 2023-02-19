@@ -1,0 +1,5 @@
+7 10
+mince 1 1 1
+evoke 1 5 0
+extra 5 5 1
+cloth 2 7 0

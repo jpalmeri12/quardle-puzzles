@@ -1,0 +1,5 @@
+7 8 scrabble
+solar 1 5 0
+creep 2 3 0
+hyena 4 1 1
+choke 2 3 1

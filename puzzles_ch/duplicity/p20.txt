@@ -1,0 +1,5 @@
+7 10 duplicity
+basal 5 1 1
+offal 1 5 0
+focus 2 5 1
+scuba 2 9 0

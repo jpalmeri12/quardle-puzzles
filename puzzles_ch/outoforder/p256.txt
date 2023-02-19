@@ -1,0 +1,5 @@
+7 9 outoforder
+harsh 6 1 1
+sieve 3 4 1
+filth 2 5 0
+rover 1 7 0

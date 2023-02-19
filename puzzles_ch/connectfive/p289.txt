@@ -1,0 +1,6 @@
+6 8 connectfive
+fried 1 1 1
+exalt 5 1 1
+hyena 3 3 1
+dwelt 1 5 0
+grasp 1 7 0

@@ -1,0 +1,5 @@
+7 9 swap
+havco 5 1 1
+akyak 2 2 0
+loigc 1 4 0
+ittan 3 4 1

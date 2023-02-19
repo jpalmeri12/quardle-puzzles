@@ -1,0 +1,6 @@
+7 12 drop
+mamma 3 1 1
+baste 2 2 0
+tramp 1 5 0
+polka 5 5 1
+stamp 1 11 0

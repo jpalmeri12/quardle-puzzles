@@ -1,0 +1,9 @@
+6 10 beforeafter
+caput 2 1 1
+spank 1 3 0
+utile 1 5 0
+leapt 4 5 1
+!beforeafter 1 l
+!beforeafter 1 o
+!beforeafter 1 o
+!beforeafter 2 n

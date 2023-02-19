@@ -1,0 +1,7 @@
+7 11 secretdistance
+write 1 1 1
+tapir 1 4 0
+pound 3 4 1
+ought 2 6 0
+shaky 1 10 0
+!sdpos 2 2 3 1

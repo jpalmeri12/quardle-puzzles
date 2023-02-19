@@ -1,0 +1,5 @@
+6 6
+tuber 1 1 0
+unfit 2 1 1
+rajah 5 1 1
+vista 1 4 0

@@ -1,0 +1,5 @@
+7 10
+flint 4 1 1
+swish 2 3 0
+warty 1 5 0
+wheel 1 5 1

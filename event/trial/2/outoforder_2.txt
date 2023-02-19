@@ -1,0 +1,5 @@
+6 9 outoforder
+brass 1 1 1
+brine 1 1 0
+myrrh 3 4 1
+slyly 1 5 0

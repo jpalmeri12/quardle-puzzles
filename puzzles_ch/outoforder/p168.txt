@@ -1,0 +1,5 @@
+7 10 outoforder
+stoic 3 1 1
+stove 2 2 0
+cache 1 5 0
+curvy 1 5 1

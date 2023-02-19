@@ -1,0 +1,9 @@
+7 9 spellbound
+opium 1 1 0
+probe 2 1 1
+buxom 2 4 0
+otter 5 4 1
+!spellbound 0 3 4
+!spellbound 1 4 2
+!spellbound 2 2 4
+!spellbound 3 1 4

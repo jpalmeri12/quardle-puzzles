@@ -1,0 +1,6 @@
+7 10 wordcolumn
+crypt 6 1 1
+hasty 2 3 0
+sober 4 3 1
+louse 2 5 1
+novel 1 6 0

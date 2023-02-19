@@ -1,0 +1,5 @@
+6 9 sweeper
+belle 2 1 1
+decor 1 2 0
+elect 1 4 0
+toast 5 4 1

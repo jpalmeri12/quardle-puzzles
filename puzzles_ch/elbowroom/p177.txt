@@ -1,0 +1,5 @@
+7 10 elbowroom
+macho 5 1 1
+legal 2 2 0
+gusto 1 5 0
+usurp 2 5 1

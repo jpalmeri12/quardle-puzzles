@@ -1,0 +1,6 @@
+7 11 undercover
+minty 3 1 1
+fetus 1 4 0
+sieve 5 4 1
+olive 2 7 0
+graph 1 10 0

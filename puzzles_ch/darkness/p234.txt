@@ -1,0 +1,5 @@
+6 9 darkness
+vigor 1 4 1
+bayou 1 2 0
+valve 1 4 0
+queer 5 1 1

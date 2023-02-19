@@ -1,0 +1,6 @@
+7 8 wordcolumn
+flute 6 1 1
+heist 2 2 1
+defer 4 3 1
+inept 2 4 0
+other 1 6 0

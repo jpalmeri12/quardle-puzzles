@@ -1,0 +1,5 @@
+7 8
+worth 1 1 0
+triad 4 1 1
+voice 2 3 0
+vodka 2 3 1

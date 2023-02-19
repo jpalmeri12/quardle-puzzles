@@ -1,0 +1,5 @@
+7 10
+spoke 6 1 1
+scree 2 5 0
+eject 5 5 1
+phone 1 7 0

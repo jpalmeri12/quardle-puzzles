@@ -1,0 +1,6 @@
+7 12 undercover
+smash 5 1 1
+album 1 2 0
+bushy 2 5 0
+yield 6 5 1
+front 1 11 0

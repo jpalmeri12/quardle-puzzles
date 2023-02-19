@@ -1,0 +1,5 @@
+7 7 reverse
+erohs 5 1 1
+tawny 3 2 1
+mason 2 3 0
+egnis 1 5 0

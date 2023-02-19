@@ -1,0 +1,5 @@
+6 9
+recap 2 1 1
+relic 1 2 0
+harpy 1 4 0
+pound 4 4 1

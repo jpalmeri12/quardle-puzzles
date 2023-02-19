@@ -1,0 +1,5 @@
+7 10
+saute 4 1 1
+vaunt 2 3 0
+enter 1 5 0
+tipsy 3 5 1

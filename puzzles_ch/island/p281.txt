@@ -1,0 +1,6 @@
+6 8 island
+kebab 1 1 1
+bough 1 3 0
+haunt 5 3 1
+bayou 1 5 0
+!island 1111 41 311 2111

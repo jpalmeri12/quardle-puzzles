@@ -1,0 +1,5 @@
+6 8 reverse
+virus 5 1 1
+ydnas 3 3 1
+wenis 1 5 0
+gusty 1 7 0

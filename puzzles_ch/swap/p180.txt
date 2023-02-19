@@ -1,0 +1,5 @@
+6 7 swap
+rdaft 2 1 1
+rdive 1 2 0
+erlax 5 2 1
+ofcal 1 4 0

@@ -1,0 +1,5 @@
+7 10 hardmode
+mucus 1 1 1
+sappy 1 5 0
+pound 4 5 1
+bonus 2 8 0

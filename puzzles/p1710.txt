@@ -1,0 +1,5 @@
+7 10
+repay 2 1 1
+pygmy 1 5 0
+motor 4 5 1
+lathe 2 7 0

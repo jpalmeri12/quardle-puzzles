@@ -1,0 +1,6 @@
+6 9 undercover
+binge 3 1 1
+eager 1 2 1
+edify 1 2 0
+event 1 5 0
+couch 1 8 0

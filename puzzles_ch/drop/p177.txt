@@ -1,0 +1,6 @@
+7 9 drop
+anode 4 1 1
+ebony 1 2 0
+braid 2 2 1
+ideal 2 5 0
+bleak 1 8 0

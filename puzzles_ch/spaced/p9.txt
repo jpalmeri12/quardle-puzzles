@@ -1,0 +1,5 @@
+7 9 spaced
+chaos 5 1 1
+motif 3 4 1
+mouse 2 5 0
+trice 1 7 0

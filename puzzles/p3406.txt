@@ -1,0 +1,5 @@
+6 9
+humph 4 1 1
+value 1 2 0
+trope 1 4 0
+raspy 2 4 1

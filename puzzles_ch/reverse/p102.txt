@@ -1,0 +1,5 @@
+7 8 reverse
+rouge 1 1 0
+ohcam 2 1 1
+chump 2 3 0
+pmart 6 3 1

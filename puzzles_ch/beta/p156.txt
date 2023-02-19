@@ -1,0 +1,5 @@
+7 9 beta
+fetid 1 1 0
+trove 3 1 1
+every 2 4 0
+yeast 6 4 1

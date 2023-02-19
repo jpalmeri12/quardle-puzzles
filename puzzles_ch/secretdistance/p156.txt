@@ -1,0 +1,7 @@
+6 11 secretdistance
+these 1 1 1
+horse 1 2 0
+steam 5 4 1
+exert 1 5 0
+might 1 10 0
+!sdpos 0 2 2 3

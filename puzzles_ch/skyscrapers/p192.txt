@@ -1,0 +1,5 @@
+7 8 skyscrapers
+plead 5 3 1
+eaten 2 5 0
+bilge 2 1 1
+blimp 1 3 0

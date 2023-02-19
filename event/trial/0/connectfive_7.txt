@@ -1,0 +1,6 @@
+7 10 connectfive
+roach 2 1 0
+ready 2 1 1
+avian 2 3 0
+hyper 1 5 0
+probe 3 5 1

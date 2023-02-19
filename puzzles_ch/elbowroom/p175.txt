@@ -1,0 +1,5 @@
+7 10 elbowroom
+skull 3 1 1
+blush 2 5 0
+stout 5 5 1
+spent 1 9 0

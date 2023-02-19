@@ -1,0 +1,5 @@
+7 8
+medal 2 1 0
+arena 5 1 1
+vista 3 3 1
+pasta 1 5 0

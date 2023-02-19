@@ -1,0 +1,5 @@
+7 10
+latch 1 1 0
+heart 5 1 1
+junta 2 5 0
+unify 3 5 1

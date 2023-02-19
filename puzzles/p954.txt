@@ -1,0 +1,5 @@
+7 9
+grate 2 1 1
+rebar 2 2 0
+stint 1 4 0
+natal 4 4 1

@@ -1,0 +1,5 @@
+7 9
+amber 1 1 0
+mangy 2 1 1
+gully 2 4 0
+laugh 5 4 1

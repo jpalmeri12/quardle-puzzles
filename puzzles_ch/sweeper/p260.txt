@@ -1,0 +1,5 @@
+7 10 sweeper
+smell 5 1 1
+skate 1 3 0
+shelf 2 5 0
+flunk 6 5 1

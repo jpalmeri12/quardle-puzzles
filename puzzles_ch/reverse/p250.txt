@@ -1,0 +1,5 @@
+7 9 reverse
+gumbo 4 1 1
+tluxe 2 2 0
+limbo 1 4 0
+lanoz 1 4 1

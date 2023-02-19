@@ -1,0 +1,5 @@
+7 9 spin
+annex 4 1 1
+mango 2 2 0
+ramen 1 4 0
+avian 2 4 1

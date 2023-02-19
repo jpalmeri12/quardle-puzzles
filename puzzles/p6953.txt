@@ -1,0 +1,5 @@
+6 9
+droll 1 1 1
+nerdy 4 4 1
+label 1 5 0
+windy 1 7 0

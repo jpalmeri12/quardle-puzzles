@@ -1,0 +1,5 @@
+7 9
+smirk 6 1 1
+tiger 4 4 1
+thick 2 5 0
+haven 1 7 0

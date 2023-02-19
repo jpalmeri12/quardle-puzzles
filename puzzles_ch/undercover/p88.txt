@@ -1,0 +1,6 @@
+7 9 undercover
+trick 4 1 1
+juror 2 2 0
+juicy 2 2 1
+winch 1 4 0
+amass 1 8 0

@@ -1,0 +1,5 @@
+6 8
+after 4 1 1
+borne 2 3 1
+comet 1 4 0
+pesky 1 7 0

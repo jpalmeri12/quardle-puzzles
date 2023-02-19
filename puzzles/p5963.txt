@@ -1,0 +1,5 @@
+7 8
+diary 2 1 0
+abhor 4 1 1
+mocha 1 3 0
+outdo 2 3 1

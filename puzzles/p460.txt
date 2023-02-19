@@ -1,0 +1,5 @@
+7 9
+lance 1 1 1
+unmet 5 4 1
+eaten 1 5 0
+batty 2 8 0

@@ -1,0 +1,6 @@
+7 9 connectfive
+loamy 2 1 0
+mower 5 1 1
+organ 3 4 1
+purer 1 5 0
+naval 2 7 0

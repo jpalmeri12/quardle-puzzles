@@ -1,0 +1,5 @@
+6 10 sweeper
+torus 1 1 1
+scowl 1 5 0
+lucky 5 5 1
+speck 1 8 0

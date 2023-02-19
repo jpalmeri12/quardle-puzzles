@@ -1,0 +1,6 @@
+7 9 wordcolumn
+beset 2 1 0
+steed 4 1 1
+probe 1 4 1
+reedy 1 5 0
+briar 1 7 0

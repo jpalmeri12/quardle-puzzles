@@ -1,0 +1,6 @@
+6 12 drop
+aping 3 1 1
+ripen 1 2 0
+rugby 1 5 0
+unlit 2 5 1
+angle 1 11 0

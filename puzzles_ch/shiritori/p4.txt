@@ -1,0 +1,5 @@
+7 10 shiritori
+floss 1 1 1
+sprig 1 5 0
+pecan 2 5 1
+annex 2 8 0

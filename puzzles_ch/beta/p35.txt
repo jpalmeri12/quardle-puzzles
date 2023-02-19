@@ -1,0 +1,5 @@
+7 9 beta
+graph 3 1 1
+refer 5 4 1
+shied 2 5 0
+eater 1 8 0

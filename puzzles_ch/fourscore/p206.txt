@@ -1,0 +1,5 @@
+7 9 fourscore
+strap 5 1 1
+villa 2 4 1
+bicep 1 5 0
+lurch 2 7 0

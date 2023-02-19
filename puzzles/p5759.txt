@@ -1,0 +1,5 @@
+7 7
+couch 5 1 1
+primo 1 2 0
+roomy 2 2 1
+mushy 2 5 0

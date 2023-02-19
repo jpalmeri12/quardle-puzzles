@@ -1,0 +1,6 @@
+6 10 connectfive
+ethic 4 1 1
+lofty 1 2 0
+trice 1 5 0
+rajah 2 5 1
+eight 5 5 1

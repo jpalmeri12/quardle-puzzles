@@ -1,0 +1,5 @@
+7 9
+greet 5 1 1
+peace 1 4 0
+enter 2 4 1
+evoke 2 7 0

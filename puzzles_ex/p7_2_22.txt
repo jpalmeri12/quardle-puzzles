@@ -1,0 +1,5 @@
+7 10
+skill 4 1 1
+lower 5 5 1
+fully 2 5 0
+issue 1 8 0

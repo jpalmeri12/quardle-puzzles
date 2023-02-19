@@ -1,0 +1,5 @@
+7 10 elbowroom
+worst 1 1 0
+sheen 4 1 1
+fence 2 5 0
+crust 5 5 1

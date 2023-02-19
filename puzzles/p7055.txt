@@ -1,0 +1,5 @@
+7 10
+ditch 4 1 1
+ethos 2 5 0
+octet 5 5 1
+pilot 1 7 0

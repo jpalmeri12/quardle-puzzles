@@ -1,0 +1,5 @@
+7 10 spaced
+gavel 2 1 0
+elbow 5 1 1
+throw 1 5 0
+olive 4 5 1

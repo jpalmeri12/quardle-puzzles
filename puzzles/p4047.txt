@@ -1,0 +1,5 @@
+7 9
+their 4 1 1
+usher 2 2 0
+dusky 2 4 1
+quark 1 5 0

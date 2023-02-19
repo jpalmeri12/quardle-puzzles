@@ -1,0 +1,5 @@
+7 7
+bused 2 1 1
+butch 1 2 0
+humus 5 2 1
+datum 2 5 0

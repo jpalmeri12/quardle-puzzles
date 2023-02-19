@@ -1,0 +1,5 @@
+7 8 swap
+isseu 1 1 1
+sweta 1 3 0
+ebzel 3 3 1
+slpet 2 7 0

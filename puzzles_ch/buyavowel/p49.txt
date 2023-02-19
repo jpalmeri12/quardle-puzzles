@@ -1,0 +1,5 @@
+7 7 buyavowel
+mogul 3 1 1
+focal 2 2 0
+arbor 5 2 1
+squib 1 4 0

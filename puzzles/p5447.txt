@@ -1,0 +1,5 @@
+7 8
+group 1 1 0
+perky 5 1 1
+parry 2 3 0
+adept 3 3 1

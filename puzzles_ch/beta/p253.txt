@@ -1,0 +1,5 @@
+6 9 beta
+utter 1 1 0
+tepid 3 1 1
+drink 1 4 0
+decoy 1 4 1

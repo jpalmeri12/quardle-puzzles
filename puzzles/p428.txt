@@ -1,0 +1,5 @@
+6 8
+guilt 1 1 1
+piano 3 3 1
+lying 1 4 0
+stool 1 7 0

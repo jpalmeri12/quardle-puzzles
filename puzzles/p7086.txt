@@ -1,0 +1,5 @@
+7 10
+igloo 5 1 1
+outgo 1 5 0
+tacky 3 5 1
+scent 2 7 0

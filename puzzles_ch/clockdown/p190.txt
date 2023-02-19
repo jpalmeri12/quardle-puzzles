@@ -1,0 +1,5 @@
+7 9 clockdown
+chaos 6 1 1
+tempo 2 4 0
+tamer 2 4 1
+amiss 1 6 0

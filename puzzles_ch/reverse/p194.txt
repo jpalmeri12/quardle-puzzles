@@ -1,0 +1,5 @@
+7 10 reverse
+troop 1 1 1
+pmots 1 5 0
+spare 5 5 1
+laced 2 9 0

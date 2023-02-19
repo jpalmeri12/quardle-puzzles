@@ -1,0 +1,8 @@
+6 8 twins
+voice 1 1 0
+cutie 1 3 0
+suave 1 5 0
+ovary 1 7 0
+!twins 1 3
+!twins 1 4
+!twins 0 3

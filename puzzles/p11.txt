@@ -1,0 +1,5 @@
+7 8
+murky 2 1 1
+bunny 5 3 1
+young 2 5 0
+goofy 1 7 0

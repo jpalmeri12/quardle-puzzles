@@ -1,0 +1,5 @@
+7 8
+curve 1 1 0
+envoy 5 1 1
+brave 2 3 0
+brute 2 3 1

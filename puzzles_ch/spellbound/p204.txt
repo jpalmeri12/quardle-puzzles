@@ -1,0 +1,9 @@
+6 10 spellbound
+taken 1 1 0
+thong 1 1 1
+gayer 1 5 0
+yield 3 5 1
+!spellbound 0 1 4
+!spellbound 1 1 2
+!spellbound 2 4 1
+!spellbound 3 4 3

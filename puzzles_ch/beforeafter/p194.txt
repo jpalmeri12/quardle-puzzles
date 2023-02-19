@@ -1,0 +1,9 @@
+6 6 beforeafter
+minus 1 1 0
+icily 2 1 1
+stunk 5 1 1
+clown 1 4 0
+!beforeafter 2 p
+!beforeafter 2 j
+!beforeafter 2 p
+!beforeafter 1 m

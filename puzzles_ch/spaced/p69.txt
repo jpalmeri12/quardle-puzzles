@@ -1,0 +1,5 @@
+7 9 spaced
+panic 5 1 1
+swine 2 4 1
+wench 2 5 0
+relay 1 8 0

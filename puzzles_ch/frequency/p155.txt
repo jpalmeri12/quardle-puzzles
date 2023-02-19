@@ -1,0 +1,5 @@
+6 9 frequency
+vodka 4 1 1
+spool 1 2 0
+flake 1 4 0
+flown 1 4 1

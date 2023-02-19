@@ -1,0 +1,5 @@
+7 7
+album 6 1 1
+choke 3 2 1
+throb 2 3 0
+greet 1 6 0

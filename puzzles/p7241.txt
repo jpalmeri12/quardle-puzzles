@@ -1,0 +1,5 @@
+7 10
+uncut 2 1 1
+stead 1 5 0
+erupt 3 5 1
+humph 2 7 0

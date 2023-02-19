@@ -1,0 +1,5 @@
+7 8 elbowroom
+whirl 5 1 1
+badly 2 3 1
+daily 2 5 0
+cynic 1 7 0

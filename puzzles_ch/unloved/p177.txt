@@ -1,0 +1,5 @@
+7 9 unloved
+opera 4 1 1
+nymph 1 2 0
+chunk 6 4 1
+wrath 2 5 0

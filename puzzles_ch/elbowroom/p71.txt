@@ -1,0 +1,5 @@
+7 10 elbowroom
+crane 3 1 1
+brood 2 2 0
+enema 1 5 0
+afoot 5 5 1

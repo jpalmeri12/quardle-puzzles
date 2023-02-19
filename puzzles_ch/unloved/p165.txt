@@ -1,0 +1,5 @@
+7 10 unloved
+madam 3 1 1
+imbue 2 5 0
+uncut 5 5 1
+antic 1 7 0

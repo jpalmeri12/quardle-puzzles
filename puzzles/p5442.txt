@@ -1,0 +1,5 @@
+6 8
+crack 1 1 1
+fewer 4 3 1
+covet 1 4 0
+teary 1 7 0

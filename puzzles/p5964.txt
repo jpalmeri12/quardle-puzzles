@@ -1,0 +1,5 @@
+7 10
+growl 1 1 1
+libel 1 5 0
+exist 4 5 1
+outgo 2 9 0

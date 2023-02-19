@@ -1,0 +1,5 @@
+7 8 frequency
+trace 1 1 0
+count 4 1 1
+drunk 2 3 0
+debar 2 3 1

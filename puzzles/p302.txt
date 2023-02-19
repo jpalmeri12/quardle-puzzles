@@ -1,0 +1,5 @@
+7 10
+thing 6 1 1
+sling 2 5 0
+nomad 5 5 1
+ultra 1 8 0

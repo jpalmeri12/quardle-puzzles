@@ -1,0 +1,5 @@
+7 10 scrabble
+triad 2 1 1
+image 2 3 0
+idyll 1 5 0
+lumpy 4 5 1

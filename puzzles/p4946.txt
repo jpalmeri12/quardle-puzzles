@@ -1,0 +1,5 @@
+7 10
+colon 2 1 1
+torso 1 2 0
+nerdy 2 5 0
+relay 4 5 1

@@ -1,0 +1,5 @@
+7 10
+light 6 1 1
+trust 2 5 0
+sleek 5 5 1
+taste 1 8 0

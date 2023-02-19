@@ -1,0 +1,6 @@
+6 6 commonsecret
+flora 1 1 0
+labor 2 1 1
+ratio 4 1 1
+comic 1 4 0
+!secret o

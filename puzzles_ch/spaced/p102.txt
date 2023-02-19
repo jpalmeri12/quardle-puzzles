@@ -1,0 +1,5 @@
+7 10 spaced
+prawn 4 1 1
+lying 1 5 0
+giver 5 5 1
+piney 2 8 0

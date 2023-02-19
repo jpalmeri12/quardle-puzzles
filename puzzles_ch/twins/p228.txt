@@ -1,0 +1,8 @@
+6 8 twins
+poser 1 1 0
+dilly 1 3 0
+gazer 1 5 0
+undue 1 7 0
+!twins 2 3
+!twins 3 4
+!twins 1 4

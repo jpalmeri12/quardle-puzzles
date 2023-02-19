@@ -1,0 +1,5 @@
+6 8 scrabble
+solar 1 3 1
+repel 1 7 0
+sinew 1 3 0
+sandy 3 1 1

@@ -1,0 +1,5 @@
+7 9
+blaze 4 1 1
+scald 1 2 0
+razor 2 4 0
+raven 2 4 1

@@ -1,0 +1,5 @@
+7 8
+voter 1 1 0
+octal 2 1 1
+tenth 2 3 0
+newer 4 3 1

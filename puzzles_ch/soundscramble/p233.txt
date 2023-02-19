@@ -1,0 +1,5 @@
+7 10 soundscramble
+entro 1 1 0
+rabbe 4 1 1
+freid 2 5 0
+ipoch 5 5 1

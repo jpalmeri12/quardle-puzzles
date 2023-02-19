@@ -1,0 +1,5 @@
+6 9 dblltr
+torso 5 1 1
+leery 1 4 1
+lupus 1 4 0
+revel 1 7 0

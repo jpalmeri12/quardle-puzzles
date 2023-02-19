@@ -1,0 +1,7 @@
+6 11 secretdistance
+recur 4 1 1
+abate 1 4 1
+board 1 5 0
+elide 1 8 0
+retch 1 10 0
+!sdpos 0 3 2 2

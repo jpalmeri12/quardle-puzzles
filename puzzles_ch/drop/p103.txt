@@ -1,0 +1,6 @@
+7 11 drop
+spare 1 1 1
+raspy 1 4 0
+swish 3 4 1
+aside 2 7 0
+sassy 1 10 0

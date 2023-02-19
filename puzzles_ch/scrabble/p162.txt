@@ -1,0 +1,5 @@
+7 8 scrabble
+slung 5 1 1
+icing 1 5 0
+crisp 2 1 0
+drink 1 3 1

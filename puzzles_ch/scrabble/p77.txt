@@ -1,0 +1,5 @@
+7 10 scrabble
+otter 3 5 1
+gourd 1 2 0
+token 2 5 0
+wreak 4 1 1

@@ -1,0 +1,5 @@
+7 9 clockdown
+brood 1 1 1
+civic 4 4 1
+druid 1 5 0
+spine 2 7 0

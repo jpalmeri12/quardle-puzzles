@@ -1,0 +1,5 @@
+7 8
+roast 6 1 1
+rodeo 3 3 1
+adult 2 5 0
+sloop 1 7 0

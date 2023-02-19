@@ -1,0 +1,5 @@
+7 10
+cramp 5 1 1
+wispy 2 5 0
+salty 4 5 1
+polyp 1 9 0

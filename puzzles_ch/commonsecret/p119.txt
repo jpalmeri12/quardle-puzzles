@@ -1,0 +1,6 @@
+6 8 commonsecret
+sloop 3 1 1
+afoul 5 3 1
+aloof 1 4 0
+papal 1 7 0
+!secret l

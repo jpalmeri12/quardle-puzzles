@@ -1,0 +1,5 @@
+7 9 desync
+sloth 2 1 1
+grimy 4 4 1
+shorn 1 5 0
+foyer 2 8 0

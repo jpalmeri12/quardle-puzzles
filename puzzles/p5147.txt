@@ -1,0 +1,5 @@
+7 10
+shore 4 1 1
+rebel 1 5 0
+logic 5 5 1
+refit 2 8 0

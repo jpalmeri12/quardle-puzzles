@@ -1,0 +1,5 @@
+7 9 elbowroom
+first 2 1 0
+snake 5 1 1
+stack 1 4 0
+abate 3 4 1

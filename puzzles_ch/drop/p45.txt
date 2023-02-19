@@ -1,0 +1,6 @@
+7 12 drop
+class 5 1 1
+pupal 1 2 0
+curse 2 5 0
+every 6 5 1
+scaly 1 11 0

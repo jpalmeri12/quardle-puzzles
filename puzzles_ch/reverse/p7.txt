@@ -1,0 +1,5 @@
+6 10 reverse
+duolc 3 1 1
+saute 1 2 0
+roced 1 5 0
+rerun 1 5 1

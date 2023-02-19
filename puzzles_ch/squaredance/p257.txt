@@ -1,0 +1,6 @@
+6 8 squaredance
+paper 1 1 1
+hoist 5 1 1
+porch 1 1 0
+rebut 1 5 0
+crude 1 7 0

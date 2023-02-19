@@ -1,0 +1,5 @@
+7 9 hardmode
+fault 1 1 0
+taunt 5 1 1
+outgo 2 4 1
+owing 2 4 0

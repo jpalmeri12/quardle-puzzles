@@ -1,0 +1,5 @@
+7 10
+tiger 2 1 1
+gloat 2 3 0
+wrung 1 5 0
+godly 5 5 1

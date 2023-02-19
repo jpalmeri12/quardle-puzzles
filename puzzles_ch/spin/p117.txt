@@ -1,0 +1,5 @@
+7 10 spin
+lying 6 1 1
+pleat 2 5 1
+prong 2 5 0
+perch 1 7 0

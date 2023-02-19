@@ -1,0 +1,5 @@
+7 9
+nerve 4 1 1
+crest 2 2 0
+heavy 1 4 0
+eater 2 4 1

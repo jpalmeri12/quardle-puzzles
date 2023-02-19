@@ -1,0 +1,5 @@
+7 7
+deuce 5 1 1
+genie 3 2 1
+debut 2 3 0
+snipe 1 5 0

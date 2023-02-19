@@ -1,0 +1,9 @@
+7 8 spellbound
+crump 2 1 0
+reply 3 1 1
+impel 1 3 0
+lupus 5 3 1
+!spellbound 0 4 0
+!spellbound 1 1 3
+!spellbound 2 0 3
+!spellbound 3 1 2

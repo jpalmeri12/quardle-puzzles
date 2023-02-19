@@ -1,0 +1,6 @@
+7 10 undercover
+swung 2 1 0
+unzip 4 1 1
+jazzy 1 3 0
+about 2 3 1
+check 1 9 0

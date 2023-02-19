@@ -1,0 +1,5 @@
+6 7 soundscramble
+hiary 5 1 1
+commi 1 2 0
+migac 3 2 1
+eiger 1 4 0

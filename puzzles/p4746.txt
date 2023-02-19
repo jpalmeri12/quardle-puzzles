@@ -1,0 +1,5 @@
+7 8
+cluck 5 1 1
+banal 2 3 1
+snack 1 5 0
+ledge 2 7 0

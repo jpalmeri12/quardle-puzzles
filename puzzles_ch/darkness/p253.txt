@@ -1,0 +1,5 @@
+7 10 darkness
+nudge 5 5 1
+plain 1 5 0
+rabbi 4 1 1
+dowdy 2 7 0

@@ -1,0 +1,5 @@
+7 10
+touch 1 1 0
+humid 5 1 1
+muddy 2 5 0
+meaty 2 5 1

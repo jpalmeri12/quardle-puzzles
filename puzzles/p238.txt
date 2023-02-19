@@ -1,0 +1,5 @@
+7 9
+plant 6 1 1
+baton 2 4 0
+trial 4 4 1
+quail 1 6 0

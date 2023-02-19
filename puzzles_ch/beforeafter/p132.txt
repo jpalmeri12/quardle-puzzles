@@ -1,0 +1,9 @@
+7 10 beforeafter
+leant 5 1 1
+steak 2 3 0
+inept 1 5 0
+igloo 1 5 1
+!beforeafter 2 m
+!beforeafter 1 q
+!beforeafter 2 o
+!beforeafter 1 k

@@ -1,0 +1,5 @@
+7 8 buyavowel
+slunk 4 1 1
+merit 2 3 1
+penny 1 4 0
+tribe 2 7 0

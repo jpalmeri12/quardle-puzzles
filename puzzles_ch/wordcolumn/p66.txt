@@ -1,0 +1,6 @@
+7 8 wordcolumn
+spire 1 1 0
+razor 4 1 1
+bezel 2 3 0
+ledge 6 3 1
+naive 2 7 0

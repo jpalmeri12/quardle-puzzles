@@ -1,0 +1,5 @@
+7 10 invention
+solve 5 1 1
+banjo 1 2 0
+spree 2 5 0
+phony 3 5 1

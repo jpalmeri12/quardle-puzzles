@@ -1,0 +1,5 @@
+7 9
+dusky 2 1 0
+unfit 3 1 1
+plied 1 4 0
+putty 1 4 1

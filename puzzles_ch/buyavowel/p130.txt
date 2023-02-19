@@ -1,0 +1,5 @@
+7 8 buyavowel
+gauge 1 1 0
+gland 4 1 1
+icily 2 3 1
+candy 2 4 0

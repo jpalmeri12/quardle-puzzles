@@ -1,0 +1,5 @@
+7 10
+apart 4 1 1
+adept 1 2 0
+until 2 5 0
+lyric 6 5 1

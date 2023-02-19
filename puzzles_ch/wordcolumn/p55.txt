@@ -1,0 +1,6 @@
+7 8 wordcolumn
+quota 4 1 1
+below 2 3 1
+brood 2 3 0
+pleat 1 5 0
+swoon 1 7 0

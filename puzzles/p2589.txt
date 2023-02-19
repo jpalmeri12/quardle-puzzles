@@ -1,0 +1,5 @@
+7 9
+hitch 1 1 1
+wrong 5 4 1
+humor 1 5 0
+flunk 2 7 0

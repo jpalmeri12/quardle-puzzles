@@ -1,0 +1,5 @@
+7 7 swap
+lesat 6 1 1
+afwul 3 2 1
+ofcus 2 3 0
+splil 1 6 0

@@ -1,0 +1,5 @@
+7 9
+fever 3 1 1
+teeth 1 2 0
+decay 2 4 0
+armor 5 4 1

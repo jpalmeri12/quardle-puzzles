@@ -1,0 +1,5 @@
+7 10
+catch 5 1 1
+beech 1 5 0
+erode 3 5 1
+pouch 2 7 0

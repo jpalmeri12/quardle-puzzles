@@ -1,0 +1,5 @@
+7 9
+droll 3 1 1
+grass 2 2 0
+gumbo 1 4 1
+gully 1 4 0

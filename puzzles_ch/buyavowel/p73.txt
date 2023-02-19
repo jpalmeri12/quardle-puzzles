@@ -1,0 +1,5 @@
+6 7 buyavowel
+toast 1 1 1
+offal 1 2 0
+fully 3 2 1
+solar 1 4 0

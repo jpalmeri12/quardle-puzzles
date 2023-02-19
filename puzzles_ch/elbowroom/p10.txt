@@ -1,0 +1,5 @@
+6 9 elbowroom
+bulge 1 1 1
+undue 1 2 0
+gruff 1 4 0
+fatal 4 4 1

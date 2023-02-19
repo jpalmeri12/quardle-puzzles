@@ -1,0 +1,5 @@
+7 10 dblltr
+shook 6 1 1
+knock 2 5 0
+niece 3 5 1
+occur 1 8 0

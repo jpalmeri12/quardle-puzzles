@@ -1,0 +1,5 @@
+7 8
+rebel 2 1 0
+erase 5 1 1
+fauna 1 3 0
+unfit 3 3 1

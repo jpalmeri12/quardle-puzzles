@@ -1,0 +1,5 @@
+7 9 bestfit
+aglow 4 1 1
+knack 2 4 1
+newly 2 5 0
+screw 1 7 0

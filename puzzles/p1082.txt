@@ -1,0 +1,5 @@
+7 10
+cabin 6 1 1
+sheen 2 5 0
+horde 3 5 1
+sprig 1 7 0

@@ -1,0 +1,5 @@
+6 8 beta
+riser 1 1 0
+stash 3 1 1
+cyber 5 3 1
+fussy 1 4 0

@@ -1,0 +1,5 @@
+7 10 elbowroom
+pearl 6 1 1
+skull 2 5 0
+krill 3 5 1
+crick 1 7 0

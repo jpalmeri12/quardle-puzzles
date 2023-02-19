@@ -1,0 +1,5 @@
+7 9 soundscramble
+bless 2 1 1
+inuon 4 4 1
+isung 1 5 0
+punto 2 8 0

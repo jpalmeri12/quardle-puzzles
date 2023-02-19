@@ -1,0 +1,5 @@
+7 8 clockdown
+angel 6 1 1
+debug 2 3 0
+bulky 4 3 1
+jerky 1 6 0

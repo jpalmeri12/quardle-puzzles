@@ -1,0 +1,5 @@
+6 8
+crier 3 1 1
+revue 1 3 1
+rhino 1 3 0
+edify 1 7 0

@@ -1,0 +1,5 @@
+7 8 bestfit
+odder 6 1 1
+ovoid 2 3 0
+virus 3 3 1
+assay 1 7 0

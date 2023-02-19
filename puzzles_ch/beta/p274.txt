@@ -1,0 +1,5 @@
+6 10 beta
+plume 4 1 1
+caulk 1 2 0
+novel 1 5 0
+vogue 3 5 1

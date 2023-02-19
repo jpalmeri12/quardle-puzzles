@@ -1,0 +1,7 @@
+6 6 fourthwall
+poser 1 1 0
+prowl 1 1 1
+ocean 1 3 0
+speed 3 1 1
+ladle 1 5 0
+rinse 5 1 1

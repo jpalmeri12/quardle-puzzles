@@ -1,0 +1,5 @@
+7 10 swap
+palre 5 1 1
+nager 2 5 0
+aluod 3 5 1
+usupr 1 7 0

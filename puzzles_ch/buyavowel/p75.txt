@@ -1,0 +1,5 @@
+7 8 buyavowel
+fungi 3 1 1
+sinew 1 3 0
+wryly 5 3 1
+vinyl 2 5 0

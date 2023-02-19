@@ -1,0 +1,5 @@
+7 10
+slush 2 1 1
+hippy 2 5 0
+poesy 4 5 1
+wafer 1 7 0

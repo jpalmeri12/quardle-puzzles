@@ -1,0 +1,5 @@
+7 9
+curse 6 1 1
+merry 3 4 1
+seize 2 5 0
+abyss 1 8 0

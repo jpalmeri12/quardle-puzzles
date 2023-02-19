@@ -1,0 +1,7 @@
+6 12 secretdistance
+lupus 1 1 1
+probe 1 3 0
+safer 1 5 0
+flute 3 5 1
+renew 1 11 0
+!sdpos 0 2 0 1

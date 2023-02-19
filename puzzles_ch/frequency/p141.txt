@@ -1,0 +1,5 @@
+7 10 frequency
+nasal 1 1 0
+agora 4 1 1
+blare 2 5 0
+baron 2 5 1

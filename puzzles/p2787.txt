@@ -1,0 +1,5 @@
+6 6
+spent 1 1 1
+giver 3 1 1
+pride 1 2 0
+needy 1 4 0

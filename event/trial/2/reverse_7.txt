@@ -1,0 +1,5 @@
+7 8 reverse
+ynips 1 1 0
+plied 4 1 1
+tliub 2 3 0
+tonga 2 3 1

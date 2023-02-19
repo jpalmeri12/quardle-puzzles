@@ -1,0 +1,5 @@
+6 9
+crump 5 1 1
+tamer 1 2 0
+album 1 4 0
+bongo 3 4 1

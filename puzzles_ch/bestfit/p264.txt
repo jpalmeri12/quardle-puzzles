@@ -1,0 +1,5 @@
+7 8 bestfit
+droit 2 1 0
+idiom 5 1 1
+taboo 1 3 1
+buxom 1 5 0

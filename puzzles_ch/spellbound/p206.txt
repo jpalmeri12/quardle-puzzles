@@ -1,0 +1,9 @@
+7 7 spellbound
+locus 1 1 0
+chaff 3 1 1
+navel 6 2 1
+salsa 2 3 0
+!spellbound 0 0 4
+!spellbound 1 4 3
+!spellbound 2 4 3
+!spellbound 3 0 3

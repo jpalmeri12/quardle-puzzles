@@ -1,0 +1,7 @@
+8 8 sixbox
+boule 3 1 1
+seedy 5 1 1
+flume 1 3 0
+madam 4 3 1
+ladle 3 4 0
+reedy 1 5 0

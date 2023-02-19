@@ -1,0 +1,5 @@
+6 8 invention
+bowel 2 1 1
+swift 1 3 0
+fetus 4 3 1
+elite 1 5 0

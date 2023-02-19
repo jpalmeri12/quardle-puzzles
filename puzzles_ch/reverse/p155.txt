@@ -1,0 +1,5 @@
+7 10 reverse
+tfola 2 1 1
+tfarg 1 2 0
+atoll 2 5 0
+tilde 3 5 1

@@ -1,0 +1,5 @@
+7 10
+moose 5 1 1
+micro 1 3 0
+greet 2 5 0
+taste 6 5 1

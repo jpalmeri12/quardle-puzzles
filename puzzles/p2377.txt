@@ -1,0 +1,5 @@
+7 7
+gazer 3 1 1
+piano 1 2 0
+olden 5 2 1
+nerdy 2 4 0

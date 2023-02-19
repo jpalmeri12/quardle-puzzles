@@ -1,0 +1,5 @@
+6 7 shiritori
+demon 5 1 1
+usage 1 2 0
+snout 2 2 1
+folio 1 4 0

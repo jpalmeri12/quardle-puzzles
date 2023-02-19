@@ -1,0 +1,5 @@
+7 10 scrabble
+easel 5 5 1
+rebel 2 5 0
+girly 1 2 0
+plumb 4 1 1

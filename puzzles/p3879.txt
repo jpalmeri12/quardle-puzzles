@@ -1,0 +1,5 @@
+7 7
+unlit 5 1 1
+stunt 2 2 0
+scald 2 2 1
+rabbi 1 4 0

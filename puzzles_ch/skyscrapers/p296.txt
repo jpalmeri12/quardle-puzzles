@@ -1,0 +1,5 @@
+7 7 skyscrapers
+rehab 2 6 0
+stash 4 2 1
+crass 1 2 0
+acorn 1 1 1

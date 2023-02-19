@@ -1,0 +1,5 @@
+6 8 hardmode
+knoll 4 1 1
+strip 2 3 1
+stall 1 4 0
+spice 1 7 0

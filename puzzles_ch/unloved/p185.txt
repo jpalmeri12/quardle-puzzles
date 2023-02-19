@@ -1,0 +1,5 @@
+7 10 unloved
+chute 2 1 0
+umbra 4 1 1
+basal 1 5 0
+smoke 3 5 1

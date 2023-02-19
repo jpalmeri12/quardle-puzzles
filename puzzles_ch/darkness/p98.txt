@@ -1,0 +1,5 @@
+7 8 darkness
+theta 1 6 0
+silky 6 1 1
+slink 2 4 0
+vista 4 3 1

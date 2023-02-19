@@ -1,0 +1,5 @@
+7 10 sweeper
+humph 5 1 1
+gloom 1 3 0
+wight 2 5 0
+inane 3 5 1

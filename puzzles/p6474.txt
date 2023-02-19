@@ -1,0 +1,5 @@
+7 7
+solid 1 1 1
+older 1 2 0
+demur 3 2 1
+crash 2 6 0

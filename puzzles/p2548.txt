@@ -1,0 +1,5 @@
+7 10
+blend 5 1 1
+shard 1 5 0
+raven 4 5 1
+havoc 2 7 0

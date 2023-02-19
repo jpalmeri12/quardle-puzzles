@@ -1,0 +1,5 @@
+7 9
+faint 6 1 1
+shack 3 4 1
+shoot 2 5 0
+lucky 1 7 0

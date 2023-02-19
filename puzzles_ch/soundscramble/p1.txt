@@ -1,0 +1,5 @@
+6 9 soundscramble
+prabe 3 1 1
+cabro 1 4 0
+choff 1 4 1
+fritz 1 8 0

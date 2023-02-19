@@ -1,0 +1,5 @@
+7 9 skyscrapers
+tribe 2 4 1
+grand 1 5 0
+chard 5 1 1
+aback 2 1 0

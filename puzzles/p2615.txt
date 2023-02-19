@@ -1,0 +1,5 @@
+7 8
+brood 3 1 1
+derby 5 3 1
+poker 2 4 0
+study 1 7 0

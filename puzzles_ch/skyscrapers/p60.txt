@@ -1,0 +1,5 @@
+7 9 skyscrapers
+snipe 1 4 1
+sower 1 4 0
+drown 3 1 1
+gravy 2 2 0

@@ -1,0 +1,6 @@
+7 9 drop
+taunt 1 1 1
+aider 4 2 1
+needy 1 4 0
+purse 2 6 0
+rusty 1 8 0

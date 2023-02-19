@@ -1,0 +1,6 @@
+6 11 drop
+aglow 2 1 1
+forge 1 4 0
+grate 4 4 1
+goner 1 8 0
+range 1 10 0

@@ -1,0 +1,5 @@
+6 9
+quake 2 1 1
+using 5 4 1
+fetus 1 5 0
+young 1 8 0

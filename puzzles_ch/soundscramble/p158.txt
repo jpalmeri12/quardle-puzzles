@@ -1,0 +1,5 @@
+7 7 soundscramble
+jekor 5 1 1
+stool 3 2 1
+steko 2 3 0
+swoar 1 5 0

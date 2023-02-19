@@ -1,0 +1,7 @@
+6 6 fourthwall
+upset 1 1 0
+upper 1 1 1
+plump 1 3 0
+slung 3 1 1
+rugby 1 5 0
+tipsy 5 1 1

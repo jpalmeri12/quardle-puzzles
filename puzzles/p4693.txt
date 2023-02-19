@@ -1,0 +1,5 @@
+7 10
+shock 3 1 1
+joker 1 5 0
+enjoy 4 5 1
+thyme 2 9 0

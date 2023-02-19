@@ -1,0 +1,5 @@
+7 10 duplicity
+minim 4 1 1
+genre 2 3 0
+grime 1 5 0
+inner 3 5 1

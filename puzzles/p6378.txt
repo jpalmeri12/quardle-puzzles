@@ -1,0 +1,5 @@
+7 10
+spiel 4 1 1
+manic 1 3 0
+fully 2 5 0
+frond 2 5 1

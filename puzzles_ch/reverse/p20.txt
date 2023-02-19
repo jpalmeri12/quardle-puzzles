@@ -1,0 +1,5 @@
+7 10 reverse
+ywohs 5 1 1
+amass 1 5 0
+moolg 2 5 1
+order 2 7 0

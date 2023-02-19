@@ -1,0 +1,7 @@
+7 11 secretdistance
+locus 1 1 1
+skunk 4 4 1
+stake 1 5 0
+poker 2 8 0
+tryst 1 10 0
+!sdpos 3 2 3 0

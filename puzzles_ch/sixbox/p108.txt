@@ -1,0 +1,7 @@
+8 8 sixbox
+blurb 3 1 1
+reply 5 1 1
+usurp 1 3 0
+rebel 4 3 1
+relax 3 4 0
+hobby 1 5 0

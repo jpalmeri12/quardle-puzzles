@@ -1,0 +1,5 @@
+7 9 soundscramble
+efira 3 1 1
+stend 5 4 1
+ajact 1 5 0
+thenk 2 7 0

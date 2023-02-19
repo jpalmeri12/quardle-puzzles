@@ -1,0 +1,7 @@
+8 8 sixbox
+chafe 3 1 1
+knead 5 1 1
+peace 1 3 0
+crest 4 3 1
+frank 3 4 0
+greed 1 5 0

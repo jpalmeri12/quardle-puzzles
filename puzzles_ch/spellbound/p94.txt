@@ -1,0 +1,9 @@
+7 10 spellbound
+fungi 5 1 1
+bayou 1 2 0
+timid 2 5 0
+mucus 4 5 1
+!spellbound 0 0 2
+!spellbound 1 0 1
+!spellbound 2 0 4
+!spellbound 3 1 3

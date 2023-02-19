@@ -1,0 +1,5 @@
+7 7
+macro 5 1 1
+quite 3 2 1
+butch 2 3 0
+motto 1 5 0

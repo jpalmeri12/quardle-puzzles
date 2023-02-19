@@ -1,0 +1,5 @@
+7 9
+elder 2 1 0
+liege 3 1 1
+pygmy 1 4 0
+yacht 5 4 1

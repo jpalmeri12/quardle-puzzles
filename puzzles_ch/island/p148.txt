@@ -1,0 +1,6 @@
+6 9 island
+prawn 5 1 1
+ester 1 2 0
+saucy 2 4 1
+eaten 1 5 0
+!island 2111 4 221 1111

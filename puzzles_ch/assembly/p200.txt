@@ -1,0 +1,5 @@
+6 10 assembly
+otter 1 3 1
+chief 5 3 1
+stoic 1 1 0
+geese 1 9 0

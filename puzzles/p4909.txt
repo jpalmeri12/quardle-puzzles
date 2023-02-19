@@ -1,0 +1,5 @@
+7 8
+print 1 1 0
+trove 5 1 1
+helix 2 3 1
+loser 2 5 0

@@ -1,0 +1,5 @@
+7 10 soundscramble
+tebea 4 1 1
+coral 1 5 0
+riidy 3 5 1
+pygmy 2 9 0

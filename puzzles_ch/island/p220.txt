@@ -1,0 +1,6 @@
+7 9 island
+radii 3 1 1
+eaten 2 2 0
+fjord 1 4 1
+juicy 1 5 0
+!island 211 1111 311 41

@@ -1,0 +1,5 @@
+7 7 clockdown
+wryly 5 1 1
+other 1 2 0
+hunch 3 2 1
+ankle 2 4 0

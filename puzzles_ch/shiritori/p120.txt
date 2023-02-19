@@ -1,0 +1,5 @@
+7 8 shiritori
+woken 6 1 1
+blink 2 3 0
+linen 3 3 1
+pence 1 7 0

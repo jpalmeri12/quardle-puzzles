@@ -1,0 +1,6 @@
+7 12 five
+octal 4 1 1
+folly 2 5 0
+oaken 3 5 1
+folio 5 7 1
+credo 1 8 0

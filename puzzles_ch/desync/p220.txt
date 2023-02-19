@@ -1,0 +1,5 @@
+7 7 desync
+foist 5 1 1
+abbot 2 2 0
+brake 3 2 1
+chaos 1 4 0

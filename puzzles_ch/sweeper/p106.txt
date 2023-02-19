@@ -1,0 +1,5 @@
+7 9 sweeper
+alibi 2 1 0
+blind 5 1 1
+creak 2 4 1
+frond 1 5 0

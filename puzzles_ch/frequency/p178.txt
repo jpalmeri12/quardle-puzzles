@@ -1,0 +1,5 @@
+7 9 frequency
+reach 2 1 1
+skate 5 4 1
+shirk 1 5 0
+saute 2 7 0

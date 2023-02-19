@@ -1,0 +1,5 @@
+7 10 invention
+turbo 2 1 1
+vodka 1 5 0
+drake 3 5 1
+begat 2 9 0

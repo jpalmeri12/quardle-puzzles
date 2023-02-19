@@ -1,0 +1,5 @@
+7 8 frequency
+wrack 4 1 1
+sword 1 2 0
+fewer 6 3 1
+niche 2 4 0

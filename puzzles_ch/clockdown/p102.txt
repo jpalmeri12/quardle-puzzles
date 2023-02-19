@@ -1,0 +1,5 @@
+7 10 clockdown
+fauna 2 1 1
+adopt 2 5 0
+daunt 3 5 1
+motto 1 9 0

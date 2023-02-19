@@ -1,0 +1,5 @@
+7 10 spaced
+quasi 4 1 1
+shoal 1 3 0
+plier 2 5 0
+lathe 3 5 1

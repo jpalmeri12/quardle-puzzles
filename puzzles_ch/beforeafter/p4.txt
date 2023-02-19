@@ -1,0 +1,9 @@
+7 10 beforeafter
+space 5 1 1
+vodka 1 3 0
+unwed 2 5 0
+nudge 3 5 1
+!beforeafter 1 m
+!beforeafter 1 l
+!beforeafter 2 j
+!beforeafter 1 l

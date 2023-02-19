@@ -1,0 +1,9 @@
+6 6 spellbound
+gavel 2 1 1
+dryly 5 1 1
+rarer 1 2 0
+bevel 1 4 0
+!spellbound 0 4 0
+!spellbound 1 4 0
+!spellbound 2 2 0
+!spellbound 3 0 2

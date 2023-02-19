@@ -1,0 +1,8 @@
+6 8 twins
+which 1 1 0
+poise 1 3 0
+slimy 1 5 0
+otter 1 7 0
+!twins 0 1
+!twins 0 1
+!twins 1 3

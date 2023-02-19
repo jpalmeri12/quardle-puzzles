@@ -1,0 +1,5 @@
+7 9 spaced
+quash 6 1 1
+clove 2 4 1
+leach 2 5 0
+pecan 1 8 0

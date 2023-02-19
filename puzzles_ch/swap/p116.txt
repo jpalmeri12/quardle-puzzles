@@ -1,0 +1,5 @@
+7 9 swap
+atlly 2 1 1
+teayr 2 2 0
+tabel 4 4 1
+kyaak 1 5 0

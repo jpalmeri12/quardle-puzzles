@@ -1,0 +1,5 @@
+7 10
+local 4 1 1
+dwelt 1 5 0
+exile 3 5 1
+minim 2 7 0

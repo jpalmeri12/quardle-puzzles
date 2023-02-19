@@ -1,0 +1,5 @@
+6 10
+fauna 5 1 1
+cobra 1 2 0
+sauna 1 5 0
+sissy 1 5 1

@@ -1,0 +1,5 @@
+7 8
+papal 2 1 1
+match 1 2 0
+tango 6 3 1
+liken 2 5 0

@@ -1,0 +1,5 @@
+7 9 clockdown
+islet 6 1 1
+fjord 3 4 1
+eject 2 5 0
+moral 1 7 0

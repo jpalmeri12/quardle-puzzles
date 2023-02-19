@@ -1,0 +1,6 @@
+7 11 drop
+leapt 5 1 1
+finer 3 4 1
+joint 1 5 0
+cease 2 7 0
+tract 1 10 0

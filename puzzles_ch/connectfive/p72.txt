@@ -1,0 +1,6 @@
+6 10 connectfive
+model 4 1 1
+decor 1 2 0
+cable 1 5 0
+cramp 1 5 1
+blend 3 5 1

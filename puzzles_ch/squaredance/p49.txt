@@ -1,0 +1,6 @@
+6 8 squaredance
+throw 1 1 1
+ready 5 1 1
+tiger 1 1 0
+wispy 1 5 0
+femme 1 7 0

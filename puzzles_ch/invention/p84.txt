@@ -1,0 +1,5 @@
+7 9 invention
+brawl 6 1 1
+title 3 4 1
+vital 2 5 0
+sleep 1 8 0

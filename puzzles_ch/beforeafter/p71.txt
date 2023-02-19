@@ -1,0 +1,9 @@
+7 9 beforeafter
+ebony 5 1 1
+stung 2 4 0
+spade 2 4 1
+metro 1 8 0
+!beforeafter 1 k
+!beforeafter 2 r
+!beforeafter 1 i
+!beforeafter 1 n

@@ -1,0 +1,6 @@
+7 8 commonsecret
+whale 1 1 0
+arrow 3 1 1
+whiff 6 3 1
+worth 2 4 0
+!secret w

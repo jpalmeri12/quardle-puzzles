@@ -1,0 +1,5 @@
+7 9 duplicity
+elate 2 1 1
+stiff 1 4 0
+feast 4 4 1
+aisle 2 7 0

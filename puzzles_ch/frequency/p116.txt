@@ -1,0 +1,5 @@
+7 10 frequency
+puree 3 1 1
+tepid 2 5 0
+plied 4 5 1
+taper 1 8 0

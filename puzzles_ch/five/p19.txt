@@ -1,0 +1,6 @@
+7 10 five
+might 6 1 1
+staid 2 5 1
+spout 2 5 0
+omega 4 5 1
+paper 1 7 0

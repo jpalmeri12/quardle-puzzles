@@ -1,0 +1,5 @@
+7 10 outoforder
+minus 2 1 1
+liner 1 2 0
+stoke 2 5 0
+often 4 5 1

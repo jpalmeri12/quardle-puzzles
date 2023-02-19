@@ -1,0 +1,6 @@
+7 11 undercover
+glass 2 1 0
+spunk 5 1 1
+issue 1 4 1
+shark 1 5 0
+dowdy 1 10 0

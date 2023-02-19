@@ -1,0 +1,5 @@
+7 10
+pesto 2 1 1
+obese 2 5 0
+buddy 3 5 1
+dodge 1 7 0

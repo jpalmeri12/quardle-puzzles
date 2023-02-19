@@ -1,0 +1,5 @@
+6 7
+gusto 4 1 1
+ruder 2 2 1
+quash 1 3 0
+depot 1 5 0

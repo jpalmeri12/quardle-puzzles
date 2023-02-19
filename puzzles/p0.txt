@@ -1,0 +1,5 @@
+7 10
+penny 4 1 1
+shelf 2 2 0
+polyp 1 5 0
+pivot 5 5 1

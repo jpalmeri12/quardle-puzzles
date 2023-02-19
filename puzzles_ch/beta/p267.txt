@@ -1,0 +1,5 @@
+6 10 beta
+digit 3 1 1
+satyr 1 5 0
+straw 1 5 1
+about 1 8 0

@@ -1,0 +1,5 @@
+6 8
+venue 1 1 1
+randy 3 3 1
+usage 1 4 0
+style 1 7 0

@@ -1,0 +1,5 @@
+7 8
+ethos 2 1 1
+evade 2 1 0
+shunt 1 3 0
+nurse 4 3 1

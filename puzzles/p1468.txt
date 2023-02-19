@@ -1,0 +1,5 @@
+7 9
+clean 1 1 1
+aptly 1 4 0
+twist 3 4 1
+villa 2 6 0

@@ -1,0 +1,5 @@
+7 9 clockdown
+bused 1 1 0
+shied 3 1 1
+tenet 2 4 0
+toxic 6 4 1

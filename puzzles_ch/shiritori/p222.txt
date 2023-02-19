@@ -1,0 +1,5 @@
+7 10 shiritori
+fifty 2 1 0
+flyer 4 1 1
+scare 1 5 0
+cough 2 5 1

@@ -1,0 +1,5 @@
+7 10
+quick 4 1 1
+poker 2 5 0
+obese 3 5 1
+glean 1 7 0

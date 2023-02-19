@@ -1,0 +1,5 @@
+6 10
+graze 1 1 1
+grown 1 1 0
+elide 1 5 0
+decor 4 5 1

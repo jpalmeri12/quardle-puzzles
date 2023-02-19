@@ -1,0 +1,5 @@
+7 8
+snarl 1 1 0
+audio 3 1 1
+adept 2 3 0
+trail 6 3 1

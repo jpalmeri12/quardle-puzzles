@@ -1,0 +1,5 @@
+7 9
+pearl 2 1 1
+award 4 4 1
+lowly 2 5 0
+where 1 7 0

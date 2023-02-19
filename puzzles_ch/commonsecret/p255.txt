@@ -1,0 +1,6 @@
+7 9 commonsecret
+smelt 1 1 0
+terse 5 1 1
+coast 2 4 0
+outer 3 4 1
+!secret t

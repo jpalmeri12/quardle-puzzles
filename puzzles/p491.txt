@@ -1,0 +1,5 @@
+7 8
+prick 1 1 0
+chest 4 1 1
+stern 2 3 0
+spout 2 3 1

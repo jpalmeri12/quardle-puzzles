@@ -1,0 +1,6 @@
+6 9 undercover
+truss 1 1 1
+rower 1 2 0
+widen 3 2 1
+swell 1 5 0
+kappa 1 8 0

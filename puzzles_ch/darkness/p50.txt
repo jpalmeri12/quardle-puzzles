@@ -1,0 +1,5 @@
+7 10 darkness
+musty 2 7 0
+equal 3 5 1
+wrest 1 5 0
+crass 4 1 1

@@ -1,0 +1,5 @@
+7 9
+scald 1 1 0
+large 4 1 1
+vegan 2 4 0
+voter 2 4 1

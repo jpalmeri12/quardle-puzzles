@@ -1,0 +1,5 @@
+7 10
+delta 1 1 1
+aglow 1 5 0
+ovary 4 5 1
+coyly 2 9 0

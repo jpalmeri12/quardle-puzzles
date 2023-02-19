@@ -1,0 +1,5 @@
+7 9
+other 2 1 1
+siege 4 4 1
+groin 1 5 0
+queue 2 8 0

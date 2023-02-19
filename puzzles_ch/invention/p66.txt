@@ -1,0 +1,5 @@
+7 9 invention
+filth 1 1 0
+tumor 4 1 1
+agony 2 4 0
+adobe 2 4 1

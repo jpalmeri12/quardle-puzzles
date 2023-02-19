@@ -1,0 +1,5 @@
+7 9 spaced
+pecan 5 1 1
+flash 3 4 1
+plant 2 5 0
+music 1 7 0

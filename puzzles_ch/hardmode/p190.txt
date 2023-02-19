@@ -1,0 +1,5 @@
+7 8 hardmode
+bible 1 1 0
+lunge 4 1 1
+panel 2 3 0
+patty 2 3 1

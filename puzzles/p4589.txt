@@ -1,0 +1,5 @@
+7 7
+petal 4 1 1
+poesy 2 2 0
+primo 2 2 1
+ample 1 5 0

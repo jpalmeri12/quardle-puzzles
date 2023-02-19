@@ -1,0 +1,5 @@
+7 10 duplicity
+sleet 5 1 1
+whale 1 3 0
+latte 2 5 0
+awash 3 5 1

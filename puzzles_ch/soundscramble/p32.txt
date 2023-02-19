@@ -1,0 +1,5 @@
+6 7 soundscramble
+bonja 4 1 1
+eclot 1 2 0
+chirp 2 2 1
+praaf 1 5 0

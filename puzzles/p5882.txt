@@ -1,0 +1,5 @@
+7 8
+sober 6 1 1
+stamp 2 3 1
+trope 2 4 0
+ember 1 6 0

@@ -1,0 +1,6 @@
+7 8 island
+widen 1 1 1
+smoke 4 3 1
+enemy 1 4 0
+woken 2 6 0
+!island 311 32 211 221

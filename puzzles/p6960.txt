@@ -1,0 +1,5 @@
+7 9
+ladle 6 1 1
+broil 2 4 0
+begat 2 4 1
+egret 1 6 0

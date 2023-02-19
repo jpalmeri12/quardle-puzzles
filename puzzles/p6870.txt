@@ -1,0 +1,5 @@
+7 9
+jaunt 6 1 1
+nurse 3 4 1
+quiet 2 5 0
+check 1 8 0

@@ -1,0 +1,5 @@
+6 10
+roost 2 1 1
+stove 1 5 0
+elate 5 5 1
+aroma 1 7 0

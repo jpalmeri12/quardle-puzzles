@@ -1,0 +1,5 @@
+7 9 bestfit
+ionic 1 1 1
+pinch 3 4 1
+cried 1 5 0
+shirk 2 8 0

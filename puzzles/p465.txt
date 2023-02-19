@@ -1,0 +1,5 @@
+7 7
+navel 5 1 1
+parse 2 2 1
+pleat 2 2 0
+prune 1 4 0

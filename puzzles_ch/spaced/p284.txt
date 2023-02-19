@@ -1,0 +1,5 @@
+7 9 spaced
+slang 5 1 1
+spank 2 4 0
+perch 3 4 1
+micro 1 7 0

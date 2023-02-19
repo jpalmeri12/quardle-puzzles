@@ -1,0 +1,5 @@
+6 9 hardmode
+pedal 4 1 1
+unset 1 2 0
+delay 1 4 0
+elide 2 4 1

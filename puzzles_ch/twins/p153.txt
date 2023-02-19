@@ -1,0 +1,8 @@
+6 8 twins
+cigar 1 1 0
+agora 1 3 0
+woven 1 5 0
+freed 1 7 0
+!twins 0 1
+!twins 3 4
+!twins 0 2

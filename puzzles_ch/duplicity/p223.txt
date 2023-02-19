@@ -1,0 +1,5 @@
+7 10 duplicity
+bitty 6 1 1
+tally 2 5 0
+learn 4 5 1
+brine 1 9 0

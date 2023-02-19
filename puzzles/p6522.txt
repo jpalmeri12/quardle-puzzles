@@ -1,0 +1,5 @@
+7 7
+fluid 1 1 1
+hence 5 2 1
+undue 1 3 0
+matey 2 6 0

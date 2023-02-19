@@ -1,0 +1,5 @@
+7 10
+orbit 2 1 1
+start 1 5 0
+rainy 4 5 1
+glide 2 7 0

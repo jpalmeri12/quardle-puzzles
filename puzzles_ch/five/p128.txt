@@ -1,0 +1,6 @@
+7 8 five
+tacit 1 1 0
+anime 2 1 1
+float 5 3 1
+smell 1 4 0
+putty 2 7 0

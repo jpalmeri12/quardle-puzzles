@@ -1,0 +1,5 @@
+7 9
+chair 4 1 1
+piano 2 4 1
+fiery 1 5 0
+naval 2 7 0

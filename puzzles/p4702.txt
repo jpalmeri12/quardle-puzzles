@@ -1,0 +1,5 @@
+6 7
+front 5 1 1
+deter 1 2 0
+downy 1 2 1
+night 1 5 0

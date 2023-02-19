@@ -1,0 +1,5 @@
+6 6
+foist 1 1 0
+fjord 1 1 1
+troll 5 1 1
+regal 1 4 0

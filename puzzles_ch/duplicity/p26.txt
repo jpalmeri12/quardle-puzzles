@@ -1,0 +1,5 @@
+7 7 duplicity
+shake 4 1 1
+scarf 2 2 1
+chafe 2 3 0
+creek 1 5 0

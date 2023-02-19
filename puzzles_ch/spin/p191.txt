@@ -1,0 +1,5 @@
+7 9 spin
+swept 2 1 1
+nutty 4 4 1
+truth 2 5 0
+booty 1 7 0

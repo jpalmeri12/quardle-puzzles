@@ -1,0 +1,5 @@
+7 10
+phone 4 1 1
+baron 1 3 0
+event 2 5 0
+virus 3 5 1

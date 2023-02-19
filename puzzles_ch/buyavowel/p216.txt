@@ -1,0 +1,5 @@
+7 8 buyavowel
+ferry 5 1 1
+story 2 3 0
+squat 2 3 1
+juicy 1 5 0

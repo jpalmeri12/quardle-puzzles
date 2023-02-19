@@ -1,0 +1,5 @@
+7 10 spaced
+hydro 1 1 1
+octal 1 5 0
+close 2 5 1
+ovary 2 7 0

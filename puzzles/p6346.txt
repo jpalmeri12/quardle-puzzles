@@ -1,0 +1,5 @@
+6 9
+snoop 5 1 1
+photo 1 4 0
+offal 3 4 1
+blank 1 7 0

@@ -1,0 +1,5 @@
+7 8
+triad 1 1 0
+razor 2 1 1
+zonal 2 3 0
+noise 4 3 1

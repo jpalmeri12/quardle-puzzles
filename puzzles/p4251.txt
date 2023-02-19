@@ -1,0 +1,5 @@
+6 10
+dying 1 1 0
+north 4 1 1
+duchy 1 5 0
+ulcer 2 5 1

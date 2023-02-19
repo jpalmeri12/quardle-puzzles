@@ -1,0 +1,5 @@
+7 10 soundscramble
+ninje 2 1 0
+judga 5 1 1
+berga 1 5 0
+glova 4 5 1

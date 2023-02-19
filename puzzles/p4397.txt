@@ -1,0 +1,5 @@
+7 7
+slave 2 1 1
+slink 1 2 0
+knelt 5 2 1
+valet 2 4 0

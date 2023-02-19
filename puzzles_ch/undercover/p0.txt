@@ -1,0 +1,6 @@
+7 10 undercover
+stash 3 1 1
+enemy 5 3 1
+basin 1 4 0
+satyr 2 7 0
+could 1 9 0

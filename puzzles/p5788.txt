@@ -1,0 +1,5 @@
+7 10
+pitch 5 1 1
+right 2 5 0
+gypsy 4 5 1
+guppy 1 7 0

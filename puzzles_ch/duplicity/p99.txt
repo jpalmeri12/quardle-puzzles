@@ -1,0 +1,5 @@
+6 9 duplicity
+tutor 5 1 1
+usurp 2 4 1
+ester 1 5 0
+prose 1 7 0

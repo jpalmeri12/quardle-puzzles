@@ -1,0 +1,6 @@
+7 11 drop
+amass 2 1 1
+smite 1 2 0
+guilt 4 4 1
+stump 2 5 0
+datum 1 10 0

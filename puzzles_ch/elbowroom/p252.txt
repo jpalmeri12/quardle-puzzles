@@ -1,0 +1,5 @@
+6 9 elbowroom
+borne 1 1 0
+eaten 5 1 1
+prone 1 4 0
+rally 2 4 1

@@ -1,0 +1,6 @@
+7 9 five
+forty 6 1 1
+patio 2 2 0
+donut 2 4 0
+odder 3 4 1
+carry 1 8 0

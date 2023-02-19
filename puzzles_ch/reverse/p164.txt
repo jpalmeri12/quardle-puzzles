@@ -1,0 +1,5 @@
+7 10 reverse
+morph 4 1 1
+proof 2 2 0
+gniht 1 5 0
+isauq 3 5 1

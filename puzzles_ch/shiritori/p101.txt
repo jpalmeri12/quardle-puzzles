@@ -1,0 +1,5 @@
+7 7 shiritori
+known 4 1 1
+stink 1 2 0
+testy 2 2 1
+sewer 2 4 0

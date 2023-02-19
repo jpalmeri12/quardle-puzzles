@@ -1,0 +1,5 @@
+6 9 sweeper
+flung 5 1 1
+shaft 2 4 1
+shrug 1 5 0
+stout 1 8 0

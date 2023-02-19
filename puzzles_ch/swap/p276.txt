@@ -1,0 +1,5 @@
+7 10 swap
+chets 2 1 1
+chmie 2 1 0
+wsine 1 5 0
+neter 4 5 1

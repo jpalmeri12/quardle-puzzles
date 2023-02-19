@@ -1,0 +1,5 @@
+7 10
+folly 4 1 1
+decoy 1 2 0
+payee 2 5 0
+patty 2 5 1

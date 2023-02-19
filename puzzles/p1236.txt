@@ -1,0 +1,5 @@
+7 10
+sixty 4 1 1
+flyer 2 5 0
+eater 5 5 1
+boxer 1 9 0

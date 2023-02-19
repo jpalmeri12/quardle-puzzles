@@ -1,0 +1,5 @@
+6 8 shiritori
+elder 5 1 1
+duchy 3 3 1
+pause 1 4 0
+buyer 1 7 0

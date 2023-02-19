@@ -1,0 +1,6 @@
+7 9 island
+where 5 1 1
+smart 2 4 0
+mossy 3 4 1
+basil 1 7 0
+!island 31 221 1111 2111

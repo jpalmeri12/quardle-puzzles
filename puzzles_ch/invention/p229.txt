@@ -1,0 +1,5 @@
+7 9 invention
+spelt 1 1 1
+lower 1 4 0
+wordy 3 4 1
+gypsy 2 8 0

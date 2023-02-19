@@ -1,0 +1,5 @@
+7 10
+testy 2 1 1
+yacht 2 5 0
+comet 4 5 1
+batty 1 9 0

@@ -1,0 +1,5 @@
+7 7 shiritori
+polyp 6 1 1
+beard 3 2 1
+baggy 2 4 0
+dodge 1 6 0

@@ -1,0 +1,6 @@
+7 11 connectfive
+kneed 6 1 1
+judge 4 2 1
+lodge 2 4 0
+miser 1 6 0
+islet 2 6 1

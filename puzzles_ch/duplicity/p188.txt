@@ -1,0 +1,5 @@
+7 7 duplicity
+ester 6 1 1
+rural 2 2 1
+unset 2 3 0
+slant 1 6 0

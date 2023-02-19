@@ -1,0 +1,5 @@
+6 6 dblltr
+libel 1 1 0
+issue 2 1 1
+error 4 1 1
+tutor 1 4 0

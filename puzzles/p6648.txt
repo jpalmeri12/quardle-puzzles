@@ -1,0 +1,5 @@
+6 6
+shalt 1 1 0
+havoc 2 1 1
+thief 5 1 1
+moose 1 4 0

@@ -1,0 +1,5 @@
+7 10 buyavowel
+spore 5 1 1
+aider 2 5 0
+along 2 5 1
+again 1 9 0

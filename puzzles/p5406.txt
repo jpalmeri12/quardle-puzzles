@@ -1,0 +1,5 @@
+6 8
+tweed 5 1 1
+gavel 3 3 1
+craze 1 4 0
+islet 1 7 0

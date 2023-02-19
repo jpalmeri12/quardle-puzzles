@@ -1,0 +1,5 @@
+7 9 clockdown
+augur 2 1 1
+ulcer 2 2 0
+rumor 1 4 0
+realm 5 4 1

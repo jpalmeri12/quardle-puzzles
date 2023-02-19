@@ -1,0 +1,7 @@
+6 8 secretdistance
+blurb 1 1 1
+pupil 4 1 1
+locus 1 2 0
+resin 1 4 0
+width 1 7 0
+!sdpos 3 0 1 1

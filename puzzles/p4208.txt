@@ -1,0 +1,5 @@
+6 9
+chart 1 1 1
+cider 1 1 0
+seedy 4 4 1
+tenet 1 5 0

@@ -1,0 +1,6 @@
+7 9 island
+widow 1 1 0
+droll 3 1 1
+skunk 6 4 1
+plank 2 5 0
+!island 211 22 1111 311

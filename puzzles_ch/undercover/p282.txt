@@ -1,0 +1,6 @@
+7 10 undercover
+ferry 6 1 1
+incur 2 3 0
+creek 4 3 1
+sober 1 6 0
+adapt 1 9 0

@@ -1,0 +1,5 @@
+7 9
+bound 6 1 1
+brain 2 4 0
+ratty 3 4 1
+metal 1 6 0

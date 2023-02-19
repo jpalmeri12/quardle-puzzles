@@ -1,0 +1,9 @@
+6 10 spellbound
+ripen 4 1 1
+graph 1 3 0
+amend 1 5 0
+axiom 1 5 1
+!spellbound 0 1 0
+!spellbound 1 1 0
+!spellbound 2 2 1
+!spellbound 3 1 2

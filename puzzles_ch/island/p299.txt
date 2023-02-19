@@ -1,0 +1,6 @@
+6 9 island
+pouch 1 1 1
+cabby 1 4 0
+blame 4 4 1
+plume 1 7 0
+!island 221 1111 11111 2111

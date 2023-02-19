@@ -1,0 +1,5 @@
+7 10 spaced
+mocha 2 1 1
+agent 2 5 0
+glove 3 5 1
+glean 1 9 0

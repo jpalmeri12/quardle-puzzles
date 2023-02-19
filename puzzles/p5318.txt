@@ -1,0 +1,5 @@
+6 9
+shift 1 1 0
+toxin 5 1 1
+fungi 1 4 0
+unset 2 4 1

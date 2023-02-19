@@ -1,0 +1,5 @@
+6 9
+thief 1 1 1
+epoxy 1 4 0
+ounce 3 4 1
+decal 1 7 0

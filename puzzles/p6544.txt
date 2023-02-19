@@ -1,0 +1,5 @@
+6 8
+freer 3 1 1
+freak 1 3 0
+feast 1 3 1
+apron 1 5 0

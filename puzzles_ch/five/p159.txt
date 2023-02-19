@@ -1,0 +1,6 @@
+7 10 five
+koala 3 1 1
+dough 5 1 1
+photo 1 2 0
+yacht 2 5 0
+tease 6 5 1

@@ -1,0 +1,5 @@
+7 9 invention
+splat 4 1 1
+grape 1 2 0
+leafy 2 4 0
+yeast 6 4 1

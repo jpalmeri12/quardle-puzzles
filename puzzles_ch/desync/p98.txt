@@ -1,0 +1,5 @@
+6 7 desync
+caper 3 1 1
+shake 1 2 0
+scorn 1 2 1
+overt 1 4 0

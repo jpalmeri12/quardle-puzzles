@@ -1,0 +1,5 @@
+7 10
+prove 5 1 1
+abbot 2 3 0
+pixie 1 5 0
+peril 1 5 1

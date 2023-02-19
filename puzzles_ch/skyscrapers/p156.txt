@@ -1,0 +1,5 @@
+7 9 skyscrapers
+vault 1 2 0
+gumbo 3 1 1
+court 2 5 0
+proxy 5 4 1

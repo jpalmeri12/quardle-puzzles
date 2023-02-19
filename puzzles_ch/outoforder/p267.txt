@@ -1,0 +1,5 @@
+7 10 outoforder
+radii 2 1 1
+nicer 1 5 0
+curve 3 5 1
+arbor 2 7 0

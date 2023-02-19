@@ -1,0 +1,9 @@
+6 10 beforeafter
+topic 2 1 1
+occur 1 5 0
+optic 1 5 1
+input 1 8 0
+!beforeafter 2 m
+!beforeafter 2 p
+!beforeafter 2 j
+!beforeafter 1 o

@@ -1,0 +1,5 @@
+7 10
+verse 2 1 1
+decal 1 5 0
+lurid 5 5 1
+again 2 8 0

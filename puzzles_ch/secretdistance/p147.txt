@@ -1,0 +1,7 @@
+6 11 secretdistance
+muddy 1 1 0
+droit 4 1 1
+vigil 1 4 0
+vague 1 4 1
+dress 1 10 0
+!sdpos 2 0 0 2

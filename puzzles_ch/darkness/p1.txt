@@ -1,0 +1,5 @@
+7 8 darkness
+shunt 6 3 1
+trope 2 1 1
+punch 2 4 0
+stork 1 1 0

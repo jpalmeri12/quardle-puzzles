@@ -1,0 +1,6 @@
+7 10 connectfive
+vowel 2 1 1
+chafe 5 1 1
+ought 2 2 0
+blade 1 5 0
+align 3 5 1

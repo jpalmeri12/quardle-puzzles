@@ -1,0 +1,6 @@
+7 12 undercover
+empty 6 1 1
+manly 2 5 0
+assay 3 5 1
+ovary 1 8 0
+cubic 1 11 0

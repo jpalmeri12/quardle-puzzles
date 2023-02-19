@@ -1,0 +1,5 @@
+7 7
+sweep 6 1 1
+brunt 2 2 1
+unite 2 4 0
+etude 1 6 0

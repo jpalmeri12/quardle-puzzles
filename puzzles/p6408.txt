@@ -1,0 +1,5 @@
+6 9
+greed 3 1 1
+acrid 1 2 0
+beech 1 4 0
+hobby 5 4 1

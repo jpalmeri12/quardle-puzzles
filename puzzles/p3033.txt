@@ -1,0 +1,5 @@
+7 9
+budge 4 1 1
+pouch 2 2 0
+bring 2 4 1
+greed 1 5 0

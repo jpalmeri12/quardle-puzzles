@@ -1,0 +1,5 @@
+6 10
+moist 2 1 1
+aorta 1 2 0
+stunk 1 5 0
+usual 3 5 1

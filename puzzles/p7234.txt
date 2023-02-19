@@ -1,0 +1,5 @@
+7 10
+broth 2 1 1
+whoop 1 5 0
+overt 3 5 1
+geeky 2 7 0

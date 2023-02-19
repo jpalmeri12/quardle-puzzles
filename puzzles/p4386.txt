@@ -1,0 +1,5 @@
+6 7
+alley 5 1 1
+cabal 1 2 0
+bunny 3 2 1
+lunge 1 4 0

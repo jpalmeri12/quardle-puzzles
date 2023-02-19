@@ -1,0 +1,5 @@
+7 10 swap
+nseak 4 1 1
+bxoer 1 3 0
+oslar 2 5 1
+opker 2 5 0

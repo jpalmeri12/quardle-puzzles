@@ -1,0 +1,6 @@
+6 8 squaredance
+valid 1 1 1
+dress 5 1 1
+vapid 1 1 0
+dross 1 5 0
+slope 1 7 0

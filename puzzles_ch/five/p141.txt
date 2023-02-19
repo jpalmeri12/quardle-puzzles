@@ -1,0 +1,6 @@
+7 10 five
+curve 2 1 0
+valve 5 1 1
+cycle 2 3 0
+carve 1 5 0
+armor 2 5 1

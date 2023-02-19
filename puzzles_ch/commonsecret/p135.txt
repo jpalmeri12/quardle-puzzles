@@ -1,0 +1,6 @@
+6 8 commonsecret
+riper 5 1 1
+slave 2 3 1
+slate 1 4 0
+fetus 1 7 0
+!secret e

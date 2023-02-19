@@ -1,0 +1,5 @@
+7 9
+outer 4 1 1
+navel 1 4 0
+among 2 4 1
+ninth 2 7 0

@@ -1,0 +1,5 @@
+7 7
+zebra 3 1 1
+ocean 1 2 0
+neigh 5 2 1
+barge 2 5 0

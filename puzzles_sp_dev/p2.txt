@@ -1,0 +1,5 @@
+7 9 reverse
+niorg 2 1 0
+oitap 4 1 1
+trial 1 4 0
+rarer 2 4 1

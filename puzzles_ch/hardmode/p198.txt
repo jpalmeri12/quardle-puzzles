@@ -1,0 +1,5 @@
+6 7 hardmode
+match 2 1 1
+decal 5 2 1
+stoke 1 3 0
+china 1 5 0

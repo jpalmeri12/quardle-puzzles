@@ -1,0 +1,5 @@
+7 10 frequency
+krill 5 1 1
+plait 2 3 0
+modal 1 5 0
+ounce 2 5 1

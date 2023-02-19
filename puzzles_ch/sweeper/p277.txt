@@ -1,0 +1,5 @@
+7 8 sweeper
+assay 2 1 1
+allot 2 1 0
+wench 4 3 1
+paler 1 4 0

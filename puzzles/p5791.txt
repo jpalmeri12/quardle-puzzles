@@ -1,0 +1,5 @@
+7 10
+leper 5 1 1
+soapy 2 3 0
+cedar 1 5 0
+clink 1 5 1

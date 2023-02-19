@@ -1,0 +1,5 @@
+6 7 skyscrapers
+utter 4 1 1
+unwed 1 4 0
+flunk 1 2 1
+fritz 1 2 0

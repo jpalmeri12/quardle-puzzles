@@ -1,0 +1,7 @@
+7 12 secretdistance
+waist 2 1 1
+tabby 2 5 0
+beady 5 5 1
+manga 1 7 0
+bleat 1 11 0
+!sdpos 2 0 1 2

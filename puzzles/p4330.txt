@@ -1,0 +1,5 @@
+7 10
+trace 3 1 1
+clerk 1 5 0
+karma 5 5 1
+sport 2 7 0

@@ -1,0 +1,5 @@
+6 9
+facet 1 1 0
+tepee 5 1 1
+shrug 2 4 1
+whole 1 5 0

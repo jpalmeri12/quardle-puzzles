@@ -1,0 +1,5 @@
+7 10 frequency
+khaki 4 1 1
+lathe 1 2 0
+shire 2 5 0
+stall 2 5 1

@@ -1,0 +1,6 @@
+7 8 island
+kebab 2 1 1
+batty 4 3 1
+bathe 2 5 0
+satyr 1 7 0
+!island 1111 211 2111 32

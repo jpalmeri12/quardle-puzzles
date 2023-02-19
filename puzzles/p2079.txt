@@ -1,0 +1,5 @@
+7 10
+banjo 2 1 1
+logic 1 5 0
+igloo 4 5 1
+blood 2 9 0

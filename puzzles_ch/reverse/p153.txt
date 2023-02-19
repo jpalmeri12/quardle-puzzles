@@ -1,0 +1,5 @@
+6 9 reverse
+eseht 1 1 1
+soapy 4 4 1
+tenor 1 5 0
+nolyn 1 8 0

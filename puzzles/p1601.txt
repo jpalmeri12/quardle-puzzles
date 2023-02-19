@@ -1,0 +1,5 @@
+7 10
+lilac 5 1 1
+chili 1 2 0
+tract 2 5 0
+river 3 5 1

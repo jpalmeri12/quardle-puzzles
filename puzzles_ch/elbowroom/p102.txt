@@ -1,0 +1,5 @@
+7 10 elbowroom
+orbit 2 1 0
+begin 4 1 1
+spend 1 5 0
+sharp 1 5 1

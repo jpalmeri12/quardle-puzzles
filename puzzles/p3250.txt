@@ -1,0 +1,5 @@
+6 10
+jelly 5 1 1
+geeky 1 5 0
+krill 4 5 1
+toxic 1 7 0

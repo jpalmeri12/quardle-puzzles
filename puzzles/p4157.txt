@@ -1,0 +1,5 @@
+7 10
+begat 4 1 1
+hotel 2 5 0
+empty 5 5 1
+strap 1 7 0

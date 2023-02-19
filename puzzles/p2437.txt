@@ -1,0 +1,5 @@
+7 10
+there 2 1 0
+taunt 2 1 1
+stint 1 5 0
+toxin 5 5 1

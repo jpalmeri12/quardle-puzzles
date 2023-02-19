@@ -1,0 +1,5 @@
+7 9
+haunt 6 1 1
+train 2 4 0
+ardor 4 4 1
+carry 1 8 0

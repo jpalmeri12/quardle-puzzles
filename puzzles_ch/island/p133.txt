@@ -1,0 +1,6 @@
+7 10 island
+abase 2 1 0
+blurb 3 1 1
+cable 1 5 0
+chart 1 5 1
+!island 31 1111 11111 2111

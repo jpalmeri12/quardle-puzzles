@@ -1,0 +1,6 @@
+7 10 drop
+edict 1 1 0
+decoy 2 1 1
+cloud 2 3 0
+olive 4 3 1
+covey 1 9 0

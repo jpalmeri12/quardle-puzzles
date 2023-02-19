@@ -1,0 +1,5 @@
+7 10
+knack 1 1 0
+natal 2 1 1
+least 2 5 0
+angel 4 5 1

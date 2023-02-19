@@ -1,0 +1,5 @@
+7 9 desync
+caste 1 1 1
+taste 1 4 0
+spiny 3 4 1
+undue 2 7 0

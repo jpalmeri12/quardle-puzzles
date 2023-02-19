@@ -1,0 +1,5 @@
+7 7
+urine 4 1 1
+graft 2 2 1
+grail 1 3 0
+fleet 2 5 0

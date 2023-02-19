@@ -1,0 +1,5 @@
+7 9
+quasi 4 1 1
+evict 2 4 1
+vying 2 5 0
+stack 1 8 0

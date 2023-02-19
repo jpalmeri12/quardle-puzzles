@@ -1,0 +1,5 @@
+7 10 unloved
+sauna 2 1 1
+upper 2 3 0
+madam 1 5 0
+mason 5 5 1

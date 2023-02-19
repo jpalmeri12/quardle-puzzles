@@ -1,0 +1,5 @@
+7 9 darkness
+actor 5 4 1
+touch 2 5 0
+bliss 1 2 0
+blurt 2 1 1

@@ -1,0 +1,5 @@
+7 9
+ratty 5 1 1
+foray 2 2 0
+covet 1 4 0
+viral 3 4 1

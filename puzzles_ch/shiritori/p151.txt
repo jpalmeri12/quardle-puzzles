@@ -1,0 +1,5 @@
+7 10 shiritori
+bloom 1 1 1
+macaw 1 5 0
+crumb 3 5 1
+butch 2 7 0

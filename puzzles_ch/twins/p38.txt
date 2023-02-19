@@ -1,0 +1,8 @@
+6 8 twins
+quark 1 1 0
+tribe 1 3 0
+dingo 1 5 0
+comic 1 7 0
+!twins 0 1
+!twins 2 3
+!twins 0 2

@@ -1,0 +1,5 @@
+7 8
+buddy 2 1 1
+dodgy 2 3 0
+gipsy 5 3 1
+husky 1 7 0

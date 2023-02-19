@@ -1,0 +1,5 @@
+7 7 spaced
+mercy 5 1 1
+hotel 2 2 0
+ombre 3 2 1
+murky 1 5 0

@@ -1,0 +1,6 @@
+7 10 wordcolumn
+debug 4 1 1
+tuber 2 3 0
+budge 1 5 0
+usual 2 5 1
+alley 2 8 0

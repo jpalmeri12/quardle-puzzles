@@ -1,0 +1,5 @@
+6 6 dblltr
+slash 1 1 1
+jolly 3 1 1
+loopy 1 2 0
+salad 1 4 0

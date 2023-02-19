@@ -1,0 +1,5 @@
+6 6
+rouge 2 1 1
+drier 4 1 1
+sorry 1 2 0
+egret 1 4 0

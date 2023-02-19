@@ -1,0 +1,5 @@
+7 10 beta
+magma 4 1 1
+graft 2 5 0
+flute 5 5 1
+bayou 1 7 0

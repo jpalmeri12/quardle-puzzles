@@ -1,0 +1,5 @@
+7 8
+cutie 1 1 0
+title 3 1 1
+staid 2 3 0
+dairy 6 3 1

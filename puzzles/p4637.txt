@@ -1,0 +1,5 @@
+7 10
+plaza 3 1 1
+hasty 2 5 0
+stoic 4 5 1
+labor 1 7 0

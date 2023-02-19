@@ -1,0 +1,5 @@
+7 10 skyscrapers
+rarer 1 7 0
+guess 4 5 1
+cigar 2 5 0
+chili 3 1 1

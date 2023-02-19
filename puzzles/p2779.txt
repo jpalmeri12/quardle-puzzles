@@ -1,0 +1,5 @@
+7 8
+leech 1 1 0
+hoard 5 1 1
+jelly 2 3 1
+entry 2 4 0

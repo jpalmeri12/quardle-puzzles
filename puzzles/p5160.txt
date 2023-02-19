@@ -1,0 +1,5 @@
+7 9
+chafe 4 1 1
+goofy 1 4 0
+outgo 2 4 1
+geese 2 7 0

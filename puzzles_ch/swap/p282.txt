@@ -1,0 +1,5 @@
+7 7 swap
+shonw 2 1 1
+hnoor 2 2 0
+odlen 5 2 1
+awrae 1 5 0

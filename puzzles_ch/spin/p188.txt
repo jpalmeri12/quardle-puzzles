@@ -1,0 +1,5 @@
+7 10 spin
+leech 5 1 1
+homer 2 2 0
+lymph 1 5 0
+liver 1 5 1

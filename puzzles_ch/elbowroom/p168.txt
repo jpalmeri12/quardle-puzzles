@@ -1,0 +1,5 @@
+7 10 elbowroom
+doubt 4 1 1
+visor 1 2 0
+betel 2 5 0
+evict 3 5 1

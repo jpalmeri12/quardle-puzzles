@@ -1,0 +1,8 @@
+6 8 twins
+candy 1 1 0
+acorn 1 3 0
+glide 1 5 0
+gummy 1 7 0
+!twins 0 1
+!twins 0 2
+!twins 1 3

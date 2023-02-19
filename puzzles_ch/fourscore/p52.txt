@@ -1,0 +1,5 @@
+7 10 fourscore
+cloak 4 1 1
+spiky 1 5 0
+inlay 3 5 1
+labor 2 8 0

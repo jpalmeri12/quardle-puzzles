@@ -1,0 +1,6 @@
+7 10 five
+merge 2 1 0
+eager 3 1 1
+agape 2 3 0
+verso 1 5 0
+eerie 2 5 1

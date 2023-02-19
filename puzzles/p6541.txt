@@ -1,0 +1,5 @@
+6 7
+mirth 1 1 1
+ridge 4 2 1
+rigid 1 3 0
+hinge 1 5 0

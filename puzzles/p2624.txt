@@ -1,0 +1,5 @@
+7 10
+digit 2 1 1
+taint 2 5 0
+arson 3 5 1
+broth 1 8 0

@@ -1,0 +1,5 @@
+7 10
+royal 5 1 1
+quill 1 5 0
+leash 4 5 1
+bosom 2 8 0

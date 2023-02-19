@@ -1,0 +1,5 @@
+7 7
+welsh 6 1 1
+stalk 2 2 1
+trawl 2 3 0
+skirt 1 6 0

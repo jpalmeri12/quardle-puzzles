@@ -1,0 +1,5 @@
+7 8
+lingo 6 1 1
+crime 3 3 1
+wrung 2 4 0
+weedy 1 7 0

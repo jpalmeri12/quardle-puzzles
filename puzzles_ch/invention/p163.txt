@@ -1,0 +1,5 @@
+7 7 invention
+revel 5 1 1
+usurp 2 2 1
+slave 2 3 0
+frail 1 5 0

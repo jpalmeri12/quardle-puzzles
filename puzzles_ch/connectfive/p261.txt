@@ -1,0 +1,6 @@
+7 10 connectfive
+hydro 3 1 1
+bless 6 1 1
+fiber 2 5 1
+focus 2 5 0
+abase 1 7 0

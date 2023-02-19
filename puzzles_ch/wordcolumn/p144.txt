@@ -1,0 +1,6 @@
+7 10 wordcolumn
+enema 3 1 1
+handy 1 2 0
+carat 2 5 0
+tabby 6 5 1
+climb 2 8 0

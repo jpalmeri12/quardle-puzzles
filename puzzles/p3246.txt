@@ -1,0 +1,5 @@
+7 9
+skunk 1 1 1
+ninny 1 4 0
+naive 4 4 1
+anime 2 6 0

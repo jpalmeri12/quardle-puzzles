@@ -1,0 +1,6 @@
+7 11 undercover
+spore 4 1 1
+hippy 2 2 0
+chirp 1 4 0
+creep 1 4 1
+album 1 10 0

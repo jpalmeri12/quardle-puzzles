@@ -1,0 +1,5 @@
+7 9 invention
+trite 2 1 0
+tiara 5 1 1
+stair 1 4 0
+anger 3 4 1

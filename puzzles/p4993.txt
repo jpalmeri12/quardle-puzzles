@@ -1,0 +1,5 @@
+7 8
+fritz 6 1 1
+fleck 3 3 1
+bleat 2 4 0
+decal 1 6 0

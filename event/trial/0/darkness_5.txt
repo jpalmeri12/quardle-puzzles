@@ -1,0 +1,5 @@
+7 7 darkness
+spine 2 5 0
+slang 5 2 1
+tulip 3 1 1
+truss 1 2 0

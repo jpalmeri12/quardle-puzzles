@@ -1,0 +1,5 @@
+7 9
+clear 1 1 0
+rotor 5 1 1
+short 3 4 1
+thorn 2 5 0

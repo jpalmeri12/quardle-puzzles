@@ -1,0 +1,5 @@
+6 8
+guile 5 1 1
+grind 2 3 1
+frill 1 4 0
+adapt 1 7 0

@@ -1,0 +1,6 @@
+7 9 five
+sloth 1 1 0
+train 4 1 1
+green 2 4 1
+renal 2 5 0
+noisy 2 8 0

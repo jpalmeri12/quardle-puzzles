@@ -1,0 +1,5 @@
+7 10
+bliss 6 1 1
+lupus 2 5 0
+unwed 5 5 1
+greed 1 9 0

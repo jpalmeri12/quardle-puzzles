@@ -1,0 +1,5 @@
+7 7
+aback 2 1 1
+loath 4 2 1
+aloud 2 3 0
+skate 1 5 0

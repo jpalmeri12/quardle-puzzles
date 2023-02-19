@@ -1,0 +1,5 @@
+7 8
+blimp 1 1 0
+mourn 4 1 1
+bough 2 3 0
+hymen 6 3 1

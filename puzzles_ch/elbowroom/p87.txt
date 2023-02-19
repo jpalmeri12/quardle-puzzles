@@ -1,0 +1,5 @@
+7 10 elbowroom
+mambo 3 1 1
+stake 1 2 0
+hound 2 5 0
+daily 6 5 1

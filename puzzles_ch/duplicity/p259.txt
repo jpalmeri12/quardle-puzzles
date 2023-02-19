@@ -1,0 +1,5 @@
+7 9 duplicity
+spent 2 1 1
+sniff 1 4 0
+filet 5 4 1
+spiel 2 7 0

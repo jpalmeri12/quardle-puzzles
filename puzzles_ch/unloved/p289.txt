@@ -1,0 +1,5 @@
+7 10 unloved
+bribe 5 1 1
+swirl 2 2 0
+thyme 1 5 0
+mercy 4 5 1

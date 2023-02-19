@@ -1,0 +1,9 @@
+7 10 beforeafter
+angry 5 1 1
+balmy 1 5 0
+midst 4 5 1
+vodka 2 7 0
+!beforeafter 2 q
+!beforeafter 1 j
+!beforeafter 2 q
+!beforeafter 1 l

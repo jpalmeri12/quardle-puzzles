@@ -1,0 +1,5 @@
+7 7
+spicy 1 1 0
+pence 2 1 1
+piper 6 2 1
+creep 2 4 0

@@ -1,0 +1,5 @@
+7 9 scrabble
+spool 3 1 1
+villa 1 5 0
+apple 2 2 0
+badly 5 4 1

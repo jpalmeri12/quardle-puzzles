@@ -1,0 +1,9 @@
+7 8 spellbound
+icily 4 1 1
+twang 2 3 1
+dwelt 1 4 0
+goner 2 7 0
+!spellbound 0 1 4
+!spellbound 1 2 0
+!spellbound 2 2 4
+!spellbound 3 1 4

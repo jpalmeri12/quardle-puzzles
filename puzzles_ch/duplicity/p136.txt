@@ -1,0 +1,5 @@
+6 6 duplicity
+tuber 2 1 1
+obese 4 1 1
+turbo 1 2 0
+reuse 1 4 0

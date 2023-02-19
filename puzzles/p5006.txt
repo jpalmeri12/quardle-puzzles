@@ -1,0 +1,5 @@
+7 10
+lefty 5 1 1
+proxy 1 5 0
+outer 3 5 1
+newly 2 8 0

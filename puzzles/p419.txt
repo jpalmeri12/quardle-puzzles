@@ -1,0 +1,5 @@
+6 10
+occur 3 1 1
+focal 1 2 0
+worth 1 5 0
+women 1 5 1

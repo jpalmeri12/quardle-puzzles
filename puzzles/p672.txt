@@ -1,0 +1,5 @@
+7 9
+bicep 6 1 1
+duvet 4 4 1
+usurp 2 5 0
+filth 1 8 0

@@ -1,0 +1,6 @@
+7 9 island
+hydro 3 1 1
+aging 5 4 1
+gorge 2 5 0
+train 1 7 0
+!island 221 1111 211 2111

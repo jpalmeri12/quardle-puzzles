@@ -1,0 +1,5 @@
+7 10 clockdown
+affix 1 1 0
+found 2 1 1
+downy 2 5 0
+navel 5 5 1

@@ -1,0 +1,5 @@
+7 9
+spear 2 1 1
+rayon 4 4 1
+react 2 5 0
+widow 1 7 0

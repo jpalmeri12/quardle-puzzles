@@ -1,0 +1,6 @@
+7 12 drop
+climb 2 1 1
+beady 2 5 0
+doing 5 5 1
+seven 1 8 0
+covey 1 11 0

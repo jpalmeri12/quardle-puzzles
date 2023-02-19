@@ -1,0 +1,6 @@
+6 11 drop
+spike 4 1 1
+askew 1 4 1
+sower 1 5 0
+whose 1 8 0
+swash 1 10 0

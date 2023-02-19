@@ -1,0 +1,5 @@
+7 10 scrabble
+delta 1 7 0
+gavel 4 1 1
+milky 2 5 0
+khaki 5 5 1

@@ -1,0 +1,5 @@
+7 7
+wooly 3 1 1
+arose 1 2 0
+elegy 5 2 1
+alien 2 4 0

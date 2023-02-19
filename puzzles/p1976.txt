@@ -1,0 +1,5 @@
+7 8
+admit 2 1 1
+mucus 2 3 0
+until 5 3 1
+libel 1 7 0

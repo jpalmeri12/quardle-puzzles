@@ -1,0 +1,5 @@
+6 9
+mount 1 1 0
+taker 5 1 1
+adobe 1 4 1
+agile 1 4 0

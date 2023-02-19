@@ -1,0 +1,5 @@
+7 9 swap
+umbar 3 1 1
+ammbo 2 2 0
+ngash 1 4 0
+hrose 5 4 1

@@ -1,0 +1,5 @@
+7 9 spaced
+empty 6 1 1
+agent 2 4 0
+gamer 3 4 1
+tamer 1 6 0

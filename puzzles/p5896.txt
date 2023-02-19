@@ -1,0 +1,5 @@
+6 9
+filly 5 1 1
+rabbi 1 2 0
+novel 1 4 0
+vying 3 4 1

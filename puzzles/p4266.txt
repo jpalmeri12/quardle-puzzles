@@ -1,0 +1,5 @@
+7 9
+girly 5 1 1
+gavel 1 4 0
+apron 2 4 1
+order 2 7 0

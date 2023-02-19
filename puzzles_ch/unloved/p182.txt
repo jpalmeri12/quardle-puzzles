@@ -1,0 +1,5 @@
+6 10 unloved
+naval 2 1 1
+glass 1 5 0
+scene 5 5 1
+verve 1 7 0

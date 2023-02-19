@@ -1,0 +1,5 @@
+7 8 frequency
+spoof 1 1 0
+older 4 1 1
+medic 2 3 0
+carat 6 3 1

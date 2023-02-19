@@ -1,0 +1,5 @@
+7 9 soundscramble
+ectot 4 1 1
+unclo 2 2 0
+leyal 2 4 1
+seety 1 5 0

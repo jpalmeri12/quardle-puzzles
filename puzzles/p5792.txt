@@ -1,0 +1,5 @@
+7 9
+axiom 5 1 1
+rouge 2 4 1
+forum 1 5 0
+exert 2 8 0

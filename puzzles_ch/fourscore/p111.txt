@@ -1,0 +1,5 @@
+7 9 fourscore
+lingo 1 1 1
+ghoul 1 4 0
+offer 3 4 1
+wench 2 7 0

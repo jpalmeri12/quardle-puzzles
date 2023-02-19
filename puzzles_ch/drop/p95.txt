@@ -1,0 +1,6 @@
+7 11 drop
+swami 3 1 1
+flunk 5 4 1
+wield 2 5 0
+drink 1 8 0
+plied 1 10 0

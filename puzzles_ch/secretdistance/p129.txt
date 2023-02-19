@@ -1,0 +1,7 @@
+7 12 secretdistance
+motor 3 1 1
+goose 1 2 0
+artsy 2 5 0
+smear 5 5 1
+carve 1 11 0
+!sdpos 0 2 0 3

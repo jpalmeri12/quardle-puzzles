@@ -1,0 +1,5 @@
+6 7
+ghoul 3 1 1
+aphid 1 2 0
+agate 1 2 1
+talon 1 5 0

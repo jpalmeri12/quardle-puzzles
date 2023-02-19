@@ -1,0 +1,5 @@
+7 7
+fence 2 1 1
+ensue 2 2 0
+space 4 2 1
+mecca 1 5 0

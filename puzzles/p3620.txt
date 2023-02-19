@@ -1,0 +1,5 @@
+7 9
+slick 5 1 1
+dilly 2 2 0
+medic 1 4 0
+miner 1 4 1

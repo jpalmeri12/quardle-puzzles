@@ -1,0 +1,5 @@
+7 10
+alive 2 1 0
+arbor 2 1 1
+drawn 1 5 0
+never 5 5 1

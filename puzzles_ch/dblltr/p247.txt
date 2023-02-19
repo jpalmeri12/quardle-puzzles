@@ -1,0 +1,5 @@
+6 10 dblltr
+fully 2 1 1
+nylon 1 5 0
+local 3 5 1
+agape 1 8 0

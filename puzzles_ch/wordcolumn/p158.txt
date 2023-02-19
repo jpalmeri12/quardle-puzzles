@@ -1,0 +1,6 @@
+6 8 wordcolumn
+leafy 1 1 1
+latch 1 1 0
+saucy 5 3 1
+flora 1 4 0
+delay 1 7 0

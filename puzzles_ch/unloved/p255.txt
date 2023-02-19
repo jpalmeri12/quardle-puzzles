@@ -1,0 +1,5 @@
+7 10 unloved
+tripe 6 1 1
+etude 2 5 0
+thigh 3 5 1
+light 1 8 0

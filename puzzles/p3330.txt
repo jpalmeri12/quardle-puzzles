@@ -1,0 +1,5 @@
+7 7
+brine 1 1 0
+reedy 2 1 1
+fight 6 2 1
+youth 2 5 0

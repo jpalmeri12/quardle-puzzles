@@ -1,0 +1,5 @@
+7 9
+lager 5 1 1
+creek 2 4 0
+chase 2 4 1
+pence 1 8 0

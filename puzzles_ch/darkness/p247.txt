@@ -1,0 +1,5 @@
+6 8 darkness
+undue 4 3 1
+fishy 2 1 1
+afire 1 1 0
+shiny 1 4 0

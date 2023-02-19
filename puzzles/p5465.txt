@@ -1,0 +1,5 @@
+7 9
+agree 6 1 1
+spoon 4 4 1
+tepee 2 5 0
+blood 1 7 0

@@ -1,0 +1,5 @@
+7 7 scrabble
+baton 1 4 0
+stony 5 1 1
+kitty 2 2 0
+knack 2 2 1

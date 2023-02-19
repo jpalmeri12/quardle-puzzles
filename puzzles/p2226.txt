@@ -1,0 +1,5 @@
+7 10
+fairy 5 1 1
+lofty 1 5 0
+thong 4 5 1
+spoon 2 7 0

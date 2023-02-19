@@ -1,0 +1,5 @@
+7 7
+axial 5 1 1
+helix 1 2 0
+entry 2 2 1
+tidal 2 4 0

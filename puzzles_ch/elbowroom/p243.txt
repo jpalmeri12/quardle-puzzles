@@ -1,0 +1,5 @@
+7 9 elbowroom
+heave 4 1 1
+slept 2 2 0
+mauve 1 4 0
+acorn 2 4 1

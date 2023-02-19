@@ -1,0 +1,5 @@
+6 8
+bleak 5 1 1
+dizzy 2 3 1
+pizza 1 4 0
+cycle 1 7 0

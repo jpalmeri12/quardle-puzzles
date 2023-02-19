@@ -1,0 +1,5 @@
+7 9
+panic 5 1 1
+trump 3 4 1
+brace 2 5 0
+comfy 1 7 0

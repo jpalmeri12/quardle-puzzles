@@ -1,0 +1,7 @@
+7 10 secretdistance
+vapor 3 1 1
+topic 1 3 0
+cover 5 3 1
+pearl 2 7 0
+donut 1 9 0
+!sdpos 2 1 1 0

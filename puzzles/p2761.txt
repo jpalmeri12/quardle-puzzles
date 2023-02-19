@@ -1,0 +1,5 @@
+7 10
+sumac 3 1 1
+curry 2 2 0
+macro 1 5 0
+motto 1 5 1

@@ -1,0 +1,5 @@
+7 10
+banal 1 1 0
+lurch 5 1 1
+night 2 5 0
+graph 4 5 1

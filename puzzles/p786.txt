@@ -1,0 +1,5 @@
+6 9
+matey 1 1 0
+money 1 1 1
+evoke 1 4 0
+enemy 5 4 1

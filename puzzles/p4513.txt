@@ -1,0 +1,5 @@
+7 9
+manga 5 1 1
+aider 2 4 1
+ideal 2 5 0
+graph 1 8 0

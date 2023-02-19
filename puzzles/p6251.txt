@@ -1,0 +1,5 @@
+7 10
+amend 5 1 1
+terse 1 3 0
+tardy 2 5 0
+tacit 2 5 1

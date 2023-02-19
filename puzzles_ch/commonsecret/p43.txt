@@ -1,0 +1,6 @@
+6 9 commonsecret
+stank 2 1 1
+unity 1 4 0
+tenth 4 4 1
+minty 1 7 0
+!secret n

@@ -1,0 +1,5 @@
+7 10
+swoop 4 1 1
+savoy 1 3 0
+repay 2 5 0
+apnea 5 5 1

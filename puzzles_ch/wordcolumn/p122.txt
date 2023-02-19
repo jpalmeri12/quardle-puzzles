@@ -1,0 +1,6 @@
+6 10 wordcolumn
+throb 1 1 1
+torus 1 1 0
+bushy 1 5 0
+undue 2 5 1
+below 1 9 0

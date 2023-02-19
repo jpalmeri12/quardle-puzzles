@@ -1,0 +1,5 @@
+7 10
+human 6 1 1
+thorn 2 5 0
+omega 4 5 1
+strap 1 9 0

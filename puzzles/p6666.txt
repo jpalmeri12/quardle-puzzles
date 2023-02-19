@@ -1,0 +1,5 @@
+7 9
+vicar 5 1 1
+rebel 3 4 1
+shear 1 5 0
+seize 2 7 0

@@ -1,0 +1,6 @@
+7 10 undercover
+vinyl 6 1 1
+taker 3 3 1
+caddy 2 4 0
+terse 1 7 0
+jumbo 1 9 0

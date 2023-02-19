@@ -1,0 +1,5 @@
+7 8 desync
+music 1 1 0
+chasm 5 1 1
+perch 3 3 1
+trump 2 5 0

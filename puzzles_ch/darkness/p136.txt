@@ -1,0 +1,5 @@
+6 7 darkness
+lingo 3 1 1
+broom 1 5 0
+axiom 1 2 0
+mammy 5 2 1

@@ -1,0 +1,6 @@
+7 8 island
+vivid 3 1 1
+cynic 5 3 1
+rainy 1 4 0
+pouch 2 7 0
+!island 111 1111 11111 221

@@ -1,0 +1,6 @@
+7 10 wordcolumn
+crimp 4 1 1
+slump 2 3 1
+blame 1 4 0
+spoil 6 5 1
+piano 2 7 0

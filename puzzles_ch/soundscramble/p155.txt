@@ -1,0 +1,5 @@
+6 9 soundscramble
+benge 2 1 1
+dotor 5 4 1
+geeso 1 5 0
+slavo 1 7 0

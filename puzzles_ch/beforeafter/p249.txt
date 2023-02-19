@@ -1,0 +1,9 @@
+7 9 beforeafter
+trial 1 1 1
+abhor 1 4 0
+harry 3 4 1
+wring 2 7 0
+!beforeafter 1 m
+!beforeafter 2 i
+!beforeafter 1 l
+!beforeafter 1 o

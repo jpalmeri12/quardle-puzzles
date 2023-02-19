@@ -1,0 +1,5 @@
+6 8
+newly 5 1 1
+godly 2 3 1
+vowel 1 4 0
+eying 1 7 0

@@ -1,0 +1,5 @@
+7 9 beta
+pulse 1 1 1
+stock 1 4 0
+click 4 4 1
+micro 2 7 0

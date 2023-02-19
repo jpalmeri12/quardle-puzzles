@@ -1,0 +1,5 @@
+7 8 outoforder
+right 2 1 1
+rabbi 2 1 0
+skunk 5 3 1
+chuck 1 4 0

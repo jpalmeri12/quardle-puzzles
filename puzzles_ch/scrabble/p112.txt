@@ -1,0 +1,5 @@
+7 9 scrabble
+utile 2 5 0
+older 1 7 0
+bride 6 1 1
+dully 2 4 1

@@ -1,0 +1,6 @@
+6 10 wordcolumn
+abyss 1 1 1
+strut 1 5 0
+throw 2 5 1
+ultra 4 5 1
+hoard 1 8 0

@@ -1,0 +1,5 @@
+7 9 desync
+adage 1 1 0
+dodgy 2 1 1
+goofy 2 4 0
+fling 5 4 1

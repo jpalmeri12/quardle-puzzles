@@ -1,0 +1,5 @@
+7 10
+comma 1 1 0
+mason 4 1 1
+sense 2 5 0
+stung 2 5 1

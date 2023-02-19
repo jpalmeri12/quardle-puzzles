@@ -1,0 +1,5 @@
+7 10 duplicity
+scare 6 1 1
+cycle 2 5 0
+cress 4 5 1
+alley 1 7 0

@@ -1,0 +1,5 @@
+7 9
+tease 3 1 1
+fleet 1 2 0
+askew 2 4 0
+easel 5 4 1

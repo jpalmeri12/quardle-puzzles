@@ -1,0 +1,5 @@
+6 8
+notch 2 1 1
+known 4 3 1
+shook 1 5 0
+whiny 1 7 0

@@ -1,0 +1,5 @@
+7 8 sweeper
+agile 1 1 0
+gusto 2 1 1
+slain 2 3 0
+ionic 5 3 1

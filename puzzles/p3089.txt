@@ -1,0 +1,5 @@
+7 9
+dutch 6 1 1
+winch 3 4 1
+finch 2 5 0
+cacao 1 7 0

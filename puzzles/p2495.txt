@@ -1,0 +1,5 @@
+7 7
+covet 1 1 0
+elide 4 1 1
+shell 6 2 1
+swell 2 5 0

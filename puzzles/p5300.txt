@@ -1,0 +1,5 @@
+7 10
+depot 4 1 1
+harem 1 2 0
+motif 2 5 0
+older 3 5 1

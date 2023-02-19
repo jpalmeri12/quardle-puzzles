@@ -1,0 +1,6 @@
+7 10 connectfive
+snoop 5 1 1
+count 2 2 0
+equip 1 5 0
+irony 4 5 1
+apnea 2 8 0

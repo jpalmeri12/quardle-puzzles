@@ -1,0 +1,5 @@
+7 7
+crock 1 1 0
+cheat 4 1 1
+close 6 2 1
+dwell 2 3 0

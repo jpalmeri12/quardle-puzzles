@@ -1,0 +1,5 @@
+7 7 soundscramble
+sluce 2 1 1
+argie 5 2 1
+tuger 1 3 0
+enniu 2 5 0

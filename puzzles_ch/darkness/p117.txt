@@ -1,0 +1,5 @@
+7 10 darkness
+natal 4 5 1
+leant 1 5 0
+cheat 5 1 1
+duchy 2 2 0

@@ -1,0 +1,9 @@
+7 8 spellbound
+angel 2 1 1
+alert 2 1 0
+lanky 4 3 1
+recap 1 4 0
+!spellbound 0 1 4
+!spellbound 1 3 4
+!spellbound 2 0 2
+!spellbound 3 4 0

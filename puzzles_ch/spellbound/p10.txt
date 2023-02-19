@@ -1,0 +1,9 @@
+6 9 spellbound
+smack 1 1 0
+cacao 4 1 1
+exist 2 4 1
+axiom 1 5 0
+!spellbound 0 4 1
+!spellbound 1 2 1
+!spellbound 2 4 2
+!spellbound 3 4 0

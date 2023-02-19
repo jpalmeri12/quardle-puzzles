@@ -1,0 +1,5 @@
+6 9
+magic 2 1 1
+eagle 1 2 0
+civic 1 4 0
+icily 4 4 1

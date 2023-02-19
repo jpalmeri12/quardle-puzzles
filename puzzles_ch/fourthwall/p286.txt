@@ -1,0 +1,7 @@
+6 6 fourthwall
+recut 1 1 0
+react 1 1 1
+adept 1 3 0
+cheek 3 1 1
+taken 1 5 0
+titan 5 1 1

@@ -1,0 +1,6 @@
+7 9 commonsecret
+elide 4 1 1
+ingot 2 4 1
+inlet 1 5 0
+ovoid 2 7 0
+!secret i

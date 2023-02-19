@@ -1,0 +1,5 @@
+7 8
+batch 2 1 0
+biome 2 1 1
+rough 1 3 0
+humph 5 3 1

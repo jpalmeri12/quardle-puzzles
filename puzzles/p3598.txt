@@ -1,0 +1,5 @@
+7 10
+farce 2 1 1
+reign 1 5 0
+nomad 5 5 1
+flame 2 7 0

@@ -1,0 +1,5 @@
+7 9
+again 3 1 1
+agape 2 2 0
+anime 1 4 0
+arson 1 4 1

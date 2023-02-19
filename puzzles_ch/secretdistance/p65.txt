@@ -1,0 +1,7 @@
+6 12 secretdistance
+tonga 3 1 1
+react 1 5 0
+rinse 1 5 1
+evade 1 9 0
+kinky 1 11 0
+!sdpos 0 2 3 2

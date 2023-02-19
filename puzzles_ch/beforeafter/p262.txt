@@ -1,0 +1,9 @@
+6 7 beforeafter
+royal 5 1 1
+torch 3 2 1
+glory 1 3 0
+vocal 1 5 0
+!beforeafter 2 m
+!beforeafter 2 i
+!beforeafter 2 q
+!beforeafter 1 m

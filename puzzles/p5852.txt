@@ -1,0 +1,5 @@
+7 9
+organ 4 1 1
+siege 1 3 0
+pasty 6 4 1
+manga 2 5 0

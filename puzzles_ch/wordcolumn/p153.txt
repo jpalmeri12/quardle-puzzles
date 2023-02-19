@@ -1,0 +1,6 @@
+7 9 wordcolumn
+snipe 1 1 1
+rusty 3 1 1
+petty 1 4 0
+yeast 5 4 1
+smite 2 8 0

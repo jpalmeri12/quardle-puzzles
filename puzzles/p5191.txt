@@ -1,0 +1,5 @@
+7 9
+creep 2 1 1
+seedy 1 4 0
+yearn 5 4 1
+carry 2 7 0

@@ -1,0 +1,5 @@
+7 10
+squad 4 1 1
+datum 1 3 0
+daddy 2 5 0
+drink 5 5 1

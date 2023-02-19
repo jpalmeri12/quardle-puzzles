@@ -1,0 +1,5 @@
+7 9
+truth 6 1 1
+mango 2 4 1
+awash 2 5 0
+aging 1 7 0

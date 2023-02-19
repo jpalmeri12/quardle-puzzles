@@ -1,0 +1,5 @@
+7 9 swap
+wihch 3 1 1
+auidt 1 2 0
+abues 5 4 1
+thrbo 2 5 0

@@ -1,0 +1,7 @@
+8 8 sixbox
+agape 3 1 1
+tense 5 1 1
+prawn 1 3 0
+woman 4 3 1
+posse 3 4 0
+creme 1 5 0

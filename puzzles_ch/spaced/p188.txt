@@ -1,0 +1,5 @@
+6 8 spaced
+throw 1 1 1
+other 5 3 1
+worth 1 5 0
+gayer 1 7 0

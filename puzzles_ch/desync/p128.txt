@@ -1,0 +1,5 @@
+6 9 desync
+chaff 1 1 1
+humph 1 2 0
+force 1 4 0
+crude 4 4 1

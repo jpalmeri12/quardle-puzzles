@@ -1,0 +1,5 @@
+7 9
+comet 5 1 1
+dodge 1 4 0
+doing 3 4 1
+agora 2 8 0

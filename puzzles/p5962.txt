@@ -1,0 +1,5 @@
+6 9
+doubt 1 1 1
+dusky 1 1 0
+batch 1 4 0
+class 4 4 1

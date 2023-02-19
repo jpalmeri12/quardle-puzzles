@@ -1,0 +1,6 @@
+7 10 five
+goody 6 1 1
+plumb 3 4 1
+glory 2 5 0
+revel 5 5 1
+ombre 1 8 0

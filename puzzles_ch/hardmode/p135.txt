@@ -1,0 +1,5 @@
+7 9 hardmode
+sauna 6 1 1
+digit 3 4 1
+sigma 2 5 0
+friar 1 7 0

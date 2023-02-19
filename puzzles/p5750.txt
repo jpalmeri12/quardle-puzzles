@@ -1,0 +1,5 @@
+7 10
+droll 4 1 1
+heard 1 2 0
+belch 2 5 0
+eager 3 5 1

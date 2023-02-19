@@ -1,0 +1,5 @@
+7 8 bestfit
+credo 3 1 1
+rebel 2 3 0
+eclat 5 3 1
+scowl 1 5 0

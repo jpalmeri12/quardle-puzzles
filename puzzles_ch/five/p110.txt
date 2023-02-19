@@ -1,0 +1,6 @@
+7 8 five
+gauge 1 1 0
+utile 3 1 1
+fight 2 3 0
+hound 5 3 1
+recur 2 5 0

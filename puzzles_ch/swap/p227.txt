@@ -1,0 +1,5 @@
+6 9 swap
+rtibe 1 1 0
+idlre 3 1 1
+amrsh 1 4 0
+hnece 5 4 1

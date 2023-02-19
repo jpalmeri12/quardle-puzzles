@@ -1,0 +1,5 @@
+7 9 elbowroom
+quota 2 1 1
+stamp 1 4 0
+prowl 5 4 1
+quell 2 8 0

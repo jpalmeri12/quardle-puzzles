@@ -1,0 +1,5 @@
+7 10
+drove 5 1 1
+coupe 1 5 0
+pudgy 4 5 1
+cadet 2 7 0

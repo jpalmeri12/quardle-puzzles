@@ -1,0 +1,5 @@
+7 10 shiritori
+breed 2 1 1
+grace 1 2 0
+daddy 2 5 0
+axial 3 5 1

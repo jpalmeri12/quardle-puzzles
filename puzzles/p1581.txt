@@ -1,0 +1,5 @@
+7 9
+worry 5 1 1
+endow 2 2 0
+exist 3 4 1
+sixty 1 5 0

@@ -1,0 +1,5 @@
+6 9 sweeper
+eking 5 1 1
+ripen 1 4 0
+pupal 3 4 1
+bilge 1 8 0

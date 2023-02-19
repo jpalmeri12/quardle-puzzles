@@ -1,0 +1,5 @@
+7 9
+slunk 3 1 1
+junto 1 4 0
+octet 5 4 1
+warty 2 8 0

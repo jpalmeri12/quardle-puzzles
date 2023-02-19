@@ -1,0 +1,8 @@
+6 8 twins
+harpy 1 1 0
+forty 1 3 0
+swill 1 5 0
+organ 1 7 0
+!twins 2 4
+!twins 1 3
+!twins 2 4

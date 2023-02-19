@@ -1,0 +1,5 @@
+7 10 duplicity
+scorn 5 1 1
+resin 1 5 0
+sonic 3 5 1
+niece 2 8 0

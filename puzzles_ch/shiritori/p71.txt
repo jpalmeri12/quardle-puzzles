@@ -1,0 +1,5 @@
+7 8 shiritori
+basis 2 1 1
+human 5 3 1
+psalm 1 5 0
+doing 2 7 0

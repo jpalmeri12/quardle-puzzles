@@ -1,0 +1,5 @@
+6 9
+rower 5 1 1
+piano 1 2 0
+aptly 3 4 1
+super 1 5 0

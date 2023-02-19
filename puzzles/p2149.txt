@@ -1,0 +1,5 @@
+7 9
+scoop 2 1 0
+oddly 5 1 1
+fanny 3 4 1
+heavy 1 5 0

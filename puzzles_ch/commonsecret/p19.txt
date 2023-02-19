@@ -1,0 +1,6 @@
+7 9 commonsecret
+larva 3 1 1
+metro 5 4 1
+stare 1 5 0
+storm 2 7 0
+!secret r

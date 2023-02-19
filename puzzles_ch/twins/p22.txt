@@ -1,0 +1,8 @@
+6 8 twins
+saner 1 1 0
+lever 1 3 0
+smock 1 5 0
+rover 1 7 0
+!twins 3 4
+!twins 0 2
+!twins 1 3

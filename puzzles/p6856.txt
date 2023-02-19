@@ -1,0 +1,5 @@
+6 10
+jetty 3 1 1
+spell 1 2 0
+kayak 1 5 0
+assay 4 5 1

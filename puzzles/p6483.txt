@@ -1,0 +1,5 @@
+7 9
+trade 2 1 1
+regal 2 2 0
+adorn 1 4 0
+nudge 5 4 1

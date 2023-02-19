@@ -1,0 +1,5 @@
+7 9
+leggy 2 1 1
+snide 5 4 1
+hymen 1 5 0
+baler 2 8 0

@@ -1,0 +1,5 @@
+7 9 scrabble
+genie 2 5 0
+going 2 1 1
+ankle 4 4 1
+child 1 7 0

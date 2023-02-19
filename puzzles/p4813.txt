@@ -1,0 +1,5 @@
+6 10
+aisle 3 1 1
+sheen 1 5 0
+hefty 2 5 1
+often 1 7 0

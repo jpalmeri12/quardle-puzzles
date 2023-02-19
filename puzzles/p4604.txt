@@ -1,0 +1,5 @@
+7 10
+lymph 2 1 1
+vying 1 2 0
+hotly 2 5 0
+tribe 4 5 1

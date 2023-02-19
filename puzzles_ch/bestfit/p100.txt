@@ -1,0 +1,5 @@
+6 7 bestfit
+frost 1 1 1
+range 1 2 0
+naval 3 2 1
+sever 1 4 0

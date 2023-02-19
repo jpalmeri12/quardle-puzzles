@@ -1,0 +1,5 @@
+7 10
+allow 1 1 0
+odder 4 1 1
+forum 2 5 0
+untie 5 5 1

@@ -1,0 +1,5 @@
+6 7 outoforder
+dogma 4 1 1
+stoop 1 2 0
+tried 2 2 1
+biome 1 4 0

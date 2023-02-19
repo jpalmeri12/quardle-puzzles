@@ -1,0 +1,5 @@
+7 10
+porch 2 1 1
+harpy 2 5 0
+reign 4 5 1
+rigid 1 7 0

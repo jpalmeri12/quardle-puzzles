@@ -1,0 +1,6 @@
+7 8 commonsecret
+dogma 3 1 1
+pedal 5 3 1
+sandy 2 5 0
+dwell 1 7 0
+!secret d

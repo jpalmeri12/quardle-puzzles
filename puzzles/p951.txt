@@ -1,0 +1,5 @@
+7 9
+wight 1 1 0
+imbue 2 1 1
+upper 2 4 0
+riser 6 4 1

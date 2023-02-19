@@ -1,0 +1,9 @@
+6 7 spellbound
+green 4 1 1
+spicy 1 2 1
+pried 1 3 0
+crane 1 5 0
+!spellbound 0 0 1
+!spellbound 1 2 4
+!spellbound 2 1 4
+!spellbound 3 1 2

@@ -1,0 +1,5 @@
+7 9 shiritori
+ardor 6 1 1
+jumbo 2 4 0
+mangy 4 4 1
+arena 1 6 0

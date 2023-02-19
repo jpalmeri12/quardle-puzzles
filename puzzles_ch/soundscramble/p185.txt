@@ -1,0 +1,5 @@
+7 10 soundscramble
+iltir 1 1 0
+ridaa 5 1 1
+stean 2 5 0
+noble 6 5 1

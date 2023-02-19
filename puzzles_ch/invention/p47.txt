@@ -1,0 +1,5 @@
+7 9 invention
+goose 2 1 1
+hotel 1 2 0
+sever 2 4 0
+refit 6 4 1

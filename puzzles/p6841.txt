@@ -1,0 +1,5 @@
+7 7
+thigh 2 1 1
+photo 1 2 0
+tread 4 2 1
+greet 2 4 0

@@ -1,0 +1,5 @@
+7 10
+stank 1 1 0
+ninja 4 1 1
+leant 2 5 0
+lyric 2 5 1

@@ -1,0 +1,5 @@
+7 10
+amply 5 1 1
+sadly 1 5 0
+abbey 2 5 1
+exult 2 8 0

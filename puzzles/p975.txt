@@ -1,0 +1,5 @@
+7 10
+dogma 5 1 1
+along 1 3 0
+metal 2 5 0
+manga 2 5 1

@@ -1,0 +1,5 @@
+7 9
+gloat 1 1 1
+dried 4 4 1
+third 1 5 0
+under 2 8 0

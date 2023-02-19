@@ -1,0 +1,6 @@
+7 9 island
+skull 6 1 1
+udder 3 4 1
+ideal 2 5 0
+freed 1 7 0
+!island 211 31 2111 4

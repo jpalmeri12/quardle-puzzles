@@ -1,0 +1,5 @@
+7 10
+plumb 4 1 1
+tribe 1 5 0
+imbue 3 5 1
+aback 2 7 0

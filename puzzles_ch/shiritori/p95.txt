@@ -1,0 +1,5 @@
+7 9 shiritori
+under 5 1 1
+nanny 2 2 0
+weave 1 4 0
+eclat 2 4 1

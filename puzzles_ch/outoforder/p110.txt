@@ -1,0 +1,5 @@
+6 9 outoforder
+mimic 1 1 1
+inlet 1 2 0
+salty 3 4 1
+craze 1 5 0

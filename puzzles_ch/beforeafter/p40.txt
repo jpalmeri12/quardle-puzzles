@@ -1,0 +1,9 @@
+7 10 beforeafter
+foist 4 1 1
+afoot 1 2 0
+fatty 2 5 0
+fault 2 5 1
+!beforeafter 2 r
+!beforeafter 1 k
+!beforeafter 1 r
+!beforeafter 1 k

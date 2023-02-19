@@ -1,0 +1,5 @@
+7 8 hardmode
+vista 4 1 1
+obese 1 3 0
+bleep 2 3 1
+erase 2 5 0

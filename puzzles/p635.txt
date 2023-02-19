@@ -1,0 +1,5 @@
+7 10
+ultra 2 1 1
+trick 2 3 0
+basis 1 5 0
+iliac 4 5 1

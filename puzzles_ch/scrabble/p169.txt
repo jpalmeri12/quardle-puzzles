@@ -1,0 +1,5 @@
+6 7 scrabble
+idiom 1 3 0
+today 2 1 1
+poppy 4 2 1
+lymph 1 5 0

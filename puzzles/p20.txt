@@ -1,0 +1,5 @@
+7 9
+rapid 5 1 1
+drama 1 2 0
+plaid 2 4 0
+lurch 3 4 1

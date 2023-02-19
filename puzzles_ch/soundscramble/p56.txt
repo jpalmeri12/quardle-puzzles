@@ -1,0 +1,5 @@
+7 10 soundscramble
+sween 2 1 0
+waltz 3 1 1
+hazol 1 5 0
+abato 2 5 1

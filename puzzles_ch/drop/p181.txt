@@ -1,0 +1,6 @@
+7 9 drop
+tilde 4 1 1
+chide 2 2 0
+cable 2 2 1
+abode 1 4 0
+clack 1 8 0

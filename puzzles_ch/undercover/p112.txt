@@ -1,0 +1,6 @@
+7 11 undercover
+shift 6 1 1
+haste 4 4 1
+exact 2 5 0
+forte 1 7 0
+puppy 1 10 0

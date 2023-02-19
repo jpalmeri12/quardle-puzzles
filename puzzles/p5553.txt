@@ -1,0 +1,5 @@
+7 9
+wrist 1 1 1
+spent 1 4 0
+emcee 3 4 1
+melon 2 7 0

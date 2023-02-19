@@ -1,0 +1,5 @@
+7 9 reverse
+esoog 5 1 1
+flush 2 2 0
+gumbo 1 4 0
+moixa 3 4 1

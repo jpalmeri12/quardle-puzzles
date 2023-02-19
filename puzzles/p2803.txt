@@ -1,0 +1,5 @@
+7 9
+atone 1 1 1
+naval 1 4 0
+ample 4 4 1
+fleet 2 8 0

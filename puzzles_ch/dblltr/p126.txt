@@ -1,0 +1,5 @@
+7 10 dblltr
+sleep 1 1 0
+elite 4 1 1
+elegy 2 5 0
+gouge 5 5 1

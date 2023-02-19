@@ -1,0 +1,5 @@
+7 10
+frisk 1 1 0
+rival 2 1 1
+leapt 2 5 0
+tiger 6 5 1

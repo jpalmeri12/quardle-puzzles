@@ -1,0 +1,6 @@
+7 9 commonsecret
+boast 1 1 1
+scope 1 4 0
+polka 4 4 1
+golem 2 6 0
+!secret o

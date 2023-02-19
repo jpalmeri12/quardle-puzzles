@@ -1,0 +1,6 @@
+7 10 five
+mouth 3 1 1
+oaken 5 2 1
+sheer 2 5 0
+stout 2 5 1
+stuck 1 9 0

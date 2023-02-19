@@ -1,0 +1,5 @@
+7 10
+boney 5 1 1
+micro 1 2 0
+polyp 2 5 0
+organ 3 5 1

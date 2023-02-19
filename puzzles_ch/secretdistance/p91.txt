@@ -1,0 +1,7 @@
+6 12 secretdistance
+radii 2 1 1
+vaunt 1 2 0
+legal 1 5 1
+libel 1 5 0
+shave 1 11 0
+!sdpos 0 0 3 1

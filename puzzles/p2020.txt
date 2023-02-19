@@ -1,0 +1,5 @@
+7 10
+whack 6 1 1
+aglow 2 5 1
+aback 2 5 0
+flung 1 7 0

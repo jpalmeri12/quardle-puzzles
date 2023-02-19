@@ -1,0 +1,5 @@
+7 10 scrabble
+trait 1 5 0
+sepia 2 3 0
+faint 5 1 1
+twixt 1 5 1

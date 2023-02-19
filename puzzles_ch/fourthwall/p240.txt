@@ -1,0 +1,7 @@
+6 6 fourthwall
+merge 1 1 0
+motif 1 1 1
+tumor 1 3 0
+rumor 3 1 1
+furor 1 5 0
+error 5 1 1

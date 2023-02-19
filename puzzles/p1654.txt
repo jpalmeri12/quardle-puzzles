@@ -1,0 +1,5 @@
+7 10
+groan 1 1 1
+ninny 1 5 0
+nicer 3 5 1
+dealt 2 8 0

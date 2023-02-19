@@ -1,0 +1,6 @@
+6 10 five
+haste 1 1 1
+fence 4 1 1
+sauna 1 3 0
+eaten 1 5 0
+angel 2 5 1

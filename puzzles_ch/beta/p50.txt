@@ -1,0 +1,5 @@
+6 8 beta
+rebus 1 1 0
+stunt 5 1 1
+exact 2 3 1
+axion 1 4 0

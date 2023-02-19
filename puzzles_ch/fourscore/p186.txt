@@ -1,0 +1,5 @@
+7 9 fourscore
+spool 2 1 1
+dowel 4 4 1
+elbow 1 5 0
+queen 2 7 0

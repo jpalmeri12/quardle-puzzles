@@ -1,0 +1,6 @@
+7 10 drop
+basis 1 1 0
+stink 5 1 1
+flair 2 3 0
+ledge 3 3 1
+still 1 9 0

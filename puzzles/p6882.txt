@@ -1,0 +1,5 @@
+7 9
+thick 1 1 1
+defer 3 4 1
+kneed 1 5 0
+react 2 7 0

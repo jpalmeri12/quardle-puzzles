@@ -1,0 +1,5 @@
+6 9
+larva 1 1 1
+missy 3 4 1
+align 1 5 0
+kayak 1 8 0

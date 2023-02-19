@@ -1,0 +1,5 @@
+7 9 invention
+allow 1 1 0
+welsh 5 1 1
+midst 2 4 0
+maize 2 4 1

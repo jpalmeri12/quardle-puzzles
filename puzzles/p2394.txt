@@ -1,0 +1,5 @@
+7 9
+swung 4 1 1
+power 2 2 0
+mount 1 4 0
+outgo 2 4 1

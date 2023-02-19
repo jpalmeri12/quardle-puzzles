@@ -1,0 +1,5 @@
+6 10
+tango 4 1 1
+flung 1 3 0
+spoof 1 5 0
+fable 5 5 1

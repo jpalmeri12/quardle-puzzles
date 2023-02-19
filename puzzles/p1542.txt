@@ -1,0 +1,5 @@
+7 10
+blurt 1 1 1
+truth 1 5 0
+tease 4 5 1
+reset 2 8 0

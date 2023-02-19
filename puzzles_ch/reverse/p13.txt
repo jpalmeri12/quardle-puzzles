@@ -1,0 +1,5 @@
+6 6 reverse
+wryly 1 1 1
+warts 1 1 0
+revue 3 1 1
+lausu 1 4 0

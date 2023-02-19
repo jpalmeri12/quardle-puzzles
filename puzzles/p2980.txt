@@ -1,0 +1,5 @@
+7 8
+halve 1 1 0
+lipid 3 1 1
+spank 2 3 0
+knock 6 3 1

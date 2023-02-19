@@ -1,0 +1,5 @@
+7 9
+cried 6 1 1
+ankle 2 4 0
+night 3 4 1
+lager 1 6 0

@@ -1,0 +1,7 @@
+6 6 fourthwall
+decor 1 1 0
+dread 1 1 1
+evoke 1 3 0
+croup 3 1 1
+dopey 1 5 0
+reedy 5 1 1

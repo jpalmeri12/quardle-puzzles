@@ -1,0 +1,6 @@
+7 10 connectfive
+aorta 3 1 1
+geese 6 3 1
+croup 2 5 1
+carve 2 5 0
+sperm 1 9 0

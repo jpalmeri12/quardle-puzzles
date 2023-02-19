@@ -1,0 +1,5 @@
+6 10 swap
+leevl 1 1 1
+loucs 1 5 0
+uhrry 3 5 1
+payre 1 9 0

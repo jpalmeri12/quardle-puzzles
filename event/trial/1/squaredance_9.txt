@@ -1,0 +1,6 @@
+6 8 squaredance
+stage 1 1 1
+hippy 5 1 1
+shush 1 1 0
+enjoy 1 5 0
+villa 1 7 0

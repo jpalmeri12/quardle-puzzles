@@ -1,0 +1,5 @@
+7 10
+scoop 2 1 1
+purge 2 5 0
+under 3 5 1
+sadly 1 7 0

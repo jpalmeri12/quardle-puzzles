@@ -1,0 +1,5 @@
+7 10
+choir 1 1 1
+rugby 1 5 0
+upper 2 5 1
+riper 2 9 0

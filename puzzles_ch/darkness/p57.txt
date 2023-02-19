@@ -1,0 +1,5 @@
+7 9 darkness
+pubic 1 1 1
+usher 4 4 1
+class 1 5 0
+freer 2 7 0

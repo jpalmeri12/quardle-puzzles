@@ -1,0 +1,5 @@
+7 10 hardmode
+equal 4 1 1
+viola 1 5 0
+amass 5 5 1
+verso 2 8 0

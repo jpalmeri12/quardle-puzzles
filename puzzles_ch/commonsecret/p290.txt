@@ -1,0 +1,6 @@
+6 8 commonsecret
+alpha 2 1 1
+froth 4 3 1
+sharp 1 4 0
+pushy 1 7 0
+!secret h

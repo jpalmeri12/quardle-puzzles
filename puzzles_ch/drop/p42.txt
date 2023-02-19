@@ -1,0 +1,6 @@
+6 11 drop
+aloft 1 1 1
+fibre 1 4 0
+broom 3 4 1
+trout 1 7 0
+abort 1 10 0

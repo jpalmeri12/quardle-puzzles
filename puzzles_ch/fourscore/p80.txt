@@ -1,0 +1,5 @@
+7 8 fourscore
+staff 1 1 0
+front 4 1 1
+aroma 2 3 0
+alike 6 3 1

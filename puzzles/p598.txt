@@ -1,0 +1,5 @@
+7 10
+evade 6 1 1
+probe 2 5 0
+olden 4 5 1
+rowdy 1 7 0

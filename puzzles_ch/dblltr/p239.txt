@@ -1,0 +1,5 @@
+7 8 dblltr
+tepee 5 1 1
+rearm 3 3 1
+agate 1 5 0
+smell 2 7 0

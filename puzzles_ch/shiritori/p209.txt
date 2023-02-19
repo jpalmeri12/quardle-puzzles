@@ -1,0 +1,5 @@
+6 8 shiritori
+boost 1 1 1
+octal 1 3 0
+thief 3 3 1
+safer 1 7 0

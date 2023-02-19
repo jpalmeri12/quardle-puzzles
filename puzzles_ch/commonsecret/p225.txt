@@ -1,0 +1,6 @@
+7 8 commonsecret
+spicy 6 1 1
+stone 3 3 1
+stoic 2 4 0
+saner 1 6 0
+!secret s

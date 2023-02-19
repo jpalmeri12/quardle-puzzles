@@ -1,0 +1,6 @@
+7 9 island
+stoke 6 1 1
+sheet 2 4 1
+steak 2 4 0
+media 1 6 0
+!island 221 211 311 2111

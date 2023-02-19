@@ -1,0 +1,5 @@
+6 6
+decor 1 1 0
+dingo 1 1 1
+orbit 4 1 1
+genie 1 4 0

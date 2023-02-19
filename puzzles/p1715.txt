@@ -1,0 +1,5 @@
+7 10
+brace 1 1 1
+equip 1 5 0
+urban 3 5 1
+randy 2 8 0

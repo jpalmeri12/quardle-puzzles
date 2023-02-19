@@ -1,0 +1,5 @@
+6 7 skyscrapers
+hedge 1 2 0
+shrub 1 1 1
+briny 1 5 0
+debit 3 2 1

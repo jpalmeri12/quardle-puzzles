@@ -1,0 +1,5 @@
+7 10
+phase 5 1 1
+purge 1 5 0
+umbra 2 5 1
+rough 2 8 0

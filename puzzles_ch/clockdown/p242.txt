@@ -1,0 +1,5 @@
+7 9 clockdown
+augur 6 1 1
+stump 4 4 1
+voter 2 5 0
+slime 1 7 0

@@ -1,0 +1,5 @@
+7 7 beta
+octet 2 1 1
+cluck 2 2 0
+corny 5 2 1
+demur 1 4 0

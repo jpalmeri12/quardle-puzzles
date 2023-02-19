@@ -1,0 +1,6 @@
+6 12 wordcolumn
+facet 5 1 1
+bride 1 4 0
+iliac 3 4 1
+fraud 1 7 0
+dryer 5 7 1

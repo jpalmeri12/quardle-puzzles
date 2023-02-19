@@ -1,0 +1,5 @@
+7 8 soundscramble
+serin 2 1 1
+drevi 1 3 0
+vodka 4 3 1
+nader 2 5 0

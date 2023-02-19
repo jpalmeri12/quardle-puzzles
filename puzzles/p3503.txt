@@ -1,0 +1,5 @@
+7 10
+briar 3 1 1
+coral 1 2 0
+troll 2 5 0
+lymph 5 5 1

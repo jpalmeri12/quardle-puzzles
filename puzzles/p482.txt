@@ -1,0 +1,5 @@
+7 9
+pooch 6 1 1
+lilac 2 4 0
+inept 3 4 1
+reply 1 7 0

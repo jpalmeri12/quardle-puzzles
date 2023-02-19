@@ -1,0 +1,6 @@
+7 10 connectfive
+spill 5 1 1
+equip 2 3 0
+cruel 1 5 0
+roost 2 5 1
+usage 1 8 0

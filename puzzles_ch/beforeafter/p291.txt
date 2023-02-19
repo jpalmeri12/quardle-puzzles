@@ -1,0 +1,9 @@
+7 9 beforeafter
+prime 5 1 1
+inert 3 4 1
+kneed 2 5 0
+forty 1 7 0
+!beforeafter 1 n
+!beforeafter 2 q
+!beforeafter 1 j
+!beforeafter 1 q

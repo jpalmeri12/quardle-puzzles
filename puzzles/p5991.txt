@@ -1,0 +1,5 @@
+7 9
+wield 6 1 1
+shrew 2 4 1
+hoard 2 5 0
+awoke 1 8 0

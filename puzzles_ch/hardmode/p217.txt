@@ -1,0 +1,5 @@
+7 10 hardmode
+lager 2 1 0
+glean 4 1 1
+slant 1 5 0
+sully 1 5 1

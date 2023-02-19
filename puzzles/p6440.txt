@@ -1,0 +1,5 @@
+7 10
+horde 2 1 1
+eater 2 5 0
+edict 5 5 1
+sushi 1 7 0

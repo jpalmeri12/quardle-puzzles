@@ -1,0 +1,5 @@
+7 7
+bunch 2 1 1
+uncut 2 2 0
+caulk 4 2 1
+shell 1 5 0

@@ -1,0 +1,5 @@
+7 8
+spore 1 1 0
+exile 5 1 1
+refit 2 3 0
+exist 3 3 1

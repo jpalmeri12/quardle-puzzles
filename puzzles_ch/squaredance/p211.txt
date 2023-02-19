@@ -1,0 +1,6 @@
+6 8 squaredance
+print 1 1 1
+trope 5 1 1
+pilot 1 1 0
+tease 1 5 0
+naive 1 7 0

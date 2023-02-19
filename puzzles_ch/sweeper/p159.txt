@@ -1,0 +1,5 @@
+6 10 sweeper
+quote 5 1 1
+awake 1 5 0
+whoop 2 5 1
+hover 1 8 0

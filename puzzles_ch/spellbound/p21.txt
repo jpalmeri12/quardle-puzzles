@@ -1,0 +1,9 @@
+6 10 spellbound
+quasi 2 1 1
+suing 1 2 0
+civil 1 5 0
+intro 4 5 1
+!spellbound 0 0 3
+!spellbound 1 4 2
+!spellbound 2 0 4
+!spellbound 3 2 4

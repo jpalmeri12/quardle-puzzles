@@ -1,0 +1,5 @@
+7 9
+adopt 1 1 1
+steed 3 4 1
+title 1 5 0
+admit 2 8 0

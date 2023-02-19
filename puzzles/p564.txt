@@ -1,0 +1,5 @@
+7 8
+biome 2 1 1
+width 1 2 0
+crest 6 3 1
+elide 2 5 0

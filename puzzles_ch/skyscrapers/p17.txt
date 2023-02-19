@@ -1,0 +1,5 @@
+7 10 skyscrapers
+sheik 1 5 0
+stork 5 1 1
+palsy 2 1 0
+study 1 5 1

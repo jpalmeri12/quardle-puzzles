@@ -1,0 +1,5 @@
+7 7 hardmode
+tithe 5 1 1
+digit 2 2 0
+infer 3 2 1
+fifth 1 4 0

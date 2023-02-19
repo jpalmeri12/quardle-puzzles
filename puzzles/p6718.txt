@@ -1,0 +1,5 @@
+7 9
+badge 4 1 1
+clack 2 2 0
+bully 1 4 1
+ulcer 1 5 0

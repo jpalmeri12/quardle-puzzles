@@ -1,0 +1,5 @@
+7 8
+modem 6 1 1
+breed 2 3 0
+river 3 3 1
+wheat 1 6 0

@@ -1,0 +1,5 @@
+7 10
+gloom 3 1 1
+relic 1 2 0
+amply 2 5 0
+poser 4 5 1

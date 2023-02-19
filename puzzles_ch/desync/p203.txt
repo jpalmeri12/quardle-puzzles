@@ -1,0 +1,5 @@
+7 9 desync
+labor 2 1 0
+bluff 4 1 1
+jiffy 1 4 0
+infer 2 4 1

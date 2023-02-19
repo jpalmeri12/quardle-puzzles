@@ -1,0 +1,5 @@
+7 10
+siege 5 1 1
+elide 1 3 0
+fewer 2 5 0
+radii 6 5 1

@@ -1,0 +1,5 @@
+6 9
+crick 2 1 1
+scuba 1 4 0
+burnt 4 4 1
+sling 1 7 0

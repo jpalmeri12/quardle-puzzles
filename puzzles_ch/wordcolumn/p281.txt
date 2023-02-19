@@ -1,0 +1,6 @@
+7 8 wordcolumn
+charm 2 1 0
+modem 6 1 1
+beard 2 3 0
+elope 3 3 1
+riper 1 6 0

@@ -1,0 +1,6 @@
+7 10 five
+flier 3 1 1
+soggy 5 1 1
+hardy 1 5 0
+drunk 4 5 1
+token 2 9 0

@@ -1,0 +1,5 @@
+7 9
+scoop 4 1 1
+hence 1 2 0
+stove 2 4 0
+erode 6 4 1

@@ -1,0 +1,5 @@
+6 9 spin
+wager 2 1 1
+melon 1 4 0
+never 5 4 1
+glove 1 7 0

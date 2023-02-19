@@ -1,0 +1,5 @@
+7 10 invention
+taboo 2 1 1
+howdy 1 5 0
+wrath 3 5 1
+thick 2 9 0

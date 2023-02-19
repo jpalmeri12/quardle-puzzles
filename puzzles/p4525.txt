@@ -1,0 +1,5 @@
+6 8
+pagan 2 1 1
+fault 4 3 1
+naval 1 4 0
+booty 1 7 0

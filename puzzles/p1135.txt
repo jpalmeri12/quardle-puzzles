@@ -1,0 +1,5 @@
+7 10
+brook 3 1 1
+skate 2 5 0
+agree 4 5 1
+linen 1 8 0

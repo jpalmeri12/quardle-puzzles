@@ -1,0 +1,5 @@
+7 7 clockdown
+toxin 2 1 1
+rouge 1 2 0
+gaffe 4 2 1
+infer 2 4 0

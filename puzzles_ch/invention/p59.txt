@@ -1,0 +1,5 @@
+6 7 invention
+champ 2 1 1
+chili 1 2 0
+islet 5 2 1
+smell 1 4 0

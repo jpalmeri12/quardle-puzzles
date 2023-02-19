@@ -1,0 +1,6 @@
+6 11 undercover
+stand 5 1 1
+aging 1 4 1
+guild 1 5 0
+gauze 1 8 0
+morph 1 10 0

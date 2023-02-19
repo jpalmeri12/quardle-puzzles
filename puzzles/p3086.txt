@@ -1,0 +1,5 @@
+7 10
+gaunt 2 1 1
+triad 2 5 0
+inert 4 5 1
+roger 1 7 0

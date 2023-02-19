@@ -1,0 +1,6 @@
+6 10 five
+jaunt 4 1 1
+lodge 2 2 1
+agate 1 5 0
+elect 5 5 1
+onset 1 9 0

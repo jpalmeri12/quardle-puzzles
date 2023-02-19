@@ -1,0 +1,6 @@
+6 11 undercover
+ladle 1 1 1
+laugh 1 4 0
+hence 5 4 1
+cubic 1 7 0
+swoop 1 10 0

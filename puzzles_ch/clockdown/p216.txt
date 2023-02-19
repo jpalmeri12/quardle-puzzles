@@ -1,0 +1,5 @@
+7 10 clockdown
+quoth 2 1 0
+thorn 5 1 1
+moron 1 5 0
+opera 4 5 1

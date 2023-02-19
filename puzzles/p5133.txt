@@ -1,0 +1,5 @@
+7 9
+skate 1 1 0
+knife 2 1 1
+spill 4 4 1
+expel 2 5 0

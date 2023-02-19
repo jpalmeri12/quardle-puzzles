@@ -1,0 +1,5 @@
+7 9 unloved
+waver 5 1 1
+zebra 1 2 0
+field 2 4 1
+fiber 2 4 0

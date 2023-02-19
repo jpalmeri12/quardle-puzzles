@@ -1,0 +1,5 @@
+7 9
+trick 1 1 1
+march 5 4 1
+koala 1 5 0
+witch 2 7 0

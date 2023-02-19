@@ -1,0 +1,5 @@
+7 10 frequency
+tarot 2 1 0
+three 2 1 1
+meter 1 5 0
+rebel 5 5 1

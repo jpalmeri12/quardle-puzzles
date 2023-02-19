@@ -1,0 +1,5 @@
+7 10
+juice 4 1 1
+bluer 2 2 0
+women 1 5 0
+orbit 2 5 1

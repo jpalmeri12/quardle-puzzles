@@ -1,0 +1,5 @@
+7 9 buyavowel
+foggy 2 1 1
+gully 2 4 0
+lodge 5 4 1
+young 1 7 0

@@ -1,0 +1,5 @@
+7 9 buyavowel
+teeth 5 1 1
+utile 1 2 0
+bingo 3 4 1
+night 2 5 0

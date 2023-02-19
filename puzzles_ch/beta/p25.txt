@@ -1,0 +1,5 @@
+7 8 beta
+embed 2 1 1
+board 2 3 0
+rifle 5 3 1
+liege 1 7 0

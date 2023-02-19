@@ -1,0 +1,5 @@
+7 9 outoforder
+gulch 1 1 1
+climb 1 4 0
+boost 5 4 1
+spook 2 6 0

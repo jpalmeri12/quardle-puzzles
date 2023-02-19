@@ -1,0 +1,5 @@
+7 9
+laugh 1 1 1
+grape 1 4 0
+pinch 4 4 1
+banjo 2 6 0

@@ -1,0 +1,5 @@
+7 10
+built 1 1 0
+timer 5 1 1
+sting 2 5 1
+swirl 2 5 0

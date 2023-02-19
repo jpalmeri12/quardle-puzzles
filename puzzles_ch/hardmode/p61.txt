@@ -1,0 +1,5 @@
+6 8 hardmode
+storm 2 1 1
+stunk 4 3 1
+wrath 1 4 0
+fluke 1 7 0

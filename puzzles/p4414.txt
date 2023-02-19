@@ -1,0 +1,5 @@
+6 8
+embed 1 1 0
+manly 2 1 1
+inlet 4 3 1
+plank 1 4 0

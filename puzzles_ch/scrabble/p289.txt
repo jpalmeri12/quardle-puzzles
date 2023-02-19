@@ -1,0 +1,5 @@
+7 7 scrabble
+beret 1 5 0
+ashen 2 3 0
+shied 4 2 1
+weave 2 1 1

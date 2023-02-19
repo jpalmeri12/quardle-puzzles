@@ -1,0 +1,5 @@
+6 9
+tripe 5 1 1
+wrath 3 4 1
+force 1 5 0
+hotly 1 7 0

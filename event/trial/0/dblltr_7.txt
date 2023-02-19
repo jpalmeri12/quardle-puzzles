@@ -1,0 +1,5 @@
+7 10 dblltr
+bully 5 1 1
+alloy 1 5 0
+lobby 2 5 1
+booth 2 8 0

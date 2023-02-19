@@ -1,0 +1,6 @@
+6 8 squaredance
+blast 1 1 1
+leper 5 1 1
+banal 1 1 0
+tapir 1 5 0
+stove 1 7 0

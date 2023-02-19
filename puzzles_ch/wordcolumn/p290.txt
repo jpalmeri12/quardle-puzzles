@@ -1,0 +1,6 @@
+7 10 wordcolumn
+scrub 1 1 0
+bleak 5 1 1
+snake 2 5 0
+singe 2 5 1
+elude 2 9 0

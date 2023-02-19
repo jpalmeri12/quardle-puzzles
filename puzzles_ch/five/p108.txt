@@ -1,0 +1,6 @@
+7 10 five
+ideal 2 1 1
+oddly 1 2 0
+yearn 5 2 1
+leery 2 5 0
+ember 3 5 1

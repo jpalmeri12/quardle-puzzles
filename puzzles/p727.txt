@@ -1,0 +1,5 @@
+7 7
+scowl 4 1 1
+fancy 1 2 0
+arise 2 2 1
+solar 2 5 0

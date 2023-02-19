@@ -1,0 +1,5 @@
+7 7 duplicity
+preen 5 1 1
+apnea 2 2 1
+payer 2 3 0
+yearn 1 5 0

@@ -1,0 +1,9 @@
+7 7 spellbound
+quart 3 1 1
+blurb 1 2 0
+bunny 5 2 1
+stung 2 5 0
+!spellbound 0 3 0
+!spellbound 1 1 0
+!spellbound 2 2 4
+!spellbound 3 0 4

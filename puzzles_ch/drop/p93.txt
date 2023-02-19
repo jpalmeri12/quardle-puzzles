@@ -1,0 +1,6 @@
+7 12 drop
+swami 5 1 1
+aglow 1 2 0
+orbit 2 5 0
+block 4 5 1
+braid 1 11 0

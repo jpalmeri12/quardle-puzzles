@@ -1,0 +1,6 @@
+7 11 undercover
+grass 2 1 1
+aping 5 4 1
+slept 2 5 0
+lumen 1 7 0
+boozy 1 10 0

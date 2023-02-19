@@ -1,0 +1,5 @@
+7 8 spaced
+lower 2 1 1
+wrack 2 3 0
+covet 5 3 1
+remit 1 7 0

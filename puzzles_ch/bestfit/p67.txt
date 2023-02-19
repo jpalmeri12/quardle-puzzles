@@ -1,0 +1,5 @@
+7 9 bestfit
+smart 2 1 0
+rural 5 1 1
+delta 1 4 0
+drawn 1 4 1

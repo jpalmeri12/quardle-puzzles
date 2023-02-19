@@ -1,0 +1,9 @@
+6 7 spellbound
+owner 2 1 1
+swath 1 2 0
+those 4 2 1
+frost 1 5 0
+!spellbound 0 0 3
+!spellbound 1 0 4
+!spellbound 2 4 2
+!spellbound 3 4 0

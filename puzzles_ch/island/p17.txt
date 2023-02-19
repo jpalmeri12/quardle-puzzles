@@ -1,0 +1,6 @@
+7 8 island
+slice 4 1 1
+wound 2 3 1
+rupee 1 5 0
+drive 2 7 0
+!island 2111 11111 211 311

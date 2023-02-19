@@ -1,0 +1,9 @@
+6 7 spellbound
+butte 4 1 1
+proud 1 2 0
+rhyme 2 2 1
+ember 1 5 0
+!spellbound 0 3 2
+!spellbound 1 4 0
+!spellbound 2 4 1
+!spellbound 3 0 4

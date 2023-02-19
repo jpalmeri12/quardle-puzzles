@@ -1,0 +1,5 @@
+6 7 duplicity
+poser 5 1 1
+disco 1 2 0
+spice 3 2 1
+decor 1 5 0

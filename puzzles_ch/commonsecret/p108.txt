@@ -1,0 +1,6 @@
+6 9 commonsecret
+ethos 1 1 1
+newly 5 4 1
+slime 1 5 0
+heavy 1 8 0
+!secret e

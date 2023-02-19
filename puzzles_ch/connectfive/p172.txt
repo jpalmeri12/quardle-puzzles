@@ -1,0 +1,6 @@
+6 9 connectfive
+brain 3 1 1
+strip 1 2 0
+aside 1 4 0
+equip 5 4 1
+tulip 1 8 0

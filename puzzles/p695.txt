@@ -1,0 +1,5 @@
+7 10
+bleep 2 1 0
+eying 5 1 1
+being 1 5 0
+envoy 2 5 1

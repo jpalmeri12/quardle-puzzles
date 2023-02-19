@@ -1,0 +1,5 @@
+7 10
+women 2 1 1
+width 2 1 0
+entry 1 5 0
+robin 4 5 1

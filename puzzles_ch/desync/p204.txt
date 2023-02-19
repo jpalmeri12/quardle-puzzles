@@ -1,0 +1,5 @@
+7 10 desync
+habit 2 1 1
+cameo 1 2 0
+tenet 2 5 0
+troll 6 5 1

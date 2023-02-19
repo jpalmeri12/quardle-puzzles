@@ -1,0 +1,5 @@
+7 10
+droit 3 1 1
+lover 2 3 0
+metro 1 5 0
+omega 5 5 1

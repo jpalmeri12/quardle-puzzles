@@ -1,0 +1,6 @@
+7 9 drop
+rugby 1 1 1
+aloud 4 2 1
+bloom 1 4 0
+ledge 2 6 0
+legal 1 8 0

@@ -1,0 +1,5 @@
+7 9 duplicity
+state 2 1 1
+atoll 1 4 0
+leave 5 4 1
+stove 2 7 0

@@ -1,0 +1,5 @@
+7 9 dblltr
+fauna 5 1 1
+eaten 1 4 0
+allow 2 4 1
+offer 2 7 0

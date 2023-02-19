@@ -1,0 +1,5 @@
+7 9
+begat 4 1 1
+claim 2 4 1
+clank 2 4 0
+pitch 1 7 0

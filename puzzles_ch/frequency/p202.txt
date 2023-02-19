@@ -1,0 +1,5 @@
+6 7 frequency
+resin 3 1 1
+betel 5 2 1
+baste 1 3 0
+hinge 1 5 0

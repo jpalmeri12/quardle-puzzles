@@ -1,0 +1,5 @@
+7 9
+quilt 2 1 0
+usual 3 1 1
+heard 1 4 0
+dozen 5 4 1

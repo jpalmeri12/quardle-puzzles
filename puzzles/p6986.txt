@@ -1,0 +1,5 @@
+6 8
+filer 1 1 1
+fairy 1 1 0
+tidal 4 3 1
+elfin 1 4 0

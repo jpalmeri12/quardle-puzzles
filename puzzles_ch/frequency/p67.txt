@@ -1,0 +1,5 @@
+7 10 frequency
+alter 2 1 1
+fluid 1 2 0
+risky 2 5 0
+kappa 5 5 1

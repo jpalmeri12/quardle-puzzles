@@ -1,0 +1,5 @@
+6 8 fourscore
+usage 2 1 1
+harry 1 3 0
+racer 4 3 1
+welch 1 5 0

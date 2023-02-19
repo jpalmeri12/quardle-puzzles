@@ -1,0 +1,6 @@
+7 9 connectfive
+never 2 1 1
+obese 6 3 1
+pubic 4 4 1
+rouse 2 5 0
+quack 1 8 0

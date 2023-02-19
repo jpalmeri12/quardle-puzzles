@@ -1,0 +1,5 @@
+6 9
+squib 1 1 1
+stuck 1 1 0
+flack 4 4 1
+burly 1 5 0

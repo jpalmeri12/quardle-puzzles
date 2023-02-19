@@ -1,0 +1,6 @@
+7 10 five
+paddy 2 1 0
+dizzy 5 1 1
+vinyl 2 5 0
+noose 4 5 1
+igloo 1 7 0

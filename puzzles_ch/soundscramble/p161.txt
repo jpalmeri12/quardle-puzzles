@@ -1,0 +1,5 @@
+6 6 soundscramble
+evort 3 1 1
+trust 5 1 1
+lovor 1 2 0
+terus 1 4 0

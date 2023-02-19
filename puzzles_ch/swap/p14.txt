@@ -1,0 +1,5 @@
+7 7 swap
+lsash 5 1 1
+hgoul 2 2 1
+ugava 1 3 0
+upshy 2 5 0

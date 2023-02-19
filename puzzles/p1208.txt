@@ -1,0 +1,5 @@
+7 8
+truth 1 1 0
+roger 2 1 1
+guppy 2 3 0
+plank 5 3 1

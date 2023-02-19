@@ -1,0 +1,5 @@
+7 9 clockdown
+buggy 2 1 1
+glory 2 4 0
+radii 5 4 1
+fungi 1 8 0

@@ -1,0 +1,5 @@
+6 8 shiritori
+rehab 1 1 1
+bleat 5 3 1
+booze 1 5 0
+ought 1 7 0

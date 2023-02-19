@@ -1,0 +1,5 @@
+7 9
+tryst 2 1 1
+gripe 1 2 0
+venue 6 4 1
+terse 2 5 0

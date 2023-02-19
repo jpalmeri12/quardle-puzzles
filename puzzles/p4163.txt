@@ -1,0 +1,5 @@
+7 9
+latte 3 1 1
+honey 5 4 1
+detox 2 5 0
+gassy 1 8 0

@@ -1,0 +1,6 @@
+7 10 commonsecret
+group 1 1 1
+probe 1 5 0
+broad 4 5 1
+cedar 2 9 0
+!secret r

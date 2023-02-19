@@ -1,0 +1,6 @@
+7 9 island
+glaze 5 1 1
+flail 1 2 0
+tweak 2 4 1
+wager 2 5 0
+!island 2111 1111 311 41

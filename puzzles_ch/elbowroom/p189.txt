@@ -1,0 +1,5 @@
+7 9 elbowroom
+scoff 5 1 1
+scrum 2 4 1
+comfy 2 5 0
+rumor 1 7 0

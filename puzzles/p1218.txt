@@ -1,0 +1,5 @@
+7 10
+offal 2 1 1
+lucid 2 5 0
+imbue 5 5 1
+judge 1 9 0

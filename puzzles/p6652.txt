@@ -1,0 +1,5 @@
+7 9
+slice 1 1 0
+eater 5 1 1
+queen 2 4 0
+unite 3 4 1

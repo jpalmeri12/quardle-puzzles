@@ -1,0 +1,5 @@
+7 7
+agree 5 1 1
+cling 1 2 0
+lefty 2 2 1
+tweet 2 5 0

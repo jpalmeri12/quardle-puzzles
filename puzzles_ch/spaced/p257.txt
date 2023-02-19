@@ -1,0 +1,5 @@
+7 7 spaced
+rapid 6 1 1
+usage 2 2 1
+swamp 2 3 0
+yearn 1 6 0

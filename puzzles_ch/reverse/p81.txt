@@ -1,0 +1,5 @@
+7 9 reverse
+batty 2 1 1
+ardor 2 2 0
+htiaf 1 4 0
+feiht 5 4 1

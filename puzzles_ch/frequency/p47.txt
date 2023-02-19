@@ -1,0 +1,5 @@
+7 9 frequency
+empty 2 1 0
+melon 3 1 1
+brown 1 4 0
+ninny 5 4 1

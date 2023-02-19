@@ -1,0 +1,5 @@
+7 10
+sharp 4 1 1
+slope 1 5 0
+later 2 5 1
+evade 2 8 0

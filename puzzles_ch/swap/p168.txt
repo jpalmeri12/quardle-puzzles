@@ -1,0 +1,5 @@
+7 9 swap
+usgar 4 1 1
+drses 2 2 0
+satke 2 4 1
+samrt 1 5 0

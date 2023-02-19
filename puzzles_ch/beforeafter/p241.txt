@@ -1,0 +1,9 @@
+7 8 beforeafter
+adept 2 1 1
+jetty 1 3 0
+twine 4 3 1
+triad 2 5 0
+!beforeafter 2 o
+!beforeafter 1 o
+!beforeafter 1 o
+!beforeafter 1 m

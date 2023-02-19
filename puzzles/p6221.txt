@@ -1,0 +1,5 @@
+6 8
+pedal 2 1 1
+topic 4 3 1
+favor 1 4 0
+punch 1 7 0

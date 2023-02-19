@@ -1,0 +1,5 @@
+7 10 swap
+reanl 4 1 1
+eltae 2 5 1
+ehlix 2 5 0
+tewet 1 9 0

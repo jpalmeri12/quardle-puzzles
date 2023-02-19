@@ -1,0 +1,5 @@
+7 9
+crock 2 1 0
+olden 4 1 1
+plied 1 4 0
+proof 1 4 1

@@ -1,0 +1,5 @@
+7 9 sweeper
+comic 3 1 1
+briar 1 4 0
+reply 5 4 1
+manly 2 7 0

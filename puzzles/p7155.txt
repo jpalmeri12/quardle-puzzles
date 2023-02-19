@@ -1,0 +1,5 @@
+6 7
+filet 2 1 1
+fancy 4 2 1
+float 1 3 0
+stack 1 5 0

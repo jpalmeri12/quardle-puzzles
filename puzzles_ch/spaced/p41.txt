@@ -1,0 +1,5 @@
+6 7 spaced
+vigor 2 1 1
+sinew 1 2 0
+whelp 5 2 1
+rogue 1 4 0

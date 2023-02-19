@@ -1,0 +1,5 @@
+7 9
+align 6 1 1
+breed 4 4 1
+moron 2 5 0
+harem 1 7 0

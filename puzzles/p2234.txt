@@ -1,0 +1,5 @@
+7 10
+spout 2 1 0
+unzip 5 1 1
+plump 1 5 0
+mealy 4 5 1

@@ -1,0 +1,5 @@
+6 7
+which 3 1 1
+abhor 1 2 0
+adapt 1 2 1
+ascot 1 4 0

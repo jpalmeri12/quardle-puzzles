@@ -1,0 +1,6 @@
+7 7 island
+frown 1 1 1
+serum 5 2 1
+wider 1 4 0
+stump 2 6 0
+!island 2111 311 41 11111

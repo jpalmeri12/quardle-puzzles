@@ -1,0 +1,5 @@
+7 8
+slick 6 1 1
+cream 2 3 1
+relic 2 4 0
+smoke 1 7 0

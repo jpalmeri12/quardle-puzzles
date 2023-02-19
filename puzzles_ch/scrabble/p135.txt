@@ -1,0 +1,5 @@
+7 10 scrabble
+lipid 2 5 1
+cream 4 1 1
+flume 1 5 0
+dozen 2 9 0

@@ -1,0 +1,5 @@
+7 7
+briar 3 1 1
+dread 5 2 1
+fibre 2 3 0
+circa 1 5 0

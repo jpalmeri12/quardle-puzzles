@@ -1,0 +1,5 @@
+6 7 sweeper
+opium 1 1 1
+parka 1 2 0
+knife 4 2 1
+until 1 4 0

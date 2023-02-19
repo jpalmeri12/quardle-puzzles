@@ -1,0 +1,5 @@
+7 10
+speak 5 1 1
+sower 2 3 0
+creak 1 5 0
+rotor 2 5 1

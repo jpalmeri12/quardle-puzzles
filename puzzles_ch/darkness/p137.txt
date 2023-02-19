@@ -1,0 +1,5 @@
+6 7 darkness
+neigh 2 1 1
+decal 1 2 0
+azure 4 2 1
+shark 1 5 0

@@ -1,0 +1,5 @@
+7 7 beta
+vinyl 6 1 1
+value 4 2 1
+rally 2 4 0
+dowel 1 6 0

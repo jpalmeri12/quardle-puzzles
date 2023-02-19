@@ -1,0 +1,5 @@
+7 10 bestfit
+bayou 3 1 1
+curve 2 5 0
+vinyl 5 5 1
+ferry 1 8 0

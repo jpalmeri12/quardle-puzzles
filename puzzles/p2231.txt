@@ -1,0 +1,5 @@
+7 8
+print 1 1 0
+twirl 5 1 1
+chair 2 3 0
+hippo 3 3 1

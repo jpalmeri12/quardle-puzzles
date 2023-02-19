@@ -1,0 +1,5 @@
+7 10 dblltr
+cocoa 2 1 0
+cabal 2 1 1
+floss 1 5 0
+furor 1 5 1

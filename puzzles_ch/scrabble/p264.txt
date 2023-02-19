@@ -1,0 +1,5 @@
+6 8 scrabble
+saner 1 1 0
+essay 1 5 0
+abyss 2 1 1
+awash 4 3 1

@@ -1,0 +1,7 @@
+6 12 secretdistance
+vital 5 1 1
+afoul 1 5 0
+funky 2 5 1
+eking 1 8 0
+agape 1 11 0
+!sdpos 1 2 0 0

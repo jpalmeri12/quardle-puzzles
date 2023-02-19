@@ -1,0 +1,5 @@
+7 10 desync
+smoke 5 1 1
+vapor 2 3 0
+foist 1 5 1
+forte 1 5 0

@@ -1,0 +1,5 @@
+7 9 scrabble
+onion 2 5 0
+shire 1 1 0
+youth 5 4 1
+hydro 2 1 1

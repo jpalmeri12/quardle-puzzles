@@ -1,0 +1,6 @@
+6 9 five
+stern 3 1 1
+groom 1 4 1
+deuce 5 4 1
+range 1 5 0
+movie 1 8 0

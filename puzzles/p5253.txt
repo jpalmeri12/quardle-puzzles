@@ -1,0 +1,5 @@
+7 9
+arise 1 1 1
+sower 1 4 0
+rowdy 5 4 1
+drawl 2 6 0

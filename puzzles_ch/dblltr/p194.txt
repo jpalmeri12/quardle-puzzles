@@ -1,0 +1,5 @@
+7 9 dblltr
+verse 4 1 1
+sever 1 2 0
+folio 2 4 1
+obese 2 5 0

@@ -1,0 +1,5 @@
+6 10 spaced
+berth 5 1 1
+lance 1 2 0
+lynch 1 5 0
+leapt 1 5 1

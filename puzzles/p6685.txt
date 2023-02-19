@@ -1,0 +1,5 @@
+6 10
+rumba 1 1 1
+amaze 1 5 0
+atoll 3 5 1
+colon 1 8 0

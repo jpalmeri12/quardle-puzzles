@@ -1,0 +1,5 @@
+7 8
+roger 5 1 1
+vomit 3 3 1
+sober 2 4 0
+retro 1 7 0

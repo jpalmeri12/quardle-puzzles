@@ -1,0 +1,5 @@
+7 9
+recur 5 1 1
+gauze 1 2 0
+vague 2 4 0
+arbor 3 4 1

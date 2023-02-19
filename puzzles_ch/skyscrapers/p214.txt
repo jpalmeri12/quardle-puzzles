@@ -1,0 +1,5 @@
+7 10 skyscrapers
+usage 2 5 0
+swarm 3 5 1
+clank 1 7 0
+aorta 4 1 1

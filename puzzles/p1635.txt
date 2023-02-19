@@ -1,0 +1,5 @@
+7 10
+these 1 1 0
+sneer 4 1 1
+foray 2 5 0
+actor 5 5 1

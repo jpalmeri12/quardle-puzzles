@@ -1,0 +1,5 @@
+7 8 frequency
+theft 1 1 0
+fussy 4 1 1
+tasty 2 3 0
+young 6 3 1

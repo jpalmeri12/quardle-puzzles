@@ -1,0 +1,5 @@
+7 8 elbowroom
+musky 5 1 1
+gross 1 3 0
+occur 3 3 1
+crone 2 7 0

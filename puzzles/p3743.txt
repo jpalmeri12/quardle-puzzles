@@ -1,0 +1,5 @@
+7 10
+mania 1 1 0
+annex 5 1 1
+twixt 2 5 0
+inlay 4 5 1

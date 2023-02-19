@@ -1,0 +1,6 @@
+7 9 island
+gayer 5 1 1
+relax 2 2 0
+tease 1 4 0
+event 2 4 1
+!island 221 2111 31 1111

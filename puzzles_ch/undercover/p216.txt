@@ -1,0 +1,6 @@
+6 11 undercover
+shorn 1 1 0
+rigor 4 1 1
+union 1 4 0
+niece 2 4 1
+adapt 1 10 0

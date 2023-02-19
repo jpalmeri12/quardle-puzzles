@@ -1,0 +1,6 @@
+7 8 commonsecret
+itchy 1 1 0
+torus 2 1 1
+until 5 3 1
+swath 2 5 0
+!secret t

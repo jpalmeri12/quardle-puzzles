@@ -1,0 +1,9 @@
+7 9 beforeafter
+palsy 2 1 1
+party 1 2 0
+stiff 2 4 0
+idyll 4 4 1
+!beforeafter 2 q
+!beforeafter 1 q
+!beforeafter 1 m
+!beforeafter 1 j

@@ -1,0 +1,9 @@
+6 9 beforeafter
+stump 1 1 1
+minty 1 4 0
+tunic 4 4 1
+trice 1 8 0
+!beforeafter 2 r
+!beforeafter 2 r
+!beforeafter 2 l
+!beforeafter 1 l

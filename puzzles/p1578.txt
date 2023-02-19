@@ -1,0 +1,5 @@
+7 9
+weary 1 1 0
+altar 3 1 1
+vocal 6 4 1
+bravo 2 5 0

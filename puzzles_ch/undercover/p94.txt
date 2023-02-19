@@ -1,0 +1,6 @@
+7 9 undercover
+idiot 6 1 1
+abled 2 2 0
+beset 3 2 1
+alter 1 6 0
+fuzzy 1 8 0

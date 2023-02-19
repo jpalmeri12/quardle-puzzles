@@ -1,0 +1,5 @@
+7 8
+jumbo 3 1 1
+humor 1 3 0
+rebut 5 3 1
+booby 2 5 0

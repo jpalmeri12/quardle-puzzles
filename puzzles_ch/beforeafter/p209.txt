@@ -1,0 +1,9 @@
+6 9 beforeafter
+tweak 4 1 1
+clown 1 2 0
+pupal 1 4 0
+undid 2 4 1
+!beforeafter 1 n
+!beforeafter 1 m
+!beforeafter 2 o
+!beforeafter 1 j

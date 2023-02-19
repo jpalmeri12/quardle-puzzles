@@ -1,0 +1,5 @@
+7 10 scrabble
+baton 2 2 0
+flour 3 5 1
+foamy 5 1 1
+fifty 1 5 0

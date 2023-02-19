@@ -1,0 +1,5 @@
+7 10 frequency
+shale 5 1 1
+sepia 1 3 0
+chief 2 5 0
+fugue 6 5 1

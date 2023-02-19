@@ -1,0 +1,5 @@
+7 9
+slant 6 1 1
+pivot 3 4 1
+first 2 5 0
+intro 1 8 0

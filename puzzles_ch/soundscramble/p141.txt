@@ -1,0 +1,5 @@
+7 9 soundscramble
+oredo 5 1 1
+sterk 2 2 0
+knood 1 4 0
+nylen 2 4 1

@@ -1,0 +1,6 @@
+7 12 five
+zesty 4 1 1
+dryer 2 5 0
+eerie 5 5 1
+quite 2 7 1
+midge 1 9 0

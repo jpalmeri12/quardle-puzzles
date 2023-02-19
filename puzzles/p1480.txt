@@ -1,0 +1,5 @@
+7 10
+finch 5 1 1
+rabbi 1 2 0
+mocha 2 5 0
+award 6 5 1

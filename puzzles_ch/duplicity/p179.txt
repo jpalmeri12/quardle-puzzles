@@ -1,0 +1,5 @@
+7 9 duplicity
+grail 2 1 1
+grape 5 4 1
+plier 1 5 0
+rarer 2 8 0

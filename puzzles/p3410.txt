@@ -1,0 +1,5 @@
+7 10
+scrap 2 1 1
+scope 1 2 0
+penny 2 5 0
+exert 3 5 1

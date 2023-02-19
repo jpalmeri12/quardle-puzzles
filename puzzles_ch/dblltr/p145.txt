@@ -1,0 +1,5 @@
+6 7 dblltr
+press 1 1 1
+razor 1 2 0
+oddly 4 2 1
+stall 1 5 0

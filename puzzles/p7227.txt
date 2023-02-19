@@ -1,0 +1,5 @@
+7 10
+maxim 1 1 0
+adapt 2 1 1
+truly 2 5 0
+lorry 5 5 1

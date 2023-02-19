@@ -1,0 +1,5 @@
+7 9
+steak 6 1 1
+voila 2 4 0
+ombre 3 4 1
+kebab 1 6 0

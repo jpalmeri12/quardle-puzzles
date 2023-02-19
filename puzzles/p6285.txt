@@ -1,0 +1,5 @@
+7 10
+wrong 5 1 1
+afoot 2 3 0
+slang 1 5 0
+leggy 2 5 1

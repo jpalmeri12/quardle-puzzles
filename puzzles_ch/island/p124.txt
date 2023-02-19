@@ -1,0 +1,6 @@
+6 9 island
+pivot 4 1 1
+lucid 1 2 0
+carol 1 4 1
+agate 1 5 0
+!island 311 221 2111 211

@@ -1,0 +1,9 @@
+7 9 beforeafter
+petty 2 1 0
+trick 4 1 1
+quack 1 4 0
+quill 1 4 1
+!beforeafter 1 r
+!beforeafter 1 n
+!beforeafter 1 p
+!beforeafter 1 n

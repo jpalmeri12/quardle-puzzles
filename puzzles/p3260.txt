@@ -1,0 +1,5 @@
+7 7
+brand 1 1 0
+amend 3 1 1
+fritz 6 2 1
+lemur 2 3 0

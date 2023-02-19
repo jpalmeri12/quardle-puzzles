@@ -1,0 +1,5 @@
+6 6
+betel 1 1 0
+easel 2 1 1
+erect 4 1 1
+welch 1 4 0

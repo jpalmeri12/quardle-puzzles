@@ -1,0 +1,5 @@
+7 7 soundscramble
+asido 2 1 1
+sloop 2 2 0
+onvey 5 2 1
+vorse 1 5 0

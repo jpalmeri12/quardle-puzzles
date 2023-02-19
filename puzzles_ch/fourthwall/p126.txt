@@ -1,0 +1,7 @@
+6 6 fourthwall
+saute 1 1 0
+snarl 1 1 1
+aider 1 3 0
+undid 3 1 1
+lodge 1 5 0
+eerie 5 1 1

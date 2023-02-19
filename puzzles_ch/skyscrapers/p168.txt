@@ -1,0 +1,5 @@
+6 8 skyscrapers
+saner 1 7 0
+error 5 3 1
+gouge 1 3 0
+lousy 3 1 1

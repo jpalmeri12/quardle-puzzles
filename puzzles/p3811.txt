@@ -1,0 +1,5 @@
+7 8
+fuzzy 2 1 0
+zesty 4 1 1
+chess 1 3 0
+heath 2 3 1

@@ -1,0 +1,5 @@
+7 9
+would 6 1 1
+pupal 2 4 0
+polar 4 4 1
+rearm 1 8 0

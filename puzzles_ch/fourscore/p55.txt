@@ -1,0 +1,5 @@
+7 9 fourscore
+gnome 2 1 1
+dozen 4 4 1
+epoch 2 5 0
+risen 1 7 0

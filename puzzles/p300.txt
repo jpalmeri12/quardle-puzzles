@@ -1,0 +1,5 @@
+7 10
+savor 5 1 1
+llama 1 2 0
+terra 2 5 0
+roast 4 5 1

@@ -1,0 +1,6 @@
+7 10 connectfive
+adapt 2 1 1
+ample 5 4 1
+thump 2 5 0
+havoc 3 5 1
+phone 1 8 0

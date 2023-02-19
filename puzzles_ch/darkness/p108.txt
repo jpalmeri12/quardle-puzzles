@@ -1,0 +1,5 @@
+7 10 darkness
+ultra 2 5 1
+dusty 1 5 0
+expel 2 1 0
+plant 4 1 1

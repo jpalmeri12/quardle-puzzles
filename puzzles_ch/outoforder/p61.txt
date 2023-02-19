@@ -1,0 +1,5 @@
+7 9 outoforder
+flour 6 1 1
+agate 4 4 1
+augur 2 5 0
+kitty 1 7 0

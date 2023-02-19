@@ -1,0 +1,5 @@
+7 10 duplicity
+ditto 4 1 1
+widow 1 5 0
+waist 5 5 1
+staid 2 7 0

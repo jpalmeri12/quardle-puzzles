@@ -1,0 +1,6 @@
+7 10 connectfive
+comfy 1 1 0
+manga 3 1 1
+needy 5 4 1
+layer 2 5 0
+leech 2 5 1

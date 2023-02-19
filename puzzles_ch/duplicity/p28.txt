@@ -1,0 +1,5 @@
+7 9 duplicity
+knack 1 1 1
+cigar 3 4 1
+knife 1 5 0
+grief 2 8 0

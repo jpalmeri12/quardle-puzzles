@@ -1,0 +1,5 @@
+7 10
+moron 2 1 1
+knife 1 5 0
+empty 5 5 1
+vinyl 2 9 0

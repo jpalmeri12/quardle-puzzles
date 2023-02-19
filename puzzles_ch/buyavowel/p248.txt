@@ -1,0 +1,5 @@
+6 9 buyavowel
+logic 5 1 1
+petal 2 4 1
+medic 1 5 0
+flume 1 8 0

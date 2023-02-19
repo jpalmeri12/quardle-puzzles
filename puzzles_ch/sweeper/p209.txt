@@ -1,0 +1,5 @@
+6 8 sweeper
+thumb 1 1 0
+briny 5 1 1
+swill 2 3 1
+swoon 1 4 0

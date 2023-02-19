@@ -1,0 +1,5 @@
+7 9
+taboo 6 1 1
+spend 4 4 1
+hippo 2 5 0
+lying 1 7 0

@@ -1,0 +1,5 @@
+7 8 bestfit
+loath 2 1 0
+title 5 1 1
+taint 1 3 0
+arbor 2 3 1

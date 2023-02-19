@@ -1,0 +1,6 @@
+7 10 wordcolumn
+chess 3 1 1
+verse 2 3 0
+asset 2 5 0
+sniff 4 5 1
+druid 1 7 0

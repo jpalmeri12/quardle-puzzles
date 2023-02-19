@@ -1,0 +1,5 @@
+7 8 swap
+mathc 5 1 1
+ohard 2 3 1
+baisc 1 5 0
+deing 2 7 0

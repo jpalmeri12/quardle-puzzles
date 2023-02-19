@@ -1,0 +1,5 @@
+7 10 sweeper
+ninja 4 1 1
+stank 1 3 0
+grave 2 5 0
+eight 6 5 1

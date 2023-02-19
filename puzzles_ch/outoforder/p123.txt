@@ -1,0 +1,5 @@
+7 9 outoforder
+modem 5 1 1
+gaffe 1 4 0
+fraud 3 4 1
+adopt 2 8 0

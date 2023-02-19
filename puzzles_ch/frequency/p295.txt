@@ -1,0 +1,5 @@
+7 10 frequency
+plant 2 1 1
+lorry 2 2 0
+staff 1 5 0
+abhor 3 5 1

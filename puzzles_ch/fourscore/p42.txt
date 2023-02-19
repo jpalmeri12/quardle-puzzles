@@ -1,0 +1,5 @@
+7 10 fourscore
+toxic 4 1 1
+quack 1 5 0
+kayak 5 5 1
+swear 2 8 0

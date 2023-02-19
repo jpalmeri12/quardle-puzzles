@@ -1,0 +1,5 @@
+6 9
+fetch 4 1 1
+pagan 1 4 1
+alpha 1 5 0
+nanny 1 8 0

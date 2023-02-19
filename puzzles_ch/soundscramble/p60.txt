@@ -1,0 +1,5 @@
+7 7 soundscramble
+cival 2 1 1
+intac 2 2 0
+adeil 5 2 1
+llimi 1 5 0

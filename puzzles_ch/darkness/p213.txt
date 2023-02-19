@@ -1,0 +1,5 @@
+7 9 darkness
+tarot 3 1 1
+alter 6 4 1
+stool 2 5 0
+thank 1 2 0

@@ -1,0 +1,5 @@
+7 7 dblltr
+fleet 2 1 1
+marry 5 2 1
+essay 2 3 0
+otter 1 5 0

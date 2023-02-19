@@ -1,0 +1,5 @@
+7 10
+toxin 5 1 1
+plane 2 5 0
+peace 2 5 1
+decay 1 9 0

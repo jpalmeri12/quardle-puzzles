@@ -1,0 +1,5 @@
+7 9 soundscramble
+sawar 6 1 1
+mepla 3 4 1
+letar 2 5 0
+swaap 1 8 0

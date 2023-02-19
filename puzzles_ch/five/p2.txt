@@ -1,0 +1,6 @@
+7 10 five
+grant 5 1 1
+molar 2 3 0
+motto 2 5 0
+offal 3 5 1
+elfin 1 7 0

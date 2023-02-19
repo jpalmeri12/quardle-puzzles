@@ -1,0 +1,5 @@
+7 8 invention
+favor 1 1 0
+vixen 3 1 1
+melon 5 3 1
+knelt 2 5 0

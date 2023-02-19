@@ -1,0 +1,5 @@
+7 10 buyavowel
+whose 5 1 1
+weave 1 5 0
+verso 4 5 1
+shrub 2 7 0

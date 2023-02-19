@@ -1,0 +1,5 @@
+7 8 soundscramble
+flash 2 1 0
+sooty 5 1 1
+eglow 1 3 1
+graet 1 4 0

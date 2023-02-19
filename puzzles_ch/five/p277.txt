@@ -1,0 +1,6 @@
+7 10 five
+tumor 4 1 1
+plunk 2 2 0
+retro 1 5 0
+ruddy 1 5 1
+older 5 5 1

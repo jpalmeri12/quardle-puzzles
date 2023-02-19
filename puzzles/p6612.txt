@@ -1,0 +1,5 @@
+7 9
+broke 5 1 1
+carry 2 2 0
+bunch 2 4 1
+guide 1 5 0

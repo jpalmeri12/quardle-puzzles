@@ -1,0 +1,5 @@
+7 8
+basin 2 1 0
+shape 4 1 1
+spray 1 3 0
+posse 2 3 1

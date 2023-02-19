@@ -1,0 +1,5 @@
+7 10 invention
+block 5 1 1
+snoop 2 3 0
+spark 1 5 0
+plait 2 5 1

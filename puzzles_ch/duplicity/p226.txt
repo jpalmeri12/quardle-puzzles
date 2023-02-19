@@ -1,0 +1,5 @@
+7 10 duplicity
+swill 6 1 1
+still 2 5 0
+twirl 3 5 1
+swirl 1 7 0

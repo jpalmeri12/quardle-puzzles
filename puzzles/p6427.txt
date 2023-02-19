@@ -1,0 +1,5 @@
+7 7
+vapid 1 1 1
+affix 1 2 0
+flank 3 2 1
+skull 2 6 0

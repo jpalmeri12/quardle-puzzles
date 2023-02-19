@@ -1,0 +1,9 @@
+7 10 beforeafter
+trial 5 1 1
+pupil 2 3 0
+tonal 1 5 0
+nasty 3 5 1
+!beforeafter 1 p
+!beforeafter 2 o
+!beforeafter 2 m
+!beforeafter 1 q

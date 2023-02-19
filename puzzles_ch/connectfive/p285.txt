@@ -1,0 +1,6 @@
+7 10 connectfive
+audio 3 1 1
+snuff 1 2 0
+foggy 2 5 0
+goner 5 5 1
+bathe 1 8 0

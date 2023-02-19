@@ -1,0 +1,5 @@
+7 9 soundscramble
+slepo 2 1 1
+alley 1 2 0
+pheno 2 4 0
+nebly 5 4 1

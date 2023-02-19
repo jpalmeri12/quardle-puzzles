@@ -1,0 +1,5 @@
+7 9 soundscramble
+apero 2 1 1
+aptic 2 1 0
+cyber 5 4 1
+fotty 1 5 0

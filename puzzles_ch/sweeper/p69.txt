@@ -1,0 +1,5 @@
+7 10 sweeper
+hazel 3 1 1
+plume 2 5 0
+motel 5 5 1
+towel 1 9 0

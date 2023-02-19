@@ -1,0 +1,5 @@
+7 9 sweeper
+fiery 2 1 1
+wrest 1 4 0
+stave 4 4 1
+bleed 2 8 0

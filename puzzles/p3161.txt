@@ -1,0 +1,5 @@
+7 10
+slack 6 1 1
+break 2 5 0
+ascot 5 5 1
+pinto 1 8 0

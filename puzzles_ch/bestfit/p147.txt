@@ -1,0 +1,5 @@
+7 7 bestfit
+quack 2 1 1
+dumpy 1 2 0
+puree 4 2 1
+corny 2 4 0

@@ -1,0 +1,5 @@
+7 9
+sharp 5 1 1
+alley 2 4 1
+clasp 1 5 0
+erupt 2 7 0

@@ -1,0 +1,5 @@
+7 9
+maple 6 1 1
+guise 3 4 1
+bugle 2 5 0
+gusty 1 7 0

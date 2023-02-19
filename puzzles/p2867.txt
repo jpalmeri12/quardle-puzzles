@@ -1,0 +1,5 @@
+7 9
+timid 5 1 1
+brave 3 4 1
+trade 2 5 0
+wreak 1 8 0

@@ -1,0 +1,5 @@
+7 9 buyavowel
+brute 5 1 1
+crown 2 4 1
+catty 2 4 0
+knave 1 8 0

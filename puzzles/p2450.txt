@@ -1,0 +1,5 @@
+6 9
+marsh 1 1 0
+aping 2 1 1
+anime 1 4 0
+evict 5 4 1

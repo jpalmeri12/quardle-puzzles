@@ -1,0 +1,5 @@
+7 10
+tabby 6 1 1
+honey 2 5 0
+opine 3 5 1
+tonga 1 8 0

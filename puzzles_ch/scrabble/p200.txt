@@ -1,0 +1,5 @@
+7 10 scrabble
+urban 1 1 1
+satyr 2 9 0
+notch 1 5 0
+hasty 5 5 1

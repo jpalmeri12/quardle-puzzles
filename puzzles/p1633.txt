@@ -1,0 +1,5 @@
+7 10
+screw 2 1 0
+refit 4 1 1
+quite 1 5 0
+itchy 3 5 1

@@ -1,0 +1,5 @@
+7 8 hardmode
+steal 1 1 0
+throb 2 1 1
+spiny 4 3 1
+briny 2 5 0

@@ -1,0 +1,5 @@
+6 6 swap
+rfoze 1 1 1
+toter 5 1 1
+floio 1 2 0
+zaure 1 4 0

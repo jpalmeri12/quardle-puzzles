@@ -1,0 +1,5 @@
+7 9 duplicity
+clasp 5 1 1
+scalp 2 2 0
+cocoa 3 4 1
+sloop 1 5 0

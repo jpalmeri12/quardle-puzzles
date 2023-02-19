@@ -1,0 +1,5 @@
+7 9 spin
+gonad 1 1 0
+adore 4 1 1
+otter 6 4 1
+tweet 2 5 0

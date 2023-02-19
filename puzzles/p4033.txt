@@ -1,0 +1,5 @@
+7 9
+sully 1 1 0
+lupus 3 1 1
+pudgy 2 4 0
+youth 6 4 1

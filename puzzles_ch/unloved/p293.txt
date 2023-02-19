@@ -1,0 +1,5 @@
+7 8 unloved
+abled 1 1 0
+brick 2 1 1
+adept 4 3 1
+caddy 2 4 0

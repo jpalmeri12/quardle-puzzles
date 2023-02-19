@@ -1,0 +1,5 @@
+7 9 scrabble
+motto 2 4 1
+ethic 1 1 0
+mecca 2 4 0
+coach 5 1 1

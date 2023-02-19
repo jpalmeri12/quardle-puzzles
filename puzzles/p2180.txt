@@ -1,0 +1,5 @@
+7 10
+slope 4 1 1
+spool 1 3 0
+cheat 2 5 0
+thrum 6 5 1

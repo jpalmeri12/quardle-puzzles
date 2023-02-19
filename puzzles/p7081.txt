@@ -1,0 +1,5 @@
+6 8
+parka 5 1 1
+began 3 3 1
+sneak 1 4 0
+canon 1 7 0

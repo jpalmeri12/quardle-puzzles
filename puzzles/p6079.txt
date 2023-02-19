@@ -1,0 +1,5 @@
+7 10
+sweat 5 1 1
+slope 1 3 0
+booty 2 5 0
+onion 3 5 1

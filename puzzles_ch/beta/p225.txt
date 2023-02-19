@@ -1,0 +1,5 @@
+7 9 beta
+spoil 5 1 1
+crimp 1 2 0
+kneed 3 4 1
+knoll 2 5 0

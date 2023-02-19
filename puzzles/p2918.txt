@@ -1,0 +1,5 @@
+6 9
+bigot 4 1 1
+geese 2 4 1
+deity 1 5 0
+begun 1 8 0

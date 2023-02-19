@@ -1,0 +1,5 @@
+6 9 reverse
+spasm 2 1 1
+epols 1 2 0
+ashen 1 4 0
+evael 4 4 1

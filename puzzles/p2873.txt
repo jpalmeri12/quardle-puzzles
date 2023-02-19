@@ -1,0 +1,5 @@
+7 8
+bawdy 2 1 0
+alley 3 1 1
+moral 1 3 1
+overt 1 4 0

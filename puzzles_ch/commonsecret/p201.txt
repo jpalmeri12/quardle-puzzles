@@ -1,0 +1,6 @@
+6 10 commonsecret
+vivid 4 1 1
+aside 1 5 0
+snide 2 5 1
+windy 1 7 0
+!secret d

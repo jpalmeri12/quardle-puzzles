@@ -1,0 +1,5 @@
+7 9
+draft 3 1 1
+lorry 1 2 0
+offer 2 4 0
+epoxy 5 4 1

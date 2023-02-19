@@ -1,0 +1,9 @@
+7 7 spellbound
+recap 2 1 1
+recut 1 2 0
+trawl 5 2 1
+prawn 2 5 0
+!spellbound 0 3 0
+!spellbound 1 0 3
+!spellbound 2 1 4
+!spellbound 3 2 1

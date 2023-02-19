@@ -1,0 +1,6 @@
+6 10 wordcolumn
+rabbi 3 1 1
+stash 1 2 0
+hefty 5 2 1
+shirt 1 5 0
+haste 2 5 1

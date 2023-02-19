@@ -1,0 +1,5 @@
+7 9 bestfit
+tonic 2 1 1
+roost 4 4 1
+clone 2 5 0
+crash 1 7 0

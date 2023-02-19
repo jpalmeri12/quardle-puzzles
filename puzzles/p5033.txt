@@ -1,0 +1,5 @@
+7 10
+imply 4 1 1
+loopy 1 3 0
+glyph 2 5 0
+grief 2 5 1

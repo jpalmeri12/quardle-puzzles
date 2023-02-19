@@ -1,0 +1,5 @@
+6 8 sweeper
+egret 1 1 0
+gipsy 2 1 1
+spray 1 3 0
+affix 4 3 1

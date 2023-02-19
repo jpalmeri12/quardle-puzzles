@@ -1,0 +1,5 @@
+7 10
+seize 1 1 0
+equip 2 1 1
+pound 2 5 0
+overt 3 5 1

@@ -1,0 +1,5 @@
+7 7
+afire 5 1 1
+apply 2 2 1
+pubic 2 3 0
+glaze 1 5 0

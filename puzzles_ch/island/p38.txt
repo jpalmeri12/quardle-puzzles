@@ -1,0 +1,6 @@
+6 9 island
+cough 1 1 0
+hurry 5 1 1
+nadir 1 4 0
+dowel 3 4 1
+!island 311 31 2111 32

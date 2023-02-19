@@ -1,0 +1,5 @@
+7 10
+drake 2 1 0
+known 5 1 1
+groan 1 5 0
+reign 2 5 1

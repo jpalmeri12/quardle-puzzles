@@ -1,0 +1,7 @@
+7 12 secretdistance
+cloud 4 1 1
+hydro 2 5 0
+rearm 5 5 1
+vodka 1 7 0
+witch 1 11 0
+!sdpos 3 2 3 1

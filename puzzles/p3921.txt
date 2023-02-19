@@ -1,0 +1,5 @@
+7 10
+flash 2 1 1
+flown 1 2 0
+havoc 2 5 0
+vowel 4 5 1

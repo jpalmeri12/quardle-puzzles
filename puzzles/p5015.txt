@@ -1,0 +1,5 @@
+6 7
+amble 4 1 1
+loamy 1 2 0
+olive 2 2 1
+viola 1 4 0

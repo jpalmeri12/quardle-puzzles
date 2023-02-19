@@ -1,0 +1,5 @@
+7 9
+dowry 6 1 1
+power 2 4 0
+which 4 4 1
+manic 1 6 0

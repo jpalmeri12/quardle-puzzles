@@ -1,0 +1,5 @@
+7 10
+squib 4 1 1
+cabby 1 5 0
+acorn 2 5 1
+rusty 2 8 0

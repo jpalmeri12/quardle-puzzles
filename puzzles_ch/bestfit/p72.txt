@@ -1,0 +1,5 @@
+7 9 bestfit
+polyp 5 1 1
+enjoy 2 2 0
+fizzy 1 4 0
+forte 1 4 1

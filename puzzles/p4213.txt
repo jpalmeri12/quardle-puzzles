@@ -1,0 +1,5 @@
+7 10
+vixen 3 1 1
+finch 1 5 0
+hairy 5 5 1
+hurry 2 8 0

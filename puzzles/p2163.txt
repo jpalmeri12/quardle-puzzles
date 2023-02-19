@@ -1,0 +1,5 @@
+7 10
+blare 3 1 1
+valor 1 2 0
+terra 2 5 0
+adept 6 5 1

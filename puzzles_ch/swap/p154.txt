@@ -1,0 +1,5 @@
+7 8 swap
+aedpt 2 1 1
+rdain 1 3 0
+imnce 4 3 1
+loevr 2 7 0

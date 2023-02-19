@@ -1,0 +1,5 @@
+7 10 fourscore
+retch 4 1 1
+ashen 2 5 0
+scoop 3 5 1
+tapir 1 9 0

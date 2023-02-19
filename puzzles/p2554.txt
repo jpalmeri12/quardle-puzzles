@@ -1,0 +1,5 @@
+7 9
+grasp 1 1 0
+privy 5 1 1
+alive 2 4 0
+lumen 3 4 1

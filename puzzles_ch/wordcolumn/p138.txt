@@ -1,0 +1,6 @@
+7 10 wordcolumn
+soapy 2 1 0
+prime 5 1 1
+cutie 2 3 0
+puree 1 5 0
+every 4 5 1

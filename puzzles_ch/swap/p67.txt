@@ -1,0 +1,5 @@
+6 10 swap
+crips 1 1 0
+rcony 2 1 1
+vynig 1 5 0
+nsowy 3 5 1

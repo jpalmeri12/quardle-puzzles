@@ -1,0 +1,5 @@
+7 10 duplicity
+adobe 6 1 1
+abode 2 5 0
+baste 3 5 1
+stead 1 9 0

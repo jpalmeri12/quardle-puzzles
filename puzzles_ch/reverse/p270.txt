@@ -1,0 +1,5 @@
+6 7 reverse
+hctal 4 1 1
+bunch 1 2 0
+uoyab 2 2 1
+gayly 1 5 0

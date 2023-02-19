@@ -1,0 +1,5 @@
+6 10 outoforder
+basic 2 1 1
+madly 1 2 0
+icing 1 5 0
+gnome 5 5 1

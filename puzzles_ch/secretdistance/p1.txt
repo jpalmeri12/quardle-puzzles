@@ -1,0 +1,7 @@
+6 12 secretdistance
+sedan 5 1 1
+hymen 1 5 0
+hairy 1 5 1
+yacht 1 9 0
+enact 1 11 0
+!sdpos 3 0 2 1

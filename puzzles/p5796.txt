@@ -1,0 +1,5 @@
+7 9
+mango 2 1 0
+maple 2 1 1
+clasp 1 4 0
+print 5 4 1

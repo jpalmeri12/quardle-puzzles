@@ -1,0 +1,5 @@
+7 9 frequency
+disco 1 1 1
+cross 1 4 0
+scare 5 4 1
+sumac 2 6 0

@@ -1,0 +1,5 @@
+7 9 spaced
+clove 1 1 0
+valor 4 1 1
+broil 2 4 0
+leapt 6 4 1

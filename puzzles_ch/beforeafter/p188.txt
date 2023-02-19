@@ -1,0 +1,9 @@
+7 9 beforeafter
+chest 2 1 1
+stake 2 4 0
+agent 4 4 1
+hefty 1 8 0
+!beforeafter 2 j
+!beforeafter 1 p
+!beforeafter 2 i
+!beforeafter 2 l

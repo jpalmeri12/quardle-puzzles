@@ -1,0 +1,5 @@
+7 10 dblltr
+skulk 5 1 1
+shook 1 5 0
+outdo 4 5 1
+spool 2 9 0

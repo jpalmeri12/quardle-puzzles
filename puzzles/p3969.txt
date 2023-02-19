@@ -1,0 +1,5 @@
+6 6
+sunny 1 1 0
+unwed 2 1 1
+noisy 4 1 1
+reuse 1 4 0

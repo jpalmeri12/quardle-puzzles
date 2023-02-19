@@ -1,0 +1,5 @@
+7 10 darkness
+husky 1 1 0
+khaki 4 1 1
+liver 3 5 1
+alive 2 5 0

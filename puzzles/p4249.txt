@@ -1,0 +1,5 @@
+7 9
+scour 1 1 1
+unfed 1 4 0
+ditch 5 4 1
+right 2 8 0

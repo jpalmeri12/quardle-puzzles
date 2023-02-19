@@ -1,0 +1,5 @@
+7 10
+poker 6 1 1
+voter 2 5 0
+opera 3 5 1
+preen 1 7 0

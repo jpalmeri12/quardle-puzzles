@@ -1,0 +1,6 @@
+6 10 five
+thigh 1 1 1
+vogue 4 4 1
+havoc 1 5 0
+abbey 2 5 1
+reset 1 8 0

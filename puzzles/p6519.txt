@@ -1,0 +1,5 @@
+6 8
+suite 2 1 1
+skate 5 3 1
+stuck 1 4 0
+poise 1 7 0

@@ -1,0 +1,5 @@
+7 7
+might 6 1 1
+chili 2 2 0
+chaff 2 2 1
+often 1 6 0

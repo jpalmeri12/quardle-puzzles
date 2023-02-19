@@ -1,0 +1,5 @@
+7 7
+minor 4 1 1
+faith 2 2 0
+forth 2 2 1
+proof 1 4 0

@@ -1,0 +1,5 @@
+7 7
+spark 5 1 1
+kappa 2 2 0
+knock 2 2 1
+boxer 1 4 0

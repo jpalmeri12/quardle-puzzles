@@ -1,0 +1,5 @@
+7 7 elbowroom
+bliss 2 1 1
+flake 1 2 0
+kayak 4 2 1
+shame 2 5 0

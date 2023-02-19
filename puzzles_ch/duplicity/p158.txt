@@ -1,0 +1,5 @@
+6 8 duplicity
+floss 3 1 1
+flown 5 3 1
+nasal 1 4 0
+swoon 1 7 0

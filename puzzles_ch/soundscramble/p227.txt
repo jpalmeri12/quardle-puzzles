@@ -1,0 +1,5 @@
+7 10 soundscramble
+fingu 3 1 1
+inder 2 3 0
+fauth 1 5 0
+flack 1 5 1

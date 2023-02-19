@@ -1,0 +1,5 @@
+7 10
+feast 2 1 1
+steak 1 5 0
+atone 4 5 1
+story 2 7 0

@@ -1,0 +1,5 @@
+7 9 sweeper
+entry 2 1 0
+tunic 4 1 1
+solid 1 4 0
+salon 1 4 1

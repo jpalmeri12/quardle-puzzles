@@ -1,0 +1,5 @@
+7 8 dblltr
+mamma 2 1 1
+weedy 4 3 1
+ember 1 4 0
+tryst 2 7 0

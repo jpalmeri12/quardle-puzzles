@@ -1,0 +1,5 @@
+6 6 elbowroom
+yield 3 1 1
+niece 5 1 1
+liege 1 3 0
+undue 1 5 0

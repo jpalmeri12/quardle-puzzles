@@ -1,0 +1,9 @@
+6 9 spellbound
+trail 3 1 1
+eking 1 4 0
+gross 5 4 1
+basis 1 8 0
+!spellbound 0 1 0
+!spellbound 1 0 1
+!spellbound 2 3 2
+!spellbound 3 0 2

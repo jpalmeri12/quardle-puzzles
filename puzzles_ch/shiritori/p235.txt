@@ -1,0 +1,5 @@
+6 8 shiritori
+shade 1 1 1
+pause 3 3 1
+drank 1 4 0
+elegy 1 7 0

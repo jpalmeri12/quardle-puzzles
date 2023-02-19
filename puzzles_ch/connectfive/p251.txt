@@ -1,0 +1,6 @@
+7 10 connectfive
+omega 1 1 0
+mania 2 1 1
+banjo 1 5 0
+night 3 5 1
+stake 2 9 0

@@ -1,0 +1,5 @@
+6 9 sweeper
+taffy 1 1 0
+furor 3 1 1
+sooth 1 4 0
+hutch 5 4 1

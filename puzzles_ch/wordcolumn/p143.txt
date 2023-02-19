@@ -1,0 +1,6 @@
+7 10 wordcolumn
+night 1 1 0
+iliac 2 1 1
+chest 2 5 0
+hydro 3 5 1
+idler 2 7 0

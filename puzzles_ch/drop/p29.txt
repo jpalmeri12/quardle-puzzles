@@ -1,0 +1,6 @@
+6 11 drop
+space 1 1 0
+posit 2 1 1
+wince 1 4 0
+elate 5 4 1
+spice 1 10 0

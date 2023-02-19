@@ -1,0 +1,9 @@
+6 6 beforeafter
+usual 1 1 1
+diary 4 1 1
+sprig 1 2 0
+alert 1 4 0
+!beforeafter 2 r
+!beforeafter 2 o
+!beforeafter 2 n
+!beforeafter 2 n

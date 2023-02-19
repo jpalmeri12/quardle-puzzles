@@ -1,0 +1,6 @@
+6 10 five
+drier 2 1 1
+drain 1 5 0
+idiot 4 5 1
+rigid 1 7 0
+crate 1 9 0

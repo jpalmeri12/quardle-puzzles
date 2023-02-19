@@ -1,0 +1,5 @@
+7 8 fourscore
+briny 2 1 0
+bawdy 2 1 1
+tract 5 3 1
+idler 1 4 0

@@ -1,0 +1,5 @@
+7 8 reverse
+lrans 1 1 0
+niart 4 1 1
+realm 2 3 0
+recur 2 3 1

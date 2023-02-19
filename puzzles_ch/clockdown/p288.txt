@@ -1,0 +1,5 @@
+7 10 clockdown
+sunny 2 1 1
+nylon 1 5 0
+oddly 4 5 1
+coyly 2 9 0

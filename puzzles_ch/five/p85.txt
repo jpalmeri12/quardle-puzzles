@@ -1,0 +1,6 @@
+7 10 five
+racer 4 1 1
+nomad 1 2 0
+curry 1 5 0
+yacht 5 5 1
+waltz 2 9 0

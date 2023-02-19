@@ -1,0 +1,5 @@
+7 9
+spook 3 1 1
+bobby 2 4 0
+braid 5 4 1
+radii 1 7 0

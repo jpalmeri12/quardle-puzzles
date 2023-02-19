@@ -1,0 +1,9 @@
+6 9 spellbound
+weigh 1 1 1
+whisk 1 1 0
+genre 1 4 0
+relic 4 4 1
+!spellbound 0 4 2
+!spellbound 1 4 2
+!spellbound 2 4 1
+!spellbound 3 4 1

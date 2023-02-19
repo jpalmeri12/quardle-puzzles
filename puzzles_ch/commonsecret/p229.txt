@@ -1,0 +1,6 @@
+6 6 commonsecret
+amble 1 1 1
+flesh 4 1 1
+mealy 1 2 0
+lease 1 4 0
+!secret l

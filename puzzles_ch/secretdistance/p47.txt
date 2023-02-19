@@ -1,0 +1,7 @@
+7 9 secretdistance
+fetid 1 1 0
+throw 3 1 1
+nasty 6 2 1
+swift 2 5 0
+fresh 1 8 0
+!sdpos 2 0 0 1

@@ -1,0 +1,5 @@
+7 7
+torch 3 1 1
+cobra 2 2 0
+resin 5 2 1
+mucus 1 4 0

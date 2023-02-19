@@ -1,0 +1,6 @@
+7 12 connectfive
+frown 3 1 1
+inept 2 5 0
+erase 4 5 1
+gouge 2 7 1
+horse 1 8 0

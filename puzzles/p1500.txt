@@ -1,0 +1,5 @@
+7 10
+earth 5 1 1
+might 2 5 0
+guide 4 5 1
+sandy 1 8 0

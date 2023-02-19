@@ -1,0 +1,6 @@
+7 10 undercover
+siege 1 1 1
+bliss 4 3 1
+girly 1 4 0
+dusty 2 7 0
+macaw 1 9 0

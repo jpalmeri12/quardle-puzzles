@@ -1,0 +1,5 @@
+7 10
+wrack 1 1 0
+cycle 4 1 1
+blend 2 5 0
+duchy 6 5 1

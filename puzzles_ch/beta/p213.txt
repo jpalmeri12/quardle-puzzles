@@ -1,0 +1,5 @@
+7 10 beta
+sushi 2 1 1
+sniff 2 1 0
+limbo 1 5 0
+betel 4 5 1

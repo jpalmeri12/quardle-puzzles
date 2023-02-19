@@ -1,0 +1,5 @@
+7 9
+bawdy 2 1 0
+dowry 5 1 1
+queer 1 4 0
+udder 2 4 1

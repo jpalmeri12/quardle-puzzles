@@ -1,0 +1,6 @@
+6 10 five
+watch 2 1 1
+proof 4 1 1
+macro 1 2 0
+whiff 1 5 0
+widow 1 5 1

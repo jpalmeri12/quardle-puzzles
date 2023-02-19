@@ -1,0 +1,6 @@
+6 9 connectfive
+foyer 1 1 0
+ethic 4 1 1
+human 2 4 1
+dunce 1 5 0
+gamut 1 7 0

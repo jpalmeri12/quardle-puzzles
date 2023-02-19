@@ -1,0 +1,5 @@
+7 7 clockdown
+visor 4 1 1
+cabin 1 2 0
+argue 2 2 1
+gross 2 4 0

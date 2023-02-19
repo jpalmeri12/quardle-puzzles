@@ -1,0 +1,5 @@
+7 10 spin
+alarm 3 1 1
+canal 2 3 0
+dumpy 1 5 0
+drink 1 5 1

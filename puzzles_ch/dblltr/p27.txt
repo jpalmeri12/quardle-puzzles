@@ -1,0 +1,5 @@
+7 10 dblltr
+ninth 5 1 1
+conch 1 5 0
+nanny 3 5 1
+inner 2 7 0

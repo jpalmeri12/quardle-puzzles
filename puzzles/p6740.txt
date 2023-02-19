@@ -1,0 +1,5 @@
+7 9
+bingo 5 1 1
+sorry 2 4 1
+stage 2 4 0
+cycle 1 8 0

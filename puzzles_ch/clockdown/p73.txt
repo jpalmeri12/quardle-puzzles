@@ -1,0 +1,5 @@
+6 8 clockdown
+petal 5 1 1
+islet 1 3 0
+scold 2 3 1
+local 1 5 0

@@ -1,0 +1,5 @@
+7 9 bestfit
+stick 1 1 1
+cutie 1 4 0
+totem 3 4 1
+reedy 2 7 0

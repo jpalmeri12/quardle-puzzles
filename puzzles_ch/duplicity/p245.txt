@@ -1,0 +1,5 @@
+7 10 duplicity
+whiny 6 1 1
+hobby 2 5 0
+brown 5 5 1
+rhino 1 7 0

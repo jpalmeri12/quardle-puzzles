@@ -1,0 +1,5 @@
+7 10 darkness
+bigot 1 5 1
+baler 2 1 0
+begun 1 5 0
+blade 2 1 1

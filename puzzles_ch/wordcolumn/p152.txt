@@ -1,0 +1,6 @@
+6 10 wordcolumn
+fetus 1 1 1
+spout 1 5 0
+pearl 2 5 1
+ulcer 4 5 1
+hatch 1 7 0

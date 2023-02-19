@@ -1,0 +1,6 @@
+6 10 wordcolumn
+clung 1 1 1
+angel 5 3 1
+going 1 5 0
+oxide 2 5 1
+vital 1 7 0

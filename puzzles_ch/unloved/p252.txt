@@ -1,0 +1,5 @@
+7 10 unloved
+cacti 2 1 1
+given 1 5 0
+viral 3 5 1
+wafer 2 8 0

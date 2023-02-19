@@ -1,0 +1,5 @@
+7 10
+saner 2 1 1
+treat 1 5 0
+aroma 4 5 1
+gummy 2 8 0

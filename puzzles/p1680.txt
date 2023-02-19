@@ -1,0 +1,5 @@
+7 9
+dirty 5 1 1
+media 2 2 0
+truss 2 4 1
+dryly 1 5 0

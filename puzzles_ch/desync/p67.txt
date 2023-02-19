@@ -1,0 +1,5 @@
+7 9 desync
+cried 6 1 1
+being 4 4 1
+stead 2 5 0
+shone 1 7 0

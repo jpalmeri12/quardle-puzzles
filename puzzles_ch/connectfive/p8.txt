@@ -1,0 +1,6 @@
+7 10 connectfive
+mangy 2 1 0
+afoul 3 1 1
+hyper 5 4 1
+gully 1 5 0
+gamut 1 5 1

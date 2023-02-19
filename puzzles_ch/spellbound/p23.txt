@@ -1,0 +1,9 @@
+7 8 spellbound
+ardor 1 1 0
+rebus 2 1 1
+woken 6 3 1
+stuck 2 5 0
+!spellbound 0 3 4
+!spellbound 1 2 3
+!spellbound 2 4 1
+!spellbound 3 1 3

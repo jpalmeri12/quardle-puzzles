@@ -1,0 +1,5 @@
+6 6 unloved
+shape 1 1 0
+human 2 1 1
+pushy 4 1 1
+cache 1 4 0

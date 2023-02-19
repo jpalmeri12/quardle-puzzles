@@ -1,0 +1,5 @@
+7 10
+store 2 1 1
+enema 2 5 0
+novel 3 5 1
+sever 1 7 0

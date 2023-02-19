@@ -1,0 +1,5 @@
+7 9
+libel 4 1 1
+skiff 2 2 0
+boxer 1 4 0
+brook 1 4 1

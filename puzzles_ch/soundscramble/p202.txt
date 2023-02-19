@@ -1,0 +1,5 @@
+6 6 soundscramble
+ascut 1 1 1
+issoe 4 1 1
+swash 1 2 0
+upiom 1 4 0

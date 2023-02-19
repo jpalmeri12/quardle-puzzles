@@ -1,0 +1,5 @@
+7 10
+digit 5 1 1
+minty 2 5 0
+naval 4 5 1
+burly 1 9 0

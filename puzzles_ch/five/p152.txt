@@ -1,0 +1,6 @@
+7 10 five
+organ 4 1 1
+denim 2 5 0
+edify 3 5 1
+image 5 5 1
+maybe 1 9 0

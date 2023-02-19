@@ -1,0 +1,5 @@
+7 9
+stare 2 1 1
+ruler 2 4 0
+lithe 4 4 1
+rodeo 1 8 0

@@ -1,0 +1,5 @@
+7 10 soundscramble
+bretu 4 1 1
+risun 1 5 0
+smoku 3 5 1
+moent 2 7 0

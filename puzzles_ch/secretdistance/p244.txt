@@ -1,0 +1,7 @@
+6 12 secretdistance
+bully 1 1 0
+larva 3 1 1
+glade 1 5 0
+drawl 4 5 1
+alien 1 11 0
+!sdpos 1 2 2 3

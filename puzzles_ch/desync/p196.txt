@@ -1,0 +1,5 @@
+7 8 desync
+foray 5 1 1
+datum 3 3 1
+pithy 1 5 0
+smile 2 7 0

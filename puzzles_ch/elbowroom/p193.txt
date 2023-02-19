@@ -1,0 +1,5 @@
+7 10 elbowroom
+rigor 1 1 1
+rumba 1 5 0
+bunch 4 5 1
+tonga 2 7 0

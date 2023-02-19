@@ -1,0 +1,5 @@
+7 10
+clove 2 1 1
+blimp 1 2 0
+eight 2 5 0
+hovel 5 5 1

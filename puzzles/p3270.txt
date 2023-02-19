@@ -1,0 +1,5 @@
+7 9
+regal 3 1 1
+buggy 1 3 0
+warty 6 4 1
+plaza 2 5 0

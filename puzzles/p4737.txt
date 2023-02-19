@@ -1,0 +1,5 @@
+6 10
+tatty 1 1 0
+topaz 4 1 1
+pizza 1 5 0
+pesky 1 5 1

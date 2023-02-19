@@ -1,0 +1,5 @@
+6 6 unloved
+manic 1 1 0
+madam 1 1 1
+canny 5 1 1
+mammy 1 5 0

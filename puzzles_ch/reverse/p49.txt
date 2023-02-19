@@ -1,0 +1,5 @@
+7 8 reverse
+ought 5 1 1
+forge 2 3 0
+ognil 3 3 1
+esnet 1 5 0

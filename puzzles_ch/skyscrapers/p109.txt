@@ -1,0 +1,5 @@
+6 7 skyscrapers
+using 1 2 0
+skunk 2 2 1
+guppy 1 4 0
+inept 4 1 1

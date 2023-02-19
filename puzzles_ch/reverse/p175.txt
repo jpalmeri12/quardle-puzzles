@@ -1,0 +1,5 @@
+6 10 reverse
+raehs 2 1 1
+leech 1 3 0
+yssuf 1 5 0
+spoil 3 5 1

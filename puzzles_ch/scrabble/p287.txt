@@ -1,0 +1,5 @@
+7 9 scrabble
+enter 5 4 1
+purer 2 1 1
+spiny 1 1 0
+expel 2 4 0

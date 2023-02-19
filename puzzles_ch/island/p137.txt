@@ -1,0 +1,6 @@
+7 9 island
+credo 2 1 1
+tramp 1 2 0
+dress 2 4 0
+elate 4 4 1
+!island 41 2111 4 1111

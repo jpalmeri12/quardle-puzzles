@@ -1,0 +1,5 @@
+7 10
+crypt 4 1 1
+junto 1 5 0
+nymph 3 5 1
+shiny 2 9 0

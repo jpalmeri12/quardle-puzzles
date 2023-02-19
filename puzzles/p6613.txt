@@ -1,0 +1,5 @@
+7 7
+twixt 4 1 1
+foamy 2 2 1
+owing 2 3 0
+amity 1 5 0

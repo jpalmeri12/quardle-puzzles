@@ -1,0 +1,5 @@
+7 9
+hunch 5 1 1
+facet 2 4 1
+faith 1 5 0
+exile 2 7 0

@@ -1,0 +1,5 @@
+7 10
+manga 5 1 1
+shear 2 5 0
+essay 4 5 1
+usual 1 8 0

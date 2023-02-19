@@ -1,0 +1,6 @@
+6 10 commonsecret
+glaze 1 1 0
+zebra 4 1 1
+decal 1 5 0
+elfin 2 5 1
+!secret e

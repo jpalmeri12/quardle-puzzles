@@ -1,0 +1,5 @@
+7 10
+totem 3 1 1
+femme 1 5 0
+mushy 4 5 1
+dryly 2 9 0

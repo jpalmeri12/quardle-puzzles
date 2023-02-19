@@ -1,0 +1,5 @@
+7 10
+scuba 2 1 1
+budge 1 3 0
+avert 2 5 0
+riser 5 5 1

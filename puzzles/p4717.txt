@@ -1,0 +1,5 @@
+7 10
+slung 5 1 1
+bongo 2 5 0
+optic 3 5 1
+title 1 7 0

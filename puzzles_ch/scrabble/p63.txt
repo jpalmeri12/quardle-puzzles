@@ -1,0 +1,5 @@
+7 10 scrabble
+aroma 3 1 1
+noisy 4 5 1
+plank 1 5 0
+risky 2 8 0

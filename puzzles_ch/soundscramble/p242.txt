@@ -1,0 +1,5 @@
+7 10 soundscramble
+bobby 2 1 0
+baerd 4 1 1
+howdy 1 5 0
+yaern 5 5 1

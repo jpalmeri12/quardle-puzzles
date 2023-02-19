@@ -1,0 +1,5 @@
+6 9
+while 2 1 1
+cluck 1 4 0
+cubic 4 4 1
+aback 1 8 0

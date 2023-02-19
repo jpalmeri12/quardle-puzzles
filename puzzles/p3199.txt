@@ -1,0 +1,5 @@
+7 10
+gawky 2 1 1
+whine 2 3 0
+hymen 1 5 0
+hunch 1 5 1

@@ -1,0 +1,5 @@
+7 8
+swine 1 1 0
+wheel 2 1 1
+egret 2 3 0
+teary 6 3 1

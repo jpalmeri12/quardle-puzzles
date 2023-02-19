@@ -1,0 +1,5 @@
+6 9
+swing 5 1 1
+throw 1 2 0
+linen 1 4 0
+itchy 2 4 1

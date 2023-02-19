@@ -1,0 +1,5 @@
+6 10 beta
+where 4 1 1
+apart 1 5 1
+alley 1 5 0
+trove 1 9 0

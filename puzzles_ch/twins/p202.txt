@@ -1,0 +1,8 @@
+6 8 twins
+macro 1 1 0
+dilly 1 3 0
+dopey 1 5 0
+quart 1 7 0
+!twins 0 2
+!twins 0 4
+!twins 0 3

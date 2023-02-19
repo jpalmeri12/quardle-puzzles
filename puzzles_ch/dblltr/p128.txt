@@ -1,0 +1,5 @@
+7 9 dblltr
+alpha 2 1 0
+harsh 5 1 1
+lupus 1 4 0
+limit 1 4 1

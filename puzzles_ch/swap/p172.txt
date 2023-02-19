@@ -1,0 +1,5 @@
+7 10 swap
+digno 3 1 1
+coutn 2 5 0
+ttihe 5 5 1
+plati 1 7 0

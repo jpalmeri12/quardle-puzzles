@@ -1,0 +1,5 @@
+6 6
+pansy 2 1 1
+impel 4 1 1
+mammy 1 2 0
+ester 1 4 0

@@ -1,0 +1,5 @@
+7 10
+prank 5 1 1
+musky 2 5 0
+scram 4 5 1
+slurp 1 7 0

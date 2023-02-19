@@ -1,0 +1,5 @@
+7 9 reverse
+yrruf 1 1 1
+uoyab 1 4 0
+youth 3 4 1
+outer 2 6 0

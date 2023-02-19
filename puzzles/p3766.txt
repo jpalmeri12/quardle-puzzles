@@ -1,0 +1,5 @@
+7 10
+froze 6 1 1
+shape 2 5 0
+piety 5 5 1
+night 1 8 0

@@ -1,0 +1,5 @@
+7 7
+blame 5 1 1
+steel 1 2 0
+tunic 2 2 1
+inter 2 5 0

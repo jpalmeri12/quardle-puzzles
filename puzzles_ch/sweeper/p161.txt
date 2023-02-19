@@ -1,0 +1,5 @@
+7 8 sweeper
+spree 1 1 0
+piper 2 1 1
+plate 2 3 0
+eerie 6 3 1

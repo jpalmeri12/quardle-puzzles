@@ -1,0 +1,5 @@
+7 9
+folio 1 1 1
+stack 5 4 1
+orbit 1 5 0
+spicy 2 7 0

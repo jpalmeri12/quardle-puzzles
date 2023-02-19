@@ -1,0 +1,5 @@
+6 9 scrabble
+totem 1 5 0
+embed 5 4 1
+plank 1 2 0
+jaunt 3 1 1

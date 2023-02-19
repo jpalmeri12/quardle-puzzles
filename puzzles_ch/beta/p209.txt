@@ -1,0 +1,5 @@
+7 10 beta
+hoist 2 1 1
+ethic 1 5 0
+hippo 3 5 1
+spout 2 8 0

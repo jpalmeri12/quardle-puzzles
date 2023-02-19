@@ -1,0 +1,5 @@
+6 8 shiritori
+agony 1 1 0
+gamer 2 1 1
+rural 4 3 1
+revue 1 4 0

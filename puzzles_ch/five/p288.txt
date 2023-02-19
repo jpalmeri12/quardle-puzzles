@@ -1,0 +1,6 @@
+6 10 five
+larva 2 1 1
+rumor 4 1 1
+value 1 2 0
+cairn 1 5 0
+nerve 5 5 1

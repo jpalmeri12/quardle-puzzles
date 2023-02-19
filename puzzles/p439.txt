@@ -1,0 +1,5 @@
+7 10
+might 1 1 1
+tardy 1 5 0
+along 2 5 1
+gulch 2 9 0

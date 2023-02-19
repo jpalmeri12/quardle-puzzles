@@ -1,0 +1,8 @@
+6 8 twins
+moist 1 1 0
+loose 1 3 0
+frisk 1 5 0
+wrist 1 7 0
+!twins 1 3
+!twins 0 2
+!twins 1 2

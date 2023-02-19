@@ -1,0 +1,5 @@
+7 9
+print 2 1 1
+uncut 1 4 0
+tonga 5 4 1
+focal 2 8 0

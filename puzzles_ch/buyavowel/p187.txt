@@ -1,0 +1,5 @@
+7 9 buyavowel
+dowry 2 1 1
+dream 1 4 0
+altar 4 4 1
+staid 2 7 0

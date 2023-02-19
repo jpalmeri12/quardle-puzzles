@@ -1,0 +1,5 @@
+7 9
+vital 5 1 1
+swami 1 2 0
+snowy 3 4 1
+angle 2 5 0

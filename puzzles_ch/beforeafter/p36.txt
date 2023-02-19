@@ -1,0 +1,9 @@
+7 9 beforeafter
+probe 2 1 0
+beast 5 1 1
+abyss 3 4 1
+debut 1 5 0
+!beforeafter 2 k
+!beforeafter 2 i
+!beforeafter 1 k
+!beforeafter 2 p

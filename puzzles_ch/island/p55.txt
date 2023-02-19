@@ -1,0 +1,6 @@
+6 9 island
+queer 1 1 1
+abort 3 4 1
+rebus 1 5 0
+after 1 8 0
+!island 211 2111 311 41

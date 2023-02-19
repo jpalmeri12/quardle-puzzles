@@ -1,0 +1,5 @@
+6 9 swap
+soudn 4 1 1
+wozoy 1 2 0
+lbiss 1 4 1
+livdi 1 4 0

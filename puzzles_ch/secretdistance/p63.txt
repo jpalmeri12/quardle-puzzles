@@ -1,0 +1,7 @@
+6 11 secretdistance
+undid 1 1 0
+dwelt 3 1 1
+filer 1 4 0
+rapid 5 4 1
+bible 1 10 0
+!sdpos 1 2 2 2

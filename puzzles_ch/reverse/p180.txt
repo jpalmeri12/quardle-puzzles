@@ -1,0 +1,5 @@
+6 9 reverse
+knarf 5 1 1
+ydaer 1 4 0
+among 3 4 1
+manly 1 7 0

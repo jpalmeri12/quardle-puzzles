@@ -1,0 +1,5 @@
+7 8
+argue 3 1 1
+agape 2 3 0
+pithy 5 3 1
+great 1 5 0

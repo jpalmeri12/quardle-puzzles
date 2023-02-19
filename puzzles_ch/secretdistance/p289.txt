@@ -1,0 +1,7 @@
+7 12 secretdistance
+bused 1 1 0
+shame 3 1 1
+merry 2 5 0
+rocky 4 5 1
+woman 1 11 0
+!sdpos 1 2 1 2

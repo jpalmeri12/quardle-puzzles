@@ -1,0 +1,5 @@
+6 10 reverse
+hcnew 4 1 1
+renwo 1 5 0
+empty 2 5 1
+opera 1 7 0

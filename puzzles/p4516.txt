@@ -1,0 +1,5 @@
+7 9
+smell 6 1 1
+panel 2 4 0
+abyss 3 4 1
+nasty 1 7 0

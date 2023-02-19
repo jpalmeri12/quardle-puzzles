@@ -1,0 +1,5 @@
+7 9
+sloth 1 1 1
+until 3 4 1
+hinge 1 5 0
+lilac 2 7 0

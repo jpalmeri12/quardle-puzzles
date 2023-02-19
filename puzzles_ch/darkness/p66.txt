@@ -1,0 +1,5 @@
+6 9 darkness
+ethos 1 2 0
+young 5 4 1
+fussy 1 4 0
+whisk 3 1 1

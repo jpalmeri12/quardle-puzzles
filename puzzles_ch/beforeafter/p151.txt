@@ -1,0 +1,9 @@
+6 9 beforeafter
+dirty 5 1 1
+depot 1 4 0
+plied 3 4 1
+wreck 1 7 0
+!beforeafter 1 q
+!beforeafter 1 k
+!beforeafter 1 k
+!beforeafter 1 q

@@ -1,0 +1,5 @@
+6 8
+goner 5 1 1
+crypt 2 3 1
+prime 1 4 0
+straw 1 7 0

@@ -1,0 +1,8 @@
+6 8 twins
+weave 1 1 0
+woken 1 3 0
+shell 1 5 0
+value 1 7 0
+!twins 1 2
+!twins 1 3
+!twins 1 2

@@ -1,0 +1,5 @@
+7 10
+trust 2 1 1
+utter 2 3 0
+stray 1 5 0
+ridge 3 5 1

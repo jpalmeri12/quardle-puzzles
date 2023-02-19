@@ -1,0 +1,5 @@
+7 9
+retro 4 1 1
+grief 1 2 0
+curio 2 4 0
+onset 6 4 1

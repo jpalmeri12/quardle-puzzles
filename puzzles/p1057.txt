@@ -1,0 +1,5 @@
+6 8
+perch 1 1 1
+creep 4 3 1
+cairn 1 4 0
+happy 1 7 0

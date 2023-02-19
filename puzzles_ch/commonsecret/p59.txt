@@ -1,0 +1,6 @@
+6 9 commonsecret
+heart 4 1 1
+azure 1 4 0
+zebra 2 4 1
+tramp 1 7 0
+!secret a

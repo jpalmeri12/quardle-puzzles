@@ -1,0 +1,6 @@
+7 12 drop
+omega 1 1 0
+antic 5 1 1
+white 2 5 1
+winch 2 5 0
+cower 1 11 0

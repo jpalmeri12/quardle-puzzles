@@ -1,0 +1,5 @@
+6 9
+barge 1 1 1
+begun 1 1 0
+grand 1 4 0
+aloft 3 4 1

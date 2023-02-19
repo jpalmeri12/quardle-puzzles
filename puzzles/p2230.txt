@@ -1,0 +1,5 @@
+7 9
+gloom 2 1 1
+slung 1 2 0
+oaken 2 4 0
+karma 4 4 1

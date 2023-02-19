@@ -1,0 +1,5 @@
+7 8
+manga 1 1 0
+ascot 2 1 1
+chump 2 3 0
+motel 5 3 1

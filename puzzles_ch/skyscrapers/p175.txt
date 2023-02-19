@@ -1,0 +1,5 @@
+6 9 skyscrapers
+rebel 1 5 0
+rotor 1 1 1
+retry 1 1 0
+derby 4 4 1

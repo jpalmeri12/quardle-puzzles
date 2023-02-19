@@ -1,0 +1,5 @@
+6 9
+waltz 3 1 1
+betel 1 4 0
+baler 1 4 1
+erode 1 7 0

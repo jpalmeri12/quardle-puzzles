@@ -1,0 +1,5 @@
+7 9 invention
+charm 5 1 1
+lurch 1 2 0
+sword 2 4 0
+super 2 4 1

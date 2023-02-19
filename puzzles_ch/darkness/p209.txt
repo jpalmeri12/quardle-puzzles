@@ -1,0 +1,5 @@
+7 10 darkness
+ditto 1 5 1
+muddy 2 1 0
+droit 1 5 0
+doubt 5 1 1

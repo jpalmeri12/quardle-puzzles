@@ -1,0 +1,5 @@
+7 10 soundscramble
+voica 4 1 1
+etoll 2 2 0
+wexan 1 5 0
+ettic 2 5 1

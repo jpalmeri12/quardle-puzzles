@@ -1,0 +1,5 @@
+7 8 unloved
+ovary 2 1 0
+verso 3 1 1
+baker 5 3 1
+kiosk 1 5 0

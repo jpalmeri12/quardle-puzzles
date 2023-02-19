@@ -1,0 +1,5 @@
+7 9 clockdown
+shear 5 1 1
+pinch 2 4 1
+rider 1 5 0
+crick 2 7 0

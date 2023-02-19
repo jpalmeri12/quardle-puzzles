@@ -1,0 +1,5 @@
+7 10
+prawn 4 1 1
+genre 1 2 0
+bunch 2 5 0
+heady 6 5 1

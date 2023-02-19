@@ -1,0 +1,5 @@
+7 10 elbowroom
+toxic 5 1 1
+cameo 1 2 0
+smock 2 5 0
+ounce 4 5 1

@@ -1,0 +1,6 @@
+6 11 drop
+poser 2 1 1
+goody 1 2 0
+avoid 4 4 1
+gravy 1 5 0
+ovary 1 10 0

@@ -1,0 +1,5 @@
+7 10
+plume 3 1 1
+demur 2 5 0
+molar 4 5 1
+manly 1 7 0

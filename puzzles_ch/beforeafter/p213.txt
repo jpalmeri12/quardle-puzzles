@@ -1,0 +1,9 @@
+7 9 beforeafter
+rumba 1 1 1
+bayou 1 4 0
+usage 5 4 1
+nomad 2 6 0
+!beforeafter 1 o
+!beforeafter 1 j
+!beforeafter 1 i
+!beforeafter 2 i

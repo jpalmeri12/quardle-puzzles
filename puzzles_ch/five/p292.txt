@@ -1,0 +1,6 @@
+7 10 five
+mucky 3 1 1
+flute 1 2 0
+hyper 2 5 0
+piney 4 5 1
+style 2 9 0

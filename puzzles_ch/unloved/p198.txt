@@ -1,0 +1,5 @@
+7 7 unloved
+yearn 1 1 0
+axiom 3 1 1
+tread 6 2 1
+horse 2 4 0

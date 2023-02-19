@@ -1,0 +1,7 @@
+6 12 secretdistance
+shrub 5 1 1
+scrub 1 5 0
+coast 2 5 1
+stand 1 9 0
+tuber 1 11 0
+!sdpos 2 3 3 2

@@ -1,0 +1,5 @@
+7 9 invention
+blurb 1 1 0
+baker 5 1 1
+nosey 2 4 0
+optic 3 4 1

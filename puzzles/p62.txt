@@ -1,0 +1,5 @@
+7 10
+budge 2 1 1
+delay 2 3 0
+decry 1 5 0
+depth 1 5 1

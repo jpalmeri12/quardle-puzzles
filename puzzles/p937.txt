@@ -1,0 +1,5 @@
+6 9
+decay 1 1 1
+dying 1 1 0
+angry 1 4 0
+ghost 3 4 1

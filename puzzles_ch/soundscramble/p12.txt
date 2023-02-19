@@ -1,0 +1,5 @@
+7 8 soundscramble
+batty 1 1 0
+troce 4 1 1
+tromp 2 3 0
+tabuu 2 3 1

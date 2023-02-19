@@ -1,0 +1,5 @@
+7 7
+worst 6 1 1
+louse 3 2 1
+mucus 2 4 0
+cheer 1 6 0

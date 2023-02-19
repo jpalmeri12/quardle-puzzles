@@ -1,0 +1,5 @@
+7 7 skyscrapers
+spice 2 6 0
+slurp 3 2 1
+blush 1 4 0
+derby 1 1 1

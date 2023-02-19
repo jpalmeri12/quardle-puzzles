@@ -1,0 +1,6 @@
+7 9 undercover
+penne 5 1 1
+belie 1 2 0
+lease 3 2 1
+fauna 2 4 0
+dowdy 1 8 0

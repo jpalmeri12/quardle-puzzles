@@ -1,0 +1,6 @@
+7 10 wordcolumn
+arrow 1 1 1
+weird 1 5 0
+ionic 3 5 1
+dizzy 5 5 1
+fizzy 2 8 0

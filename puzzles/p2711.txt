@@ -1,0 +1,5 @@
+7 9
+delta 1 1 1
+eagle 3 4 1
+award 1 5 0
+glare 2 7 0

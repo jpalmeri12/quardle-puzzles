@@ -1,0 +1,5 @@
+7 8
+gavel 1 1 0
+vault 3 1 1
+mummy 2 3 0
+madam 5 3 1

@@ -1,0 +1,5 @@
+7 9 unloved
+bleat 2 1 1
+badly 2 1 0
+raise 1 4 0
+sweep 4 4 1

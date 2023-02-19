@@ -1,0 +1,5 @@
+7 10
+maxim 3 1 1
+axiom 2 3 0
+mamma 1 5 0
+aloof 5 5 1

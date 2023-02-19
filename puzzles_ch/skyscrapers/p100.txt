@@ -1,0 +1,5 @@
+7 10 skyscrapers
+voila 2 1 1
+haven 1 5 0
+nerve 5 5 1
+chord 2 7 0

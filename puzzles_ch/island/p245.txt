@@ -1,0 +1,6 @@
+7 8 island
+sushi 2 1 1
+sniff 2 3 0
+forty 5 3 1
+fixer 1 5 0
+!island 31 1111 41 311

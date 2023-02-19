@@ -1,0 +1,5 @@
+7 10
+fetus 5 1 1
+creme 1 2 0
+cross 2 5 0
+opium 4 5 1

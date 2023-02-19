@@ -1,0 +1,5 @@
+7 10
+bison 1 1 1
+naval 1 5 0
+vegan 3 5 1
+knoll 2 9 0

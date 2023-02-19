@@ -1,0 +1,5 @@
+7 10 elbowroom
+icing 5 1 1
+comic 1 2 0
+rouge 2 5 0
+rifle 2 5 1

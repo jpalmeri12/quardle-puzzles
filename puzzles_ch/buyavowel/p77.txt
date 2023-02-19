@@ -1,0 +1,5 @@
+7 10 buyavowel
+prove 4 1 1
+solid 2 5 1
+scene 2 5 0
+floss 1 7 0

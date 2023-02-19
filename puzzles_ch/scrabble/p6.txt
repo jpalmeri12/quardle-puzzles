@@ -1,0 +1,5 @@
+7 10 scrabble
+refer 1 5 0
+bribe 2 1 1
+fecal 3 5 1
+brick 2 1 0

@@ -1,0 +1,5 @@
+7 10
+begun 1 1 0
+naval 5 1 1
+small 2 5 0
+lower 6 5 1

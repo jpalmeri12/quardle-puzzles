@@ -1,0 +1,9 @@
+7 9 beforeafter
+stood 4 1 1
+dirty 1 2 0
+stunk 6 4 1
+midst 2 5 0
+!beforeafter 1 p
+!beforeafter 1 m
+!beforeafter 2 p
+!beforeafter 2 p

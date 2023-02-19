@@ -1,0 +1,5 @@
+7 10
+berth 4 1 1
+strap 2 3 0
+eight 1 5 0
+thigh 5 5 1

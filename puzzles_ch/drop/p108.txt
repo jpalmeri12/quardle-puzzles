@@ -1,0 +1,6 @@
+7 10 drop
+foray 2 1 0
+aback 5 1 1
+paler 2 3 1
+bleak 1 5 0
+rally 1 9 0

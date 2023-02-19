@@ -1,0 +1,9 @@
+7 8 spellbound
+fauna 2 1 1
+usher 5 3 1
+earth 1 5 0
+snarl 2 7 0
+!spellbound 0 3 0
+!spellbound 1 1 3
+!spellbound 2 0 3
+!spellbound 3 1 4

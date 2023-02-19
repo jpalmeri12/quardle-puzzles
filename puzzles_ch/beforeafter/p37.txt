@@ -1,0 +1,9 @@
+6 9 beforeafter
+slide 3 1 1
+jaunt 1 4 1
+judge 1 4 0
+nasty 1 7 0
+!beforeafter 1 k
+!beforeafter 1 l
+!beforeafter 1 i
+!beforeafter 1 p

@@ -1,0 +1,6 @@
+6 9 commonsecret
+steal 2 1 1
+stall 1 2 0
+marry 1 4 0
+yacht 5 4 1
+!secret a

@@ -1,0 +1,5 @@
+6 9 reverse
+basic 1 1 0
+ibila 4 1 1
+class 1 4 1
+caili 1 4 0

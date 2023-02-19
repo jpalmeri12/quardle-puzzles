@@ -1,0 +1,5 @@
+7 9 sweeper
+truer 5 1 1
+ester 2 4 0
+soggy 3 4 1
+eagle 1 7 0

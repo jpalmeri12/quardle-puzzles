@@ -1,0 +1,6 @@
+7 10 wordcolumn
+shell 1 1 1
+exist 1 3 0
+idiom 3 3 1
+spicy 5 5 1
+soapy 2 6 0

@@ -1,0 +1,5 @@
+6 9
+flake 5 1 1
+onion 1 4 1
+nurse 1 5 0
+ninth 1 8 0

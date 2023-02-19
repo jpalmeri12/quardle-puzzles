@@ -1,0 +1,6 @@
+7 11 connectfive
+stump 1 1 1
+twang 1 2 0
+ninja 4 2 1
+drake 2 6 0
+rifle 3 6 1

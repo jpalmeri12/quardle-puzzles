@@ -1,0 +1,9 @@
+7 7 spellbound
+bliss 1 1 1
+tiara 3 2 1
+share 1 4 0
+radar 2 6 0
+!spellbound 0 2 4
+!spellbound 1 1 0
+!spellbound 2 4 1
+!spellbound 3 4 3

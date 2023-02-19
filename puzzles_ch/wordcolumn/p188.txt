@@ -1,0 +1,6 @@
+7 10 wordcolumn
+shied 5 1 1
+spoil 2 3 0
+crowd 1 5 0
+roast 2 5 1
+wooer 4 5 1

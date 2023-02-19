@@ -1,0 +1,5 @@
+7 10 swap
+acuse 5 1 1
+aabte 1 5 0
+aemnd 2 5 1
+morun 2 7 0

@@ -1,0 +1,5 @@
+7 9
+cough 2 1 1
+dozen 1 2 0
+dress 6 4 1
+hover 2 5 0

@@ -1,0 +1,5 @@
+6 7
+wheat 3 1 1
+other 1 2 0
+reedy 5 2 1
+snake 1 4 0

@@ -1,0 +1,6 @@
+6 10 island
+rehab 1 1 1
+emcee 1 2 0
+basis 1 5 0
+inert 4 5 1
+!island 221 111 211 311

@@ -1,0 +1,5 @@
+6 10
+pedal 3 1 1
+dwelt 1 2 0
+salve 1 5 0
+extra 5 5 1

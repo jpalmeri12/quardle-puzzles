@@ -1,0 +1,5 @@
+7 10
+midge 1 1 1
+ember 1 5 0
+regal 5 5 1
+avian 2 8 0

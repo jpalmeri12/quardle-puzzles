@@ -1,0 +1,5 @@
+7 10 outoforder
+prior 2 1 1
+dream 1 5 0
+melon 5 5 1
+dryly 2 7 0

@@ -1,0 +1,6 @@
+7 10 five
+sting 3 1 1
+layer 5 2 1
+cigar 2 3 0
+bugle 1 5 0
+blond 1 5 1

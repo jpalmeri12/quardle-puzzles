@@ -1,0 +1,6 @@
+6 10 five
+trunk 1 1 0
+kinky 5 1 1
+curly 1 5 0
+razor 3 5 1
+frond 1 8 0

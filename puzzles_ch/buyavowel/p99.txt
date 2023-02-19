@@ -1,0 +1,5 @@
+7 7 buyavowel
+deign 1 1 1
+crave 5 2 1
+guava 1 4 0
+expel 2 6 0

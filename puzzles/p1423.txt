@@ -1,0 +1,5 @@
+7 7
+quill 5 1 1
+wheel 3 2 1
+choir 2 3 0
+quell 1 5 0

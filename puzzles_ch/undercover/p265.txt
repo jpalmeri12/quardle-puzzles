@@ -1,0 +1,6 @@
+6 12 undercover
+crass 1 1 1
+swish 1 5 0
+hyena 5 5 1
+scone 1 7 0
+plumb 1 11 0

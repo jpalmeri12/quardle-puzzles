@@ -1,0 +1,5 @@
+6 9
+kiosk 1 1 0
+knelt 5 1 1
+nasal 1 4 0
+niche 1 4 1

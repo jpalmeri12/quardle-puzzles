@@ -1,0 +1,5 @@
+7 10
+borax 4 1 1
+lurid 2 3 0
+proxy 1 5 0
+rusty 2 5 1

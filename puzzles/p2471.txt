@@ -1,0 +1,5 @@
+7 10
+cried 5 1 1
+scold 1 5 0
+offal 3 5 1
+badge 2 8 0

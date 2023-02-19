@@ -1,0 +1,6 @@
+6 8 squaredance
+fetal 1 1 1
+tense 5 1 1
+float 1 1 0
+lathe 1 5 0
+ultra 1 7 0

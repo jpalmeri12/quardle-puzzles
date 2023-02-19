@@ -1,0 +1,5 @@
+7 10 fourscore
+movie 1 1 0
+idiot 4 1 1
+ditty 2 5 0
+irate 3 5 1

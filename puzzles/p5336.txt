@@ -1,0 +1,5 @@
+6 10
+igloo 5 1 1
+limbo 1 5 0
+mince 3 5 1
+dicey 1 8 0

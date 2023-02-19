@@ -1,0 +1,5 @@
+7 10
+cried 4 1 1
+nudge 2 5 0
+unfit 3 5 1
+offer 1 7 0

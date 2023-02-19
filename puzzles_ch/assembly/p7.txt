@@ -1,0 +1,5 @@
+6 10 assembly
+steed 1 3 1
+never 5 3 1
+thief 1 1 0
+excel 1 9 0

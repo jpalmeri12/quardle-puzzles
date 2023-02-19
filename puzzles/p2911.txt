@@ -1,0 +1,5 @@
+7 7
+swept 2 1 1
+sweat 1 2 0
+alloy 4 2 1
+those 2 5 0

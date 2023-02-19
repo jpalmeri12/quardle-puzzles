@@ -1,0 +1,5 @@
+7 10
+bicep 4 1 1
+graph 1 5 0
+apron 3 5 1
+brick 2 7 0

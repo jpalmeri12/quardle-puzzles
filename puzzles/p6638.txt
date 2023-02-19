@@ -1,0 +1,5 @@
+7 10
+rhyme 6 1 1
+midge 2 5 0
+inane 3 5 1
+treat 1 9 0

@@ -1,0 +1,5 @@
+7 9
+spook 4 1 1
+gipsy 2 2 0
+color 1 4 0
+creek 1 4 1

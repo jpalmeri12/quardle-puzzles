@@ -1,0 +1,5 @@
+7 10
+lobby 3 1 1
+smite 2 5 1
+syrup 2 5 0
+stork 1 8 0

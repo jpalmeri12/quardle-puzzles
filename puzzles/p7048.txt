@@ -1,0 +1,5 @@
+7 9
+wheel 2 1 0
+ether 5 1 1
+crock 2 4 1
+friar 1 5 0

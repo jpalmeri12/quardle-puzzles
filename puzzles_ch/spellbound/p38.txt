@@ -1,0 +1,9 @@
+6 7 spellbound
+among 1 1 1
+midst 1 2 0
+dumpy 3 2 1
+gypsy 1 5 0
+!spellbound 0 2 3
+!spellbound 1 4 3
+!spellbound 2 4 1
+!spellbound 3 3 1

@@ -1,0 +1,5 @@
+7 10
+ninny 4 1 1
+rayon 2 5 0
+arbor 3 5 1
+nobly 1 7 0

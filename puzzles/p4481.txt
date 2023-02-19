@@ -1,0 +1,5 @@
+7 10
+halve 4 1 1
+filer 2 3 0
+steep 1 5 0
+shady 1 5 1

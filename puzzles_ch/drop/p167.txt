@@ -1,0 +1,6 @@
+7 9 drop
+squad 2 1 1
+diner 4 2 1
+unite 2 3 0
+idler 1 5 0
+surer 1 8 0

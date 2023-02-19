@@ -1,0 +1,6 @@
+6 12 wordcolumn
+primo 4 1 1
+agape 2 3 1
+mayor 1 5 0
+heady 1 7 0
+young 5 7 1

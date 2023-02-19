@@ -1,0 +1,5 @@
+6 10
+foamy 5 1 1
+nosey 1 5 0
+ocean 2 5 1
+snack 1 9 0

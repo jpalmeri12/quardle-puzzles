@@ -1,0 +1,5 @@
+6 8
+shyly 2 1 1
+abode 5 3 1
+plumb 1 4 0
+ledge 1 7 0

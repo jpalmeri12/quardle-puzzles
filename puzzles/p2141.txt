@@ -1,0 +1,5 @@
+7 9
+crass 2 1 1
+trick 4 4 1
+scree 2 5 0
+broke 1 8 0

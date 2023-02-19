@@ -1,0 +1,6 @@
+7 8 wordcolumn
+spawn 1 1 1
+shock 1 1 0
+shift 4 3 1
+wight 1 4 0
+offer 2 6 0

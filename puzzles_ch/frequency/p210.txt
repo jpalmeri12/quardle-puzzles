@@ -1,0 +1,5 @@
+7 10 frequency
+dwell 4 1 1
+cress 2 3 0
+mamma 1 5 1
+mealy 1 5 0

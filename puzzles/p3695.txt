@@ -1,0 +1,5 @@
+7 10
+spout 2 1 1
+stork 1 5 0
+rower 4 5 1
+bawdy 2 7 0

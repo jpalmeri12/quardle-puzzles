@@ -1,0 +1,5 @@
+6 7
+amity 4 1 1
+mammy 1 2 0
+annoy 2 2 1
+unity 1 4 0

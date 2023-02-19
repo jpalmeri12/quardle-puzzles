@@ -1,0 +1,7 @@
+7 12 secretdistance
+snaky 5 1 1
+cigar 2 3 0
+aptly 1 5 0
+tribe 3 5 1
+sound 1 11 0
+!sdpos 2 0 1 2

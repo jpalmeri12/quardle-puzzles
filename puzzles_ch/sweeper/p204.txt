@@ -1,0 +1,5 @@
+6 8 sweeper
+kayak 3 1 1
+flora 1 3 1
+foyer 1 3 0
+oaken 1 5 0

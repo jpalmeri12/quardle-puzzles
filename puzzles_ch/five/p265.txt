@@ -1,0 +1,6 @@
+7 10 five
+trial 2 1 1
+islet 2 3 0
+level 4 3 1
+slave 1 5 0
+spite 1 5 1

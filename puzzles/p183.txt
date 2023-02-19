@@ -1,0 +1,5 @@
+7 10
+knelt 4 1 1
+quota 1 5 0
+admin 5 5 1
+flank 2 9 0

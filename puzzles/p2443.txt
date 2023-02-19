@@ -1,0 +1,5 @@
+7 10
+lunar 3 1 1
+range 1 3 0
+grill 2 5 0
+goose 2 5 1

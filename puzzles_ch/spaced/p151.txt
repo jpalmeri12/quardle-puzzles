@@ -1,0 +1,5 @@
+7 9 spaced
+gumbo 2 1 1
+unzip 2 2 0
+drift 5 4 1
+cover 1 5 0

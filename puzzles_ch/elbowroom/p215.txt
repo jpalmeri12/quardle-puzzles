@@ -1,0 +1,5 @@
+6 9 elbowroom
+altar 1 1 1
+admit 1 4 0
+inane 4 4 1
+steep 1 8 0

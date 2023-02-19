@@ -1,0 +1,5 @@
+7 10 reverse
+stock 4 1 1
+smoke 2 3 0
+pmiks 1 5 0
+itcac 3 5 1

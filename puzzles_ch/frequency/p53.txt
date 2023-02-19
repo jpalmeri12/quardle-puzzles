@@ -1,0 +1,5 @@
+7 9 frequency
+stung 2 1 0
+trove 3 1 1
+never 1 4 0
+rainy 5 4 1

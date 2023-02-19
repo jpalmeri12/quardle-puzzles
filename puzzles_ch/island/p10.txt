@@ -1,0 +1,6 @@
+7 9 island
+hobby 1 1 0
+binge 4 1 1
+organ 2 4 0
+needy 6 4 1
+!island 31 311 11111 211

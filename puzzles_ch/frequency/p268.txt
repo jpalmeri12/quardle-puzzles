@@ -1,0 +1,5 @@
+7 10 frequency
+vista 4 1 1
+straw 1 5 0
+waste 5 5 1
+dried 2 9 0

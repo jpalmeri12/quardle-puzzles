@@ -1,0 +1,6 @@
+6 12 five
+glade 3 1 1
+loopy 1 5 1
+leery 1 5 0
+gonad 4 7 1
+pivot 1 8 0

@@ -1,0 +1,5 @@
+7 10
+reign 2 1 1
+reply 2 1 0
+kneed 1 5 0
+endow 3 5 1

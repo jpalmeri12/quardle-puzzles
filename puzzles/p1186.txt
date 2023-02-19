@@ -1,0 +1,5 @@
+6 9
+woven 5 1 1
+tense 1 4 0
+navel 3 4 1
+belie 1 8 0

@@ -1,0 +1,5 @@
+7 8 sweeper
+scrap 4 1 1
+erase 2 3 1
+treat 1 4 0
+equip 2 7 0

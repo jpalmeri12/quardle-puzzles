@@ -1,0 +1,5 @@
+7 8 scrabble
+inert 5 1 1
+spoil 2 1 0
+afoul 3 3 1
+skate 1 3 0

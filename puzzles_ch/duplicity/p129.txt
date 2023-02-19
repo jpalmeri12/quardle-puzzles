@@ -1,0 +1,5 @@
+7 7 duplicity
+sepia 3 1 1
+twine 5 2 1
+spawn 2 3 0
+stain 1 5 0

@@ -1,0 +1,5 @@
+7 10
+sauna 4 1 1
+llama 2 5 0
+leave 2 5 1
+testy 1 9 0

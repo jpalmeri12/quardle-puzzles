@@ -1,0 +1,5 @@
+6 7
+quasi 1 1 1
+undue 1 2 0
+dummy 3 2 1
+sumac 1 4 0

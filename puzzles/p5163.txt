@@ -1,0 +1,5 @@
+7 9
+squib 2 1 1
+squat 1 2 0
+coupe 6 4 1
+bingo 2 5 0

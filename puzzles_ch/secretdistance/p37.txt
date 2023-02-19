@@ -1,0 +1,7 @@
+7 12 secretdistance
+slope 1 1 0
+plumb 4 1 1
+zebra 2 5 0
+ennui 3 5 1
+clued 1 11 0
+!sdpos 2 1 2 0

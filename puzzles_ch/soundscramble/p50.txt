@@ -1,0 +1,5 @@
+7 8 soundscramble
+ubase 1 1 0
+shure 4 1 1
+asarp 2 3 1
+scrum 2 4 0

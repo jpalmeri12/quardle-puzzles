@@ -1,0 +1,6 @@
+6 10 five
+dumpy 1 1 1
+macro 4 2 1
+mural 1 3 0
+yearn 1 5 0
+elope 2 5 1

@@ -1,0 +1,5 @@
+6 6 spaced
+lynch 3 1 1
+creak 5 1 1
+layer 1 2 0
+mocha 1 4 0

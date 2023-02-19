@@ -1,0 +1,5 @@
+7 8
+taken 2 1 1
+mange 4 3 1
+ninny 2 5 0
+mower 1 7 0

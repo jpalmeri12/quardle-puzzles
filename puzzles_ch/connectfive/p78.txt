@@ -1,0 +1,6 @@
+6 9 connectfive
+harpy 1 1 0
+poser 4 1 1
+pique 1 4 1
+intro 1 5 0
+expel 1 8 0

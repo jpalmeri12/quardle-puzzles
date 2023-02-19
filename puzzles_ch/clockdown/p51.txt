@@ -1,0 +1,5 @@
+7 10 clockdown
+dusky 1 1 0
+koala 4 1 1
+glare 2 5 0
+evict 6 5 1

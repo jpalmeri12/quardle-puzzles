@@ -1,0 +1,5 @@
+7 10 spin
+truer 5 1 1
+scour 2 3 0
+mover 1 5 0
+essay 4 5 1

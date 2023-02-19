@@ -1,0 +1,5 @@
+6 10
+waxen 5 1 1
+satin 1 5 0
+arson 2 5 1
+snail 1 9 0

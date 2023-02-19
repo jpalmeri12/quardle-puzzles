@@ -1,0 +1,5 @@
+6 7
+court 2 1 1
+covet 1 2 0
+teeth 5 2 1
+prune 1 4 0

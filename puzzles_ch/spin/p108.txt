@@ -1,0 +1,5 @@
+7 10 spin
+croup 4 1 1
+tepee 2 5 0
+elfin 5 5 1
+rabbi 1 8 0

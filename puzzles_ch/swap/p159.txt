@@ -1,0 +1,5 @@
+7 9 swap
+wrcek 5 1 1
+eblow 3 4 1
+ublky 2 5 0
+troso 1 7 0

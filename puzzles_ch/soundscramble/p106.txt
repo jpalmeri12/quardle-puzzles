@@ -1,0 +1,5 @@
+7 10 soundscramble
+eutge 3 1 1
+cherd 1 5 0
+docry 5 5 1
+chero 2 8 0

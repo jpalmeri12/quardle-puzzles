@@ -1,0 +1,5 @@
+7 10
+rotor 5 1 1
+spurn 2 5 0
+pried 3 5 1
+steal 1 8 0

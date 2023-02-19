@@ -1,0 +1,5 @@
+6 9 reverse
+pouch 4 1 1
+espoc 1 2 0
+eracs 1 4 0
+retch 2 4 1

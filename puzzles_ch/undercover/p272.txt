@@ -1,0 +1,6 @@
+6 10 undercover
+ashen 1 1 0
+swami 2 1 1
+crepe 4 3 1
+aider 1 5 0
+gully 1 9 0

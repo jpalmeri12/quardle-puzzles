@@ -1,0 +1,5 @@
+7 9 frequency
+macro 5 1 1
+dogma 1 2 0
+excel 3 4 1
+extol 2 5 0

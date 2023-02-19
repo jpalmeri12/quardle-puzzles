@@ -1,0 +1,5 @@
+7 10 desync
+plump 3 1 1
+sally 2 5 1
+spade 2 5 0
+plaza 1 7 0

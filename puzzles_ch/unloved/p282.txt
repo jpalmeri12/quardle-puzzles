@@ -1,0 +1,5 @@
+7 8 unloved
+ultra 3 1 1
+fetus 1 3 0
+scamp 5 3 1
+papal 2 5 0

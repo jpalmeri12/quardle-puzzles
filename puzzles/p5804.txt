@@ -1,0 +1,5 @@
+6 10
+swath 1 1 1
+harsh 1 5 0
+holly 5 5 1
+swill 1 7 0

@@ -1,0 +1,5 @@
+6 7 spin
+voter 5 1 1
+think 2 2 1
+ghost 1 3 0
+enter 1 5 0

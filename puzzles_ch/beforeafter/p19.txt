@@ -1,0 +1,9 @@
+7 10 beforeafter
+cello 4 1 1
+spoil 2 5 0
+pansy 3 5 1
+minus 1 7 0
+!beforeafter 1 k
+!beforeafter 2 m
+!beforeafter 2 q
+!beforeafter 2 r

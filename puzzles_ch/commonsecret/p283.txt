@@ -1,0 +1,6 @@
+7 8 commonsecret
+court 3 1 1
+burnt 2 3 0
+nadir 5 3 1
+power 1 7 0
+!secret r

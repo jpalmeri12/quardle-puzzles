@@ -1,0 +1,5 @@
+7 7
+civil 2 1 1
+downy 5 2 1
+venom 2 3 0
+olden 1 5 0

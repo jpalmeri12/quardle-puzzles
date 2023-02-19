@@ -1,0 +1,5 @@
+7 8
+guild 6 1 1
+cacti 2 3 0
+amuse 3 3 1
+masse 1 6 0

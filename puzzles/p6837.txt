@@ -1,0 +1,5 @@
+7 9
+until 3 1 1
+ninny 2 4 0
+notch 5 4 1
+glyph 1 8 0

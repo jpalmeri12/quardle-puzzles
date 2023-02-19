@@ -1,0 +1,6 @@
+7 10 island
+macho 2 1 1
+loser 1 5 0
+swell 3 5 1
+slump 2 9 0
+!island 11111 32 31 2111

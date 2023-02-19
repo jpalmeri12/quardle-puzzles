@@ -1,0 +1,5 @@
+7 9
+beech 4 1 1
+geeky 2 2 0
+crick 1 4 0
+rugby 2 4 1

@@ -1,0 +1,5 @@
+6 7 outoforder
+snuff 1 1 1
+needy 1 2 0
+enemy 3 2 1
+femur 1 5 0

@@ -1,0 +1,5 @@
+7 9 bestfit
+sushi 6 1 1
+quoth 2 4 0
+quota 2 4 1
+sower 1 6 0

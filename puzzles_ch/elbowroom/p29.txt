@@ -1,0 +1,5 @@
+7 8 elbowroom
+foamy 2 1 1
+favor 2 1 0
+papal 1 3 0
+leave 5 3 1

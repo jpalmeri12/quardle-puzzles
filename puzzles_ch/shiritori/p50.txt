@@ -1,0 +1,5 @@
+6 7 shiritori
+usage 1 1 1
+scamp 1 2 0
+mammy 4 2 1
+gnome 1 4 0

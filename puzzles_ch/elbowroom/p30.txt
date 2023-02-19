@@ -1,0 +1,5 @@
+7 9 elbowroom
+howdy 1 1 0
+dingo 4 1 1
+rogue 2 4 0
+rowdy 2 4 1

@@ -1,0 +1,5 @@
+7 8
+inlet 4 1 1
+slink 1 2 0
+tramp 6 3 1
+sneer 2 4 0

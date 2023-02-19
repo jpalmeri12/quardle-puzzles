@@ -1,0 +1,5 @@
+7 7 elbowroom
+scone 1 1 1
+china 1 2 0
+admit 5 2 1
+flute 2 6 0

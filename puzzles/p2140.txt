@@ -1,0 +1,5 @@
+7 10
+relax 3 1 1
+axial 2 5 0
+idler 4 5 1
+grill 1 7 0

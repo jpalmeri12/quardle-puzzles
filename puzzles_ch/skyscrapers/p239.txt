@@ -1,0 +1,5 @@
+6 9 skyscrapers
+sperm 4 1 1
+anime 1 5 0
+satyr 1 4 1
+noisy 1 1 0

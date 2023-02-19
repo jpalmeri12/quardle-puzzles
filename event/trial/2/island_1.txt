@@ -1,0 +1,6 @@
+7 9 island
+dross 4 1 1
+amend 2 4 1
+mushy 2 5 0
+snarl 1 7 0
+!island 31 221 311 2111

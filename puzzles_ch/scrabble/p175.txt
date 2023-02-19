@@ -1,0 +1,5 @@
+6 10 scrabble
+easel 1 5 0
+shore 1 1 1
+stalk 1 1 0
+swamp 3 5 1

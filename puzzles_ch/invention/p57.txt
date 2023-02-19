@@ -1,0 +1,5 @@
+7 10 invention
+mambo 3 1 1
+booby 2 5 0
+butch 5 5 1
+wight 1 7 0

@@ -1,0 +1,5 @@
+7 7 darkness
+awash 2 2 0
+carat 2 1 1
+stole 5 2 1
+salvo 1 4 0

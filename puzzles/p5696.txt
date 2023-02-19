@@ -1,0 +1,5 @@
+7 9
+purse 4 1 1
+trout 1 2 0
+assay 2 4 0
+aging 2 4 1

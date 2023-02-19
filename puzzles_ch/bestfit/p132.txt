@@ -1,0 +1,5 @@
+7 7 bestfit
+rebus 5 1 1
+amble 1 2 0
+bobby 3 2 1
+abuse 2 5 0

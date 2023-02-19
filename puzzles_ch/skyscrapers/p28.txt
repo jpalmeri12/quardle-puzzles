@@ -1,0 +1,5 @@
+6 9 skyscrapers
+waive 4 1 1
+navel 1 5 0
+knelt 1 4 1
+bloat 1 2 0

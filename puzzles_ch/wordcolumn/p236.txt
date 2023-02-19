@@ -1,0 +1,6 @@
+7 10 wordcolumn
+stale 3 1 1
+aptly 1 2 0
+renew 2 5 0
+extol 5 5 1
+print 1 7 0

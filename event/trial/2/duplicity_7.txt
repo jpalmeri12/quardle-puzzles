@@ -1,0 +1,5 @@
+6 10 duplicity
+alien 3 1 1
+linen 1 5 0
+nasal 5 5 1
+easel 1 9 0

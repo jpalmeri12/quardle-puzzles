@@ -1,0 +1,5 @@
+7 7 frequency
+steam 1 1 1
+groin 3 2 1
+among 1 4 0
+sneer 2 6 0

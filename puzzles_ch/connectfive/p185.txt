@@ -1,0 +1,6 @@
+6 10 connectfive
+woman 1 1 0
+askew 4 1 1
+eclat 1 4 1
+crowd 1 5 0
+ounce 3 5 1

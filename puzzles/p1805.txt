@@ -1,0 +1,5 @@
+7 10
+tepee 6 1 1
+comic 2 5 1
+cutie 2 5 0
+smith 1 7 0

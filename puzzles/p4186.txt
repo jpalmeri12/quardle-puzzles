@@ -1,0 +1,5 @@
+7 9
+guilt 6 1 1
+slick 4 4 1
+pilot 2 5 0
+knock 1 7 0

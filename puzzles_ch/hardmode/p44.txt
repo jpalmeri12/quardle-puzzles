@@ -1,0 +1,5 @@
+7 10 hardmode
+could 2 1 0
+union 4 1 1
+point 1 5 0
+prune 1 5 1

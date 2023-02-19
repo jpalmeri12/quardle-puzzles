@@ -1,0 +1,5 @@
+6 9
+pixie 3 1 1
+noise 1 4 0
+natal 1 4 1
+lease 1 8 0

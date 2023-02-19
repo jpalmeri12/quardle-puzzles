@@ -1,0 +1,5 @@
+7 8
+freed 5 1 1
+wince 2 3 1
+undid 1 5 0
+exist 2 7 0

@@ -1,0 +1,5 @@
+6 10
+whiff 1 1 0
+forge 5 1 1
+crude 1 5 0
+rapid 2 5 1

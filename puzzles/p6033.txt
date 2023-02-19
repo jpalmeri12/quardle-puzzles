@@ -1,0 +1,5 @@
+7 10
+fecal 1 1 0
+aping 4 1 1
+sugar 2 5 0
+rabid 6 5 1

@@ -1,0 +1,6 @@
+7 12 five
+shard 3 1 1
+mange 2 3 0
+gawky 5 3 1
+coyly 1 7 0
+loath 4 7 1

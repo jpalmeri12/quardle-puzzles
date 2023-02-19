@@ -1,0 +1,7 @@
+7 10 secretdistance
+grail 4 1 1
+style 2 3 1
+trite 2 4 0
+denim 1 7 0
+spiny 1 9 0
+!sdpos 3 3 2 2

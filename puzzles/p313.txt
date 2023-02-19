@@ -1,0 +1,5 @@
+7 9
+fritz 5 1 1
+donor 1 2 0
+bitty 2 4 0
+inert 3 4 1

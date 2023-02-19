@@ -1,0 +1,5 @@
+7 10
+radii 4 1 1
+which 2 5 0
+while 2 5 1
+clear 1 8 0

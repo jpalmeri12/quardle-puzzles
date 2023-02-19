@@ -1,0 +1,5 @@
+6 8 reverse
+creme 2 1 1
+bunny 4 3 1
+ymmud 1 4 0
+gniyt 1 7 0

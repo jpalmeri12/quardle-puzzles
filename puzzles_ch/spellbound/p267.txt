@@ -1,0 +1,9 @@
+6 10 spellbound
+comma 3 1 1
+flair 1 5 0
+inept 4 5 1
+morph 1 8 0
+!spellbound 0 1 2
+!spellbound 1 1 4
+!spellbound 2 2 1
+!spellbound 3 4 0

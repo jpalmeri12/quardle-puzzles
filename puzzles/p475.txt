@@ -1,0 +1,5 @@
+7 10
+felon 4 1 1
+print 1 5 0
+inlay 3 5 1
+clasp 2 7 0

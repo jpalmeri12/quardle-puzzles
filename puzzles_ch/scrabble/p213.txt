@@ -1,0 +1,5 @@
+7 9 scrabble
+usage 1 4 0
+those 2 1 1
+hovel 2 2 0
+graze 4 4 1

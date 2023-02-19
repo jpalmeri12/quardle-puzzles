@@ -1,0 +1,5 @@
+7 9 outoforder
+rearm 5 1 1
+downy 3 4 1
+groom 1 5 0
+enema 2 7 0

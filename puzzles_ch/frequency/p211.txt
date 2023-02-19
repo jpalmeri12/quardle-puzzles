@@ -1,0 +1,5 @@
+6 10 frequency
+cress 1 1 1
+spool 1 5 0
+payer 2 5 1
+ardor 1 9 0

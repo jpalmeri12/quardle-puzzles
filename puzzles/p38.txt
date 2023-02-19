@@ -1,0 +1,5 @@
+7 8
+swell 2 1 0
+weave 3 1 1
+stare 1 3 0
+elbow 5 3 1

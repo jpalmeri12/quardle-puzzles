@@ -1,0 +1,5 @@
+7 10 skyscrapers
+thong 1 2 0
+thumb 2 1 1
+belle 2 5 0
+epoxy 6 5 1

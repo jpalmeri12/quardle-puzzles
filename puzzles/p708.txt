@@ -1,0 +1,5 @@
+7 10
+breed 2 1 1
+adobe 1 5 0
+erect 5 5 1
+wider 2 7 0

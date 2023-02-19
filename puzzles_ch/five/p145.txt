@@ -1,0 +1,6 @@
+7 10 five
+spill 1 1 0
+lower 5 1 1
+pitch 2 5 1
+pearl 2 5 0
+large 6 5 1

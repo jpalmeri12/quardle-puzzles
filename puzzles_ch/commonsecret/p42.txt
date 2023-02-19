@@ -1,0 +1,6 @@
+7 9 commonsecret
+mouth 3 1 1
+mouse 2 2 0
+putty 1 4 0
+plunk 1 4 1
+!secret u

@@ -1,0 +1,5 @@
+7 10 unloved
+snail 5 1 1
+sauna 2 2 0
+vigil 1 5 0
+index 2 5 1

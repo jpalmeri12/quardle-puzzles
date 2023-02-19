@@ -1,0 +1,5 @@
+7 10 bestfit
+guess 2 1 1
+hurry 1 2 0
+slang 2 5 0
+newly 5 5 1

@@ -1,0 +1,5 @@
+7 9
+binge 2 1 1
+kiosk 1 2 0
+dream 5 4 1
+exert 2 5 0

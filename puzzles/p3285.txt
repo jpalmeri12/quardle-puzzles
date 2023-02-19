@@ -1,0 +1,5 @@
+7 10
+loose 2 1 1
+gourd 1 2 0
+easel 2 5 0
+lucid 6 5 1

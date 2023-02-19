@@ -1,0 +1,5 @@
+7 9
+favor 3 1 1
+board 1 2 0
+horde 5 4 1
+drool 2 5 0

@@ -1,0 +1,5 @@
+6 10
+bezel 1 1 1
+elude 1 2 0
+light 1 5 0
+tying 5 5 1

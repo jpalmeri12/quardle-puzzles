@@ -1,0 +1,5 @@
+6 7
+think 2 1 1
+chirp 1 2 0
+resin 4 2 1
+gnash 1 4 0

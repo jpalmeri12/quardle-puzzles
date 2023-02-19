@@ -1,0 +1,5 @@
+6 7 desync
+jolly 2 1 1
+corer 1 2 0
+radio 5 2 1
+blind 1 4 0

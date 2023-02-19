@@ -1,0 +1,5 @@
+7 8
+stair 1 1 0
+revel 5 1 1
+shove 2 3 0
+hilly 3 3 1

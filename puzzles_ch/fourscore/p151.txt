@@ -1,0 +1,5 @@
+6 8 fourscore
+preen 5 1 1
+agent 2 3 1
+agape 1 4 0
+stool 1 7 0

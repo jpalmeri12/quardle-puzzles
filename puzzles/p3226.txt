@@ -1,0 +1,5 @@
+7 7
+hatch 6 1 1
+fella 2 2 0
+lucid 4 2 1
+handy 1 6 0

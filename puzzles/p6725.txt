@@ -1,0 +1,5 @@
+7 9
+cubic 2 1 1
+under 2 2 0
+ankle 4 4 1
+scent 1 5 0

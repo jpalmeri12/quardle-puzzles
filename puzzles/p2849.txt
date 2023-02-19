@@ -1,0 +1,5 @@
+7 10
+grade 5 1 1
+women 2 5 0
+older 3 5 1
+godly 1 7 0

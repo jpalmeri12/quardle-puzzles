@@ -1,0 +1,5 @@
+7 9 skyscrapers
+tribe 1 4 0
+bugle 4 4 1
+abled 2 7 0
+depth 1 1 1

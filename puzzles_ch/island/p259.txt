@@ -1,0 +1,6 @@
+7 8 island
+fetid 5 1 1
+spelt 1 3 0
+press 2 3 1
+evade 2 5 0
+!island 41 221 31 211

@@ -1,0 +1,5 @@
+7 10 scrabble
+suite 1 5 0
+endow 2 7 0
+shift 4 1 1
+epoxy 5 5 1

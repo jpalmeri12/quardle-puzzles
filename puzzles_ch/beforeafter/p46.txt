@@ -1,0 +1,9 @@
+7 8 beforeafter
+bacon 2 1 1
+coast 2 3 0
+stiff 5 3 1
+staff 1 7 0
+!beforeafter 2 j
+!beforeafter 2 p
+!beforeafter 1 n
+!beforeafter 1 q

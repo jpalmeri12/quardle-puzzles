@@ -1,0 +1,5 @@
+7 9
+crave 1 1 0
+vixen 4 1 1
+glass 2 4 1
+guest 2 4 0

@@ -1,0 +1,5 @@
+7 9 duplicity
+heist 6 1 1
+ethos 2 4 0
+hello 4 4 1
+stilt 1 7 0

@@ -1,0 +1,5 @@
+6 8 fourscore
+kebab 1 1 0
+beset 3 1 1
+music 1 3 0
+cavil 5 3 1

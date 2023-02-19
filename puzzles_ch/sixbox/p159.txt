@@ -1,0 +1,7 @@
+8 8 sixbox
+showy 3 1 1
+mayor 5 1 1
+woody 1 3 0
+dread 4 3 1
+wrong 3 4 0
+foyer 1 5 0

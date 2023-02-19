@@ -1,0 +1,5 @@
+7 9
+amuse 4 1 1
+grimy 1 2 0
+deuce 2 4 1
+enemy 2 5 0

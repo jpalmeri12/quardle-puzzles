@@ -1,0 +1,5 @@
+7 10 frequency
+scowl 1 1 0
+crump 2 1 1
+perky 2 5 0
+rigor 4 5 1

@@ -1,0 +1,5 @@
+7 10 sweeper
+build 5 1 1
+gonad 1 5 0
+alive 4 5 1
+twine 2 7 0

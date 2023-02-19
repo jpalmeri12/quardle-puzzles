@@ -1,0 +1,6 @@
+6 10 wordcolumn
+bayou 2 1 1
+gripe 5 3 1
+quasi 1 5 0
+aglow 3 5 1
+halve 1 7 0

@@ -1,0 +1,5 @@
+7 9
+cadet 2 1 1
+civil 2 1 0
+clump 5 4 1
+still 1 5 0

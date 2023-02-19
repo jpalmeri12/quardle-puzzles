@@ -1,0 +1,5 @@
+7 10 swap
+emtro 2 1 1
+rtace 1 3 0
+osnar 2 5 0
+swrod 3 5 1

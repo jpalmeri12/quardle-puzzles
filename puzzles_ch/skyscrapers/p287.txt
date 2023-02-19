@@ -1,0 +1,5 @@
+7 9 skyscrapers
+sepia 4 1 1
+juice 2 4 0
+jetty 2 4 1
+study 1 7 0

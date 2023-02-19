@@ -1,0 +1,5 @@
+7 9
+stink 5 1 1
+theta 2 2 0
+women 1 4 0
+organ 2 4 1

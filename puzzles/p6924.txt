@@ -1,0 +1,5 @@
+7 9
+choke 6 1 1
+shank 2 4 0
+harry 3 4 1
+curve 1 7 0

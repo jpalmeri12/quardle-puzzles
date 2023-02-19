@@ -1,0 +1,5 @@
+6 10 fourscore
+braid 3 1 1
+radio 1 5 0
+alter 2 5 1
+setup 1 8 0

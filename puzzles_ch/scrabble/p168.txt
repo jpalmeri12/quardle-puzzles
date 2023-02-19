@@ -1,0 +1,5 @@
+7 10 scrabble
+tempo 1 5 0
+chose 2 1 1
+major 3 5 1
+fjord 2 7 0

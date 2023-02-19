@@ -1,0 +1,5 @@
+7 10
+droit 2 1 1
+prior 1 2 0
+trait 2 5 0
+alive 4 5 1

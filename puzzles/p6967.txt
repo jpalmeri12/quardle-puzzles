@@ -1,0 +1,5 @@
+7 9
+lodge 5 1 1
+pedal 3 4 1
+beget 2 5 0
+silly 1 8 0

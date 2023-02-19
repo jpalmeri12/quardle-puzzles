@@ -1,0 +1,5 @@
+7 9
+truth 1 1 0
+hater 5 1 1
+panel 2 4 0
+plunk 2 4 1

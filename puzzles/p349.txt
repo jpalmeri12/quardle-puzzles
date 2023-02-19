@@ -1,0 +1,5 @@
+6 9
+cargo 3 1 1
+claim 1 2 0
+begat 1 4 0
+touch 5 4 1

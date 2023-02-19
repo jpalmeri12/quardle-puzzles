@@ -1,0 +1,5 @@
+7 10 invention
+panic 1 1 0
+chili 5 1 1
+plaid 2 5 0
+dutch 6 5 1

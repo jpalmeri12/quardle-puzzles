@@ -1,0 +1,6 @@
+7 12 wordcolumn
+titan 1 1 1
+steed 4 3 1
+abate 1 4 0
+cedar 2 7 0
+retro 6 7 1

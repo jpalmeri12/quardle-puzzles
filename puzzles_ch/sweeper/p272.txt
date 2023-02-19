@@ -1,0 +1,5 @@
+6 6 sweeper
+scour 2 1 1
+geeky 5 1 1
+loose 1 3 0
+proxy 1 5 0

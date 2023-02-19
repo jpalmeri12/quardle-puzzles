@@ -1,0 +1,5 @@
+7 7 shiritori
+daily 5 1 1
+cedar 2 2 0
+elbow 3 2 1
+agony 1 5 0

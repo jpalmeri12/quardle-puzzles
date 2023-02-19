@@ -1,0 +1,7 @@
+6 11 secretdistance
+taker 2 1 1
+cloth 5 4 1
+drawl 1 5 0
+draft 1 7 0
+guise 1 10 0
+!sdpos 1 3 0 0

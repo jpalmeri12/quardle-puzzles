@@ -1,0 +1,6 @@
+7 10 wordcolumn
+solve 2 1 0
+login 4 1 1
+nanny 1 5 0
+nobly 3 5 1
+royal 1 9 0

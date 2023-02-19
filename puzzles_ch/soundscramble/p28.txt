@@ -1,0 +1,5 @@
+7 9 soundscramble
+rolax 5 1 1
+timor 2 2 0
+obeny 1 4 1
+berax 1 5 0

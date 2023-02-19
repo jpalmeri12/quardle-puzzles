@@ -1,0 +1,6 @@
+7 11 wordcolumn
+flask 1 1 1
+treat 5 2 1
+stake 1 4 0
+forty 2 6 0
+roast 4 6 1

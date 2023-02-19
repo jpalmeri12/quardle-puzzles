@@ -1,0 +1,6 @@
+7 10 wordcolumn
+youth 3 1 1
+pagan 5 1 1
+slung 1 3 0
+phone 2 5 0
+elate 6 5 1

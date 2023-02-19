@@ -1,0 +1,7 @@
+7 10 secretdistance
+vogue 5 1 1
+booth 2 3 1
+louse 1 5 0
+husky 2 7 0
+owing 1 9 0
+!sdpos 0 2 3 2

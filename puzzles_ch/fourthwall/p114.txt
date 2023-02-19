@@ -1,0 +1,7 @@
+6 6 fourthwall
+gripe 1 1 0
+graph 1 1 1
+alert 1 3 0
+ideal 3 1 1
+holly 1 5 0
+entry 5 1 1

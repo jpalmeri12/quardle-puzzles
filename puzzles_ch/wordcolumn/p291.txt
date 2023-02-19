@@ -1,0 +1,6 @@
+7 10 wordcolumn
+pasta 5 1 1
+cobra 1 2 0
+lilac 2 5 0
+lusty 4 5 1
+until 2 8 0

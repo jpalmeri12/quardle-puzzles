@@ -1,0 +1,5 @@
+7 10 duplicity
+rabbi 2 1 1
+alibi 2 2 0
+fiber 1 5 0
+fella 1 5 1

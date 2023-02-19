@@ -1,0 +1,7 @@
+6 6 fourthwall
+fetal 1 1 0
+fetus 1 1 1
+token 1 3 0
+taken 3 1 1
+sandy 1 5 0
+lanky 5 1 1

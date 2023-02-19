@@ -1,0 +1,6 @@
+7 12 drop
+bride 5 1 1
+marry 2 2 0
+alike 1 5 0
+along 1 5 1
+array 1 11 0

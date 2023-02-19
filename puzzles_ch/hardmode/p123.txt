@@ -1,0 +1,5 @@
+6 9 hardmode
+wedge 4 1 1
+freer 1 2 0
+brown 1 4 1
+barge 1 4 0

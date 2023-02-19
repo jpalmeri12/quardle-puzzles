@@ -1,0 +1,5 @@
+7 7 soundscramble
+sissy 1 1 0
+smish 4 1 1
+whach 6 2 1
+ethac 2 5 0

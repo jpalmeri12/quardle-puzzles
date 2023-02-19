@@ -1,0 +1,5 @@
+6 10 swap
+awger 4 1 1
+rbawn 1 2 0
+boarx 1 5 0
+owken 2 5 1

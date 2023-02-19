@@ -1,0 +1,7 @@
+7 11 secretdistance
+owing 5 1 1
+agile 2 4 1
+gauge 2 5 0
+denim 1 8 0
+prick 1 10 0
+!sdpos 0 1 0 1

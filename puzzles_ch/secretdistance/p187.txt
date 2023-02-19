@@ -1,0 +1,7 @@
+7 11 secretdistance
+vinyl 6 1 1
+realm 2 4 1
+ready 2 4 0
+gaffe 1 6 0
+plant 1 10 0
+!sdpos 2 1 0 0

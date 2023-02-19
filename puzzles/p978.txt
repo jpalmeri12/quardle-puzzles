@@ -1,0 +1,5 @@
+6 7
+shalt 5 1 1
+photo 2 2 1
+china 1 3 0
+stilt 1 5 0

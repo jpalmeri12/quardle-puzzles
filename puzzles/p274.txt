@@ -1,0 +1,5 @@
+7 8
+caper 3 1 1
+sport 2 3 0
+rogue 5 3 1
+payee 1 7 0

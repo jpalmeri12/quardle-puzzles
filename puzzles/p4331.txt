@@ -1,0 +1,5 @@
+7 10
+error 5 1 1
+rigor 1 5 0
+grunt 3 5 1
+guile 2 7 0

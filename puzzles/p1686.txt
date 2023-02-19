@@ -1,0 +1,5 @@
+6 9
+paler 5 1 1
+prune 1 4 0
+rifle 2 4 1
+cling 1 7 0

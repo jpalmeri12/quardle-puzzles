@@ -1,0 +1,5 @@
+6 7 desync
+wreak 1 1 1
+relax 1 2 0
+leggy 3 2 1
+augur 1 4 0

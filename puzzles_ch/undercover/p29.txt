@@ -1,0 +1,6 @@
+6 8 undercover
+swamp 1 1 1
+kneel 4 1 1
+wrong 1 2 0
+psalm 1 5 0
+ditch 1 7 0

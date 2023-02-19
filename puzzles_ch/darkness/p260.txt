@@ -1,0 +1,5 @@
+7 9 darkness
+tacky 6 1 1
+pagan 1 6 0
+rogue 3 4 1
+track 2 4 0

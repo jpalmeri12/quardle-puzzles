@@ -1,0 +1,7 @@
+8 8 sixbox
+agate 3 1 1
+speed 5 1 1
+space 1 3 0
+champ 4 3 1
+these 3 4 0
+dread 1 5 0

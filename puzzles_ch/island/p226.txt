@@ -1,0 +1,6 @@
+7 10 island
+gleam 4 1 1
+totem 1 3 0
+demur 2 5 0
+recur 6 5 1
+!island 11111 1111 311 211

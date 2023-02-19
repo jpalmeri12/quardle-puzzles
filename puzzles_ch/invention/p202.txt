@@ -1,0 +1,5 @@
+7 9 invention
+ratio 2 1 1
+alloy 2 2 0
+inane 4 4 1
+hound 1 5 0

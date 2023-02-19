@@ -1,0 +1,5 @@
+7 9
+shush 1 1 1
+pansy 4 4 1
+human 1 5 0
+shyly 2 8 0

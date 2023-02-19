@@ -1,0 +1,5 @@
+7 9
+shoot 6 1 1
+dandy 4 4 1
+heart 2 5 0
+muddy 1 7 0

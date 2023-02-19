@@ -1,0 +1,5 @@
+7 10
+livid 2 1 1
+vogue 2 3 0
+idler 1 5 0
+lousy 3 5 1

@@ -1,0 +1,6 @@
+7 8 island
+vinyl 6 1 1
+aroma 3 3 1
+artsy 2 4 0
+nymph 1 6 0
+!island 11111 1111 32 41

@@ -1,0 +1,5 @@
+7 9 reverse
+prowl 2 1 1
+stood 4 4 1
+lotxe 2 5 0
+ledom 1 7 0

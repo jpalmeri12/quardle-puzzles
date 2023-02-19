@@ -1,0 +1,5 @@
+7 10 spin
+beret 3 1 1
+prone 2 3 0
+metro 1 5 0
+relic 4 5 1

@@ -1,0 +1,5 @@
+6 7
+hovel 1 1 1
+obese 1 2 0
+evade 3 2 1
+lodge 1 5 0

@@ -1,0 +1,5 @@
+7 8
+skull 2 1 1
+mauve 5 3 1
+local 2 4 0
+theme 1 7 0

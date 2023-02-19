@@ -1,0 +1,5 @@
+7 9
+shell 1 1 0
+harpy 2 1 1
+press 2 4 0
+stony 5 4 1

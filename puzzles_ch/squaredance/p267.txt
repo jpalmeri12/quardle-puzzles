@@ -1,0 +1,6 @@
+6 8 squaredance
+super 1 1 1
+exalt 5 1 1
+shire 1 1 0
+roost 1 5 0
+urban 1 7 0

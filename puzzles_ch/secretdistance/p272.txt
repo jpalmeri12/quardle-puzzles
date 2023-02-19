@@ -1,0 +1,7 @@
+6 10 secretdistance
+raise 1 1 1
+eking 5 3 1
+stank 1 4 0
+fling 1 7 0
+flick 1 9 0
+!sdpos 1 0 3 0

@@ -1,0 +1,5 @@
+7 9 unloved
+amity 6 1 1
+shift 2 4 0
+harpy 3 4 1
+imply 1 7 0

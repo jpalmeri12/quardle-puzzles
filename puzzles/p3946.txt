@@ -1,0 +1,5 @@
+7 8
+aping 3 1 1
+birth 2 3 0
+think 5 3 1
+flask 1 7 0

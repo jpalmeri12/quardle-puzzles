@@ -1,0 +1,5 @@
+7 9 unloved
+satyr 6 1 1
+essay 2 4 0
+soapy 3 4 1
+abyss 1 8 0

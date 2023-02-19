@@ -1,0 +1,5 @@
+7 9
+liege 5 1 1
+curio 2 2 0
+wrung 1 4 0
+rayon 2 4 1

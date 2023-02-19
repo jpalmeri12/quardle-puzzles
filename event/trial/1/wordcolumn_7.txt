@@ -1,0 +1,6 @@
+6 9 wordcolumn
+truce 1 1 1
+clerk 1 4 0
+epoxy 3 4 1
+knoll 5 4 1
+idyll 1 8 0

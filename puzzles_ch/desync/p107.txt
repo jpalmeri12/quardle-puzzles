@@ -1,0 +1,5 @@
+6 9 desync
+kiosk 1 1 1
+swish 1 4 0
+shawl 4 4 1
+snowy 1 7 0

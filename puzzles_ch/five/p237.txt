@@ -1,0 +1,6 @@
+7 10 five
+mauve 1 1 1
+alter 1 2 0
+tithe 3 2 1
+cumin 5 5 1
+debug 2 6 0

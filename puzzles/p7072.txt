@@ -1,0 +1,5 @@
+7 9
+flown 2 1 1
+stork 4 4 1
+notch 2 5 0
+alike 1 8 0

@@ -1,0 +1,6 @@
+6 9 five
+hasty 3 1 1
+vixen 5 1 1
+swami 1 2 0
+fresh 1 4 1
+rayon 1 5 0

@@ -1,0 +1,5 @@
+7 9
+mushy 6 1 1
+depth 2 4 0
+patsy 4 4 1
+pinto 1 6 0

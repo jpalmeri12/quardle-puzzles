@@ -1,0 +1,5 @@
+7 9 reverse
+queer 2 1 1
+ehtil 2 4 0
+tonga 4 4 1
+yllat 1 8 0

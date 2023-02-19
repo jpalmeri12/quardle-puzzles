@@ -1,0 +1,7 @@
+7 11 secretdistance
+shyly 5 1 1
+lithe 2 2 0
+carol 1 4 0
+recur 3 4 1
+liver 1 10 0
+!sdpos 2 0 1 0

@@ -1,0 +1,5 @@
+7 8 spaced
+forth 1 1 1
+spank 3 3 1
+tapir 1 4 0
+incur 2 6 0

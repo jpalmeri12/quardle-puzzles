@@ -1,0 +1,5 @@
+7 8 darkness
+lucky 2 7 0
+favor 1 5 0
+spear 5 1 1
+snail 2 3 1

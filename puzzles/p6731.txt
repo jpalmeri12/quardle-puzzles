@@ -1,0 +1,5 @@
+7 9
+chalk 6 1 1
+offal 2 4 0
+oaken 2 4 1
+snide 1 8 0

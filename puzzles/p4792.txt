@@ -1,0 +1,5 @@
+7 10
+slink 1 1 1
+kayak 1 5 0
+yield 3 5 1
+blink 2 8 0

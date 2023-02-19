@@ -1,0 +1,6 @@
+7 12 undercover
+afire 4 1 1
+still 2 3 0
+cadet 1 5 0
+timid 5 5 1
+bongo 1 11 0

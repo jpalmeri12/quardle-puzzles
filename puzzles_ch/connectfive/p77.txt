@@ -1,0 +1,6 @@
+7 10 connectfive
+lurid 1 1 1
+rouse 1 3 0
+sling 4 3 1
+wharf 6 5 1
+punch 2 6 0

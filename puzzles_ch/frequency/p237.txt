@@ -1,0 +1,5 @@
+6 7 frequency
+chaos 2 1 1
+shack 1 2 0
+clerk 4 2 1
+model 1 4 0

@@ -1,0 +1,5 @@
+7 7 frequency
+penny 5 1 1
+scree 2 2 0
+chess 3 2 1
+stern 1 4 0

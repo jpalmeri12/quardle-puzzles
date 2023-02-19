@@ -1,0 +1,5 @@
+7 8
+gumbo 1 1 0
+often 5 1 1
+acute 2 3 0
+cling 3 3 1

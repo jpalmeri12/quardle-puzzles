@@ -1,0 +1,6 @@
+6 8 squaredance
+lurid 1 1 1
+noise 5 1 1
+linen 1 1 0
+dunce 1 5 0
+cloak 1 7 0

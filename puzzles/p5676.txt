@@ -1,0 +1,5 @@
+7 7
+whole 2 1 1
+haute 2 2 0
+threw 5 2 1
+flour 1 4 0

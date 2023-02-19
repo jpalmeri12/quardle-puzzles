@@ -1,0 +1,5 @@
+7 10 swap
+iwder 3 1 1
+ohrny 1 5 0
+haryd 2 5 1
+relya 2 7 0

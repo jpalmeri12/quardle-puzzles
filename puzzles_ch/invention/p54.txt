@@ -1,0 +1,5 @@
+7 9 invention
+water 6 1 1
+scene 2 4 0
+clump 3 4 1
+squib 1 6 0

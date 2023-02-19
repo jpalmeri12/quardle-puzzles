@@ -1,0 +1,5 @@
+7 10 shiritori
+offal 2 1 1
+class 1 5 0
+setup 4 5 1
+extra 2 7 0

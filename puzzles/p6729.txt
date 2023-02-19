@@ -1,0 +1,5 @@
+7 10
+grunt 5 1 1
+grout 2 3 0
+aloft 1 5 0
+ovine 3 5 1

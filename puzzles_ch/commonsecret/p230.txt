@@ -1,0 +1,6 @@
+7 7 commonsecret
+ovary 1 1 0
+valet 2 1 1
+glass 6 2 1
+local 2 3 0
+!secret a

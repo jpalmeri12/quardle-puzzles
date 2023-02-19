@@ -1,0 +1,5 @@
+7 9
+hutch 1 1 0
+hymen 5 1 1
+baker 2 4 0
+bluer 2 4 1

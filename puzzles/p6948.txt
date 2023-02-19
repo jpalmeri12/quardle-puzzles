@@ -1,0 +1,5 @@
+7 10
+sport 1 1 0
+offer 3 1 1
+fried 2 5 0
+erode 5 5 1

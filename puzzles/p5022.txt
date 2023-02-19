@@ -1,0 +1,5 @@
+7 9
+carve 6 1 1
+about 4 4 1
+imbue 2 5 0
+shrug 1 7 0

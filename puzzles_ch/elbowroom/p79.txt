@@ -1,0 +1,5 @@
+7 7 elbowroom
+dogma 2 1 1
+toxic 1 2 0
+canny 5 2 1
+mount 2 4 0

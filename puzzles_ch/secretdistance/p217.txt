@@ -1,0 +1,7 @@
+6 12 secretdistance
+baron 3 1 1
+tenor 1 5 0
+thick 1 5 1
+known 1 9 0
+stump 1 11 0
+!sdpos 0 3 1 2

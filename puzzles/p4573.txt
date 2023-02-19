@@ -1,0 +1,5 @@
+6 6
+quilt 3 1 1
+naive 5 1 1
+fauna 1 2 0
+bathe 1 5 0

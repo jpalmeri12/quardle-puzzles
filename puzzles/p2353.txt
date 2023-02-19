@@ -1,0 +1,5 @@
+7 9
+grope 1 1 1
+plied 1 4 0
+idler 3 4 1
+ready 2 7 0

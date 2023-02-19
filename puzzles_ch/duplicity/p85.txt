@@ -1,0 +1,5 @@
+7 10 duplicity
+sperm 2 1 1
+pesky 1 3 0
+maker 2 5 0
+essay 5 5 1

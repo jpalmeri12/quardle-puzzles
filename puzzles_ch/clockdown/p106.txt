@@ -1,0 +1,5 @@
+6 10 clockdown
+bayou 3 1 1
+award 1 2 0
+rouse 1 5 0
+shiny 4 5 1

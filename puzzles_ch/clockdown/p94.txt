@@ -1,0 +1,5 @@
+7 10 clockdown
+canoe 5 1 1
+taker 2 5 0
+torch 2 5 1
+scorn 1 8 0

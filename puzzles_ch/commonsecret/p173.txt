@@ -1,0 +1,6 @@
+6 10 commonsecret
+panic 1 1 1
+niece 1 3 0
+cigar 1 5 0
+recap 5 5 1
+!secret c

@@ -1,0 +1,5 @@
+6 9
+thigh 4 1 1
+fishy 1 2 0
+gauge 1 4 0
+alive 2 4 1

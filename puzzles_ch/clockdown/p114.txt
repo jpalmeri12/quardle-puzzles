@@ -1,0 +1,5 @@
+7 9 clockdown
+robot 2 1 1
+bonus 1 4 0
+sandy 5 4 1
+satyr 2 8 0

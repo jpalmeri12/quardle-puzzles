@@ -1,0 +1,5 @@
+7 10 spin
+godly 1 1 1
+youth 1 5 0
+tasty 4 5 1
+meter 2 8 0

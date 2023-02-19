@@ -1,0 +1,5 @@
+7 8 elbowroom
+elbow 2 1 0
+lipid 3 1 1
+stony 5 3 1
+evict 1 4 0

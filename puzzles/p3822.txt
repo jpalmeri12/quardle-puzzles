@@ -1,0 +1,5 @@
+7 8
+steer 2 1 1
+eking 2 3 0
+nerdy 5 3 1
+truer 1 5 0

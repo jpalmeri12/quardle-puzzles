@@ -1,0 +1,5 @@
+7 10
+baler 1 1 1
+reedy 1 5 0
+exile 3 5 1
+flash 2 8 0

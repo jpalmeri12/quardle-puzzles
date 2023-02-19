@@ -1,0 +1,5 @@
+7 7 sweeper
+stave 1 1 1
+touch 1 2 0
+urine 3 2 1
+lemon 2 6 0

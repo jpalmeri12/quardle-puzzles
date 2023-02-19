@@ -1,0 +1,6 @@
+6 10 connectfive
+sword 1 1 1
+ovate 1 3 0
+donut 1 5 0
+noose 3 5 1
+trove 5 5 1

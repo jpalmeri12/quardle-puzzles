@@ -1,0 +1,5 @@
+7 10 hardmode
+prank 2 1 0
+aside 4 1 1
+asset 1 5 0
+sword 2 5 1

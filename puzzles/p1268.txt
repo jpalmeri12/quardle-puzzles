@@ -1,0 +1,5 @@
+7 10
+golly 4 1 1
+vinyl 1 5 0
+notch 3 5 1
+whole 2 9 0

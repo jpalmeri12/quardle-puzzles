@@ -1,0 +1,5 @@
+7 8 fourscore
+vigil 4 1 1
+truly 2 3 1
+tiger 2 3 0
+cynic 1 7 0

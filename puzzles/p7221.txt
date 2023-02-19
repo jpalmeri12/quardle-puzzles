@@ -1,0 +1,5 @@
+7 9
+shirt 5 1 1
+plush 1 2 0
+retry 2 4 0
+reach 2 4 1

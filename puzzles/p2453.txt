@@ -1,0 +1,5 @@
+7 10
+sulky 1 1 0
+knave 4 1 1
+guess 2 5 0
+giant 2 5 1

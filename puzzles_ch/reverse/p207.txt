@@ -1,0 +1,5 @@
+7 9 reverse
+gross 1 1 1
+ssorg 1 4 0
+gnorw 5 4 1
+showy 2 8 0

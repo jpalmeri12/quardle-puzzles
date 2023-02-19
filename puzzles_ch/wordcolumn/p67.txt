@@ -1,0 +1,6 @@
+7 10 wordcolumn
+steam 6 1 1
+racer 2 3 1
+cream 2 5 0
+elbow 4 5 1
+showy 1 9 0

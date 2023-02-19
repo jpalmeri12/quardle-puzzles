@@ -1,0 +1,5 @@
+7 9
+dully 5 1 1
+gulch 2 4 1
+burly 1 5 0
+hence 2 8 0

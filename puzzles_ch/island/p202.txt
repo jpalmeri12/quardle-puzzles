@@ -1,0 +1,6 @@
+6 10 island
+roost 2 1 1
+study 1 5 0
+dunce 4 5 1
+ebony 1 7 0
+!island 211 32 311 2111

@@ -1,0 +1,5 @@
+7 10 hardmode
+fungi 4 1 1
+civic 1 5 0
+champ 5 5 1
+glyph 2 9 0

@@ -1,0 +1,5 @@
+7 9
+smack 1 1 0
+mouth 2 1 1
+study 5 4 1
+heath 2 5 0

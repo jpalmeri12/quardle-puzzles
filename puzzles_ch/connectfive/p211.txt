@@ -1,0 +1,6 @@
+6 12 connectfive
+rough 4 1 1
+cache 1 5 0
+creek 3 5 1
+drift 5 7 1
+their 1 8 0

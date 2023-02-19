@@ -1,0 +1,6 @@
+6 8 squaredance
+flout 1 1 1
+lover 5 1 1
+fatal 1 1 0
+tamer 1 5 0
+alike 1 7 0

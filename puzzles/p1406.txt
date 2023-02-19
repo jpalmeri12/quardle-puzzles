@@ -1,0 +1,5 @@
+7 10
+horse 4 1 1
+puree 2 3 0
+poker 1 5 0
+porch 1 5 1

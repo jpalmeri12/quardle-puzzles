@@ -1,0 +1,5 @@
+6 9 dblltr
+bevel 4 1 1
+cress 2 4 1
+frill 1 5 0
+issue 1 7 0

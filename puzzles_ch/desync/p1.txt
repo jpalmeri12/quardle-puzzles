@@ -1,0 +1,5 @@
+7 7 desync
+askew 5 1 1
+roach 3 2 1
+stock 1 3 0
+scowl 2 5 0

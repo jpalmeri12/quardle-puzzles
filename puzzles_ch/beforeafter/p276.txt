@@ -1,0 +1,9 @@
+7 8 beforeafter
+labor 1 1 1
+bossy 1 3 0
+stump 3 3 1
+spill 2 7 0
+!beforeafter 2 n
+!beforeafter 1 r
+!beforeafter 2 q
+!beforeafter 1 m

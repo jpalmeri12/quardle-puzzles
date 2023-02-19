@@ -1,0 +1,9 @@
+7 9 beforeafter
+slide 1 1 1
+dilly 1 4 0
+lunge 3 4 1
+agony 2 7 0
+!beforeafter 1 j
+!beforeafter 1 k
+!beforeafter 2 k
+!beforeafter 1 j

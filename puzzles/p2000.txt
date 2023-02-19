@@ -1,0 +1,5 @@
+7 10
+brine 2 1 1
+inbox 2 3 0
+gouge 1 5 1
+genie 1 5 0

@@ -1,0 +1,5 @@
+7 7 scrabble
+aroma 1 3 0
+honor 3 2 1
+ovary 5 1 1
+polyp 2 5 0

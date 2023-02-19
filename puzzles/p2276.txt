@@ -1,0 +1,5 @@
+6 8
+event 5 1 1
+churn 2 3 1
+quart 1 5 0
+uncle 1 7 0

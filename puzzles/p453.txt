@@ -1,0 +1,5 @@
+7 7
+lumpy 6 1 1
+decry 2 2 1
+crisp 2 4 0
+cyber 1 6 0

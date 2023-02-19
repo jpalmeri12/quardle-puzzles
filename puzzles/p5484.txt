@@ -1,0 +1,5 @@
+7 7
+bliss 2 1 1
+blown 1 2 0
+whose 4 2 1
+sassy 2 5 0

@@ -1,0 +1,6 @@
+7 10 connectfive
+organ 4 1 1
+augur 2 3 0
+ovine 1 5 0
+other 1 5 1
+ester 5 5 1

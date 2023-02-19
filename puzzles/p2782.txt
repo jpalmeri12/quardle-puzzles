@@ -1,0 +1,5 @@
+7 8
+ghoul 5 1 1
+troop 2 3 0
+rural 3 3 1
+mural 1 5 0

@@ -1,0 +1,5 @@
+6 9 spin
+thrum 1 1 1
+unfed 1 4 0
+drunk 5 4 1
+shark 1 8 0

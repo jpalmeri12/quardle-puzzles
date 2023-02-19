@@ -1,0 +1,6 @@
+6 8 squaredance
+pulse 1 1 1
+hovel 5 1 1
+pouch 1 1 0
+expel 1 5 0
+court 1 7 0

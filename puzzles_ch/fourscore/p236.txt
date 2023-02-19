@@ -1,0 +1,5 @@
+6 8 fourscore
+wrote 5 1 1
+hefty 1 3 1
+erect 1 4 0
+yacht 1 7 0

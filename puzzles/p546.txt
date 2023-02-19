@@ -1,0 +1,5 @@
+7 9
+plump 3 1 1
+belly 1 2 0
+amply 2 4 0
+lemur 5 4 1

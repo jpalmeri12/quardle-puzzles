@@ -1,0 +1,6 @@
+7 12 connectfive
+spied 6 1 1
+smite 2 4 0
+motif 3 4 1
+iliac 1 7 0
+icing 1 7 1

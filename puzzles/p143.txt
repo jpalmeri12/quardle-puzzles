@@ -1,0 +1,5 @@
+6 9
+verso 1 1 1
+swore 1 4 0
+octal 3 4 1
+dilly 1 8 0

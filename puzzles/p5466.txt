@@ -1,0 +1,5 @@
+7 7
+cover 6 1 1
+guilt 3 2 1
+ridge 2 4 0
+datum 1 6 0

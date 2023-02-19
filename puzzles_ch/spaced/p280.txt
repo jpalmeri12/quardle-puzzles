@@ -1,0 +1,5 @@
+7 10 spaced
+royal 6 1 1
+extol 2 5 0
+entry 2 5 1
+hyper 1 9 0

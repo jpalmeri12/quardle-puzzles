@@ -1,0 +1,5 @@
+6 8
+ditto 1 1 1
+sinew 4 3 1
+ovine 1 5 0
+brawn 1 7 0

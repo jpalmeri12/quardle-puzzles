@@ -1,0 +1,5 @@
+7 10 spin
+stoop 5 1 1
+flute 2 2 0
+sweep 1 5 0
+wooly 2 5 1

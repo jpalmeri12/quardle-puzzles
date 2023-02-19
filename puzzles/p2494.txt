@@ -1,0 +1,5 @@
+7 10
+fifty 2 1 1
+hyper 1 5 0
+epoxy 4 5 1
+payer 2 9 0

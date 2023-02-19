@@ -1,0 +1,5 @@
+7 10
+waver 3 1 1
+aorta 1 5 0
+taunt 4 5 1
+linen 2 8 0

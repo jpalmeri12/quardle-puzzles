@@ -1,0 +1,5 @@
+7 10
+brisk 2 1 1
+crypt 1 2 0
+knoll 2 5 0
+login 5 5 1

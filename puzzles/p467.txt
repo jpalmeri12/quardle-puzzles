@@ -1,0 +1,5 @@
+7 8
+plate 3 1 1
+carve 5 3 1
+genre 2 5 0
+awoke 1 7 0

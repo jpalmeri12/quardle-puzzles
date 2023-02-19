@@ -1,0 +1,6 @@
+7 9 five
+scion 2 1 1
+screw 1 2 0
+other 2 4 0
+habit 4 4 1
+fetch 2 8 0

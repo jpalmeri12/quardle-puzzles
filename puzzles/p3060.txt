@@ -1,0 +1,5 @@
+7 10
+butch 5 1 1
+caput 1 3 0
+spire 2 5 1
+sight 2 5 0

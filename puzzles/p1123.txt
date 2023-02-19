@@ -1,0 +1,5 @@
+6 7
+stare 4 1 1
+hinge 1 2 1
+hasty 1 2 0
+gruel 1 5 0

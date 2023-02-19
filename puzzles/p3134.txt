@@ -1,0 +1,5 @@
+7 10
+dirty 2 1 1
+lynch 1 5 0
+catty 4 5 1
+hotly 2 8 0

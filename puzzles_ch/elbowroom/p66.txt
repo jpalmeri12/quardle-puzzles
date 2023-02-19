@@ -1,0 +1,5 @@
+7 7 elbowroom
+fanny 1 1 1
+amiss 1 2 0
+steak 5 2 1
+musky 2 6 0

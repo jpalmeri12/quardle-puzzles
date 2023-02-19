@@ -1,0 +1,5 @@
+7 7 reverse
+revoh 2 1 1
+eussi 2 2 0
+stead 4 2 1
+ahead 1 5 0

@@ -1,0 +1,5 @@
+7 10
+feign 6 1 1
+coven 2 5 0
+vague 4 5 1
+augur 1 8 0

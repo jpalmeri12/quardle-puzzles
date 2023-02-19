@@ -1,0 +1,5 @@
+7 10
+arbor 4 1 1
+rabid 2 3 0
+blurt 1 5 0
+tacit 5 5 1

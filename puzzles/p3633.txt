@@ -1,0 +1,5 @@
+7 9
+cello 3 1 1
+spend 1 2 0
+fluff 2 4 0
+forte 6 4 1

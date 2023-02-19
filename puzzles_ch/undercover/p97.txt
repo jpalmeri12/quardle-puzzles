@@ -1,0 +1,6 @@
+6 11 undercover
+mocha 5 1 1
+patch 1 4 0
+pinky 1 4 1
+young 1 8 0
+level 1 10 0

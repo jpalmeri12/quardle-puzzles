@@ -1,0 +1,5 @@
+7 8 duplicity
+cress 2 1 0
+smoke 5 1 1
+micro 3 3 1
+smirk 1 4 0

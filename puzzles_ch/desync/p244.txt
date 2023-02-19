@@ -1,0 +1,5 @@
+7 10 desync
+skirt 5 1 1
+bulky 2 2 0
+meant 1 5 0
+alibi 3 5 1

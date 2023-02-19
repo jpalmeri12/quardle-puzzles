@@ -1,0 +1,5 @@
+7 10 clockdown
+retch 5 1 1
+nymph 1 5 0
+mango 3 5 1
+inert 2 7 0

@@ -1,0 +1,6 @@
+7 9 island
+twice 2 1 1
+smirk 5 4 1
+denim 1 5 0
+spoke 2 8 0
+!island 2111 311 221 32

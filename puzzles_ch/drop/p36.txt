@@ -1,0 +1,6 @@
+7 12 drop
+quite 6 1 1
+louse 2 5 0
+scrum 5 5 1
+goner 1 7 0
+prune 1 11 0

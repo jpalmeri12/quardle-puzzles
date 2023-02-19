@@ -1,0 +1,5 @@
+6 8 fourscore
+demon 1 1 0
+egret 2 1 1
+unfed 4 3 1
+staff 1 5 0

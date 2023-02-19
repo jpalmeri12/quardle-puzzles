@@ -1,0 +1,5 @@
+6 9 beta
+swirl 5 1 1
+throw 1 2 0
+femur 1 4 0
+madam 3 4 1

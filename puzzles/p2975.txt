@@ -1,0 +1,5 @@
+6 10
+emcee 4 1 1
+wooer 1 5 0
+olive 2 5 1
+evade 1 8 0

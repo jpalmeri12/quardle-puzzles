@@ -1,0 +1,5 @@
+7 10 swap
+crmap 5 1 1
+sotmp 1 5 0
+meatn 4 5 1
+lpate 2 7 0

@@ -1,0 +1,6 @@
+7 7 commonsecret
+taker 6 1 1
+graft 4 2 1
+scare 2 4 0
+batty 1 6 0
+!secret a

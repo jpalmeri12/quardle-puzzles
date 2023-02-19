@@ -1,0 +1,5 @@
+6 8 reverse
+spell 2 1 1
+eguog 5 3 1
+yllug 1 4 0
+thing 1 7 0

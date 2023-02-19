@@ -1,0 +1,5 @@
+7 10
+cloud 3 1 1
+judge 1 5 0
+egret 5 5 1
+weird 2 7 0

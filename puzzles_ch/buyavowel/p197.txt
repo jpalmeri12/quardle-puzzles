@@ -1,0 +1,5 @@
+7 8 buyavowel
+banjo 2 1 0
+junto 5 1 1
+salon 1 3 0
+lynch 3 3 1

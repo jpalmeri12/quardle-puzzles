@@ -1,0 +1,6 @@
+7 10 undercover
+octet 1 1 0
+cabby 2 1 1
+barge 2 3 0
+every 6 3 1
+fluid 1 9 0

@@ -1,0 +1,5 @@
+7 9
+group 2 1 0
+relay 3 1 1
+slate 1 4 0
+enemy 5 4 1

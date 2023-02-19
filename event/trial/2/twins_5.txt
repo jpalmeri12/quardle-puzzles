@@ -1,0 +1,8 @@
+6 8 twins
+marry 1 1 0
+teary 1 3 0
+pinto 1 5 0
+avail 1 7 0
+!twins 3 4
+!twins 0 1
+!twins 1 2

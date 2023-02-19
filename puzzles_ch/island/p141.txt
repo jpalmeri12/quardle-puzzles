@@ -1,0 +1,6 @@
+7 10 island
+audit 2 1 1
+stuff 1 5 0
+foggy 4 5 1
+angst 2 8 0
+!island 2111 211 31 221

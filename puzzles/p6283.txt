@@ -1,0 +1,5 @@
+7 9
+yeast 5 1 1
+marsh 2 4 0
+manor 2 4 1
+crone 1 8 0

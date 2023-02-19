@@ -1,0 +1,5 @@
+6 8 darkness
+tower 1 1 0
+slurp 2 3 1
+elide 4 1 1
+elude 1 4 0

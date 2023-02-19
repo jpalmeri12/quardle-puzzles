@@ -1,0 +1,5 @@
+7 8 buyavowel
+masse 2 1 0
+study 4 1 1
+humus 1 3 0
+harpy 1 3 1

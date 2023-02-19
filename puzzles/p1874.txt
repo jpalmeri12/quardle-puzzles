@@ -1,0 +1,5 @@
+7 10
+dozen 5 1 1
+colon 1 5 0
+lodge 3 5 1
+ideal 2 7 0

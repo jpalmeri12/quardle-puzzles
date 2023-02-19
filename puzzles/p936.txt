@@ -1,0 +1,5 @@
+7 10
+bossy 5 1 1
+savor 2 2 0
+gawky 1 5 0
+knelt 4 5 1

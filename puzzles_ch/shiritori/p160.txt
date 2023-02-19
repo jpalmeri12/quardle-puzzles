@@ -1,0 +1,5 @@
+7 8 shiritori
+posse 1 1 1
+shift 1 3 0
+flock 4 3 1
+macro 2 6 0

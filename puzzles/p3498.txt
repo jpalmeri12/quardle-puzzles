@@ -1,0 +1,5 @@
+7 10
+mayor 2 1 1
+dying 1 3 0
+ranch 2 5 0
+chain 5 5 1

@@ -1,0 +1,5 @@
+7 8
+tacky 2 1 0
+knelt 5 1 1
+horse 1 3 0
+human 1 3 1

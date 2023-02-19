@@ -1,0 +1,5 @@
+7 10
+siren 5 1 1
+bland 2 5 0
+anger 4 5 1
+diver 1 8 0

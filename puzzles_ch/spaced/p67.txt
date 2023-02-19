@@ -1,0 +1,5 @@
+6 8 spaced
+voila 1 1 1
+being 4 3 1
+liner 1 4 0
+binge 1 7 0

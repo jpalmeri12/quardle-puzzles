@@ -1,0 +1,5 @@
+7 9
+forgo 4 1 1
+scorn 1 3 0
+truce 6 4 1
+wooer 2 5 0

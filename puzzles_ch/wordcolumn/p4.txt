@@ -1,0 +1,6 @@
+7 8 wordcolumn
+hobby 2 1 1
+boast 1 2 0
+straw 4 2 1
+shell 6 3 1
+berth 2 4 0

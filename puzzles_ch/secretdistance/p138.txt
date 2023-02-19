@@ -1,0 +1,7 @@
+6 8 secretdistance
+abbot 1 1 0
+blood 3 1 1
+timer 5 1 1
+booze 1 4 0
+reply 1 7 0
+!sdpos 2 3 1 0

@@ -1,0 +1,5 @@
+7 8
+spout 5 1 1
+shunt 2 3 1
+ought 1 5 0
+treat 2 7 0

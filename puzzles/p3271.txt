@@ -1,0 +1,5 @@
+7 8
+totem 5 1 1
+tasty 3 3 1
+gavel 2 4 0
+rayon 1 7 0

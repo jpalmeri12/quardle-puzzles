@@ -1,0 +1,6 @@
+6 8 squaredance
+viola 1 1 1
+eying 5 1 1
+verve 1 1 0
+among 1 5 0
+skill 1 7 0

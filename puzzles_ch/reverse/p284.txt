@@ -1,0 +1,5 @@
+6 7 reverse
+fussy 5 1 1
+egasu 1 2 0
+azalp 3 2 1
+chaos 1 4 0

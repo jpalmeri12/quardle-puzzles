@@ -1,0 +1,5 @@
+7 9
+truer 6 1 1
+folly 3 4 1
+motor 2 5 0
+wryly 1 8 0

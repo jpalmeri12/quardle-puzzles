@@ -1,0 +1,6 @@
+7 10 undercover
+flush 1 1 0
+swung 4 1 1
+bully 2 3 1
+leggy 2 5 0
+tiara 1 9 0

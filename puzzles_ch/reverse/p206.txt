@@ -1,0 +1,5 @@
+7 7 reverse
+ehcac 2 1 1
+whoop 1 2 0
+parcs 5 2 1
+adore 2 4 0

@@ -1,0 +1,5 @@
+7 7 hardmode
+gecko 4 1 1
+cream 2 2 0
+civic 2 2 1
+evoke 1 4 0

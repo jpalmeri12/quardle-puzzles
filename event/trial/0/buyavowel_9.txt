@@ -1,0 +1,5 @@
+7 7 buyavowel
+sport 5 1 1
+swept 2 2 0
+woozy 3 2 1
+choir 1 4 0

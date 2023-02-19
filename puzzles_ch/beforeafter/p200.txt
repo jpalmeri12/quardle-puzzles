@@ -1,0 +1,9 @@
+6 9 beforeafter
+tulle 2 1 1
+tulip 1 2 0
+tubal 4 4 1
+demur 1 5 0
+!beforeafter 1 q
+!beforeafter 1 q
+!beforeafter 1 p
+!beforeafter 2 o

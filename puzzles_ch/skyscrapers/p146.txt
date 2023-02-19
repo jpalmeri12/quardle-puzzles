@@ -1,0 +1,5 @@
+7 10 skyscrapers
+ledge 3 5 1
+slunk 2 5 0
+felon 5 1 1
+cadet 1 7 0

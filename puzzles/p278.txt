@@ -1,0 +1,5 @@
+7 9
+trade 4 1 1
+start 1 2 0
+sadly 2 4 0
+sworn 2 4 1

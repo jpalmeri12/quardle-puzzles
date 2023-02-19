@@ -1,0 +1,6 @@
+7 10 drop
+macho 2 1 1
+niche 4 3 1
+pouch 1 5 0
+needy 2 7 0
+phony 1 9 0

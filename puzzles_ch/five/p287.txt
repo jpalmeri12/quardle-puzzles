@@ -1,0 +1,6 @@
+6 10 five
+movie 4 1 1
+bacon 2 4 1
+rarer 1 5 0
+roach 5 5 1
+mocha 1 7 0

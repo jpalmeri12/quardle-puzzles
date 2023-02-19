@@ -1,0 +1,5 @@
+7 10 beta
+probe 4 1 1
+islet 1 5 0
+sedan 2 5 1
+nasty 2 9 0

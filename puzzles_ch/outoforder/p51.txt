@@ -1,0 +1,5 @@
+7 10 outoforder
+scion 4 1 1
+tenet 2 5 0
+tumor 2 5 1
+crick 1 9 0

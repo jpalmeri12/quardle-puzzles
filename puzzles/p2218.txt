@@ -1,0 +1,5 @@
+7 10
+nerve 2 1 1
+nudge 2 1 0
+hefty 1 5 0
+horny 1 5 1

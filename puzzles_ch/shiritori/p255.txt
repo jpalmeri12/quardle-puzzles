@@ -1,0 +1,5 @@
+7 10 shiritori
+diary 5 1 1
+toddy 1 5 0
+daddy 3 5 1
+admin 2 8 0

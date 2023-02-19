@@ -1,0 +1,5 @@
+7 9
+diner 6 1 1
+glaze 2 4 0
+align 4 4 1
+singe 1 7 0

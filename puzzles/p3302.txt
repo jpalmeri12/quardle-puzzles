@@ -1,0 +1,5 @@
+6 9
+udder 2 1 1
+adopt 1 2 0
+decor 1 4 0
+octal 4 4 1

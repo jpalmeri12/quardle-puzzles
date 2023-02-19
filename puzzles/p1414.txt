@@ -1,0 +1,5 @@
+6 9
+bliss 1 1 1
+saucy 1 4 0
+usual 3 4 1
+trade 1 7 0

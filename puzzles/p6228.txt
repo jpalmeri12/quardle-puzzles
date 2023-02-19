@@ -1,0 +1,5 @@
+7 9
+rocky 1 1 1
+knife 1 4 0
+inept 3 4 1
+spasm 2 7 0

@@ -1,0 +1,5 @@
+7 10 hardmode
+locus 2 1 1
+snack 2 5 0
+chaff 5 5 1
+snuff 1 9 0

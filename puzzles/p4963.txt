@@ -1,0 +1,5 @@
+7 8
+cover 1 1 0
+ember 4 1 1
+pubic 2 3 0
+paper 2 3 1

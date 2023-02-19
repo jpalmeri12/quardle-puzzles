@@ -1,0 +1,5 @@
+7 7
+augur 1 1 0
+uncle 2 1 1
+adorn 6 2 1
+elder 2 5 0

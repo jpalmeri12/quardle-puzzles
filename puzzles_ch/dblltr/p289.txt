@@ -1,0 +1,5 @@
+7 7 dblltr
+seven 1 1 0
+visit 3 1 1
+hedge 6 2 1
+issue 2 3 0

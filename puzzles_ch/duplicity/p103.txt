@@ -1,0 +1,5 @@
+6 8 duplicity
+alter 1 1 1
+rarer 3 3 1
+elate 1 4 0
+terra 1 7 0

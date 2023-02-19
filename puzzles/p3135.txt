@@ -1,0 +1,5 @@
+7 7
+avail 2 1 1
+rebut 5 2 1
+dance 1 3 0
+lupus 2 5 0

@@ -1,0 +1,5 @@
+7 9 frequency
+foamy 6 1 1
+psalm 2 4 0
+scion 3 4 1
+fanny 1 8 0

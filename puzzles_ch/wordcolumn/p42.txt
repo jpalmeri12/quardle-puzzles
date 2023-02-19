@@ -1,0 +1,6 @@
+6 9 wordcolumn
+bliss 1 1 1
+primo 3 1 1
+skate 5 4 1
+shock 1 5 0
+spent 1 7 0

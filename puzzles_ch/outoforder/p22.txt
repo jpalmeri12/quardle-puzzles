@@ -1,0 +1,5 @@
+7 9 outoforder
+gecko 1 1 0
+onion 5 1 1
+afire 2 4 1
+fanny 2 5 0

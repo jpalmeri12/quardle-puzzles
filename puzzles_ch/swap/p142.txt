@@ -1,0 +1,5 @@
+7 8 swap
+stutn 1 1 1
+lpuus 3 3 1
+tepdi 1 4 0
+tsaid 2 7 0

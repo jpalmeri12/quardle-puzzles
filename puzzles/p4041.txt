@@ -1,0 +1,5 @@
+7 9
+gipsy 2 1 1
+laugh 4 4 1
+bylaw 1 5 0
+tiger 2 7 0

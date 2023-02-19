@@ -1,0 +1,6 @@
+7 10 commonsecret
+crump 5 1 1
+tempo 2 5 0
+thump 2 5 1
+mucky 1 7 0
+!secret m

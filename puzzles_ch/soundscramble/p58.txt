@@ -1,0 +1,5 @@
+7 8 soundscramble
+mossy 1 1 1
+swiip 1 3 0
+ivone 4 3 1
+mangi 2 6 0

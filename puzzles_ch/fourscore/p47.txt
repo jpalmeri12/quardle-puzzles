@@ -1,0 +1,5 @@
+7 8 fourscore
+awake 6 1 1
+louse 3 3 1
+dunce 2 5 0
+enemy 1 7 0

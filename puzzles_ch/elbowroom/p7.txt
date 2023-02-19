@@ -1,0 +1,5 @@
+7 9 elbowroom
+acute 3 1 1
+lucky 1 2 0
+story 2 4 0
+yearn 6 4 1

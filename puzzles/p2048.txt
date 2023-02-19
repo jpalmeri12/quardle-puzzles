@@ -1,0 +1,5 @@
+7 10
+tenet 6 1 1
+sassy 2 5 1
+skirt 2 5 0
+psalm 1 8 0

@@ -1,0 +1,5 @@
+7 10 soundscramble
+corga 4 1 1
+leorn 1 3 0
+wrate 2 5 0
+erose 6 5 1

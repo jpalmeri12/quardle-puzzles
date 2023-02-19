@@ -1,0 +1,5 @@
+7 9 spaced
+range 1 1 0
+gumbo 4 1 1
+admit 6 4 1
+aloud 2 5 0

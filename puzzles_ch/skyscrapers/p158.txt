@@ -1,0 +1,5 @@
+7 9 skyscrapers
+theft 3 1 1
+stoic 2 5 0
+fibre 5 4 1
+detox 1 1 0

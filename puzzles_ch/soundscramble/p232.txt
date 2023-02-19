@@ -1,0 +1,5 @@
+7 9 soundscramble
+flyor 6 1 1
+lapso 2 4 0
+prexy 4 4 1
+pelyp 1 8 0

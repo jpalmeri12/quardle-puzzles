@@ -1,0 +1,5 @@
+7 9
+trump 3 1 1
+tumor 1 4 0
+roger 5 4 1
+azure 2 8 0

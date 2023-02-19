@@ -1,0 +1,6 @@
+7 12 drop
+hello 4 1 1
+taper 1 2 0
+glove 2 5 0
+gusty 2 5 1
+glory 1 11 0

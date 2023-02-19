@@ -1,0 +1,5 @@
+7 10
+arose 6 1 1
+genre 2 5 0
+exile 3 5 1
+arena 1 9 0

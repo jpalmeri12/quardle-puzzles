@@ -1,0 +1,5 @@
+6 8 duplicity
+nadir 1 1 0
+adorn 2 1 1
+titan 4 3 1
+droit 1 4 0

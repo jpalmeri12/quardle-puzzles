@@ -1,0 +1,5 @@
+7 9 desync
+swear 5 1 1
+shear 2 4 0
+stein 2 4 1
+unlit 1 8 0

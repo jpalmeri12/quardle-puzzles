@@ -1,0 +1,9 @@
+7 9 beforeafter
+macro 2 1 1
+steak 5 4 1
+joust 1 5 0
+plead 2 7 0
+!beforeafter 2 n
+!beforeafter 1 p
+!beforeafter 1 q
+!beforeafter 1 i

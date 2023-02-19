@@ -1,0 +1,5 @@
+7 10 hardmode
+comet 5 1 1
+swamp 2 3 0
+posit 1 5 0
+input 4 5 1

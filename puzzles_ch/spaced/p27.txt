@@ -1,0 +1,5 @@
+7 10 spaced
+knave 4 1 1
+taper 1 5 0
+pecan 3 5 1
+nadir 2 8 0

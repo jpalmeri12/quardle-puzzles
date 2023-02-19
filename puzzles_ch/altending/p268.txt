@@ -1,0 +1,5 @@
+6 9 altending
+booby 1 1 0
+cabin 1 3 0
+grade 1 5 0
+spark 1 7 0

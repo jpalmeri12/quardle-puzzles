@@ -1,0 +1,5 @@
+7 9 unloved
+slang 5 1 1
+vowel 1 2 0
+resin 3 4 1
+weigh 2 5 0

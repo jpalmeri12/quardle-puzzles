@@ -1,0 +1,6 @@
+7 12 undercover
+minim 1 1 1
+mimic 1 5 0
+chard 5 5 1
+vocal 2 7 0
+swept 1 11 0

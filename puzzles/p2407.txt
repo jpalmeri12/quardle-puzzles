@@ -1,0 +1,5 @@
+7 8
+muddy 5 1 1
+seedy 2 3 0
+elude 3 3 1
+saucy 1 5 0

@@ -1,0 +1,5 @@
+7 9
+piece 5 1 1
+agate 3 4 1
+segue 1 5 0
+wench 2 8 0

@@ -1,0 +1,5 @@
+7 9 darkness
+khaki 5 1 1
+condo 1 4 1
+yacht 2 2 0
+crick 1 4 0

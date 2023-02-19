@@ -1,0 +1,7 @@
+7 11 secretdistance
+olive 4 1 1
+fever 2 4 0
+flame 2 4 1
+ready 1 8 0
+gravy 1 10 0
+!sdpos 0 1 1 3

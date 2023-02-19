@@ -1,0 +1,7 @@
+6 6 fourthwall
+tiger 1 1 0
+throb 1 1 1
+reign 1 3 0
+glint 3 1 1
+butch 1 5 0
+ranch 5 1 1

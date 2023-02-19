@@ -1,0 +1,5 @@
+7 10 fourscore
+cabin 2 1 1
+nomad 2 5 0
+money 4 5 1
+preen 1 8 0

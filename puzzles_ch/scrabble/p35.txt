@@ -1,0 +1,5 @@
+6 7 scrabble
+louse 2 1 1
+torch 1 2 0
+leafy 1 5 0
+chaff 4 2 1

@@ -1,0 +1,9 @@
+7 9 beforeafter
+fanny 3 1 1
+staff 1 2 0
+untie 2 4 0
+entry 6 4 1
+!beforeafter 1 j
+!beforeafter 1 l
+!beforeafter 2 m
+!beforeafter 1 o

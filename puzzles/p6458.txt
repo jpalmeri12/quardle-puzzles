@@ -1,0 +1,5 @@
+7 8
+spook 2 1 0
+outgo 4 1 1
+route 1 3 0
+razor 1 3 1

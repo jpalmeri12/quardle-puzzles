@@ -1,0 +1,5 @@
+7 10 scrabble
+sport 2 5 0
+scalp 3 1 1
+raspy 1 7 0
+rhyme 5 5 1

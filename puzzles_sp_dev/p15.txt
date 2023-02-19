@@ -1,0 +1,5 @@
+7 9 skyscrapers
+polka 1 1 0
+lumen 3 1 1
+merit 2 4 0
+imply 5 4 1

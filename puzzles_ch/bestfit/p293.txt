@@ -1,0 +1,5 @@
+7 7 bestfit
+affix 1 1 0
+forgo 2 1 1
+muddy 6 2 1
+gourd 2 4 0

@@ -1,0 +1,5 @@
+6 10 scrabble
+slant 4 5 1
+radii 2 1 1
+bacon 1 2 0
+tipsy 1 5 0

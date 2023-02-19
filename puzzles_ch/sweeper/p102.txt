@@ -1,0 +1,5 @@
+7 9 sweeper
+musty 6 1 1
+await 2 4 1
+woody 2 5 0
+stony 1 8 0

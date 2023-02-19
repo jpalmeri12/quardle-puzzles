@@ -1,0 +1,5 @@
+7 10 desync
+glaze 4 1 1
+spell 2 5 0
+pagan 3 5 1
+angel 1 7 0

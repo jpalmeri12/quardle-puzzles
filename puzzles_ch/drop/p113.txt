@@ -1,0 +1,6 @@
+7 9 drop
+usher 3 1 1
+psalm 5 2 1
+chess 2 3 0
+viral 1 5 0
+harsh 1 8 0

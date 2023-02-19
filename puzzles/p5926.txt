@@ -1,0 +1,5 @@
+7 10
+linen 4 1 1
+pence 2 5 0
+extol 3 5 1
+tilde 1 9 0

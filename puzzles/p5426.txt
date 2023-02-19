@@ -1,0 +1,5 @@
+6 7
+chock 2 1 1
+shake 1 2 0
+knelt 4 2 1
+screw 1 4 0

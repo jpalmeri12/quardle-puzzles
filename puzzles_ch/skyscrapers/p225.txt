@@ -1,0 +1,5 @@
+7 9 skyscrapers
+spree 2 7 0
+preen 5 4 1
+lemur 1 5 0
+chill 1 1 1

@@ -1,0 +1,5 @@
+7 9
+purge 2 1 1
+grove 2 4 0
+offal 4 4 1
+spill 1 8 0

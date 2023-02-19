@@ -1,0 +1,5 @@
+7 9
+ankle 6 1 1
+trial 2 4 0
+inept 4 4 1
+dryer 1 6 0

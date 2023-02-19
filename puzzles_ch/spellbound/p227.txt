@@ -1,0 +1,9 @@
+7 10 spellbound
+anode 2 1 1
+rebut 1 5 0
+tramp 5 5 1
+theme 2 8 0
+!spellbound 0 0 1
+!spellbound 1 3 2
+!spellbound 2 4 2
+!spellbound 3 4 0

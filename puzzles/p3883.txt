@@ -1,0 +1,5 @@
+7 9
+relay 2 1 1
+ranch 1 4 0
+cheap 4 4 1
+crate 2 7 0

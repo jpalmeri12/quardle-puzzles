@@ -1,0 +1,5 @@
+7 8
+detox 1 1 0
+expel 2 1 1
+pesky 2 3 0
+yield 6 3 1

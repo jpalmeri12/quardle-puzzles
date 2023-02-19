@@ -1,0 +1,5 @@
+6 10
+funky 1 1 0
+ninja 3 1 1
+wharf 1 5 0
+welsh 1 5 1

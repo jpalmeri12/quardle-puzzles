@@ -1,0 +1,5 @@
+6 9 hardmode
+conic 1 1 0
+champ 5 1 1
+scent 1 4 1
+cramp 1 5 0

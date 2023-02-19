@@ -1,0 +1,5 @@
+7 9
+pivot 6 1 1
+mambo 2 4 0
+mummy 2 4 1
+ombre 1 6 0

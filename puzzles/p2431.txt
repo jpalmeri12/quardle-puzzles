@@ -1,0 +1,5 @@
+6 9
+gassy 1 1 0
+going 1 1 1
+noble 1 4 0
+ethic 5 4 1

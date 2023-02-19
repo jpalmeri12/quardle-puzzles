@@ -1,0 +1,5 @@
+7 9
+rodeo 4 1 1
+sooty 2 2 0
+twixt 1 4 1
+whoop 1 5 0

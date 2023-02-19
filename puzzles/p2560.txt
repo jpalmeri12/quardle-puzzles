@@ -1,0 +1,5 @@
+7 8
+broad 1 1 0
+rowdy 2 1 1
+whiff 2 3 0
+itchy 4 3 1

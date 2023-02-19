@@ -1,0 +1,5 @@
+7 9 swap
+dnigy 1 1 0
+gnoem 4 1 1
+eretc 2 4 1
+remti 2 5 0

@@ -1,0 +1,5 @@
+6 7
+clean 2 1 1
+blade 1 2 0
+drunk 4 2 1
+vague 1 4 0

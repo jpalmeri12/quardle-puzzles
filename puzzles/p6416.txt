@@ -1,0 +1,5 @@
+7 9
+swell 2 1 1
+often 4 4 1
+cleft 1 5 0
+smell 2 7 0

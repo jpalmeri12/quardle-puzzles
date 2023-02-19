@@ -1,0 +1,5 @@
+6 9
+rajah 1 1 0
+array 4 1 1
+rival 1 4 0
+ruler 1 4 1

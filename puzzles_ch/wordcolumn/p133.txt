@@ -1,0 +1,6 @@
+7 10 wordcolumn
+canon 5 1 1
+pecan 1 5 0
+evict 2 5 1
+about 4 5 1
+irony 2 7 0

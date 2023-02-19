@@ -1,0 +1,5 @@
+7 10
+bloat 6 1 1
+sport 2 5 0
+primo 3 5 1
+bring 1 7 0

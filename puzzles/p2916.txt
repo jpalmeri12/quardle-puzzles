@@ -1,0 +1,5 @@
+7 10
+dogma 5 1 1
+float 2 5 0
+onset 4 5 1
+grass 1 7 0

@@ -1,0 +1,6 @@
+6 8 commonsecret
+comic 3 1 1
+denim 5 3 1
+noise 1 4 0
+axiom 1 7 0
+!secret i

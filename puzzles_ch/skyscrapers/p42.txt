@@ -1,0 +1,5 @@
+7 9 skyscrapers
+sense 2 1 0
+sauce 5 1 1
+diode 1 5 0
+filly 2 4 1

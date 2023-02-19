@@ -1,0 +1,5 @@
+7 9 reverse
+crier 1 1 1
+erase 1 4 0
+sunim 4 4 1
+renni 2 6 0

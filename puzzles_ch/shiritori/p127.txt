@@ -1,0 +1,5 @@
+6 9 shiritori
+rebus 1 1 0
+swore 5 1 1
+gamer 1 4 0
+about 2 4 1

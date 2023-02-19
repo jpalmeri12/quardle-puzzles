@@ -1,0 +1,7 @@
+7 12 secretdistance
+showy 5 1 1
+tarot 2 3 0
+willy 1 5 0
+loopy 3 5 1
+exult 1 11 0
+!sdpos 2 0 1 3

@@ -1,0 +1,6 @@
+6 8 squaredance
+gaunt 1 1 1
+elide 5 1 1
+guile 1 1 0
+twice 1 5 0
+trend 1 7 0

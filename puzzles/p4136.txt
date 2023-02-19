@@ -1,0 +1,5 @@
+7 7
+often 5 1 1
+girth 3 2 1
+witty 2 3 0
+eaten 1 5 0

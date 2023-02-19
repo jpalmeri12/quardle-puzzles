@@ -1,0 +1,5 @@
+7 10
+bulge 1 1 0
+unset 2 1 1
+thump 2 5 0
+harsh 3 5 1

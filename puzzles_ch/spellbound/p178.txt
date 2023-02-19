@@ -1,0 +1,9 @@
+7 9 spellbound
+ditto 2 1 1
+belly 5 4 1
+forte 1 5 0
+scalp 2 7 0
+!spellbound 0 2 3
+!spellbound 1 4 0
+!spellbound 2 2 3
+!spellbound 3 2 0

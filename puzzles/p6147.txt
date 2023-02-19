@@ -1,0 +1,5 @@
+7 10
+sheik 4 1 1
+crest 2 3 0
+shaky 1 5 0
+stool 1 5 1

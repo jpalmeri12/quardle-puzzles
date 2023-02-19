@@ -1,0 +1,5 @@
+7 9
+snout 2 1 0
+omega 4 1 1
+death 2 4 1
+rehab 1 5 0

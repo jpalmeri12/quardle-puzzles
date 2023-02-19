@@ -1,0 +1,5 @@
+7 10 spin
+credo 4 1 1
+alert 2 3 0
+talon 1 5 0
+tuber 1 5 1

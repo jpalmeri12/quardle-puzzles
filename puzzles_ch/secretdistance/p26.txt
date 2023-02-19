@@ -1,0 +1,7 @@
+7 10 secretdistance
+chose 1 1 1
+bloat 5 3 1
+small 1 4 0
+month 2 7 0
+comfy 1 9 0
+!sdpos 1 3 1 0

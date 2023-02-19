@@ -1,0 +1,5 @@
+7 8
+gavel 5 1 1
+suave 2 3 0
+stuck 2 3 1
+quell 1 5 0

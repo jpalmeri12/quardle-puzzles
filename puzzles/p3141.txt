@@ -1,0 +1,5 @@
+7 9
+razor 3 1 1
+wrack 1 2 0
+voice 2 4 0
+class 5 4 1

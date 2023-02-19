@@ -1,0 +1,5 @@
+7 9 outoforder
+leggy 1 1 1
+glass 1 4 0
+skill 5 4 1
+world 2 8 0

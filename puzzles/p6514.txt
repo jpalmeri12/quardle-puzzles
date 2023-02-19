@@ -1,0 +1,5 @@
+7 10
+leech 2 1 1
+shown 1 5 0
+nomad 5 5 1
+pygmy 2 7 0

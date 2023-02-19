@@ -1,0 +1,5 @@
+6 9 shiritori
+tibia 4 1 1
+stair 1 4 0
+shore 1 4 1
+edify 1 8 0

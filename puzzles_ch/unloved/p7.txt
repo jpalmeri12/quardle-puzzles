@@ -1,0 +1,5 @@
+7 10 unloved
+climb 4 1 1
+lobby 1 5 0
+booze 3 5 1
+azure 2 8 0

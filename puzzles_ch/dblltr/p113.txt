@@ -1,0 +1,5 @@
+7 7 dblltr
+swill 2 1 1
+swash 1 2 0
+heave 5 2 1
+loyal 2 4 0

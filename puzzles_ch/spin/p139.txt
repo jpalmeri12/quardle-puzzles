@@ -1,0 +1,5 @@
+7 10 spin
+offal 1 1 0
+awoke 4 1 1
+clerk 2 5 0
+river 5 5 1

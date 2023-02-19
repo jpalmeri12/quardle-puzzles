@@ -1,0 +1,6 @@
+7 10 drop
+tenth 5 1 1
+being 2 3 0
+equip 3 3 1
+papal 1 7 0
+leech 1 9 0

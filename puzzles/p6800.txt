@@ -1,0 +1,5 @@
+7 8
+spiky 1 1 0
+patio 2 1 1
+teary 2 3 0
+award 4 3 1

@@ -1,0 +1,5 @@
+6 10
+threw 1 1 0
+roomy 3 1 1
+slyly 1 5 0
+leper 2 5 1

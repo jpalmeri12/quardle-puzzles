@@ -1,0 +1,5 @@
+7 9 soundscramble
+medai 6 1 1
+ibade 4 4 1
+umbri 2 5 0
+meter 1 8 0

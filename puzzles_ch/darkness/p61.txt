@@ -1,0 +1,5 @@
+7 8 darkness
+color 1 2 0
+mocha 2 1 1
+hoist 2 4 0
+stank 6 3 1

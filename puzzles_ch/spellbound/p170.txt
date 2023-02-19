@@ -1,0 +1,9 @@
+7 8 spellbound
+small 5 1 1
+suave 2 3 1
+navel 1 5 0
+email 2 7 0
+!spellbound 0 1 2
+!spellbound 1 0 1
+!spellbound 2 0 3
+!spellbound 3 3 1

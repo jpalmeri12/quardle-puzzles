@@ -1,0 +1,5 @@
+6 7
+obese 1 1 1
+bravo 1 2 0
+viral 4 2 1
+eclat 1 5 0

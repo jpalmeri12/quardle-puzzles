@@ -1,0 +1,6 @@
+7 10 island
+vixen 4 1 1
+whiff 2 2 0
+rhino 1 5 0
+opine 5 5 1
+!island 11111 1111 221 311

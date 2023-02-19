@@ -1,0 +1,5 @@
+7 9
+brawn 2 1 1
+width 2 4 0
+tower 5 4 1
+lover 1 8 0

@@ -1,0 +1,5 @@
+7 9 shiritori
+befit 2 1 0
+fever 4 1 1
+sheep 2 4 1
+churn 1 5 0

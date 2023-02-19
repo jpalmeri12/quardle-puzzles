@@ -1,0 +1,5 @@
+6 8
+cumin 4 1 1
+where 2 3 1
+chair 1 4 0
+death 1 7 0

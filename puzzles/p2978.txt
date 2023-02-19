@@ -1,0 +1,5 @@
+6 9
+smear 4 1 1
+booby 1 4 1
+bylaw 1 4 0
+young 1 8 0

@@ -1,0 +1,9 @@
+6 10 spellbound
+candy 5 1 1
+pinky 1 5 1
+perky 1 5 0
+kitty 1 8 0
+!spellbound 0 3 0
+!spellbound 1 2 1
+!spellbound 2 3 1
+!spellbound 3 1 2

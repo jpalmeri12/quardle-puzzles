@@ -1,0 +1,5 @@
+7 9
+attic 1 1 0
+inert 4 1 1
+elect 6 4 1
+until 2 5 0

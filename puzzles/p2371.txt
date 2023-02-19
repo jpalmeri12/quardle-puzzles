@@ -1,0 +1,5 @@
+7 8
+tasty 1 1 0
+tithe 4 1 1
+jetty 6 3 1
+cheat 2 5 0

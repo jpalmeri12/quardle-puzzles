@@ -1,0 +1,6 @@
+7 10 connectfive
+mocha 2 1 1
+angry 2 5 0
+ridge 5 5 1
+reedy 2 7 0
+gaffe 1 9 0

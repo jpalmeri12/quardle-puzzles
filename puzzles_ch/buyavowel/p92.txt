@@ -1,0 +1,5 @@
+6 10 buyavowel
+sushi 1 1 1
+scare 1 3 0
+incur 1 5 0
+conch 3 5 1

@@ -1,0 +1,5 @@
+7 10
+baggy 3 1 1
+syrup 2 5 0
+robin 4 5 1
+booby 1 7 0

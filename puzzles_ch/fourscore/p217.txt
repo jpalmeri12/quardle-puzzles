@@ -1,0 +1,5 @@
+7 8 fourscore
+haste 2 1 1
+scare 2 3 0
+retch 5 3 1
+patch 1 7 0

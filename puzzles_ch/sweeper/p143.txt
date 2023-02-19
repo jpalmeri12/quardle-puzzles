@@ -1,0 +1,5 @@
+7 9 sweeper
+borax 2 1 1
+artsy 2 4 0
+spear 5 4 1
+mania 1 7 0

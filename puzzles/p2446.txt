@@ -1,0 +1,5 @@
+6 7
+abase 1 1 1
+berry 1 2 0
+river 3 2 1
+savor 1 4 0

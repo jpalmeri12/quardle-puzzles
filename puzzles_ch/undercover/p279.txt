@@ -1,0 +1,6 @@
+7 11 undercover
+grass 2 1 1
+craze 1 2 0
+elect 5 4 1
+sally 2 5 0
+humph 1 10 0

@@ -1,0 +1,5 @@
+7 8
+blast 4 1 1
+jolly 1 2 0
+spoke 6 3 1
+ditto 2 5 0

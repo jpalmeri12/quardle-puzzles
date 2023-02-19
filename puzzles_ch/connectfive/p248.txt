@@ -1,0 +1,6 @@
+7 12 connectfive
+mayor 2 1 1
+kebab 5 4 1
+irate 1 5 0
+lusty 3 7 1
+jumbo 2 8 0

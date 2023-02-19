@@ -1,0 +1,6 @@
+7 9 commonsecret
+focal 2 1 1
+optic 2 2 0
+cavil 1 4 0
+leach 5 4 1
+!secret c

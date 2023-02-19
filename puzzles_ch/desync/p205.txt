@@ -1,0 +1,5 @@
+7 9 desync
+pound 5 1 1
+spunk 2 4 0
+sappy 2 4 1
+apart 1 7 0

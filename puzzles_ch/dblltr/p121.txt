@@ -1,0 +1,5 @@
+7 9 dblltr
+aware 2 1 0
+reedy 5 1 1
+arbor 3 4 1
+merry 1 5 0

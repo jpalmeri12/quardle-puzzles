@@ -1,0 +1,5 @@
+7 9 spin
+trice 2 1 1
+meaty 5 4 1
+weave 1 5 0
+baste 2 7 0

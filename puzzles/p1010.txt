@@ -1,0 +1,5 @@
+7 8
+hater 1 1 0
+elder 4 1 1
+paddy 2 3 0
+probe 2 3 1

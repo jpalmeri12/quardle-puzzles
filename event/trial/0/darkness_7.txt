@@ -1,0 +1,5 @@
+7 8 darkness
+stand 1 7 0
+rehab 2 3 0
+hymen 4 3 1
+imbue 6 1 1

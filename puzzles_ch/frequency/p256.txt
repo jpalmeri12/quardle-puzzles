@@ -1,0 +1,5 @@
+7 10 frequency
+plume 5 1 1
+bathe 1 5 0
+humus 4 5 1
+lemon 2 7 0

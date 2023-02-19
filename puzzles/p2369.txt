@@ -1,0 +1,5 @@
+7 7
+baton 1 1 1
+caddy 3 2 1
+thank 1 3 0
+lyric 2 6 0

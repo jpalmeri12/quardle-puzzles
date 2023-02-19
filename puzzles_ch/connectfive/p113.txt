@@ -1,0 +1,6 @@
+7 10 connectfive
+loser 1 1 1
+limbo 3 2 1
+shift 1 3 0
+edict 5 5 1
+rowdy 2 6 0

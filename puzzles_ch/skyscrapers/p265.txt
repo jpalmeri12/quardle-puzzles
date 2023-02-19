@@ -1,0 +1,5 @@
+7 8 skyscrapers
+rodeo 5 3 1
+overt 2 3 0
+froth 2 1 1
+child 1 5 0

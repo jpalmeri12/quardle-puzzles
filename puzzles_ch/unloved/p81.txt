@@ -1,0 +1,5 @@
+7 10 unloved
+query 5 1 1
+issue 2 2 0
+taffy 1 5 0
+fewer 3 5 1

@@ -1,0 +1,5 @@
+6 10 dblltr
+hitch 4 1 1
+sushi 1 5 0
+spoon 3 5 1
+trout 1 8 0

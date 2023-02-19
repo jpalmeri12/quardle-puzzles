@@ -1,0 +1,5 @@
+7 9 unloved
+agent 5 1 1
+ashen 1 4 0
+sappy 2 4 1
+yacht 2 8 0

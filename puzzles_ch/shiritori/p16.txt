@@ -1,0 +1,5 @@
+7 9 shiritori
+icing 4 1 1
+uncle 2 2 0
+rower 1 4 1
+omega 1 5 0

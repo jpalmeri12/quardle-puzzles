@@ -1,0 +1,5 @@
+7 10 outoforder
+brake 4 1 1
+shrug 2 2 0
+cagey 1 5 0
+gawky 3 5 1

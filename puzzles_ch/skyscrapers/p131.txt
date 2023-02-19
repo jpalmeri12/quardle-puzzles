@@ -1,0 +1,5 @@
+7 8 skyscrapers
+slope 2 1 1
+spilt 1 4 0
+stunt 5 3 1
+study 2 1 0

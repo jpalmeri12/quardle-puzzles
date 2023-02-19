@@ -1,0 +1,5 @@
+7 9 darkness
+aside 4 4 1
+slosh 2 1 0
+slurp 2 1 1
+break 1 4 0

@@ -1,0 +1,5 @@
+7 9 darkness
+bayou 1 2 0
+cocoa 2 5 0
+scone 2 4 1
+turbo 5 1 1

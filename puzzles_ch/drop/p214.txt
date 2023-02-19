@@ -1,0 +1,6 @@
+7 11 drop
+manga 2 1 1
+hunky 5 4 1
+aloud 2 5 0
+beefy 1 8 0
+gayly 1 10 0

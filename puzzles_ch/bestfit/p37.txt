@@ -1,0 +1,5 @@
+7 9 bestfit
+allot 4 1 1
+whelp 1 2 0
+torch 2 4 1
+trove 2 4 0

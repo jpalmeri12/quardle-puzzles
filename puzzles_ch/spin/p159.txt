@@ -1,0 +1,5 @@
+7 9 spin
+freak 2 1 0
+award 5 1 1
+ninth 3 4 1
+shied 1 5 0

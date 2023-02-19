@@ -1,0 +1,6 @@
+6 12 drop
+below 1 1 1
+every 1 2 0
+waive 1 5 0
+artsy 2 5 1
+siege 1 11 0

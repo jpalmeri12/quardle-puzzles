@@ -1,0 +1,7 @@
+7 10 secretdistance
+booth 4 1 1
+wheel 2 3 1
+white 1 4 0
+leery 2 7 0
+ankle 1 9 0
+!sdpos 0 1 1 0

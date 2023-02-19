@@ -1,0 +1,5 @@
+7 7 bestfit
+debug 6 1 1
+prism 2 2 1
+poise 2 2 0
+small 1 6 0

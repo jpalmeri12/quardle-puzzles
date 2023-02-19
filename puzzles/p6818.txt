@@ -1,0 +1,5 @@
+7 9
+scaly 5 1 1
+prick 2 2 0
+gloss 2 4 1
+slyly 1 5 0

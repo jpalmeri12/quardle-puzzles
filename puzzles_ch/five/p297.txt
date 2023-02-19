@@ -1,0 +1,6 @@
+6 10 five
+synod 1 1 1
+youth 1 2 0
+dirge 1 5 0
+inane 2 5 1
+gravy 4 5 1

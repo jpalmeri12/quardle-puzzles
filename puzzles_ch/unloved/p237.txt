@@ -1,0 +1,5 @@
+7 9 unloved
+evade 6 1 1
+anode 4 4 1
+dunce 2 5 0
+oxide 1 7 0

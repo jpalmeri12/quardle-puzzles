@@ -1,0 +1,5 @@
+6 8 buyavowel
+slept 1 1 1
+score 4 3 1
+peach 1 4 0
+creep 1 7 0

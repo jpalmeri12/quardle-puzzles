@@ -1,0 +1,5 @@
+7 9 fourscore
+shale 5 1 1
+civic 3 4 1
+liken 2 5 0
+stilt 1 7 0

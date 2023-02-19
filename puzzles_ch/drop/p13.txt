@@ -1,0 +1,6 @@
+7 12 drop
+spoil 2 1 1
+owner 2 3 0
+clank 1 5 0
+atone 3 5 1
+spank 1 11 0

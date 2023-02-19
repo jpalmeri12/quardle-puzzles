@@ -1,0 +1,6 @@
+7 10 commonsecret
+macro 5 1 1
+abbot 2 5 0
+alter 2 5 1
+great 1 9 0
+!secret a

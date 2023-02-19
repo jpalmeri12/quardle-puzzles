@@ -1,0 +1,5 @@
+6 8
+parer 1 1 0
+ester 4 1 1
+glaze 2 3 1
+fleet 1 4 0

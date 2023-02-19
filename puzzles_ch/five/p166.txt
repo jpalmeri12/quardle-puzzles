@@ -1,0 +1,6 @@
+6 9 five
+fussy 1 1 1
+usual 1 2 0
+utile 3 2 1
+snide 1 4 0
+ember 5 4 1

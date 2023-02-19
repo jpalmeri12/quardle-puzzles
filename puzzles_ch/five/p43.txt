@@ -1,0 +1,6 @@
+7 10 five
+sleet 5 1 1
+prove 1 3 0
+broth 2 5 0
+hutch 6 5 1
+reach 2 9 0

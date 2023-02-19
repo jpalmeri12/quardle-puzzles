@@ -1,0 +1,5 @@
+7 9
+notch 2 1 1
+scent 1 4 0
+toxin 5 4 1
+magic 2 7 0

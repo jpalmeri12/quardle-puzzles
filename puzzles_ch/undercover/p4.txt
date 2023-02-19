@@ -1,0 +1,6 @@
+7 10 undercover
+crowd 6 1 1
+haven 2 3 1
+allow 2 4 0
+enter 1 7 0
+gummy 1 9 0

@@ -1,0 +1,9 @@
+6 8 beforeafter
+tribe 1 1 1
+tying 1 1 0
+boost 3 3 1
+booty 1 4 0
+!beforeafter 1 j
+!beforeafter 1 q
+!beforeafter 2 r
+!beforeafter 2 q

@@ -1,0 +1,5 @@
+6 8 swap
+ilngo 1 1 0
+gzaer 4 1 1
+rceap 2 3 1
+icder 1 4 0

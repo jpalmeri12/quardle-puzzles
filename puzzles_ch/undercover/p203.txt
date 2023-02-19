@@ -1,0 +1,6 @@
+7 11 undercover
+venom 1 1 1
+optic 1 4 0
+teeth 3 4 1
+verse 2 6 0
+gayly 1 10 0

@@ -1,0 +1,5 @@
+7 10
+trace 6 1 1
+style 2 5 0
+store 2 5 1
+boxer 1 7 0

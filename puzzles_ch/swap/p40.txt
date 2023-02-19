@@ -1,0 +1,5 @@
+7 8 swap
+batyt 2 1 1
+stign 1 3 0
+gylph 4 3 1
+sohok 2 7 0

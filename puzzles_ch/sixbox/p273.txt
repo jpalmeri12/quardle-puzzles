@@ -1,0 +1,7 @@
+8 8 sixbox
+scene 3 1 1
+spelt 5 1 1
+liege 1 3 0
+gypsy 4 3 1
+nylon 3 4 0
+swept 1 5 0

@@ -1,0 +1,5 @@
+7 7
+fetal 4 1 1
+folly 2 2 1
+outer 2 3 0
+slyly 1 5 0

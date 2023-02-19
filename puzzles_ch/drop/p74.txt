@@ -1,0 +1,6 @@
+6 12 drop
+scent 1 1 0
+cheap 2 1 1
+speak 1 5 0
+krill 5 5 1
+scree 1 11 0

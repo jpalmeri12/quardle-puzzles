@@ -1,0 +1,5 @@
+7 9 frequency
+spoof 1 1 1
+rifle 4 4 1
+fluid 1 5 0
+color 2 7 0

@@ -1,0 +1,5 @@
+7 7 bestfit
+onset 5 1 1
+organ 1 2 0
+gayer 3 2 1
+testy 2 5 0

@@ -1,0 +1,5 @@
+6 10
+chime 2 1 1
+geeky 1 5 0
+entry 3 5 1
+foyer 1 9 0

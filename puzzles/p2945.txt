@@ -1,0 +1,5 @@
+7 9
+prism 3 1 1
+trait 2 2 0
+husky 1 4 0
+yearn 5 4 1

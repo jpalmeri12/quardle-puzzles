@@ -1,0 +1,5 @@
+7 9
+width 1 1 0
+drier 3 1 1
+befit 2 4 0
+trust 6 4 1

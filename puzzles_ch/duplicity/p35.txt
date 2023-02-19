@@ -1,0 +1,5 @@
+7 10 duplicity
+iliac 5 1 1
+axial 1 2 0
+lance 2 5 0
+annex 3 5 1

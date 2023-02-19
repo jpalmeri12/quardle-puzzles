@@ -1,0 +1,5 @@
+7 10
+smoky 2 1 0
+kneel 5 1 1
+drool 1 5 0
+otter 3 5 1

@@ -1,0 +1,5 @@
+7 7 skyscrapers
+titan 2 2 0
+twice 2 2 1
+genre 1 6 0
+endow 6 1 1

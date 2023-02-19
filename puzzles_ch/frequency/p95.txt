@@ -1,0 +1,5 @@
+6 10 frequency
+slash 2 1 1
+shell 1 5 0
+spawn 1 5 1
+navel 1 9 0

@@ -1,0 +1,5 @@
+7 10 shiritori
+mural 3 1 1
+thump 1 2 0
+plank 2 5 0
+agony 4 5 1

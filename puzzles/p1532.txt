@@ -1,0 +1,5 @@
+6 10
+grove 4 1 1
+tenet 1 5 0
+email 2 5 1
+sloop 1 9 0

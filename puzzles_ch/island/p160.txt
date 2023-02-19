@@ -1,0 +1,6 @@
+7 7 island
+tight 2 1 1
+foist 4 2 1
+gross 2 3 0
+stash 1 5 0
+!island 31 221 1111 211

@@ -1,0 +1,5 @@
+7 8 buyavowel
+pesky 1 1 0
+ethos 2 1 1
+haven 2 3 0
+vixen 4 3 1

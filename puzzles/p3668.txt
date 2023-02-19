@@ -1,0 +1,5 @@
+7 10
+extra 4 1 1
+vital 1 5 0
+large 5 5 1
+shore 2 7 0

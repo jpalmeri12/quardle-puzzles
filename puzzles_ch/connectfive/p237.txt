@@ -1,0 +1,6 @@
+7 10 connectfive
+demon 4 1 1
+wooer 6 2 1
+dense 2 5 0
+depth 2 5 1
+split 1 7 0

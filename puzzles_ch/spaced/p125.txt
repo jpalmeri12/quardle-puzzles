@@ -1,0 +1,5 @@
+7 9 spaced
+large 4 1 1
+heart 2 2 0
+cargo 1 4 0
+aping 2 4 1

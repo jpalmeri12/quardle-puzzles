@@ -1,0 +1,7 @@
+7 12 secretdistance
+udder 2 1 1
+dough 2 2 0
+grown 1 5 0
+gloat 1 5 1
+aloud 1 11 0
+!sdpos 0 1 0 1

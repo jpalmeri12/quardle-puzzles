@@ -1,0 +1,5 @@
+7 10
+troll 2 1 1
+oddly 2 3 0
+alien 1 5 0
+idler 3 5 1

@@ -1,0 +1,5 @@
+7 8
+gleam 2 1 1
+booze 4 3 1
+avoid 2 4 0
+outer 1 7 0

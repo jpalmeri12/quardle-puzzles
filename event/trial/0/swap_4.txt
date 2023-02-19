@@ -1,0 +1,5 @@
+7 8 swap
+leumr 1 1 0
+relam 5 1 1
+myabe 3 3 1
+laomy 2 5 0

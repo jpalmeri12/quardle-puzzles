@@ -1,0 +1,5 @@
+7 10 sweeper
+dress 1 1 1
+swish 1 5 0
+willy 2 5 1
+login 2 7 0

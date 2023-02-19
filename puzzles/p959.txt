@@ -1,0 +1,5 @@
+7 10
+flint 3 1 1
+stale 2 5 0
+adopt 4 5 1
+minor 1 7 0

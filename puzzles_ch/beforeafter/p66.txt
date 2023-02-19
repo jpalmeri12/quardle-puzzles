@@ -1,0 +1,9 @@
+6 8 beforeafter
+gamut 1 1 1
+major 1 3 0
+joust 3 3 1
+truck 1 5 0
+!beforeafter 2 n
+!beforeafter 2 n
+!beforeafter 1 r
+!beforeafter 2 m

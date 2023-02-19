@@ -1,0 +1,9 @@
+7 7 spellbound
+lying 3 1 1
+whirl 5 2 1
+smith 1 3 0
+agora 2 5 0
+!spellbound 0 0 3
+!spellbound 1 0 4
+!spellbound 2 1 0
+!spellbound 3 2 4

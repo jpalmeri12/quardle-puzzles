@@ -1,0 +1,5 @@
+6 7 unloved
+radii 2 1 1
+cacti 1 2 0
+igloo 5 2 1
+lingo 1 5 0

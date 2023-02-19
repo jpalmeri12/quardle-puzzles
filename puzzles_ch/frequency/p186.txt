@@ -1,0 +1,5 @@
+6 9 frequency
+dowdy 4 1 1
+oxide 1 4 0
+outgo 1 4 1
+obese 1 8 0

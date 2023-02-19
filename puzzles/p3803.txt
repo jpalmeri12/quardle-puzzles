@@ -1,0 +1,5 @@
+7 10
+tamer 2 1 1
+ridge 2 5 0
+detox 4 5 1
+scion 1 8 0

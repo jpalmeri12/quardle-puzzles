@@ -1,0 +1,5 @@
+6 9
+worst 1 1 1
+offal 1 2 0
+sower 4 4 1
+tenor 1 5 0

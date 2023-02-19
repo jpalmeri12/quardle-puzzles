@@ -1,0 +1,5 @@
+7 10 fourscore
+argue 4 1 1
+gavel 1 5 0
+alarm 2 5 1
+apply 2 7 0

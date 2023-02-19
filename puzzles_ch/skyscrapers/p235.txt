@@ -1,0 +1,5 @@
+7 10 skyscrapers
+unset 2 5 0
+sissy 4 5 1
+flush 1 7 0
+deign 3 1 1

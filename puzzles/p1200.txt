@@ -1,0 +1,5 @@
+7 10
+jazzy 1 1 1
+young 1 5 0
+grasp 5 5 1
+torso 2 8 0

@@ -1,0 +1,5 @@
+7 9
+abode 2 1 1
+adult 1 4 0
+lasso 4 4 1
+onset 2 7 0

@@ -1,0 +1,5 @@
+7 8 soundscramble
+efira 6 1 1
+oftan 4 3 1
+sefar 2 4 0
+corny 1 7 0

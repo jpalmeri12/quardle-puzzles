@@ -1,0 +1,5 @@
+7 9
+flier 2 1 0
+easel 5 1 1
+tawny 1 4 1
+anvil 1 5 0

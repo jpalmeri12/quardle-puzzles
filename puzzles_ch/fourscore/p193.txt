@@ -1,0 +1,5 @@
+7 10 fourscore
+dying 2 1 1
+yearn 2 2 0
+agree 1 5 0
+avoid 1 5 1

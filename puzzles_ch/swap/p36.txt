@@ -1,0 +1,5 @@
+7 9 swap
+maity 4 1 1
+shatf 2 2 0
+beats 1 4 0
+erlax 2 4 1

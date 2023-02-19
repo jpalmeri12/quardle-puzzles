@@ -1,0 +1,5 @@
+6 7
+drone 4 1 1
+seedy 1 2 1
+snort 1 2 0
+dowel 1 5 0

@@ -1,0 +1,5 @@
+7 9 frequency
+field 4 1 1
+trick 2 4 1
+tilde 2 4 0
+scoff 1 7 0

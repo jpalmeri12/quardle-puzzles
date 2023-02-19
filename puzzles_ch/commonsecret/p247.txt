@@ -1,0 +1,6 @@
+7 8 commonsecret
+showy 6 1 1
+arose 4 3 1
+shrew 2 4 0
+poser 1 7 0
+!secret s

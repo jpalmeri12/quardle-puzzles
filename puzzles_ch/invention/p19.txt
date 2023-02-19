@@ -1,0 +1,5 @@
+6 9 invention
+enema 5 1 1
+shorn 1 2 0
+depth 3 4 1
+theta 1 5 0

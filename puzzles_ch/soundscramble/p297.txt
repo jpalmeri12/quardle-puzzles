@@ -1,0 +1,5 @@
+7 8 soundscramble
+miyor 5 1 1
+cigey 1 3 0
+grall 3 3 1
+tairi 2 5 0

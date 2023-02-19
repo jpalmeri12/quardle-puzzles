@@ -1,0 +1,5 @@
+6 9
+bread 1 1 0
+dunce 5 1 1
+havoc 1 4 0
+hardy 1 4 1

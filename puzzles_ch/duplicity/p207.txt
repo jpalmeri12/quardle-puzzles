@@ -1,0 +1,5 @@
+6 7 duplicity
+smile 2 1 1
+amiss 1 2 0
+siege 5 2 1
+algae 1 4 0

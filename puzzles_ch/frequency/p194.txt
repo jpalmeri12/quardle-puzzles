@@ -1,0 +1,5 @@
+6 9 frequency
+fishy 4 1 1
+input 1 4 1
+itchy 1 4 0
+unite 1 7 0

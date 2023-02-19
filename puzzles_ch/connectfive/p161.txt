@@ -1,0 +1,6 @@
+7 12 connectfive
+joist 6 1 1
+liner 3 4 1
+might 2 5 0
+kneed 1 7 1
+north 1 8 0

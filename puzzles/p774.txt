@@ -1,0 +1,5 @@
+7 9
+leapt 1 1 1
+pried 5 4 1
+taper 1 5 0
+steed 2 7 0

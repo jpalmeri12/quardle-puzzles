@@ -1,0 +1,5 @@
+6 9
+smoky 2 1 1
+skiff 1 4 0
+fauna 5 4 1
+clown 1 7 0

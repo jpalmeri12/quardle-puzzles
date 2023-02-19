@@ -1,0 +1,5 @@
+7 9 frequency
+macaw 1 1 0
+wring 5 1 1
+flyer 2 4 1
+lunge 2 5 0

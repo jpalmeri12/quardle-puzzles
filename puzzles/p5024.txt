@@ -1,0 +1,5 @@
+7 10
+risen 2 1 0
+inbox 3 1 1
+boxer 1 5 0
+block 1 5 1

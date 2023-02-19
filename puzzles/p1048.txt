@@ -1,0 +1,5 @@
+7 10
+fluff 2 1 1
+urine 2 3 0
+afire 1 5 0
+arise 1 5 1

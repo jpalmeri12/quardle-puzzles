@@ -1,0 +1,5 @@
+7 7 dblltr
+tarot 2 1 1
+karma 1 2 0
+motor 4 2 1
+tooth 2 5 0

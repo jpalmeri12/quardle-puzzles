@@ -1,0 +1,9 @@
+7 8 beforeafter
+metro 4 1 1
+bless 2 3 1
+demon 1 5 0
+spiel 2 7 0
+!beforeafter 1 n
+!beforeafter 2 m
+!beforeafter 1 k
+!beforeafter 1 n

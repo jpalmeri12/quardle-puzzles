@@ -1,0 +1,5 @@
+7 8
+sleek 6 1 1
+swath 2 3 1
+scone 2 3 0
+shame 1 7 0

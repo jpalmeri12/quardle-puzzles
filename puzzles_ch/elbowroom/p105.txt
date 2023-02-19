@@ -1,0 +1,5 @@
+6 9 elbowroom
+cocoa 2 1 1
+godly 1 2 0
+cobra 1 4 0
+adult 5 4 1

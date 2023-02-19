@@ -1,0 +1,9 @@
+6 10 spellbound
+route 2 1 1
+donut 1 2 0
+leach 1 5 0
+after 3 5 1
+!spellbound 0 3 0
+!spellbound 1 4 2
+!spellbound 2 4 0
+!spellbound 3 3 2

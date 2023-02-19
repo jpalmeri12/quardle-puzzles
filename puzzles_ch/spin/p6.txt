@@ -1,0 +1,5 @@
+7 10 spin
+exalt 1 1 0
+trump 5 1 1
+trope 2 5 0
+relax 3 5 1

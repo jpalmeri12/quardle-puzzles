@@ -1,0 +1,5 @@
+6 10
+lease 2 1 1
+delay 1 2 0
+zesty 1 5 0
+sober 3 5 1

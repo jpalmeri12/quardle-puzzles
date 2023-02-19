@@ -1,0 +1,5 @@
+7 10
+reset 2 1 1
+shoot 2 3 0
+strut 1 5 0
+tardy 5 5 1

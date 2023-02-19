@@ -1,0 +1,5 @@
+7 10
+judge 5 1 1
+mover 2 5 0
+voila 4 5 1
+slain 1 7 0

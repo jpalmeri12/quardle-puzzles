@@ -1,0 +1,5 @@
+7 8 dblltr
+cycle 4 1 1
+crock 1 3 0
+renew 2 3 1
+witty 2 7 0

@@ -1,0 +1,6 @@
+7 10 commonsecret
+tapir 6 1 1
+finer 2 5 0
+fetid 2 5 1
+stair 1 7 0
+!secret i

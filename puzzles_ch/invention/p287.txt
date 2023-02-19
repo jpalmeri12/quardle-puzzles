@@ -1,0 +1,5 @@
+7 10 invention
+stamp 2 1 1
+pique 2 5 0
+quark 4 5 1
+shore 1 8 0

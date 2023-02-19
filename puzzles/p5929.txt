@@ -1,0 +1,5 @@
+7 9
+bluff 5 1 1
+vault 2 2 0
+hello 3 4 1
+shelf 1 5 0

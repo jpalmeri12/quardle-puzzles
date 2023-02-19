@@ -1,0 +1,5 @@
+7 9 hardmode
+nurse 4 1 1
+abuse 1 4 0
+banal 2 4 1
+abode 2 7 0

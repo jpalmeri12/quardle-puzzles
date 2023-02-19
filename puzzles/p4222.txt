@@ -1,0 +1,5 @@
+7 9
+skiff 4 1 1
+leaky 1 2 0
+mafia 2 4 0
+angle 6 4 1

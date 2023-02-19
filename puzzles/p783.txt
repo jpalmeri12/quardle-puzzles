@@ -1,0 +1,5 @@
+7 10
+stall 1 1 1
+lorry 1 5 0
+refit 3 5 1
+afoul 2 7 0

@@ -1,0 +1,5 @@
+7 9 soundscramble
+traed 6 1 1
+ibbot 2 4 1
+brind 2 5 0
+stang 1 8 0

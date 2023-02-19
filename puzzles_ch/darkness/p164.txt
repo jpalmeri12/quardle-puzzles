@@ -1,0 +1,5 @@
+7 9 darkness
+noble 5 4 1
+straw 2 1 0
+scare 2 1 1
+drown 1 4 0

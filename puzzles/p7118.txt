@@ -1,0 +1,5 @@
+7 9
+slack 4 1 1
+apart 2 4 1
+poker 2 5 0
+wrack 1 7 0

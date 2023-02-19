@@ -1,0 +1,5 @@
+7 9
+hovel 3 1 1
+still 5 4 1
+unlit 1 5 0
+scaly 2 8 0

@@ -1,0 +1,7 @@
+8 8 sixbox
+phase 3 1 1
+octet 5 1 1
+least 1 3 0
+smart 4 3 1
+smear 3 4 0
+great 1 5 0

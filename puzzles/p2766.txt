@@ -1,0 +1,5 @@
+7 8
+spool 4 1 1
+agape 1 2 0
+chord 6 3 1
+tooth 2 4 0

@@ -1,0 +1,5 @@
+7 10
+dairy 3 1 1
+shall 1 2 0
+nymph 2 5 0
+peace 5 5 1

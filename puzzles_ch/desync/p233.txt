@@ -1,0 +1,5 @@
+7 8 desync
+admit 1 1 0
+draft 2 1 1
+plead 5 3 1
+totem 2 5 0

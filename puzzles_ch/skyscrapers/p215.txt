@@ -1,0 +1,5 @@
+7 9 skyscrapers
+trait 6 4 1
+maker 2 5 0
+blink 4 1 1
+lowly 1 2 0

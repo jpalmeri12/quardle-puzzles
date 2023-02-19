@@ -1,0 +1,6 @@
+7 11 undercover
+guppy 5 1 1
+adapt 2 4 0
+druid 3 4 1
+twice 1 7 0
+slosh 1 10 0

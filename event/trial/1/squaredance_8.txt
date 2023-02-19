@@ -1,0 +1,6 @@
+6 8 squaredance
+blind 1 1 1
+trove 5 1 1
+boost 1 1 0
+drape 1 5 0
+parka 1 7 0

@@ -1,0 +1,5 @@
+6 9 hardmode
+state 5 1 1
+graft 1 2 0
+quart 1 4 0
+aglow 3 4 1

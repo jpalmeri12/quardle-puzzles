@@ -1,0 +1,5 @@
+7 8
+pivot 3 1 1
+whiff 1 2 0
+dance 6 3 1
+stein 2 5 0

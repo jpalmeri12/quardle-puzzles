@@ -1,0 +1,5 @@
+7 10
+flail 4 1 1
+manly 1 5 0
+adopt 2 5 1
+oxide 2 7 0

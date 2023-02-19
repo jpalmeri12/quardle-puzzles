@@ -1,0 +1,5 @@
+6 9
+borne 1 1 0
+extra 5 1 1
+rower 1 4 0
+octet 2 4 1

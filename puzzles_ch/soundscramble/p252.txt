@@ -1,0 +1,5 @@
+6 8 soundscramble
+driss 1 1 1
+deodi 1 1 0
+troop 4 3 1
+sceon 1 5 0

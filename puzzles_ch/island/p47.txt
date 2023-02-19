@@ -1,0 +1,6 @@
+6 9 island
+manga 3 1 1
+ashen 1 4 1
+shalt 1 5 0
+eerie 1 7 0
+!island 211 32 2111 21

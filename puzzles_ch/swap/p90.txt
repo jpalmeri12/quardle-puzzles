@@ -1,0 +1,5 @@
+7 7 swap
+abtty 3 1 1
+rbaid 2 2 0
+ifend 5 2 1
+matye 1 4 0

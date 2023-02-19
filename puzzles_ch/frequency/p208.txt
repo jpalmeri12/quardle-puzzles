@@ -1,0 +1,5 @@
+7 9 frequency
+cling 3 1 1
+plunk 2 2 0
+ninth 1 4 0
+happy 5 4 1

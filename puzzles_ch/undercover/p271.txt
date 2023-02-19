@@ -1,0 +1,6 @@
+7 10 undercover
+hutch 1 1 1
+stout 4 3 1
+catty 1 4 0
+spurt 2 6 0
+liege 1 9 0

@@ -1,0 +1,5 @@
+6 9
+wager 5 1 1
+girly 2 4 1
+timer 1 5 0
+hyena 1 8 0

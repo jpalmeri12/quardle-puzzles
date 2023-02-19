@@ -1,0 +1,5 @@
+6 10 shiritori
+crisp 3 1 1
+burst 1 2 0
+lapel 1 5 0
+antic 2 5 1

@@ -1,0 +1,9 @@
+7 9 beforeafter
+rumba 1 1 1
+banjo 1 4 0
+jazzy 4 4 1
+dizzy 2 6 0
+!beforeafter 1 o
+!beforeafter 1 i
+!beforeafter 1 q
+!beforeafter 1 p

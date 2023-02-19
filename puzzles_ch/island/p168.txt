@@ -1,0 +1,6 @@
+7 9 island
+minus 1 1 1
+thing 5 4 1
+swash 1 5 0
+skunk 2 7 0
+!island 221 41 31 1111

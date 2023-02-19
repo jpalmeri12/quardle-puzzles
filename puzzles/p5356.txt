@@ -1,0 +1,5 @@
+6 7
+spine 5 1 1
+strip 1 2 0
+rugby 3 2 1
+vegan 1 4 0

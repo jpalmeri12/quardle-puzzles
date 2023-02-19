@@ -1,0 +1,5 @@
+6 9 spin
+still 5 1 1
+avian 3 4 1
+gavel 1 5 0
+gonad 1 8 0

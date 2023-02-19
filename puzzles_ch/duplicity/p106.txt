@@ -1,0 +1,5 @@
+7 9 duplicity
+syrup 5 1 1
+story 1 2 0
+setup 2 4 0
+error 3 4 1

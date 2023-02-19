@@ -1,0 +1,5 @@
+7 10 hardmode
+undue 3 1 1
+theta 1 5 0
+apnea 5 5 1
+slant 2 7 0

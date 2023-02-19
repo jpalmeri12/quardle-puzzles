@@ -1,0 +1,5 @@
+7 9 bestfit
+leaky 6 1 1
+basis 3 4 1
+hasty 2 5 0
+mushy 1 8 0

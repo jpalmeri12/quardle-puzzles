@@ -1,0 +1,6 @@
+7 9 drop
+while 1 1 0
+ideal 3 1 1
+party 6 2 1
+gazer 2 4 0
+chirp 1 8 0

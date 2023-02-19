@@ -1,0 +1,5 @@
+7 10
+lorry 5 1 1
+where 2 3 0
+biddy 1 5 0
+imply 2 5 1

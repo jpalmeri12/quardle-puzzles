@@ -1,0 +1,5 @@
+6 7
+kneel 4 1 1
+mount 1 2 0
+omega 2 2 1
+tenet 1 4 0

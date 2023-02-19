@@ -1,0 +1,8 @@
+6 8 twins
+stump 1 1 0
+tabby 1 3 0
+cloth 1 5 0
+first 1 7 0
+!twins 1 2
+!twins 0 4
+!twins 0 1

@@ -1,0 +1,5 @@
+7 8
+plaza 1 1 0
+avert 3 1 1
+happy 5 3 1
+broad 2 4 0

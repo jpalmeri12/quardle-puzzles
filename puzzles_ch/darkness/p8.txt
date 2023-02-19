@@ -1,0 +1,5 @@
+7 9 darkness
+rider 5 4 1
+condo 2 1 1
+idler 1 4 0
+slurp 2 8 0

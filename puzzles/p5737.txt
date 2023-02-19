@@ -1,0 +1,5 @@
+7 8
+elect 2 1 0
+extol 2 1 1
+deuce 5 3 1
+gouge 1 4 0

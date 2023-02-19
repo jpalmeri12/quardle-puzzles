@@ -1,0 +1,5 @@
+7 10 swap
+suacy 5 1 1
+cadyd 2 5 0
+anmie 3 5 1
+tgier 1 8 0

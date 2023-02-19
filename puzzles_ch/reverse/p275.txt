@@ -1,0 +1,5 @@
+7 9 reverse
+romut 4 1 1
+dnuom 2 4 0
+dwell 2 4 1
+blood 1 7 0

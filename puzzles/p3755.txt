@@ -1,0 +1,5 @@
+7 9
+tibia 2 1 1
+sloth 4 4 1
+dally 1 5 0
+totem 2 7 0

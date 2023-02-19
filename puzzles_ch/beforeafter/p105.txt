@@ -1,0 +1,9 @@
+6 7 beforeafter
+kneed 5 1 1
+acorn 1 2 0
+clout 2 2 1
+rouge 1 4 0
+!beforeafter 1 i
+!beforeafter 1 i
+!beforeafter 2 r
+!beforeafter 2 n

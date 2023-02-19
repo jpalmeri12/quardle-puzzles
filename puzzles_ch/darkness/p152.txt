@@ -1,0 +1,5 @@
+6 9 darkness
+aging 1 5 0
+aorta 1 1 1
+altar 1 1 0
+widow 3 4 1

@@ -1,0 +1,5 @@
+7 8 swap
+hsare 1 1 0
+alatr 3 1 1
+eavde 2 3 0
+ecase 6 3 1

@@ -1,0 +1,5 @@
+6 10
+cheap 4 1 1
+duchy 1 2 0
+dumpy 1 5 0
+utile 2 5 1

@@ -1,0 +1,6 @@
+6 8 squaredance
+whale 1 1 1
+tribe 5 1 1
+wrest 1 1 0
+elude 1 5 0
+stoic 1 7 0

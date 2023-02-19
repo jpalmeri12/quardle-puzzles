@@ -1,0 +1,5 @@
+7 9 outoforder
+flair 4 1 1
+wryly 1 2 0
+chard 6 4 1
+worth 2 5 0

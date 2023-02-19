@@ -1,0 +1,6 @@
+7 10 commonsecret
+scalp 1 1 0
+chasm 2 1 1
+manly 2 5 0
+aider 3 5 1
+!secret a

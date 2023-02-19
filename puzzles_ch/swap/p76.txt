@@ -1,0 +1,5 @@
+6 8 swap
+wrcek 1 1 1
+wovne 1 1 0
+scolw 5 3 1
+evitc 1 4 0

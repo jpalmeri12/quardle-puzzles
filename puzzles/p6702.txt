@@ -1,0 +1,5 @@
+7 9
+allay 2 1 0
+alike 5 1 1
+vapor 1 4 1
+amuse 1 5 0

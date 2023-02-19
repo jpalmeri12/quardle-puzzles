@@ -1,0 +1,5 @@
+7 9
+jazzy 2 1 0
+after 3 1 1
+geese 1 4 0
+gruff 1 4 1

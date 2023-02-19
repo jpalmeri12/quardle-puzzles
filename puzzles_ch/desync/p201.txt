@@ -1,0 +1,5 @@
+6 6 desync
+spear 1 1 1
+scrum 4 1 1
+perch 1 2 0
+annul 1 4 0

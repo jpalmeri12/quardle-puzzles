@@ -1,0 +1,5 @@
+7 10
+idiot 4 1 1
+toddy 2 2 0
+butte 1 5 0
+begat 1 5 1

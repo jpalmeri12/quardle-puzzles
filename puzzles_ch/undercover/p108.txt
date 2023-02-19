@@ -1,0 +1,6 @@
+7 12 undercover
+queen 3 1 1
+manor 1 5 0
+resin 5 5 1
+abase 2 7 0
+glyph 1 11 0

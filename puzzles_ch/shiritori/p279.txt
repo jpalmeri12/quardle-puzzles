@@ -1,0 +1,5 @@
+7 8 shiritori
+borne 5 1 1
+smart 2 3 0
+miner 3 3 1
+tense 1 5 0

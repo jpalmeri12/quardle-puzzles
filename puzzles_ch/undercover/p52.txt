@@ -1,0 +1,6 @@
+7 9 undercover
+crypt 1 1 1
+wedge 3 2 1
+paddy 1 4 0
+geese 2 6 0
+jumbo 1 8 0

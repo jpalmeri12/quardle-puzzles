@@ -1,0 +1,9 @@
+7 10 spellbound
+khaki 4 1 1
+duchy 1 2 0
+blimp 2 5 0
+maker 5 5 1
+!spellbound 0 3 2
+!spellbound 1 4 1
+!spellbound 2 0 4
+!spellbound 3 4 3

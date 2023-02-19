@@ -1,0 +1,5 @@
+7 8 buyavowel
+infer 6 1 1
+aloof 2 3 0
+outer 4 3 1
+woken 1 6 0

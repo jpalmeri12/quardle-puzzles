@@ -1,0 +1,5 @@
+7 10 duplicity
+meant 4 1 1
+lefty 1 5 0
+flume 3 5 1
+aunty 2 7 0

@@ -1,0 +1,7 @@
+7 12 secretdistance
+quota 2 1 1
+annoy 2 5 0
+offal 5 5 1
+knoll 1 9 0
+agree 1 11 0
+!sdpos 1 0 3 3

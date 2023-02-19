@@ -1,0 +1,5 @@
+7 9 skyscrapers
+regal 2 4 0
+geese 4 4 1
+deter 1 6 0
+gaily 6 1 1

@@ -1,0 +1,5 @@
+7 7
+aphid 2 1 1
+palsy 2 2 0
+ledge 4 2 1
+tilde 1 4 0

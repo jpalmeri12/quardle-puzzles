@@ -1,0 +1,6 @@
+6 8 island
+gayer 5 1 1
+sperm 1 3 1
+spray 1 3 0
+ether 1 5 0
+!island 221 311 2111 31

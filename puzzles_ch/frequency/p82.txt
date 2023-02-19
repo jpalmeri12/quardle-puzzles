@@ -1,0 +1,5 @@
+7 10 frequency
+flair 4 1 1
+vault 1 2 0
+jerky 2 5 0
+kneed 5 5 1

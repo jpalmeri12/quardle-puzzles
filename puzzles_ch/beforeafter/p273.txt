@@ -1,0 +1,9 @@
+7 9 beforeafter
+queen 3 1 1
+charm 5 4 1
+punch 1 5 0
+trump 2 8 0
+!beforeafter 1 o
+!beforeafter 2 i
+!beforeafter 2 m
+!beforeafter 2 q

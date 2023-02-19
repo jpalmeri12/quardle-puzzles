@@ -1,0 +1,5 @@
+6 9
+fried 3 1 1
+blend 1 4 0
+build 1 4 1
+lager 1 7 0

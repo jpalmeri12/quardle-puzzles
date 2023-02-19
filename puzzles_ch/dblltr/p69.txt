@@ -1,0 +1,5 @@
+7 10 dblltr
+erect 5 1 1
+tenet 1 5 0
+elite 4 5 1
+idiom 2 7 0

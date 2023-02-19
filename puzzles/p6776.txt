@@ -1,0 +1,5 @@
+6 7
+elope 4 1 1
+dolly 1 2 0
+onion 2 2 1
+hippo 1 4 0

@@ -1,0 +1,5 @@
+7 10
+blare 1 1 0
+agape 3 1 1
+verve 2 5 0
+valid 2 5 1

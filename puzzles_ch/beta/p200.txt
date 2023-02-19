@@ -1,0 +1,5 @@
+7 7 beta
+screw 4 1 1
+farce 1 2 0
+avail 2 2 1
+adept 2 4 0

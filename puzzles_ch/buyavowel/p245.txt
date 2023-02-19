@@ -1,0 +1,5 @@
+7 9 buyavowel
+index 5 1 1
+maple 1 4 0
+plate 3 4 1
+stank 2 7 0

@@ -1,0 +1,6 @@
+6 9 undercover
+adorn 5 1 1
+tried 1 2 0
+tilde 1 2 1
+lover 1 4 0
+hussy 1 8 0

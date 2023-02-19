@@ -1,0 +1,6 @@
+6 10 undercover
+scram 2 1 1
+vying 5 3 1
+sally 1 4 0
+along 1 7 0
+theft 1 9 0

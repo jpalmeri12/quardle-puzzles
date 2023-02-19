@@ -1,0 +1,5 @@
+6 6 sweeper
+spool 1 1 1
+angst 4 1 1
+plant 1 2 0
+obese 1 4 0

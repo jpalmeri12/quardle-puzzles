@@ -1,0 +1,5 @@
+7 8 sweeper
+adapt 4 1 1
+swung 2 3 1
+small 2 3 0
+quoth 1 5 0

@@ -1,0 +1,6 @@
+6 9 commonsecret
+globe 1 1 1
+lager 1 2 0
+blond 1 4 0
+devil 5 4 1
+!secret l

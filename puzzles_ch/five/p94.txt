@@ -1,0 +1,6 @@
+7 8 five
+pearl 2 1 0
+lowly 6 1 1
+widow 2 3 0
+dandy 4 3 1
+blade 1 6 0

@@ -1,0 +1,6 @@
+7 8 island
+stump 2 1 1
+query 5 3 1
+power 2 5 0
+gassy 1 7 0
+!island 11111 221 32 22

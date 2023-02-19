@@ -1,0 +1,6 @@
+6 12 drop
+bingo 1 1 1
+owner 1 5 0
+whelp 2 5 1
+beret 1 7 0
+sworn 1 11 0

@@ -1,0 +1,5 @@
+7 9
+phony 1 1 1
+nobly 1 4 0
+young 5 4 1
+paint 2 7 0

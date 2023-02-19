@@ -1,0 +1,8 @@
+6 8 twins
+force 1 1 0
+ester 1 3 0
+ladle 1 5 0
+tithe 1 7 0
+!twins 2 3
+!twins 0 3
+!twins 0 1

@@ -1,0 +1,5 @@
+7 9
+rival 3 1 1
+write 1 2 0
+frill 6 4 1
+flair 2 5 0

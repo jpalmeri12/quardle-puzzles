@@ -1,0 +1,5 @@
+6 9
+snake 2 1 1
+unfed 1 2 0
+skull 1 4 0
+lapse 4 4 1

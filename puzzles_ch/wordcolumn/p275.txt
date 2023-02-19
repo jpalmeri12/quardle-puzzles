@@ -1,0 +1,6 @@
+7 9 wordcolumn
+bacon 1 1 0
+carat 3 1 1
+yacht 2 4 0
+heart 5 4 1
+vomit 1 8 0

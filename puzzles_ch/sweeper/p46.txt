@@ -1,0 +1,5 @@
+7 9 sweeper
+aisle 1 1 0
+sewer 3 1 1
+glaze 5 4 1
+wryly 2 5 0

@@ -1,0 +1,5 @@
+7 10
+break 2 1 0
+elect 4 1 1
+elate 1 5 0
+egret 5 5 1

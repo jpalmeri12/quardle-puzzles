@@ -1,0 +1,5 @@
+7 9
+gorge 1 1 0
+offal 2 1 1
+radii 6 4 1
+larva 2 5 0

@@ -1,0 +1,5 @@
+7 10 scrabble
+terra 1 5 0
+reign 3 5 1
+power 4 1 1
+knock 2 9 0

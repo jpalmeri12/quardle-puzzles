@@ -1,0 +1,5 @@
+6 9 hardmode
+spill 5 1 1
+crimp 1 2 0
+tidal 1 4 0
+ideal 2 4 1

@@ -1,0 +1,5 @@
+6 7 desync
+fraud 4 1 1
+scarf 1 2 0
+creed 2 2 1
+setup 1 4 0

@@ -1,0 +1,6 @@
+6 10 five
+cinch 4 1 1
+watch 2 4 1
+bathe 1 5 0
+early 5 5 1
+wheel 1 8 0

@@ -1,0 +1,5 @@
+6 10 soundscramble
+samuc 3 1 1
+macas 1 5 0
+showy 5 5 1
+byluw 1 8 0

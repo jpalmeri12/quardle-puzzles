@@ -1,0 +1,5 @@
+7 8 darkness
+greet 3 1 1
+mauve 5 3 1
+racer 2 7 0
+dream 1 3 0

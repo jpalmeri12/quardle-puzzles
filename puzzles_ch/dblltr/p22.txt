@@ -1,0 +1,5 @@
+7 10 dblltr
+quell 2 1 1
+llama 2 5 0
+loyal 3 5 1
+shyly 1 7 0

@@ -1,0 +1,5 @@
+7 10
+bully 1 1 0
+liege 3 1 1
+tenet 2 5 0
+ninny 4 5 1

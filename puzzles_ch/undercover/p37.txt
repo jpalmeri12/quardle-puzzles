@@ -1,0 +1,6 @@
+6 12 undercover
+sepia 3 1 1
+crawl 1 5 0
+whose 4 5 1
+baron 1 7 0
+muddy 1 11 0

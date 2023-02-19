@@ -1,0 +1,6 @@
+7 10 five
+purse 2 1 1
+elegy 2 5 0
+lying 3 5 1
+glass 5 5 1
+china 1 7 0

@@ -1,0 +1,5 @@
+7 10
+tribe 3 1 1
+grief 2 2 0
+check 1 5 0
+cubic 1 5 1

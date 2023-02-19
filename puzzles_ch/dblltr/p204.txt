@@ -1,0 +1,5 @@
+7 10 dblltr
+roost 3 1 1
+swoop 1 3 0
+stiff 2 5 0
+stall 2 5 1

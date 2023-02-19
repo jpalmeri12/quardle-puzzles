@@ -1,0 +1,5 @@
+7 9 bestfit
+erupt 2 1 1
+pecan 2 4 0
+crush 4 4 1
+poise 1 7 0

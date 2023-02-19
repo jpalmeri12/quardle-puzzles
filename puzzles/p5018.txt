@@ -1,0 +1,5 @@
+7 10
+meant 3 1 1
+femme 2 2 0
+baton 1 5 0
+aging 2 5 1

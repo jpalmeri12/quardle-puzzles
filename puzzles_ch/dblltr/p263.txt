@@ -1,0 +1,5 @@
+7 8 dblltr
+dandy 6 1 1
+known 2 3 0
+ninja 3 3 1
+rajah 1 6 0

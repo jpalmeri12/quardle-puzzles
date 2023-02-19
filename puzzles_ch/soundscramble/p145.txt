@@ -1,0 +1,5 @@
+7 10 soundscramble
+cullo 2 1 1
+loesy 1 5 0
+shent 4 5 1
+utedu 2 7 0

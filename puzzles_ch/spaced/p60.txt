@@ -1,0 +1,5 @@
+7 7 spaced
+octal 2 1 1
+cower 2 2 0
+watch 4 2 1
+warty 1 4 0

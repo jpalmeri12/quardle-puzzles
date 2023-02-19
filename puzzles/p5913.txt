@@ -1,0 +1,5 @@
+6 10
+slash 1 1 0
+sleet 4 1 1
+smote 1 5 0
+ovary 3 5 1

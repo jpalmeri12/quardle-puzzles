@@ -1,0 +1,5 @@
+7 10 hardmode
+level 4 1 1
+speck 2 2 0
+slyly 1 5 0
+lunar 2 5 1

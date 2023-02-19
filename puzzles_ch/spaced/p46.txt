@@ -1,0 +1,5 @@
+7 9 spaced
+swamp 5 1 1
+prawn 2 2 0
+lunge 1 4 1
+unzip 1 5 0

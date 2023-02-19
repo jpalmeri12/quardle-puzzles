@@ -1,0 +1,5 @@
+6 8 bestfit
+uncut 1 1 1
+unwed 1 1 0
+cloud 1 3 0
+usher 4 3 1

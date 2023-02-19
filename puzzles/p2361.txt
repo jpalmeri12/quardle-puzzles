@@ -1,0 +1,5 @@
+7 10
+black 5 1 1
+clock 1 5 0
+opine 3 5 1
+petal 2 9 0

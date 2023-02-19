@@ -1,0 +1,5 @@
+7 10
+swish 6 1 1
+lynch 2 5 0
+cabby 5 5 1
+squib 1 8 0

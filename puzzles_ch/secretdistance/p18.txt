@@ -1,0 +1,7 @@
+7 11 secretdistance
+sepia 3 1 1
+leant 2 2 0
+onion 1 4 0
+nicer 5 4 1
+bough 1 10 0
+!sdpos 0 3 0 3

@@ -1,0 +1,5 @@
+6 9 buyavowel
+endow 2 1 1
+annoy 1 2 0
+rouse 1 4 0
+sauce 4 4 1

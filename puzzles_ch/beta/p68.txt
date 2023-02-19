@@ -1,0 +1,5 @@
+7 9 beta
+wield 4 1 1
+chick 2 2 0
+bugle 1 4 0
+usage 2 4 1

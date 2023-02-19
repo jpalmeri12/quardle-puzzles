@@ -1,0 +1,7 @@
+6 6 fourthwall
+onset 1 1 0
+optic 1 1 1
+tonal 1 3 0
+since 3 1 1
+cheap 1 5 0
+tulip 5 1 1

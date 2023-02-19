@@ -1,0 +1,5 @@
+7 10 fourscore
+sumac 1 1 1
+conch 1 5 0
+niece 3 5 1
+reach 2 7 0

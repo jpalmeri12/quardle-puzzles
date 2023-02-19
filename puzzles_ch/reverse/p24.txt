@@ -1,0 +1,5 @@
+7 10 reverse
+paler 4 1 1
+yllud 2 3 0
+scorn 1 5 0
+orcam 3 5 1

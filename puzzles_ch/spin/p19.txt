@@ -1,0 +1,5 @@
+7 9 spin
+smock 5 1 1
+daunt 3 4 1
+stark 1 5 0
+stole 2 8 0

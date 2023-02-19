@@ -1,0 +1,5 @@
+6 8 desync
+email 2 1 1
+whirl 5 3 1
+birth 1 4 0
+loyal 1 7 0

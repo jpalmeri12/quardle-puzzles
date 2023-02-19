@@ -1,0 +1,5 @@
+7 9
+grunt 5 1 1
+chain 1 4 0
+honor 2 4 1
+occur 2 7 0

@@ -1,0 +1,5 @@
+7 9
+slept 6 1 1
+biome 3 4 1
+tight 2 5 0
+speck 1 8 0

@@ -1,0 +1,5 @@
+6 8
+fatal 1 1 0
+local 5 1 1
+thief 2 3 1
+china 1 4 0

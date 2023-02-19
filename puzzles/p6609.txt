@@ -1,0 +1,5 @@
+6 9
+blurt 2 1 1
+cliff 1 2 0
+error 1 4 0
+risen 5 4 1

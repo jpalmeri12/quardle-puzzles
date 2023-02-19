@@ -1,0 +1,5 @@
+7 9
+theft 1 1 0
+holly 2 1 1
+lowly 2 4 0
+wagon 4 4 1

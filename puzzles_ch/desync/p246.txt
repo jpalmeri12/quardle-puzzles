@@ -1,0 +1,5 @@
+7 10 desync
+dummy 5 1 1
+lowly 1 5 0
+waive 3 5 1
+fella 2 9 0

@@ -1,0 +1,5 @@
+7 10
+plush 5 1 1
+would 2 2 0
+cough 1 5 0
+octal 2 5 1

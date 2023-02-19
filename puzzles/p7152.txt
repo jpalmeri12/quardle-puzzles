@@ -1,0 +1,5 @@
+7 10
+pubic 5 1 1
+winch 2 5 0
+nymph 4 5 1
+dumpy 1 8 0

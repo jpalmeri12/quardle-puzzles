@@ -1,0 +1,5 @@
+7 10 invention
+whale 2 1 1
+hussy 2 2 0
+hedge 1 5 0
+excel 5 5 1

@@ -1,0 +1,6 @@
+7 11 drop
+papal 3 1 1
+basis 2 2 0
+grape 1 4 0
+gauze 1 4 1
+lurid 1 10 0

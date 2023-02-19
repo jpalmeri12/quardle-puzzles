@@ -1,0 +1,5 @@
+7 9
+vague 5 1 1
+medal 3 4 1
+jewel 2 5 0
+belle 1 8 0

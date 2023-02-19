@@ -1,0 +1,7 @@
+7 11 secretdistance
+testy 2 1 0
+stoic 4 1 1
+swift 1 4 1
+welch 1 5 0
+onset 1 10 0
+!sdpos 0 0 1 3

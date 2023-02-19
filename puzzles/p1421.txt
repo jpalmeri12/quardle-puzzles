@@ -1,0 +1,5 @@
+7 9
+shove 1 1 1
+covey 4 4 1
+enjoy 1 5 0
+clerk 2 7 0

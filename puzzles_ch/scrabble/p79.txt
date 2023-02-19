@@ -1,0 +1,5 @@
+7 7 scrabble
+gusto 3 2 1
+ascot 2 4 0
+ghost 1 6 0
+party 6 1 1

@@ -1,0 +1,5 @@
+6 9 hardmode
+asset 1 1 0
+scrap 3 1 1
+blast 1 4 0
+taint 5 4 1

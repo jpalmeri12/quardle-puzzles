@@ -1,0 +1,5 @@
+7 9 invention
+salve 4 1 1
+today 1 2 0
+rover 2 4 0
+ruler 6 4 1

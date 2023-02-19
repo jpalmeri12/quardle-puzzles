@@ -1,0 +1,5 @@
+7 7 desync
+swing 2 1 1
+graft 5 2 1
+viper 1 3 0
+gruff 2 5 0

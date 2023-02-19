@@ -1,0 +1,5 @@
+7 10 frequency
+pound 5 1 1
+shady 2 5 0
+hinge 3 5 1
+funny 1 7 0

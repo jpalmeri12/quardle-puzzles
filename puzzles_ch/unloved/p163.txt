@@ -1,0 +1,5 @@
+7 10 unloved
+cress 1 1 1
+speak 1 5 0
+pouty 2 5 1
+unity 2 7 0

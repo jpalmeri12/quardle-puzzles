@@ -1,0 +1,6 @@
+6 8 squaredance
+sneer 1 1 1
+place 5 1 1
+sleep 1 1 0
+rouse 1 5 0
+where 1 7 0

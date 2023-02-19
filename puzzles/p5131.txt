@@ -1,0 +1,5 @@
+7 10
+stink 4 1 1
+maxim 1 3 0
+baker 2 5 0
+rotor 6 5 1

@@ -1,0 +1,5 @@
+7 9 invention
+awoke 4 1 1
+bowel 2 2 0
+smoke 1 4 0
+sunny 1 4 1

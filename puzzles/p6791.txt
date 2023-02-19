@@ -1,0 +1,5 @@
+7 9
+sober 4 1 1
+sloth 2 2 0
+unmet 1 4 0
+udder 1 4 1

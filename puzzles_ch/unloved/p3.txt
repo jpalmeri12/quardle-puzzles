@@ -1,0 +1,5 @@
+6 9 unloved
+snore 5 1 1
+risen 1 2 0
+steer 1 4 0
+erupt 3 4 1

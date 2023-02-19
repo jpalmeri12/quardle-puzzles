@@ -1,0 +1,5 @@
+7 8 skyscrapers
+venom 1 4 0
+smart 5 3 1
+aunty 2 7 0
+delve 1 1 1

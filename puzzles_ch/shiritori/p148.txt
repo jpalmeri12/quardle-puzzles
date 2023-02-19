@@ -1,0 +1,5 @@
+7 9 shiritori
+jiffy 1 1 0
+fungi 4 1 1
+macho 2 4 1
+alibi 2 5 0

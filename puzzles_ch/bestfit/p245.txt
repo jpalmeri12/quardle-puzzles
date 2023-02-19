@@ -1,0 +1,5 @@
+7 10 bestfit
+abyss 4 1 1
+tabby 1 2 0
+resin 2 5 0
+rarer 2 5 1

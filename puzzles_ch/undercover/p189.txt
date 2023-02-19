@@ -1,0 +1,6 @@
+6 11 undercover
+manic 3 1 1
+tryst 5 4 1
+decor 1 5 0
+crass 1 7 0
+fluff 1 10 0

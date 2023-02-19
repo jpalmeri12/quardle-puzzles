@@ -1,0 +1,5 @@
+7 10 sweeper
+glaze 2 1 1
+gloat 2 1 0
+devil 1 5 0
+viper 3 5 1

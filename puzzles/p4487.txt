@@ -1,0 +1,5 @@
+7 9
+troop 4 1 1
+berth 2 2 0
+credo 2 4 1
+gripe 1 5 0

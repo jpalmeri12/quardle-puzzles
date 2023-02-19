@@ -1,0 +1,5 @@
+6 7 reverse
+resin 2 1 1
+renif 1 2 0
+froze 5 2 1
+diovo 1 4 0

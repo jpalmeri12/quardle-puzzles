@@ -1,0 +1,5 @@
+7 10
+verge 2 1 1
+elite 2 5 0
+inert 4 5 1
+diver 1 7 0

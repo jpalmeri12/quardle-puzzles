@@ -1,0 +1,5 @@
+6 9
+fight 1 1 0
+heady 4 1 1
+moldy 1 4 0
+myrrh 1 4 1

@@ -1,0 +1,5 @@
+6 9 soundscramble
+gname 3 1 1
+junto 1 2 0
+mommo 1 4 0
+maist 1 4 1

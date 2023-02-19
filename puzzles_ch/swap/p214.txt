@@ -1,0 +1,5 @@
+7 10 swap
+pubci 5 1 1
+cynci 1 5 0
+nosoe 3 5 1
+feevr 2 9 0

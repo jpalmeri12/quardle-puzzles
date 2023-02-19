@@ -1,0 +1,5 @@
+7 10 outoforder
+spice 2 1 0
+cruel 5 1 1
+nasal 1 5 0
+needy 1 5 1

@@ -1,0 +1,5 @@
+7 9 reverse
+upset 5 1 1
+gummy 3 4 1
+knurt 1 5 0
+pmahc 2 7 0

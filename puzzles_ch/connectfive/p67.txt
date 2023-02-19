@@ -1,0 +1,6 @@
+7 10 connectfive
+minim 1 1 1
+inlay 1 2 0
+major 1 5 0
+armor 2 5 1
+maker 2 7 0

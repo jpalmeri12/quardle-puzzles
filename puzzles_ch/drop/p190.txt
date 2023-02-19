@@ -1,0 +1,6 @@
+7 10 drop
+posit 5 1 1
+arise 2 3 0
+acute 2 3 1
+duvet 1 5 0
+avail 1 9 0

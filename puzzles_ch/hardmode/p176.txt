@@ -1,0 +1,5 @@
+7 10 hardmode
+basis 6 1 1
+rebus 2 5 0
+unset 5 5 1
+tight 1 9 0

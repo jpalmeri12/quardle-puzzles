@@ -1,0 +1,5 @@
+7 9 desync
+beefy 6 1 1
+lupus 3 4 1
+curvy 2 5 0
+churn 1 7 0

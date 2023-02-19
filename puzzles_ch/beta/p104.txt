@@ -1,0 +1,5 @@
+7 9 beta
+safer 6 1 1
+heath 4 4 1
+sheer 2 5 0
+smote 1 7 0

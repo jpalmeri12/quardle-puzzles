@@ -1,0 +1,9 @@
+7 10 spellbound
+credo 2 1 1
+goofy 1 5 0
+flake 4 5 1
+lease 2 7 0
+!spellbound 0 0 1
+!spellbound 1 0 4
+!spellbound 2 1 4
+!spellbound 3 1 0

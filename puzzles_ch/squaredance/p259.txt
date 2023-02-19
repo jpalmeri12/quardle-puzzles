@@ -1,0 +1,6 @@
+6 8 squaredance
+welsh 1 1 1
+elite 5 1 1
+whose 1 1 0
+horse 1 5 0
+scald 1 7 0

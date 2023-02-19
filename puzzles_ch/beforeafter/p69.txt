@@ -1,0 +1,9 @@
+7 10 beforeafter
+noisy 6 1 1
+gassy 2 5 0
+stalk 4 5 1
+geeky 1 9 0
+!beforeafter 2 q
+!beforeafter 1 p
+!beforeafter 1 p
+!beforeafter 2 j

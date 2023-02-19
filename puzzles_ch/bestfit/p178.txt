@@ -1,0 +1,5 @@
+7 8 bestfit
+pinky 5 1 1
+hyper 3 3 1
+kayak 1 4 0
+wring 2 7 0

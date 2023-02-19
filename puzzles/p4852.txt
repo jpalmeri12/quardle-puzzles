@@ -1,0 +1,5 @@
+7 8
+dumpy 2 1 0
+udder 3 1 1
+snowy 5 3 1
+glean 1 4 0

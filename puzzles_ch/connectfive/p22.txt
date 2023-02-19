@@ -1,0 +1,6 @@
+7 10 connectfive
+masse 3 1 1
+level 5 1 1
+oaken 2 2 0
+kneel 1 5 0
+never 2 5 1

@@ -1,0 +1,9 @@
+7 9 spellbound
+khaki 4 1 1
+usher 2 4 1
+slick 2 5 0
+serve 1 7 0
+!spellbound 0 0 3
+!spellbound 1 2 0
+!spellbound 2 4 3
+!spellbound 3 0 4

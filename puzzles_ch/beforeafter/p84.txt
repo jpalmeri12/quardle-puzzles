@@ -1,0 +1,9 @@
+6 10 beforeafter
+beast 5 1 1
+trade 1 2 0
+alert 1 5 0
+rumba 4 5 1
+!beforeafter 2 k
+!beforeafter 1 p
+!beforeafter 2 m
+!beforeafter 1 o

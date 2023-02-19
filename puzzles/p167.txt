@@ -1,0 +1,5 @@
+7 10
+snuff 5 1 1
+trend 2 2 0
+motif 1 5 0
+offal 2 5 1

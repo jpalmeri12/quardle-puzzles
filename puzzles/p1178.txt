@@ -1,0 +1,5 @@
+7 8
+stony 4 1 1
+meaty 2 3 1
+ennui 2 4 0
+synod 1 7 0

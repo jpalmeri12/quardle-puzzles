@@ -1,0 +1,7 @@
+8 8 sixbox
+slate 3 1 1
+fetid 5 1 1
+enact 1 3 0
+chart 4 3 1
+thief 3 4 0
+knead 1 5 0

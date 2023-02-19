@@ -1,0 +1,5 @@
+7 9
+radio 3 1 1
+giant 2 4 0
+nurse 5 4 1
+revue 1 8 0

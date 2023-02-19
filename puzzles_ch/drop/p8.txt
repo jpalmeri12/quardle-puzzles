@@ -1,0 +1,6 @@
+6 12 drop
+aside 1 1 0
+swami 2 1 1
+first 1 5 0
+frisk 1 5 1
+afire 1 11 0

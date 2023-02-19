@@ -1,0 +1,5 @@
+7 7
+spunk 2 1 1
+spill 1 2 0
+lucid 4 2 1
+krill 2 5 0

@@ -1,0 +1,6 @@
+7 11 undercover
+cargo 2 1 1
+emcee 4 4 1
+roomy 1 5 0
+swept 2 8 0
+fluff 1 10 0

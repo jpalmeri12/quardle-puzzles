@@ -1,0 +1,5 @@
+6 6 outoforder
+octet 1 1 1
+rider 4 1 1
+civic 1 2 0
+eaten 1 4 0

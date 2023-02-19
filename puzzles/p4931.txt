@@ -1,0 +1,5 @@
+7 10
+salty 2 1 0
+libel 4 1 1
+rally 1 5 0
+rinse 1 5 1

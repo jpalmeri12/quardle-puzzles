@@ -1,0 +1,7 @@
+6 11 secretdistance
+awful 1 1 1
+stock 4 4 1
+latte 1 5 0
+disco 1 7 0
+scoff 1 10 0
+!sdpos 3 2 2 2

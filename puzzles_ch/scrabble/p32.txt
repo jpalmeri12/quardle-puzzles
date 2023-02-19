@@ -1,0 +1,5 @@
+7 10 scrabble
+learn 2 5 0
+llama 1 8 0
+chase 3 1 1
+lowly 2 5 1

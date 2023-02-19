@@ -1,0 +1,5 @@
+7 10
+drawn 5 1 1
+field 2 5 1
+flunk 2 5 0
+flack 1 8 0

@@ -1,0 +1,5 @@
+7 9 outoforder
+stash 2 1 1
+attic 1 2 0
+slush 2 4 0
+hater 6 4 1

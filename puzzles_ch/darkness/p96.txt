@@ -1,0 +1,5 @@
+6 10 darkness
+scold 1 5 0
+knoll 1 2 0
+lefty 4 5 1
+antic 2 1 1

@@ -1,0 +1,6 @@
+6 8 squaredance
+reach 1 1 1
+dusky 5 1 1
+rabid 1 1 0
+hardy 1 5 0
+sport 1 7 0

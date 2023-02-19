@@ -1,0 +1,5 @@
+7 9
+spasm 6 1 1
+bland 2 4 1
+basis 2 4 0
+inert 1 7 0

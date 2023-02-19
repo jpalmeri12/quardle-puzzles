@@ -1,0 +1,5 @@
+6 10 sweeper
+outgo 4 1 1
+queue 1 2 0
+month 1 5 1
+melon 1 5 0

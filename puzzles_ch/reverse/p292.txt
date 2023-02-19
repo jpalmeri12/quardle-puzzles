@@ -1,0 +1,5 @@
+7 10 reverse
+brown 1 1 0
+noose 5 1 1
+hcaer 2 5 0
+hcaet 2 5 1

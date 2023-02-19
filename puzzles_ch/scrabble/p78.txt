@@ -1,0 +1,5 @@
+7 9 scrabble
+inlet 2 6 0
+naive 1 1 1
+verve 1 4 0
+eject 5 4 1

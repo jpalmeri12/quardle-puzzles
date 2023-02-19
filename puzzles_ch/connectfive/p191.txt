@@ -1,0 +1,6 @@
+6 10 connectfive
+ruder 5 1 1
+grain 2 2 1
+nicer 1 5 0
+ember 4 5 1
+fiery 1 9 0

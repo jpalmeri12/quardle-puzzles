@@ -1,0 +1,6 @@
+7 9 wordcolumn
+cache 6 1 1
+cycle 2 2 1
+cough 2 4 0
+union 4 4 1
+wring 1 8 0

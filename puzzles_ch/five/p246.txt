@@ -1,0 +1,6 @@
+7 10 five
+piety 2 1 1
+tract 5 4 1
+hyper 1 5 0
+patsy 3 5 1
+stuck 2 7 0

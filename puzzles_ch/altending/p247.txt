@@ -1,0 +1,5 @@
+6 9 altending
+stock 1 1 0
+shade 1 3 0
+cruel 1 5 0
+dowdy 1 7 0

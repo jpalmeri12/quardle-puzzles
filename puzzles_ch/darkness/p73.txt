@@ -1,0 +1,5 @@
+7 10 darkness
+agate 2 8 0
+glaze 2 1 1
+deign 3 5 1
+wedge 1 5 0

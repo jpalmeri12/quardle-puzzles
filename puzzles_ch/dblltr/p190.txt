@@ -1,0 +1,5 @@
+6 9 dblltr
+cease 4 1 1
+sewer 1 2 0
+smash 1 4 0
+stout 1 4 1

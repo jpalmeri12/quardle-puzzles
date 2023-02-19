@@ -1,0 +1,5 @@
+7 10
+blast 3 1 1
+catch 2 3 0
+lathe 1 5 0
+ardor 2 5 1

@@ -1,0 +1,5 @@
+6 9
+taboo 1 1 0
+opium 4 1 1
+recut 1 4 0
+rusty 1 4 1

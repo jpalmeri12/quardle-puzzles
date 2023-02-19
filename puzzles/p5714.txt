@@ -1,0 +1,5 @@
+7 9
+flint 6 1 1
+crump 2 4 1
+robot 2 5 0
+ample 1 7 0

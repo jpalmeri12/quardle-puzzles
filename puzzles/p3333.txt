@@ -1,0 +1,5 @@
+7 7
+mason 4 1 1
+stilt 2 2 1
+staff 2 2 0
+bigot 1 4 0

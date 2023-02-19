@@ -1,0 +1,6 @@
+6 10 five
+grand 1 1 0
+rabid 2 1 1
+dimly 5 1 1
+oddly 1 5 0
+login 4 5 1

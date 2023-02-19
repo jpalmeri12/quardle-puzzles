@@ -1,0 +1,5 @@
+7 10 clockdown
+evoke 1 1 0
+kneed 4 1 1
+older 2 5 0
+lease 3 5 1

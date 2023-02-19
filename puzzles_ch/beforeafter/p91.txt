@@ -1,0 +1,9 @@
+7 10 beforeafter
+tonga 5 1 1
+sumac 2 5 0
+munch 4 5 1
+haunt 1 7 0
+!beforeafter 2 l
+!beforeafter 2 i
+!beforeafter 2 l
+!beforeafter 1 m

@@ -1,0 +1,6 @@
+7 12 drop
+taken 5 1 1
+agent 2 5 0
+grape 3 5 1
+peach 1 7 0
+prawn 1 11 0

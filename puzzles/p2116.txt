@@ -1,0 +1,5 @@
+7 10
+heart 2 1 1
+steal 1 5 0
+expel 3 5 1
+spade 2 7 0

@@ -1,0 +1,6 @@
+7 8 island
+scarf 4 1 1
+latch 1 2 0
+smash 6 3 1
+harem 2 4 0
+!island 32 11111 211 2111

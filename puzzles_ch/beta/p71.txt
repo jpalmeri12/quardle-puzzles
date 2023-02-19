@@ -1,0 +1,5 @@
+7 10 beta
+bland 1 1 0
+drain 5 1 1
+saint 2 5 0
+salad 2 5 1

@@ -1,0 +1,5 @@
+7 9
+refit 6 1 1
+radii 2 4 0
+aptly 3 4 1
+shyly 1 8 0

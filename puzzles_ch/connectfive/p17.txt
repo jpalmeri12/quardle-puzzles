@@ -1,0 +1,6 @@
+7 9 connectfive
+bulge 1 1 1
+gamut 1 4 0
+moose 3 4 1
+taken 5 4 1
+penny 2 8 0

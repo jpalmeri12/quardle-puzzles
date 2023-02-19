@@ -1,0 +1,5 @@
+6 10 assembly
+aphid 1 3 1
+timid 5 3 1
+humor 1 1 0
+daddy 1 9 0

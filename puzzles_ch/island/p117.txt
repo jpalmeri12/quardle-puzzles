@@ -1,0 +1,6 @@
+7 9 island
+ivory 2 1 0
+inlet 2 1 1
+reuse 1 4 0
+edict 5 4 1
+!island 2111 11111 31 311

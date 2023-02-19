@@ -1,0 +1,5 @@
+7 7
+anvil 6 1 1
+bulge 3 2 1
+alibi 2 4 0
+bleak 1 6 0

@@ -1,0 +1,5 @@
+7 9 soundscramble
+macho 6 1 1
+rajah 2 4 0
+jedgu 4 4 1
+esagu 1 7 0

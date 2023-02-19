@@ -1,0 +1,7 @@
+7 12 secretdistance
+villa 2 1 1
+cabin 1 5 0
+boule 3 5 1
+demur 2 9 0
+flack 1 11 0
+!sdpos 3 0 1 1

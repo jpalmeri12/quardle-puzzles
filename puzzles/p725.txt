@@ -1,0 +1,5 @@
+6 7
+scold 5 1 1
+mimic 1 2 0
+mogul 3 2 1
+wound 1 5 0

@@ -1,0 +1,5 @@
+7 9 skyscrapers
+theta 2 4 0
+trunk 5 4 1
+brawn 1 7 0
+fishy 3 1 1

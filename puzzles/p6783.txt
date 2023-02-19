@@ -1,0 +1,5 @@
+7 10
+crisp 2 1 1
+crude 2 1 0
+spicy 1 5 0
+conch 4 5 1

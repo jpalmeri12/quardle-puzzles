@@ -1,0 +1,5 @@
+7 7 duplicity
+odder 1 1 1
+drove 1 2 0
+valor 4 2 1
+larva 2 6 0

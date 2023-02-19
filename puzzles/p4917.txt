@@ -1,0 +1,5 @@
+6 7
+dicey 3 1 1
+cramp 1 2 1
+climb 1 2 0
+avert 1 4 0

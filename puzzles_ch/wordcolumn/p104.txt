@@ -1,0 +1,6 @@
+7 10 wordcolumn
+shelf 1 1 0
+honey 2 1 1
+unfed 1 3 0
+yacht 2 5 0
+tease 6 5 1

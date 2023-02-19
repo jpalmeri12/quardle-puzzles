@@ -1,0 +1,7 @@
+6 10 secretdistance
+greet 5 1 1
+stair 1 3 1
+tease 1 4 0
+ratio 1 7 0
+taste 1 9 0
+!sdpos 3 0 2 1

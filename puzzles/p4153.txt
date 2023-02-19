@@ -1,0 +1,5 @@
+7 9
+teeth 1 1 1
+truth 1 4 0
+unfit 3 4 1
+afoul 2 6 0

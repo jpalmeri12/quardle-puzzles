@@ -1,0 +1,5 @@
+6 8 scrabble
+outdo 1 4 0
+color 1 1 1
+would 5 3 1
+crowd 1 7 0

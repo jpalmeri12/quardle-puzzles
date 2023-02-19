@@ -1,0 +1,5 @@
+6 10 sweeper
+eaten 2 1 1
+known 1 5 0
+often 3 5 1
+dunce 1 9 0

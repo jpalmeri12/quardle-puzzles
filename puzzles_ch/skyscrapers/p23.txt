@@ -1,0 +1,5 @@
+7 9 skyscrapers
+shied 2 7 0
+tryst 2 4 1
+grate 1 5 0
+giant 4 1 1

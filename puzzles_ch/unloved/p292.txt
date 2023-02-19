@@ -1,0 +1,5 @@
+6 6 unloved
+totem 1 1 0
+optic 2 1 1
+major 5 1 1
+disco 1 4 0

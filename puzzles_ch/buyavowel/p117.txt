@@ -1,0 +1,5 @@
+7 9 buyavowel
+terra 4 1 1
+aside 2 4 1
+soapy 2 5 0
+serif 1 8 0

@@ -1,0 +1,5 @@
+7 9
+habit 2 1 1
+inner 2 4 0
+entry 5 4 1
+swear 1 7 0

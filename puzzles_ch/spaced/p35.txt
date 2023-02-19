@@ -1,0 +1,5 @@
+7 7 spaced
+windy 2 1 1
+tidal 1 2 0
+aisle 4 2 1
+dusky 2 4 0

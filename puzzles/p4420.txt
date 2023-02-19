@@ -1,0 +1,5 @@
+7 10
+onion 3 1 1
+union 2 5 0
+idiom 4 5 1
+balmy 1 9 0

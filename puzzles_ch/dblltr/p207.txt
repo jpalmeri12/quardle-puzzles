@@ -1,0 +1,5 @@
+7 10 dblltr
+moose 3 1 1
+dress 1 5 0
+slosh 5 5 1
+taboo 2 7 0

@@ -1,0 +1,5 @@
+7 9
+globe 6 1 1
+throb 2 4 0
+hence 3 4 1
+nicer 1 7 0

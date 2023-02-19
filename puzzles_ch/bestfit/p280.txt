@@ -1,0 +1,5 @@
+6 10 bestfit
+bayou 2 1 1
+puppy 1 5 0
+pooch 3 5 1
+rehab 1 9 0

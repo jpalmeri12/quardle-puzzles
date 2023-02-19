@@ -1,0 +1,5 @@
+7 8
+mafia 2 1 0
+inept 5 1 1
+knife 2 3 1
+unzip 1 4 0

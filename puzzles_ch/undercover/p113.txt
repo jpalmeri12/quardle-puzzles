@@ -1,0 +1,6 @@
+7 12 undercover
+bugle 2 1 1
+ulcer 2 2 0
+reach 1 5 0
+hence 5 5 1
+skimp 1 11 0

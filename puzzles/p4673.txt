@@ -1,0 +1,5 @@
+7 10
+palsy 2 1 1
+awash 2 2 0
+gypsy 1 5 0
+slime 4 5 1

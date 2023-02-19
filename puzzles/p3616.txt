@@ -1,0 +1,5 @@
+6 7
+crass 4 1 1
+spare 1 2 0
+pouch 2 2 1
+nurse 1 4 0

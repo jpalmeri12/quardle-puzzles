@@ -1,0 +1,5 @@
+7 10 fourscore
+print 1 1 0
+rider 2 1 1
+rayon 2 5 0
+abhor 3 5 1

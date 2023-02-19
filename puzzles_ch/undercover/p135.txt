@@ -1,0 +1,6 @@
+6 9 undercover
+avian 3 1 1
+hovel 1 2 0
+ladle 5 2 1
+staid 1 4 0
+fuzzy 1 8 0

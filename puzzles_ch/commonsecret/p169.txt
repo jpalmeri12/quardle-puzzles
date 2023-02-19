@@ -1,0 +1,6 @@
+7 8 commonsecret
+cabby 2 1 1
+candy 1 2 0
+chest 6 3 1
+beech 2 4 0
+!secret c

@@ -1,0 +1,6 @@
+7 9 island
+reply 6 1 1
+hilly 4 4 1
+daisy 2 5 0
+satyr 1 8 0
+!island 221 211 311 32

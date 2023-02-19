@@ -1,0 +1,5 @@
+6 9 buyavowel
+amble 2 1 1
+blond 1 4 0
+drier 5 4 1
+their 1 8 0

@@ -1,0 +1,6 @@
+7 10 drop
+mushy 1 1 1
+agent 4 3 1
+hedge 1 4 0
+meter 2 7 0
+hardy 1 9 0

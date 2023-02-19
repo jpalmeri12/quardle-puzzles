@@ -1,0 +1,5 @@
+7 9
+vying 5 1 1
+guile 3 4 1
+clung 1 5 0
+reign 2 8 0

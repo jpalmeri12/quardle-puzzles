@@ -1,0 +1,5 @@
+7 9 clockdown
+stoic 3 1 1
+staff 2 2 0
+rhino 1 4 0
+otter 5 4 1

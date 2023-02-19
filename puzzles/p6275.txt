@@ -1,0 +1,5 @@
+7 10
+blind 5 1 1
+khaki 1 3 0
+biddy 2 5 0
+ideal 3 5 1

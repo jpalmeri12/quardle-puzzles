@@ -1,0 +1,5 @@
+6 9
+slush 1 1 0
+large 2 1 1
+egret 1 4 0
+erase 4 4 1

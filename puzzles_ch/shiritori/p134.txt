@@ -1,0 +1,5 @@
+7 9 shiritori
+bleed 2 1 1
+llama 2 2 0
+tease 1 4 0
+elder 5 4 1

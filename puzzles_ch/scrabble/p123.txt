@@ -1,0 +1,5 @@
+7 10 scrabble
+rupee 3 1 1
+earth 1 1 0
+yacht 6 5 1
+jetty 2 5 0

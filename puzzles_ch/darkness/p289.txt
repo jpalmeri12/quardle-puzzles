@@ -1,0 +1,5 @@
+7 8 darkness
+tripe 1 1 0
+peril 4 1 1
+harry 2 3 0
+hover 2 3 1

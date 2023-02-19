@@ -1,0 +1,5 @@
+6 6 desync
+pulse 1 1 0
+usual 2 1 1
+study 4 1 1
+dandy 1 4 0

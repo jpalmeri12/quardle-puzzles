@@ -1,0 +1,5 @@
+6 6
+drunk 1 1 0
+drift 1 1 1
+kebab 5 1 1
+fauna 1 4 0

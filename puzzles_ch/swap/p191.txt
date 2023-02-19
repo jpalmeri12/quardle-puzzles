@@ -1,0 +1,5 @@
+7 9 swap
+watry 2 1 1
+basla 1 2 0
+raect 2 4 0
+chfaf 5 4 1

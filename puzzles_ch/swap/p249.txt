@@ -1,0 +1,5 @@
+6 7 swap
+flrit 3 1 1
+drlyy 1 2 0
+dtito 1 2 1
+iciyl 1 4 0

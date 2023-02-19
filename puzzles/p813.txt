@@ -1,0 +1,5 @@
+7 9
+cacao 6 1 1
+flora 2 4 0
+fleet 2 4 1
+kebab 1 6 0

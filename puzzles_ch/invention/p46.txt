@@ -1,0 +1,5 @@
+7 8 invention
+hunch 1 1 0
+chide 4 1 1
+smote 2 3 1
+medic 2 4 0

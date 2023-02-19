@@ -1,0 +1,5 @@
+7 10 buyavowel
+drawn 4 1 1
+first 2 2 0
+stone 1 5 0
+opine 3 5 1

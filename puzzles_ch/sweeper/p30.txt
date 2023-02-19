@@ -1,0 +1,5 @@
+6 9 sweeper
+frown 1 1 1
+randy 1 2 0
+where 1 4 0
+ennui 5 4 1

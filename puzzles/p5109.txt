@@ -1,0 +1,5 @@
+6 7
+drive 4 1 1
+plane 1 2 1
+parry 1 2 0
+alive 1 4 0

@@ -1,0 +1,5 @@
+7 10
+demur 3 1 1
+broad 2 5 0
+odder 4 5 1
+outdo 1 7 0

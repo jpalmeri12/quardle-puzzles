@@ -1,0 +1,5 @@
+7 9
+lance 6 1 1
+broad 2 4 1
+ridge 2 5 0
+edify 1 8 0

@@ -1,0 +1,5 @@
+6 8 outoforder
+graph 1 1 1
+nymph 5 3 1
+poesy 1 4 0
+gulch 1 7 0

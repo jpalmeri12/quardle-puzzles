@@ -1,0 +1,6 @@
+7 9 connectfive
+expel 2 1 0
+lymph 6 1 1
+tulip 2 4 0
+lanky 4 4 1
+stony 1 6 0

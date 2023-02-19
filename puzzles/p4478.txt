@@ -1,0 +1,5 @@
+7 10
+amity 6 1 1
+woozy 2 5 0
+wield 2 5 1
+plaid 1 8 0

@@ -1,0 +1,9 @@
+6 9 spellbound
+annul 2 1 1
+jumbo 1 4 0
+bloat 4 4 1
+tubal 1 7 0
+!spellbound 0 1 2
+!spellbound 1 0 4
+!spellbound 2 1 2
+!spellbound 3 1 0

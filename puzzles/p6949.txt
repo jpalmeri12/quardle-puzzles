@@ -1,0 +1,5 @@
+7 9
+broke 2 1 1
+freed 1 2 0
+knock 2 4 0
+cower 5 4 1

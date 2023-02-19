@@ -1,0 +1,5 @@
+7 8
+twirl 2 1 1
+total 2 1 0
+befit 5 3 1
+prune 1 4 0

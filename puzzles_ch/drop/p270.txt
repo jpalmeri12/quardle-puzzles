@@ -1,0 +1,6 @@
+7 9 drop
+kneed 5 1 1
+slung 2 2 0
+snipe 2 2 1
+fibre 1 4 0
+bused 1 8 0

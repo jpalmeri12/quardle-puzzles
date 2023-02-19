@@ -1,0 +1,9 @@
+6 10 spellbound
+amass 1 1 0
+aglow 1 1 1
+waltz 1 5 0
+abuse 2 5 1
+!spellbound 0 4 2
+!spellbound 1 2 3
+!spellbound 2 3 4
+!spellbound 3 3 2

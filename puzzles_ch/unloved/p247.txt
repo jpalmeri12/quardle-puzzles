@@ -1,0 +1,5 @@
+7 7 unloved
+bison 1 1 0
+sumac 3 1 1
+vinyl 6 2 1
+scary 2 5 0

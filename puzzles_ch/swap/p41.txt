@@ -1,0 +1,5 @@
+7 10 swap
+agtae 4 1 1
+rcepe 2 5 0
+curmb 3 5 1
+tsrap 1 7 0

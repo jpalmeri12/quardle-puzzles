@@ -1,0 +1,5 @@
+6 10 darkness
+avert 3 5 1
+quasi 4 1 1
+steak 1 3 0
+trait 1 5 0

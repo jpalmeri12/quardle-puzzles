@@ -1,0 +1,5 @@
+7 8 scrabble
+louse 5 1 1
+inept 2 3 1
+revue 1 5 0
+imbue 2 3 0

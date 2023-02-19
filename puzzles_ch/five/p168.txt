@@ -1,0 +1,6 @@
+7 9 five
+alloy 1 1 1
+lymph 1 2 0
+heart 5 2 1
+cable 3 4 1
+abate 2 6 0

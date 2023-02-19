@@ -1,0 +1,5 @@
+7 7
+track 5 1 1
+spore 2 2 0
+plier 3 2 1
+check 1 5 0

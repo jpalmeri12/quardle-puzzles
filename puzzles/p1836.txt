@@ -1,0 +1,5 @@
+7 8
+coven 1 1 0
+eaten 4 1 1
+metal 2 3 0
+minty 2 3 1

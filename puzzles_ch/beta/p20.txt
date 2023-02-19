@@ -1,0 +1,5 @@
+7 8 beta
+apply 1 1 0
+pique 2 1 1
+quiet 2 3 0
+extol 5 3 1

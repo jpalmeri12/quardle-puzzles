@@ -1,0 +1,5 @@
+7 8
+flask 1 1 0
+stead 4 1 1
+tacit 6 3 1
+medic 2 5 0

@@ -1,0 +1,5 @@
+7 7 invention
+stony 2 1 1
+tacky 2 2 0
+knack 5 2 1
+lyric 1 5 0

@@ -1,0 +1,5 @@
+6 6
+alike 1 1 1
+snuck 4 1 1
+lying 1 2 0
+knack 1 4 0

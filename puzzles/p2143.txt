@@ -1,0 +1,5 @@
+7 9
+whole 2 1 1
+slang 1 4 0
+nicer 4 4 1
+dirge 2 8 0

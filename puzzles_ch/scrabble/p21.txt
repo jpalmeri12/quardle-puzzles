@@ -1,0 +1,5 @@
+7 8 scrabble
+atoll 1 7 0
+glint 2 3 1
+given 2 3 0
+havoc 4 1 1

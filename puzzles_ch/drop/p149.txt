@@ -1,0 +1,6 @@
+7 11 drop
+spill 2 1 0
+plaid 3 1 1
+quite 1 4 1
+quiet 1 4 0
+sleep 1 10 0

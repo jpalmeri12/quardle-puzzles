@@ -1,0 +1,5 @@
+6 7 frequency
+slide 5 1 1
+bevel 1 2 0
+voila 3 2 1
+weird 1 4 0

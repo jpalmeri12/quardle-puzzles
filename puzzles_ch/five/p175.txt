@@ -1,0 +1,6 @@
+7 10 five
+truss 1 1 1
+shady 4 4 1
+sushi 1 5 0
+undid 2 5 1
+dodgy 2 7 0

@@ -1,0 +1,5 @@
+7 10
+drink 5 1 1
+decor 1 2 0
+funky 2 5 0
+flood 2 5 1

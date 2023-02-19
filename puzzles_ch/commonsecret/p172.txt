@@ -1,0 +1,6 @@
+7 8 commonsecret
+slept 6 1 1
+scope 2 3 0
+close 3 3 1
+knelt 1 7 0
+!secret e

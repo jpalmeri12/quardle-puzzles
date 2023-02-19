@@ -1,0 +1,5 @@
+7 9
+going 5 1 1
+boost 3 4 1
+gouge 2 5 0
+caste 1 7 0

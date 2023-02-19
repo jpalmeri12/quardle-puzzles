@@ -1,0 +1,5 @@
+7 8 frequency
+gummy 2 1 0
+media 5 1 1
+tried 1 3 0
+river 2 3 1

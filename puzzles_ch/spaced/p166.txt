@@ -1,0 +1,5 @@
+7 9 spaced
+daily 6 1 1
+tidal 2 4 0
+drawl 4 4 1
+vegan 1 6 0

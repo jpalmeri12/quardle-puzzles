@@ -1,0 +1,5 @@
+7 9 spaced
+locus 2 1 1
+guild 1 4 0
+drink 5 4 1
+choke 2 8 0

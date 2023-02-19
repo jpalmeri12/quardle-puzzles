@@ -1,0 +1,5 @@
+7 8 clockdown
+pique 1 1 0
+quake 3 1 1
+naval 2 3 0
+alike 5 3 1

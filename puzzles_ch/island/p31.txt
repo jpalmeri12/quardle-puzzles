@@ -1,0 +1,6 @@
+7 8 island
+adult 1 1 0
+dwelt 2 1 1
+allot 6 3 1
+trial 2 5 0
+!island 11111 311 211 2111

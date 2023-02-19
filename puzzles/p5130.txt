@@ -1,0 +1,5 @@
+7 9
+derby 5 1 1
+idler 2 2 0
+crumb 1 4 0
+clash 1 4 1

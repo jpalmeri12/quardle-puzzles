@@ -1,0 +1,7 @@
+8 8 sixbox
+demur 3 1 1
+latte 5 1 1
+remit 1 3 0
+inept 4 3 1
+untie 3 4 0
+scree 1 5 0

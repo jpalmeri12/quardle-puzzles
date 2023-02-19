@@ -1,0 +1,5 @@
+7 10 fourscore
+droit 2 1 1
+often 2 3 0
+stall 1 5 0
+liken 5 5 1

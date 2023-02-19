@@ -1,0 +1,5 @@
+7 10
+billy 3 1 1
+mirth 2 2 0
+dryer 1 5 0
+exalt 4 5 1

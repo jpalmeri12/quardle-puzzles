@@ -1,0 +1,5 @@
+7 9 scrabble
+inert 3 1 1
+grill 2 4 0
+leggy 5 4 1
+spike 1 1 0

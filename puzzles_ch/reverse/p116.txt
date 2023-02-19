@@ -1,0 +1,5 @@
+6 10 reverse
+ripen 2 1 1
+dnema 1 5 0
+enemy 3 5 1
+oemac 1 8 0

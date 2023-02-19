@@ -1,0 +1,5 @@
+7 9 swap
+hcess 5 1 1
+nooes 1 4 0
+onino 3 4 1
+hnoey 2 7 0

@@ -1,0 +1,5 @@
+7 9
+paint 5 1 1
+vital 2 2 0
+plain 1 4 0
+aptly 3 4 1

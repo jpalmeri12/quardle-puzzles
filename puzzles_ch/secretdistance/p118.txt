@@ -1,0 +1,7 @@
+6 12 secretdistance
+scram 1 1 0
+squib 1 1 1
+blitz 1 5 0
+trump 4 5 1
+trait 1 11 0
+!sdpos 2 0 2 2

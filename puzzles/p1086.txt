@@ -1,0 +1,5 @@
+7 10
+abate 5 1 1
+safer 2 5 0
+swamp 2 5 1
+amaze 1 8 0

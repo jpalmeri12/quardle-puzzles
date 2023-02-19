@@ -1,0 +1,6 @@
+7 9 wordcolumn
+harry 5 1 1
+vista 1 2 0
+altar 1 4 0
+torso 3 4 1
+usher 2 7 0

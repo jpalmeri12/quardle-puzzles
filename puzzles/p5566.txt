@@ -1,0 +1,5 @@
+7 10
+amend 2 1 1
+adore 1 5 0
+exact 5 5 1
+ounce 2 8 0

@@ -1,0 +1,6 @@
+6 8 squaredance
+fatal 1 1 1
+recut 5 1 1
+flyer 1 1 0
+leant 1 5 0
+probe 1 7 0

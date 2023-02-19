@@ -1,0 +1,5 @@
+7 9 clockdown
+shrub 2 1 1
+agile 4 4 1
+began 2 5 0
+dimly 1 7 0

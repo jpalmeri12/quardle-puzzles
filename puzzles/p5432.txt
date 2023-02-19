@@ -1,0 +1,5 @@
+7 10
+slave 5 1 1
+quite 1 5 0
+idiot 3 5 1
+stove 2 9 0

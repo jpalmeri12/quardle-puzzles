@@ -1,0 +1,6 @@
+6 8 drop
+usher 2 1 1
+abate 4 1 1
+cheap 1 3 0
+tried 1 5 0
+shear 1 7 0

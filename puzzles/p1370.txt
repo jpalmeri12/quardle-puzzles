@@ -1,0 +1,5 @@
+7 10
+spank 4 1 1
+rehab 1 3 0
+token 2 5 0
+nudge 6 5 1

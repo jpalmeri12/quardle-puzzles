@@ -1,0 +1,6 @@
+6 11 drop
+afoot 1 1 0
+flail 2 1 1
+fizzy 1 4 0
+yearn 5 4 1
+gayly 1 10 0

@@ -1,0 +1,6 @@
+7 10 commonsecret
+onset 1 1 0
+smote 3 1 1
+devil 2 5 0
+vogue 4 5 1
+!secret e

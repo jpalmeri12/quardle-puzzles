@@ -1,0 +1,5 @@
+7 9 desync
+etude 2 1 1
+idiom 1 4 0
+onset 4 4 1
+swell 2 7 0

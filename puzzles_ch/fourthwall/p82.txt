@@ -1,0 +1,7 @@
+6 6 fourthwall
+depot 1 1 0
+disco 1 1 1
+steak 1 3 0
+plead 3 1 1
+olden 1 5 0
+token 5 1 1

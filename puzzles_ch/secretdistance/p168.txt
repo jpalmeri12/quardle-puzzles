@@ -1,0 +1,7 @@
+7 9 secretdistance
+stunk 1 1 1
+fiery 3 2 1
+unity 1 3 0
+nylon 2 6 0
+anode 1 8 0
+!sdpos 0 2 2 3

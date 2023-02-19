@@ -1,0 +1,5 @@
+7 10 elbowroom
+tiara 1 1 1
+abbot 1 5 0
+being 2 5 1
+grove 2 9 0

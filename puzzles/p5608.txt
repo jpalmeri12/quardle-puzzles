@@ -1,0 +1,5 @@
+7 10
+pasty 5 1 1
+daddy 1 5 0
+disco 4 5 1
+micro 2 8 0

@@ -1,0 +1,5 @@
+6 9
+femur 1 1 1
+exile 1 2 0
+undid 1 4 0
+inlay 4 4 1

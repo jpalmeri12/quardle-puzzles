@@ -1,0 +1,5 @@
+7 10 shiritori
+eagle 2 1 1
+ether 2 5 0
+holly 4 5 1
+vinyl 1 9 0

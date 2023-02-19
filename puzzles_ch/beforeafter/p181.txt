@@ -1,0 +1,9 @@
+7 10 beforeafter
+sushi 4 1 1
+suing 2 5 0
+sting 2 5 1
+igloo 1 9 0
+!beforeafter 2 k
+!beforeafter 1 p
+!beforeafter 1 r
+!beforeafter 1 j

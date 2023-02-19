@@ -1,0 +1,5 @@
+6 6 outoforder
+banjo 1 1 0
+awful 2 1 1
+juice 4 1 1
+lurch 1 4 0

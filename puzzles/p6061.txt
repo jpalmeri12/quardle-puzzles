@@ -1,0 +1,5 @@
+7 9
+hitch 3 1 1
+decor 1 4 0
+right 5 4 1
+girth 2 8 0

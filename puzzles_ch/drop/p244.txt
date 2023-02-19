@@ -1,0 +1,6 @@
+6 11 drop
+magma 1 1 0
+aside 5 1 1
+plaid 1 4 0
+lower 2 4 1
+legal 1 10 0

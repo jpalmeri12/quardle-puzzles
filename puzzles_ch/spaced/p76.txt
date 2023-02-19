@@ -1,0 +1,5 @@
+6 8 spaced
+ovate 1 1 1
+fritz 4 3 1
+twirl 1 4 0
+craze 1 7 0

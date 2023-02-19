@@ -1,0 +1,5 @@
+7 8 sweeper
+bugle 5 1 1
+stove 2 3 1
+atoll 1 4 0
+epoch 2 7 0

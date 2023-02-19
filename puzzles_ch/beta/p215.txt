@@ -1,0 +1,5 @@
+7 7 beta
+scoff 1 1 0
+climb 2 1 1
+windy 6 2 1
+brand 2 5 0

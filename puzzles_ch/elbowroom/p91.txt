@@ -1,0 +1,5 @@
+7 7 elbowroom
+blurb 2 1 1
+lathe 2 2 0
+hitch 5 2 1
+crypt 1 4 0

@@ -1,0 +1,5 @@
+7 9 clockdown
+karma 2 1 1
+camel 1 2 0
+stove 6 4 1
+apart 2 5 0

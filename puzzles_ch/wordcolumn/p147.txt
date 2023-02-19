@@ -1,0 +1,6 @@
+7 12 wordcolumn
+elegy 2 1 1
+graph 2 4 0
+polyp 5 4 1
+ashen 1 7 1
+syrup 1 8 0

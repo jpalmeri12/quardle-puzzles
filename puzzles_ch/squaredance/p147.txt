@@ -1,0 +1,6 @@
+6 8 squaredance
+inept 1 1 1
+there 5 1 1
+inlet 1 1 0
+twine 1 5 0
+scram 1 7 0

@@ -1,0 +1,5 @@
+7 9
+cloak 6 1 1
+cobra 2 4 0
+brown 4 4 1
+vapor 1 6 0

@@ -1,0 +1,5 @@
+6 7
+fable 1 1 1
+audio 1 2 0
+duvet 3 2 1
+livid 1 4 0

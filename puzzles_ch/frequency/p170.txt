@@ -1,0 +1,5 @@
+7 7 frequency
+shrub 5 1 1
+witch 1 2 0
+thief 3 2 1
+pique 2 4 0

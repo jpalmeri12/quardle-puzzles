@@ -1,0 +1,5 @@
+7 10 outoforder
+above 1 1 0
+bulge 2 1 1
+evoke 2 5 0
+exact 6 5 1

@@ -1,0 +1,5 @@
+6 10 spaced
+gumbo 1 1 0
+maker 3 1 1
+torch 1 5 0
+crane 4 5 1

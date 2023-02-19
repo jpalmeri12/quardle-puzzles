@@ -1,0 +1,5 @@
+7 8 reverse
+range 1 1 1
+nemul 1 3 0
+medal 3 3 1
+tliub 2 7 0

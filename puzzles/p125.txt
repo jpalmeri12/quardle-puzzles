@@ -1,0 +1,5 @@
+7 10
+glass 2 1 1
+glory 1 2 0
+scoff 2 5 0
+curio 3 5 1

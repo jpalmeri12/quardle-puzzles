@@ -1,0 +1,6 @@
+7 8 five
+noose 2 1 0
+still 5 1 1
+urban 3 3 1
+krill 2 4 0
+tonal 1 7 0

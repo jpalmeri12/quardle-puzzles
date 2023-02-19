@@ -1,0 +1,5 @@
+7 7 bestfit
+macaw 1 1 0
+cacti 3 1 1
+satyr 6 2 1
+dingy 2 5 0

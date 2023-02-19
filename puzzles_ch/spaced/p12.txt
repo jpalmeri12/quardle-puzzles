@@ -1,0 +1,5 @@
+7 8 spaced
+harem 2 1 0
+rivet 4 1 1
+trove 1 3 0
+react 2 3 1

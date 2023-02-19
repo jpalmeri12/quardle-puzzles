@@ -1,0 +1,5 @@
+7 9
+glare 4 1 1
+belie 2 2 0
+snare 1 4 0
+slain 1 4 1

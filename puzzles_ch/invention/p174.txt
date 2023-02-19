@@ -1,0 +1,5 @@
+7 10 invention
+below 2 1 1
+slink 1 3 0
+wreak 2 5 0
+eclat 4 5 1

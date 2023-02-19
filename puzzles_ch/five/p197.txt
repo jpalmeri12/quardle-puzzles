@@ -1,0 +1,6 @@
+7 10 five
+ashen 1 1 1
+eager 1 4 0
+gravy 3 4 1
+ought 6 5 1
+bayou 2 6 0

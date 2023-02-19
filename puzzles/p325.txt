@@ -1,0 +1,5 @@
+7 10
+colon 2 1 1
+ninny 2 5 0
+natal 4 5 1
+belle 1 9 0

@@ -1,0 +1,8 @@
+6 8 twins
+blond 1 1 0
+egret 1 3 0
+spilt 1 5 0
+rajah 1 7 0
+!twins 0 2
+!twins 1 2
+!twins 0 2

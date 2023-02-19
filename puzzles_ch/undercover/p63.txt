@@ -1,0 +1,6 @@
+6 12 undercover
+maker 1 1 1
+avert 1 2 0
+rhyme 1 5 0
+eager 5 5 1
+cliff 1 11 0

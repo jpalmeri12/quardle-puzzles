@@ -1,0 +1,5 @@
+6 6 buyavowel
+abyss 1 1 0
+aloft 1 1 1
+still 5 1 1
+focal 1 4 0

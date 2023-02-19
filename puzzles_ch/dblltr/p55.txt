@@ -1,0 +1,5 @@
+7 8 dblltr
+elude 1 1 0
+ember 5 1 1
+rabbi 2 3 0
+amiss 3 3 1

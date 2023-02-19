@@ -1,0 +1,5 @@
+6 6 frequency
+blond 1 1 1
+leech 4 1 1
+leper 1 2 0
+niece 1 4 0

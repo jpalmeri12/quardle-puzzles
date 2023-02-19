@@ -1,0 +1,5 @@
+7 9 frequency
+snuff 1 1 1
+scene 3 4 1
+ficus 1 5 0
+anime 2 7 0

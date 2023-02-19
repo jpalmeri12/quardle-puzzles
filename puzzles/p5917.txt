@@ -1,0 +1,5 @@
+6 9
+tatty 1 1 0
+tweed 3 1 1
+stead 1 4 0
+daunt 5 4 1

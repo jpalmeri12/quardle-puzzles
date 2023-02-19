@@ -1,0 +1,5 @@
+7 10 scrabble
+glass 5 5 1
+slush 2 8 0
+tying 1 5 0
+lofty 2 1 1

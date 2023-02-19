@@ -1,0 +1,5 @@
+7 8
+belch 1 1 0
+eerie 2 1 1
+range 2 3 0
+niche 4 3 1

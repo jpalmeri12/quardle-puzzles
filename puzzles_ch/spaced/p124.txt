@@ -1,0 +1,5 @@
+7 10 spaced
+swine 4 1 1
+ashen 1 5 0
+shoal 2 5 1
+actor 2 8 0

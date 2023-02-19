@@ -1,0 +1,5 @@
+7 10
+trite 6 1 1
+bathe 2 5 0
+artsy 3 5 1
+titan 1 7 0

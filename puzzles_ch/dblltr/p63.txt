@@ -1,0 +1,5 @@
+6 8 dblltr
+forgo 4 1 1
+rebar 1 3 1
+broom 1 5 0
+rarer 1 7 0

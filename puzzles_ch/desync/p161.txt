@@ -1,0 +1,5 @@
+7 10 desync
+pupil 1 1 0
+plead 3 1 1
+edify 2 5 0
+youth 6 5 1

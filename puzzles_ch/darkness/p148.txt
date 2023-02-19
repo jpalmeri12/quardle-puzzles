@@ -1,0 +1,5 @@
+6 7 darkness
+tweak 1 5 0
+known 2 2 1
+sepia 4 1 1
+skier 1 2 0

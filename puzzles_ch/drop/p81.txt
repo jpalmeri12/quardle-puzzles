@@ -1,0 +1,6 @@
+6 11 drop
+stock 4 1 1
+write 1 2 0
+black 1 4 0
+lumpy 2 4 1
+lefty 1 10 0

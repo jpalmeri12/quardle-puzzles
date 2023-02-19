@@ -1,0 +1,5 @@
+7 8
+taboo 1 1 0
+axion 2 1 1
+idyll 2 3 0
+lumpy 6 3 1

@@ -1,0 +1,5 @@
+7 8 dblltr
+pooch 3 1 1
+beset 5 3 1
+shush 2 5 0
+trout 1 7 0

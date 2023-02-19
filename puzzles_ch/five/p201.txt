@@ -1,0 +1,6 @@
+6 9 five
+gummy 5 1 1
+leafy 3 2 1
+psalm 1 4 0
+pinch 1 4 1
+hello 1 8 0

@@ -1,0 +1,8 @@
+6 8 twins
+butte 1 1 0
+magic 1 3 0
+matey 1 5 0
+bleed 1 7 0
+!twins 0 3
+!twins 0 1
+!twins 0 1

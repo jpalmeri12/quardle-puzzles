@@ -1,0 +1,5 @@
+7 10
+stink 1 1 1
+knelt 1 5 0
+taboo 5 5 1
+venom 2 8 0

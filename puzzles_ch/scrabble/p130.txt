@@ -1,0 +1,5 @@
+7 10 scrabble
+teeth 5 1 1
+scram 4 5 1
+clash 1 5 0
+worth 2 7 0

@@ -1,0 +1,5 @@
+7 8 bestfit
+medic 5 1 1
+attic 3 3 1
+antic 1 5 0
+actor 2 7 0

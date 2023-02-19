@@ -1,0 +1,6 @@
+7 10 undercover
+truer 2 1 1
+sushi 1 3 0
+itchy 5 3 1
+react 2 5 0
+blown 1 9 0

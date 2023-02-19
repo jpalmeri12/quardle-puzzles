@@ -1,0 +1,5 @@
+6 8 buyavowel
+medal 2 1 1
+strut 4 3 1
+fatty 1 4 0
+hefty 1 7 0

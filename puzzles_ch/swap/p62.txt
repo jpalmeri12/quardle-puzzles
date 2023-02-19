@@ -1,0 +1,5 @@
+7 10 swap
+preky 1 1 0
+exsit 3 1 1
+mtero 2 5 0
+ofetn 6 5 1

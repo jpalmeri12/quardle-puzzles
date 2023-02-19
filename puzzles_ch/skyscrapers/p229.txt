@@ -1,0 +1,5 @@
+7 9 skyscrapers
+thief 2 1 1
+leafy 1 4 0
+furry 4 4 1
+north 2 7 0

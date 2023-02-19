@@ -1,0 +1,5 @@
+7 9 skyscrapers
+omega 1 7 0
+odder 3 4 1
+gourd 2 4 0
+dowdy 6 1 1

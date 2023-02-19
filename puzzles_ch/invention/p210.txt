@@ -1,0 +1,5 @@
+7 10 invention
+radii 5 1 1
+cumin 2 5 0
+metal 4 5 1
+gusto 1 7 0

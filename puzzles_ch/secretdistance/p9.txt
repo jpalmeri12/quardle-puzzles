@@ -1,0 +1,7 @@
+6 11 secretdistance
+chair 1 1 1
+curry 1 1 0
+hymen 5 4 1
+rocky 1 5 0
+phase 1 10 0
+!sdpos 1 0 2 3

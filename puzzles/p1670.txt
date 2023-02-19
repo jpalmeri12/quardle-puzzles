@@ -1,0 +1,5 @@
+7 8
+faith 1 1 1
+ingot 1 3 0
+glaze 3 3 1
+death 2 7 0

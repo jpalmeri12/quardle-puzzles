@@ -1,0 +1,5 @@
+7 10
+waist 2 1 1
+track 2 5 0
+avoid 4 5 1
+radio 1 8 0

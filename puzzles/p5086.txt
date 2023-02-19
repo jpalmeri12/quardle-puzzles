@@ -1,0 +1,5 @@
+7 10
+where 6 1 1
+skate 2 5 0
+aider 4 5 1
+wooer 1 8 0

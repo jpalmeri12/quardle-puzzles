@@ -1,0 +1,5 @@
+7 9 clockdown
+crazy 2 1 0
+zebra 5 1 1
+rigor 2 4 1
+ninja 1 5 0

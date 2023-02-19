@@ -1,0 +1,6 @@
+6 9 connectfive
+satyr 1 1 0
+tacky 3 1 1
+pedal 5 4 1
+rhyme 1 5 0
+quota 1 7 0

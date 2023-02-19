@@ -1,0 +1,5 @@
+7 10 frequency
+quark 5 1 1
+broke 2 5 0
+reign 3 5 1
+aside 1 7 0

@@ -1,0 +1,5 @@
+7 9 buyavowel
+scrum 5 1 1
+attic 1 2 0
+thrum 2 4 0
+humor 3 4 1

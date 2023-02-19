@@ -1,0 +1,6 @@
+7 11 connectfive
+filth 5 1 1
+snoop 3 4 1
+hunch 1 5 0
+unmet 6 6 1
+woken 2 7 0

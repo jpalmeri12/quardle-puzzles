@@ -1,0 +1,5 @@
+7 10 sweeper
+scalp 1 1 1
+palsy 1 5 0
+axial 2 5 1
+adept 2 8 0

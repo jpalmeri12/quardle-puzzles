@@ -1,0 +1,5 @@
+7 9 clockdown
+windy 2 1 0
+dizzy 5 1 1
+kneed 3 4 1
+mangy 1 5 0

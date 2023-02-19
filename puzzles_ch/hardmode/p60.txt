@@ -1,0 +1,5 @@
+7 10 hardmode
+dryer 5 1 1
+showy 1 3 0
+umbra 2 5 0
+agony 6 5 1

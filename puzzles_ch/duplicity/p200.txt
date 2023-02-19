@@ -1,0 +1,5 @@
+7 10 duplicity
+steel 2 1 1
+bluff 1 5 0
+fault 5 5 1
+baste 2 9 0

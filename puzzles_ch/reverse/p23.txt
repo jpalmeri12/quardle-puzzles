@@ -1,0 +1,5 @@
+7 9 reverse
+avert 2 1 1
+avoid 1 2 0
+lacov 4 4 1
+tsaeb 2 5 0

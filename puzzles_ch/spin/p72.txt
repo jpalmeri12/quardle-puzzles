@@ -1,0 +1,5 @@
+7 10 spin
+plant 3 1 1
+stunt 2 5 0
+upset 4 5 1
+frisk 1 7 0

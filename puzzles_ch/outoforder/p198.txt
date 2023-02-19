@@ -1,0 +1,5 @@
+7 7 outoforder
+seedy 3 1 1
+ledge 2 2 0
+ghoul 5 2 1
+bayou 1 5 0

@@ -1,0 +1,6 @@
+6 10 five
+rough 2 1 1
+jolly 5 3 1
+shoal 1 5 0
+start 1 5 1
+agony 1 7 0

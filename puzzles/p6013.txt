@@ -1,0 +1,5 @@
+7 9
+knead 6 1 1
+slack 2 4 1
+sepia 2 4 0
+skull 1 8 0

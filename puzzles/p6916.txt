@@ -1,0 +1,5 @@
+6 7
+theta 2 1 1
+chirp 1 2 0
+rouse 4 2 1
+strut 1 4 0

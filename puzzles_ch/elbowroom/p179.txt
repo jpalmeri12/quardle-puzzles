@@ -1,0 +1,5 @@
+7 10 elbowroom
+minus 4 1 1
+bossy 1 5 0
+sting 3 5 1
+knelt 2 8 0

@@ -1,0 +1,5 @@
+7 8
+shack 1 1 0
+chase 4 1 1
+flail 2 3 0
+faith 2 3 1

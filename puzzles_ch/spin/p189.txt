@@ -1,0 +1,5 @@
+7 9 spin
+retro 2 1 1
+renal 2 4 0
+apnea 5 4 1
+karma 1 8 0

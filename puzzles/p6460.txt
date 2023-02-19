@@ -1,0 +1,5 @@
+7 10
+mince 5 1 1
+judge 1 5 0
+drove 3 5 1
+verge 2 9 0

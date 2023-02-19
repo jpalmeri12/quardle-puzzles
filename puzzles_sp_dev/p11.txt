@@ -1,0 +1,5 @@
+7 8 sweeper
+cedar 2 1 0
+dirge 4 1 1
+worth 2 3 1
+bongo 1 4 0

@@ -1,0 +1,5 @@
+7 8 unloved
+grout 2 1 1
+goose 2 1 0
+horde 1 3 0
+deity 4 3 1

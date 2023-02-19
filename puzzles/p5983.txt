@@ -1,0 +1,5 @@
+7 10
+rower 4 1 1
+jewel 2 3 0
+acorn 1 5 0
+ozone 3 5 1

@@ -1,0 +1,5 @@
+7 8 buyavowel
+octet 5 1 1
+egret 1 3 0
+gayly 2 3 1
+youth 2 5 0

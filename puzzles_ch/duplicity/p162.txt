@@ -1,0 +1,5 @@
+7 9 duplicity
+trust 6 1 1
+sweet 2 4 1
+wrest 2 5 0
+reuse 1 7 0

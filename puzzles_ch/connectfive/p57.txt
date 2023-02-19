@@ -1,0 +1,6 @@
+7 10 connectfive
+lithe 2 1 1
+louse 2 1 0
+tawny 2 3 0
+lever 1 5 0
+risky 5 5 1

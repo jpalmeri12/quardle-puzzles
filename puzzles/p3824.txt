@@ -1,0 +1,5 @@
+7 10
+vocal 2 1 1
+elder 1 5 0
+every 4 5 1
+tardy 2 8 0

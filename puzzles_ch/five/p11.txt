@@ -1,0 +1,6 @@
+6 9 five
+deter 1 1 1
+doubt 1 1 0
+tweed 5 3 1
+endow 1 4 0
+decal 3 4 1

@@ -1,0 +1,5 @@
+7 10 shiritori
+coach 2 1 1
+hunch 2 5 0
+crush 5 5 1
+bayou 1 7 0

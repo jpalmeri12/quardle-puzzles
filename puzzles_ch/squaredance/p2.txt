@@ -1,0 +1,6 @@
+6 8 squaredance
+rebut 1 1 1
+dilly 5 1 1
+rabid 1 1 0
+toddy 1 5 0
+caput 1 7 0

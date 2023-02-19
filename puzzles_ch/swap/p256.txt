@@ -1,0 +1,5 @@
+7 9 swap
+easle 3 1 1
+sahft 2 2 0
+oslar 1 4 0
+ownig 1 4 1

@@ -1,0 +1,6 @@
+7 11 connectfive
+badly 1 1 1
+elfin 5 3 1
+local 1 4 0
+wagon 2 6 1
+arena 2 7 0

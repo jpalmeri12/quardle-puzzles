@@ -1,0 +1,9 @@
+6 10 beforeafter
+bayou 2 1 1
+tying 1 3 0
+quail 1 5 0
+lodge 5 5 1
+!beforeafter 1 l
+!beforeafter 1 q
+!beforeafter 1 m
+!beforeafter 1 i

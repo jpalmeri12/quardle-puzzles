@@ -1,0 +1,6 @@
+7 12 connectfive
+lever 6 1 1
+riser 2 5 1
+rower 2 5 0
+ester 4 7 1
+reuse 1 8 0

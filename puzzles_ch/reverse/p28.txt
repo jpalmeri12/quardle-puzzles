@@ -1,0 +1,5 @@
+7 9 reverse
+ydwor 1 1 0
+risen 5 1 1
+mures 2 4 0
+madam 2 4 1

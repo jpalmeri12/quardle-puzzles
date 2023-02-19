@@ -1,0 +1,6 @@
+7 8 commonsecret
+stall 4 1 1
+plate 1 2 0
+exalt 6 3 1
+fella 2 5 0
+!secret a

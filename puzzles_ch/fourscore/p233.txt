@@ -1,0 +1,5 @@
+7 7 fourscore
+sloth 5 1 1
+focal 1 2 0
+crate 3 2 1
+taste 2 4 0

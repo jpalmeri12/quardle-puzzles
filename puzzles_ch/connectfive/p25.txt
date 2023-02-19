@@ -1,0 +1,6 @@
+7 11 connectfive
+rifle 4 1 1
+smelt 1 4 0
+magic 2 4 1
+rehab 5 6 1
+index 2 7 0

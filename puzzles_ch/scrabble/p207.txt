@@ -1,0 +1,5 @@
+7 8 scrabble
+eerie 1 7 0
+score 5 3 1
+pence 2 4 0
+abbey 3 1 1

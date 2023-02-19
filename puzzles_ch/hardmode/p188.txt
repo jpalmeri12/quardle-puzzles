@@ -1,0 +1,5 @@
+7 8 hardmode
+glove 2 1 1
+cloth 1 2 0
+poppy 6 3 1
+equip 2 5 0

@@ -1,0 +1,5 @@
+7 8
+claim 2 1 1
+offal 4 3 1
+mafia 2 5 0
+frill 1 7 0

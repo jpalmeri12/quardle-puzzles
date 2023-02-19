@@ -1,0 +1,5 @@
+7 9
+humid 2 1 1
+risen 4 4 1
+dairy 2 5 0
+kneed 1 7 0

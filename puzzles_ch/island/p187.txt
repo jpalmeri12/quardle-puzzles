@@ -1,0 +1,6 @@
+7 10 island
+pupil 1 1 1
+lapel 1 5 0
+pecan 3 5 1
+scion 2 7 0
+!island 22 211 11111 2111

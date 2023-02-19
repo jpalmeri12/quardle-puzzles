@@ -1,0 +1,6 @@
+7 7 commonsecret
+proud 2 1 1
+repel 2 2 0
+prime 4 2 1
+curio 1 4 0
+!secret r

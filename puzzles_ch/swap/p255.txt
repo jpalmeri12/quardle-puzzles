@@ -1,0 +1,5 @@
+7 9 swap
+sieev 6 1 1
+birsk 4 4 1
+waiev 2 5 0
+trakc 1 8 0

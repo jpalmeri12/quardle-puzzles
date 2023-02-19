@@ -1,0 +1,5 @@
+7 10
+drown 2 1 1
+snail 1 5 0
+lipid 5 5 1
+morph 2 7 0

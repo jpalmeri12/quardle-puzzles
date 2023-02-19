@@ -1,0 +1,5 @@
+7 9 shiritori
+papal 2 1 1
+fancy 1 4 0
+choke 4 4 1
+theft 2 8 0

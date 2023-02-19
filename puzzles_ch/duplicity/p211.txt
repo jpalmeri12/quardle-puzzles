@@ -1,0 +1,5 @@
+7 9 duplicity
+artsy 1 1 0
+satyr 4 1 1
+payer 2 4 0
+payee 2 4 1

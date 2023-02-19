@@ -1,0 +1,5 @@
+7 10
+sleet 2 1 1
+slung 1 2 0
+trade 2 5 0
+angry 4 5 1

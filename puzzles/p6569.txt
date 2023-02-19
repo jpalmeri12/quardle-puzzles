@@ -1,0 +1,5 @@
+7 9
+craft 5 1 1
+chaff 2 4 0
+curry 2 4 1
+crier 1 7 0

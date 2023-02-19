@@ -1,0 +1,5 @@
+7 9
+fixer 2 1 1
+fiend 2 1 0
+fraud 5 4 1
+order 1 5 0

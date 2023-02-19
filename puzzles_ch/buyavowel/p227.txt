@@ -1,0 +1,5 @@
+7 9 buyavowel
+nymph 2 1 0
+plead 5 1 1
+guppy 3 4 1
+sound 1 5 0

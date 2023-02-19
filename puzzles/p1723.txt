@@ -1,0 +1,5 @@
+7 9
+abode 2 1 0
+olden 4 1 1
+jaunt 1 4 1
+among 1 5 0

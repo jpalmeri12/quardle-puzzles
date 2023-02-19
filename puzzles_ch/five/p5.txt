@@ -1,0 +1,6 @@
+7 10 five
+quasi 1 1 0
+intro 5 1 1
+gassy 3 3 1
+ascot 2 5 0
+tooth 6 5 1

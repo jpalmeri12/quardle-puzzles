@@ -1,0 +1,9 @@
+6 6 beforeafter
+turbo 1 1 0
+trade 1 1 1
+bison 4 1 1
+detox 1 4 0
+!beforeafter 2 q
+!beforeafter 1 l
+!beforeafter 1 j
+!beforeafter 1 n

@@ -1,0 +1,9 @@
+6 9 spellbound
+savvy 1 1 1
+amaze 1 2 0
+viper 1 4 0
+extol 4 4 1
+!spellbound 0 4 0
+!spellbound 1 2 3
+!spellbound 2 2 4
+!spellbound 3 2 1

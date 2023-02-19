@@ -1,0 +1,6 @@
+7 8 connectfive
+weedy 4 1 1
+decry 6 1 1
+debar 2 3 1
+elder 2 4 0
+irate 1 7 0

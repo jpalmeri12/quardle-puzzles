@@ -1,0 +1,5 @@
+7 9 invention
+gleam 2 1 1
+flesh 1 2 0
+imply 4 4 1
+mambo 2 5 0

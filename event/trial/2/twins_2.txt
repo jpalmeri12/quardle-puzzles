@@ -1,0 +1,8 @@
+6 8 twins
+creak 1 1 0
+cleft 1 3 0
+range 1 5 0
+groom 1 7 0
+!twins 0 2
+!twins 0 4
+!twins 3 4

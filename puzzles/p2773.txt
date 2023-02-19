@@ -1,0 +1,5 @@
+6 8
+alert 1 1 1
+amass 1 1 0
+robot 3 3 1
+roomy 1 4 0

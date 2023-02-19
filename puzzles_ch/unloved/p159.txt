@@ -1,0 +1,5 @@
+7 9 unloved
+dully 3 1 1
+hound 1 2 0
+flier 2 4 0
+essay 5 4 1

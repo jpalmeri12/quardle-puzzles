@@ -1,0 +1,6 @@
+7 10 wordcolumn
+crier 2 1 0
+rerun 3 1 1
+banal 1 5 0
+limbo 5 5 1
+rumba 2 8 0

@@ -1,0 +1,5 @@
+7 10
+fecal 1 1 1
+leaky 1 5 0
+knave 4 5 1
+covey 2 8 0

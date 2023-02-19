@@ -1,0 +1,5 @@
+7 9
+cower 1 1 1
+eject 1 4 0
+chunk 4 4 1
+ounce 2 7 0

@@ -1,0 +1,6 @@
+6 9 five
+lease 3 1 1
+piety 1 2 0
+skate 1 4 1
+sissy 1 4 0
+yeast 5 4 1

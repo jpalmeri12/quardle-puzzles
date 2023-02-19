@@ -1,0 +1,5 @@
+6 10 spin
+lance 2 1 1
+baler 1 2 0
+wedge 1 5 0
+guess 4 5 1

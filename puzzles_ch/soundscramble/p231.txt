@@ -1,0 +1,5 @@
+6 10 soundscramble
+famur 4 1 1
+opare 1 5 0
+alact 3 5 1
+fecat 1 8 0

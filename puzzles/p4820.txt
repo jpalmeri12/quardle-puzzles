@@ -1,0 +1,5 @@
+7 9
+blown 6 1 1
+askew 2 4 0
+skirt 3 4 1
+girly 1 7 0

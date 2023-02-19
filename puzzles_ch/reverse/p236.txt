@@ -1,0 +1,5 @@
+6 9 reverse
+ytsah 1 1 0
+awake 4 1 1
+gecko 1 4 0
+gnulf 1 4 1

@@ -1,0 +1,5 @@
+6 9
+serum 1 1 0
+unzip 4 1 1
+druid 1 4 0
+rainy 2 4 1

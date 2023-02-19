@@ -1,0 +1,5 @@
+7 10
+triad 3 1 1
+verge 1 2 0
+adage 2 5 0
+gumbo 5 5 1

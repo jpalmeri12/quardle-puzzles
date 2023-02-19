@@ -1,0 +1,5 @@
+7 8 buyavowel
+berth 1 1 0
+tight 4 1 1
+quash 2 3 1
+usher 2 4 0

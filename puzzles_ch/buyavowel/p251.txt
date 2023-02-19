@@ -1,0 +1,5 @@
+6 8 buyavowel
+broil 4 1 1
+debut 1 3 1
+decoy 1 3 0
+badly 1 5 0

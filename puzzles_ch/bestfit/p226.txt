@@ -1,0 +1,5 @@
+7 9 bestfit
+leery 2 1 1
+cross 1 4 0
+sandy 5 4 1
+heady 2 7 0

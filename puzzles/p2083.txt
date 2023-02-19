@@ -1,0 +1,5 @@
+7 10
+spine 5 1 1
+corer 2 5 0
+outdo 3 5 1
+lathe 1 7 0

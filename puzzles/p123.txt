@@ -1,0 +1,5 @@
+7 8
+guest 6 1 1
+opium 4 3 1
+stilt 2 5 0
+climb 1 7 0

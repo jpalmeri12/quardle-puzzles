@@ -1,0 +1,5 @@
+7 7 reverse
+sharp 3 1 1
+rohba 1 2 0
+atouq 5 2 1
+brood 2 4 0

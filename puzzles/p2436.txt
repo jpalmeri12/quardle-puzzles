@@ -1,0 +1,5 @@
+7 10
+quail 2 1 1
+aptly 2 3 0
+glide 1 5 0
+ivory 3 5 1

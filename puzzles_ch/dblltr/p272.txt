@@ -1,0 +1,5 @@
+7 10 dblltr
+state 2 1 1
+elect 2 5 0
+evade 4 5 1
+needy 1 8 0

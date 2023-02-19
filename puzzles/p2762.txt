@@ -1,0 +1,5 @@
+7 9
+rugby 1 1 1
+boozy 1 4 0
+opine 3 4 1
+weary 2 8 0

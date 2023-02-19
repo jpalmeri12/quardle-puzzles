@@ -1,0 +1,5 @@
+7 8 bestfit
+idyll 6 1 1
+girly 2 3 0
+rural 4 3 1
+cheap 1 6 0

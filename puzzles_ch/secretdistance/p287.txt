@@ -1,0 +1,7 @@
+7 10 secretdistance
+posit 1 1 1
+shard 1 3 0
+dunce 5 3 1
+token 2 7 0
+pearl 1 9 0
+!sdpos 1 2 2 2

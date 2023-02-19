@@ -1,0 +1,5 @@
+7 9 skyscrapers
+shape 2 5 0
+spiny 5 4 1
+dozen 1 7 0
+forth 3 1 1

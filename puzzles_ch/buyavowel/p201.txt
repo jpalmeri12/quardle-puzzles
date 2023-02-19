@@ -1,0 +1,5 @@
+7 9 buyavowel
+agate 2 1 0
+alike 4 1 1
+wacky 1 4 0
+wharf 1 4 1

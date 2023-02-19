@@ -1,0 +1,5 @@
+7 9 elbowroom
+shake 3 1 1
+adapt 5 4 1
+beady 2 5 0
+crisp 1 7 0

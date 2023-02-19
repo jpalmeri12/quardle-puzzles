@@ -1,0 +1,6 @@
+6 7 commonsecret
+utter 4 1 1
+crate 1 2 0
+creak 1 2 1
+apart 1 5 0
+!secret r

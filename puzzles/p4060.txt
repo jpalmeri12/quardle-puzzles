@@ -1,0 +1,5 @@
+7 9
+penny 1 1 0
+nerdy 3 1 1
+adapt 2 4 0
+trash 6 4 1

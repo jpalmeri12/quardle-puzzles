@@ -1,0 +1,6 @@
+7 9 five
+raspy 1 1 0
+actor 2 1 1
+ought 2 4 0
+teach 6 4 1
+stoic 2 7 0

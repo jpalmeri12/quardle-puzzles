@@ -1,0 +1,5 @@
+7 9 desync
+lumpy 1 1 0
+media 3 1 1
+cynic 6 4 1
+fatty 2 5 0

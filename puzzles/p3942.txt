@@ -1,0 +1,5 @@
+7 8
+panel 1 1 0
+actor 2 1 1
+tacit 2 3 0
+tango 6 3 1

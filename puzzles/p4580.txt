@@ -1,0 +1,5 @@
+7 10
+shard 2 1 1
+devil 2 5 0
+vista 4 5 1
+vegan 1 9 0

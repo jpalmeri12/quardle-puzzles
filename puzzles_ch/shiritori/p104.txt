@@ -1,0 +1,5 @@
+7 9 shiritori
+karma 1 1 1
+missy 1 4 0
+scant 4 4 1
+extol 2 8 0

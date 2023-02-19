@@ -1,0 +1,5 @@
+6 9 desync
+hydro 1 1 0
+retry 4 1 1
+curry 1 4 0
+cloak 1 4 1

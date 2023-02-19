@@ -1,0 +1,5 @@
+7 9
+evict 4 1 1
+clerk 2 4 1
+slate 1 5 0
+remit 2 7 0

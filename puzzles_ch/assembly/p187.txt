@@ -1,0 +1,5 @@
+6 10 assembly
+freak 1 3 1
+tease 5 3 1
+rehab 1 1 0
+skier 1 9 0

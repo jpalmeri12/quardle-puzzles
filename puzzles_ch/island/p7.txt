@@ -1,0 +1,6 @@
+6 9 island
+lupus 1 1 1
+udder 5 4 1
+scold 1 5 0
+belle 1 7 0
+!island 211 31 32 111

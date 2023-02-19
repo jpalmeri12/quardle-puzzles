@@ -1,0 +1,6 @@
+7 9 five
+rough 4 1 1
+bigot 1 2 0
+idiom 2 2 1
+ingot 2 4 0
+truce 6 4 1

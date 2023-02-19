@@ -1,0 +1,5 @@
+6 10 frequency
+thing 1 1 1
+goody 1 5 0
+decoy 4 5 1
+botch 1 7 0

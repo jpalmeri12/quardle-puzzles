@@ -1,0 +1,7 @@
+8 8 sixbox
+plate 3 1 1
+breed 5 1 1
+glade 1 3 0
+draft 4 3 1
+tread 3 4 0
+dread 1 5 0

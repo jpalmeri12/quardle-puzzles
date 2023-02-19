@@ -1,0 +1,5 @@
+7 9
+fjord 2 1 1
+relic 2 4 0
+leash 4 4 1
+guest 1 7 0

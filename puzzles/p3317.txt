@@ -1,0 +1,5 @@
+7 8
+awake 1 1 0
+wagon 2 1 1
+goner 2 3 0
+north 4 3 1

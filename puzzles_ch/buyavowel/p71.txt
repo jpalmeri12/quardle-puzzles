@@ -1,0 +1,5 @@
+7 9 buyavowel
+toddy 5 1 1
+wrong 2 4 1
+weedy 2 4 0
+igloo 1 8 0

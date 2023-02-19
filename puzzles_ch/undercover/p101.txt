@@ -1,0 +1,6 @@
+7 11 undercover
+chasm 2 1 0
+shade 5 1 1
+baron 3 4 1
+shape 1 5 0
+quill 1 10 0

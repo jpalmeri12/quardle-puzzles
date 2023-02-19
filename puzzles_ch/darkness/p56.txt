@@ -1,0 +1,5 @@
+7 8 darkness
+quest 2 3 0
+udder 3 3 1
+thrum 1 7 0
+upset 5 1 1

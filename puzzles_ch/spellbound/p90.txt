@@ -1,0 +1,9 @@
+6 9 spellbound
+limbo 1 1 1
+inbox 1 2 0
+blaze 1 4 0
+ample 3 4 1
+!spellbound 0 4 2
+!spellbound 1 1 2
+!spellbound 2 3 4
+!spellbound 3 2 1

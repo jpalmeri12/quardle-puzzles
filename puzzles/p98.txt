@@ -1,0 +1,5 @@
+7 8
+pixie 2 1 0
+inner 5 1 1
+mangy 3 3 1
+amaze 1 4 0

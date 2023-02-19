@@ -1,0 +1,5 @@
+7 9 shiritori
+tunic 1 1 1
+skill 5 4 1
+caulk 1 5 0
+tally 2 7 0

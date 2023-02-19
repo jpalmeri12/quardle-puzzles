@@ -1,0 +1,6 @@
+7 11 wordcolumn
+sheer 6 1 1
+freak 3 2 1
+reuse 2 4 0
+liken 1 6 0
+loser 1 6 1

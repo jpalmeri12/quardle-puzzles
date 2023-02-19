@@ -1,0 +1,6 @@
+7 11 drop
+antic 2 1 1
+aisle 2 1 0
+train 5 4 1
+scour 1 5 0
+ascot 1 10 0

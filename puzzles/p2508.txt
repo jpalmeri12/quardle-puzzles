@@ -1,0 +1,5 @@
+7 7
+vodka 5 1 1
+genie 3 2 1
+teddy 2 3 0
+voila 1 5 0

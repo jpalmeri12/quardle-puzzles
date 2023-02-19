@@ -1,0 +1,6 @@
+7 10 wordcolumn
+peace 4 1 1
+press 2 2 0
+fiery 2 5 0
+irony 3 5 1
+scoff 1 7 0

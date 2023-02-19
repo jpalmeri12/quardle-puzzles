@@ -1,0 +1,5 @@
+7 10 duplicity
+crest 6 1 1
+upper 2 5 1
+upset 2 5 0
+creep 1 9 0

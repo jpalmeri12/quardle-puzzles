@@ -1,0 +1,5 @@
+7 9
+stiff 2 1 1
+stunk 1 2 0
+trite 6 4 1
+flyer 2 5 0

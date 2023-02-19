@@ -1,0 +1,5 @@
+7 9
+gamma 6 1 1
+brief 3 4 1
+drama 2 5 0
+sweep 1 7 0

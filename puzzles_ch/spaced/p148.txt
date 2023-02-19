@@ -1,0 +1,5 @@
+7 9 spaced
+squib 1 1 0
+bluer 5 1 1
+layer 2 4 0
+amity 3 4 1

@@ -1,0 +1,5 @@
+7 9 skyscrapers
+tripe 1 1 1
+probe 1 4 0
+brawn 4 4 1
+manor 2 8 0

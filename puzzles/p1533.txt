@@ -1,0 +1,5 @@
+7 9
+being 2 1 1
+midge 5 4 1
+grail 2 5 0
+niece 1 8 0

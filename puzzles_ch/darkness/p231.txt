@@ -1,0 +1,5 @@
+7 8 darkness
+scone 2 1 1
+tenor 1 5 0
+offer 2 3 0
+fjord 4 3 1

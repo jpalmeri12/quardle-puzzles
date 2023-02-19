@@ -1,0 +1,7 @@
+6 8 secretdistance
+trend 1 1 1
+splat 3 1 1
+reply 1 2 0
+ditto 1 5 0
+great 1 7 0
+!sdpos 1 3 2 1

@@ -1,0 +1,9 @@
+6 7 spellbound
+cheap 2 1 1
+shrub 1 2 0
+braid 5 2 1
+pasta 1 4 0
+!spellbound 0 0 2
+!spellbound 1 0 3
+!spellbound 2 4 1
+!spellbound 3 0 2

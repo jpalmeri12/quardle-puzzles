@@ -1,0 +1,5 @@
+6 9 buyavowel
+speak 2 1 1
+faith 1 4 0
+thief 4 4 1
+graft 1 8 0

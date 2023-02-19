@@ -1,0 +1,5 @@
+7 7
+lunge 4 1 1
+stoop 2 2 1
+skull 2 2 0
+rouge 1 4 0

@@ -1,0 +1,5 @@
+7 10 swap
+isnge 2 1 0
+nkeed 4 1 1
+aiedr 1 5 0
+awltz 1 5 1

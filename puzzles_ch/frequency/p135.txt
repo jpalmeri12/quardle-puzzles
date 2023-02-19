@@ -1,0 +1,5 @@
+7 10 frequency
+stole 4 1 1
+pitch 2 2 0
+fairy 1 5 1
+facet 1 5 0

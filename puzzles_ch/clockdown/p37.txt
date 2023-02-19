@@ -1,0 +1,5 @@
+7 10 clockdown
+radii 5 1 1
+rabid 1 3 0
+optic 2 5 0
+obese 2 5 1

@@ -1,0 +1,5 @@
+7 8
+shyly 3 1 1
+tread 5 3 1
+alert 2 4 0
+spend 1 7 0

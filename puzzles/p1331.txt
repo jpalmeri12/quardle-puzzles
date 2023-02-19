@@ -1,0 +1,5 @@
+7 10
+gipsy 5 1 1
+grail 2 2 0
+wimpy 1 5 0
+weave 1 5 1

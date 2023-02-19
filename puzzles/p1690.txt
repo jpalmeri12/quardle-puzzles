@@ -1,0 +1,5 @@
+7 10
+beard 4 1 1
+medic 2 5 0
+inter 5 5 1
+bleat 1 7 0

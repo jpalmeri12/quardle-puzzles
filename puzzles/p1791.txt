@@ -1,0 +1,5 @@
+7 10
+tried 4 1 1
+shady 1 5 0
+heath 2 5 1
+hunky 2 9 0

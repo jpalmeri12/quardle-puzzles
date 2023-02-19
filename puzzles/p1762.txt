@@ -1,0 +1,5 @@
+7 10
+musky 2 1 1
+lying 1 5 0
+ideal 3 5 1
+bawdy 2 8 0

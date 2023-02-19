@@ -1,0 +1,5 @@
+7 9 spin
+shoot 2 1 1
+hairy 2 2 0
+decry 4 4 1
+utter 1 5 0

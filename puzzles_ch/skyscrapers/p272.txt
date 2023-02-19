@@ -1,0 +1,5 @@
+7 10 skyscrapers
+wedge 1 5 0
+eater 5 5 1
+cagey 2 8 0
+being 4 1 1

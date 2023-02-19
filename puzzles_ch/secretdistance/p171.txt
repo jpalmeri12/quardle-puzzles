@@ -1,0 +1,7 @@
+7 12 secretdistance
+miser 4 1 1
+trash 1 3 0
+horse 2 5 0
+hilly 2 5 1
+geese 1 11 0
+!sdpos 2 0 3 2

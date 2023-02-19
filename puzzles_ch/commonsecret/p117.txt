@@ -1,0 +1,6 @@
+7 9 commonsecret
+aorta 1 1 1
+tonga 1 4 0
+ghost 4 4 1
+flour 2 6 0
+!secret o

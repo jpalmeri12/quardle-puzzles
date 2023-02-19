@@ -1,0 +1,9 @@
+7 10 spellbound
+chili 3 1 1
+titan 2 3 0
+agile 1 5 0
+gusto 2 5 1
+!spellbound 0 0 3
+!spellbound 1 4 3
+!spellbound 2 0 4
+!spellbound 3 4 2

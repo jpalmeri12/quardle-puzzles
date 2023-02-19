@@ -1,0 +1,5 @@
+7 9
+waver 5 1 1
+level 2 4 1
+entry 2 5 0
+flirt 1 8 0

@@ -1,0 +1,5 @@
+7 10 reverse
+dealt 2 1 1
+stash 1 5 0
+hctal 5 5 1
+reulb 2 9 0

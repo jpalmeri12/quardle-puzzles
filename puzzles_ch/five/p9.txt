@@ -1,0 +1,6 @@
+6 10 five
+squad 1 1 1
+evict 4 4 1
+drive 1 5 0
+range 2 5 1
+knack 1 7 0

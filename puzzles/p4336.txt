@@ -1,0 +1,5 @@
+7 10
+crimp 2 1 1
+apnea 1 5 0
+edict 4 5 1
+slide 2 7 0

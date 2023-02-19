@@ -1,0 +1,5 @@
+7 9
+baker 5 1 1
+scrap 2 2 0
+solve 1 4 0
+lefty 3 4 1

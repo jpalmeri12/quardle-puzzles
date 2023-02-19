@@ -1,0 +1,5 @@
+7 10 dblltr
+lever 4 1 1
+siege 2 2 0
+agora 1 5 0
+gauge 2 5 1

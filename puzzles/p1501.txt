@@ -1,0 +1,5 @@
+7 8
+sniff 1 1 0
+foist 4 1 1
+bylaw 6 3 1
+mushy 2 4 0

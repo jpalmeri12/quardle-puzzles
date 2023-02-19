@@ -1,0 +1,6 @@
+7 8 island
+scalp 4 1 1
+assay 1 3 0
+smash 2 3 1
+amply 2 5 0
+!island 221 21 211 2111

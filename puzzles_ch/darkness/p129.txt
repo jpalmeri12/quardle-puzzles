@@ -1,0 +1,5 @@
+7 8 darkness
+trace 5 1 1
+fjord 2 3 1
+disco 2 7 0
+forge 1 5 0

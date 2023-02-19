@@ -1,0 +1,6 @@
+6 8 squaredance
+allow 1 1 1
+evict 5 1 1
+arose 1 1 0
+wrest 1 5 0
+digit 1 7 0

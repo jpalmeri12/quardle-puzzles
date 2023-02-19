@@ -1,0 +1,5 @@
+7 9 spaced
+thyme 5 1 1
+flash 1 2 0
+vocal 3 4 1
+bowel 2 5 0

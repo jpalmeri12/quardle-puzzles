@@ -1,0 +1,5 @@
+7 8
+juicy 1 1 0
+inbox 3 1 1
+aback 2 3 0
+condo 5 3 1

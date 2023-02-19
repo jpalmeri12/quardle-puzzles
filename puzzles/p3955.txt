@@ -1,0 +1,5 @@
+7 9
+spurt 5 1 1
+champ 1 2 0
+afire 2 4 0
+fairy 3 4 1

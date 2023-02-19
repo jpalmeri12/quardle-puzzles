@@ -1,0 +1,5 @@
+7 10 spaced
+train 2 1 1
+threw 2 1 0
+inert 1 5 0
+trace 5 5 1

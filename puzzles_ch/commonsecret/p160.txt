@@ -1,0 +1,6 @@
+6 7 commonsecret
+quell 2 1 1
+judge 1 2 0
+grave 4 2 1
+glove 1 5 0
+!secret e

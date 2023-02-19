@@ -1,0 +1,5 @@
+7 10 buyavowel
+clown 2 1 0
+wharf 5 1 1
+stuff 1 5 0
+fetus 4 5 1

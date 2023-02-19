@@ -1,0 +1,5 @@
+7 10
+whole 2 1 1
+robot 1 3 0
+emcee 2 5 0
+ethos 6 5 1

@@ -1,0 +1,5 @@
+7 8 invention
+lemon 1 1 1
+motor 1 3 0
+opera 4 3 1
+beady 2 7 0

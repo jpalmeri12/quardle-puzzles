@@ -1,0 +1,6 @@
+7 9 undercover
+setup 3 1 1
+rehab 2 2 0
+angst 5 2 1
+young 1 4 0
+vivid 1 8 0

@@ -1,0 +1,6 @@
+7 9 wordcolumn
+doing 4 1 1
+furor 1 2 0
+unfit 2 2 1
+fungi 2 4 0
+irate 6 4 1

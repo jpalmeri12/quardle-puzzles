@@ -1,0 +1,9 @@
+7 9 spellbound
+rebus 1 1 1
+ovine 4 4 1
+solve 1 5 0
+cleft 2 8 0
+!spellbound 0 0 2
+!spellbound 1 0 3
+!spellbound 2 1 4
+!spellbound 3 3 0

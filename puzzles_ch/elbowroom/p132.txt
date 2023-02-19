@@ -1,0 +1,5 @@
+7 9 elbowroom
+pinch 6 1 1
+altar 4 4 1
+filth 2 5 0
+rural 1 7 0

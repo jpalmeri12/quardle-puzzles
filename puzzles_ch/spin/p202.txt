@@ -1,0 +1,5 @@
+7 7 spin
+patty 6 1 1
+bushy 2 2 1
+shift 2 4 0
+cynic 1 6 0

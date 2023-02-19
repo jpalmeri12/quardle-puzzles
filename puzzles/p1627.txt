@@ -1,0 +1,5 @@
+7 9
+dwarf 5 1 1
+brown 2 4 1
+blare 2 4 0
+annul 1 8 0

@@ -1,0 +1,6 @@
+6 9 commonsecret
+plumb 1 1 1
+bagel 3 4 1
+bland 1 5 0
+filer 1 8 0
+!secret l

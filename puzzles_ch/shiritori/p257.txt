@@ -1,0 +1,5 @@
+7 8 shiritori
+gumbo 3 1 1
+slyly 5 3 1
+irony 1 5 0
+satyr 2 7 0

@@ -1,0 +1,5 @@
+7 10
+probe 5 1 1
+talon 2 3 0
+flake 1 5 0
+adept 3 5 1

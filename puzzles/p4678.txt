@@ -1,0 +1,5 @@
+7 10
+spoil 6 1 1
+quill 2 5 0
+quote 2 5 1
+attic 1 8 0

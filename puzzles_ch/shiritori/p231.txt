@@ -1,0 +1,5 @@
+7 8 shiritori
+mango 2 1 0
+given 5 1 1
+spoof 1 3 1
+prove 1 4 0

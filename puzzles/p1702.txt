@@ -1,0 +1,5 @@
+7 10
+label 4 1 1
+bulky 2 5 0
+unzip 3 5 1
+quill 1 8 0

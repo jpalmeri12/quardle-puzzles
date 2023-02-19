@@ -1,0 +1,5 @@
+7 9 shiritori
+photo 5 1 1
+apron 3 4 1
+spoof 2 5 0
+brood 1 7 0

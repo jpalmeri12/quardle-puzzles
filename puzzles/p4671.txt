@@ -1,0 +1,5 @@
+7 9
+glide 6 1 1
+plead 2 4 0
+leant 3 4 1
+apart 1 6 0

@@ -1,0 +1,5 @@
+7 10 spaced
+relay 6 1 1
+dumpy 2 5 0
+pecan 5 5 1
+cairn 1 9 0

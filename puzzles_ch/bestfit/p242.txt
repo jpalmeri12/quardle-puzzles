@@ -1,0 +1,5 @@
+7 10 bestfit
+bayou 2 1 1
+using 2 5 0
+slain 3 5 1
+manic 1 9 0

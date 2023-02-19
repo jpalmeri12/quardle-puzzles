@@ -1,0 +1,8 @@
+6 8 twins
+smile 1 1 0
+saucy 1 3 0
+gully 1 5 0
+prove 1 7 0
+!twins 1 2
+!twins 2 3
+!twins 1 2

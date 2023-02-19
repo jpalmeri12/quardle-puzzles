@@ -1,0 +1,5 @@
+7 9 duplicity
+asset 1 1 0
+sweet 3 1 1
+terra 2 4 0
+aware 6 4 1

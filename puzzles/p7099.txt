@@ -1,0 +1,5 @@
+7 10
+snake 2 1 1
+atone 2 3 0
+deuce 1 5 0
+crank 4 5 1

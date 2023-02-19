@@ -1,0 +1,5 @@
+7 8 darkness
+press 5 1 1
+buyer 2 3 0
+chirp 1 1 0
+unmet 3 3 1

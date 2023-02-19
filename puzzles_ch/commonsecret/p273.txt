@@ -1,0 +1,6 @@
+6 8 commonsecret
+jiffy 1 1 0
+fiery 4 1 1
+ratty 2 3 1
+harry 1 4 0
+!secret y

@@ -1,0 +1,5 @@
+6 8 shiritori
+light 2 1 1
+marsh 4 3 1
+wheat 1 4 0
+pithy 1 7 0

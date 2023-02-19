@@ -1,0 +1,6 @@
+7 10 commonsecret
+folio 5 1 1
+melon 2 5 0
+milky 2 5 1
+bleed 1 7 0
+!secret l

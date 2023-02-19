@@ -1,0 +1,6 @@
+7 9 commonsecret
+spook 4 1 1
+broke 2 4 0
+blink 2 4 1
+skiff 1 8 0
+!secret k

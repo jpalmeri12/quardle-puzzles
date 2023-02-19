@@ -1,0 +1,5 @@
+7 8 spaced
+imbue 5 1 1
+gumbo 2 3 0
+gecko 2 3 1
+scale 1 5 0

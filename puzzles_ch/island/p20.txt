@@ -1,0 +1,6 @@
+7 8 island
+mossy 2 1 0
+sweat 5 1 1
+bloke 1 3 0
+lasso 2 3 1
+!island 1111 41 311 22

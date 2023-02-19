@@ -1,0 +1,6 @@
+7 9 drop
+botch 1 1 1
+ebony 3 2 1
+table 1 3 0
+tying 2 6 0
+cyber 1 8 0

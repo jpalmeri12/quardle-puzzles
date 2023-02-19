@@ -1,0 +1,5 @@
+7 10
+bluff 4 1 1
+exalt 1 2 0
+gaffe 2 5 0
+gayer 2 5 1

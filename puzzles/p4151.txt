@@ -1,0 +1,5 @@
+7 10
+goofy 3 1 1
+crypt 1 5 0
+petty 4 5 1
+bitty 2 7 0

@@ -1,0 +1,5 @@
+7 9 invention
+onion 4 1 1
+scour 2 4 0
+steer 2 4 1
+great 1 8 0

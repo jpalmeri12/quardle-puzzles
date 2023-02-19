@@ -1,0 +1,6 @@
+6 9 connectfive
+gaffe 5 1 1
+rumba 1 2 0
+agree 1 4 1
+patch 3 4 1
+grade 1 5 0

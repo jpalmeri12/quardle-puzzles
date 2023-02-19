@@ -1,0 +1,5 @@
+7 8
+reedy 2 1 1
+elude 2 3 0
+unset 4 3 1
+gypsy 1 5 0

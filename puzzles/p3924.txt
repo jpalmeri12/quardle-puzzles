@@ -1,0 +1,5 @@
+7 8
+froth 1 1 1
+weigh 4 3 1
+taken 1 4 0
+aphid 2 7 0

@@ -1,0 +1,6 @@
+7 11 connectfive
+lingo 2 1 1
+fetid 4 4 1
+foyer 1 5 0
+itchy 6 6 1
+shift 2 7 0

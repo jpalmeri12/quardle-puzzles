@@ -1,0 +1,5 @@
+7 10 sweeper
+spoil 2 1 1
+stool 2 1 0
+bilge 1 5 1
+bland 1 5 0

@@ -1,0 +1,5 @@
+7 8 spin
+mince 1 1 0
+eject 5 1 1
+tiger 2 3 0
+ideal 3 3 1

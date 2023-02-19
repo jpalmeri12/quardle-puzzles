@@ -1,0 +1,5 @@
+7 10 reverse
+under 3 1 1
+ydoom 2 3 0
+yrruh 1 5 0
+roach 2 5 1

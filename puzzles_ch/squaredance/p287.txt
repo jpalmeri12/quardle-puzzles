@@ -1,0 +1,6 @@
+6 8 squaredance
+spurt 1 1 1
+there 5 1 1
+shunt 1 1 0
+trace 1 5 0
+joist 1 7 0

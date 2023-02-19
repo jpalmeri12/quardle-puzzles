@@ -1,0 +1,6 @@
+6 8 squaredance
+rabid 1 1 1
+needy 5 1 1
+ripen 1 1 0
+daddy 1 5 0
+spurn 1 7 0

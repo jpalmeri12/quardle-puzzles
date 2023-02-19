@@ -1,0 +1,5 @@
+7 10
+shoot 2 1 1
+stoic 1 5 0
+inane 4 5 1
+exalt 2 7 0

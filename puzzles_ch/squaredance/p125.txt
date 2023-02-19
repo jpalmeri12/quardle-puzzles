@@ -1,0 +1,6 @@
+6 8 squaredance
+hovel 1 1 1
+dandy 5 1 1
+hoard 1 1 0
+lefty 1 5 0
+detox 1 7 0

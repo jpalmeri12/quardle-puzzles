@@ -1,0 +1,5 @@
+6 9 skyscrapers
+yearn 1 5 0
+snaky 1 1 1
+stray 1 1 0
+entry 5 4 1

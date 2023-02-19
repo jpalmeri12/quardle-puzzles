@@ -1,0 +1,6 @@
+6 8 squaredance
+loyal 1 1 1
+reply 5 1 1
+leper 1 1 0
+lefty 1 5 0
+havoc 1 7 0

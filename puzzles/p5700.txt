@@ -1,0 +1,5 @@
+7 10
+aider 2 1 1
+rerun 2 5 0
+unset 5 5 1
+grass 1 7 0

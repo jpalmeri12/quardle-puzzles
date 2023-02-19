@@ -1,0 +1,6 @@
+7 9 drop
+arose 2 1 1
+gruff 1 2 0
+finer 5 2 1
+suing 2 4 0
+guard 1 8 0

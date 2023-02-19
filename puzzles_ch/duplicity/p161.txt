@@ -1,0 +1,5 @@
+7 10 duplicity
+stout 2 1 1
+store 2 1 0
+etude 1 5 0
+dress 4 5 1

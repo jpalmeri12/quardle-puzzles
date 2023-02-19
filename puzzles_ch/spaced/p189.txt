@@ -1,0 +1,5 @@
+7 10 spaced
+throb 2 1 1
+chunk 1 2 0
+bluer 2 5 0
+unify 4 5 1

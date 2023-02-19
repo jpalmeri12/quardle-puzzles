@@ -1,0 +1,6 @@
+7 10 five
+smelt 4 1 1
+trait 2 2 1
+cruel 1 3 0
+inter 2 5 0
+eclat 5 5 1

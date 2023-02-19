@@ -1,0 +1,5 @@
+7 7 shiritori
+dried 5 1 1
+fella 3 2 1
+fetid 2 3 0
+valid 1 5 0

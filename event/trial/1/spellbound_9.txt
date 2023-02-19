@@ -1,0 +1,9 @@
+7 10 spellbound
+cameo 5 1 1
+ingot 2 5 0
+irony 2 5 1
+polar 1 7 0
+!spellbound 0 0 1
+!spellbound 1 4 2
+!spellbound 2 1 4
+!spellbound 3 3 2

@@ -1,0 +1,5 @@
+7 9 spaced
+askew 1 1 0
+swamp 2 1 1
+reign 5 4 1
+panel 2 5 0

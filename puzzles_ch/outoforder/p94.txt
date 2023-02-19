@@ -1,0 +1,5 @@
+7 10 outoforder
+grout 1 1 0
+tibia 5 1 1
+relax 2 5 0
+reedy 2 5 1

@@ -1,0 +1,5 @@
+7 9 shiritori
+dully 6 1 1
+afoul 2 4 0
+flair 3 4 1
+crick 1 7 0

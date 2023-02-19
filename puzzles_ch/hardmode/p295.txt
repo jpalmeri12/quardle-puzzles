@@ -1,0 +1,5 @@
+7 10 hardmode
+pesky 5 1 1
+guest 2 3 0
+foray 1 5 0
+forty 1 5 1

@@ -1,0 +1,5 @@
+6 9 scrabble
+aider 2 1 1
+sigma 1 2 0
+caper 4 4 1
+teach 1 4 0

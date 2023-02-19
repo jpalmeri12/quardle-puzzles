@@ -1,0 +1,5 @@
+6 10 reverse
+berry 3 1 1
+royal 1 5 0
+onaip 2 5 1
+tibed 1 8 0

@@ -1,0 +1,5 @@
+7 9 duplicity
+chute 2 1 1
+etude 1 4 0
+depot 4 4 1
+pooch 2 7 0

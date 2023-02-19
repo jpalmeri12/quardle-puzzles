@@ -1,0 +1,9 @@
+7 9 beforeafter
+faint 3 1 1
+fairy 2 2 0
+adult 1 4 1
+ditty 1 5 0
+!beforeafter 2 m
+!beforeafter 2 n
+!beforeafter 1 i
+!beforeafter 1 r

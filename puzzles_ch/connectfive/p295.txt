@@ -1,0 +1,6 @@
+6 10 connectfive
+hyena 2 1 1
+width 4 2 1
+refit 1 3 0
+cacti 1 5 0
+cigar 1 5 1

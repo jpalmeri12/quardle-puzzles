@@ -1,0 +1,6 @@
+7 9 island
+flora 4 1 1
+start 1 4 0
+thump 2 4 1
+merry 2 7 0
+!island 221 22 2111 211

@@ -1,0 +1,5 @@
+7 9 skyscrapers
+tiara 1 7 0
+peril 2 4 1
+erect 2 5 0
+close 4 1 1

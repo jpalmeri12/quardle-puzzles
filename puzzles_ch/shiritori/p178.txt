@@ -1,0 +1,5 @@
+7 10 shiritori
+adore 2 1 1
+genre 1 5 0
+riser 4 5 1
+barge 2 9 0

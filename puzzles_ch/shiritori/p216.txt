@@ -1,0 +1,5 @@
+7 9 shiritori
+sport 5 1 1
+abate 2 4 1
+butte 2 5 0
+stair 1 7 0

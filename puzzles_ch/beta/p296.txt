@@ -1,0 +1,5 @@
+7 8 beta
+moron 4 1 1
+villa 2 3 1
+clung 1 5 0
+actor 2 7 0

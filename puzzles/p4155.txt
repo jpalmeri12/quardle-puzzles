@@ -1,0 +1,5 @@
+7 9
+adage 2 1 1
+adopt 1 2 0
+gnash 2 4 0
+arise 4 4 1

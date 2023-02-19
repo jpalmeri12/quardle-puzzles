@@ -1,0 +1,5 @@
+7 10
+spree 2 1 1
+excel 2 5 0
+cumin 4 5 1
+arena 1 9 0

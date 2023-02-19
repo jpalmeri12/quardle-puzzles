@@ -1,0 +1,5 @@
+7 10
+leafy 4 1 1
+crypt 2 5 0
+couch 2 5 1
+audit 1 7 0

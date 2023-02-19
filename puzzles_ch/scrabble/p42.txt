@@ -1,0 +1,5 @@
+7 9 scrabble
+opine 4 1 1
+sinew 2 4 0
+swoop 1 1 0
+willy 6 4 1

@@ -1,0 +1,6 @@
+6 9 drop
+medal 1 1 1
+mourn 3 2 1
+droll 1 3 0
+larva 1 5 0
+ruddy 1 8 0

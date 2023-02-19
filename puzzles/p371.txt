@@ -1,0 +1,5 @@
+7 10
+beach 2 1 1
+batch 2 1 0
+showy 1 5 0
+owner 3 5 1

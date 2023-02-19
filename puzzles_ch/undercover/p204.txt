@@ -1,0 +1,6 @@
+7 10 undercover
+flirt 3 1 1
+filmy 2 3 0
+miser 5 3 1
+fetus 1 5 0
+canon 1 9 0

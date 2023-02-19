@@ -1,0 +1,5 @@
+7 8
+tract 2 1 1
+month 5 3 1
+thing 2 5 0
+cinch 1 7 0

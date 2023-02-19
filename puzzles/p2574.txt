@@ -1,0 +1,5 @@
+7 9
+purge 2 1 1
+lease 5 4 1
+enter 2 5 0
+chase 1 8 0

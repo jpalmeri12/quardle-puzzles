@@ -1,0 +1,5 @@
+7 10
+stood 2 1 1
+digit 2 5 0
+gloat 4 5 1
+carol 1 7 0

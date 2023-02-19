@@ -1,0 +1,6 @@
+6 10 five
+homer 4 1 1
+cabin 1 2 1
+color 1 2 0
+inert 1 5 0
+tithe 5 5 1

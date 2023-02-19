@@ -1,0 +1,6 @@
+7 12 drop
+acute 2 1 0
+caper 3 1 1
+perky 1 5 0
+yearn 5 5 1
+angry 1 11 0

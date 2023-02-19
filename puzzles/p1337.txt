@@ -1,0 +1,5 @@
+6 9
+pansy 5 1 1
+villa 1 2 0
+chess 1 4 0
+hunch 2 4 1

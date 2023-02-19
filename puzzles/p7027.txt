@@ -1,0 +1,5 @@
+7 9
+louse 4 1 1
+grove 2 2 0
+house 1 4 0
+humor 1 4 1

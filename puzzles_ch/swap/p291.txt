@@ -1,0 +1,5 @@
+7 8 swap
+satry 2 1 1
+paple 4 3 1
+trdae 1 4 0
+laent 2 7 0

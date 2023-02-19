@@ -1,0 +1,6 @@
+6 8 squaredance
+bread 1 1 1
+nanny 5 1 1
+begun 1 1 0
+daisy 1 5 0
+agile 1 7 0

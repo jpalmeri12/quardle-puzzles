@@ -1,0 +1,5 @@
+7 9
+snack 5 1 1
+stint 2 2 0
+lyric 1 4 0
+lunch 1 4 1

@@ -1,0 +1,5 @@
+7 9
+fleet 3 1 1
+sperm 1 4 0
+mania 5 4 1
+fruit 2 7 0

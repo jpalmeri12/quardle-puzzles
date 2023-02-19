@@ -1,0 +1,5 @@
+7 7 spaced
+hydro 5 1 1
+dusky 1 2 0
+swami 3 2 1
+dairy 2 4 0

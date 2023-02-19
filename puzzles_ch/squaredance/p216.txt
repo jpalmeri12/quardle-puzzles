@@ -1,0 +1,6 @@
+6 8 squaredance
+chase 1 1 1
+sweet 5 1 1
+chess 1 1 0
+exact 1 5 0
+frill 1 7 0

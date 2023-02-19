@@ -1,0 +1,5 @@
+6 7 buyavowel
+abyss 1 1 1
+botch 1 2 0
+creme 4 2 1
+stamp 1 5 0

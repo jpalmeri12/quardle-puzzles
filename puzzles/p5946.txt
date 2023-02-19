@@ -1,0 +1,5 @@
+7 10
+glade 5 1 1
+krill 1 2 0
+expel 2 5 0
+label 6 5 1

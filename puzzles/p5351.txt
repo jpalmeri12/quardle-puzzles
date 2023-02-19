@@ -1,0 +1,5 @@
+7 10
+awoke 4 1 1
+tawny 2 2 0
+wafer 1 5 0
+aunty 2 5 1

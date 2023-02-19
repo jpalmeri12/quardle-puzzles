@@ -1,0 +1,5 @@
+7 9
+lusty 5 1 1
+lefty 2 4 0
+epoch 3 4 1
+macaw 1 7 0

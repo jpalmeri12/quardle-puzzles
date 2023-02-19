@@ -1,0 +1,5 @@
+7 9 bestfit
+slave 2 1 0
+stove 2 1 1
+avian 1 4 0
+nomad 5 4 1

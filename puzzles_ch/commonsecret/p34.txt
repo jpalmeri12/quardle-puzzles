@@ -1,0 +1,6 @@
+7 8 commonsecret
+swept 1 1 1
+retch 3 3 1
+piety 1 4 0
+eclat 2 6 0
+!secret t

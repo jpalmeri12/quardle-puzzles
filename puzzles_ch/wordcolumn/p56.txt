@@ -1,0 +1,6 @@
+7 9 wordcolumn
+asset 2 1 0
+sharp 3 1 1
+north 1 4 0
+holly 5 4 1
+child 2 7 0

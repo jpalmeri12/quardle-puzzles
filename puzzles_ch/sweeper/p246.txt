@@ -1,0 +1,5 @@
+7 9 sweeper
+abbot 5 1 1
+crumb 1 2 0
+arson 2 4 0
+above 2 4 1

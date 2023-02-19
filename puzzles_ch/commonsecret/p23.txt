@@ -1,0 +1,6 @@
+6 9 commonsecret
+blimp 1 1 1
+swirl 4 4 1
+prowl 1 5 0
+exult 1 8 0
+!secret l

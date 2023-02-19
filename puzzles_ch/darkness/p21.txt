@@ -1,0 +1,5 @@
+7 8 darkness
+thump 1 4 0
+shape 5 1 1
+lover 2 7 0
+chill 2 3 1

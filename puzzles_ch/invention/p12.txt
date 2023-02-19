@@ -1,0 +1,5 @@
+7 9 invention
+least 2 1 0
+sworn 5 1 1
+wafer 1 4 0
+foggy 3 4 1

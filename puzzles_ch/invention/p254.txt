@@ -1,0 +1,5 @@
+7 8 invention
+about 1 1 0
+basis 2 1 1
+spice 2 3 0
+conic 5 3 1

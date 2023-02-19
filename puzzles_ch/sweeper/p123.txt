@@ -1,0 +1,5 @@
+6 9 sweeper
+brash 1 1 1
+swami 1 4 0
+mover 4 4 1
+facet 1 7 0

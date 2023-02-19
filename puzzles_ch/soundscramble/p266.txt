@@ -1,0 +1,5 @@
+7 10 soundscramble
+meces 2 1 1
+stagu 2 5 0
+givur 5 5 1
+ombru 1 8 0

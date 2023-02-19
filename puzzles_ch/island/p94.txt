@@ -1,0 +1,6 @@
+6 7 island
+usher 4 1 1
+picky 2 2 1
+lithe 1 3 0
+skirt 1 5 0
+!island 32 2111 11111 221

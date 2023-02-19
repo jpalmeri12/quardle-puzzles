@@ -1,0 +1,5 @@
+7 10 soundscramble
+nitil 5 1 1
+bidly 2 5 0
+drave 4 5 1
+iffax 1 7 0

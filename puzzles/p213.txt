@@ -1,0 +1,5 @@
+6 7
+width 5 1 1
+rabbi 1 2 0
+bloom 3 2 1
+spout 1 4 0

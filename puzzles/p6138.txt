@@ -1,0 +1,5 @@
+6 8
+alone 1 1 0
+nosey 4 1 1
+scowl 2 3 1
+screw 1 4 0

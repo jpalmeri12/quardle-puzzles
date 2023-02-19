@@ -1,0 +1,5 @@
+6 7 spaced
+other 2 1 1
+admit 4 2 1
+shady 1 3 0
+drain 1 5 0

@@ -1,0 +1,6 @@
+6 12 five
+allow 5 1 1
+threw 1 5 0
+extra 4 5 1
+death 1 7 0
+drunk 1 7 1

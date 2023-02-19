@@ -1,0 +1,6 @@
+6 10 commonsecret
+abate 4 1 1
+probe 1 2 0
+layer 1 5 0
+leaky 1 5 1
+!secret e

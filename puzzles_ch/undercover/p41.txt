@@ -1,0 +1,6 @@
+6 11 undercover
+hippo 1 1 0
+penne 3 1 1
+pansy 1 4 0
+yacht 5 4 1
+fluff 1 10 0

@@ -1,0 +1,5 @@
+7 9
+point 2 1 1
+scrub 4 4 1
+tacky 2 5 0
+imbue 1 7 0

@@ -1,0 +1,5 @@
+7 9
+flirt 2 1 0
+roach 5 1 1
+logic 1 4 0
+owing 2 4 1

@@ -1,0 +1,5 @@
+7 9
+fluke 1 1 0
+kneel 4 1 1
+queen 2 4 0
+night 6 4 1

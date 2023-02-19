@@ -1,0 +1,5 @@
+6 9 skyscrapers
+using 3 1 1
+ionic 1 4 0
+clank 5 4 1
+chick 1 8 0

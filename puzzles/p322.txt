@@ -1,0 +1,5 @@
+7 9
+stage 1 1 0
+gummy 4 1 1
+rumor 2 4 0
+ridge 6 4 1

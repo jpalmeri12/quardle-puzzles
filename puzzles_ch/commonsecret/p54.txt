@@ -1,0 +1,6 @@
+6 10 commonsecret
+girth 1 1 1
+route 1 3 0
+hotly 1 5 0
+youth 5 5 1
+!secret t

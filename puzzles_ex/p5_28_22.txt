@@ -1,0 +1,6 @@
+7 10 five
+smell 1 1 0
+sight 1 1 1
+taste 1 5 0
+touch 4 5 1
+sound 2 7 0

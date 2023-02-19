@@ -1,0 +1,5 @@
+7 8
+speak 5 1 1
+novel 2 3 0
+notch 2 3 1
+stark 1 5 0

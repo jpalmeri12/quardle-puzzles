@@ -1,0 +1,6 @@
+6 7 commonsecret
+ultra 5 1 1
+trunk 3 2 1
+burnt 1 3 0
+junta 1 5 0
+!secret u

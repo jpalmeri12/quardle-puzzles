@@ -1,0 +1,9 @@
+7 8 spellbound
+joker 2 1 1
+roast 4 3 1
+treat 1 5 0
+water 2 7 0
+!spellbound 0 0 3
+!spellbound 1 0 1
+!spellbound 2 2 0
+!spellbound 3 4 3

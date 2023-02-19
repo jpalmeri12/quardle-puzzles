@@ -1,0 +1,9 @@
+7 9 beforeafter
+clown 2 1 1
+swamp 1 4 0
+music 4 4 1
+twice 2 7 0
+!beforeafter 1 m
+!beforeafter 1 r
+!beforeafter 2 l
+!beforeafter 1 j

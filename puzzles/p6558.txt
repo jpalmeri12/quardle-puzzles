@@ -1,0 +1,5 @@
+6 10
+woozy 3 1 1
+loyal 1 5 0
+leach 5 5 1
+north 1 9 0

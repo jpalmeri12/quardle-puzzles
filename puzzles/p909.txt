@@ -1,0 +1,5 @@
+7 7
+bilge 6 1 1
+smock 2 2 1
+mural 2 3 0
+eking 1 6 0

@@ -1,0 +1,5 @@
+7 9 clockdown
+clone 2 1 1
+nurse 2 4 0
+revel 4 4 1
+wield 1 8 0

@@ -1,0 +1,5 @@
+7 8 reverse
+poesy 2 1 0
+edihc 4 1 1
+welsh 2 3 1
+dlacs 1 5 0

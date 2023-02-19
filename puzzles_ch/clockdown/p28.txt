@@ -1,0 +1,5 @@
+7 10 clockdown
+upper 6 1 1
+elder 2 5 0
+delta 4 5 1
+gayly 1 7 0

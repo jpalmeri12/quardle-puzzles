@@ -1,0 +1,5 @@
+7 8 desync
+throb 1 1 0
+belie 5 1 1
+dimly 2 3 0
+drain 2 3 1

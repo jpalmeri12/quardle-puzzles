@@ -1,0 +1,6 @@
+7 10 undercover
+filet 1 1 1
+lyric 1 3 0
+cling 5 3 1
+lingo 2 7 0
+quash 1 9 0

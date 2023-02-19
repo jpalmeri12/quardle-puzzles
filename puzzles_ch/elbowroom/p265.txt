@@ -1,0 +1,5 @@
+7 10 elbowroom
+fella 3 1 1
+align 2 3 0
+coach 1 5 0
+horny 5 5 1

@@ -1,0 +1,5 @@
+6 8
+solid 2 1 1
+steed 4 3 1
+odder 1 5 0
+gaudy 1 7 0

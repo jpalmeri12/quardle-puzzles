@@ -1,0 +1,6 @@
+7 12 wordcolumn
+repay 4 1 1
+clerk 2 4 1
+craft 2 4 0
+druid 1 7 0
+irate 4 7 1

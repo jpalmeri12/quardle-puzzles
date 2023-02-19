@@ -1,0 +1,5 @@
+6 9
+chirp 3 1 1
+abhor 1 2 0
+harem 1 4 0
+hunky 1 4 1

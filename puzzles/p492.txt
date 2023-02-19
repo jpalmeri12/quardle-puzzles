@@ -1,0 +1,5 @@
+7 9
+reach 4 1 1
+ether 2 4 1
+itchy 1 5 0
+ennui 2 7 0

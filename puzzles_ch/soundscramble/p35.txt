@@ -1,0 +1,5 @@
+7 10 soundscramble
+scrom 5 1 1
+tapic 1 2 0
+stomp 2 5 0
+tapoz 3 5 1

@@ -1,0 +1,5 @@
+7 9
+primo 2 1 1
+antic 4 4 1
+sound 1 5 0
+aping 2 7 0

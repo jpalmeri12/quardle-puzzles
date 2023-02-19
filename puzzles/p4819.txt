@@ -1,0 +1,5 @@
+7 9
+demon 1 1 1
+idiom 3 4 1
+nadir 1 5 0
+topaz 2 7 0

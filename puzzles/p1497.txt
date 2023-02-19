@@ -1,0 +1,5 @@
+7 7
+trust 5 1 1
+demur 1 2 0
+motif 3 2 1
+filth 2 5 0

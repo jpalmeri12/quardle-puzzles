@@ -1,0 +1,5 @@
+7 9 reverse
+singe 3 1 1
+hguod 2 4 0
+octet 5 4 1
+tpure 1 7 0

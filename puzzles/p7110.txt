@@ -1,0 +1,5 @@
+7 9
+theta 4 1 1
+ashen 2 2 0
+deity 1 4 0
+evade 2 4 1

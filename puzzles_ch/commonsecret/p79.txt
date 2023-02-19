@@ -1,0 +1,6 @@
+7 10 commonsecret
+poesy 6 1 1
+essay 2 5 0
+swept 3 5 1
+water 1 9 0
+!secret e

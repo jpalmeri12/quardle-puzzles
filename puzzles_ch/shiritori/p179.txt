@@ -1,0 +1,5 @@
+6 8 shiritori
+mirth 1 1 0
+trice 4 1 1
+skiff 2 3 1
+piper 1 5 0

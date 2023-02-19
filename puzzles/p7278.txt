@@ -1,0 +1,5 @@
+7 9
+stand 3 1 1
+pence 5 4 1
+dodge 1 5 0
+fence 2 7 0

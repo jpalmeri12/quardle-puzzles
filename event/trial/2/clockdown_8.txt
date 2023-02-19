@@ -1,0 +1,5 @@
+7 10 clockdown
+mecca 2 1 1
+raspy 1 5 0
+pixie 4 5 1
+buxom 2 7 0

@@ -1,0 +1,6 @@
+7 10 undercover
+crave 2 1 0
+vinyl 5 1 1
+write 2 3 1
+proxy 1 4 0
+humus 1 9 0

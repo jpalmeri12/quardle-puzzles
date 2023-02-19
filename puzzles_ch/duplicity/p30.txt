@@ -1,0 +1,5 @@
+7 10 duplicity
+rotor 5 1 1
+beget 1 3 0
+ombre 2 5 0
+merge 3 5 1

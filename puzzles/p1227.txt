@@ -1,0 +1,5 @@
+7 10
+noisy 4 1 1
+apron 1 2 0
+mayor 2 5 0
+olive 5 5 1

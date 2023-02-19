@@ -1,0 +1,5 @@
+7 9
+south 1 1 1
+liner 3 4 1
+hairy 1 5 0
+beady 2 7 0

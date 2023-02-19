@@ -1,0 +1,5 @@
+7 7
+churn 1 1 0
+roost 4 1 1
+slope 6 2 1
+spoil 2 3 0

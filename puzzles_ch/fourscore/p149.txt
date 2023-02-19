@@ -1,0 +1,5 @@
+7 9 fourscore
+vault 4 1 1
+erase 2 2 0
+willy 1 4 0
+itchy 2 4 1

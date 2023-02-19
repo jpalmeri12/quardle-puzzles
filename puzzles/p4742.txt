@@ -1,0 +1,5 @@
+7 8
+miner 6 1 1
+dummy 3 3 1
+queue 2 4 0
+mamma 1 6 0

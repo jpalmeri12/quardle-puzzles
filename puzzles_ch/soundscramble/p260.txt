@@ -1,0 +1,5 @@
+6 9 soundscramble
+thang 1 1 1
+gleom 3 4 1
+gully 1 5 0
+ormar 1 8 0

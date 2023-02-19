@@ -1,0 +1,5 @@
+7 8 spaced
+rouge 6 1 1
+orbit 4 3 1
+imbue 2 5 0
+lofty 1 7 0

@@ -1,0 +1,5 @@
+6 7 sweeper
+admin 4 1 1
+ocean 1 2 1
+crumb 1 3 0
+along 1 5 0

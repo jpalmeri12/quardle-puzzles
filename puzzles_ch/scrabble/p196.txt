@@ -1,0 +1,5 @@
+7 8 scrabble
+droop 1 4 0
+needy 1 1 1
+buyer 2 7 0
+booby 4 3 1

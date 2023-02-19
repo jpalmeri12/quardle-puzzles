@@ -1,0 +1,5 @@
+6 7
+quasi 1 1 1
+unlit 1 2 0
+light 3 2 1
+sigma 1 4 0

@@ -1,0 +1,5 @@
+7 10
+zebra 3 1 1
+cease 1 5 0
+elite 2 5 1
+ethos 2 9 0

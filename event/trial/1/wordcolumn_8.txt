@@ -1,0 +1,6 @@
+7 10 wordcolumn
+befit 1 1 1
+feast 1 3 0
+theft 5 3 1
+wacky 3 5 1
+taffy 2 6 0

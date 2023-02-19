@@ -1,0 +1,5 @@
+6 9
+saint 1 1 0
+teeth 5 1 1
+habit 1 4 0
+agree 2 4 1

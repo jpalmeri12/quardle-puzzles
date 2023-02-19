@@ -1,0 +1,5 @@
+6 9
+saint 4 1 1
+moral 1 2 0
+siege 1 4 1
+irate 1 5 0

@@ -1,0 +1,5 @@
+7 10 fourscore
+wrong 5 1 1
+mange 2 5 0
+awake 3 5 1
+joker 1 8 0

@@ -1,0 +1,5 @@
+7 9 duplicity
+ahead 1 1 0
+deter 5 1 1
+asset 2 4 0
+shard 3 4 1

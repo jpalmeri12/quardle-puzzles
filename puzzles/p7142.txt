@@ -1,0 +1,5 @@
+7 9
+tried 1 1 0
+issue 3 1 1
+quart 2 4 0
+tight 6 4 1

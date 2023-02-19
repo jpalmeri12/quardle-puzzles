@@ -1,0 +1,5 @@
+6 10 frequency
+labor 1 1 0
+broad 3 1 1
+sadly 1 5 0
+ankle 2 5 1

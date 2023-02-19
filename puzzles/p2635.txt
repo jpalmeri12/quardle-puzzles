@@ -1,0 +1,5 @@
+7 10
+cycle 3 1 1
+loyal 1 2 0
+nerve 2 5 0
+venom 5 5 1

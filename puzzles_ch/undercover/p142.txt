@@ -1,0 +1,6 @@
+7 12 undercover
+khaki 4 1 1
+aside 2 5 0
+scant 3 5 1
+cater 1 9 0
+golly 1 11 0

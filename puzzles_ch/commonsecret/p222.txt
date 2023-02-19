@@ -1,0 +1,6 @@
+6 8 commonsecret
+spite 5 1 1
+gusty 3 3 1
+spurt 1 4 0
+slyly 1 7 0
+!secret s

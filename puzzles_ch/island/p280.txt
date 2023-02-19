@@ -1,0 +1,6 @@
+7 9 island
+agate 6 1 1
+house 2 4 1
+haunt 2 4 0
+using 1 7 0
+!island 211 221 311 2111

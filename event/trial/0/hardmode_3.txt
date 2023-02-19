@@ -1,0 +1,5 @@
+7 8 hardmode
+juror 5 1 1
+abort 2 3 0
+bevel 3 3 1
+favor 1 5 0

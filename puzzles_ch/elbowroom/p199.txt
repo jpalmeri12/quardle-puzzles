@@ -1,0 +1,5 @@
+7 10 elbowroom
+knife 6 1 1
+spine 2 5 0
+stein 2 5 1
+penny 1 7 0

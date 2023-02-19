@@ -1,0 +1,5 @@
+7 8
+slack 4 1 1
+phone 2 3 1
+psalm 2 3 0
+vodka 1 5 0

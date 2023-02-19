@@ -1,0 +1,5 @@
+7 10
+spunk 2 1 0
+uncle 4 1 1
+upset 1 5 0
+sally 3 5 1

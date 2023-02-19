@@ -1,0 +1,7 @@
+8 8 sixbox
+torso 3 1 1
+group 5 1 1
+verso 1 3 0
+spoon 4 3 1
+spunk 3 4 0
+droop 1 5 0

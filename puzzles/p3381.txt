@@ -1,0 +1,5 @@
+6 7
+creep 4 1 1
+shore 1 2 0
+honor 2 2 1
+unwed 1 4 0

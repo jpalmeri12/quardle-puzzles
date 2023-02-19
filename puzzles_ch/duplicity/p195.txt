@@ -1,0 +1,5 @@
+7 9 duplicity
+eagle 6 1 1
+usual 2 4 0
+sugar 3 4 1
+glare 1 7 0

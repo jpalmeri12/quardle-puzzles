@@ -1,0 +1,5 @@
+6 9
+brood 2 1 1
+brief 5 4 1
+udder 1 5 0
+chief 1 8 0

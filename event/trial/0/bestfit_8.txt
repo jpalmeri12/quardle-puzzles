@@ -1,0 +1,5 @@
+7 8 bestfit
+rugby 6 1 1
+morph 2 3 1
+risky 2 5 0
+chest 1 7 0

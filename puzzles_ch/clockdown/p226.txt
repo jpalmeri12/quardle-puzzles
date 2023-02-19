@@ -1,0 +1,5 @@
+7 8 clockdown
+north 5 1 1
+swarm 2 3 1
+sweat 1 4 0
+motto 2 7 0

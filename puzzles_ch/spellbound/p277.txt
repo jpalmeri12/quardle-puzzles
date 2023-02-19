@@ -1,0 +1,9 @@
+6 7 spellbound
+drawl 3 1 1
+harem 1 2 0
+medal 5 2 1
+fella 1 5 0
+!spellbound 0 3 0
+!spellbound 1 0 1
+!spellbound 2 1 4
+!spellbound 3 1 0

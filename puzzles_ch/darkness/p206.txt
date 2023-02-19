@@ -1,0 +1,5 @@
+6 7 darkness
+flair 1 2 0
+raspy 1 4 0
+leave 2 2 1
+wimpy 4 1 1

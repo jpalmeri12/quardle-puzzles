@@ -1,0 +1,6 @@
+7 10 wordcolumn
+parka 3 1 1
+spare 5 2 1
+chair 1 5 0
+heath 2 5 1
+hippo 2 9 0

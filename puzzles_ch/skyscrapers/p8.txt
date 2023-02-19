@@ -1,0 +1,5 @@
+7 9 skyscrapers
+shoal 2 2 0
+large 5 1 1
+louse 1 5 0
+flown 1 4 1

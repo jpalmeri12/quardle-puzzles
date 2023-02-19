@@ -1,0 +1,5 @@
+7 9
+cider 2 1 1
+fiery 1 2 0
+essay 6 4 1
+rebus 2 5 0

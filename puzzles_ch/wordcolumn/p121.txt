@@ -1,0 +1,6 @@
+7 9 wordcolumn
+lynch 6 1 1
+tasty 2 2 0
+scant 4 2 1
+plunk 2 4 1
+quite 1 6 0

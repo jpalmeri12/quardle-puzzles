@@ -1,0 +1,5 @@
+6 9 soundscramble
+swuut 5 1 1
+brent 1 4 1
+rubet 1 5 0
+troop 1 8 0

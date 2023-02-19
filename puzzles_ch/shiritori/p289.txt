@@ -1,0 +1,5 @@
+7 10 shiritori
+genre 5 1 1
+image 1 5 0
+mover 2 5 1
+ralph 2 9 0

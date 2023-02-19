@@ -1,0 +1,6 @@
+7 9 wordcolumn
+stunt 3 1 1
+unfed 5 1 1
+atone 2 2 0
+genre 1 4 0
+grail 1 4 1

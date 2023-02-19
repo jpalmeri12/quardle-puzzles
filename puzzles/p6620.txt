@@ -1,0 +1,5 @@
+7 10
+sixty 2 1 1
+youth 2 5 0
+untie 4 5 1
+grain 1 8 0

@@ -1,0 +1,5 @@
+7 10
+pilot 5 1 1
+duvet 1 5 0
+voila 3 5 1
+bloom 2 8 0

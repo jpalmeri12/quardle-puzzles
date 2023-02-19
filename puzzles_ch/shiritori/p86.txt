@@ -1,0 +1,5 @@
+7 10 shiritori
+islet 6 1 1
+admit 2 5 0
+arbor 2 5 1
+abhor 1 7 0

@@ -1,0 +1,9 @@
+7 10 beforeafter
+sumac 1 1 0
+chump 5 1 1
+leapt 2 5 0
+towel 6 5 1
+!beforeafter 1 p
+!beforeafter 1 i
+!beforeafter 2 n
+!beforeafter 2 m

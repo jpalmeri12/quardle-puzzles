@@ -1,0 +1,5 @@
+7 10 dblltr
+dried 5 1 1
+moody 2 5 0
+ozone 3 5 1
+cynic 1 8 0

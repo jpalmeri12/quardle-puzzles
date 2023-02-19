@@ -1,0 +1,6 @@
+7 9 island
+glass 2 1 0
+saner 5 1 1
+scold 1 4 1
+cower 1 5 0
+!island 211 41 32 311

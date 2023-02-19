@@ -1,0 +1,5 @@
+6 10
+theft 4 1 1
+mushy 1 2 0
+smith 1 5 0
+hoist 5 5 1

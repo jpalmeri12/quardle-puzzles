@@ -1,0 +1,6 @@
+7 9 wordcolumn
+lingo 5 1 1
+fungi 1 2 0
+drawn 3 4 1
+error 2 5 0
+anode 2 8 0

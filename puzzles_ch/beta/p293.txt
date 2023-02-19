@@ -1,0 +1,5 @@
+7 10 beta
+space 2 1 1
+spicy 1 2 0
+elide 2 5 0
+image 4 5 1

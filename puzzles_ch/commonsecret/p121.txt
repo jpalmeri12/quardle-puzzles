@@ -1,0 +1,6 @@
+7 9 commonsecret
+satyr 6 1 1
+agony 2 4 0
+gleam 3 4 1
+clack 1 7 0
+!secret a

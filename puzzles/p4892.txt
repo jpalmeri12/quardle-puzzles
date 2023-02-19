@@ -1,0 +1,5 @@
+7 10
+shank 4 1 1
+lathe 1 2 0
+joker 2 5 0
+oxide 3 5 1

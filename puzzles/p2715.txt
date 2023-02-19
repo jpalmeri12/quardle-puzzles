@@ -1,0 +1,5 @@
+7 10
+flare 6 1 1
+flame 2 5 0
+alibi 4 5 1
+drain 1 7 0

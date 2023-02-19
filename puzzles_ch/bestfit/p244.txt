@@ -1,0 +1,5 @@
+7 10 bestfit
+tonga 1 1 1
+admit 1 5 0
+truss 5 5 1
+clout 2 7 0

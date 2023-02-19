@@ -1,0 +1,5 @@
+7 8 clockdown
+foamy 2 1 1
+fizzy 2 1 0
+cameo 1 3 0
+organ 5 3 1

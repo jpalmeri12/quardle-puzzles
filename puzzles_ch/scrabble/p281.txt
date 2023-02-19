@@ -1,0 +1,5 @@
+7 10 scrabble
+stood 1 7 0
+racer 2 5 0
+skier 2 1 1
+cloak 4 5 1

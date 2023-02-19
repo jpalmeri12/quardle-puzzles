@@ -1,0 +1,6 @@
+7 12 wordcolumn
+panel 6 1 1
+spray 2 3 1
+renal 2 5 0
+hymen 1 7 0
+elbow 4 7 1

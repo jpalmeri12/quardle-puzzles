@@ -1,0 +1,5 @@
+7 8 hardmode
+mafia 1 1 0
+algae 5 1 1
+fecal 3 3 1
+begat 2 4 0

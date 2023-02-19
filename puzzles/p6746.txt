@@ -1,0 +1,5 @@
+6 7
+itchy 4 1 1
+pesto 1 2 0
+eying 2 2 1
+fight 1 4 0

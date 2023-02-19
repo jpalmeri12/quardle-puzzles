@@ -1,0 +1,5 @@
+6 8
+heath 1 1 0
+earth 2 1 1
+blame 4 3 1
+ahead 1 5 0

@@ -1,0 +1,5 @@
+6 9
+torus 1 1 0
+stony 5 1 1
+acorn 1 4 0
+otter 3 4 1

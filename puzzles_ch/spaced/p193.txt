@@ -1,0 +1,5 @@
+7 9 spaced
+whose 4 1 1
+yacht 1 2 0
+maize 2 4 1
+musky 2 4 0

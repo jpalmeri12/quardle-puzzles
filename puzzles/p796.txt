@@ -1,0 +1,5 @@
+7 10
+exult 5 1 1
+twixt 2 2 0
+boast 1 5 0
+bingo 1 5 1

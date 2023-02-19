@@ -1,0 +1,6 @@
+6 10 five
+lurid 4 1 1
+lipid 2 2 1
+fibre 1 3 0
+tilde 1 5 0
+edict 5 5 1

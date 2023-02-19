@@ -1,0 +1,9 @@
+7 10 beforeafter
+voila 3 1 1
+dally 2 5 1
+daily 2 5 0
+tying 1 9 0
+!beforeafter 1 m
+!beforeafter 1 i
+!beforeafter 2 j
+!beforeafter 1 r

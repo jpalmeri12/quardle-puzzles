@@ -1,0 +1,5 @@
+7 9 fourscore
+false 1 1 0
+ester 5 1 1
+udder 2 4 0
+duchy 3 4 1

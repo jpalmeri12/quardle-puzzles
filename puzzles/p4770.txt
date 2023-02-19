@@ -1,0 +1,5 @@
+7 8
+right 1 1 0
+theme 5 1 1
+steer 2 3 0
+slice 2 3 1

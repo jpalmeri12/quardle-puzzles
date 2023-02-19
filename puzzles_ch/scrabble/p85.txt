@@ -1,0 +1,5 @@
+6 8 scrabble
+react 1 4 0
+nomad 3 1 1
+prank 1 3 1
+zonal 1 1 0

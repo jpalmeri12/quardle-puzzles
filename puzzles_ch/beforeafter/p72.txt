@@ -1,0 +1,9 @@
+7 9 beforeafter
+stung 2 1 1
+nasty 2 4 0
+strap 4 4 1
+adept 1 8 0
+!beforeafter 2 p
+!beforeafter 1 p
+!beforeafter 2 q
+!beforeafter 2 o

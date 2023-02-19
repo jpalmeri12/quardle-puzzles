@@ -1,0 +1,6 @@
+6 7 wordcolumn
+comma 3 1 1
+stank 5 1 1
+snout 1 2 0
+slept 1 2 1
+plank 1 5 0

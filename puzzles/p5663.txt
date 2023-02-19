@@ -1,0 +1,5 @@
+7 10
+missy 5 1 1
+beast 2 3 0
+nanny 1 5 0
+nosey 4 5 1

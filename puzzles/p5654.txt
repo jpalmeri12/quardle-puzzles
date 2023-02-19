@@ -1,0 +1,5 @@
+7 8
+leech 1 1 1
+covey 3 3 1
+croak 1 4 0
+syrup 2 7 0

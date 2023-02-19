@@ -1,0 +1,5 @@
+7 8 frequency
+pansy 1 1 1
+cello 5 3 1
+stave 1 4 0
+venom 2 7 0

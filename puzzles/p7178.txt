@@ -1,0 +1,5 @@
+7 10
+staff 4 1 1
+shade 2 3 0
+stuff 1 5 0
+upper 3 5 1

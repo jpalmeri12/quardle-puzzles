@@ -1,0 +1,6 @@
+7 9 island
+radar 5 1 1
+squat 2 2 0
+charm 3 4 1
+abhor 1 5 0
+!island 21 311 11111 2111

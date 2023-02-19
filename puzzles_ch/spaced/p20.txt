@@ -1,0 +1,5 @@
+7 9 spaced
+pudgy 1 1 1
+gazer 1 4 0
+relax 5 4 1
+petal 2 7 0

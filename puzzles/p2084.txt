@@ -1,0 +1,5 @@
+7 9
+mambo 4 1 1
+derby 1 4 0
+evict 2 4 1
+tunic 2 8 0

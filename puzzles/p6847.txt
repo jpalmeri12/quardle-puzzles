@@ -1,0 +1,5 @@
+6 8
+brawl 4 1 1
+climb 2 3 1
+blown 1 4 0
+abode 1 7 0

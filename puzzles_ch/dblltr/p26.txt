@@ -1,0 +1,5 @@
+7 9 dblltr
+reedy 6 1 1
+creed 2 4 0
+rotor 3 4 1
+droll 1 7 0

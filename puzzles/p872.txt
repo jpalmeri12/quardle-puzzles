@@ -1,0 +1,5 @@
+6 7
+trial 3 1 1
+gorge 1 2 0
+gaffe 1 2 1
+flank 1 4 0

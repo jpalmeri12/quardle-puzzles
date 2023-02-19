@@ -1,0 +1,5 @@
+6 10 assembly
+wrist 1 3 1
+kebab 5 3 1
+whisk 1 1 0
+thumb 1 9 0

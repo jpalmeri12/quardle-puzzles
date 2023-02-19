@@ -1,0 +1,5 @@
+7 9
+heard 6 1 1
+chief 2 4 1
+humid 2 5 0
+belie 1 7 0

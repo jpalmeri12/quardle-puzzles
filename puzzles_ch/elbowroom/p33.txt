@@ -1,0 +1,5 @@
+7 10 elbowroom
+wheat 4 1 1
+lithe 1 2 0
+fluff 2 5 1
+fetus 2 5 0

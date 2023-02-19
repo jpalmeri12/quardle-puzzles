@@ -1,0 +1,5 @@
+7 10
+spasm 2 1 0
+since 5 1 1
+curse 1 5 0
+clued 1 5 1

@@ -1,0 +1,5 @@
+7 9 soundscramble
+toxec 1 1 1
+noesi 5 4 1
+cillo 1 5 0
+ditir 2 8 0

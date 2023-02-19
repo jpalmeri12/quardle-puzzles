@@ -1,0 +1,5 @@
+7 10 invention
+mafia 2 1 1
+basil 1 5 0
+inter 4 5 1
+dwelt 2 8 0

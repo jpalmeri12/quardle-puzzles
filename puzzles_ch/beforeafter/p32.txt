@@ -1,0 +1,9 @@
+7 9 beforeafter
+oxide 1 1 0
+ditto 4 1 1
+metro 6 4 1
+stone 2 5 0
+!beforeafter 1 m
+!beforeafter 1 k
+!beforeafter 1 n
+!beforeafter 1 p

@@ -1,0 +1,5 @@
+7 8
+patch 1 1 0
+cadet 4 1 1
+lodge 2 3 0
+leery 2 3 1

@@ -1,0 +1,5 @@
+7 10 scrabble
+snout 2 2 0
+north 1 5 1
+night 1 5 0
+youth 4 1 1

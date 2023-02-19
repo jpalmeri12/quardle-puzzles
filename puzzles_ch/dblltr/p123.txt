@@ -1,0 +1,5 @@
+7 9 dblltr
+whoop 2 1 1
+prior 4 4 1
+apart 1 5 0
+curry 2 8 0

@@ -1,0 +1,5 @@
+7 7
+jelly 2 1 1
+emcee 2 2 0
+crown 4 2 1
+allot 1 4 0

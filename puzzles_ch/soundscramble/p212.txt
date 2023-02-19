@@ -1,0 +1,5 @@
+7 8 soundscramble
+steod 1 1 0
+debor 5 1 1
+bawel 3 3 1
+tanol 2 4 0

@@ -1,0 +1,5 @@
+7 7
+loath 3 1 1
+ghost 1 2 0
+talon 5 2 1
+chaos 2 5 0

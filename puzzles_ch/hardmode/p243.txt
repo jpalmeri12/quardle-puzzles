@@ -1,0 +1,5 @@
+7 10 hardmode
+grass 3 1 1
+bosom 1 5 0
+model 5 5 1
+seedy 2 7 0

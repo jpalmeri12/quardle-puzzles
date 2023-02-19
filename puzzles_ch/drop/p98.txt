@@ -1,0 +1,6 @@
+7 12 drop
+macho 5 1 1
+motor 2 5 0
+tally 4 5 1
+psalm 1 8 0
+stony 1 11 0

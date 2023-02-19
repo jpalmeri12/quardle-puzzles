@@ -1,0 +1,5 @@
+7 9
+foist 5 1 1
+basis 1 4 0
+aroma 2 4 1
+alone 2 8 0

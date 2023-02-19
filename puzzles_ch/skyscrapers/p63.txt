@@ -1,0 +1,5 @@
+7 9 skyscrapers
+uncut 2 6 0
+nanny 3 4 1
+candy 1 4 0
+chick 1 1 1

@@ -1,0 +1,5 @@
+7 10
+slunk 1 1 0
+usurp 3 1 1
+spent 2 5 0
+natal 5 5 1

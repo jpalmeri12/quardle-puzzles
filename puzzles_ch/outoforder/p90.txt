@@ -1,0 +1,5 @@
+7 10 outoforder
+reply 5 1 1
+nymph 2 3 0
+soggy 1 5 0
+spice 1 5 1

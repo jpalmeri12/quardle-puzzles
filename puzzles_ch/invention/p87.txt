@@ -1,0 +1,5 @@
+7 10 invention
+plumb 2 1 1
+ruler 1 3 0
+bezel 2 5 0
+zebra 4 5 1

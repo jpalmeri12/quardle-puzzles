@@ -1,0 +1,5 @@
+7 8
+dream 1 1 1
+music 3 3 1
+abuse 1 4 0
+scour 2 7 0

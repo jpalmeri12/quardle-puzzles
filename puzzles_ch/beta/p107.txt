@@ -1,0 +1,5 @@
+7 8 beta
+brunt 6 1 1
+ovine 4 3 1
+given 2 4 0
+daunt 1 6 0

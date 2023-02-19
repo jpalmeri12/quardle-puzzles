@@ -1,0 +1,5 @@
+6 9 spin
+eerie 1 1 1
+adobe 3 4 1
+endow 1 5 0
+cable 1 7 0

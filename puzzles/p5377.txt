@@ -1,0 +1,5 @@
+7 9
+drove 5 1 1
+tower 1 2 0
+crank 3 4 1
+cruel 2 5 0

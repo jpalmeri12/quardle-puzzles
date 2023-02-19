@@ -1,0 +1,5 @@
+7 10 shiritori
+pluck 5 1 1
+stole 2 2 0
+chuck 1 5 0
+china 4 5 1

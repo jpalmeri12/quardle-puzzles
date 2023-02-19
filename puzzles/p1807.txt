@@ -1,0 +1,5 @@
+7 8
+slice 5 1 1
+slain 2 3 0
+layer 3 3 1
+corny 1 7 0

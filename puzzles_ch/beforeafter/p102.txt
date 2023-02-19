@@ -1,0 +1,9 @@
+7 10 beforeafter
+sushi 3 1 1
+kitty 2 5 0
+trade 4 5 1
+squad 1 7 0
+!beforeafter 2 j
+!beforeafter 1 l
+!beforeafter 1 o
+!beforeafter 2 l

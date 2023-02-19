@@ -1,0 +1,5 @@
+6 9 sweeper
+imply 2 1 1
+floss 1 4 0
+sulky 5 4 1
+clack 1 7 0

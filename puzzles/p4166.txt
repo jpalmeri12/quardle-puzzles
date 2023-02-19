@@ -1,0 +1,5 @@
+6 10
+unset 1 1 1
+threw 1 5 0
+weary 5 5 1
+juicy 1 9 0

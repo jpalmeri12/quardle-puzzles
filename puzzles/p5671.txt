@@ -1,0 +1,5 @@
+7 10
+latch 2 1 1
+camel 1 2 0
+horse 2 5 0
+enact 6 5 1

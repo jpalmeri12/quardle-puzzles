@@ -1,0 +1,5 @@
+6 8 frequency
+lunch 1 1 0
+crate 4 1 1
+ahead 2 3 1
+melee 1 5 0

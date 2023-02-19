@@ -1,0 +1,6 @@
+7 9 wordcolumn
+carat 6 1 1
+arbor 4 2 1
+zesty 2 4 1
+zebra 2 4 0
+usurp 1 6 0

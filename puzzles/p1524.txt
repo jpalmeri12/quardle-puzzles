@@ -1,0 +1,5 @@
+7 7
+shell 4 1 1
+ashen 2 2 0
+avert 2 2 1
+belly 1 4 0

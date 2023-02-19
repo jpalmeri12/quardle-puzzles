@@ -1,0 +1,5 @@
+7 10 soundscramble
+troop 5 1 1
+eserp 1 5 0
+snidu 2 5 1
+intur 2 7 0

@@ -1,0 +1,5 @@
+6 8 clockdown
+sappy 1 1 0
+straw 1 1 1
+stung 3 3 1
+wound 1 5 0

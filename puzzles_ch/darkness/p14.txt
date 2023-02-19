@@ -1,0 +1,5 @@
+6 7 darkness
+rural 2 1 1
+wagon 1 4 0
+saner 5 2 1
+humus 1 2 0

@@ -1,0 +1,5 @@
+7 8 buyavowel
+sneak 1 1 0
+nasal 2 1 1
+shove 2 3 0
+verve 5 3 1

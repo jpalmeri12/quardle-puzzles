@@ -1,0 +1,6 @@
+7 8 commonsecret
+affix 5 1 1
+unify 2 3 0
+utile 2 3 1
+befit 1 7 0
+!secret i

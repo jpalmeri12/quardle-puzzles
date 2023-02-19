@@ -1,0 +1,6 @@
+6 9 island
+tonic 4 1 1
+allow 1 2 0
+skunk 1 4 1
+knock 1 5 0
+!island 2111 22 1111 211

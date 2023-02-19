@@ -1,0 +1,5 @@
+7 10 unloved
+dross 4 1 1
+exert 1 2 0
+caste 2 5 0
+child 2 5 1

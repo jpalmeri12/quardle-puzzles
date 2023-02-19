@@ -1,0 +1,5 @@
+7 9
+jumbo 2 1 1
+judge 2 1 0
+flask 4 4 1
+coyly 1 5 0

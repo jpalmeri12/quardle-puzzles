@@ -1,0 +1,5 @@
+6 10 spin
+lurch 2 1 1
+rhyme 1 5 0
+young 3 5 1
+night 1 9 0

@@ -1,0 +1,5 @@
+7 9
+crick 2 1 1
+scrap 1 4 0
+asset 4 4 1
+kitty 2 8 0

@@ -1,0 +1,5 @@
+6 8 duplicity
+fluff 1 1 1
+furry 1 1 0
+flyer 5 3 1
+ferry 1 5 0

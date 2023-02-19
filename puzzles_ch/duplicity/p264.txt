@@ -1,0 +1,5 @@
+7 10 duplicity
+ledge 5 1 1
+glide 1 5 0
+lithe 2 5 1
+teeth 2 7 0

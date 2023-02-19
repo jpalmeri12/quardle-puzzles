@@ -1,0 +1,5 @@
+7 10 spaced
+perch 4 1 1
+pushy 1 5 0
+snail 3 5 1
+wager 2 7 0

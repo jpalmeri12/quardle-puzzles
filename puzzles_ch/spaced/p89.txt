@@ -1,0 +1,5 @@
+6 8 spaced
+bilge 2 1 1
+inlay 5 3 1
+penal 1 5 0
+lousy 1 7 0

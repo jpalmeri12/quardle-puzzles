@@ -1,0 +1,5 @@
+7 9
+scrub 1 1 0
+basal 5 1 1
+aware 3 4 1
+swill 2 5 0

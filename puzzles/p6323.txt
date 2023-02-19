@@ -1,0 +1,5 @@
+7 10
+annoy 3 1 1
+sonic 1 2 0
+synod 2 5 0
+natal 4 5 1

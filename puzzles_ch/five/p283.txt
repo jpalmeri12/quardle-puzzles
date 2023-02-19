@@ -1,0 +1,6 @@
+7 9 five
+idiom 1 1 0
+midst 5 1 1
+elate 3 4 1
+sloth 2 5 0
+water 1 7 0

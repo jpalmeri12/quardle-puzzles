@@ -1,0 +1,5 @@
+7 10
+staff 2 1 0
+flick 5 1 1
+stalk 1 5 0
+loyal 4 5 1

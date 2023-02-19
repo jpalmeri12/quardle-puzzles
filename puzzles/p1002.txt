@@ -1,0 +1,5 @@
+7 10
+suite 1 1 0
+topaz 4 1 1
+gazer 2 5 0
+axiom 3 5 1

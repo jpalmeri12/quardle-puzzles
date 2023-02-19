@@ -1,0 +1,6 @@
+6 10 wordcolumn
+death 2 1 1
+shelf 1 5 0
+stave 1 5 1
+flyer 5 5 1
+ether 1 9 0

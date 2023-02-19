@@ -1,0 +1,5 @@
+7 10 shiritori
+finch 2 1 1
+civil 1 2 0
+hotel 2 5 0
+elegy 5 5 1

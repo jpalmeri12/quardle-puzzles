@@ -1,0 +1,8 @@
+6 8 twins
+woozy 1 1 0
+heron 1 3 0
+dicey 1 5 0
+untie 1 7 0
+!twins 3 4
+!twins 0 1
+!twins 0 2

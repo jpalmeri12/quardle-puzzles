@@ -1,0 +1,9 @@
+6 9 beforeafter
+amass 1 1 0
+stuck 4 1 1
+trace 1 4 0
+tough 1 4 1
+!beforeafter 2 o
+!beforeafter 2 n
+!beforeafter 1 q
+!beforeafter 2 l

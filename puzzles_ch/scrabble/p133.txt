@@ -1,0 +1,5 @@
+7 9 scrabble
+loser 1 1 0
+spiel 3 1 1
+gleam 2 5 0
+marry 5 4 1

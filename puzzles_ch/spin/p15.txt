@@ -1,0 +1,5 @@
+6 7 spin
+leery 4 1 1
+wider 1 2 0
+wooer 1 2 1
+ombre 1 4 0

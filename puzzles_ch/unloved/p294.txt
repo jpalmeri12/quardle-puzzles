@@ -1,0 +1,5 @@
+7 9 unloved
+vowel 2 1 0
+wight 4 1 1
+bathe 1 4 0
+borax 1 4 1

@@ -1,0 +1,7 @@
+7 10 secretdistance
+blush 1 1 0
+usher 3 1 1
+thump 2 3 0
+moist 5 3 1
+bland 1 9 0
+!sdpos 0 1 1 2

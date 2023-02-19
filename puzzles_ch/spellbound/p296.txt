@@ -1,0 +1,9 @@
+7 10 spellbound
+value 5 1 1
+theme 1 5 0
+ethos 3 5 1
+phone 2 7 0
+!spellbound 0 0 2
+!spellbound 1 0 3
+!spellbound 2 1 4
+!spellbound 3 0 2

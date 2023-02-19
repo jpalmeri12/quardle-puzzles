@@ -1,0 +1,6 @@
+6 11 undercover
+baste 5 1 1
+sigma 1 2 0
+giant 1 4 0
+apply 3 4 1
+couch 1 10 0

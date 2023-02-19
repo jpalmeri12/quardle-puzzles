@@ -1,0 +1,5 @@
+7 8
+brink 6 1 1
+skier 4 3 1
+crick 2 5 0
+ferry 1 7 0

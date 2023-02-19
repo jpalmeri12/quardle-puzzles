@@ -1,0 +1,5 @@
+6 9 spin
+slept 2 1 1
+spree 1 4 0
+elegy 4 4 1
+satyr 1 8 0

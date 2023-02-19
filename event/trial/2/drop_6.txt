@@ -1,0 +1,6 @@
+7 9 drop
+snail 2 1 1
+nicer 2 2 0
+choke 4 2 1
+pilot 1 4 0
+rhino 1 8 0

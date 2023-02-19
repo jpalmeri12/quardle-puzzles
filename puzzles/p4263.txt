@@ -1,0 +1,5 @@
+7 10
+swill 5 1 1
+tibia 2 3 0
+awful 1 5 0
+amuse 1 5 1

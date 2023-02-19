@@ -1,0 +1,5 @@
+7 10
+wacky 4 1 1
+dryer 2 5 0
+drool 2 5 1
+clank 1 9 0

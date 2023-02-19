@@ -1,0 +1,6 @@
+7 10 five
+juice 2 1 1
+bingo 4 1 1
+pupil 1 2 0
+ebony 2 5 0
+blitz 3 5 1

@@ -1,0 +1,9 @@
+7 7 beforeafter
+poesy 5 1 1
+decor 2 2 0
+early 3 2 1
+belly 1 5 0
+!beforeafter 2 q
+!beforeafter 2 k
+!beforeafter 1 i
+!beforeafter 1 k

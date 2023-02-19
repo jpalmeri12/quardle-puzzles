@@ -1,0 +1,6 @@
+6 10 connectfive
+abled 2 1 1
+affix 1 5 1
+adage 1 5 0
+actor 3 5 1
+fetid 1 7 0

@@ -1,0 +1,5 @@
+7 9 swap
+shete 5 1 1
+rebtu 2 4 0
+ewary 3 4 1
+blyaw 1 8 0

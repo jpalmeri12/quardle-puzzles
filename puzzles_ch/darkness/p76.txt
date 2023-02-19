@@ -1,0 +1,5 @@
+7 10 darkness
+arrow 2 3 0
+wagon 1 5 0
+turbo 4 1 1
+amass 2 5 1

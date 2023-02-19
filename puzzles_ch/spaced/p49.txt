@@ -1,0 +1,5 @@
+6 9 spaced
+tramp 4 1 1
+macro 1 2 0
+swamp 1 4 0
+smoky 1 4 1

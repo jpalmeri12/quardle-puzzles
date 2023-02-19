@@ -1,0 +1,5 @@
+7 8 invention
+plaza 2 1 1
+undue 4 3 1
+tardy 1 5 0
+seedy 2 7 0

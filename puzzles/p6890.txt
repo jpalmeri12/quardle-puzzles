@@ -1,0 +1,5 @@
+7 9
+lumen 1 1 0
+exalt 4 1 1
+folio 2 4 0
+order 6 4 1

@@ -1,0 +1,5 @@
+6 7
+allow 3 1 1
+tumor 1 2 1
+tally 1 2 0
+moody 1 4 0

@@ -1,0 +1,5 @@
+7 10
+cutie 2 1 1
+retch 1 5 0
+happy 5 5 1
+guppy 2 7 0

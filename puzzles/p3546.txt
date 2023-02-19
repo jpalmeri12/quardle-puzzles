@@ -1,0 +1,5 @@
+7 10
+funky 6 1 1
+dryly 2 5 0
+realm 3 5 1
+folly 1 8 0

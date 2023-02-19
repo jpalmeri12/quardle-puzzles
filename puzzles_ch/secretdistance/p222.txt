@@ -1,0 +1,7 @@
+7 10 secretdistance
+brawn 4 1 1
+fibre 1 2 0
+nicer 6 3 1
+manic 2 5 0
+score 1 9 0
+!sdpos 0 0 3 0

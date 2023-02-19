@@ -1,0 +1,5 @@
+7 10
+broke 2 1 1
+rugby 2 2 0
+tepid 1 5 0
+plush 3 5 1

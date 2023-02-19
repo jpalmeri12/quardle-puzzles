@@ -1,0 +1,5 @@
+7 9
+truce 2 1 1
+clamp 2 4 0
+agate 4 4 1
+quite 1 7 0

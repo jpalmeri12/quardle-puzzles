@@ -1,0 +1,5 @@
+7 7 fourscore
+mealy 3 1 1
+beady 2 2 0
+dozen 5 2 1
+waltz 1 4 0

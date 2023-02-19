@@ -1,0 +1,5 @@
+7 9
+gnash 4 1 1
+binge 2 2 0
+coast 1 4 0
+ozone 2 4 1

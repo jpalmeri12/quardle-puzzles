@@ -1,0 +1,5 @@
+7 10 skyscrapers
+hedge 2 5 1
+heard 2 5 0
+crave 3 1 1
+girly 1 2 0

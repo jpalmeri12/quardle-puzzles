@@ -1,0 +1,5 @@
+7 8 dblltr
+snoop 2 1 0
+stilt 2 1 1
+hippo 1 3 0
+peace 4 3 1

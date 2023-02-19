@@ -1,0 +1,5 @@
+7 9 spaced
+dairy 6 1 1
+other 2 4 0
+handy 4 4 1
+using 1 6 0

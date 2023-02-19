@@ -1,0 +1,5 @@
+7 10
+rodeo 5 1 1
+below 2 5 0
+eight 3 5 1
+other 1 8 0

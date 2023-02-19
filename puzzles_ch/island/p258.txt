@@ -1,0 +1,6 @@
+7 8 island
+focal 2 1 0
+outdo 3 1 1
+payer 5 3 1
+goofy 1 5 0
+!island 221 1111 2111 31

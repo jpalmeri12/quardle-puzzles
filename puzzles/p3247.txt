@@ -1,0 +1,5 @@
+7 10
+angle 5 1 1
+spawn 1 2 0
+woken 2 5 0
+orbit 3 5 1

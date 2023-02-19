@@ -1,0 +1,5 @@
+6 9
+slant 3 1 1
+pinch 1 4 0
+honor 5 4 1
+pinto 1 7 0

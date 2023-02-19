@@ -1,0 +1,5 @@
+7 9 shiritori
+wrath 2 1 1
+wench 2 1 0
+stalk 1 4 0
+knack 5 4 1

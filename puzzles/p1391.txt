@@ -1,0 +1,5 @@
+7 9
+rhyme 6 1 1
+heard 2 4 1
+harem 2 4 0
+adept 1 8 0

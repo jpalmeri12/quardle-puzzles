@@ -1,0 +1,5 @@
+7 10 soundscramble
+buwel 1 1 0
+lopos 5 1 1
+kiusk 2 5 0
+ubese 4 5 1

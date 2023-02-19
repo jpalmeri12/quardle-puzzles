@@ -1,0 +1,5 @@
+7 10 swap
+humdi 4 1 1
+thmee 2 3 0
+stfif 1 5 0
+tohse 2 5 1

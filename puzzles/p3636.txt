@@ -1,0 +1,5 @@
+7 10
+abled 5 1 1
+buddy 2 5 0
+baker 2 5 1
+segue 1 8 0

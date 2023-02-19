@@ -1,0 +1,6 @@
+7 12 connectfive
+savoy 5 1 1
+strut 3 4 1
+bitty 1 5 0
+ensue 5 7 1
+stunk 2 8 0

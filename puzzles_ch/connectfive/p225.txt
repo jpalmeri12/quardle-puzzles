@@ -1,0 +1,6 @@
+6 10 connectfive
+album 1 1 1
+crack 3 2 1
+macro 1 5 0
+olden 5 5 1
+niece 1 8 0

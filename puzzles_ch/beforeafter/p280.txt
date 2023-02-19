@@ -1,0 +1,9 @@
+7 10 beforeafter
+canon 2 1 1
+knife 1 5 0
+ficus 4 5 1
+occur 2 7 0
+!beforeafter 1 k
+!beforeafter 1 j
+!beforeafter 2 l
+!beforeafter 2 q

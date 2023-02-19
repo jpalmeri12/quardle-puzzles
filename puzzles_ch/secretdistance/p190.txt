@@ -1,0 +1,7 @@
+7 11 secretdistance
+women 5 1 1
+disco 1 2 0
+death 2 4 1
+ebony 2 5 0
+frock 1 10 0
+!sdpos 0 3 3 0

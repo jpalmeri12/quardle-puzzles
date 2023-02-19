@@ -1,0 +1,5 @@
+6 9 reverse
+rucco 3 1 1
+bluer 1 2 0
+boule 1 4 1
+otohp 1 5 0

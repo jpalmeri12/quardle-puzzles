@@ -1,0 +1,5 @@
+7 9
+libel 5 1 1
+sushi 1 2 0
+hovel 2 4 0
+hinge 2 4 1

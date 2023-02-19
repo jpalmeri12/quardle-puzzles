@@ -1,0 +1,5 @@
+7 10 shiritori
+flora 2 1 1
+tonic 1 3 0
+amply 2 5 0
+penne 4 5 1

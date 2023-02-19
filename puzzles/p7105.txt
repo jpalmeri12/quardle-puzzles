@@ -1,0 +1,5 @@
+7 10
+graph 2 1 1
+shift 1 5 0
+inept 3 5 1
+stale 2 9 0

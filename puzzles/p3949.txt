@@ -1,0 +1,5 @@
+7 9
+ratty 4 1 1
+scant 2 2 0
+teeth 1 4 0
+train 1 4 1

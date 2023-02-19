@@ -1,0 +1,5 @@
+6 9
+stein 2 1 1
+finer 1 4 0
+risky 5 4 1
+frank 1 7 0

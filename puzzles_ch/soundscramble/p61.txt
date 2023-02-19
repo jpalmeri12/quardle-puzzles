@@ -1,0 +1,5 @@
+7 7 soundscramble
+tange 5 1 1
+small 3 2 1
+amond 2 3 0
+holle 1 5 0

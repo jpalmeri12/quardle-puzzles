@@ -1,0 +1,5 @@
+7 10
+doing 4 1 1
+logic 2 5 0
+ocean 3 5 1
+sheik 1 7 0

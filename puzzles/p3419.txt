@@ -1,0 +1,5 @@
+7 10
+acrid 1 1 0
+rupee 3 1 1
+debar 2 5 0
+risky 6 5 1

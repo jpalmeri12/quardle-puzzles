@@ -1,0 +1,8 @@
+6 8 twins
+scoop 1 1 0
+resin 1 3 0
+unite 1 5 0
+fewer 1 7 0
+!twins 1 4
+!twins 1 4
+!twins 0 3

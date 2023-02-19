@@ -1,0 +1,9 @@
+7 8 spellbound
+shrew 1 1 1
+crepe 4 3 1
+wheel 1 5 0
+sheik 2 7 0
+!spellbound 0 2 1
+!spellbound 1 3 0
+!spellbound 2 4 1
+!spellbound 3 3 1

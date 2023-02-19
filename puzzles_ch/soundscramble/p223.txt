@@ -1,0 +1,5 @@
+7 9 soundscramble
+cader 4 1 1
+monay 1 2 0
+cherm 2 4 0
+cheir 2 4 1

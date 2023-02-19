@@ -1,0 +1,9 @@
+7 8 beforeafter
+abhor 5 1 1
+torch 1 3 0
+ounce 2 3 1
+entry 2 7 0
+!beforeafter 2 n
+!beforeafter 2 m
+!beforeafter 2 m
+!beforeafter 1 p

@@ -1,0 +1,5 @@
+6 7 darkness
+cache 3 2 1
+gecko 1 4 0
+bingo 1 1 1
+itchy 1 2 0

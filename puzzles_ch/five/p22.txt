@@ -1,0 +1,6 @@
+6 10 five
+light 3 1 1
+poise 1 2 0
+whine 1 4 1
+hotel 1 5 0
+lithe 5 5 1

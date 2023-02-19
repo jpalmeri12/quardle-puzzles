@@ -1,0 +1,5 @@
+7 9 shiritori
+ghoul 2 1 1
+howdy 2 2 0
+weigh 5 4 1
+algae 1 5 0

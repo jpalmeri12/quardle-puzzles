@@ -1,0 +1,6 @@
+7 9 undercover
+chose 1 1 1
+kneed 5 2 1
+shame 1 4 0
+elide 2 6 0
+buggy 1 8 0

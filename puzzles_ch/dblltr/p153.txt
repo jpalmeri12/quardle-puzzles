@@ -1,0 +1,5 @@
+7 10 dblltr
+stilt 5 1 1
+digit 1 5 0
+icing 2 5 1
+golly 2 9 0

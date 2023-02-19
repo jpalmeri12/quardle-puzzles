@@ -1,0 +1,5 @@
+7 9 dblltr
+scree 2 1 1
+stash 2 1 0
+steep 4 4 1
+testy 1 5 0

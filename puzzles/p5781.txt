@@ -1,0 +1,5 @@
+7 9
+booth 2 1 0
+otter 4 1 1
+major 2 4 1
+hairy 1 5 0

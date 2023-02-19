@@ -1,0 +1,5 @@
+7 8
+forgo 1 1 0
+owing 2 1 1
+inlay 2 3 0
+arose 5 3 1

@@ -1,0 +1,6 @@
+7 8 connectfive
+dicey 1 1 1
+furry 3 3 1
+beget 5 3 1
+etude 1 4 0
+cried 2 6 0

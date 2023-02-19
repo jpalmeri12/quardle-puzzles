@@ -1,0 +1,5 @@
+7 9
+sumac 2 1 1
+dutch 1 2 0
+month 6 4 1
+curio 2 5 0

@@ -1,0 +1,6 @@
+7 10 connectfive
+eclat 1 1 0
+comic 2 1 1
+groom 5 3 1
+canoe 2 5 0
+askew 3 5 1

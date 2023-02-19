@@ -1,0 +1,7 @@
+7 10 secretdistance
+bluer 2 1 1
+blast 1 2 0
+glyph 6 3 1
+ready 2 5 0
+brief 1 9 0
+!sdpos 2 3 2 1

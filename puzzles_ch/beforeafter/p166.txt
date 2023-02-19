@@ -1,0 +1,9 @@
+6 9 beforeafter
+punch 1 1 0
+harpy 5 1 1
+steep 1 4 0
+stink 1 4 1
+!beforeafter 2 m
+!beforeafter 1 n
+!beforeafter 1 q
+!beforeafter 1 o

@@ -1,0 +1,5 @@
+7 8
+stink 3 1 1
+zebra 5 3 1
+unset 2 4 0
+cocoa 1 7 0

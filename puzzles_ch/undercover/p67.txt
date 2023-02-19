@@ -1,0 +1,6 @@
+7 9 undercover
+krill 3 1 1
+torus 1 2 0
+shaft 5 2 1
+altar 2 4 0
+emcee 1 8 0

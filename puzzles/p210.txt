@@ -1,0 +1,5 @@
+6 7
+large 4 1 1
+sweat 1 2 0
+wrist 2 2 1
+piggy 1 4 0

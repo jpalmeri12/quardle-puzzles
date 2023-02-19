@@ -1,0 +1,5 @@
+7 7
+moist 4 1 1
+havoc 1 2 0
+allot 2 2 1
+lusty 2 4 0

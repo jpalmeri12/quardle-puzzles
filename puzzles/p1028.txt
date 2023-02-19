@@ -1,0 +1,5 @@
+7 10
+patty 5 1 1
+booby 1 5 0
+blood 4 5 1
+quota 2 8 0

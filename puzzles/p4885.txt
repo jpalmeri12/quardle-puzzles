@@ -1,0 +1,5 @@
+7 8
+butch 6 1 1
+flour 4 3 1
+froth 2 5 0
+terra 1 7 0

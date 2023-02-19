@@ -1,0 +1,5 @@
+7 10
+friar 4 1 1
+quail 1 3 0
+parry 2 5 0
+pleat 2 5 1

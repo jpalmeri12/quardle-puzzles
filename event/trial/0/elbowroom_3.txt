@@ -1,0 +1,5 @@
+7 8 elbowroom
+cubic 1 1 0
+bathe 3 1 1
+slunk 5 3 1
+child 2 4 0

@@ -1,0 +1,5 @@
+7 10 skyscrapers
+omega 2 5 1
+rover 1 5 0
+caste 4 1 1
+decoy 2 1 0

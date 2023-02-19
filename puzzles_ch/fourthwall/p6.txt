@@ -1,0 +1,7 @@
+6 6 fourthwall
+eagle 1 1 0
+eight 1 1 1
+glass 1 3 0
+grain 3 1 1
+tangy 1 5 0
+essay 5 1 1

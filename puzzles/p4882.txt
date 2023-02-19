@@ -1,0 +1,5 @@
+7 10
+canon 2 1 1
+nasty 2 5 0
+surge 4 5 1
+duvet 1 9 0

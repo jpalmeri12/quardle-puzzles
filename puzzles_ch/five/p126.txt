@@ -1,0 +1,6 @@
+7 10 five
+orbit 1 1 0
+blurt 3 1 1
+stair 2 5 0
+aider 4 5 1
+raise 6 5 1

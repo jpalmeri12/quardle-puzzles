@@ -1,0 +1,5 @@
+6 9 spin
+wedge 5 1 1
+shale 1 2 0
+short 2 4 1
+chide 1 5 0

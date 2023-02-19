@@ -1,0 +1,5 @@
+7 10 swap
+mtach 1 1 1
+hself 1 5 0
+fluor 5 5 1
+chior 2 8 0

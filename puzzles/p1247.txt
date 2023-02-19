@@ -1,0 +1,5 @@
+7 10
+snaky 2 1 0
+alarm 4 1 1
+karma 1 5 0
+kappa 1 5 1

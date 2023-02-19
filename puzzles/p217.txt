@@ -1,0 +1,5 @@
+7 8
+smite 4 1 1
+awful 2 3 1
+swath 1 4 0
+lasso 2 7 0

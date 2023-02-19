@@ -1,0 +1,5 @@
+7 7 spaced
+angel 2 1 1
+unify 1 2 0
+faint 4 2 1
+lynch 2 5 0

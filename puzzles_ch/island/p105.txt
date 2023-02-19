@@ -1,0 +1,6 @@
+6 9 island
+civic 1 1 1
+saner 4 4 1
+coral 1 5 0
+ferry 1 8 0
+!island 21 41 2111 31

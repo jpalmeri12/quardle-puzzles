@@ -1,0 +1,5 @@
+7 9 darkness
+wheel 1 2 0
+bayou 2 5 0
+thumb 2 1 1
+built 6 4 1

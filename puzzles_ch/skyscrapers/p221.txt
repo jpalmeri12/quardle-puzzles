@@ -1,0 +1,5 @@
+7 10 skyscrapers
+peace 5 1 1
+eerie 1 5 0
+inner 4 5 1
+beret 2 2 0

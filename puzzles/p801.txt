@@ -1,0 +1,5 @@
+7 10
+husky 6 1 1
+aptly 2 5 0
+loser 5 5 1
+mucus 1 7 0

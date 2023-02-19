@@ -1,0 +1,5 @@
+6 9 unloved
+rotor 3 1 1
+floor 1 2 0
+croak 1 4 0
+crack 1 4 1

@@ -1,0 +1,6 @@
+7 9 drop
+scone 1 1 0
+clamp 2 1 1
+range 6 2 1
+prong 2 5 0
+loser 1 8 0

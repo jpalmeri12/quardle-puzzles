@@ -1,0 +1,5 @@
+7 10 clockdown
+agora 3 1 1
+amaze 1 5 0
+exert 5 5 1
+river 2 7 0

@@ -1,0 +1,5 @@
+7 9
+amuse 4 1 1
+cumin 2 2 0
+parse 1 4 0
+agree 2 4 1

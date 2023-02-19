@@ -1,0 +1,5 @@
+7 7 outoforder
+steel 5 1 1
+vaunt 1 2 0
+unlit 3 2 1
+olden 2 4 0

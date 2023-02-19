@@ -1,0 +1,5 @@
+7 10
+sniff 2 1 1
+antic 1 2 0
+first 2 5 0
+rusty 4 5 1

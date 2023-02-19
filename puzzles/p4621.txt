@@ -1,0 +1,5 @@
+7 9
+light 4 1 1
+plain 1 2 0
+usher 2 4 0
+using 2 4 1

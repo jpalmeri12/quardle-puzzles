@@ -1,0 +1,5 @@
+7 9
+beady 4 1 1
+creak 2 2 0
+study 1 4 0
+stoic 1 4 1

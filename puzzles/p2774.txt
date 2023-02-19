@@ -1,0 +1,5 @@
+7 8
+carol 1 1 0
+later 5 1 1
+pinto 3 3 1
+snare 2 5 0

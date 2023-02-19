@@ -1,0 +1,5 @@
+7 9 duplicity
+aorta 2 1 1
+robot 5 4 1
+mambo 1 5 0
+motto 2 8 0

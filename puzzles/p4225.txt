@@ -1,0 +1,5 @@
+6 10
+unzip 4 1 1
+plank 1 2 0
+trope 1 5 0
+eagle 5 5 1

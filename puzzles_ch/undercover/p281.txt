@@ -1,0 +1,6 @@
+6 11 undercover
+minty 1 1 1
+marsh 1 1 0
+tonga 1 4 0
+anime 5 4 1
+pluck 1 10 0

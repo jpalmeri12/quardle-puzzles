@@ -1,0 +1,5 @@
+7 10
+swill 6 1 1
+vinyl 2 5 0
+incur 3 5 1
+shuck 1 8 0

@@ -1,0 +1,5 @@
+7 7 shiritori
+arena 3 1 1
+frown 2 2 0
+whelp 5 2 1
+email 1 5 0

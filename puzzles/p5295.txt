@@ -1,0 +1,5 @@
+7 10
+horde 5 1 1
+scone 1 5 0
+crook 2 5 1
+overt 2 7 0

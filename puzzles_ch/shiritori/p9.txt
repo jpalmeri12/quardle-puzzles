@@ -1,0 +1,5 @@
+7 10 shiritori
+bison 4 1 1
+lying 1 5 0
+young 2 5 1
+giant 2 9 0

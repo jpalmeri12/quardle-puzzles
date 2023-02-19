@@ -1,0 +1,5 @@
+7 10
+avian 2 1 1
+antic 1 5 0
+ionic 4 5 1
+cache 2 9 0

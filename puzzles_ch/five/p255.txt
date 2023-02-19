@@ -1,0 +1,6 @@
+7 10 five
+steal 1 1 0
+tiara 2 1 1
+lithe 5 1 1
+abbey 2 5 0
+bosom 4 5 1

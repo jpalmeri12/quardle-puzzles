@@ -1,0 +1,5 @@
+7 9
+soapy 5 1 1
+stump 1 4 0
+under 3 4 1
+femme 2 7 0

@@ -1,0 +1,5 @@
+7 10 beta
+ennui 2 1 1
+nerdy 2 2 0
+width 1 5 0
+dicey 3 5 1

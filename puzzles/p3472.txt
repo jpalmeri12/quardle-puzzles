@@ -1,0 +1,5 @@
+7 10
+giant 5 1 1
+cacti 1 2 0
+fifth 2 5 0
+inbox 3 5 1

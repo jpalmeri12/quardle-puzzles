@@ -1,0 +1,5 @@
+6 10
+feast 3 1 1
+cress 1 2 0
+later 1 5 0
+aloud 2 5 1

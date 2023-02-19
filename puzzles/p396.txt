@@ -1,0 +1,5 @@
+7 8
+thump 1 1 0
+penne 5 1 1
+stony 3 3 1
+stand 2 4 0

@@ -1,0 +1,5 @@
+7 8 fourscore
+shrew 1 1 0
+eagle 4 1 1
+angry 2 3 0
+yeast 6 3 1

@@ -1,0 +1,5 @@
+7 9 outoforder
+drank 2 1 1
+drain 1 2 0
+neigh 2 4 0
+happy 6 4 1

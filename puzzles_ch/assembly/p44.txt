@@ -1,0 +1,5 @@
+6 10 assembly
+abate 1 3 1
+igloo 5 3 1
+buggy 1 1 0
+thorn 1 9 0

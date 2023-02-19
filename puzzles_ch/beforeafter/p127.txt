@@ -1,0 +1,9 @@
+7 9 beforeafter
+apart 2 1 1
+about 2 1 0
+flour 5 4 1
+stool 1 5 0
+!beforeafter 2 q
+!beforeafter 2 p
+!beforeafter 1 n
+!beforeafter 1 p

@@ -1,0 +1,9 @@
+7 7 spellbound
+leery 2 1 1
+eater 2 2 0
+tithe 4 2 1
+grate 1 4 0
+!spellbound 0 0 4
+!spellbound 1 1 4
+!spellbound 2 3 1
+!spellbound 3 4 0

@@ -1,0 +1,5 @@
+7 10 spaced
+skimp 4 1 1
+leapt 1 5 0
+twine 5 5 1
+eking 2 8 0

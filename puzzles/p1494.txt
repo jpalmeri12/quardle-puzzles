@@ -1,0 +1,5 @@
+6 9
+fungi 1 1 1
+fetus 1 1 0
+graft 1 4 0
+trick 5 4 1

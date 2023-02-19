@@ -1,0 +1,5 @@
+6 10 soundscramble
+tubby 1 1 0
+buyoa 4 1 1
+rebat 1 5 0
+butch 3 5 1

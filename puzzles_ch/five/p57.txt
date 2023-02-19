@@ -1,0 +1,6 @@
+7 10 five
+rearm 6 1 1
+enema 2 3 0
+thrum 2 5 0
+usage 5 5 1
+wrung 1 8 0

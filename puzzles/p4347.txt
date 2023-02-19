@@ -1,0 +1,5 @@
+7 7
+craze 4 1 1
+three 2 2 0
+tweak 2 2 1
+cater 1 5 0

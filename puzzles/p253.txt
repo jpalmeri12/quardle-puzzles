@@ -1,0 +1,5 @@
+6 7
+briny 1 1 1
+ramen 1 2 0
+extol 4 2 1
+north 1 4 0

@@ -1,0 +1,6 @@
+7 10 five
+forum 4 1 1
+revue 1 4 0
+equip 2 4 1
+axion 6 5 1
+pinto 2 8 0

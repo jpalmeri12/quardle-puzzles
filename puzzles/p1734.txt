@@ -1,0 +1,5 @@
+7 9
+dopey 4 1 1
+poppy 1 3 0
+floor 6 4 1
+royal 2 5 0

@@ -1,0 +1,5 @@
+7 10
+stall 2 1 1
+adept 2 3 0
+flier 1 5 0
+elite 4 5 1

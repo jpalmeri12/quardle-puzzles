@@ -1,0 +1,5 @@
+6 6 elbowroom
+broad 1 1 0
+broth 1 1 1
+abbot 4 1 1
+tenor 1 4 0

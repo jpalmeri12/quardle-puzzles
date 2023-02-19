@@ -1,0 +1,5 @@
+7 9 shiritori
+dryly 5 1 1
+beard 2 2 0
+viral 1 4 0
+visor 1 4 1

@@ -1,0 +1,5 @@
+6 9
+axial 5 1 1
+grown 1 4 1
+gamma 1 4 0
+nudge 1 8 0

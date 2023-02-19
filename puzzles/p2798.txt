@@ -1,0 +1,5 @@
+7 9
+stilt 2 1 1
+tonal 2 2 0
+flora 1 4 0
+relax 4 4 1

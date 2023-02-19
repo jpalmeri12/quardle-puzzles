@@ -1,0 +1,6 @@
+7 12 undercover
+bayou 4 1 1
+carat 1 2 0
+daunt 2 5 0
+death 2 5 1
+vigil 1 11 0

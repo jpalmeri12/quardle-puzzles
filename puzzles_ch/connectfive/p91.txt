@@ -1,0 +1,6 @@
+6 12 connectfive
+harpy 5 1 1
+girly 1 5 0
+imbue 2 5 1
+eclat 5 7 1
+fetal 1 9 0

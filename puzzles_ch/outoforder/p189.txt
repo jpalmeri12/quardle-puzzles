@@ -1,0 +1,5 @@
+6 6 outoforder
+oaken 1 1 0
+octal 1 1 1
+khaki 3 1 1
+ankle 1 4 0

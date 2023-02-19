@@ -1,0 +1,5 @@
+7 9
+taper 6 1 1
+purse 2 4 0
+reply 4 4 1
+drape 1 6 0

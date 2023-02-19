@@ -1,0 +1,5 @@
+7 9
+ovoid 1 1 0
+ozone 3 1 1
+slung 6 4 1
+petal 2 5 0

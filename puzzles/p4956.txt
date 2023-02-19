@@ -1,0 +1,5 @@
+7 10
+stiff 3 1 1
+affix 2 5 0
+index 5 5 1
+salad 1 7 0

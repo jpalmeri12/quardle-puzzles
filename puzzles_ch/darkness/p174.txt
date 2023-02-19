@@ -1,0 +1,5 @@
+6 6 darkness
+sadly 1 2 0
+taste 2 1 1
+berth 1 5 0
+pleat 4 1 1

@@ -1,0 +1,5 @@
+7 10 beta
+sneer 4 1 1
+scarf 1 5 0
+found 5 5 1
+trout 2 7 0

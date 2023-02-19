@@ -1,0 +1,5 @@
+7 10
+gassy 4 1 1
+shyly 2 5 0
+heady 3 5 1
+place 1 7 0

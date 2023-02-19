@@ -1,0 +1,5 @@
+7 9 clockdown
+cleft 1 1 1
+frock 1 4 0
+canon 4 4 1
+punch 2 8 0

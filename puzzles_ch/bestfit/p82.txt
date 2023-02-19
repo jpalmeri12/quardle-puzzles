@@ -1,0 +1,5 @@
+7 10 bestfit
+image 2 1 1
+terra 1 5 0
+awake 5 5 1
+bloat 2 7 0

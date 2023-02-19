@@ -1,0 +1,5 @@
+7 7 sweeper
+agony 1 1 0
+goner 2 1 1
+flume 6 2 1
+rearm 2 5 0

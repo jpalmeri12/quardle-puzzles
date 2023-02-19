@@ -1,0 +1,5 @@
+7 8
+large 1 1 0
+algae 2 1 1
+while 5 3 1
+alpha 2 4 0

@@ -1,0 +1,5 @@
+7 10
+chief 6 1 1
+snuff 2 5 0
+nomad 3 5 1
+budge 1 9 0

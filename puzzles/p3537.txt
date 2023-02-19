@@ -1,0 +1,5 @@
+7 7
+radii 4 1 1
+tubal 1 2 0
+utter 2 2 1
+thick 2 4 0

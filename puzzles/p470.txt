@@ -1,0 +1,5 @@
+7 10
+incur 4 1 1
+block 1 3 0
+merit 2 5 0
+three 6 5 1

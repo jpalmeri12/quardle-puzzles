@@ -1,0 +1,5 @@
+7 10 darkness
+onion 2 2 0
+woozy 2 1 1
+bylaw 1 5 0
+booth 1 5 1

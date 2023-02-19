@@ -1,0 +1,5 @@
+6 8
+sissy 1 1 0
+splat 4 1 1
+wring 2 3 1
+creak 1 4 0

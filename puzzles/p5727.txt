@@ -1,0 +1,5 @@
+7 9
+acute 1 1 0
+clung 2 1 1
+nobly 2 4 0
+lease 5 4 1

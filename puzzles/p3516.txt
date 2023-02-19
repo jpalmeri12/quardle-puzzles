@@ -1,0 +1,5 @@
+7 8
+alibi 1 1 0
+lemur 2 1 1
+faint 6 3 1
+ultra 2 4 0

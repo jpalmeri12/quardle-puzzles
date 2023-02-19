@@ -1,0 +1,6 @@
+6 10 five
+alien 2 1 1
+grate 4 1 1
+glare 1 2 0
+sneer 1 5 0
+royal 5 5 1

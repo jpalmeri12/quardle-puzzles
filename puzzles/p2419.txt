@@ -1,0 +1,5 @@
+7 9
+tawny 3 1 1
+penne 1 4 0
+expel 5 4 1
+rebel 2 7 0

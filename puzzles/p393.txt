@@ -1,0 +1,5 @@
+7 10
+labor 4 1 1
+rhino 2 5 1
+rarer 2 5 0
+girth 1 7 0

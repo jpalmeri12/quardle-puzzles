@@ -1,0 +1,5 @@
+7 10
+savvy 5 1 1
+crave 2 3 0
+dicey 1 5 0
+count 3 5 1

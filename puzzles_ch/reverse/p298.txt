@@ -1,0 +1,5 @@
+7 8 reverse
+hsuls 1 1 0
+uoyab 3 1 1
+hyper 2 3 0
+recur 6 3 1

@@ -1,0 +1,9 @@
+7 9 beforeafter
+about 2 1 0
+bayou 3 1 1
+agent 5 4 1
+swung 1 5 0
+!beforeafter 2 q
+!beforeafter 1 k
+!beforeafter 2 k
+!beforeafter 2 r

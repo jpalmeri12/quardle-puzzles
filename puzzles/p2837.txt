@@ -1,0 +1,5 @@
+7 8
+lover 1 1 0
+reply 5 1 1
+raspy 2 3 0
+rupee 2 3 1

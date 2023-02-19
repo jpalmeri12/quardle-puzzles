@@ -1,0 +1,5 @@
+7 10 spaced
+tweak 5 1 1
+glare 1 3 0
+musky 2 5 0
+snaky 4 5 1

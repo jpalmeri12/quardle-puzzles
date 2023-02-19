@@ -1,0 +1,5 @@
+7 9 scrabble
+onion 3 1 1
+mound 2 1 0
+flood 1 4 0
+facet 1 4 1

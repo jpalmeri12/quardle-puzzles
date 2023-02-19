@@ -1,0 +1,5 @@
+7 9 scrabble
+asset 2 8 0
+erode 1 4 0
+apnea 1 1 1
+evoke 5 4 1

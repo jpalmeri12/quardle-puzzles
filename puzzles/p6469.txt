@@ -1,0 +1,5 @@
+7 10
+woody 6 1 1
+decoy 2 5 0
+epoxy 3 5 1
+slope 1 7 0

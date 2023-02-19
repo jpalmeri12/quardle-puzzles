@@ -1,0 +1,5 @@
+7 10
+stave 2 1 1
+meant 1 5 0
+navel 4 5 1
+envoy 2 7 0

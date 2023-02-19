@@ -1,0 +1,6 @@
+6 12 drop
+steep 2 1 1
+sport 1 5 0
+tonga 5 5 1
+along 1 8 0
+plant 1 11 0

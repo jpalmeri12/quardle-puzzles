@@ -1,0 +1,5 @@
+7 7 buyavowel
+moron 4 1 1
+droit 2 2 0
+dryly 2 2 1
+synod 1 4 0

@@ -1,0 +1,5 @@
+7 10 hardmode
+drier 4 1 1
+lipid 1 3 0
+wordy 2 5 0
+offal 3 5 1

@@ -1,0 +1,5 @@
+7 10
+serum 3 1 1
+marsh 1 3 0
+smock 2 5 0
+shape 2 5 1

@@ -1,0 +1,5 @@
+7 9 scrabble
+laden 2 2 0
+payee 4 4 1
+offal 1 5 0
+bluff 2 1 1

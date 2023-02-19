@@ -1,0 +1,5 @@
+7 9
+lapse 1 1 0
+extol 5 1 1
+lover 3 4 1
+could 2 5 0

@@ -1,0 +1,6 @@
+7 10 connectfive
+taffy 2 1 0
+fungi 4 1 1
+aside 2 5 0
+screw 3 5 1
+wreck 1 8 0

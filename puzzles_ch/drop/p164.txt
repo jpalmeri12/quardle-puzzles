@@ -1,0 +1,6 @@
+6 9 drop
+sewer 4 1 1
+islet 1 2 1
+scowl 1 3 0
+every 1 5 0
+swept 1 8 0

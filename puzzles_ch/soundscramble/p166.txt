@@ -1,0 +1,5 @@
+7 9 soundscramble
+gonar 6 1 1
+escot 2 4 1
+senar 2 5 0
+storm 1 8 0

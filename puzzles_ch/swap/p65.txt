@@ -1,0 +1,5 @@
+7 7 swap
+rreun 5 1 1
+otwer 1 2 0
+trila 2 2 1
+lcing 2 5 0

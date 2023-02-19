@@ -1,0 +1,5 @@
+6 9 frequency
+idiot 1 1 1
+stray 5 4 1
+tweet 1 5 0
+parka 1 7 0

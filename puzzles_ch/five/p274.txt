@@ -1,0 +1,6 @@
+6 8 five
+bagel 1 1 0
+afoul 2 1 1
+forgo 1 3 0
+onset 5 3 1
+gloss 1 5 0

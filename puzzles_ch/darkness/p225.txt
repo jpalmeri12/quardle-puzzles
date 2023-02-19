@@ -1,0 +1,5 @@
+7 10 darkness
+force 2 5 1
+after 1 5 0
+expel 2 9 0
+caste 4 1 1

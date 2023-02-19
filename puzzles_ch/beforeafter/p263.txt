@@ -1,0 +1,9 @@
+6 9 beforeafter
+trick 1 1 0
+rupee 2 1 1
+bless 4 4 1
+hello 1 5 0
+!beforeafter 1 n
+!beforeafter 1 q
+!beforeafter 2 o
+!beforeafter 1 k

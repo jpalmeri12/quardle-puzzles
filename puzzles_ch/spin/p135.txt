@@ -1,0 +1,5 @@
+7 10 spin
+today 5 1 1
+teddy 2 3 0
+dumpy 1 5 1
+dowry 1 5 0

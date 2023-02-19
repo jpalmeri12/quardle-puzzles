@@ -1,0 +1,5 @@
+6 7 reverse
+mures 4 1 1
+yllih 2 2 1
+clerk 1 3 0
+gipsy 1 5 0

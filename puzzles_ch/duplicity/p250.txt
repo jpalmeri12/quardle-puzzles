@@ -1,0 +1,5 @@
+7 9 duplicity
+teeth 2 1 1
+abbot 5 4 1
+throb 1 5 0
+tarot 2 7 0

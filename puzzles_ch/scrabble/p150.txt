@@ -1,0 +1,5 @@
+7 10 scrabble
+adult 1 8 0
+noble 2 5 0
+crude 6 1 1
+opium 3 5 1

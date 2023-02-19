@@ -1,0 +1,6 @@
+6 12 drop
+globe 1 1 0
+basis 4 1 1
+harsh 1 5 0
+haven 5 5 1
+reign 1 11 0

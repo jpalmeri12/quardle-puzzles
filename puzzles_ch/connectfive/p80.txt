@@ -1,0 +1,6 @@
+6 10 connectfive
+sauna 1 1 1
+anvil 1 2 0
+arson 1 5 0
+rowdy 2 5 1
+often 4 5 1

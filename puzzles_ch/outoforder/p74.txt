@@ -1,0 +1,5 @@
+7 10 outoforder
+sperm 6 1 1
+qualm 2 5 0
+lilac 5 5 1
+petal 1 7 0

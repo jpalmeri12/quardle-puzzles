@@ -1,0 +1,5 @@
+7 10 soundscramble
+raval 4 1 1
+eblad 2 5 0
+breva 3 5 1
+laefy 1 7 0

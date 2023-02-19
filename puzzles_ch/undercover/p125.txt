@@ -1,0 +1,6 @@
+6 11 undercover
+outgo 2 1 1
+strap 5 4 1
+boast 1 5 0
+scuba 1 7 0
+vinyl 1 10 0

@@ -1,0 +1,5 @@
+6 7
+ditto 5 1 1
+rabbi 1 2 0
+basil 3 2 1
+posit 1 4 0

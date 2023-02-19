@@ -1,0 +1,5 @@
+7 7 sweeper
+crone 5 1 1
+usurp 2 2 0
+screw 3 2 1
+liege 1 5 0

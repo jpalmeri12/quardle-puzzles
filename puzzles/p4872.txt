@@ -1,0 +1,5 @@
+7 10
+deign 5 1 1
+blind 2 5 0
+lemon 3 5 1
+jumpy 1 7 0

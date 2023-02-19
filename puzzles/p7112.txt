@@ -1,0 +1,5 @@
+7 8
+humus 1 1 0
+usage 2 1 1
+toxin 4 3 1
+grope 2 4 0

@@ -1,0 +1,5 @@
+6 10
+debut 2 1 1
+staid 1 5 0
+spine 1 5 1
+eater 1 9 0

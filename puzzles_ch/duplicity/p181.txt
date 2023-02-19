@@ -1,0 +1,5 @@
+7 9 duplicity
+dandy 4 1 1
+allay 1 2 0
+laden 2 4 0
+needy 6 4 1

@@ -1,0 +1,5 @@
+7 10
+whose 3 1 1
+pleat 1 5 0
+turbo 5 5 1
+clerk 2 7 0

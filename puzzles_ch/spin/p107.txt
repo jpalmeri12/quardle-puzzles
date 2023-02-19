@@ -1,0 +1,5 @@
+7 9 spin
+gayly 2 1 1
+alien 2 2 0
+winch 4 4 1
+lyric 1 5 0

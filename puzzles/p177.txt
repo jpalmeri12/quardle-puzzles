@@ -1,0 +1,5 @@
+6 9
+ratty 2 1 1
+stack 1 4 0
+crumb 4 4 1
+gamma 1 7 0

@@ -1,0 +1,5 @@
+7 10
+apron 2 1 1
+ralph 2 3 0
+sneak 1 5 0
+knead 5 5 1

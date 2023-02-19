@@ -1,0 +1,5 @@
+7 10
+forum 5 1 1
+glare 2 3 0
+charm 1 5 0
+hairy 2 5 1

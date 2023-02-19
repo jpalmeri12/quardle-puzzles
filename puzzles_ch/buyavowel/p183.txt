@@ -1,0 +1,5 @@
+7 9 buyavowel
+teary 5 1 1
+psalm 3 4 1
+mossy 1 5 0
+amass 2 8 0

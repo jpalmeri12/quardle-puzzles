@@ -1,0 +1,5 @@
+7 10 fourscore
+prank 1 1 0
+nutty 4 1 1
+gayly 2 5 0
+guilt 2 5 1

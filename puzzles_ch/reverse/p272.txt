@@ -1,0 +1,5 @@
+7 9 reverse
+lliks 3 1 1
+walyb 1 2 0
+pecan 5 4 1
+ashen 2 5 0

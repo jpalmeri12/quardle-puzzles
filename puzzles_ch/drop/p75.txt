@@ -1,0 +1,6 @@
+7 12 drop
+comma 3 1 1
+smite 2 3 0
+apart 1 5 0
+teach 5 5 1
+amass 1 11 0

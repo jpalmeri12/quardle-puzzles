@@ -1,0 +1,5 @@
+7 7 fourscore
+crate 2 1 1
+alone 4 2 1
+allow 2 3 0
+penny 1 5 0

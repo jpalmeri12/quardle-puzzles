@@ -1,0 +1,5 @@
+7 9
+sword 1 1 0
+drama 5 1 1
+magma 2 4 0
+acrid 3 4 1

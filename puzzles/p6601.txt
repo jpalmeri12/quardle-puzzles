@@ -1,0 +1,5 @@
+6 7
+admin 1 1 1
+diner 1 2 0
+roost 5 2 1
+intro 1 4 0

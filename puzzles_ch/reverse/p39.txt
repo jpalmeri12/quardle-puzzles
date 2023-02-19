@@ -1,0 +1,5 @@
+7 10 reverse
+plier 3 1 1
+ralom 1 2 0
+yreve 2 5 0
+young 2 5 1

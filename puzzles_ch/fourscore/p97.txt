@@ -1,0 +1,5 @@
+7 9 fourscore
+fizzy 1 1 0
+zebra 4 1 1
+focal 2 4 1
+ovary 2 5 0

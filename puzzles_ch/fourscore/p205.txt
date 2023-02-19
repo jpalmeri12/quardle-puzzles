@@ -1,0 +1,5 @@
+7 10 fourscore
+ionic 2 1 0
+image 5 1 1
+spice 1 5 0
+snide 1 5 1

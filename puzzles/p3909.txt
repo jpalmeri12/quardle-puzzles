@@ -1,0 +1,5 @@
+7 7
+agony 3 1 1
+dogma 1 2 0
+aptly 5 2 1
+unite 2 4 0

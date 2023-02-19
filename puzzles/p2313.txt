@@ -1,0 +1,5 @@
+7 9
+swamp 1 1 1
+bosom 3 4 1
+proxy 1 5 0
+impel 2 8 0

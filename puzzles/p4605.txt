@@ -1,0 +1,5 @@
+7 10
+meant 1 1 1
+trope 1 5 0
+rowdy 2 5 1
+dumpy 2 8 0

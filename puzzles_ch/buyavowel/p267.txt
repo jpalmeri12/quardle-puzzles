@@ -1,0 +1,5 @@
+7 9 buyavowel
+retro 5 1 1
+write 1 2 0
+leery 2 4 0
+loose 2 4 1

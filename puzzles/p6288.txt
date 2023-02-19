@@ -1,0 +1,5 @@
+7 9
+quart 2 1 1
+utile 2 2 0
+drool 1 4 0
+obese 4 4 1

@@ -1,0 +1,5 @@
+7 10 desync
+glyph 1 1 0
+prize 4 1 1
+elect 2 5 0
+tarot 6 5 1

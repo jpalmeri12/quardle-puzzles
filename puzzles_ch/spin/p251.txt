@@ -1,0 +1,5 @@
+7 9 spin
+ralph 2 1 1
+macaw 5 4 1
+human 2 5 0
+allow 1 8 0

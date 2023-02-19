@@ -1,0 +1,5 @@
+7 10
+gayly 3 1 1
+synod 2 5 0
+nadir 4 5 1
+fairy 1 9 0

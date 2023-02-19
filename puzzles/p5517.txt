@@ -1,0 +1,5 @@
+6 9
+diver 3 1 1
+prawn 1 4 1
+rarer 1 5 0
+nylon 1 8 0

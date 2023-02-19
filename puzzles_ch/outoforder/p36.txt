@@ -1,0 +1,5 @@
+7 10 outoforder
+angel 2 1 1
+louse 2 5 0
+smell 5 5 1
+space 1 7 0

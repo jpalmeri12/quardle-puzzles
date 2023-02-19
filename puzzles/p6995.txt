@@ -1,0 +1,5 @@
+7 10
+basis 1 1 0
+arrow 2 1 1
+wring 2 5 0
+ninth 5 5 1

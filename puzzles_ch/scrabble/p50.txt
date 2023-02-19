@@ -1,0 +1,5 @@
+7 9 scrabble
+odder 1 8 0
+image 6 1 1
+sword 2 4 1
+wince 2 5 0

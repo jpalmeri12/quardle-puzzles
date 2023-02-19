@@ -1,0 +1,5 @@
+7 10
+slept 1 1 1
+tepee 1 5 0
+emcee 4 5 1
+uncle 2 7 0

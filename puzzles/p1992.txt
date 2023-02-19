@@ -1,0 +1,5 @@
+6 6
+cower 1 1 0
+cloud 1 1 1
+worth 3 1 1
+untie 1 4 0

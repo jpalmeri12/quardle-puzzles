@@ -1,0 +1,6 @@
+6 9 drop
+mover 2 1 1
+slurp 5 2 1
+avail 1 3 0
+truer 1 5 0
+parer 1 8 0

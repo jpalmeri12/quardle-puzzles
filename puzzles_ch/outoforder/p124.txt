@@ -1,0 +1,5 @@
+7 8 outoforder
+meaty 4 1 1
+jewel 1 2 0
+theta 6 3 1
+witch 2 4 0

@@ -1,0 +1,5 @@
+7 9
+spoof 2 1 1
+coach 1 4 0
+cleft 4 4 1
+refit 2 7 0

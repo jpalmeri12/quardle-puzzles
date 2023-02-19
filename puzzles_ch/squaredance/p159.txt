@@ -1,0 +1,6 @@
+6 8 squaredance
+cross 1 1 1
+crack 5 1 1
+comic 1 1 0
+shirk 1 5 0
+ocean 1 7 0

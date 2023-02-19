@@ -1,0 +1,5 @@
+7 10 buyavowel
+dogma 5 1 1
+stung 2 5 1
+sedan 2 5 0
+untie 1 8 0

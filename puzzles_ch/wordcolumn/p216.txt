@@ -1,0 +1,6 @@
+7 10 wordcolumn
+magic 2 1 1
+tasty 5 2 1
+catty 2 5 0
+agree 3 5 1
+speed 1 9 0

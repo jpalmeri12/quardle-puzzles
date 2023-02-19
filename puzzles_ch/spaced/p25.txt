@@ -1,0 +1,5 @@
+7 10 spaced
+flair 5 1 1
+boule 2 2 0
+tiger 1 5 0
+grave 3 5 1

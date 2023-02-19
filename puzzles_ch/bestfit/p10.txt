@@ -1,0 +1,5 @@
+7 10 bestfit
+brine 3 1 1
+burnt 1 2 0
+delta 2 5 0
+ashen 6 5 1

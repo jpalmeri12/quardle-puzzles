@@ -1,0 +1,7 @@
+6 11 secretdistance
+flyer 2 1 1
+rebus 1 4 0
+scree 5 4 1
+space 1 7 0
+fixer 1 10 0
+!sdpos 1 2 1 0

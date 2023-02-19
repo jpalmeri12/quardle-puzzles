@@ -1,0 +1,6 @@
+7 7 commonsecret
+inner 1 1 1
+brook 5 2 1
+nicer 1 3 0
+risky 2 6 0
+!secret r

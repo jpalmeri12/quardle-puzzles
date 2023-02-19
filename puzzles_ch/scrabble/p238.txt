@@ -1,0 +1,5 @@
+7 10 scrabble
+stunt 2 5 0
+spent 6 1 1
+tramp 3 5 1
+smack 1 7 0

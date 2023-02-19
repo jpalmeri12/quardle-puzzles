@@ -1,0 +1,5 @@
+7 8 invention
+savor 1 1 0
+audit 2 1 1
+drool 2 3 0
+lanky 6 3 1

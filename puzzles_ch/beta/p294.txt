@@ -1,0 +1,5 @@
+7 9 beta
+radar 4 1 1
+mimic 2 4 1
+meaty 2 4 0
+tibia 1 7 0

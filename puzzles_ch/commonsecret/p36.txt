@@ -1,0 +1,6 @@
+7 10 commonsecret
+elite 2 1 0
+tidal 5 1 1
+broil 1 5 0
+olive 3 5 1
+!secret l

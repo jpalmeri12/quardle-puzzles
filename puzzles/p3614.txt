@@ -1,0 +1,5 @@
+7 9
+final 2 1 1
+viper 1 2 0
+apart 2 4 0
+rayon 5 4 1

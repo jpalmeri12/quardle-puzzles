@@ -1,0 +1,5 @@
+7 8 buyavowel
+torus 2 1 1
+tonic 2 1 0
+ulcer 4 3 1
+curly 1 4 0

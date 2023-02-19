@@ -1,0 +1,6 @@
+7 9 wordcolumn
+march 4 1 1
+fiery 1 3 0
+inane 2 3 1
+prune 6 4 1
+abhor 2 5 0

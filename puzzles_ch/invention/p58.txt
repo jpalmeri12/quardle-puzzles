@@ -1,0 +1,5 @@
+7 8 invention
+basis 2 1 0
+sandy 4 1 1
+phone 1 3 0
+halve 2 3 1

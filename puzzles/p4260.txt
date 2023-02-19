@@ -1,0 +1,5 @@
+7 9
+pooch 4 1 1
+froze 2 2 0
+chock 1 4 0
+coast 1 4 1

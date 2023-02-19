@@ -1,0 +1,6 @@
+7 12 drop
+swath 3 1 1
+downy 1 2 0
+shush 2 5 0
+saute 2 5 1
+mushy 1 11 0

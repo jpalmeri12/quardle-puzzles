@@ -1,0 +1,5 @@
+7 10 darkness
+swore 2 5 0
+grate 1 3 0
+patio 4 1 1
+world 3 5 1

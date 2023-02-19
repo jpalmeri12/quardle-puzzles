@@ -1,0 +1,5 @@
+7 9 elbowroom
+timid 1 1 0
+muddy 3 1 1
+adobe 2 4 0
+endow 6 4 1

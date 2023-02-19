@@ -1,0 +1,6 @@
+7 12 undercover
+siren 2 1 1
+slosh 2 1 0
+ensue 1 5 0
+ember 5 5 1
+fatty 1 11 0

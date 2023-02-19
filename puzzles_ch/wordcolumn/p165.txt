@@ -1,0 +1,6 @@
+7 10 wordcolumn
+blitz 4 1 1
+satyr 6 2 1
+fizzy 2 5 0
+ionic 3 5 1
+lucid 1 9 0

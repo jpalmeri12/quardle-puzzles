@@ -1,0 +1,5 @@
+7 9
+steed 2 1 1
+bleed 4 4 1
+adult 1 5 0
+siege 2 7 0

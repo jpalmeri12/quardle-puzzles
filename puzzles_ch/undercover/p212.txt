@@ -1,0 +1,6 @@
+6 12 undercover
+shelf 5 1 1
+sniff 1 5 0
+flesh 4 5 1
+cross 1 8 0
+datum 1 11 0

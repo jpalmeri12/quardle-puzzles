@@ -1,0 +1,5 @@
+7 7 invention
+wafer 2 1 1
+enema 4 2 1
+fungi 2 3 0
+creme 1 5 0

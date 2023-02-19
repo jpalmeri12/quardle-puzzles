@@ -1,0 +1,6 @@
+7 10 five
+quilt 2 1 1
+tract 2 5 0
+risky 3 5 1
+chick 5 5 1
+sushi 1 7 0

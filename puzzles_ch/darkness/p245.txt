@@ -1,0 +1,5 @@
+7 10 darkness
+quasi 2 5 0
+bayou 3 1 1
+shoal 5 5 1
+primo 1 7 0

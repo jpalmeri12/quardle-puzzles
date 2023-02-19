@@ -1,0 +1,5 @@
+7 9
+cynic 5 1 1
+awful 2 4 1
+witch 2 5 0
+rumba 1 7 0

@@ -1,0 +1,9 @@
+7 9 spellbound
+earth 6 1 1
+claim 2 4 1
+covet 2 4 0
+marsh 1 6 0
+!spellbound 0 4 0
+!spellbound 1 1 4
+!spellbound 2 1 2
+!spellbound 3 3 2

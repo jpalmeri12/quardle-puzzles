@@ -1,0 +1,5 @@
+7 9 shiritori
+troop 1 1 1
+angry 4 4 1
+phony 1 5 0
+party 2 7 0

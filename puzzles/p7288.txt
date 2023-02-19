@@ -1,0 +1,5 @@
+7 9
+slurp 6 1 1
+cider 2 4 0
+incur 3 4 1
+macaw 1 6 0

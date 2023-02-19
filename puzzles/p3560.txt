@@ -1,0 +1,5 @@
+7 7
+swell 4 1 1
+vowel 2 2 0
+vaunt 2 2 1
+quill 1 4 0

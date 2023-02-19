@@ -1,0 +1,5 @@
+7 9
+quiet 3 1 1
+drove 5 4 1
+eater 1 5 0
+trove 2 7 0

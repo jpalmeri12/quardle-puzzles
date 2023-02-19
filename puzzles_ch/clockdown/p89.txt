@@ -1,0 +1,5 @@
+7 10 clockdown
+primo 4 1 1
+optic 1 3 0
+roomy 2 5 0
+ovine 3 5 1

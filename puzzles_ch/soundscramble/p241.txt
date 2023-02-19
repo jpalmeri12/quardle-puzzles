@@ -1,0 +1,5 @@
+7 7 soundscramble
+agroo 1 1 1
+geugo 1 2 0
+gergo 4 2 1
+spoar 2 6 0

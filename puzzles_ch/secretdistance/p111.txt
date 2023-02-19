@@ -1,0 +1,7 @@
+7 11 secretdistance
+torso 2 1 0
+tidal 2 1 1
+patty 4 4 1
+altar 1 5 0
+crumb 1 10 0
+!sdpos 1 0 0 1

@@ -1,0 +1,5 @@
+6 9 hardmode
+usual 1 1 0
+shark 2 1 1
+trust 1 4 0
+trawl 5 4 1

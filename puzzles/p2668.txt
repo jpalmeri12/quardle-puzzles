@@ -1,0 +1,5 @@
+7 9
+sneer 2 1 1
+shout 2 1 0
+ferry 1 4 0
+yield 5 4 1

@@ -1,0 +1,6 @@
+7 10 wordcolumn
+essay 1 1 1
+splat 1 2 0
+antic 4 2 1
+stave 6 5 1
+yacht 2 6 0

@@ -1,0 +1,5 @@
+7 10 fourscore
+south 2 1 0
+odder 3 1 1
+scrum 1 5 0
+mealy 5 5 1

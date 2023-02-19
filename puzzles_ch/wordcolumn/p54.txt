@@ -1,0 +1,6 @@
+6 11 wordcolumn
+mocha 2 1 1
+which 1 4 0
+cagey 4 4 1
+rover 1 6 1
+vinyl 1 8 0

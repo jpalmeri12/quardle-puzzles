@@ -1,0 +1,5 @@
+7 9
+decal 1 1 0
+carve 3 1 1
+ovate 2 4 0
+erect 6 4 1

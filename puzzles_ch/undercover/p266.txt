@@ -1,0 +1,6 @@
+7 11 undercover
+rumba 1 1 1
+basic 1 4 0
+crust 5 4 1
+warty 2 8 0
+dozen 1 10 0

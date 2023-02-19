@@ -1,0 +1,5 @@
+7 10
+owing 4 1 1
+grain 1 3 0
+lager 2 5 0
+risky 6 5 1

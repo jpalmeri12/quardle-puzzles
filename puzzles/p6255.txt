@@ -1,0 +1,5 @@
+6 10
+jolly 4 1 1
+polyp 1 5 0
+plier 1 5 1
+retro 1 9 0

@@ -1,0 +1,6 @@
+6 10 commonsecret
+ennui 1 1 0
+inlet 5 1 1
+swept 1 5 0
+purer 4 5 1
+!secret e

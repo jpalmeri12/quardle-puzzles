@@ -1,0 +1,5 @@
+7 10
+built 3 1 1
+stink 2 5 0
+newer 5 5 1
+hater 1 9 0

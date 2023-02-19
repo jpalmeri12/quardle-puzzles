@@ -1,0 +1,6 @@
+6 10 island
+belch 1 1 0
+hunch 5 1 1
+booth 1 5 0
+optic 2 5 1
+!island 2111 31 211 311

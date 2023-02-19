@@ -1,0 +1,7 @@
+6 12 secretdistance
+chump 1 1 0
+mecca 4 1 1
+wreak 1 5 0
+world 1 5 1
+wreck 1 11 0
+!sdpos 1 1 0 0

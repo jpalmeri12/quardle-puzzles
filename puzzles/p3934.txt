@@ -1,0 +1,5 @@
+6 9
+tweak 4 1 1
+scram 1 4 0
+shear 1 4 1
+route 1 8 0

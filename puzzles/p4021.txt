@@ -1,0 +1,5 @@
+7 9
+rainy 1 1 1
+nudge 1 4 0
+dingo 3 4 1
+login 2 8 0

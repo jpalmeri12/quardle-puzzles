@@ -1,0 +1,8 @@
+6 8 twins
+sheen 1 1 0
+risen 1 3 0
+manly 1 5 0
+range 1 7 0
+!twins 0 1
+!twins 0 2
+!twins 1 2

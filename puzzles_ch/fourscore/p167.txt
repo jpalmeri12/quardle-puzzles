@@ -1,0 +1,5 @@
+6 8 fourscore
+baker 1 1 0
+abled 2 1 1
+prowl 5 3 1
+lemur 1 4 0

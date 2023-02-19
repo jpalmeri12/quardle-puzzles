@@ -1,0 +1,5 @@
+7 8
+olden 4 1 1
+smack 2 3 1
+annex 2 5 0
+skill 1 7 0

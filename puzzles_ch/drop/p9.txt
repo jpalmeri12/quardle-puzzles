@@ -1,0 +1,6 @@
+7 9 drop
+gripe 6 1 1
+dolly 3 2 1
+bleep 2 4 0
+dryer 1 6 0
+early 1 8 0

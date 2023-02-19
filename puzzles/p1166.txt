@@ -1,0 +1,5 @@
+6 6
+rearm 1 1 1
+guest 4 1 1
+ensue 1 2 0
+reuse 1 4 0

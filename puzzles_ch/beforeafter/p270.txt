@@ -1,0 +1,9 @@
+6 10 beforeafter
+alert 1 1 1
+empty 1 3 0
+tubal 1 5 0
+lousy 5 5 1
+!beforeafter 2 q
+!beforeafter 1 o
+!beforeafter 1 n
+!beforeafter 1 p

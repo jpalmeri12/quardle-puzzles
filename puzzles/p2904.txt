@@ -1,0 +1,5 @@
+7 9
+missy 1 1 1
+shrub 1 4 0
+umbra 4 4 1
+myrrh 2 7 0

@@ -1,0 +1,5 @@
+6 7 bestfit
+screw 1 1 1
+chasm 1 2 0
+shade 4 2 1
+weedy 1 5 0

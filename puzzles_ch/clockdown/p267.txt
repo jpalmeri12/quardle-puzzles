@@ -1,0 +1,5 @@
+7 10 clockdown
+koala 4 1 1
+usual 1 5 0
+steel 2 5 1
+lanky 2 9 0

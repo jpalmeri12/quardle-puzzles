@@ -1,0 +1,6 @@
+6 8 squaredance
+ruder 1 1 1
+touch 5 1 1
+rebut 1 1 0
+reach 1 5 0
+trick 1 7 0

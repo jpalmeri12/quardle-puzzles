@@ -1,0 +1,5 @@
+7 7
+flint 4 1 1
+willy 2 2 0
+witty 2 2 1
+stint 1 4 0

@@ -1,0 +1,5 @@
+6 9
+pecan 1 1 1
+party 1 1 0
+acrid 1 4 0
+deter 5 4 1

@@ -1,0 +1,8 @@
+6 8 twins
+whole 1 1 0
+tuber 1 3 0
+greed 1 5 0
+muddy 1 7 0
+!twins 1 2
+!twins 1 2
+!twins 2 3

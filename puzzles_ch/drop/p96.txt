@@ -1,0 +1,6 @@
+6 9 drop
+wrack 4 1 1
+chord 1 2 0
+hymen 2 2 1
+smack 1 4 0
+homer 1 8 0

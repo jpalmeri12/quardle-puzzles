@@ -1,0 +1,5 @@
+7 10 scrabble
+suite 5 1 1
+noble 4 5 1
+owner 2 5 0
+swami 1 3 0

@@ -1,0 +1,5 @@
+7 9
+drool 1 1 1
+ounce 1 4 0
+copse 4 4 1
+repel 2 6 0

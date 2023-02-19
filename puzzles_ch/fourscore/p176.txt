@@ -1,0 +1,5 @@
+6 8 fourscore
+toxic 4 1 1
+epoxy 1 3 0
+punch 2 3 1
+snuck 1 5 0

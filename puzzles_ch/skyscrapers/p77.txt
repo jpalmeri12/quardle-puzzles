@@ -1,0 +1,5 @@
+7 8 skyscrapers
+olden 6 3 1
+kneed 2 5 0
+frown 3 1 1
+party 1 2 0

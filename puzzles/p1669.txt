@@ -1,0 +1,5 @@
+7 9
+spine 2 1 0
+irate 4 1 1
+fruit 1 4 1
+ruler 1 5 0

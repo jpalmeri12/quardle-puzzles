@@ -1,0 +1,5 @@
+7 10
+theft 1 1 1
+tangy 1 5 0
+guava 4 5 1
+chair 2 9 0

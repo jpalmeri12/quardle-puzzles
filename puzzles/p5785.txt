@@ -1,0 +1,5 @@
+7 9
+badge 2 1 0
+drill 4 1 1
+skulk 1 4 0
+kneed 2 4 1

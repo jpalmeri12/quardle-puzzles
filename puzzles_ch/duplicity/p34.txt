@@ -1,0 +1,5 @@
+7 10 duplicity
+round 3 1 1
+radii 1 5 0
+incur 5 5 1
+acorn 2 9 0

@@ -1,0 +1,5 @@
+7 7
+camel 3 1 1
+brawl 1 2 0
+lurid 5 2 1
+plait 2 5 0

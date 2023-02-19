@@ -1,0 +1,5 @@
+7 8
+smart 2 1 0
+ramen 5 1 1
+stain 3 3 1
+butte 1 4 0

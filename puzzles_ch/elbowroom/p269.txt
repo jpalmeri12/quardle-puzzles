@@ -1,0 +1,5 @@
+7 9 elbowroom
+venom 1 1 1
+ficus 4 4 1
+minim 1 5 0
+daunt 2 7 0

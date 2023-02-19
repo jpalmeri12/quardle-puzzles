@@ -1,0 +1,5 @@
+7 7
+buggy 5 1 1
+rehab 3 2 1
+feign 2 3 0
+snaky 1 5 0

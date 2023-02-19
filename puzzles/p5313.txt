@@ -1,0 +1,5 @@
+6 9
+clang 4 1 1
+shelf 1 2 0
+plane 1 4 0
+loser 2 4 1

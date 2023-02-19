@@ -1,0 +1,5 @@
+6 9
+sissy 3 1 1
+guile 1 2 0
+poser 1 4 0
+remit 5 4 1

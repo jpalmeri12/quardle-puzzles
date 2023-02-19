@@ -1,0 +1,5 @@
+6 7
+beget 4 1 1
+lager 1 2 0
+anode 2 2 1
+gooey 1 4 0

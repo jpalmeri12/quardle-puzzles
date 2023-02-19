@@ -1,0 +1,6 @@
+7 9 wordcolumn
+braid 2 1 1
+trust 1 2 0
+giddy 1 4 0
+drake 4 4 1
+baker 2 7 0

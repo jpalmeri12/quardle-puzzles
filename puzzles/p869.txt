@@ -1,0 +1,5 @@
+7 9
+guppy 6 1 1
+pence 4 4 1
+fiery 2 5 0
+brace 1 7 0

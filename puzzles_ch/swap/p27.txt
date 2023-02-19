@@ -1,0 +1,5 @@
+7 10 swap
+golbe 2 1 1
+etpid 2 5 0
+pinhc 4 5 1
+lcung 1 7 0

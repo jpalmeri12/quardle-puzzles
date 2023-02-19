@@ -1,0 +1,9 @@
+6 9 spellbound
+utile 2 1 1
+prism 5 4 1
+debar 1 5 0
+mucus 1 7 0
+!spellbound 0 1 0
+!spellbound 1 0 4
+!spellbound 2 0 2
+!spellbound 3 2 1

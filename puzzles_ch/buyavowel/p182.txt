@@ -1,0 +1,5 @@
+7 7 buyavowel
+build 2 1 1
+ulcer 2 2 0
+cease 4 2 1
+cloak 1 4 0

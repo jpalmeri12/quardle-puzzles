@@ -1,0 +1,5 @@
+7 9
+panel 4 1 1
+fecal 1 2 0
+trend 2 4 0
+tease 2 4 1

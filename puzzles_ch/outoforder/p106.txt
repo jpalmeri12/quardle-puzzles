@@ -1,0 +1,5 @@
+6 8 outoforder
+fussy 1 1 0
+utter 2 1 1
+learn 4 3 1
+fever 1 4 0

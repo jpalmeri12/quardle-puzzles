@@ -1,0 +1,9 @@
+7 10 beforeafter
+squib 3 1 1
+abbot 2 5 0
+banjo 4 5 1
+trend 1 7 0
+!beforeafter 2 k
+!beforeafter 2 k
+!beforeafter 1 i
+!beforeafter 1 q

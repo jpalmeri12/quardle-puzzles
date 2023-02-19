@@ -1,0 +1,5 @@
+7 10 unloved
+ennui 4 1 1
+ethic 1 5 0
+chest 5 5 1
+raven 2 7 0

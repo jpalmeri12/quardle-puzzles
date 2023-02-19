@@ -1,0 +1,5 @@
+7 7 bestfit
+druid 5 1 1
+after 1 2 0
+fruit 2 2 1
+unfit 2 4 0

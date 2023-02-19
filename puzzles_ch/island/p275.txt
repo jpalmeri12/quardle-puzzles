@@ -1,0 +1,6 @@
+6 8 island
+brief 1 1 0
+fatty 5 1 1
+sleep 2 3 1
+slant 1 4 0
+!island 311 31 22 2111

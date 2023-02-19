@@ -1,0 +1,5 @@
+7 9
+scrum 4 1 1
+bicep 2 2 0
+fraud 1 4 0
+fifth 1 4 1

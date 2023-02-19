@@ -1,0 +1,5 @@
+6 10 swap
+laike 5 1 1
+matye 1 5 0
+traet 3 5 1
+bzeel 1 8 0

@@ -1,0 +1,5 @@
+7 9 skyscrapers
+tapir 6 4 1
+extra 2 5 0
+chute 2 1 1
+acorn 1 1 0

@@ -1,0 +1,6 @@
+7 10 commonsecret
+stein 4 1 1
+plier 1 3 0
+lingo 2 5 0
+oxide 6 5 1
+!secret i

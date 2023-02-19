@@ -1,0 +1,5 @@
+7 10 skyscrapers
+spoon 1 7 0
+apple 2 5 1
+along 2 5 0
+afoul 3 1 1

@@ -1,0 +1,5 @@
+7 10 invention
+fling 4 1 1
+daily 2 3 0
+wedge 1 5 0
+whale 1 5 1

@@ -1,0 +1,5 @@
+7 10
+hound 5 1 1
+mambo 1 2 0
+shady 2 5 0
+hotly 3 5 1

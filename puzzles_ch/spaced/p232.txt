@@ -1,0 +1,5 @@
+7 10 spaced
+mocha 5 1 1
+speak 2 5 0
+elbow 4 5 1
+rugby 1 7 0

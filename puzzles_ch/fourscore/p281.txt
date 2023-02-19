@@ -1,0 +1,5 @@
+7 9 fourscore
+wooly 2 1 1
+fight 4 4 1
+lyric 1 5 0
+ether 2 7 0

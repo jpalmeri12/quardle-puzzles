@@ -1,0 +1,5 @@
+7 9 buyavowel
+motif 1 1 1
+clerk 5 4 1
+final 1 5 0
+hairy 2 7 0

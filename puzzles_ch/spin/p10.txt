@@ -1,0 +1,5 @@
+7 9 spin
+utter 2 1 0
+thief 4 1 1
+finer 1 4 0
+idler 2 4 1

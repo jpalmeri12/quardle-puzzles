@@ -1,0 +1,5 @@
+6 9 clockdown
+basil 1 1 1
+ingot 1 4 0
+guppy 3 4 1
+maybe 1 8 0

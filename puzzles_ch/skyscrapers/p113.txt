@@ -1,0 +1,5 @@
+7 8 skyscrapers
+scram 2 4 0
+grade 4 3 1
+horde 1 6 0
+blimp 6 1 1

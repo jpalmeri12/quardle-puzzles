@@ -1,0 +1,5 @@
+7 10 shiritori
+cacao 4 1 1
+slice 1 3 0
+stole 2 5 0
+enemy 6 5 1

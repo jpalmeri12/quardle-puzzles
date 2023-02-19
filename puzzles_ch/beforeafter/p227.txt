@@ -1,0 +1,9 @@
+7 7 beforeafter
+lofty 2 1 1
+stage 5 2 1
+forty 2 3 0
+tying 1 5 0
+!beforeafter 2 r
+!beforeafter 1 n
+!beforeafter 1 q
+!beforeafter 1 o

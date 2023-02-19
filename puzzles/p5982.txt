@@ -1,0 +1,5 @@
+7 10
+eying 4 1 1
+devil 1 3 0
+magic 2 5 0
+impel 5 5 1

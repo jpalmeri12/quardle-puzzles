@@ -1,0 +1,5 @@
+7 9 swap
+rbaid 3 1 1
+rubma 1 2 0
+viacr 2 4 0
+reram 6 4 1

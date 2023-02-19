@@ -1,0 +1,5 @@
+6 8 reverse
+mocha 1 1 0
+appak 5 1 1
+floss 3 3 1
+delba 1 4 0

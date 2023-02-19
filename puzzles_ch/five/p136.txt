@@ -1,0 +1,6 @@
+7 10 five
+drawl 2 1 1
+sling 5 1 1
+slung 1 5 0
+niece 4 5 1
+dwell 2 7 0

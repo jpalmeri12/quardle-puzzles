@@ -1,0 +1,5 @@
+7 8 sweeper
+libel 2 1 1
+chest 5 3 1
+leper 2 5 0
+cleat 1 7 0

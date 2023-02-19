@@ -1,0 +1,5 @@
+6 10 invention
+gleam 1 1 0
+moron 5 1 1
+blown 1 5 0
+lipid 2 5 1

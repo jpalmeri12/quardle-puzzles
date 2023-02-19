@@ -1,0 +1,5 @@
+7 9
+flack 2 1 1
+circa 2 4 0
+curve 5 4 1
+moose 1 8 0

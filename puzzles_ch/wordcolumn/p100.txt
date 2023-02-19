@@ -1,0 +1,6 @@
+7 9 wordcolumn
+plaid 2 1 1
+elope 4 1 1
+slyly 1 2 0
+input 2 4 0
+thyme 6 4 1

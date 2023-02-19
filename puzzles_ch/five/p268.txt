@@ -1,0 +1,6 @@
+6 8 five
+midge 1 1 0
+email 5 1 1
+tiara 1 3 0
+inlet 2 3 1
+stoop 1 7 0

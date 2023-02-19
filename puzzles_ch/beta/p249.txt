@@ -1,0 +1,5 @@
+7 9 beta
+pedal 4 1 1
+sweet 2 2 0
+syrup 1 4 1
+steak 1 4 0

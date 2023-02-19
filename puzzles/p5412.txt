@@ -1,0 +1,5 @@
+7 9
+maybe 5 1 1
+vivid 2 4 1
+fibre 1 5 0
+delay 2 8 0

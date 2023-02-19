@@ -1,0 +1,5 @@
+7 10
+madam 2 1 1
+jaunt 1 2 0
+madly 2 5 0
+limbo 5 5 1

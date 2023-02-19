@@ -1,0 +1,5 @@
+7 9
+candy 2 1 1
+rower 4 4 1
+nylon 1 5 0
+lorry 2 8 0

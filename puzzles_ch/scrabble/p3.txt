@@ -1,0 +1,5 @@
+7 8 scrabble
+usurp 3 1 1
+optic 2 5 0
+crush 1 1 0
+duchy 6 3 1

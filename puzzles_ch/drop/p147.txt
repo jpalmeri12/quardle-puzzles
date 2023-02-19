@@ -1,0 +1,6 @@
+7 12 drop
+cameo 3 1 1
+smock 2 3 0
+wooly 1 5 0
+ovary 2 5 1
+roomy 1 11 0

@@ -1,0 +1,5 @@
+6 10 scrabble
+title 3 5 1
+niece 1 1 1
+ninny 1 1 0
+extol 1 5 0

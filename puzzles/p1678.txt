@@ -1,0 +1,5 @@
+7 10
+gaily 5 1 1
+savvy 1 5 0
+aider 2 5 1
+dimly 2 7 0

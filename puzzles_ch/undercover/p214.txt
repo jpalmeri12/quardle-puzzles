@@ -1,0 +1,6 @@
+6 11 undercover
+alarm 1 1 1
+sneer 5 4 1
+moron 1 5 0
+exile 1 7 0
+puffy 1 10 0

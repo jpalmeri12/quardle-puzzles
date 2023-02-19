@@ -1,0 +1,5 @@
+7 10 soundscramble
+graad 5 1 1
+snida 2 5 0
+netel 3 5 1
+cetar 1 7 0

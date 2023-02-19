@@ -1,0 +1,6 @@
+7 8 commonsecret
+brick 1 1 1
+shark 4 3 1
+knead 1 5 0
+ankle 2 7 0
+!secret k

@@ -1,0 +1,5 @@
+7 7
+prune 4 1 1
+borax 2 2 0
+blind 2 2 1
+ninny 1 4 0

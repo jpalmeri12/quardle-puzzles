@@ -1,0 +1,6 @@
+6 12 undercover
+bleep 1 1 1
+perch 1 5 0
+rodeo 3 5 1
+along 1 9 0
+fizzy 1 11 0

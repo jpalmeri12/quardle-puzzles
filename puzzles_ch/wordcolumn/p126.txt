@@ -1,0 +1,6 @@
+6 10 wordcolumn
+whirl 4 1 1
+cabin 1 3 0
+ulcer 1 5 1
+utile 1 5 0
+erase 5 5 1

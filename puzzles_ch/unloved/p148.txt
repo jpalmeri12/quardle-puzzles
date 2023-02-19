@@ -1,0 +1,5 @@
+7 8 unloved
+flood 2 1 1
+fault 2 1 0
+comic 1 3 0
+inane 4 3 1

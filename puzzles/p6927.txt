@@ -1,0 +1,5 @@
+7 10
+hazel 5 1 1
+froze 2 3 0
+maize 1 5 1
+mogul 1 5 0

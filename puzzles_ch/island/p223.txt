@@ -1,0 +1,6 @@
+7 8 island
+snare 2 1 0
+renew 5 1 1
+ramen 1 3 0
+royal 1 3 1
+!island 41 31 221 2111

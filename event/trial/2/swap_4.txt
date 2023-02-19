@@ -1,0 +1,5 @@
+6 9 swap
+ofrgo 1 1 1
+oledr 1 1 0
+gruot 1 4 0
+tuhmp 5 4 1

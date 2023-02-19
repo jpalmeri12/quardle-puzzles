@@ -1,0 +1,5 @@
+7 10
+widow 5 1 1
+below 1 5 0
+leapt 3 5 1
+madly 2 7 0

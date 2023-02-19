@@ -1,0 +1,5 @@
+6 6 hardmode
+ghoul 2 1 1
+usual 4 1 1
+whose 1 2 0
+lunar 1 4 0

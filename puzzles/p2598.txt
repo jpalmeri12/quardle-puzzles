@@ -1,0 +1,5 @@
+7 9
+cater 6 1 1
+drawl 4 4 1
+furor 2 5 0
+flown 1 7 0

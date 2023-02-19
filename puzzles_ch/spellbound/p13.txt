@@ -1,0 +1,9 @@
+6 8 spellbound
+sumac 5 1 1
+munch 3 3 1
+ionic 1 5 0
+aphid 1 7 0
+!spellbound 0 0 1
+!spellbound 1 3 0
+!spellbound 2 0 3
+!spellbound 3 4 1

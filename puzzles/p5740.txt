@@ -1,0 +1,5 @@
+7 8
+condo 5 1 1
+crone 2 3 0
+ratio 3 3 1
+outgo 1 5 0

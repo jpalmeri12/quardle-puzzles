@@ -1,0 +1,9 @@
+7 9 beforeafter
+spade 1 1 0
+pride 2 1 1
+demon 2 4 0
+occur 5 4 1
+!beforeafter 1 n
+!beforeafter 1 j
+!beforeafter 1 j
+!beforeafter 2 q

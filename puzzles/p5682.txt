@@ -1,0 +1,5 @@
+7 9
+dolly 5 1 1
+dully 2 4 0
+usher 3 4 1
+perky 1 8 0

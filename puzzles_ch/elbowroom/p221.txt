@@ -1,0 +1,5 @@
+7 9 elbowroom
+bevel 4 1 1
+peach 2 4 1
+mealy 1 5 0
+cycle 2 7 0

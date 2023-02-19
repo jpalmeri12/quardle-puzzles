@@ -1,0 +1,5 @@
+7 10
+seedy 1 1 0
+youth 5 1 1
+sushi 2 5 0
+spoof 2 5 1

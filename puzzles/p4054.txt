@@ -1,0 +1,5 @@
+7 8
+stare 2 1 0
+rayon 5 1 1
+plump 3 3 1
+cello 1 4 0

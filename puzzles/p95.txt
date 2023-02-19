@@ -1,0 +1,5 @@
+7 7
+chump 5 1 1
+chant 2 2 1
+humus 2 3 0
+unzip 1 5 0

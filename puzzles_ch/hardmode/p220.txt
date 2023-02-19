@@ -1,0 +1,5 @@
+7 9 hardmode
+focus 1 1 1
+juror 3 4 1
+stuck 1 5 0
+logic 2 7 0

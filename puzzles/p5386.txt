@@ -1,0 +1,5 @@
+7 9
+flush 2 1 1
+cloak 1 2 0
+troop 4 4 1
+hardy 2 5 0

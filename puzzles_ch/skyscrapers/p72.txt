@@ -1,0 +1,5 @@
+6 8 skyscrapers
+pecan 1 7 0
+music 3 3 1
+pushy 1 5 0
+dowdy 5 1 1

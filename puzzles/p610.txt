@@ -1,0 +1,5 @@
+7 10
+adage 4 1 1
+lodge 2 2 0
+bevel 1 5 0
+lemon 5 5 1

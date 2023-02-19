@@ -1,0 +1,5 @@
+7 10 swap
+umrba 4 1 1
+spary 2 5 0
+rpeen 5 5 1
+vrese 1 7 0

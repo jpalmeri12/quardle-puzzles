@@ -1,0 +1,5 @@
+7 9 swap
+plaec 4 1 1
+sclod 2 2 0
+carsh 1 4 1
+afrce 1 5 0

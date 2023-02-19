@@ -1,0 +1,5 @@
+6 7 fourscore
+rotor 5 1 1
+pinto 3 2 1
+heist 1 3 0
+deter 1 5 0

@@ -1,0 +1,5 @@
+7 9
+sower 2 1 1
+cover 1 2 0
+femur 5 4 1
+racer 2 5 0

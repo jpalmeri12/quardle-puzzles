@@ -1,0 +1,5 @@
+7 10
+bacon 6 1 1
+stein 2 5 0
+inane 5 5 1
+admin 1 8 0

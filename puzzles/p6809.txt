@@ -1,0 +1,5 @@
+6 10
+slosh 2 1 1
+wheel 1 5 0
+elate 3 5 1
+spade 1 7 0

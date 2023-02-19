@@ -1,0 +1,5 @@
+7 10
+belch 5 1 1
+mulch 1 5 0
+laden 3 5 1
+antic 2 9 0

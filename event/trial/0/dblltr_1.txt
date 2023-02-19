@@ -1,0 +1,5 @@
+7 9 dblltr
+iliac 2 1 1
+carat 1 4 0
+treat 5 4 1
+local 2 7 0

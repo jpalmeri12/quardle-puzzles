@@ -1,0 +1,5 @@
+7 10
+lower 3 1 1
+ardor 2 5 0
+agate 2 5 1
+masse 1 7 0

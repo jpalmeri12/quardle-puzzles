@@ -1,0 +1,5 @@
+6 8
+foggy 1 1 0
+gaily 3 1 1
+noise 5 3 1
+cello 1 4 0

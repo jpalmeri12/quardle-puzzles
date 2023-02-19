@@ -1,0 +1,5 @@
+7 9
+flume 4 1 1
+solar 2 2 0
+balmy 1 4 0
+aloud 2 4 1

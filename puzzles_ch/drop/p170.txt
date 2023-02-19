@@ -1,0 +1,6 @@
+7 11 drop
+posit 4 1 1
+front 2 2 0
+magic 1 4 0
+alive 2 4 1
+vicar 1 10 0

@@ -1,0 +1,5 @@
+7 8 bestfit
+bluff 1 1 0
+freed 4 1 1
+crepe 2 3 0
+crest 2 3 1

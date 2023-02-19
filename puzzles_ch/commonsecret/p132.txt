@@ -1,0 +1,6 @@
+7 9 commonsecret
+badge 4 1 1
+hinge 1 4 0
+irate 2 4 1
+equal 2 8 0
+!secret e

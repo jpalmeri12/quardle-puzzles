@@ -1,0 +1,5 @@
+7 9 unloved
+drown 5 1 1
+stamp 2 4 1
+twang 2 5 0
+small 1 7 0

@@ -1,0 +1,5 @@
+6 10 outoforder
+cobra 1 1 1
+ascot 1 5 0
+snare 2 5 1
+tripe 1 8 0

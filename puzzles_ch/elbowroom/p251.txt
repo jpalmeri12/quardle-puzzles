@@ -1,0 +1,5 @@
+7 7 elbowroom
+aback 2 1 1
+abyss 1 2 0
+slyly 4 2 1
+crypt 2 4 0

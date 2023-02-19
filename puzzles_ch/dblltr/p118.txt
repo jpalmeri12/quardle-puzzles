@@ -1,0 +1,5 @@
+7 8 dblltr
+dryer 2 1 0
+enter 5 1 1
+tract 1 3 0
+retry 2 3 1

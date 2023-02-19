@@ -1,0 +1,5 @@
+7 10
+fella 1 1 1
+ankle 1 5 0
+leaky 4 5 1
+buyer 2 9 0

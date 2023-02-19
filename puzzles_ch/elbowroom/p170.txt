@@ -1,0 +1,5 @@
+6 7 elbowroom
+inept 4 1 1
+scent 1 2 0
+china 2 2 1
+wispy 1 4 0

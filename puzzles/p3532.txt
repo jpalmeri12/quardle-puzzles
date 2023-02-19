@@ -1,0 +1,5 @@
+7 10
+quick 5 1 1
+ghoul 2 2 0
+aback 1 5 0
+altar 3 5 1

@@ -1,0 +1,6 @@
+6 10 commonsecret
+flora 2 1 1
+macro 1 5 0
+coast 3 5 1
+coach 1 7 0
+!secret o

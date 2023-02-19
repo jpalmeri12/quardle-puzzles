@@ -1,0 +1,7 @@
+6 6 fourthwall
+bigot 1 1 0
+bulge 1 1 1
+lemon 1 3 0
+gamut 3 1 1
+entry 1 5 0
+tangy 5 1 1

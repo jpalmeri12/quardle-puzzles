@@ -1,0 +1,5 @@
+7 10
+shrew 4 1 1
+prawn 1 5 0
+rival 2 5 1
+lemur 2 9 0

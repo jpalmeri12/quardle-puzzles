@@ -1,0 +1,5 @@
+7 8 hardmode
+pulse 2 1 1
+pluck 2 1 0
+elect 1 3 0
+chafe 4 3 1

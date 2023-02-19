@@ -1,0 +1,5 @@
+7 9 elbowroom
+scale 6 1 1
+gauze 4 4 1
+flame 2 5 0
+booze 1 7 0

@@ -1,0 +1,5 @@
+7 7
+stunk 2 1 1
+stomp 1 2 0
+perch 5 2 1
+knock 2 5 0

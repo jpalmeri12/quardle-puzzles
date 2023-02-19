@@ -1,0 +1,5 @@
+7 9 dblltr
+drill 4 1 1
+jolly 1 4 0
+offer 2 4 1
+recur 2 8 0

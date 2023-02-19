@@ -1,0 +1,5 @@
+7 8 fourscore
+avert 2 1 1
+amass 2 1 0
+leach 4 3 1
+creep 1 4 0

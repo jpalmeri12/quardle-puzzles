@@ -1,0 +1,9 @@
+7 9 spellbound
+whisk 5 1 1
+epoch 1 2 0
+grass 2 4 0
+grope 2 4 1
+!spellbound 0 4 2
+!spellbound 1 1 2
+!spellbound 2 1 4
+!spellbound 3 3 4

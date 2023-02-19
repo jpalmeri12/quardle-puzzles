@@ -1,0 +1,5 @@
+6 7
+clown 1 1 1
+lumen 1 2 0
+molar 3 2 1
+waltz 1 4 0

@@ -1,0 +1,6 @@
+6 8 squaredance
+there 1 1 1
+racer 5 1 1
+timer 1 1 0
+eager 1 5 0
+satyr 1 7 0

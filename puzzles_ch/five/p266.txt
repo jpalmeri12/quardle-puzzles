@@ -1,0 +1,6 @@
+7 10 five
+loyal 1 1 1
+table 3 1 1
+leech 1 5 0
+halve 5 5 1
+mauve 2 8 0

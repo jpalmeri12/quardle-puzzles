@@ -1,0 +1,6 @@
+6 12 wordcolumn
+lathe 5 1 1
+poker 3 4 1
+biome 1 5 0
+dwelt 1 7 0
+terra 5 7 1

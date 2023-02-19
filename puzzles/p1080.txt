@@ -1,0 +1,5 @@
+7 10
+giddy 3 1 1
+faith 1 2 0
+lying 2 5 0
+geeky 6 5 1

@@ -1,0 +1,5 @@
+7 9
+flute 1 1 1
+queen 4 4 1
+ensue 1 5 0
+wield 2 7 0

@@ -1,0 +1,5 @@
+7 9
+trail 4 1 1
+scram 2 2 0
+depot 1 4 1
+eagle 1 5 0

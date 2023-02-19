@@ -1,0 +1,5 @@
+6 9
+short 4 1 1
+augur 2 4 1
+putty 1 5 0
+brown 1 8 0

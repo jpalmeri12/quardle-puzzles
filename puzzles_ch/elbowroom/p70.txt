@@ -1,0 +1,5 @@
+7 8 elbowroom
+small 2 1 0
+minim 3 1 1
+annoy 1 3 0
+yearn 5 3 1

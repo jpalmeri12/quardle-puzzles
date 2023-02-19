@@ -1,0 +1,6 @@
+7 9 five
+rider 2 1 0
+eying 5 1 1
+storm 3 4 1
+stage 2 5 0
+humid 1 8 0

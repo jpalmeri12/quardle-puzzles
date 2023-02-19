@@ -1,0 +1,5 @@
+7 9
+modem 2 1 1
+marsh 5 4 1
+omega 1 5 0
+bushy 2 8 0

@@ -1,0 +1,5 @@
+6 10 invention
+vouch 1 1 0
+carve 4 1 1
+cameo 1 5 0
+opine 5 5 1

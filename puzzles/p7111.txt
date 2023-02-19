@@ -1,0 +1,5 @@
+7 7
+torch 1 1 0
+ovine 2 1 1
+bless 6 2 1
+impel 2 3 0

@@ -1,0 +1,5 @@
+7 8 unloved
+gypsy 2 1 0
+stilt 5 1 1
+rugby 2 3 1
+mural 1 4 0

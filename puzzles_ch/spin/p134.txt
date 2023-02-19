@@ -1,0 +1,5 @@
+7 9 spin
+brown 4 1 1
+jewel 2 4 0
+jaunt 2 4 1
+stray 1 8 0

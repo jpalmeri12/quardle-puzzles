@@ -1,0 +1,5 @@
+7 9
+relay 4 1 1
+fleet 2 2 0
+sweat 1 4 0
+slime 1 4 1

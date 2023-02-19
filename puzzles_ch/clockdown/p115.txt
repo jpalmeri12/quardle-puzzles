@@ -1,0 +1,5 @@
+7 8 clockdown
+afoot 1 1 0
+forty 2 1 1
+riser 2 3 0
+scout 4 3 1

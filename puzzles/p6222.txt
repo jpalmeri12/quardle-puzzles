@@ -1,0 +1,5 @@
+6 7
+minty 4 1 1
+tepid 1 2 0
+expel 2 2 1
+spite 1 4 0

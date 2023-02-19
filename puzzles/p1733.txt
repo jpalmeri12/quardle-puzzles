@@ -1,0 +1,5 @@
+6 10
+slept 1 1 0
+eying 3 1 1
+bugle 1 5 0
+embed 5 5 1

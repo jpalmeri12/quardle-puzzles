@@ -1,0 +1,6 @@
+7 11 connectfive
+stamp 1 1 1
+totem 1 2 0
+taken 3 2 1
+intro 2 6 0
+towel 4 6 1

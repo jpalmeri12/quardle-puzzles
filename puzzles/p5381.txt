@@ -1,0 +1,5 @@
+7 9
+tempo 5 1 1
+agent 2 4 1
+gloom 2 5 0
+stoke 1 8 0

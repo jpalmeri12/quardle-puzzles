@@ -1,0 +1,5 @@
+7 10 bestfit
+gusto 3 1 1
+dowel 2 5 0
+write 4 5 1
+plier 1 9 0

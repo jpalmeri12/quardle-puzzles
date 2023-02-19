@@ -1,0 +1,5 @@
+7 10
+gummy 3 1 1
+nymph 2 5 0
+piano 5 5 1
+salsa 1 7 0

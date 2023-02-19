@@ -1,0 +1,5 @@
+6 9
+wryly 2 1 1
+angel 4 4 1
+tying 1 5 0
+dryly 1 8 0

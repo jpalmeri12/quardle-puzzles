@@ -1,0 +1,5 @@
+7 10 hardmode
+sushi 4 1 1
+chase 1 3 0
+chill 2 5 0
+laugh 6 5 1

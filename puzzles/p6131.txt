@@ -1,0 +1,5 @@
+7 9
+least 4 1 1
+prism 1 4 0
+rouse 2 4 1
+surer 2 7 0

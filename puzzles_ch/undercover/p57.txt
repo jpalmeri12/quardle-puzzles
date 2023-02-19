@@ -1,0 +1,6 @@
+7 9 undercover
+pique 1 1 0
+quark 3 1 1
+dingo 6 2 1
+groan 2 4 0
+shyly 1 8 0

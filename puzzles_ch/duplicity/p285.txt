@@ -1,0 +1,5 @@
+7 9 duplicity
+trope 2 1 1
+reply 2 2 0
+optic 1 4 0
+icily 4 4 1

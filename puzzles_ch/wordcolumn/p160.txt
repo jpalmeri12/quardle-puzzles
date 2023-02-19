@@ -1,0 +1,6 @@
+7 8 wordcolumn
+stiff 1 1 1
+pedal 3 3 1
+idiot 5 3 1
+fiend 1 4 0
+canoe 2 6 0

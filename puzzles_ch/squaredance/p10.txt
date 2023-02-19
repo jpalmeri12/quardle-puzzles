@@ -1,0 +1,6 @@
+6 8 squaredance
+foyer 1 1 1
+kneed 5 1 1
+flick 1 1 0
+rapid 1 5 0
+table 1 7 0

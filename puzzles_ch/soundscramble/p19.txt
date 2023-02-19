@@ -1,0 +1,5 @@
+7 10 soundscramble
+habby 1 1 0
+boyau 3 1 1
+autga 2 5 0
+apero 6 5 1

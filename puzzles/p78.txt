@@ -1,0 +1,5 @@
+7 10
+stray 2 1 1
+rouge 2 3 0
+pygmy 1 5 0
+patsy 1 5 1

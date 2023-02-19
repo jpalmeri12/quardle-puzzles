@@ -1,0 +1,6 @@
+7 9 commonsecret
+minus 1 1 1
+until 3 4 1
+sonic 1 5 0
+align 2 8 0
+!secret n

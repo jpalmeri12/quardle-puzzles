@@ -1,0 +1,5 @@
+7 10 bestfit
+vista 2 1 1
+magic 1 5 0
+cater 5 5 1
+storm 2 9 0

@@ -1,0 +1,5 @@
+7 7 swap
+ovetr 1 1 0
+toats 4 1 1
+wisyp 6 2 1
+ursty 2 5 0

@@ -1,0 +1,5 @@
+7 9 buyavowel
+ethic 2 1 1
+style 1 2 0
+plume 6 4 1
+cavil 2 5 0

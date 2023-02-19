@@ -1,0 +1,5 @@
+7 8 hardmode
+vista 1 1 0
+stood 3 1 1
+howdy 2 3 0
+dolly 5 3 1

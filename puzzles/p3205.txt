@@ -1,0 +1,5 @@
+7 9
+ridge 2 1 0
+decoy 4 1 1
+major 1 4 0
+modal 1 4 1

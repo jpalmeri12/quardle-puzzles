@@ -1,0 +1,5 @@
+7 10 desync
+yield 1 1 0
+decal 5 1 1
+stilt 2 5 0
+truly 6 5 1

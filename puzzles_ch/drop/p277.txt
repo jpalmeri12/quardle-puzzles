@@ -1,0 +1,6 @@
+6 10 drop
+tooth 1 1 0
+taker 4 1 1
+craft 1 3 1
+reset 1 4 0
+perch 1 9 0

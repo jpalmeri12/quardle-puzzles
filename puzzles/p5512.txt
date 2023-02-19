@@ -1,0 +1,5 @@
+7 10
+speak 4 1 1
+valet 1 3 0
+ankle 2 5 0
+ahead 2 5 1

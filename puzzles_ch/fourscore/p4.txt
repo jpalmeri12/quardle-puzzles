@@ -1,0 +1,5 @@
+7 8 fourscore
+trial 4 1 1
+erode 2 3 1
+voila 1 5 0
+endow 2 7 0

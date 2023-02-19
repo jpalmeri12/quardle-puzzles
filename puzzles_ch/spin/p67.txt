@@ -1,0 +1,5 @@
+7 10 spin
+sneer 5 1 1
+taker 1 5 0
+enemy 4 5 1
+fiend 2 7 0

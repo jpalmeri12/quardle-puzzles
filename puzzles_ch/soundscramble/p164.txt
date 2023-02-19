@@ -1,0 +1,5 @@
+7 9 soundscramble
+patty 5 1 1
+scera 1 2 0
+mouth 2 4 0
+menie 2 4 1

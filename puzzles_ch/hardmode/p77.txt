@@ -1,0 +1,5 @@
+7 8 hardmode
+poker 6 1 1
+steak 2 3 0
+their 3 3 1
+worry 1 7 0

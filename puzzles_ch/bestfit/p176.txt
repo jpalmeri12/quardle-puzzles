@@ -1,0 +1,5 @@
+7 9 bestfit
+clock 6 1 1
+usher 2 4 1
+stuck 2 5 0
+green 1 8 0

@@ -1,0 +1,5 @@
+7 8 sweeper
+duchy 2 1 1
+vapor 4 3 1
+heavy 2 4 0
+every 1 7 0

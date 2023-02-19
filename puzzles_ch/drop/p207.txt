@@ -1,0 +1,6 @@
+7 12 drop
+showy 6 1 1
+meaty 2 5 0
+tramp 5 5 1
+manga 1 7 0
+pygmy 1 11 0

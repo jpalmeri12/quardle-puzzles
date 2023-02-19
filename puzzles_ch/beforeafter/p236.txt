@@ -1,0 +1,9 @@
+7 8 beforeafter
+afoot 1 1 0
+focus 2 1 1
+ounce 5 3 1
+swing 2 5 0
+!beforeafter 1 n
+!beforeafter 2 q
+!beforeafter 2 k
+!beforeafter 1 r

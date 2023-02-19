@@ -1,0 +1,6 @@
+7 11 drop
+movie 2 1 1
+dingy 1 4 0
+gazer 4 4 1
+these 2 7 0
+risky 1 10 0

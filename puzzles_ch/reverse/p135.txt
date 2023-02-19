@@ -1,0 +1,5 @@
+6 6 reverse
+eagla 1 1 0
+gniyl 3 1 1
+abuse 5 1 1
+abyss 1 4 0

@@ -1,0 +1,9 @@
+6 9 beforeafter
+towel 1 1 1
+optic 1 2 0
+churn 5 4 1
+lunch 1 5 0
+!beforeafter 2 n
+!beforeafter 2 l
+!beforeafter 1 l
+!beforeafter 2 j

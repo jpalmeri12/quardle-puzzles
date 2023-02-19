@@ -1,0 +1,5 @@
+7 9 skyscrapers
+refer 6 1 1
+layer 2 5 0
+align 2 4 1
+entry 1 8 0

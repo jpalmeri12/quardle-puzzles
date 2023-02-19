@@ -1,0 +1,5 @@
+7 10
+stein 6 1 1
+urine 2 5 1
+urban 2 5 0
+ingot 1 8 0

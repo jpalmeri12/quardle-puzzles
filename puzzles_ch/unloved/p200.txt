@@ -1,0 +1,5 @@
+7 10 unloved
+press 2 1 1
+relic 1 3 0
+solar 2 5 0
+riper 6 5 1

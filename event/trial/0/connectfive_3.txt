@@ -1,0 +1,6 @@
+7 12 connectfive
+erase 3 1 1
+basic 1 4 0
+crane 5 4 1
+adage 2 7 1
+dryer 2 8 0

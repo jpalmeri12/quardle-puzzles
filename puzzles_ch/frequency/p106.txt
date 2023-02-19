@@ -1,0 +1,5 @@
+6 9 frequency
+enact 1 1 1
+cargo 1 4 0
+roach 3 4 1
+decor 1 7 0

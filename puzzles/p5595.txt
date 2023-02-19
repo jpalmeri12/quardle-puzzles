@@ -1,0 +1,5 @@
+7 10
+sheen 2 1 1
+angle 1 5 0
+grant 3 5 1
+magma 2 7 0

@@ -1,0 +1,7 @@
+7 12 secretdistance
+viola 4 1 1
+among 2 3 0
+macaw 1 5 0
+while 5 5 1
+tight 1 11 0
+!sdpos 3 1 0 1

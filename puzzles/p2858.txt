@@ -1,0 +1,5 @@
+7 10
+wring 5 1 1
+medic 2 3 0
+eying 1 5 0
+notch 4 5 1

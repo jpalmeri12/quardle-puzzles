@@ -1,0 +1,5 @@
+7 10 invention
+stove 5 1 1
+rifle 1 5 0
+facet 3 5 1
+scare 2 7 0

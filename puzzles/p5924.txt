@@ -1,0 +1,5 @@
+7 10
+sling 4 1 1
+bigot 2 5 0
+imply 3 5 1
+below 1 8 0

@@ -1,0 +1,5 @@
+6 9 swap
+chaet 5 1 1
+cocuh 1 2 0
+abtae 1 4 0
+amdin 1 4 1

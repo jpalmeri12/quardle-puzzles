@@ -1,0 +1,6 @@
+7 9 commonsecret
+swami 4 1 1
+daily 2 4 1
+habit 1 5 0
+lucid 2 7 0
+!secret i

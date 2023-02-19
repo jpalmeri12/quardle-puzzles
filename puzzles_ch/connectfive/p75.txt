@@ -1,0 +1,6 @@
+6 10 connectfive
+afire 1 1 0
+fella 2 1 1
+major 1 5 0
+joker 3 5 1
+rehab 5 5 1

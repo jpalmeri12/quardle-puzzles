@@ -1,0 +1,5 @@
+7 10 swap
+aovid 2 1 0
+onbly 3 1 1
+nmyph 1 5 0
+megre 2 5 1

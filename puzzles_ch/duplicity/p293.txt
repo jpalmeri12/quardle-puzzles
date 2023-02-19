@@ -1,0 +1,5 @@
+7 8 duplicity
+eater 1 1 0
+radii 5 1 1
+defer 2 3 1
+fetid 2 5 0

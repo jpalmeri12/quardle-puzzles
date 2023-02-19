@@ -1,0 +1,5 @@
+7 9 reverse
+egdeh 3 1 1
+seedy 2 4 0
+dnuor 5 4 1
+furor 1 8 0

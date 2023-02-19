@@ -1,0 +1,5 @@
+7 9
+rogue 4 1 1
+tenor 1 2 0
+recut 2 4 1
+exert 2 5 0

@@ -1,0 +1,6 @@
+7 12 undercover
+pique 4 1 1
+smell 2 5 0
+mealy 3 5 1
+wryly 1 9 0
+condo 1 11 0

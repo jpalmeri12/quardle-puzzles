@@ -1,0 +1,6 @@
+7 11 five
+cried 6 1 1
+titan 2 3 1
+imbue 2 4 0
+tacky 1 6 0
+kayak 4 6 1

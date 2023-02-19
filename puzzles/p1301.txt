@@ -1,0 +1,5 @@
+6 9
+dwell 5 1 1
+macaw 1 2 0
+trail 1 4 0
+rinse 2 4 1

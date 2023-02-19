@@ -1,0 +1,5 @@
+7 7
+smelt 2 1 1
+ombre 1 2 0
+retry 4 2 1
+torus 2 5 0

@@ -1,0 +1,6 @@
+6 10 five
+patsy 1 1 1
+yearn 1 5 0
+evict 2 5 1
+rupee 4 5 1
+hippo 1 7 0

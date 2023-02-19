@@ -1,0 +1,6 @@
+7 10 drop
+broil 5 1 1
+scary 3 3 1
+acrid 2 4 0
+dryer 1 7 0
+curry 1 9 0

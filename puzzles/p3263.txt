@@ -1,0 +1,5 @@
+6 9
+daunt 4 1 1
+nerve 2 4 1
+petty 1 5 0
+avert 1 7 0

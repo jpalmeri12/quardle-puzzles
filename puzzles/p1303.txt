@@ -1,0 +1,5 @@
+7 10
+woken 5 1 1
+tacky 2 3 0
+spoon 1 5 0
+panic 2 5 1

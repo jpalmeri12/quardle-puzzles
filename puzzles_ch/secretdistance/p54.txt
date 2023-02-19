@@ -1,0 +1,7 @@
+6 11 secretdistance
+tuber 2 1 1
+hello 1 4 0
+offal 5 4 1
+naval 1 8 0
+cheer 1 10 0
+!sdpos 2 2 2 0

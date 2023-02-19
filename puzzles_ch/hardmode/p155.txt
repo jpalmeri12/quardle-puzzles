@@ -1,0 +1,5 @@
+7 9 hardmode
+stood 1 1 1
+smack 5 4 1
+dream 1 5 0
+bench 2 7 0

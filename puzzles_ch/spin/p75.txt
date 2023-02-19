@@ -1,0 +1,5 @@
+7 10 spin
+trice 4 1 1
+swear 2 5 0
+whole 3 5 1
+droit 1 7 0

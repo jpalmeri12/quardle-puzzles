@@ -1,0 +1,9 @@
+7 10 spellbound
+range 2 1 1
+rainy 2 1 0
+retry 1 5 0
+renal 1 5 1
+!spellbound 0 3 1
+!spellbound 1 2 3
+!spellbound 2 2 4
+!spellbound 3 4 2

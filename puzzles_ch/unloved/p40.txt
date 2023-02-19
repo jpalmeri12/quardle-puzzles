@@ -1,0 +1,5 @@
+7 9 unloved
+ficus 2 1 1
+octal 1 3 0
+alarm 6 4 1
+spool 2 5 0

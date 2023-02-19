@@ -1,0 +1,6 @@
+7 10 wordcolumn
+smear 5 1 1
+bosom 1 2 0
+scale 3 2 1
+blurt 2 5 0
+troop 6 5 1

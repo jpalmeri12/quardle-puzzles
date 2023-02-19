@@ -1,0 +1,5 @@
+7 10
+lapel 4 1 1
+bully 1 5 0
+unset 2 5 1
+erupt 2 8 0

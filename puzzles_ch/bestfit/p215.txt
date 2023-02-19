@@ -1,0 +1,5 @@
+7 9 bestfit
+heard 2 1 1
+habit 2 1 0
+drown 1 4 0
+wrest 4 4 1

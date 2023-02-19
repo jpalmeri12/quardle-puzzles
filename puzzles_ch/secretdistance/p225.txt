@@ -1,0 +1,7 @@
+7 11 secretdistance
+wreak 5 1 1
+favor 1 2 0
+canal 2 4 0
+chaos 2 4 1
+jerky 1 10 0
+!sdpos 0 2 1 2

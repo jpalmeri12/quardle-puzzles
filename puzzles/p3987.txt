@@ -1,0 +1,5 @@
+7 9
+verve 4 1 1
+shirk 1 3 0
+croup 6 4 1
+spear 2 5 0

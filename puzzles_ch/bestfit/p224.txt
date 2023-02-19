@@ -1,0 +1,5 @@
+7 9 bestfit
+borne 1 1 0
+riser 3 1 1
+relax 2 4 0
+amuse 5 4 1

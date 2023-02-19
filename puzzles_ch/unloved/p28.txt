@@ -1,0 +1,5 @@
+7 9 unloved
+dolly 1 1 1
+lowly 1 4 0
+wrong 3 4 1
+woman 2 6 0

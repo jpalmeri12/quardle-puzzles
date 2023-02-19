@@ -1,0 +1,5 @@
+6 9 bestfit
+stave 1 1 1
+stage 1 1 0
+vital 1 4 0
+anger 4 4 1

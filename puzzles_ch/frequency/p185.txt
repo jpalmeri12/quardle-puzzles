@@ -1,0 +1,5 @@
+7 9 frequency
+scold 2 1 1
+logic 2 4 0
+glass 4 4 1
+guest 1 8 0

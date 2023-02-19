@@ -1,0 +1,5 @@
+7 9
+lease 5 1 1
+slide 1 2 0
+louse 2 4 0
+lousy 2 4 1

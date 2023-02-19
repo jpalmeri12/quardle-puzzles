@@ -1,0 +1,5 @@
+6 10
+merry 2 1 1
+medal 1 2 0
+syrup 1 5 0
+ready 3 5 1

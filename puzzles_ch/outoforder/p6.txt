@@ -1,0 +1,5 @@
+7 9 outoforder
+solar 2 1 1
+would 1 2 0
+algae 2 4 0
+greet 4 4 1

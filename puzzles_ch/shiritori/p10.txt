@@ -1,0 +1,5 @@
+7 9 shiritori
+speed 2 1 1
+brash 5 4 1
+odder 1 5 0
+alpha 2 8 0

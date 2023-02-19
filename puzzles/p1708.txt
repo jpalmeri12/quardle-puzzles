@@ -1,0 +1,5 @@
+7 7
+tibia 1 1 0
+icily 4 1 1
+stair 6 2 1
+quiet 2 3 0

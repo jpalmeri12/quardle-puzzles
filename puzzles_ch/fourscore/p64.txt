@@ -1,0 +1,5 @@
+7 9 fourscore
+adore 1 1 0
+elfin 5 1 1
+untie 2 4 0
+unify 2 4 1

@@ -1,0 +1,5 @@
+7 9
+clasp 2 1 1
+usage 1 4 0
+guild 4 4 1
+wedge 2 8 0

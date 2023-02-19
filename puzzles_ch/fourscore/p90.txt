@@ -1,0 +1,5 @@
+7 10 fourscore
+glass 1 1 1
+screw 1 5 0
+rayon 3 5 1
+bobby 2 8 0

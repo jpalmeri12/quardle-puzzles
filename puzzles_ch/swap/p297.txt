@@ -1,0 +1,5 @@
+7 10 swap
+rgior 3 1 1
+parre 1 5 0
+amtiy 2 5 1
+theer 2 7 0

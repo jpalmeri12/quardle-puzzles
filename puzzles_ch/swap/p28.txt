@@ -1,0 +1,5 @@
+7 7 swap
+rnach 2 1 1
+nicre 2 2 0
+rwite 5 2 1
+shrit 1 5 0

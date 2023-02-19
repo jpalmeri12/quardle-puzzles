@@ -1,0 +1,8 @@
+6 8 twins
+heath 1 1 0
+guild 1 3 0
+unfed 1 5 0
+gassy 1 7 0
+!twins 2 3
+!twins 1 3
+!twins 1 2

@@ -1,0 +1,9 @@
+7 10 beforeafter
+abhor 1 1 0
+beast 2 1 1
+tribe 2 5 0
+rouge 3 5 1
+!beforeafter 2 j
+!beforeafter 2 k
+!beforeafter 1 l
+!beforeafter 2 l

@@ -1,0 +1,5 @@
+7 8
+slush 2 1 1
+spawn 2 1 0
+grate 4 3 1
+wheat 1 5 0

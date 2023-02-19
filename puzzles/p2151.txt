@@ -1,0 +1,5 @@
+6 8
+belch 1 1 0
+lasso 3 1 1
+cagey 5 3 1
+pasta 1 4 0

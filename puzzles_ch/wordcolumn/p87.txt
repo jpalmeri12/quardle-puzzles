@@ -1,0 +1,6 @@
+7 10 wordcolumn
+waltz 1 1 1
+kneel 3 4 1
+zonal 1 5 0
+lyric 5 5 1
+teary 2 7 0

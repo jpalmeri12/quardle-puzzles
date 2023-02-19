@@ -1,0 +1,5 @@
+6 9
+slyly 3 1 1
+salon 1 4 0
+sheen 1 4 1
+never 1 8 0

@@ -1,0 +1,9 @@
+6 10 beforeafter
+motif 5 1 1
+spoke 1 5 1
+sniff 1 5 0
+kneed 1 8 0
+!beforeafter 2 j
+!beforeafter 2 n
+!beforeafter 1 m
+!beforeafter 1 i

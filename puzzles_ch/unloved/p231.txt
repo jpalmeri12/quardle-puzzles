@@ -1,0 +1,5 @@
+7 7 unloved
+remit 3 1 1
+merit 2 2 0
+ingot 5 2 1
+suing 1 4 0

@@ -1,0 +1,5 @@
+7 9
+motto 5 1 1
+hippo 1 2 0
+smote 2 4 0
+steam 2 4 1

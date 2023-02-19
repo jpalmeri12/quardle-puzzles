@@ -1,0 +1,6 @@
+7 9 connectfive
+droll 5 1 1
+spire 2 2 0
+still 1 4 0
+squad 1 4 1
+islet 3 4 1

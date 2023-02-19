@@ -1,0 +1,5 @@
+7 10 skyscrapers
+vital 2 5 0
+tasty 4 5 1
+joust 1 7 0
+chili 3 1 1

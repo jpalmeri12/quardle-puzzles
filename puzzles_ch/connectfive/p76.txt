@@ -1,0 +1,6 @@
+7 10 connectfive
+sigma 3 1 1
+twine 1 2 0
+rajah 2 5 0
+rehab 2 5 1
+baker 2 9 0

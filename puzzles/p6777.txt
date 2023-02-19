@@ -1,0 +1,5 @@
+7 9
+hinge 3 1 1
+canny 1 3 0
+baker 6 4 1
+media 2 5 0

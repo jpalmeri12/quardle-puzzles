@@ -1,0 +1,5 @@
+7 10 soundscramble
+llumu 5 1 1
+fecul 2 5 0
+cloat 4 5 1
+tator 1 7 0

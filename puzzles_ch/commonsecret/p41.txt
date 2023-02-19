@@ -1,0 +1,6 @@
+6 7 commonsecret
+birch 4 1 1
+basil 1 2 0
+abode 2 2 1
+botch 1 4 0
+!secret b

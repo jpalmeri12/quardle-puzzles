@@ -1,0 +1,5 @@
+7 10
+squib 2 1 1
+untie 2 3 0
+aback 1 5 0
+adult 1 5 1

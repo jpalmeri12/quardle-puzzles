@@ -1,0 +1,5 @@
+7 8
+gamut 2 1 1
+choke 4 3 1
+stoop 1 5 0
+cleft 2 7 0

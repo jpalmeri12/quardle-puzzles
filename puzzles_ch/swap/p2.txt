@@ -1,0 +1,5 @@
+7 9 swap
+toipc 2 1 1
+efwer 4 4 1
+ocmfy 1 5 0
+deetr 2 7 0

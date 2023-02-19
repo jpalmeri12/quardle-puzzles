@@ -1,0 +1,5 @@
+7 10
+wince 2 1 1
+pence 1 5 0
+etude 5 5 1
+buddy 2 8 0

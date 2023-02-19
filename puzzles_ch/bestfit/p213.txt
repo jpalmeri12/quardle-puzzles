@@ -1,0 +1,5 @@
+7 9 bestfit
+caper 6 1 1
+smote 2 4 0
+masse 3 4 1
+basal 1 6 0

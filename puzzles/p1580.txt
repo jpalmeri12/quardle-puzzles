@@ -1,0 +1,5 @@
+7 10
+recur 1 1 0
+expel 2 1 1
+loose 2 5 0
+squad 5 5 1

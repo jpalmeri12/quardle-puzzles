@@ -1,0 +1,5 @@
+7 9
+greet 2 1 1
+rowdy 2 2 0
+frank 4 4 1
+storm 1 5 0

@@ -1,0 +1,5 @@
+7 8
+ranch 1 1 0
+cheek 4 1 1
+cress 2 3 0
+curvy 2 3 1

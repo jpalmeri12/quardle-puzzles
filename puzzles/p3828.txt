@@ -1,0 +1,5 @@
+7 10
+robot 5 1 1
+booby 2 3 0
+recut 1 5 0
+using 4 5 1

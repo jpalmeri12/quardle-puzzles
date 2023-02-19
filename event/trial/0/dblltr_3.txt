@@ -1,0 +1,5 @@
+6 8 dblltr
+timid 3 1 1
+mimic 5 3 1
+modem 1 5 0
+iliac 1 7 0

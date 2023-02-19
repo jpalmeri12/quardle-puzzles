@@ -1,0 +1,5 @@
+7 8 skyscrapers
+visit 1 6 0
+slush 3 3 1
+clash 2 4 0
+fishy 6 1 1

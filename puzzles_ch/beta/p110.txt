@@ -1,0 +1,5 @@
+7 10 beta
+agile 1 1 0
+gloss 2 1 1
+sloop 2 5 0
+paddy 6 5 1

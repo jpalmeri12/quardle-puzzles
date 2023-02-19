@@ -1,0 +1,5 @@
+6 9
+cargo 3 1 1
+guard 1 2 0
+rogue 1 4 0
+razor 1 4 1

@@ -1,0 +1,5 @@
+6 6 bestfit
+abort 1 1 1
+cairn 4 1 1
+bylaw 1 2 0
+rearm 1 4 0

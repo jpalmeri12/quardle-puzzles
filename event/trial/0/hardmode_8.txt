@@ -1,0 +1,5 @@
+7 8 hardmode
+slept 4 1 1
+exile 1 2 0
+depot 6 3 1
+rupee 2 4 0

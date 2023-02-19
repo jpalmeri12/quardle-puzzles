@@ -1,0 +1,5 @@
+7 9 unloved
+bayou 4 1 1
+smart 2 2 0
+adage 1 4 1
+donut 1 5 0

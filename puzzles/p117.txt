@@ -1,0 +1,5 @@
+7 8
+moult 1 1 0
+upper 3 1 1
+motor 5 3 1
+melon 2 4 0

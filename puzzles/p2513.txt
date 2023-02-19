@@ -1,0 +1,5 @@
+7 10
+tripe 6 1 1
+creme 2 5 0
+medic 5 5 1
+chili 1 8 0

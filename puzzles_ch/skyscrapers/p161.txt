@@ -1,0 +1,5 @@
+7 9 skyscrapers
+usual 1 7 0
+obese 2 4 1
+buxom 2 5 0
+affix 4 1 1

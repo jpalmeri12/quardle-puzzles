@@ -1,0 +1,5 @@
+7 9 unloved
+skiff 1 1 0
+facet 5 1 1
+finch 2 4 1
+irate 2 5 0

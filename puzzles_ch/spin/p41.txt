@@ -1,0 +1,5 @@
+6 8 spin
+image 4 1 1
+leery 2 3 1
+reign 1 4 0
+lying 1 7 0

@@ -1,0 +1,5 @@
+6 6 sweeper
+payer 2 1 1
+rabbi 4 1 1
+banal 1 2 0
+derby 1 4 0

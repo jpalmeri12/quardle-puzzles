@@ -1,0 +1,5 @@
+6 6
+arbor 1 1 0
+ramen 2 1 1
+outgo 4 1 1
+snoop 1 5 0

@@ -1,0 +1,5 @@
+7 10
+shyly 3 1 1
+gypsy 2 3 0
+royal 1 5 0
+leper 5 5 1

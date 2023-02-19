@@ -1,0 +1,6 @@
+7 10 wordcolumn
+kebab 2 1 1
+wheat 4 1 1
+betel 2 5 0
+eaten 3 5 1
+ditto 1 7 0

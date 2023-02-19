@@ -1,0 +1,5 @@
+7 10
+madam 2 1 1
+anger 2 2 0
+ember 1 5 0
+beset 3 5 1

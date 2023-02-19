@@ -1,0 +1,6 @@
+7 9 wordcolumn
+swamp 2 1 0
+polyp 6 1 1
+wispy 2 4 0
+state 4 4 1
+south 1 7 0

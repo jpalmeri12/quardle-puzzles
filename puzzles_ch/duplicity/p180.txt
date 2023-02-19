@@ -1,0 +1,5 @@
+7 10 duplicity
+heron 4 1 1
+eerie 2 3 0
+phony 1 5 0
+piney 1 5 1

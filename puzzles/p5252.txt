@@ -1,0 +1,5 @@
+7 8
+farce 3 1 1
+flume 5 3 1
+fecal 1 4 0
+ether 2 7 0

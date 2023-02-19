@@ -1,0 +1,5 @@
+7 9
+payer 2 1 0
+alike 3 1 1
+vogue 5 4 1
+credo 1 5 0

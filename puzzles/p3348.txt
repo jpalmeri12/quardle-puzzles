@@ -1,0 +1,5 @@
+7 9
+screw 5 1 1
+brisk 3 4 1
+prawn 2 5 0
+taker 1 8 0

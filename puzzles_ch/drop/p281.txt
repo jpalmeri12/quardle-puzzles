@@ -1,0 +1,6 @@
+7 12 drop
+ledge 4 1 1
+screw 1 5 0
+while 5 5 1
+holly 2 8 0
+shell 1 11 0

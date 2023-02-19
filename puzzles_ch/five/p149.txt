@@ -1,0 +1,6 @@
+7 8 five
+deign 2 1 1
+dally 2 1 0
+inlet 2 3 0
+early 5 3 1
+inner 1 5 0

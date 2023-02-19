@@ -1,0 +1,6 @@
+6 11 drop
+liner 4 1 1
+dirty 1 4 1
+defer 1 4 0
+trump 1 7 0
+forty 1 10 0

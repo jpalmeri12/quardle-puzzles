@@ -1,0 +1,5 @@
+6 9 desync
+found 3 1 1
+sworn 1 2 0
+wench 5 4 1
+midge 1 5 0

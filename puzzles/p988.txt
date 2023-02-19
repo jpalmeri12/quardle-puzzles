@@ -1,0 +1,5 @@
+7 9
+tardy 6 1 1
+greed 2 4 0
+ratty 3 4 1
+putty 1 7 0

@@ -1,0 +1,5 @@
+6 7 shiritori
+venom 3 1 1
+geese 1 2 0
+genre 1 2 1
+noose 1 4 0

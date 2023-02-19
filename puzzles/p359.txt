@@ -1,0 +1,5 @@
+7 10
+trump 5 1 1
+rebus 2 3 0
+blimp 1 5 0
+lodge 2 5 1

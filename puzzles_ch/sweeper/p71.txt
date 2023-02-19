@@ -1,0 +1,5 @@
+7 9 sweeper
+catch 4 1 1
+hoard 2 2 0
+teach 1 4 0
+their 1 4 1

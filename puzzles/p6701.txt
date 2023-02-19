@@ -1,0 +1,5 @@
+7 10
+stuck 4 1 1
+shrub 1 3 0
+poker 2 5 0
+reset 6 5 1

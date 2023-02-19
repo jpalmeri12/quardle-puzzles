@@ -1,0 +1,5 @@
+7 9 scrabble
+scale 1 4 1
+lathe 2 2 0
+caper 1 5 0
+choir 5 1 1

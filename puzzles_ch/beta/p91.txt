@@ -1,0 +1,5 @@
+7 8 beta
+humor 3 1 1
+nymph 1 3 0
+hunky 5 3 1
+vinyl 2 7 0

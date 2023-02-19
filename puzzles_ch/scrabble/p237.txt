@@ -1,0 +1,5 @@
+7 10 scrabble
+aunty 3 1 1
+fluke 1 2 0
+hyper 2 5 0
+perky 4 5 1

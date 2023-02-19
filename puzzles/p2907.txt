@@ -1,0 +1,5 @@
+7 9
+soggy 4 1 1
+pooch 2 2 0
+laugh 1 4 0
+adapt 2 4 1

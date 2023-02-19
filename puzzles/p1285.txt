@@ -1,0 +1,5 @@
+6 9
+renal 2 1 1
+defer 1 2 0
+tapir 1 4 0
+ranch 5 4 1

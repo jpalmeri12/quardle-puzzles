@@ -1,0 +1,6 @@
+7 10 drop
+slave 1 1 1
+using 3 3 1
+vista 1 4 0
+envoy 2 6 0
+lousy 1 9 0

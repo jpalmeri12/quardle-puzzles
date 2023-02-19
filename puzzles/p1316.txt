@@ -1,0 +1,5 @@
+6 9
+drain 5 1 1
+rabbi 1 4 0
+begun 3 4 1
+pouty 1 7 0

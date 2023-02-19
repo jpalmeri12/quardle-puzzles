@@ -1,0 +1,5 @@
+6 8 hardmode
+argue 1 1 0
+unity 4 1 1
+vocal 2 3 1
+booty 1 4 0

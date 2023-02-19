@@ -1,0 +1,5 @@
+7 9 skyscrapers
+smack 2 7 0
+llama 3 4 1
+color 1 4 0
+aback 1 1 1

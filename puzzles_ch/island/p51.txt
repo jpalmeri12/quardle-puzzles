@@ -1,0 +1,6 @@
+7 8 island
+crone 5 1 1
+hydro 3 3 1
+tying 2 4 0
+cross 1 7 0
+!island 2111 221 311 1111

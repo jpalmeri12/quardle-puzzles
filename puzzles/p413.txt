@@ -1,0 +1,5 @@
+6 9
+relax 2 1 1
+panic 1 4 0
+chief 5 4 1
+cliff 1 8 0

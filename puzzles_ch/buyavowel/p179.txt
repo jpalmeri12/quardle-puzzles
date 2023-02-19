@@ -1,0 +1,5 @@
+7 9 buyavowel
+haste 6 1 1
+knelt 2 4 0
+eight 4 4 1
+large 1 6 0

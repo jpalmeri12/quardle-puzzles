@@ -1,0 +1,5 @@
+7 9 swap
+viedo 4 1 1
+nuity 2 2 0
+tseal 1 4 1
+stroy 1 5 0

@@ -1,0 +1,5 @@
+6 8
+ledge 1 1 0
+edify 5 1 1
+rouge 3 3 1
+spoof 1 4 0

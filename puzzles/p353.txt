@@ -1,0 +1,5 @@
+7 7
+flout 5 1 1
+mambo 3 2 1
+salon 2 3 0
+robot 1 5 0

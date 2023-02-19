@@ -1,0 +1,7 @@
+6 6 fourthwall
+beset 1 1 0
+began 1 1 1
+gypsy 1 3 0
+super 3 1 1
+nurse 1 5 0
+thyme 5 1 1

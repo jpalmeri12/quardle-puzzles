@@ -1,0 +1,5 @@
+6 10 sweeper
+polyp 1 1 1
+paste 1 1 0
+prize 1 5 0
+ensue 5 5 1

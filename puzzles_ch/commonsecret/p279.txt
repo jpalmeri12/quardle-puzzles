@@ -1,0 +1,6 @@
+6 9 commonsecret
+foamy 1 1 1
+forth 1 1 0
+mambo 1 4 0
+bobby 4 4 1
+!secret o

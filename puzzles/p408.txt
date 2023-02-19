@@ -1,0 +1,5 @@
+7 9
+bloat 2 1 1
+laden 2 2 0
+candy 1 4 0
+young 5 4 1

@@ -1,0 +1,5 @@
+7 9 frequency
+winch 5 1 1
+curio 2 2 0
+canon 3 4 1
+swath 1 5 0

@@ -1,0 +1,6 @@
+7 11 wordcolumn
+slave 4 1 1
+wispy 2 4 1
+miser 1 5 0
+match 6 6 1
+yacht 2 8 0

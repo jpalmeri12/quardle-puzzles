@@ -1,0 +1,6 @@
+7 7 island
+arose 5 1 1
+queer 1 2 0
+erode 3 2 1
+joist 2 4 0
+!island 41 211 31 311

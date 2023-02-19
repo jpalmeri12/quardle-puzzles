@@ -1,0 +1,5 @@
+6 7
+joint 4 1 1
+flood 1 2 0
+latch 2 2 1
+acute 1 5 0

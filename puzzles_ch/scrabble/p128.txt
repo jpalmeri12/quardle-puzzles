@@ -1,0 +1,5 @@
+6 9 scrabble
+train 1 2 0
+koala 1 4 0
+billy 4 1 1
+oxide 2 4 1

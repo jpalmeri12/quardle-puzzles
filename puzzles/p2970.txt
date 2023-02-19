@@ -1,0 +1,5 @@
+7 10
+blurt 2 1 1
+urban 2 3 0
+stood 1 5 0
+droll 5 5 1

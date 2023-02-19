@@ -1,0 +1,9 @@
+7 9 beforeafter
+below 2 1 1
+tough 4 4 1
+swoop 1 5 0
+bigot 2 7 0
+!beforeafter 1 i
+!beforeafter 2 n
+!beforeafter 1 q
+!beforeafter 2 j

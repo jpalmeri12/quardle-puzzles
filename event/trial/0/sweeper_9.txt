@@ -1,0 +1,5 @@
+7 9 sweeper
+whose 5 1 1
+harsh 1 2 0
+grout 3 4 1
+freed 2 5 0

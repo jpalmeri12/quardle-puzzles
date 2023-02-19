@@ -1,0 +1,5 @@
+7 9
+seize 1 1 0
+exact 5 1 1
+truce 2 4 0
+robin 3 4 1

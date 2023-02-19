@@ -1,0 +1,5 @@
+7 10 duplicity
+tatty 2 1 1
+tying 1 5 0
+inlay 3 5 1
+glass 2 7 0

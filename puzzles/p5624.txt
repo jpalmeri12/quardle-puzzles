@@ -1,0 +1,5 @@
+7 10
+mangy 6 1 1
+milky 2 5 0
+ionic 3 5 1
+bench 1 7 0

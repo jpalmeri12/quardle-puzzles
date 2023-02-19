@@ -1,0 +1,5 @@
+7 10
+finer 4 1 1
+sunny 2 3 0
+shard 1 5 0
+abbot 3 5 1

@@ -1,0 +1,6 @@
+6 7 commonsecret
+elegy 5 1 1
+offal 1 2 0
+flyer 2 2 1
+delay 1 5 0
+!secret l

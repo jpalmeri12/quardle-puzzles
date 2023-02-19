@@ -1,0 +1,5 @@
+7 7 shiritori
+annex 6 1 1
+welsh 3 2 1
+heron 2 3 0
+ashen 1 6 0

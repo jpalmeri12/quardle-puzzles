@@ -1,0 +1,5 @@
+7 9 duplicity
+cacti 3 1 1
+hatch 2 2 0
+swash 1 4 1
+waist 1 5 0

@@ -1,0 +1,5 @@
+7 10 beta
+stave 1 1 0
+throb 2 1 1
+betel 2 5 0
+elite 5 5 1

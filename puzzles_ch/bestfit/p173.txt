@@ -1,0 +1,5 @@
+7 7 bestfit
+eclat 2 1 1
+catch 2 2 0
+comet 5 2 1
+datum 1 4 0

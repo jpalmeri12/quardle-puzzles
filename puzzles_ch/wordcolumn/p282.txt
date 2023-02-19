@@ -1,0 +1,6 @@
+7 10 wordcolumn
+psalm 1 1 1
+setup 1 2 0
+price 5 2 1
+usage 3 5 1
+usher 2 6 0

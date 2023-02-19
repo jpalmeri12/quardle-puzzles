@@ -1,0 +1,5 @@
+7 9 spaced
+house 5 1 1
+bigot 2 2 0
+lurch 3 4 1
+amuse 1 5 0

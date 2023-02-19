@@ -1,0 +1,5 @@
+7 8 darkness
+blimp 3 3 1
+outgo 5 1 1
+abate 2 3 0
+rhino 1 5 0

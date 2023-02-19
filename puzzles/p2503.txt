@@ -1,0 +1,5 @@
+7 8
+quoth 2 1 0
+think 5 1 1
+prime 3 3 1
+rerun 1 4 0

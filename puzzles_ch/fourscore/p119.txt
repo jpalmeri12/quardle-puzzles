@@ -1,0 +1,5 @@
+6 9 fourscore
+timer 1 1 1
+steal 4 4 1
+ratty 1 5 0
+cycle 1 8 0

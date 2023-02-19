@@ -1,0 +1,5 @@
+7 8 elbowroom
+quark 2 1 1
+queen 2 1 0
+learn 5 3 1
+urine 1 4 0

@@ -1,0 +1,5 @@
+6 7 soundscramble
+grial 4 1 1
+tadil 1 2 1
+thorn 1 2 0
+dagat 1 4 0

@@ -1,0 +1,5 @@
+6 9 unloved
+coven 5 1 1
+pride 1 4 0
+plied 1 4 1
+exist 1 7 0

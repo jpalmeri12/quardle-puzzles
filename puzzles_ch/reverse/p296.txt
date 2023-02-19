@@ -1,0 +1,5 @@
+6 7 reverse
+rabid 5 1 1
+nosra 1 2 0
+scoop 3 2 1
+ynori 1 4 0

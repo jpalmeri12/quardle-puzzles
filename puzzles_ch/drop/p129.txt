@@ -1,0 +1,6 @@
+7 10 drop
+silly 1 1 1
+acute 4 3 1
+lance 1 4 0
+speak 2 7 0
+crass 1 9 0

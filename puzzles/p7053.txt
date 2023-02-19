@@ -1,0 +1,5 @@
+6 6
+medal 2 1 1
+adopt 4 1 1
+weedy 1 2 0
+sappy 1 4 0

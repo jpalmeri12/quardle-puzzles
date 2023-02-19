@@ -1,0 +1,5 @@
+7 10 scrabble
+harry 3 5 1
+thank 2 1 1
+wryly 1 9 0
+khaki 2 5 0

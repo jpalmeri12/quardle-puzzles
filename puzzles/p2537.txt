@@ -1,0 +1,5 @@
+7 8
+plain 1 1 0
+lymph 2 1 1
+unmet 5 3 1
+plank 2 4 0

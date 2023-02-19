@@ -1,0 +1,5 @@
+6 10
+fresh 1 1 1
+flour 1 1 0
+helix 1 5 0
+itchy 4 5 1

@@ -1,0 +1,5 @@
+7 10 reverse
+perky 3 1 1
+tpyrc 1 5 0
+racer 4 5 1
+elcnu 2 7 0

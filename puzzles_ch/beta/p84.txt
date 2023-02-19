@@ -1,0 +1,5 @@
+7 10 beta
+bayou 4 1 1
+stung 2 5 0
+tiger 3 5 1
+might 1 7 0

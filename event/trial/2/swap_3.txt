@@ -1,0 +1,5 @@
+6 6 swap
+osber 1 1 0
+ocatl 1 1 1
+rwist 5 1 1
+toros 1 4 0

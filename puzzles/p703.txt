@@ -1,0 +1,5 @@
+7 10
+rivet 3 1 1
+swell 2 5 1
+stuff 2 5 0
+slunk 1 8 0

@@ -1,0 +1,6 @@
+7 10 connectfive
+miser 3 1 1
+psalm 2 3 0
+lever 5 3 1
+noose 1 5 1
+odder 1 7 0

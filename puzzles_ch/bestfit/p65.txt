@@ -1,0 +1,5 @@
+7 7 bestfit
+howdy 1 1 0
+water 3 1 1
+murky 6 2 1
+crook 2 5 0

@@ -1,0 +1,5 @@
+7 7 buyavowel
+legal 2 1 1
+fetus 1 2 0
+stilt 5 2 1
+audit 2 4 0

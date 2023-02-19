@@ -1,0 +1,5 @@
+7 8 dblltr
+conic 5 1 1
+event 2 3 0
+enter 2 3 1
+attic 1 5 0

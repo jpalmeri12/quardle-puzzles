@@ -1,0 +1,5 @@
+7 9
+stain 5 1 1
+alibi 1 4 0
+islet 3 4 1
+setup 2 7 0

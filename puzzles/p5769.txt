@@ -1,0 +1,5 @@
+7 9
+talon 6 1 1
+torso 2 4 0
+retry 4 4 1
+photo 1 6 0

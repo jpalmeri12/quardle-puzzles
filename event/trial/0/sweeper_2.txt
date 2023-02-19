@@ -1,0 +1,5 @@
+7 10 sweeper
+scrap 3 1 1
+icing 2 2 0
+kappa 1 5 0
+piper 4 5 1

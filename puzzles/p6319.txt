@@ -1,0 +1,5 @@
+7 7
+repel 5 1 1
+broom 3 2 1
+crypt 2 3 0
+droll 1 5 0

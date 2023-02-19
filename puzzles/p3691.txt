@@ -1,0 +1,5 @@
+7 9
+hymen 4 1 1
+creme 1 3 0
+stomp 6 4 1
+donut 2 5 0

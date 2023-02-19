@@ -1,0 +1,5 @@
+6 10 buyavowel
+moldy 1 1 0
+music 1 1 1
+colon 1 5 0
+nurse 5 5 1

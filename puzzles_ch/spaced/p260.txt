@@ -1,0 +1,5 @@
+7 10 spaced
+wince 4 1 1
+askew 1 5 0
+shave 2 5 1
+vigor 2 8 0

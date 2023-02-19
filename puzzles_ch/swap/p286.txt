@@ -1,0 +1,5 @@
+7 8 swap
+frizt 1 1 0
+zsety 4 1 1
+mteal 2 3 0
+laive 6 3 1

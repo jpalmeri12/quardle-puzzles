@@ -1,0 +1,5 @@
+7 9 soundscramble
+imize 5 1 1
+gleim 1 2 0
+grize 2 4 0
+ridaa 3 4 1

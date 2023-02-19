@@ -1,0 +1,5 @@
+6 6
+civic 2 1 1
+leach 5 1 1
+diode 1 2 0
+mimic 1 4 0

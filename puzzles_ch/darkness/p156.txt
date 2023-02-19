@@ -1,0 +1,5 @@
+7 10 darkness
+aorta 2 5 1
+mercy 5 1 1
+tatty 1 5 0
+fibre 2 3 0

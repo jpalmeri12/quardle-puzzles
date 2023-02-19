@@ -1,0 +1,5 @@
+7 7
+slump 5 1 1
+quill 1 2 0
+udder 2 2 1
+elope 2 5 0

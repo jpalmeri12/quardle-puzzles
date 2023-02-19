@@ -1,0 +1,5 @@
+7 8 fourscore
+glove 2 1 0
+vocal 5 1 1
+havoc 1 3 0
+vinyl 3 3 1

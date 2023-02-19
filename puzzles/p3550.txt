@@ -1,0 +1,5 @@
+7 8
+flyer 6 1 1
+favor 4 3 1
+stage 2 4 0
+aware 1 7 0

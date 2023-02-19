@@ -1,0 +1,5 @@
+6 8
+demur 1 1 1
+dirty 1 1 0
+preen 5 3 1
+ulcer 1 4 0

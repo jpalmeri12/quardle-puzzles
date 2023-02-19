@@ -1,0 +1,6 @@
+7 10 five
+mover 1 1 0
+orbit 2 1 1
+tumor 2 5 0
+mossy 4 5 1
+ripen 6 5 1

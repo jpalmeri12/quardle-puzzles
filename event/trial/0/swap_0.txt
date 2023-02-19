@@ -1,0 +1,5 @@
+7 9 swap
+sasys 2 1 1
+hyepr 5 4 1
+stayr 2 5 0
+haryr 1 8 0

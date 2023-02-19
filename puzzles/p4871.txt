@@ -1,0 +1,5 @@
+7 10
+husky 2 1 1
+yearn 2 5 0
+rebus 5 5 1
+squib 1 7 0

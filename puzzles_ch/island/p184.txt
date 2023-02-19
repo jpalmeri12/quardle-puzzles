@@ -1,0 +1,6 @@
+7 7 island
+other 5 1 1
+asset 1 2 0
+start 2 2 1
+after 2 4 0
+!island 311 31 22 41

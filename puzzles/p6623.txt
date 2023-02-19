@@ -1,0 +1,5 @@
+7 10
+moody 1 1 0
+occur 3 1 1
+trick 2 5 0
+tutor 2 5 1

@@ -1,0 +1,6 @@
+7 10 drop
+pilot 6 1 1
+utile 4 3 1
+stint 2 5 0
+sheep 1 7 0
+sushi 1 9 0

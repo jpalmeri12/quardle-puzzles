@@ -1,0 +1,5 @@
+6 7
+forgo 1 1 1
+offer 1 2 0
+faint 3 2 1
+ounce 1 5 0

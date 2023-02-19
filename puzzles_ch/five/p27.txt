@@ -1,0 +1,6 @@
+7 10 five
+vinyl 1 1 0
+islet 2 1 1
+loyal 5 1 1
+table 2 5 0
+axion 3 5 1

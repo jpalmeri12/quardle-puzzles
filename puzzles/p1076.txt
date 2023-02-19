@@ -1,0 +1,5 @@
+7 8
+quart 1 1 0
+tweed 5 1 1
+tried 2 3 0
+tiger 2 3 1

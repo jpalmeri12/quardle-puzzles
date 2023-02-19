@@ -1,0 +1,5 @@
+7 10
+fence 4 1 1
+piety 2 2 0
+beret 1 5 0
+erupt 2 5 1

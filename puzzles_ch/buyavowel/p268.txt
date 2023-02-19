@@ -1,0 +1,5 @@
+6 7 buyavowel
+stout 5 1 1
+shoot 1 2 0
+hovel 2 2 1
+remit 1 5 0

@@ -1,0 +1,5 @@
+6 10 invention
+lupus 1 1 0
+spear 5 1 1
+after 1 5 0
+fleet 2 5 1

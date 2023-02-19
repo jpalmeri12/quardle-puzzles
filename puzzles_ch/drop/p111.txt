@@ -1,0 +1,6 @@
+6 10 drop
+bound 1 1 0
+ovary 2 1 1
+scant 4 3 1
+crack 1 4 0
+court 1 9 0

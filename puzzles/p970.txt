@@ -1,0 +1,5 @@
+7 9
+salve 2 1 0
+lucky 4 1 1
+spike 1 4 0
+scant 1 4 1

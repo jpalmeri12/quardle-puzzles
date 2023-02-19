@@ -1,0 +1,7 @@
+7 11 secretdistance
+brain 3 1 1
+skimp 1 4 0
+pouch 5 4 1
+beach 2 7 0
+kiosk 1 10 0
+!sdpos 2 2 1 2

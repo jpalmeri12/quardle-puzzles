@@ -1,0 +1,5 @@
+7 8 duplicity
+onion 1 1 0
+newly 2 1 1
+wooly 2 3 0
+linen 5 3 1

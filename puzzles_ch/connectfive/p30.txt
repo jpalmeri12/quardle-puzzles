@@ -1,0 +1,6 @@
+7 10 connectfive
+weigh 1 1 1
+ennui 4 3 1
+going 1 4 0
+afire 6 5 1
+gruff 2 6 0

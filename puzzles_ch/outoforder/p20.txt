@@ -1,0 +1,5 @@
+7 9 outoforder
+nutty 1 1 1
+thigh 1 4 0
+issue 3 4 1
+hunky 2 7 0

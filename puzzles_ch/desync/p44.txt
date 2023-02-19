@@ -1,0 +1,5 @@
+7 10 desync
+cameo 3 1 1
+taboo 2 2 0
+stomp 1 5 0
+tepid 2 5 1

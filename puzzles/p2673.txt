@@ -1,0 +1,5 @@
+7 10
+booze 4 1 1
+hover 1 5 0
+olive 2 5 1
+icily 2 7 0

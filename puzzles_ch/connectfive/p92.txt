@@ -1,0 +1,6 @@
+6 10 connectfive
+photo 1 1 1
+humid 1 2 0
+idler 4 2 1
+oaken 1 5 0
+annul 2 5 1

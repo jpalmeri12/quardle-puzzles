@@ -1,0 +1,6 @@
+6 9 island
+larva 1 1 1
+awake 1 2 0
+gloat 4 4 1
+amble 1 5 0
+!island 1111 31 221 11111

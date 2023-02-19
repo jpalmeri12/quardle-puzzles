@@ -1,0 +1,5 @@
+6 9 scrabble
+torso 1 1 0
+trope 1 1 1
+enjoy 5 4 1
+prize 1 4 0

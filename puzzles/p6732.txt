@@ -1,0 +1,5 @@
+7 7
+wreak 2 1 1
+crump 1 2 0
+minus 4 2 1
+apnea 2 4 0

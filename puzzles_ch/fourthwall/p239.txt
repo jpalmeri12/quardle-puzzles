@@ -1,0 +1,7 @@
+6 6 fourthwall
+swamp 1 1 0
+sever 1 1 1
+valet 1 3 0
+alloy 3 1 1
+royal 1 5 0
+petal 5 1 1

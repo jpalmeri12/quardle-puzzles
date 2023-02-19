@@ -1,0 +1,5 @@
+7 10
+rocky 1 1 0
+cruel 3 1 1
+elate 2 5 0
+easel 6 5 1

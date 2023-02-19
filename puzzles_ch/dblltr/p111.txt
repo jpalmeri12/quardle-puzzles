@@ -1,0 +1,5 @@
+6 10 dblltr
+hitch 4 1 1
+butte 1 3 0
+tithe 1 5 0
+icing 2 5 1

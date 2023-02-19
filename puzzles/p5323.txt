@@ -1,0 +1,5 @@
+6 9
+crane 2 1 1
+still 5 4 1
+beast 1 5 0
+shawl 1 8 0

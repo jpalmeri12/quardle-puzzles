@@ -1,0 +1,5 @@
+7 10
+piper 2 1 1
+itchy 2 2 0
+crook 1 5 0
+opera 4 5 1

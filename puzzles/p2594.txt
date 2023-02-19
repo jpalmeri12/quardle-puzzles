@@ -1,0 +1,5 @@
+7 9
+choir 1 1 0
+havoc 2 1 1
+boast 4 4 1
+crone 2 5 0

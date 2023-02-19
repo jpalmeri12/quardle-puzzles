@@ -1,0 +1,5 @@
+7 9
+blurt 3 1 1
+creak 2 4 0
+avert 5 4 1
+octet 1 8 0

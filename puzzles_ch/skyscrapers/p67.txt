@@ -1,0 +1,5 @@
+7 10 skyscrapers
+rearm 1 7 0
+await 3 5 1
+fancy 2 5 0
+enjoy 6 1 1

@@ -1,0 +1,5 @@
+6 9 swap
+posre 4 1 1
+ifzzy 1 4 1
+imcro 1 4 0
+yeild 1 8 0

@@ -1,0 +1,5 @@
+7 10
+woozy 4 1 1
+stood 1 3 0
+crypt 2 5 0
+cagey 2 5 1

@@ -1,0 +1,5 @@
+7 9
+patty 1 1 1
+titan 1 4 0
+alloy 4 4 1
+wryly 2 8 0

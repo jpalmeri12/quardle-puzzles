@@ -1,0 +1,5 @@
+7 10 clockdown
+logic 3 1 1
+recut 1 5 0
+tiger 5 5 1
+golem 2 8 0

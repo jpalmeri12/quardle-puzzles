@@ -1,0 +1,5 @@
+7 8
+betel 3 1 1
+ahead 1 2 0
+cabin 6 3 1
+sepia 2 4 0

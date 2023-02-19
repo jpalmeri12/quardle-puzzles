@@ -1,0 +1,5 @@
+7 8
+erect 6 1 1
+chord 2 3 1
+orbit 2 5 0
+edify 1 7 0

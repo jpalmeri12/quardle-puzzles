@@ -1,0 +1,5 @@
+7 9 outoforder
+truly 5 1 1
+sworn 3 4 1
+dowdy 1 5 0
+grave 2 7 0

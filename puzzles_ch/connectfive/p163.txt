@@ -1,0 +1,6 @@
+7 9 connectfive
+knoll 1 1 0
+lying 5 1 1
+outer 3 4 1
+nudge 2 5 0
+meaty 2 7 0

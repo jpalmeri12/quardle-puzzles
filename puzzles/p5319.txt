@@ -1,0 +1,5 @@
+7 10
+rouse 2 1 1
+lousy 1 2 0
+eater 2 5 0
+roast 6 5 1

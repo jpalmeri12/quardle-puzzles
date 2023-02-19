@@ -1,0 +1,5 @@
+7 10
+gland 3 1 1
+adult 2 5 0
+udder 4 5 1
+rover 1 8 0

@@ -1,0 +1,5 @@
+7 9
+pasta 1 1 0
+testy 4 1 1
+motto 2 4 0
+mealy 2 4 1

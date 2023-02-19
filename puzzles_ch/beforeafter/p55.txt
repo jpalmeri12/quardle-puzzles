@@ -1,0 +1,9 @@
+6 8 beforeafter
+dealt 1 1 0
+about 3 1 1
+stead 5 3 1
+haunt 1 4 0
+!beforeafter 2 j
+!beforeafter 2 p
+!beforeafter 1 r
+!beforeafter 1 l

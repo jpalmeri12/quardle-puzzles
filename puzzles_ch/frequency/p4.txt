@@ -1,0 +1,5 @@
+6 9 frequency
+trace 1 1 1
+ridge 1 2 0
+crown 1 4 0
+while 4 4 1

@@ -1,0 +1,5 @@
+7 9 duplicity
+smell 5 1 1
+avail 3 4 1
+gavel 1 5 0
+sigma 2 7 0

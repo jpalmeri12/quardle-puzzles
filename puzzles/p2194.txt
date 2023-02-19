@@ -1,0 +1,5 @@
+7 7
+bulky 5 1 1
+focus 2 2 0
+fella 2 2 1
+slack 1 4 0

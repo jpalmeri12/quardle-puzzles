@@ -1,0 +1,5 @@
+6 10 swap
+prolw 2 1 1
+awltz 1 5 0
+liteh 3 5 1
+ejtty 1 7 0

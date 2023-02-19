@@ -1,0 +1,5 @@
+7 8 skyscrapers
+leach 3 3 1
+dwarf 1 5 0
+fluff 5 1 1
+clout 2 3 0

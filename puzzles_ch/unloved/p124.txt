@@ -1,0 +1,5 @@
+7 10 unloved
+karma 3 1 1
+tiara 1 2 0
+tatty 2 5 0
+yacht 6 5 1

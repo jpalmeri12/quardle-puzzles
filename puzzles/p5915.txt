@@ -1,0 +1,5 @@
+7 10
+foamy 5 1 1
+polyp 2 5 0
+palsy 2 5 1
+hyena 1 9 0

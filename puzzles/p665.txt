@@ -1,0 +1,5 @@
+7 10
+snare 1 1 0
+remit 4 1 1
+fetal 2 5 0
+large 6 5 1

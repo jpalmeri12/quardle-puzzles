@@ -1,0 +1,6 @@
+7 8 island
+lathe 5 1 1
+trope 2 3 1
+froth 1 4 0
+elude 2 7 0
+!island 11111 32 311 211

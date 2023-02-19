@@ -1,0 +1,5 @@
+7 10
+quill 3 1 1
+gouge 1 2 0
+clack 2 5 0
+kayak 6 5 1

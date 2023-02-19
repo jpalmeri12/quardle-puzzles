@@ -1,0 +1,5 @@
+7 9
+clerk 4 1 1
+salon 2 2 0
+march 1 4 1
+awake 1 5 0

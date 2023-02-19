@@ -1,0 +1,5 @@
+7 10
+spoil 4 1 1
+endow 1 3 0
+eclat 2 5 0
+tiara 6 5 1

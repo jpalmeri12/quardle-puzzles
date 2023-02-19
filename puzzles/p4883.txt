@@ -1,0 +1,5 @@
+7 8
+wheel 1 1 0
+hunch 2 1 1
+natal 2 3 0
+tatty 4 3 1

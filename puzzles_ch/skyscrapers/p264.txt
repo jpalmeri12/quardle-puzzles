@@ -1,0 +1,5 @@
+7 10 skyscrapers
+usurp 1 5 0
+stash 2 5 1
+alarm 2 7 0
+champ 5 1 1

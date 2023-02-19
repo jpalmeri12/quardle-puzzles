@@ -1,0 +1,5 @@
+7 7 unloved
+stare 1 1 1
+chord 4 2 1
+robot 1 4 0
+undid 2 6 0

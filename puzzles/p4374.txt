@@ -1,0 +1,5 @@
+7 10
+terse 2 1 1
+erase 2 5 0
+amass 4 5 1
+polar 1 7 0

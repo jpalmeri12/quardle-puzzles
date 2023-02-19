@@ -1,0 +1,5 @@
+7 10
+hitch 6 1 1
+filth 2 5 0
+ladle 4 5 1
+handy 1 7 0

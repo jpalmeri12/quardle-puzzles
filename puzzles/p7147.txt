@@ -1,0 +1,5 @@
+7 8
+sigma 2 1 1
+silky 1 2 0
+plane 6 3 1
+mogul 2 4 0

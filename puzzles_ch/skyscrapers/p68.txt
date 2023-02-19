@@ -1,0 +1,5 @@
+7 9 skyscrapers
+virus 2 1 1
+snuck 2 5 0
+acrid 5 4 1
+fishy 1 2 0

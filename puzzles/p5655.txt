@@ -1,0 +1,5 @@
+6 9
+drink 1 1 1
+newer 1 4 0
+river 5 4 1
+under 1 8 0

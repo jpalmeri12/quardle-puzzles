@@ -1,0 +1,5 @@
+6 10 duplicity
+nerdy 5 1 1
+entry 1 5 0
+tower 3 5 1
+dowry 1 7 0

@@ -1,0 +1,5 @@
+7 7 sweeper
+grove 4 1 1
+abate 2 2 1
+booze 2 3 0
+ether 1 5 0

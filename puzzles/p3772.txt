@@ -1,0 +1,5 @@
+7 10
+friar 4 1 1
+scary 1 2 0
+carve 2 5 0
+voila 5 5 1

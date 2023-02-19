@@ -1,0 +1,6 @@
+7 10 drop
+panel 5 1 1
+opine 2 3 0
+primo 3 3 1
+grill 1 5 0
+floor 1 9 0

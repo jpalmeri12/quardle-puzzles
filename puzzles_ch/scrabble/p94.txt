@@ -1,0 +1,5 @@
+7 9 scrabble
+inlet 1 1 1
+roger 2 7 0
+tubal 1 5 0
+plied 5 4 1

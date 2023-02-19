@@ -1,0 +1,7 @@
+7 12 secretdistance
+macaw 2 1 1
+maple 1 2 0
+wafer 2 5 0
+aunty 3 5 1
+mouth 1 11 0
+!sdpos 1 0 2 2

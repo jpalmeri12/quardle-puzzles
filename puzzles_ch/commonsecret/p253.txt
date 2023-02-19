@@ -1,0 +1,6 @@
+7 8 commonsecret
+dowel 1 1 0
+elbow 4 1 1
+moral 6 3 1
+lower 2 5 0
+!secret l

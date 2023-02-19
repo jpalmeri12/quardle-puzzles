@@ -1,0 +1,9 @@
+6 7 beforeafter
+spoke 5 1 1
+agent 2 2 1
+igloo 1 3 0
+snake 1 5 0
+!beforeafter 2 l
+!beforeafter 2 k
+!beforeafter 1 k
+!beforeafter 1 l

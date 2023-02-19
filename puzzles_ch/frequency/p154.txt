@@ -1,0 +1,5 @@
+7 9 frequency
+skunk 5 1 1
+slink 1 2 0
+rhino 2 4 0
+hunch 3 4 1

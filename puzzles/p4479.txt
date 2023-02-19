@@ -1,0 +1,5 @@
+7 10
+freak 4 1 1
+polka 1 5 0
+odder 2 5 1
+decay 2 7 0

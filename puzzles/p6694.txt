@@ -1,0 +1,5 @@
+7 10
+plant 4 1 1
+irate 1 5 0
+ranch 2 5 1
+covey 2 8 0

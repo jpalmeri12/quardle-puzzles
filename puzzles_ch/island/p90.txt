@@ -1,0 +1,6 @@
+7 8 island
+width 2 1 1
+dough 2 3 0
+genre 5 3 1
+chain 1 5 0
+!island 11111 311 211 2111

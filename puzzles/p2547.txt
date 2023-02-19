@@ -1,0 +1,5 @@
+6 7
+snare 5 1 1
+vegan 1 2 0
+guile 3 2 1
+delve 1 5 0

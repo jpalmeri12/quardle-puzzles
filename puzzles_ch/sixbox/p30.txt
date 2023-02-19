@@ -1,0 +1,7 @@
+8 8 sixbox
+plane 3 1 1
+gravy 5 1 1
+drama 1 3 0
+madam 4 3 1
+naval 3 4 0
+seedy 1 5 0

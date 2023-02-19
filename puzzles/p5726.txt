@@ -1,0 +1,5 @@
+6 7
+mural 1 1 1
+utter 1 2 0
+thrum 3 2 1
+laugh 1 5 0

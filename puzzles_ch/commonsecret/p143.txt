@@ -1,0 +1,6 @@
+7 9 commonsecret
+spoon 2 1 0
+pesto 3 1 1
+usher 1 4 1
+stony 1 5 0
+!secret s

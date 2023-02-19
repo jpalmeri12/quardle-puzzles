@@ -1,0 +1,5 @@
+7 10 unloved
+recur 4 1 1
+exert 2 2 0
+every 1 5 0
+yearn 5 5 1

@@ -1,0 +1,5 @@
+7 7 spaced
+given 6 1 1
+begun 4 2 1
+rogue 2 4 0
+wrung 1 6 0

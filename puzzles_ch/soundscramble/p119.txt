@@ -1,0 +1,5 @@
+7 8 soundscramble
+soner 5 1 1
+urbon 1 3 0
+basam 3 3 1
+usurp 2 5 0

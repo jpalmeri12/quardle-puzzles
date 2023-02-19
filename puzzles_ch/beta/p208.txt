@@ -1,0 +1,5 @@
+7 10 beta
+proof 2 1 1
+craze 1 2 0
+frame 2 5 0
+ramen 3 5 1

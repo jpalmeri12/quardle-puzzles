@@ -1,0 +1,6 @@
+7 9 five
+motif 1 1 0
+tepid 3 1 1
+lingo 2 4 0
+geeky 5 4 1
+billy 1 8 0

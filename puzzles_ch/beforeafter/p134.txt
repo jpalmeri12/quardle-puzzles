@@ -1,0 +1,9 @@
+6 9 beforeafter
+lofty 5 1 1
+caulk 2 4 1
+batty 1 5 0
+alloy 1 7 0
+!beforeafter 2 p
+!beforeafter 1 i
+!beforeafter 1 o
+!beforeafter 2 n

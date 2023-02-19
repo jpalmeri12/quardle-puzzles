@@ -1,0 +1,5 @@
+7 7
+bunny 1 1 1
+order 3 2 1
+nadir 1 4 0
+arson 2 6 0

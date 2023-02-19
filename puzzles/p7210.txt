@@ -1,0 +1,5 @@
+7 10
+bugle 2 1 1
+eclat 2 5 0
+laden 4 5 1
+scant 1 9 0

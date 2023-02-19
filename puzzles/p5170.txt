@@ -1,0 +1,5 @@
+7 7
+serum 5 1 1
+spurt 2 2 1
+upper 1 3 0
+roomy 2 5 0

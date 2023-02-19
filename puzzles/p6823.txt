@@ -1,0 +1,5 @@
+7 7
+apple 2 1 1
+pupal 2 2 0
+paint 4 2 1
+claim 1 4 0

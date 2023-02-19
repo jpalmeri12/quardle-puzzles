@@ -1,0 +1,5 @@
+7 10
+spiky 3 1 1
+maybe 1 5 0
+elude 5 5 1
+glade 2 8 0

@@ -1,0 +1,6 @@
+7 9 five
+twirl 1 1 1
+baron 5 1 1
+rhino 1 4 0
+intro 3 4 1
+droit 2 7 0

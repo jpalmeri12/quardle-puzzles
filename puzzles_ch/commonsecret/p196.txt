@@ -1,0 +1,6 @@
+6 9 commonsecret
+under 4 1 1
+tunic 1 4 1
+tuber 1 4 0
+imbue 1 7 0
+!secret u

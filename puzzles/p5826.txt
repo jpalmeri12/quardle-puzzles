@@ -1,0 +1,5 @@
+7 8
+froth 1 1 0
+rivet 2 1 1
+verso 2 3 0
+spiky 5 3 1

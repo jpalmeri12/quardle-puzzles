@@ -1,0 +1,5 @@
+7 9
+scale 1 1 1
+lupus 1 4 0
+pound 3 4 1
+snuck 2 7 0

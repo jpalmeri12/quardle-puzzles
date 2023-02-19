@@ -1,0 +1,5 @@
+7 10 soundscramble
+bresh 5 1 1
+flush 1 5 0
+lengu 2 5 1
+navul 2 7 0

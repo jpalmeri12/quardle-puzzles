@@ -1,0 +1,5 @@
+6 9 dblltr
+wryly 5 1 1
+sneer 1 2 0
+annul 1 4 0
+needy 3 4 1

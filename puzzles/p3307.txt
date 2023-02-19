@@ -1,0 +1,5 @@
+7 10
+nanny 2 1 0
+niece 5 1 1
+cycle 1 5 0
+leave 4 5 1

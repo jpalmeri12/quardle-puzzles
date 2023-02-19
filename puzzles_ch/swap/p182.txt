@@ -1,0 +1,5 @@
+7 9 swap
+rdawn 2 1 1
+dercy 2 2 0
+pasue 5 4 1
+tnoga 1 5 0

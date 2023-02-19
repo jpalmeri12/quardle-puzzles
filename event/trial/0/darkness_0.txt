@@ -1,0 +1,5 @@
+7 10 darkness
+alloy 1 5 0
+dusky 2 3 0
+loyal 2 5 1
+disco 4 1 1

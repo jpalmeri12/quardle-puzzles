@@ -1,0 +1,5 @@
+7 9 invention
+banjo 1 1 1
+jiffy 1 4 0
+flyer 4 4 1
+gayer 2 6 0

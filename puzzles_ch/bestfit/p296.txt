@@ -1,0 +1,5 @@
+6 7 bestfit
+whirl 1 1 1
+harem 1 2 0
+reign 3 2 1
+rainy 1 4 0

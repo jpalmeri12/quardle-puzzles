@@ -1,0 +1,5 @@
+7 10
+dross 4 1 1
+musky 2 5 0
+unmet 3 5 1
+dress 1 8 0

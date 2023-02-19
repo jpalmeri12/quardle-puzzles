@@ -1,0 +1,5 @@
+7 10
+renew 4 1 1
+there 2 2 0
+flown 1 5 0
+nylon 5 5 1

@@ -1,0 +1,5 @@
+7 10
+prize 4 1 1
+worth 2 2 0
+rover 1 5 0
+older 2 5 1

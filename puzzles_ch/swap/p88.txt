@@ -1,0 +1,5 @@
+7 7 swap
+acste 4 1 1
+mrach 1 2 0
+rpawn 2 2 1
+abtae 2 4 0

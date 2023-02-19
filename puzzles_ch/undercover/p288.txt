@@ -1,0 +1,6 @@
+6 9 undercover
+belly 5 1 1
+knave 3 2 1
+panel 1 3 0
+savvy 1 5 0
+motto 1 8 0

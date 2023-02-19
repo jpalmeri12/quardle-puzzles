@@ -1,0 +1,5 @@
+7 9
+friar 3 1 1
+foray 1 2 0
+ensue 6 4 1
+brain 2 5 0

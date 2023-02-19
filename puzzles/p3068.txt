@@ -1,0 +1,5 @@
+7 10
+tumor 5 1 1
+usher 1 5 0
+slunk 2 5 1
+umbra 2 7 0

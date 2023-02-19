@@ -1,0 +1,6 @@
+7 10 connectfive
+crate 2 1 1
+alive 2 3 0
+beard 1 5 0
+brash 1 5 1
+recur 4 5 1

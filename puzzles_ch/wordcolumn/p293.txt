@@ -1,0 +1,6 @@
+7 10 wordcolumn
+queue 2 1 1
+sheer 5 2 1
+eight 2 3 0
+hedge 1 5 0
+holly 1 5 1

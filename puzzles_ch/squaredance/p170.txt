@@ -1,0 +1,6 @@
+6 8 squaredance
+awoke 1 1 1
+rouse 5 1 1
+ardor 1 1 0
+elate 1 5 0
+abide 1 7 0

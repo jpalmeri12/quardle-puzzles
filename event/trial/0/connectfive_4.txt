@@ -1,0 +1,6 @@
+7 10 connectfive
+caste 2 1 1
+array 2 2 0
+later 1 5 1
+leper 1 5 0
+pique 3 5 1

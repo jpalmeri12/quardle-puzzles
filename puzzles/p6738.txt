@@ -1,0 +1,5 @@
+7 9
+shirt 6 1 1
+spare 3 4 1
+spent 2 5 0
+creep 1 8 0

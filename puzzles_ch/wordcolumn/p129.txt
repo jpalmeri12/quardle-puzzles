@@ -1,0 +1,6 @@
+7 8 wordcolumn
+filet 6 1 1
+cubic 2 2 1
+polar 4 3 1
+booze 2 4 0
+ocean 1 6 0

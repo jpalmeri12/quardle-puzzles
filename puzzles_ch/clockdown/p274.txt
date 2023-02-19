@@ -1,0 +1,5 @@
+6 8 clockdown
+spank 5 1 1
+arbor 2 3 1
+aback 1 5 0
+wrack 1 7 0

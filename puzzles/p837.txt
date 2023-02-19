@@ -1,0 +1,5 @@
+7 10
+clump 5 1 1
+mayor 2 5 1
+morph 2 5 0
+pygmy 1 7 0

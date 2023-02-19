@@ -1,0 +1,5 @@
+6 9 fourscore
+cluck 1 1 0
+lusty 2 1 1
+shyly 5 4 1
+nymph 1 5 0

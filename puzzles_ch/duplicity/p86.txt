@@ -1,0 +1,5 @@
+6 8 duplicity
+snoop 3 1 1
+needy 5 3 1
+scope 1 4 0
+decoy 1 7 0

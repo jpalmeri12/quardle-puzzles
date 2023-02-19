@@ -1,0 +1,6 @@
+6 10 connectfive
+swami 1 1 0
+stoke 1 1 1
+islet 5 1 1
+event 1 5 0
+nutty 4 5 1

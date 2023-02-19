@@ -1,0 +1,6 @@
+6 9 drop
+stash 2 1 1
+steak 1 2 0
+avail 4 2 1
+their 1 5 0
+start 1 8 0

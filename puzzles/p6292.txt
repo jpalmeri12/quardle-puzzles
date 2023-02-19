@@ -1,0 +1,5 @@
+7 9
+rowdy 1 1 1
+debar 1 4 0
+bleed 3 4 1
+delay 2 7 0

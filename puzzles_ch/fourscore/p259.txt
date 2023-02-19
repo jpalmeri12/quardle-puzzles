@@ -1,0 +1,5 @@
+7 9 fourscore
+wispy 2 1 1
+splat 1 4 0
+asset 4 4 1
+lithe 2 8 0

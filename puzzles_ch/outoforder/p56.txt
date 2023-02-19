@@ -1,0 +1,5 @@
+7 9 outoforder
+modal 1 1 0
+deity 3 1 1
+stark 2 4 0
+roach 5 4 1

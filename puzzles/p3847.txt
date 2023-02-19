@@ -1,0 +1,5 @@
+7 10
+gooey 2 1 0
+exact 5 1 1
+start 1 5 0
+rover 4 5 1

@@ -1,0 +1,6 @@
+6 9 commonsecret
+steak 3 1 1
+stamp 1 4 0
+paste 5 4 1
+slate 1 8 0
+!secret s

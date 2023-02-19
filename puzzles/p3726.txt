@@ -1,0 +1,5 @@
+7 7
+bluff 3 1 1
+floss 2 2 0
+stark 5 2 1
+mafia 1 4 0

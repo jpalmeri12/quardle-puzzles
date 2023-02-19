@@ -1,0 +1,5 @@
+7 10 clockdown
+clump 1 1 0
+poker 5 1 1
+acorn 2 5 0
+nasty 6 5 1

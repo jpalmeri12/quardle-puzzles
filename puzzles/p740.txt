@@ -1,0 +1,5 @@
+7 10
+short 5 1 1
+taunt 1 5 0
+ulcer 3 5 1
+scrum 2 7 0

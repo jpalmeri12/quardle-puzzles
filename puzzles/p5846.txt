@@ -1,0 +1,5 @@
+7 10
+upset 4 1 1
+grape 1 2 0
+artsy 2 5 0
+recur 3 5 1

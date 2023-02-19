@@ -1,0 +1,5 @@
+7 10 dblltr
+ahead 2 1 1
+hutch 2 2 0
+adapt 1 5 0
+arbor 1 5 1

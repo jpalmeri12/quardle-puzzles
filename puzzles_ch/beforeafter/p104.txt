@@ -1,0 +1,9 @@
+7 10 beforeafter
+slide 2 1 0
+diary 5 1 1
+harry 1 5 0
+actor 2 5 1
+!beforeafter 1 j
+!beforeafter 2 n
+!beforeafter 1 q
+!beforeafter 1 m

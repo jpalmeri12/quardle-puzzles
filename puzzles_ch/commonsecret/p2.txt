@@ -1,0 +1,6 @@
+6 10 commonsecret
+blaze 3 1 1
+fleck 1 5 0
+colon 4 5 1
+labor 1 8 0
+!secret l

@@ -1,0 +1,5 @@
+7 9 scrabble
+penal 5 1 1
+those 1 2 0
+quill 2 5 0
+juicy 3 4 1

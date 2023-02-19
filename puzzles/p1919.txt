@@ -1,0 +1,5 @@
+7 10
+annoy 4 1 1
+crony 1 3 0
+style 2 5 0
+lanky 5 5 1

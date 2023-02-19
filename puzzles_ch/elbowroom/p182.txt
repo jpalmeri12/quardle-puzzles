@@ -1,0 +1,5 @@
+7 7 elbowroom
+mauve 5 1 1
+event 2 2 1
+value 2 3 0
+ensue 1 5 0

@@ -1,0 +1,5 @@
+7 10
+three 4 1 1
+lithe 1 2 0
+credo 2 5 0
+ozone 6 5 1

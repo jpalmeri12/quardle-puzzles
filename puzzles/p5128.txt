@@ -1,0 +1,5 @@
+7 7
+girth 2 1 1
+birth 1 2 0
+humus 5 2 1
+tramp 2 4 0

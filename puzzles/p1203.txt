@@ -1,0 +1,5 @@
+6 7
+cumin 4 1 1
+input 1 2 0
+newer 2 2 1
+await 1 4 0

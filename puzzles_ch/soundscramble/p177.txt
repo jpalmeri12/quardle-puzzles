@@ -1,0 +1,5 @@
+7 10 soundscramble
+mecha 3 1 1
+dreno 1 2 0
+tabee 2 5 0
+tewor 2 5 1

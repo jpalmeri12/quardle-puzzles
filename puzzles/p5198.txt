@@ -1,0 +1,5 @@
+7 9
+table 1 1 1
+llama 1 4 0
+alarm 5 4 1
+ombre 2 7 0

@@ -1,0 +1,6 @@
+6 12 undercover
+cross 1 1 1
+cocoa 1 1 0
+shoot 1 5 0
+topaz 5 5 1
+dingy 1 11 0

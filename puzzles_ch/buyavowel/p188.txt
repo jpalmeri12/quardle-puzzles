@@ -1,0 +1,5 @@
+7 9 buyavowel
+chaos 2 1 1
+cheek 1 2 0
+sooth 4 4 1
+stork 2 5 0

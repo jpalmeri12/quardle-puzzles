@@ -1,0 +1,5 @@
+7 9 invention
+agora 2 1 0
+glean 3 1 1
+stair 1 4 0
+rigor 5 4 1

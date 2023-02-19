@@ -1,0 +1,5 @@
+6 7
+fever 3 1 1
+creep 1 2 0
+parer 5 2 1
+borne 1 5 0

@@ -1,0 +1,9 @@
+7 7 beforeafter
+chant 2 1 1
+hasty 2 2 0
+squad 4 2 1
+input 1 4 0
+!beforeafter 2 m
+!beforeafter 1 q
+!beforeafter 2 p
+!beforeafter 1 o

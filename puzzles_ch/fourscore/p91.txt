@@ -1,0 +1,5 @@
+7 9 fourscore
+slope 1 1 0
+ozone 3 1 1
+snaky 2 4 0
+koala 5 4 1

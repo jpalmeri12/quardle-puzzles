@@ -1,0 +1,9 @@
+6 9 beforeafter
+fatty 5 1 1
+polka 1 2 0
+angst 1 4 0
+gaily 3 4 1
+!beforeafter 1 p
+!beforeafter 1 m
+!beforeafter 2 o
+!beforeafter 2 j

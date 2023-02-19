@@ -1,0 +1,6 @@
+7 10 five
+baler 2 1 1
+lover 2 3 0
+vying 4 3 1
+droit 1 5 0
+dimly 1 5 1

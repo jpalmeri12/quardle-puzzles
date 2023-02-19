@@ -1,0 +1,5 @@
+7 10 hardmode
+spill 2 1 1
+bleep 1 5 0
+elope 3 5 1
+spook 2 8 0

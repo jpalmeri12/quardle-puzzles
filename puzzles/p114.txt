@@ -1,0 +1,5 @@
+6 6
+hoard 2 1 1
+crane 4 1 1
+nasal 1 3 0
+odder 1 5 0

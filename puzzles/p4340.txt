@@ -1,0 +1,5 @@
+7 10
+poesy 5 1 1
+folly 1 5 0
+liner 4 5 1
+lunch 2 7 0

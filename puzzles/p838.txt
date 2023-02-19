@@ -1,0 +1,5 @@
+6 9
+weird 4 1 1
+bevel 1 2 0
+glory 1 4 0
+leggy 2 4 1

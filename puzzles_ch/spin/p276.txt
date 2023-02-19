@@ -1,0 +1,5 @@
+7 10 spin
+taffy 5 1 1
+patty 1 5 0
+tenth 3 5 1
+stung 2 8 0

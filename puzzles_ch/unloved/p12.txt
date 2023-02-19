@@ -1,0 +1,5 @@
+7 9 unloved
+hedge 1 1 1
+gaudy 1 4 0
+urine 3 4 1
+renew 2 8 0

@@ -1,0 +1,5 @@
+7 8 darkness
+petal 1 4 0
+erupt 1 1 1
+stink 3 3 1
+infer 2 6 0

@@ -1,0 +1,5 @@
+6 9 invention
+waste 4 1 1
+abate 1 4 0
+blank 2 4 1
+knelt 1 7 0

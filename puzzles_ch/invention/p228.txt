@@ -1,0 +1,5 @@
+6 9 invention
+filer 3 1 1
+amity 1 2 0
+spent 1 4 0
+swoon 1 4 1

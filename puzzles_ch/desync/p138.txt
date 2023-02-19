@@ -1,0 +1,5 @@
+7 10 desync
+vixen 6 1 1
+ashen 2 5 0
+surge 3 5 1
+rarer 1 7 0

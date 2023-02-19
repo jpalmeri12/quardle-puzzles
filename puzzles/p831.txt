@@ -1,0 +1,5 @@
+7 10
+prune 4 1 1
+pleat 2 5 0
+asset 5 5 1
+burnt 1 9 0

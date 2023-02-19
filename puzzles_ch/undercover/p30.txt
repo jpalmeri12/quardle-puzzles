@@ -1,0 +1,6 @@
+6 8 undercover
+smite 1 1 0
+mince 2 1 1
+taint 4 1 1
+death 1 5 0
+floor 1 7 0

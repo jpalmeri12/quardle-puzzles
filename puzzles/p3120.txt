@@ -1,0 +1,5 @@
+6 6
+psalm 1 1 1
+dryer 4 1 1
+stork 1 2 0
+label 1 4 0

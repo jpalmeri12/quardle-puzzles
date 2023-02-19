@@ -1,0 +1,5 @@
+7 7
+shade 5 1 1
+broth 1 2 0
+overt 3 2 1
+freer 2 5 0

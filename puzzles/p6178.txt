@@ -1,0 +1,5 @@
+7 7
+fault 5 1 1
+break 2 2 0
+reuse 3 2 1
+beset 1 5 0

@@ -1,0 +1,5 @@
+7 9
+moose 1 1 0
+elegy 5 1 1
+bongo 2 4 0
+boxer 2 4 1

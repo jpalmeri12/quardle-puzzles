@@ -1,0 +1,5 @@
+7 10
+shore 4 1 1
+idler 1 5 0
+lusty 3 5 1
+islet 2 7 0

@@ -1,0 +1,6 @@
+7 11 drop
+truth 6 1 1
+unfit 2 4 0
+forth 4 4 1
+pouty 1 7 0
+hefty 1 10 0

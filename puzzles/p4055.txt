@@ -1,0 +1,5 @@
+7 10
+admin 6 1 1
+round 2 5 1
+risen 2 5 0
+adorn 1 9 0

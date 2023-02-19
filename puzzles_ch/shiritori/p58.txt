@@ -1,0 +1,5 @@
+7 8 shiritori
+geese 1 1 1
+stove 5 3 1
+squat 1 4 0
+bravo 2 6 0

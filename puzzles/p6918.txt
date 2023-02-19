@@ -1,0 +1,5 @@
+7 10
+bigot 3 1 1
+stout 2 5 0
+orbit 4 5 1
+fatty 1 9 0

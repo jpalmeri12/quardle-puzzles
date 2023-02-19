@@ -1,0 +1,6 @@
+7 12 five
+aglow 1 1 1
+blood 4 4 1
+would 1 5 0
+roost 2 7 0
+touch 6 7 1

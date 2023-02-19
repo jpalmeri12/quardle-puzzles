@@ -1,0 +1,5 @@
+7 10
+child 1 1 0
+hatch 2 1 1
+haunt 2 5 0
+uncle 4 5 1

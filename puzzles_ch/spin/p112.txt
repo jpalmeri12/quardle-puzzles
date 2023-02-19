@@ -1,0 +1,5 @@
+7 9 spin
+dally 1 1 0
+ladle 4 1 1
+solid 2 4 0
+sigma 2 4 1

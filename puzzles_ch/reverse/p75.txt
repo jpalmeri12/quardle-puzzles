@@ -1,0 +1,5 @@
+7 8 reverse
+whack 2 1 1
+amall 2 3 0
+adapt 4 3 1
+turts 1 7 0

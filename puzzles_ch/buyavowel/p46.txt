@@ -1,0 +1,5 @@
+7 10 buyavowel
+sloop 6 1 1
+chump 2 5 0
+moody 5 5 1
+ahead 1 8 0

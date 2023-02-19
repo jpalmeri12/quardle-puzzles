@@ -1,0 +1,5 @@
+7 10
+prior 5 1 1
+again 2 3 0
+femur 1 5 0
+fatal 1 5 1

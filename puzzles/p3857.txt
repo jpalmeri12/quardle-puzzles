@@ -1,0 +1,5 @@
+7 9
+hinge 2 1 1
+cinch 1 2 0
+grown 2 4 0
+noble 6 4 1

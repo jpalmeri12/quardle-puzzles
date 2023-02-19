@@ -1,0 +1,5 @@
+7 9
+sissy 1 1 0
+staid 4 1 1
+guild 2 4 0
+dally 6 4 1

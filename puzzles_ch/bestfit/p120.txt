@@ -1,0 +1,5 @@
+7 9 bestfit
+resin 5 1 1
+revel 2 2 0
+ovine 3 4 1
+seven 1 5 0

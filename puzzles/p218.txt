@@ -1,0 +1,5 @@
+7 9
+patio 6 1 1
+sushi 2 4 0
+scion 2 4 1
+fixer 1 6 0

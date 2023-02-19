@@ -1,0 +1,5 @@
+7 9 unloved
+bayou 2 1 1
+agile 4 4 1
+judge 1 5 0
+swell 2 8 0

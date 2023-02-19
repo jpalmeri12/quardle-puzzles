@@ -1,0 +1,5 @@
+7 9 outoforder
+jewel 2 1 0
+wring 4 1 1
+again 1 4 1
+gouge 1 5 0

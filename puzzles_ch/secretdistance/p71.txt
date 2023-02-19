@@ -1,0 +1,7 @@
+7 11 secretdistance
+sunny 4 1 1
+ghoul 1 2 0
+bring 6 4 1
+flyer 2 5 0
+haunt 1 10 0
+!sdpos 1 2 3 2

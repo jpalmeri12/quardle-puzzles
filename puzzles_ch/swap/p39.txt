@@ -1,0 +1,5 @@
+7 10 swap
+lcean 4 1 1
+ocunt 1 5 0
+chtue 2 5 1
+trbie 2 7 0

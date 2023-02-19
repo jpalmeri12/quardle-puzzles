@@ -1,0 +1,6 @@
+6 12 drop
+flake 2 1 1
+maple 1 3 0
+needy 1 5 0
+nicer 1 5 1
+reply 1 11 0

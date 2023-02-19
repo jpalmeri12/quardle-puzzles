@@ -1,0 +1,5 @@
+7 10 skyscrapers
+tramp 5 5 1
+skirt 1 5 0
+knock 2 1 1
+nosey 2 2 0

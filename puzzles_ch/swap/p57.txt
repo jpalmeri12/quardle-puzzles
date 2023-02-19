@@ -1,0 +1,5 @@
+6 7 swap
+mougl 4 1 1
+edmon 1 2 0
+dceoy 2 2 1
+leegy 1 4 0

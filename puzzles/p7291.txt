@@ -1,0 +1,5 @@
+7 8
+gruel 5 1 1
+shout 2 3 0
+hotel 3 3 1
+petal 1 5 0

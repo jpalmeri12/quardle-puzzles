@@ -1,0 +1,5 @@
+6 9 sweeper
+bayou 2 1 1
+radii 1 2 0
+hyena 5 4 1
+bunny 1 5 0

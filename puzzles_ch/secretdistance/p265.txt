@@ -1,0 +1,7 @@
+7 10 secretdistance
+drunk 1 1 0
+recut 2 1 1
+crash 2 3 0
+happy 6 3 1
+elude 1 9 0
+!sdpos 2 3 1 3

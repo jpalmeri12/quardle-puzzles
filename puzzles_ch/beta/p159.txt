@@ -1,0 +1,5 @@
+6 7 beta
+wedge 2 1 1
+kebab 1 2 0
+beard 5 2 1
+agora 1 4 0

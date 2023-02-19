@@ -1,0 +1,5 @@
+7 9 soundscramble
+greva 6 1 1
+eveil 2 4 1
+voica 2 5 0
+bicap 1 7 0

@@ -1,0 +1,5 @@
+7 9
+begat 1 1 0
+there 5 1 1
+tibia 2 4 1
+terra 2 4 0

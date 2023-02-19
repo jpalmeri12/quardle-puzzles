@@ -1,0 +1,5 @@
+7 10
+gaily 5 1 1
+filly 1 5 0
+lapel 3 5 1
+spilt 2 7 0

@@ -1,0 +1,5 @@
+7 9 reverse
+taolf 2 1 1
+trapa 2 1 0
+allot 1 4 0
+octal 4 4 1

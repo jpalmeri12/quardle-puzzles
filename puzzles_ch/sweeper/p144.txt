@@ -1,0 +1,5 @@
+7 9 sweeper
+fiery 1 1 0
+elbow 3 1 1
+mower 2 4 0
+elder 5 4 1

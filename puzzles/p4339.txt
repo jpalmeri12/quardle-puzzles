@@ -1,0 +1,5 @@
+7 8
+rerun 2 1 1
+rigid 2 3 0
+index 5 3 1
+kneed 1 5 0

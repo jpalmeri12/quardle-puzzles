@@ -1,0 +1,5 @@
+7 9
+golem 4 1 1
+tower 1 4 0
+outdo 2 4 1
+dried 2 7 0

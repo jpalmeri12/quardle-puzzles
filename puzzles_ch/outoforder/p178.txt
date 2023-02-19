@@ -1,0 +1,5 @@
+7 8 outoforder
+thigh 2 1 0
+geeky 5 1 1
+plume 1 3 0
+preen 1 3 1

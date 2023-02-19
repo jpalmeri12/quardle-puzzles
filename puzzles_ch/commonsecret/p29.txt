@@ -1,0 +1,6 @@
+7 10 commonsecret
+write 4 1 1
+screw 1 5 0
+worst 5 5 1
+swore 2 7 0
+!secret w

@@ -1,0 +1,5 @@
+7 7
+wench 1 1 1
+eager 1 2 0
+rodeo 5 2 1
+demon 2 6 0

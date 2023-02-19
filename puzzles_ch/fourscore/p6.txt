@@ -1,0 +1,5 @@
+7 10 fourscore
+hasty 2 1 1
+alike 2 2 0
+dying 1 5 0
+disco 1 5 1

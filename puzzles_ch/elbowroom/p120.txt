@@ -1,0 +1,5 @@
+7 8 elbowroom
+gusto 2 1 0
+sniff 4 1 1
+usurp 1 3 1
+stuff 1 4 0

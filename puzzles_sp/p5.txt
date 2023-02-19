@@ -1,0 +1,5 @@
+7 9 fourscore
+cease 5 1 1
+terse 2 4 0
+truly 2 4 1
+lynch 1 8 0

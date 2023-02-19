@@ -1,0 +1,5 @@
+7 8 duplicity
+shear 2 1 0
+ashen 5 1 1
+gnash 1 3 0
+agree 3 3 1

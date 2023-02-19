@@ -1,0 +1,6 @@
+7 10 drop
+aisle 2 1 0
+swear 4 1 1
+solar 2 3 1
+moral 1 4 0
+allow 1 9 0

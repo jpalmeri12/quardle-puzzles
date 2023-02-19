@@ -1,0 +1,5 @@
+6 7 scrabble
+ruler 4 1 1
+goner 1 4 0
+flout 1 2 0
+fugue 1 2 1

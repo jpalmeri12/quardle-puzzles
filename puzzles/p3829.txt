@@ -1,0 +1,5 @@
+7 9
+udder 3 1 1
+reign 2 4 0
+grimy 5 4 1
+opium 1 7 0

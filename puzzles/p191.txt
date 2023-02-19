@@ -1,0 +1,5 @@
+6 6
+envoy 1 1 1
+spunk 4 1 1
+nymph 1 2 0
+opine 1 4 0

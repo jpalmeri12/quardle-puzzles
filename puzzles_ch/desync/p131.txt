@@ -1,0 +1,5 @@
+6 8 desync
+shell 2 1 1
+marry 5 3 1
+altar 1 5 0
+merry 1 7 0

@@ -1,0 +1,6 @@
+7 10 wordcolumn
+flare 1 1 0
+locus 2 1 1
+rumba 4 1 1
+slate 2 5 0
+etude 6 5 1

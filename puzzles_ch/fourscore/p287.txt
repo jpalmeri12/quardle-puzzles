@@ -1,0 +1,5 @@
+7 7 fourscore
+shake 2 1 1
+hymen 2 2 0
+merry 4 2 1
+skirt 1 4 0

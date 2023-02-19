@@ -1,0 +1,5 @@
+6 7 skyscrapers
+talon 4 2 1
+sadly 1 4 0
+flesh 1 1 1
+lofty 1 2 0

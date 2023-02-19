@@ -1,0 +1,5 @@
+6 9 reverse
+ekulf 1 1 1
+elope 1 1 0
+lilac 1 4 0
+aslas 4 4 1

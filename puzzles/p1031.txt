@@ -1,0 +1,5 @@
+7 8
+vixen 3 1 1
+piggy 5 3 1
+peril 2 4 0
+warty 1 7 0

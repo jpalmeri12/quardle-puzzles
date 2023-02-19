@@ -1,0 +1,6 @@
+6 12 drop
+speak 1 1 0
+polka 2 1 1
+cache 1 5 0
+canoe 1 5 1
+ascot 1 11 0

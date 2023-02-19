@@ -1,0 +1,7 @@
+7 11 secretdistance
+humus 4 1 1
+truly 2 2 0
+ghoul 1 4 0
+gnash 1 4 1
+saner 1 10 0
+!sdpos 0 3 3 2

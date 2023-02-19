@@ -1,0 +1,5 @@
+7 9
+coral 4 1 1
+vigor 1 2 0
+thank 2 4 1
+halve 2 5 0

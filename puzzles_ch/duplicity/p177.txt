@@ -1,0 +1,5 @@
+7 9 duplicity
+taken 3 1 1
+baton 2 2 0
+bleat 1 4 0
+bloke 1 4 1

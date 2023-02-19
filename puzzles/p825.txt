@@ -1,0 +1,5 @@
+6 10
+satyr 1 1 0
+shire 1 1 1
+eclat 1 5 0
+artsy 4 5 1

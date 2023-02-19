@@ -1,0 +1,5 @@
+7 8
+shook 1 1 0
+opium 4 1 1
+retch 6 3 1
+mouse 2 4 0

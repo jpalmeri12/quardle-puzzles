@@ -1,0 +1,5 @@
+6 6 hardmode
+pence 1 1 0
+easel 2 1 1
+extra 5 1 1
+fever 1 4 0

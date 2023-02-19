@@ -1,0 +1,5 @@
+7 9 hardmode
+posse 2 1 0
+scorn 4 1 1
+young 2 4 1
+horny 1 5 0

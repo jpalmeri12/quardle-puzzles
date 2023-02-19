@@ -1,0 +1,5 @@
+7 9 scrabble
+sneak 2 1 1
+kitty 6 4 1
+fetch 1 3 0
+khaki 2 5 0

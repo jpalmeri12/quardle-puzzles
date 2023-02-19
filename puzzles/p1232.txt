@@ -1,0 +1,5 @@
+7 10
+cedar 5 1 1
+diner 1 5 0
+elder 4 5 1
+early 2 9 0

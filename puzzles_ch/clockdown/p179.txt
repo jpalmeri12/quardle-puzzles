@@ -1,0 +1,5 @@
+7 9 clockdown
+wiser 1 1 1
+scoop 4 4 1
+retch 1 5 0
+those 2 7 0

@@ -1,0 +1,5 @@
+7 9 outoforder
+macaw 2 1 0
+clear 4 1 1
+float 1 4 0
+lever 2 4 1

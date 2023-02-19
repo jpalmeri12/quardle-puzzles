@@ -1,0 +1,9 @@
+7 9 beforeafter
+tripe 1 1 1
+plaid 1 4 0
+donut 5 4 1
+incur 2 7 0
+!beforeafter 1 q
+!beforeafter 1 j
+!beforeafter 2 q
+!beforeafter 2 o

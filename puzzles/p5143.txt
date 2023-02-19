@@ -1,0 +1,5 @@
+7 8
+jiffy 1 1 0
+infer 2 1 1
+frown 2 3 0
+worry 5 3 1

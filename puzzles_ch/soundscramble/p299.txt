@@ -1,0 +1,5 @@
+6 9 soundscramble
+wolch 1 1 1
+adero 3 4 1
+hodgo 1 5 0
+peosy 1 8 0

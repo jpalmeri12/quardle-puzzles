@@ -1,0 +1,5 @@
+7 9 clockdown
+druid 5 1 1
+plank 2 4 1
+blind 1 5 0
+kinky 2 8 0

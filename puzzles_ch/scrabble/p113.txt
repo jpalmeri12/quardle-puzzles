@@ -1,0 +1,5 @@
+7 10 scrabble
+slate 1 1 1
+enemy 1 5 0
+beech 2 7 0
+yacht 5 5 1

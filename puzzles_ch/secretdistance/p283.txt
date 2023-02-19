@@ -1,0 +1,7 @@
+6 11 secretdistance
+quill 3 1 1
+tulip 1 4 0
+plumb 5 4 1
+scram 1 7 0
+crimp 1 10 0
+!sdpos 0 2 1 1

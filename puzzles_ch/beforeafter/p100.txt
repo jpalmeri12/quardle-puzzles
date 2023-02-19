@@ -1,0 +1,9 @@
+6 9 beforeafter
+actor 2 1 1
+total 1 4 0
+amiss 4 4 1
+chasm 1 7 0
+!beforeafter 1 l
+!beforeafter 2 m
+!beforeafter 2 r
+!beforeafter 2 i

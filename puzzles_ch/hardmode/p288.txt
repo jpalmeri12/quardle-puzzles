@@ -1,0 +1,5 @@
+7 9 hardmode
+manly 3 1 1
+delta 1 4 0
+altar 5 4 1
+pecan 2 7 0

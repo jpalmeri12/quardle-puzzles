@@ -1,0 +1,5 @@
+7 10
+quilt 2 1 1
+usual 2 2 0
+etude 1 5 0
+utile 3 5 1

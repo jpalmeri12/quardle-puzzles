@@ -1,0 +1,5 @@
+7 9 bestfit
+emcee 4 1 1
+odder 1 4 0
+drool 2 4 1
+opine 2 7 0

@@ -1,0 +1,5 @@
+7 10 duplicity
+yearn 5 1 1
+brave 1 2 0
+borne 2 5 0
+ovary 3 5 1

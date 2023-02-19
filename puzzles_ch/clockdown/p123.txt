@@ -1,0 +1,5 @@
+6 9 clockdown
+arson 1 1 0
+slurp 3 1 1
+screw 1 4 0
+skill 1 4 1

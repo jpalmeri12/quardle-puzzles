@@ -1,0 +1,5 @@
+7 10 dblltr
+recur 5 1 1
+drier 1 5 0
+easel 4 5 1
+nasal 2 7 0

@@ -1,0 +1,5 @@
+7 8 duplicity
+gayly 6 1 1
+flair 2 3 1
+fairy 2 3 0
+girly 1 6 0

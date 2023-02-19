@@ -1,0 +1,6 @@
+7 8 wordcolumn
+welsh 3 1 1
+filet 1 2 1
+loser 5 3 1
+lasso 1 4 0
+fairy 2 7 0

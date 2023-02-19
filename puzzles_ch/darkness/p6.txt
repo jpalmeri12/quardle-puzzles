@@ -1,0 +1,5 @@
+6 10 darkness
+macaw 1 1 1
+moody 1 1 0
+wrack 1 5 0
+aloud 3 5 1

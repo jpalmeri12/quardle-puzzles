@@ -1,0 +1,6 @@
+6 9 island
+nerdy 5 1 1
+mince 1 2 0
+valid 1 4 0
+loopy 3 4 1
+!island 311 2111 11111 31

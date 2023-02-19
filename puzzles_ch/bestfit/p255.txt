@@ -1,0 +1,5 @@
+7 9 bestfit
+mocha 6 1 1
+witch 2 4 0
+torso 4 4 1
+gnash 1 7 0

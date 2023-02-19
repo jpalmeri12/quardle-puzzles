@@ -1,0 +1,5 @@
+7 9 bestfit
+crumb 1 1 0
+budge 5 1 1
+weigh 2 4 0
+would 2 4 1

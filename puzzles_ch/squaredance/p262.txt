@@ -1,0 +1,6 @@
+6 8 squaredance
+slosh 1 1 1
+perch 5 1 1
+slurp 1 1 0
+hunch 1 5 0
+totem 1 7 0

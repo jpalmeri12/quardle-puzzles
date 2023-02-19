@@ -1,0 +1,5 @@
+7 10 skyscrapers
+snide 2 3 0
+paddy 5 1 1
+happy 1 5 0
+pasty 4 5 1

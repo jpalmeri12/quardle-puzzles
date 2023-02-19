@@ -1,0 +1,5 @@
+7 7 shiritori
+crypt 1 1 1
+bitty 4 2 1
+pesto 1 4 0
+gayly 2 6 0

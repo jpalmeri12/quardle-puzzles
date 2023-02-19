@@ -1,0 +1,6 @@
+7 11 drop
+flint 4 1 1
+scant 1 4 0
+clone 2 4 1
+niece 2 7 0
+leant 1 10 0

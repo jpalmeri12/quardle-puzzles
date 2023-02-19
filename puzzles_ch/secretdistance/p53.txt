@@ -1,0 +1,7 @@
+7 11 secretdistance
+horse 5 1 1
+gross 2 4 0
+gusty 2 4 1
+hyena 1 8 0
+dried 1 10 0
+!sdpos 2 2 0 2

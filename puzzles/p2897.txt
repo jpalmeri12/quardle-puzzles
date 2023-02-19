@@ -1,0 +1,5 @@
+7 7
+graph 1 1 0
+plumb 4 1 1
+tramp 6 2 1
+gamma 2 4 0

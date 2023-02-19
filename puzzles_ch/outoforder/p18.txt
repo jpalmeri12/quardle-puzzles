@@ -1,0 +1,5 @@
+7 9 outoforder
+loath 5 1 1
+salon 2 2 0
+afoot 1 4 0
+occur 3 4 1

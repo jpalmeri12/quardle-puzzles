@@ -1,0 +1,5 @@
+7 8 darkness
+token 2 7 0
+check 4 3 1
+islet 1 5 0
+khaki 1 1 1

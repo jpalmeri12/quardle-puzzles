@@ -1,0 +1,5 @@
+7 10
+flung 5 1 1
+owing 1 5 0
+wench 2 5 1
+clove 2 8 0

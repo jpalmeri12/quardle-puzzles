@@ -1,0 +1,5 @@
+7 10 unloved
+trial 5 1 1
+snarl 2 2 0
+renal 1 5 0
+rajah 1 5 1

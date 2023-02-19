@@ -1,0 +1,5 @@
+7 10 beta
+junto 2 1 0
+teddy 5 1 1
+bitty 1 5 0
+imbue 2 5 1

@@ -1,0 +1,6 @@
+7 8 connectfive
+shark 1 1 1
+swirl 1 1 0
+rearm 4 3 1
+ramen 1 4 0
+forgo 2 6 0

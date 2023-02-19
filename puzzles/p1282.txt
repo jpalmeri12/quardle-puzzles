@@ -1,0 +1,5 @@
+7 9
+cover 1 1 0
+risky 5 1 1
+shake 2 4 0
+spout 2 4 1

@@ -1,0 +1,5 @@
+7 10 scrabble
+gayer 2 9 0
+loopy 4 5 1
+slack 2 1 1
+skulk 1 5 0

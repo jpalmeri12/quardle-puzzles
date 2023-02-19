@@ -1,0 +1,5 @@
+7 10 clockdown
+sloop 2 1 1
+pecan 2 5 0
+corny 4 5 1
+vaunt 1 8 0

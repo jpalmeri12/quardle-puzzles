@@ -1,0 +1,5 @@
+6 8 shiritori
+genre 2 1 1
+panic 4 3 1
+croak 1 4 0
+notch 1 7 0

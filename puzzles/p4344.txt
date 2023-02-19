@@ -1,0 +1,5 @@
+6 6
+plane 1 1 0
+award 3 1 1
+etude 5 1 1
+lurid 1 4 0

@@ -1,0 +1,6 @@
+7 12 drop
+weary 5 1 1
+bushy 1 5 0
+solar 3 5 1
+class 2 7 0
+coyly 1 11 0

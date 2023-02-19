@@ -1,0 +1,9 @@
+7 10 beforeafter
+squib 2 1 1
+squad 1 2 0
+baron 2 5 0
+amity 3 5 1
+!beforeafter 2 m
+!beforeafter 2 k
+!beforeafter 1 k
+!beforeafter 2 r

@@ -1,0 +1,5 @@
+7 8
+grate 3 1 1
+world 1 2 0
+tidal 6 3 1
+beard 2 5 0

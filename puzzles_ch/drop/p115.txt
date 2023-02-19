@@ -1,0 +1,6 @@
+6 12 drop
+manga 1 1 1
+aside 1 5 0
+smile 2 5 1
+blurt 1 8 0
+stage 1 11 0

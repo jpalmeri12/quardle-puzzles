@@ -1,0 +1,6 @@
+7 12 wordcolumn
+draft 5 1 1
+fella 2 5 1
+fatty 2 5 0
+skulk 4 7 1
+alike 1 8 0

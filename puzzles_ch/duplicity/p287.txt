@@ -1,0 +1,5 @@
+7 10 duplicity
+privy 6 1 1
+puppy 2 5 0
+pivot 5 5 1
+trout 1 9 0

@@ -1,0 +1,5 @@
+7 10
+primo 2 1 1
+sound 1 5 0
+undue 3 5 1
+admin 2 7 0

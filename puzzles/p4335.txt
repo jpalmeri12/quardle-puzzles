@@ -1,0 +1,5 @@
+7 9
+smirk 1 1 0
+kappa 5 1 1
+tempo 2 4 0
+exult 3 4 1

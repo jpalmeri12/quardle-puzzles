@@ -1,0 +1,5 @@
+6 7
+lefty 2 1 1
+heady 1 2 0
+dandy 4 2 1
+atone 1 4 0

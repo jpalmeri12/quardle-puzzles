@@ -1,0 +1,5 @@
+7 10 spin
+snore 2 1 1
+nasty 2 2 0
+beefy 1 5 0
+fussy 4 5 1

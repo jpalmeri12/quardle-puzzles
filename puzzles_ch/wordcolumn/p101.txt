@@ -1,0 +1,6 @@
+7 10 wordcolumn
+aroma 3 1 1
+frond 2 2 0
+vault 2 5 0
+vista 2 5 1
+stint 1 8 0

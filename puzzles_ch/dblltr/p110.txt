@@ -1,0 +1,5 @@
+7 9 dblltr
+odder 6 1 1
+belle 2 4 0
+every 3 4 1
+quell 1 6 0

@@ -1,0 +1,6 @@
+7 12 undercover
+embed 2 1 0
+magma 3 1 1
+gland 1 5 0
+grief 1 5 1
+putty 1 11 0

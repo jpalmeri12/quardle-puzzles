@@ -1,0 +1,5 @@
+7 10
+squad 4 1 1
+daunt 2 3 0
+study 1 5 0
+trump 2 5 1

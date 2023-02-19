@@ -1,0 +1,6 @@
+7 8 wordcolumn
+newer 2 1 1
+navel 2 1 0
+swell 1 3 0
+lodge 4 3 1
+ridge 2 5 0

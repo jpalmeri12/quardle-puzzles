@@ -1,0 +1,5 @@
+7 8 swap
+wrign 6 1 1
+forst 4 3 1
+htong 2 4 0
+asest 1 6 0

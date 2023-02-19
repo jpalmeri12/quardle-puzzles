@@ -1,0 +1,5 @@
+7 10 spin
+crimp 2 1 1
+spook 1 5 0
+ovine 3 5 1
+input 2 8 0

@@ -1,0 +1,6 @@
+7 10 wordcolumn
+blare 5 1 1
+crude 1 5 0
+rower 2 5 1
+daisy 4 5 1
+rhyme 2 9 0

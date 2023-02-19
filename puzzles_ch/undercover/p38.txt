@@ -1,0 +1,6 @@
+7 12 undercover
+shrub 2 1 1
+brawl 2 5 0
+wring 5 5 1
+fungi 1 7 0
+motto 1 11 0

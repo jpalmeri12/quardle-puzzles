@@ -1,0 +1,5 @@
+7 9
+mourn 4 1 1
+crone 2 2 0
+paint 1 4 1
+atone 1 5 0

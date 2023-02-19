@@ -1,0 +1,6 @@
+6 10 five
+forum 4 1 1
+whirl 2 2 1
+trump 1 5 0
+place 5 5 1
+conic 1 8 0

@@ -1,0 +1,5 @@
+7 10 scrabble
+stint 1 7 0
+fetid 2 5 1
+fecal 2 5 0
+mocha 5 1 1

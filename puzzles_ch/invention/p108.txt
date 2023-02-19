@@ -1,0 +1,5 @@
+6 8 invention
+label 1 1 1
+bused 1 3 0
+drunk 5 3 1
+trick 1 7 0

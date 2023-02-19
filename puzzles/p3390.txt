@@ -1,0 +1,5 @@
+7 9
+blank 1 1 0
+knack 5 1 1
+infer 3 4 1
+snaky 2 5 0

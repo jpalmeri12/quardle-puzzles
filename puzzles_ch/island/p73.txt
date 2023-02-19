@@ -1,0 +1,6 @@
+7 9 island
+hilly 1 1 0
+limbo 4 1 1
+attic 6 4 1
+bloat 2 5 0
+!island 211 311 1111 2111

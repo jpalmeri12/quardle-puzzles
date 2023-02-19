@@ -1,0 +1,9 @@
+7 10 beforeafter
+femur 4 1 1
+rupee 1 2 0
+baron 2 5 0
+omega 5 5 1
+!beforeafter 2 n
+!beforeafter 1 q
+!beforeafter 1 l
+!beforeafter 1 j

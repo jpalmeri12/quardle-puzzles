@@ -1,0 +1,6 @@
+6 9 drop
+award 3 1 1
+lefty 1 2 1
+lower 1 2 0
+teddy 1 5 0
+salty 1 8 0

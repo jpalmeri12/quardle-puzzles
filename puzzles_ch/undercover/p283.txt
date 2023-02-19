@@ -1,0 +1,6 @@
+7 10 undercover
+gaily 1 1 1
+lymph 5 3 1
+leafy 1 4 0
+tight 2 7 0
+dross 1 9 0

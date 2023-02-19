@@ -1,0 +1,5 @@
+7 10
+pluck 5 1 1
+shrug 2 3 0
+slunk 1 5 0
+until 3 5 1

@@ -1,0 +1,6 @@
+6 8 squaredance
+atone 1 1 1
+exalt 5 1 1
+aware 1 1 0
+exact 1 5 0
+clank 1 7 0

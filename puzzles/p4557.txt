@@ -1,0 +1,5 @@
+6 6
+pulse 1 1 1
+plush 1 1 0
+unset 3 1 1
+shear 1 4 0

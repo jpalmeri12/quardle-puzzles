@@ -1,0 +1,5 @@
+7 9
+stiff 2 1 1
+piece 1 3 0
+mafia 6 4 1
+flora 2 5 0

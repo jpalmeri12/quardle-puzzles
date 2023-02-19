@@ -1,0 +1,5 @@
+7 10 dblltr
+deuce 4 1 1
+snuff 2 3 0
+libel 1 5 0
+icing 2 5 1

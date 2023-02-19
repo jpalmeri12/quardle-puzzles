@@ -1,0 +1,9 @@
+7 9 spellbound
+press 1 1 1
+lance 3 4 1
+stash 1 5 0
+acorn 2 7 0
+!spellbound 0 0 3
+!spellbound 1 2 0
+!spellbound 2 4 1
+!spellbound 3 3 0

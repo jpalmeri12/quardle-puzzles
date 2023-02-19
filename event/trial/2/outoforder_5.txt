@@ -1,0 +1,5 @@
+7 10 outoforder
+bosom 2 1 1
+opera 2 2 0
+omega 1 5 0
+gruff 4 5 1

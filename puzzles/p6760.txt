@@ -1,0 +1,5 @@
+7 10
+while 3 1 1
+befit 2 5 0
+block 2 5 1
+forte 1 7 0

@@ -1,0 +1,5 @@
+7 9 swap
+aslon 3 1 1
+abdge 5 4 1
+inobx 2 5 0
+shdae 1 8 0

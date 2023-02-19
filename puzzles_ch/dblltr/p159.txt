@@ -1,0 +1,5 @@
+7 10 dblltr
+scree 4 1 1
+gorge 2 3 0
+level 1 5 0
+ladle 5 5 1

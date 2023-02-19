@@ -1,0 +1,5 @@
+7 9
+trove 2 1 1
+mouth 4 4 1
+lemon 1 5 0
+kitty 2 7 0

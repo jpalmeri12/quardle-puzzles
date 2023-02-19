@@ -1,0 +1,6 @@
+7 10 connectfive
+issue 6 1 1
+stove 3 2 1
+evade 2 5 0
+dwell 5 5 1
+quill 1 9 0

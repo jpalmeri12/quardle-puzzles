@@ -1,0 +1,5 @@
+7 9 unloved
+debug 2 1 1
+gnash 4 4 1
+goner 2 5 0
+quash 1 7 0

@@ -1,0 +1,5 @@
+7 10
+bulge 5 1 1
+peace 1 5 0
+aorta 3 5 1
+ratio 2 9 0

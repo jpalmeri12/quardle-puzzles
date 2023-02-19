@@ -1,0 +1,5 @@
+6 8 fourscore
+inner 1 1 0
+erode 4 1 1
+limbo 2 3 1
+giddy 1 4 0

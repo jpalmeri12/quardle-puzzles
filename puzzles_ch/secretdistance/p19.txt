@@ -1,0 +1,7 @@
+6 11 secretdistance
+drank 1 1 1
+niche 1 4 0
+haute 4 4 1
+chute 1 7 0
+flyer 1 10 0
+!sdpos 2 1 1 1

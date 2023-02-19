@@ -1,0 +1,5 @@
+7 10 soundscramble
+pench 2 1 1
+nurvu 2 3 0
+shoal 1 5 0
+serur 1 5 1

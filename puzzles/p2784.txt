@@ -1,0 +1,5 @@
+7 10
+octal 4 1 1
+warty 1 3 0
+salve 2 5 0
+viral 5 5 1

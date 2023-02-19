@@ -1,0 +1,6 @@
+6 9 island
+plush 1 1 1
+sweat 1 4 0
+ascot 4 4 1
+annoy 1 7 0
+!island 221 41 2111 1111

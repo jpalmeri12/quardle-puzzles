@@ -1,0 +1,5 @@
+6 6 skyscrapers
+piano 1 1 0
+order 5 1 1
+coupe 1 4 0
+inbox 2 1 1

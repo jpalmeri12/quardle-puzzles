@@ -1,0 +1,5 @@
+7 9 shiritori
+bravo 2 1 1
+afoot 4 4 1
+offer 2 5 0
+bosom 1 7 0

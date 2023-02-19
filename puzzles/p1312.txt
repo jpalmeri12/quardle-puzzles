@@ -1,0 +1,5 @@
+7 9
+stamp 5 1 1
+droit 1 2 0
+trump 2 4 0
+trove 2 4 1

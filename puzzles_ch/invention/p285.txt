@@ -1,0 +1,5 @@
+7 10 invention
+cress 5 1 1
+bless 2 5 0
+labor 3 5 1
+mercy 1 9 0

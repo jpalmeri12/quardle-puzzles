@@ -1,0 +1,5 @@
+6 7 buyavowel
+fibre 2 1 1
+rival 1 2 0
+alley 4 2 1
+frill 1 4 0

@@ -1,0 +1,6 @@
+7 10 five
+venom 6 1 1
+swish 4 2 1
+bosom 2 5 0
+badge 2 5 1
+agape 1 8 0

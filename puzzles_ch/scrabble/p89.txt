@@ -1,0 +1,5 @@
+7 10 scrabble
+barge 2 5 0
+blame 2 5 1
+smash 1 8 0
+azure 6 1 1

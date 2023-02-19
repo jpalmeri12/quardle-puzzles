@@ -1,0 +1,5 @@
+7 9
+tarot 5 1 1
+broom 2 4 0
+rhino 3 4 1
+scowl 1 8 0

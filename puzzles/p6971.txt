@@ -1,0 +1,5 @@
+7 9
+ninny 1 1 0
+input 2 1 1
+fault 4 4 1
+trade 2 5 0

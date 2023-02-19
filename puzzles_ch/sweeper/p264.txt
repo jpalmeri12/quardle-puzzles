@@ -1,0 +1,5 @@
+7 10 sweeper
+marsh 5 1 1
+bloat 2 2 0
+porch 1 5 0
+paler 1 5 1

@@ -1,0 +1,5 @@
+7 10 scrabble
+louse 2 1 1
+moron 2 8 0
+belch 1 5 0
+havoc 5 5 1

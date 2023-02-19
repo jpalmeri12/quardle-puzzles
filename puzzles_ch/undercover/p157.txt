@@ -1,0 +1,6 @@
+7 12 undercover
+radii 5 1 1
+ethic 2 5 0
+hutch 4 5 1
+itchy 1 9 0
+blown 1 11 0

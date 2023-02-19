@@ -1,0 +1,5 @@
+7 10
+aping 5 1 1
+fling 1 5 0
+leafy 2 5 1
+adept 2 7 0

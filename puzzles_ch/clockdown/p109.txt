@@ -1,0 +1,5 @@
+7 8 clockdown
+grope 1 1 1
+ester 4 3 1
+prism 1 4 0
+verso 2 7 0

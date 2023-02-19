@@ -1,0 +1,5 @@
+7 10 soundscramble
+tecit 5 1 1
+sumec 1 3 0
+ecuta 2 5 0
+aquip 6 5 1

@@ -1,0 +1,6 @@
+7 10 connectfive
+fungi 3 1 1
+buddy 2 2 0
+crick 1 5 0
+cheek 1 5 1
+knife 1 9 0

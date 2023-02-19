@@ -1,0 +1,5 @@
+7 8 hardmode
+psalm 1 1 0
+spasm 2 1 1
+brave 4 3 1
+mealy 2 5 0

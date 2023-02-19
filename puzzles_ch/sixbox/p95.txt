@@ -1,0 +1,7 @@
+8 8 sixbox
+unify 3 1 1
+titan 5 1 1
+moist 1 3 0
+slosh 4 3 1
+flack 3 4 0
+rayon 1 5 0

@@ -1,0 +1,5 @@
+7 10 spaced
+swami 4 1 1
+leach 2 3 0
+plier 1 5 1
+plaid 1 5 0

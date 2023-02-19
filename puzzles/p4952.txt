@@ -1,0 +1,5 @@
+6 9
+cutie 4 1 1
+ghoul 1 2 0
+sepia 1 4 0
+skier 1 4 1

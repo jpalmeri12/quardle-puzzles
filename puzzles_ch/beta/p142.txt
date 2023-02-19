@@ -1,0 +1,5 @@
+7 9 beta
+ingot 4 1 1
+penny 2 2 0
+savor 1 4 0
+abbey 2 4 1

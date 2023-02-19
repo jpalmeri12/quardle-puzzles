@@ -1,0 +1,5 @@
+6 7 outoforder
+ready 4 1 1
+upper 1 2 0
+pubic 2 2 1
+abode 1 4 0

@@ -1,0 +1,5 @@
+6 8
+basil 5 1 1
+quack 2 3 1
+fungi 1 4 0
+skull 1 7 0

@@ -1,0 +1,6 @@
+7 9 five
+flood 2 1 1
+click 1 2 0
+haunt 4 4 1
+drawn 2 5 0
+kitty 1 8 0

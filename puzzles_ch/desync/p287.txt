@@ -1,0 +1,5 @@
+7 8 desync
+after 1 1 0
+first 2 1 1
+guard 4 3 1
+tease 2 5 0

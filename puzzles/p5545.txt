@@ -1,0 +1,5 @@
+7 9
+rabbi 5 1 1
+taunt 3 4 1
+mafia 2 5 0
+winch 1 7 0

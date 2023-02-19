@@ -1,0 +1,5 @@
+7 9
+friar 2 1 1
+storm 4 4 1
+retry 2 5 0
+plumb 1 8 0

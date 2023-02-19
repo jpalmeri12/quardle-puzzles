@@ -1,0 +1,5 @@
+7 10 buyavowel
+drill 3 1 1
+threw 1 2 0
+glyph 2 5 0
+yield 4 5 1

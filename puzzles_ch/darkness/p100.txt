@@ -1,0 +1,5 @@
+7 9 darkness
+beard 2 4 1
+idiot 1 8 0
+butte 2 4 0
+tasty 5 1 1

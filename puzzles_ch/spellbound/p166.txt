@@ -1,0 +1,9 @@
+7 9 spellbound
+swami 4 1 1
+lower 2 2 0
+quick 2 4 1
+audit 1 5 0
+!spellbound 0 3 2
+!spellbound 1 0 1
+!spellbound 2 4 3
+!spellbound 3 0 2

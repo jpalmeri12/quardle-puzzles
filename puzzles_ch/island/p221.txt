@@ -1,0 +1,6 @@
+7 7 island
+pasta 3 1 1
+bathe 2 2 0
+heady 5 2 1
+gland 1 5 0
+!island 211 2111 221 11111

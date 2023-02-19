@@ -1,0 +1,5 @@
+7 7
+salon 2 1 1
+skulk 5 2 1
+plunk 1 3 0
+newly 2 5 0

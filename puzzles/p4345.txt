@@ -1,0 +1,5 @@
+7 9
+woman 4 1 1
+groom 1 2 0
+spook 2 4 1
+panic 2 5 0

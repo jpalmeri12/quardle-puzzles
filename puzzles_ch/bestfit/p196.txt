@@ -1,0 +1,5 @@
+7 9 bestfit
+billy 2 1 1
+lingo 1 2 0
+ledge 2 4 0
+gooey 5 4 1

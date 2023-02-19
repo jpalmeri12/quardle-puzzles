@@ -1,0 +1,9 @@
+7 8 beforeafter
+lefty 1 1 0
+fifty 3 1 1
+forty 5 3 1
+stool 2 4 0
+!beforeafter 2 q
+!beforeafter 2 r
+!beforeafter 1 p
+!beforeafter 1 p

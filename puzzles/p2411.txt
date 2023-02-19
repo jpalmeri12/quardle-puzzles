@@ -1,0 +1,5 @@
+7 9
+spell 2 1 1
+spied 1 2 0
+light 2 4 0
+haute 5 4 1

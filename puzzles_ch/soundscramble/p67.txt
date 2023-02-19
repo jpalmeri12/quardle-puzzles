@@ -1,0 +1,5 @@
+7 9 soundscramble
+sceut 2 1 0
+ergan 4 1 1
+rogal 1 4 0
+oaglo 2 4 1

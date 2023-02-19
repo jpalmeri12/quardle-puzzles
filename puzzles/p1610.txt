@@ -1,0 +1,5 @@
+7 8
+usher 2 1 1
+argue 5 3 1
+wrung 1 5 0
+taker 2 7 0

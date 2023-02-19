@@ -1,0 +1,5 @@
+7 10 beta
+labor 1 1 0
+bayou 3 1 1
+tulle 2 5 0
+lying 4 5 1

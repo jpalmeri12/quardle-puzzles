@@ -1,0 +1,6 @@
+7 12 drop
+scrum 5 1 1
+psalm 1 5 0
+shank 2 5 1
+alone 2 7 0
+shorn 1 11 0

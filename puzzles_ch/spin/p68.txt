@@ -1,0 +1,5 @@
+7 10 spin
+uncle 4 1 1
+hymen 1 5 0
+moose 3 5 1
+lever 2 9 0

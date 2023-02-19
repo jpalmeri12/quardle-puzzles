@@ -1,0 +1,6 @@
+6 10 wordcolumn
+rebus 1 1 0
+bravo 3 1 1
+spare 5 1 1
+enema 1 5 1
+evoke 1 5 0

@@ -1,0 +1,5 @@
+7 10
+terra 5 1 1
+carve 1 2 0
+break 2 5 0
+khaki 6 5 1

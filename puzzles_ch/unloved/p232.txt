@@ -1,0 +1,5 @@
+6 10 unloved
+alibi 2 1 1
+eight 1 5 0
+greed 3 5 1
+inert 1 7 0

@@ -1,0 +1,6 @@
+6 11 drop
+droll 1 1 1
+latte 1 4 0
+those 3 4 1
+dusty 1 7 0
+ditty 1 10 0

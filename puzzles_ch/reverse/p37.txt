@@ -1,0 +1,5 @@
+7 9 reverse
+basal 2 1 1
+yaced 1 2 0
+apple 2 4 0
+ladom 5 4 1

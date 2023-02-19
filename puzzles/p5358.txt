@@ -1,0 +1,5 @@
+7 9
+cling 1 1 1
+grove 4 4 1
+glory 1 5 0
+movie 2 7 0

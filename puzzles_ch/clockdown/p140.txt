@@ -1,0 +1,5 @@
+7 8 clockdown
+theme 5 1 1
+askew 2 3 0
+shade 3 3 1
+frame 1 5 0

@@ -1,0 +1,5 @@
+7 9
+allot 6 1 1
+cello 2 4 0
+chaff 2 4 1
+afoul 1 8 0

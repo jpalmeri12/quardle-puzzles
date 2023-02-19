@@ -1,0 +1,6 @@
+6 8 squaredance
+clump 1 1 1
+enter 5 1 1
+crave 1 1 0
+poser 1 5 0
+shank 1 7 0

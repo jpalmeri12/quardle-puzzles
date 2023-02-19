@@ -1,0 +1,5 @@
+7 10
+ditto 4 1 1
+guppy 2 5 1
+groom 2 5 0
+upset 1 8 0

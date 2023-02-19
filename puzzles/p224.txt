@@ -1,0 +1,5 @@
+7 10
+freer 2 1 1
+fresh 1 5 0
+hence 5 5 1
+brine 2 7 0

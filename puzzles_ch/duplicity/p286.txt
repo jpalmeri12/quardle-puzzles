@@ -1,0 +1,5 @@
+6 9 duplicity
+sissy 1 1 0
+snout 3 1 1
+mount 1 4 0
+missy 1 4 1

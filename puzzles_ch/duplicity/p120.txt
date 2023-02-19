@@ -1,0 +1,5 @@
+7 10 duplicity
+iliac 4 1 1
+salve 2 2 0
+evict 1 5 0
+islet 3 5 1

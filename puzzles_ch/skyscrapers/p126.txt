@@ -1,0 +1,5 @@
+7 10 skyscrapers
+legal 3 5 1
+iliac 2 5 0
+pasta 5 1 1
+balmy 1 9 0

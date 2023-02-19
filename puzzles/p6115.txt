@@ -1,0 +1,5 @@
+7 8
+nicer 5 1 1
+pubic 1 3 0
+ulcer 2 3 1
+chart 2 5 0

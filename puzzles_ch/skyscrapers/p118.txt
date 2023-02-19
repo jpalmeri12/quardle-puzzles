@@ -1,0 +1,5 @@
+7 9 skyscrapers
+rarer 1 6 0
+awash 2 4 1
+adult 2 4 0
+cloth 6 1 1

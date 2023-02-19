@@ -1,0 +1,5 @@
+7 7 invention
+bacon 2 1 1
+payee 5 2 1
+clear 2 3 0
+snide 1 5 0

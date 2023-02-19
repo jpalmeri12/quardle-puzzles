@@ -1,0 +1,5 @@
+7 10 invention
+bleed 5 1 1
+tepid 1 5 0
+prowl 3 5 1
+blank 2 9 0

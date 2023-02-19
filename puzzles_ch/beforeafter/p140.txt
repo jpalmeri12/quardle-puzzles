@@ -1,0 +1,9 @@
+6 10 beforeafter
+turbo 1 1 0
+bayou 4 1 1
+lemur 1 5 0
+minty 3 5 1
+!beforeafter 2 p
+!beforeafter 1 l
+!beforeafter 2 p
+!beforeafter 2 r

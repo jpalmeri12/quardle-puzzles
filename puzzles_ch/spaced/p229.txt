@@ -1,0 +1,5 @@
+7 8 spaced
+omega 1 1 0
+admit 5 1 1
+grime 2 3 0
+grave 2 3 1

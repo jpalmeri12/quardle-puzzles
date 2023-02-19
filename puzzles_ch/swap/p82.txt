@@ -1,0 +1,5 @@
+7 10 swap
+bioem 3 1 1
+camle 1 5 0
+agtae 2 5 1
+acnny 2 8 0

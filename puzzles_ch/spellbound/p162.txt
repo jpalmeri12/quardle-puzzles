@@ -1,0 +1,9 @@
+7 10 spellbound
+cubic 2 1 1
+abase 1 3 0
+cloak 2 5 0
+optic 4 5 1
+!spellbound 0 1 0
+!spellbound 1 0 4
+!spellbound 2 3 4
+!spellbound 3 4 2

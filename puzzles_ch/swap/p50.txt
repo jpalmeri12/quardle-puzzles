@@ -1,0 +1,5 @@
+7 7 swap
+hsall 5 1 1
+eruse 2 2 0
+rpobe 3 2 1
+csowl 1 4 0

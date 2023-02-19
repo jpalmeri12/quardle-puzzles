@@ -1,0 +1,5 @@
+7 9 desync
+tying 5 1 1
+vomit 2 4 1
+vaunt 2 4 0
+stink 1 8 0

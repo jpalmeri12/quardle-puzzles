@@ -1,0 +1,5 @@
+7 10
+sense 5 1 1
+since 1 5 0
+naive 3 5 1
+avail 2 8 0

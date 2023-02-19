@@ -1,0 +1,5 @@
+7 8
+still 6 1 1
+chili 2 3 0
+inlay 4 3 1
+satyr 1 7 0

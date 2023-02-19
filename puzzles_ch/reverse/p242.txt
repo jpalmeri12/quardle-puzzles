@@ -1,0 +1,5 @@
+6 9 reverse
+light 5 1 1
+yhcti 1 2 0
+youth 1 4 0
+yfael 1 4 1

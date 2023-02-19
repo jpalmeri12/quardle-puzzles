@@ -1,0 +1,6 @@
+6 10 connectfive
+theta 1 1 1
+tiger 1 1 0
+aphid 1 5 0
+primo 2 5 1
+infer 4 5 1

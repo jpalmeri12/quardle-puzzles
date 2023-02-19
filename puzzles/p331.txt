@@ -1,0 +1,5 @@
+7 10
+fling 3 1 1
+aglow 2 5 0
+lunge 4 5 1
+sinew 1 9 0

@@ -1,0 +1,9 @@
+7 8 beforeafter
+begun 6 1 1
+wring 2 3 0
+wreak 2 3 1
+fanny 1 6 0
+!beforeafter 2 l
+!beforeafter 1 p
+!beforeafter 1 o
+!beforeafter 1 k

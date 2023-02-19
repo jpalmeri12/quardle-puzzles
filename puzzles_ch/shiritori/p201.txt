@@ -1,0 +1,5 @@
+7 9 shiritori
+loath 3 1 1
+roost 1 2 0
+brunt 5 4 1
+chard 2 5 0

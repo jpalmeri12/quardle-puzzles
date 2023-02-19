@@ -1,0 +1,5 @@
+7 10 swap
+tpoaz 1 1 0
+aodre 4 1 1
+wsear 2 5 0
+sutnk 3 5 1

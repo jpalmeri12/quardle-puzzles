@@ -1,0 +1,9 @@
+6 9 spellbound
+attic 1 1 0
+towel 2 1 1
+geese 1 4 0
+spoke 4 4 1
+!spellbound 0 3 4
+!spellbound 1 2 1
+!spellbound 2 4 2
+!spellbound 3 1 3

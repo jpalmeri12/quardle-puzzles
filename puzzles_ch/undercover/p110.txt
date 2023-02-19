@@ -1,0 +1,6 @@
+7 11 undercover
+green 1 1 0
+nutty 5 1 1
+earth 2 4 0
+acorn 3 4 1
+spill 1 10 0

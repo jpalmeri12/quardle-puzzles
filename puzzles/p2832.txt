@@ -1,0 +1,5 @@
+7 9
+diver 4 1 1
+debit 1 2 0
+attic 2 4 1
+throw 2 5 0

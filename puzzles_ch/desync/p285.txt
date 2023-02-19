@@ -1,0 +1,5 @@
+7 7 desync
+phase 3 1 1
+chard 2 2 0
+relax 5 2 1
+easel 1 4 0

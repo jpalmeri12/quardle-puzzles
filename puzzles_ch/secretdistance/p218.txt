@@ -1,0 +1,7 @@
+7 11 secretdistance
+tweed 2 1 1
+tried 2 1 0
+deuce 1 4 0
+exalt 5 4 1
+scuba 1 10 0
+!sdpos 1 3 1 0

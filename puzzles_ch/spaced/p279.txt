@@ -1,0 +1,5 @@
+7 9 spaced
+voila 2 1 1
+vigor 2 1 0
+ovary 4 4 1
+halve 1 5 0

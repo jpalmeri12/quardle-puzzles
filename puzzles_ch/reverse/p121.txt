@@ -1,0 +1,5 @@
+6 8 reverse
+ssolf 2 1 1
+parcs 5 3 1
+after 1 5 0
+dross 1 7 0

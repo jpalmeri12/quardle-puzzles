@@ -1,0 +1,5 @@
+6 9
+tripe 2 1 1
+apnea 1 4 0
+evoke 4 4 1
+onset 1 8 0

@@ -1,0 +1,6 @@
+7 10 undercover
+storm 3 1 1
+satyr 1 2 0
+beard 6 3 1
+grate 2 4 0
+cluck 1 9 0

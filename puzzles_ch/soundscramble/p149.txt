@@ -1,0 +1,5 @@
+7 10 soundscramble
+drout 2 1 1
+twuxt 2 5 0
+wring 3 5 1
+haite 1 7 0

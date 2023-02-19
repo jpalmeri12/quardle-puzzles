@@ -1,0 +1,5 @@
+7 9
+crave 1 1 0
+equal 5 1 1
+pecan 2 4 0
+pixel 2 4 1

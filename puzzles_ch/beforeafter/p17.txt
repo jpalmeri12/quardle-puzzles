@@ -1,0 +1,9 @@
+6 8 beforeafter
+petty 1 1 0
+tribe 3 1 1
+heron 5 3 1
+noble 1 4 0
+!beforeafter 1 r
+!beforeafter 1 l
+!beforeafter 1 l
+!beforeafter 1 m

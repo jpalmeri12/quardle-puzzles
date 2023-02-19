@@ -1,0 +1,5 @@
+7 9 spin
+droit 4 1 1
+whirl 1 2 0
+heavy 2 4 1
+heist 2 4 0

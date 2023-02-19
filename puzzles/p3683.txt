@@ -1,0 +1,5 @@
+7 10
+shush 6 1 1
+retch 2 5 0
+twirl 4 5 1
+adore 1 8 0

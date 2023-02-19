@@ -1,0 +1,5 @@
+7 10
+moral 4 1 1
+scary 1 3 0
+bylaw 2 5 0
+aroma 5 5 1

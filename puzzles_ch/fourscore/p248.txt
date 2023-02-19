@@ -1,0 +1,5 @@
+6 6 fourscore
+creak 2 1 1
+spiel 4 1 1
+crepe 1 2 0
+skulk 1 5 0

@@ -1,0 +1,5 @@
+7 10 beta
+video 4 1 1
+flail 1 2 0
+scoop 2 5 0
+spear 2 5 1

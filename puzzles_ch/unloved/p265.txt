@@ -1,0 +1,5 @@
+7 10 unloved
+leaky 6 1 1
+lorry 2 5 0
+lunar 2 5 1
+unzip 1 7 0

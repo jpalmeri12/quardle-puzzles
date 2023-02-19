@@ -1,0 +1,5 @@
+7 9 invention
+topaz 1 1 0
+pitch 3 1 1
+latte 6 4 1
+china 2 5 0

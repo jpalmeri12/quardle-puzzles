@@ -1,0 +1,5 @@
+6 8 bestfit
+budge 1 1 1
+boast 1 1 0
+stave 5 3 1
+ghost 1 4 0

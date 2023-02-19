@@ -1,0 +1,7 @@
+6 11 secretdistance
+ether 1 1 0
+tarot 2 1 1
+wound 1 4 0
+noisy 4 4 1
+taker 1 10 0
+!sdpos 3 0 3 1

@@ -1,0 +1,5 @@
+6 8 shiritori
+piggy 1 1 1
+yeast 5 3 1
+grave 1 4 0
+court 1 7 0

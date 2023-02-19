@@ -1,0 +1,9 @@
+6 9 spellbound
+login 2 1 1
+solve 1 2 0
+scale 4 4 1
+snuck 1 5 0
+!spellbound 0 0 3
+!spellbound 1 0 2
+!spellbound 2 3 4
+!spellbound 3 4 0

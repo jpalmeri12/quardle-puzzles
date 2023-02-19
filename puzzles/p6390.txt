@@ -1,0 +1,5 @@
+7 9
+chose 4 1 1
+lease 1 4 0
+etude 2 4 1
+dwarf 2 7 0

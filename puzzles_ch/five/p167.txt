@@ -1,0 +1,6 @@
+7 8 five
+asset 2 1 1
+usher 1 2 0
+charm 6 3 1
+epoch 2 4 0
+steam 2 7 0

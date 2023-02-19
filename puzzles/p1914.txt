@@ -1,0 +1,5 @@
+7 7
+urine 5 1 1
+stump 3 2 1
+staid 2 3 0
+femme 1 5 0

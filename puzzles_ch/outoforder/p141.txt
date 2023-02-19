@@ -1,0 +1,5 @@
+7 9 outoforder
+eject 1 1 0
+endow 3 1 1
+tramp 5 4 1
+twirl 2 5 0

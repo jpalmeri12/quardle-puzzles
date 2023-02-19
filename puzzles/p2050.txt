@@ -1,0 +1,5 @@
+7 10
+wrote 5 1 1
+mango 1 3 0
+widen 2 5 0
+navel 6 5 1

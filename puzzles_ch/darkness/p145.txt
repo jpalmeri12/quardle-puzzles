@@ -1,0 +1,5 @@
+7 9 darkness
+murky 6 1 1
+psalm 3 4 1
+spank 2 4 0
+delve 1 7 0

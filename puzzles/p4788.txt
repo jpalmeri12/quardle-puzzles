@@ -1,0 +1,5 @@
+7 10
+river 3 1 1
+moist 1 2 0
+greet 2 5 0
+tryst 6 5 1

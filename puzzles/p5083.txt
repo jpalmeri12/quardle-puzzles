@@ -1,0 +1,5 @@
+7 9
+kneed 2 1 1
+brown 5 4 1
+dowry 2 5 0
+feign 1 8 0

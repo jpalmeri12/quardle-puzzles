@@ -1,0 +1,5 @@
+7 9
+snaky 1 1 1
+krill 1 4 0
+lupus 5 4 1
+raspy 2 6 0

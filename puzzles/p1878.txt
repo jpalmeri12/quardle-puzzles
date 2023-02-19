@@ -1,0 +1,5 @@
+7 10
+chain 2 1 1
+newer 2 5 0
+ethic 3 5 1
+ulcer 1 9 0

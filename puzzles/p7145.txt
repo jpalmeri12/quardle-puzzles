@@ -1,0 +1,5 @@
+7 10
+antic 1 1 1
+chide 1 5 0
+hyper 2 5 1
+rebus 2 9 0

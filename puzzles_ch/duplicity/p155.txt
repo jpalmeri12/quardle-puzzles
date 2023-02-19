@@ -1,0 +1,5 @@
+7 10 duplicity
+delta 4 1 1
+steam 1 5 0
+mouse 5 5 1
+aloud 2 7 0

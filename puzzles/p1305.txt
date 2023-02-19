@@ -1,0 +1,5 @@
+7 9
+bunch 5 1 1
+bonus 2 2 0
+comic 1 4 0
+octet 2 4 1

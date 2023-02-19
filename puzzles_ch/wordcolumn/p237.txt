@@ -1,0 +1,6 @@
+7 10 wordcolumn
+antic 1 1 0
+chili 5 1 1
+lyric 2 5 0
+leper 2 5 1
+roach 4 5 1

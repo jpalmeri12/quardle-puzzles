@@ -1,0 +1,5 @@
+7 8 buyavowel
+scalp 1 1 0
+cliff 2 1 1
+cacti 5 3 1
+flick 2 5 0

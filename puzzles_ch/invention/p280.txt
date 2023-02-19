@@ -1,0 +1,5 @@
+7 10 invention
+crawl 4 1 1
+creak 1 3 0
+mulch 2 5 0
+morph 2 5 1

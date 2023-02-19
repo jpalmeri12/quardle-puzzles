@@ -1,0 +1,5 @@
+6 10 sweeper
+fritz 4 1 1
+learn 1 2 0
+amaze 1 5 0
+elite 5 5 1

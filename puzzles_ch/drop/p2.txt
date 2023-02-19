@@ -1,0 +1,6 @@
+7 12 drop
+spelt 5 1 1
+leapt 2 2 0
+apart 1 5 0
+agate 1 5 1
+pasta 1 11 0

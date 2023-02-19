@@ -1,0 +1,5 @@
+7 8
+fungi 5 1 1
+squad 2 3 1
+unfit 2 5 0
+udder 1 7 0

@@ -1,0 +1,6 @@
+6 8 squaredance
+sweat 1 1 1
+knock 5 1 1
+shuck 1 1 0
+truck 1 5 0
+pagan 1 7 0

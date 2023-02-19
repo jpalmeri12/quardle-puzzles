@@ -1,0 +1,6 @@
+6 12 wordcolumn
+diode 4 1 1
+shave 2 3 1
+shade 1 4 0
+femur 1 7 0
+unset 4 7 1

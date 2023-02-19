@@ -1,0 +1,6 @@
+7 7 island
+stash 1 1 0
+taboo 2 1 1
+eking 6 2 1
+blink 2 3 0
+!island 211 1111 2111 32

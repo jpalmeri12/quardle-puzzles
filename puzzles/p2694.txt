@@ -1,0 +1,5 @@
+7 10
+hairy 5 1 1
+catty 1 5 0
+amuse 2 5 1
+edict 2 9 0

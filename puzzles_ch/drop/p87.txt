@@ -1,0 +1,6 @@
+6 12 drop
+stomp 1 1 1
+probe 1 5 0
+blush 4 5 1
+fugue 1 7 0
+maple 1 11 0

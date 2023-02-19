@@ -1,0 +1,6 @@
+7 10 drop
+login 5 1 1
+yeast 3 3 1
+devil 2 4 0
+ditch 1 7 0
+giddy 1 9 0

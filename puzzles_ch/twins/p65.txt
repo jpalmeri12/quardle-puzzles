@@ -1,0 +1,8 @@
+6 8 twins
+doubt 1 1 0
+slope 1 3 0
+worse 1 5 0
+spool 1 7 0
+!twins 0 4
+!twins 1 2
+!twins 0 3

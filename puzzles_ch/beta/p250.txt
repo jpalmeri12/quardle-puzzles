@@ -1,0 +1,5 @@
+7 9 beta
+snarl 1 1 1
+raspy 1 4 0
+pupil 4 4 1
+cried 2 7 0

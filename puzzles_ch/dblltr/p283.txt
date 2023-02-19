@@ -1,0 +1,5 @@
+7 10 dblltr
+mania 2 1 1
+avail 2 5 0
+idiom 5 5 1
+outgo 1 8 0

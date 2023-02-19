@@ -1,0 +1,5 @@
+7 9
+fried 1 1 0
+elide 4 1 1
+parer 6 4 1
+theta 2 5 0

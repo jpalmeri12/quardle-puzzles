@@ -1,0 +1,5 @@
+6 10 desync
+rodeo 3 1 1
+group 1 2 0
+whoop 1 5 0
+omega 4 5 1

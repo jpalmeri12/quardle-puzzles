@@ -1,0 +1,5 @@
+7 9
+chump 4 1 1
+lumpy 2 4 1
+upper 2 5 0
+optic 1 7 0

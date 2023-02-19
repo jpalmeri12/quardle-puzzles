@@ -1,0 +1,5 @@
+7 9 duplicity
+ombre 1 1 0
+boney 3 1 1
+yearn 2 4 0
+rearm 5 4 1

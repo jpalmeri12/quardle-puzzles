@@ -1,0 +1,5 @@
+6 8 reverse
+robot 5 1 1
+ylwol 2 3 1
+ylddo 1 4 0
+glade 1 7 0

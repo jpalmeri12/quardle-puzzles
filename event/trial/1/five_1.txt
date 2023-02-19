@@ -1,0 +1,6 @@
+6 12 five
+upset 5 1 1
+cider 1 4 1
+cutie 1 4 0
+essay 1 7 0
+sorry 3 7 1

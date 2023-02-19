@@ -1,0 +1,6 @@
+7 7 island
+beard 5 1 1
+scare 1 2 0
+cluck 2 2 1
+usurp 2 4 0
+!island 311 41 211 1111

@@ -1,0 +1,9 @@
+7 10 beforeafter
+sushi 4 1 1
+stump 2 5 1
+slide 2 5 0
+spine 1 9 0
+!beforeafter 2 q
+!beforeafter 2 q
+!beforeafter 1 j
+!beforeafter 1 o

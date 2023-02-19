@@ -1,0 +1,5 @@
+7 10 frequency
+canal 5 1 1
+login 1 3 0
+cable 2 5 0
+elfin 6 5 1

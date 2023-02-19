@@ -1,0 +1,5 @@
+6 9 dblltr
+abbot 2 1 1
+class 5 4 1
+steel 1 5 0
+press 1 7 0

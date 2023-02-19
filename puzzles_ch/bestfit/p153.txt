@@ -1,0 +1,5 @@
+6 9 bestfit
+today 2 1 1
+rabbi 1 4 0
+briar 4 4 1
+break 1 7 0

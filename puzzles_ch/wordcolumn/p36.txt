@@ -1,0 +1,6 @@
+7 9 wordcolumn
+cubic 1 1 1
+crane 1 1 0
+crony 3 4 1
+carve 1 5 0
+entry 2 7 0

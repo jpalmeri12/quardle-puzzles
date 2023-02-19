@@ -1,0 +1,5 @@
+7 9 outoforder
+woozy 5 1 1
+topaz 1 4 0
+prize 3 4 1
+ozone 2 7 0

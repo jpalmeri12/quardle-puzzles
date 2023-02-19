@@ -1,0 +1,5 @@
+7 9 scrabble
+grail 1 7 0
+ionic 4 4 1
+brief 2 4 0
+unify 6 1 1

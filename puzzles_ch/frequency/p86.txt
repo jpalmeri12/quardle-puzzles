@@ -1,0 +1,5 @@
+7 10 frequency
+gorge 4 1 1
+lager 1 5 0
+assay 2 5 1
+amaze 2 8 0

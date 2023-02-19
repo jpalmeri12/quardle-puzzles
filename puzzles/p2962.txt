@@ -1,0 +1,5 @@
+7 9
+brake 2 1 1
+known 2 4 0
+often 4 4 1
+bluer 1 7 0

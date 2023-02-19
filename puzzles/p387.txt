@@ -1,0 +1,5 @@
+7 10
+woozy 5 1 1
+snoop 2 2 0
+enjoy 1 5 0
+ninja 2 5 1

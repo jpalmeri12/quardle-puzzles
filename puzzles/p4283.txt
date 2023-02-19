@@ -1,0 +1,5 @@
+7 9
+frond 3 1 1
+grove 2 2 0
+minus 1 4 0
+meaty 1 4 1

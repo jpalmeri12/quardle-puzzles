@@ -1,0 +1,6 @@
+6 9 undercover
+cheap 5 1 1
+widen 3 2 1
+twine 1 3 0
+bleep 1 5 0
+fussy 1 8 0

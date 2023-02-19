@@ -1,0 +1,5 @@
+6 8 clockdown
+ahead 5 1 1
+spray 2 3 1
+tread 1 5 0
+lynch 1 7 0

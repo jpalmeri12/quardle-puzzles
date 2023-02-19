@@ -1,0 +1,5 @@
+6 10 swap
+patyt 1 1 1
+twxit 1 5 0
+xeact 3 5 1
+graez 1 7 0

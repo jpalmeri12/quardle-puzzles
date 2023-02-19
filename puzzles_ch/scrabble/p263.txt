@@ -1,0 +1,5 @@
+7 10 scrabble
+unmet 4 1 1
+ditty 1 5 0
+thief 3 5 1
+widow 2 7 0

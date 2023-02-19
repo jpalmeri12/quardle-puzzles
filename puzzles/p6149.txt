@@ -1,0 +1,5 @@
+7 10
+bloat 5 1 1
+gloom 2 3 0
+apart 1 5 0
+rebut 4 5 1

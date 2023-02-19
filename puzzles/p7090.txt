@@ -1,0 +1,5 @@
+7 10
+dwarf 2 1 1
+nasal 1 3 0
+flail 2 5 0
+least 6 5 1

@@ -1,0 +1,5 @@
+7 9
+imply 1 1 1
+leper 1 4 0
+rider 5 4 1
+bused 2 7 0

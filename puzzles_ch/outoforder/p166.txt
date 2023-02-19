@@ -1,0 +1,5 @@
+7 10 outoforder
+idler 1 1 0
+ledge 3 1 1
+bezel 2 5 0
+brawn 2 5 1

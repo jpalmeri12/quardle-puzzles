@@ -1,0 +1,5 @@
+7 8 sweeper
+yacht 1 1 1
+stage 3 3 1
+hutch 1 4 0
+weedy 2 7 0

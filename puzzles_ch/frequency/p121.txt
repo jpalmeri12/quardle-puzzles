@@ -1,0 +1,5 @@
+7 9 frequency
+allot 3 1 1
+holly 1 2 0
+totem 2 4 0
+might 6 4 1

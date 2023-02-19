@@ -1,0 +1,5 @@
+7 9
+reach 4 1 1
+tacit 2 4 0
+tense 2 4 1
+aside 1 7 0

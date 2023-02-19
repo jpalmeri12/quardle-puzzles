@@ -1,0 +1,5 @@
+7 10 spaced
+cairn 4 1 1
+plain 2 5 1
+penal 2 5 0
+hater 1 7 0

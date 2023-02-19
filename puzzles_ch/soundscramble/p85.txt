@@ -1,0 +1,5 @@
+7 7 soundscramble
+triat 2 1 1
+reict 2 2 0
+ilert 4 2 1
+laver 1 4 0

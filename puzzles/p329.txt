@@ -1,0 +1,5 @@
+7 10
+tilde 3 1 1
+blood 2 3 0
+tweed 1 5 0
+tenth 1 5 1

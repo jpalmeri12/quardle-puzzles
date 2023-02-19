@@ -1,0 +1,5 @@
+7 9
+enemy 2 1 1
+needy 2 2 0
+smite 1 4 0
+eclat 5 4 1

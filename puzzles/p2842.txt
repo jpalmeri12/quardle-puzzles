@@ -1,0 +1,5 @@
+7 9
+crimp 5 1 1
+homer 1 2 0
+grime 2 4 0
+retro 3 4 1

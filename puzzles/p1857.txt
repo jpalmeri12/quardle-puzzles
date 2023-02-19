@@ -1,0 +1,5 @@
+7 10
+sting 1 1 0
+ninja 4 1 1
+ovary 2 5 0
+yearn 6 5 1

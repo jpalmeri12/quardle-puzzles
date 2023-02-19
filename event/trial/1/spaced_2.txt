@@ -1,0 +1,5 @@
+7 10 spaced
+music 5 1 1
+locus 1 3 0
+latch 2 5 0
+today 4 5 1

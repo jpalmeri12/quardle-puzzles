@@ -1,0 +1,5 @@
+7 8 clockdown
+fling 2 1 1
+kneed 4 3 1
+glean 2 5 0
+woody 1 7 0

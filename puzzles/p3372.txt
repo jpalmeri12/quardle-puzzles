@@ -1,0 +1,5 @@
+7 9
+grain 5 1 1
+upper 3 4 1
+ripen 1 5 0
+fetal 2 7 0

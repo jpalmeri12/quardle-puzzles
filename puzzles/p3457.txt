@@ -1,0 +1,5 @@
+7 10
+mambo 4 1 1
+broom 2 5 0
+rouse 3 5 1
+chute 1 7 0

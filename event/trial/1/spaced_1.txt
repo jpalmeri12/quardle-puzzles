@@ -1,0 +1,5 @@
+7 9 spaced
+buyer 5 1 1
+twice 1 4 0
+water 2 4 1
+raven 2 8 0

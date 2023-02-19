@@ -1,0 +1,5 @@
+6 10 assembly
+rerun 1 3 1
+troll 5 3 1
+tract 1 1 0
+pupal 1 9 0

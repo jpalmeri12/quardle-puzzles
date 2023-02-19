@@ -1,0 +1,5 @@
+7 9 buyavowel
+using 1 1 0
+shift 2 1 1
+fauna 2 4 0
+natal 5 4 1

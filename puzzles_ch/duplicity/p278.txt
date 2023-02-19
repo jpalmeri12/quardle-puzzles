@@ -1,0 +1,5 @@
+7 9 duplicity
+rigor 1 1 1
+other 5 4 1
+right 1 5 0
+greet 2 7 0

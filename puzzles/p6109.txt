@@ -1,0 +1,5 @@
+7 9
+jerky 5 1 1
+bowel 2 2 0
+skunk 1 4 0
+shell 1 4 1

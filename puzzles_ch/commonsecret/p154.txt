@@ -1,0 +1,6 @@
+7 7 commonsecret
+viper 3 1 1
+doing 1 2 0
+grime 5 2 1
+helix 2 4 0
+!secret i

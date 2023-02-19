@@ -1,0 +1,5 @@
+6 9
+decor 3 1 1
+bleed 1 2 0
+primo 5 4 1
+surer 1 5 0

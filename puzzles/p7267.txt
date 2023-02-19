@@ -1,0 +1,5 @@
+6 9
+goose 3 1 1
+sulky 1 4 1
+sassy 1 4 0
+known 1 7 0

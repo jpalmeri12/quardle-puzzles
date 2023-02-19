@@ -1,0 +1,5 @@
+7 9
+dicey 5 1 1
+gauge 1 4 0
+unfed 3 4 1
+leach 2 7 0

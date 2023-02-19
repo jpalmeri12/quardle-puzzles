@@ -1,0 +1,5 @@
+6 8
+blare 1 1 0
+lusty 2 1 1
+puree 4 3 1
+hydro 1 5 0

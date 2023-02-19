@@ -1,0 +1,6 @@
+6 10 five
+arise 5 1 1
+sheer 2 2 1
+khaki 1 3 0
+tease 1 5 0
+scion 4 5 1

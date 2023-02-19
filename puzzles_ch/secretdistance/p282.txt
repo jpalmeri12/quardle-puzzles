@@ -1,0 +1,7 @@
+7 11 secretdistance
+right 2 1 1
+chasm 1 4 0
+merit 5 4 1
+waltz 2 8 0
+cluck 1 10 0
+!sdpos 0 2 2 2

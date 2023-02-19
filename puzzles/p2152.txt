@@ -1,0 +1,5 @@
+7 9
+squad 1 1 1
+whirl 5 4 1
+ditch 1 5 0
+swore 2 7 0

@@ -1,0 +1,5 @@
+7 10
+hazel 5 1 1
+maple 2 5 0
+pecan 4 5 1
+finch 1 7 0

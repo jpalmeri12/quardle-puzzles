@@ -1,0 +1,5 @@
+7 9 bestfit
+chirp 2 1 1
+frown 1 4 0
+width 4 4 1
+fetus 2 7 0

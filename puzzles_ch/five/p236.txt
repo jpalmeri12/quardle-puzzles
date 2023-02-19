@@ -1,0 +1,6 @@
+7 10 five
+vigil 2 1 1
+swash 5 4 1
+allow 1 5 0
+login 3 5 1
+night 2 8 0

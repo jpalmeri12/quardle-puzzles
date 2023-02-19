@@ -1,0 +1,5 @@
+7 9
+acrid 6 1 1
+cacti 2 4 0
+creek 4 4 1
+awoke 1 8 0

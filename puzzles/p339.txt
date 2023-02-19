@@ -1,0 +1,5 @@
+7 10
+lunch 4 1 1
+study 2 2 0
+night 1 5 0
+tacit 5 5 1

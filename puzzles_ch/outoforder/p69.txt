@@ -1,0 +1,5 @@
+7 10 outoforder
+scald 5 1 1
+spade 2 5 0
+penal 3 5 1
+tenet 1 7 0

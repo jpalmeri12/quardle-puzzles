@@ -1,0 +1,5 @@
+7 9 buyavowel
+sport 3 1 1
+tapir 1 2 0
+crick 2 4 0
+kebab 6 4 1

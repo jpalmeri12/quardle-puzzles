@@ -1,0 +1,5 @@
+7 9 spin
+wrist 2 1 1
+rogue 2 2 0
+askew 1 4 0
+wrack 5 4 1

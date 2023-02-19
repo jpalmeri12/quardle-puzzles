@@ -1,0 +1,6 @@
+7 10 connectfive
+guest 2 1 1
+grown 2 1 0
+ennui 2 3 0
+state 1 5 0
+trove 4 5 1

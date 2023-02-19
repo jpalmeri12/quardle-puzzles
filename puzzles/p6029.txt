@@ -1,0 +1,5 @@
+7 8
+force 6 1 1
+spoon 2 3 1
+ombre 2 5 0
+enact 1 7 0

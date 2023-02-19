@@ -1,0 +1,5 @@
+6 9 buyavowel
+caddy 4 1 1
+aside 1 4 0
+shall 2 4 1
+sleep 1 7 0

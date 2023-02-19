@@ -1,0 +1,5 @@
+7 9
+fully 4 1 1
+knelt 1 3 0
+rumor 6 4 1
+bayou 2 5 0

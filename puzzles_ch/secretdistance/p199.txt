@@ -1,0 +1,7 @@
+6 9 secretdistance
+genre 4 1 1
+piney 1 2 0
+porch 1 2 1
+retro 1 4 0
+lurid 1 8 0
+!sdpos 1 2 3 3

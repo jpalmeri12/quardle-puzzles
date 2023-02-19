@@ -1,0 +1,9 @@
+7 9 beforeafter
+rumba 4 1 1
+flout 1 2 0
+spank 2 4 1
+place 2 5 0
+!beforeafter 1 o
+!beforeafter 2 q
+!beforeafter 1 o
+!beforeafter 1 j

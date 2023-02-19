@@ -1,0 +1,5 @@
+7 10 spin
+ennui 6 1 1
+radii 2 5 0
+ingot 5 5 1
+ditto 1 8 0

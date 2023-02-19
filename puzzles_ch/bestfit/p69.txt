@@ -1,0 +1,5 @@
+6 6 bestfit
+fungi 2 1 1
+idiot 5 1 1
+lucid 1 2 0
+igloo 1 4 0

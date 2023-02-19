@@ -1,0 +1,5 @@
+7 8
+grimy 2 1 1
+grant 2 1 0
+crane 5 3 1
+smear 1 4 0

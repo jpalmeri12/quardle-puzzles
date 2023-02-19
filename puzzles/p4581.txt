@@ -1,0 +1,5 @@
+7 10
+pitch 4 1 1
+pushy 1 5 0
+scalp 3 5 1
+spasm 2 9 0

@@ -1,0 +1,5 @@
+7 10 spin
+vapor 1 1 0
+rhino 5 1 1
+taboo 2 5 0
+beady 4 5 1

@@ -1,0 +1,5 @@
+7 10
+viper 6 1 1
+vicar 2 5 0
+idiom 3 5 1
+mammy 1 9 0

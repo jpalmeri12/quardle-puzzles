@@ -1,0 +1,5 @@
+7 10 soundscramble
+orgue 2 1 0
+ganod 4 1 1
+harde 1 5 1
+hondy 1 5 0

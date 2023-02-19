@@ -1,0 +1,5 @@
+7 8 bestfit
+logic 6 1 1
+lance 2 3 1
+lying 2 3 0
+scowl 1 6 0

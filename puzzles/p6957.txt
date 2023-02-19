@@ -1,0 +1,5 @@
+7 9
+rebel 4 1 1
+leery 2 2 0
+roger 1 4 0
+ruler 1 4 1

@@ -1,0 +1,6 @@
+7 12 undercover
+bayou 3 1 1
+cumin 2 5 0
+mucky 4 5 1
+polka 1 8 0
+hedge 1 11 0

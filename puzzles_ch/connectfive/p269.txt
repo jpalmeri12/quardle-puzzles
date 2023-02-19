@@ -1,0 +1,6 @@
+7 10 connectfive
+minim 3 1 1
+solar 5 1 1
+ankle 2 3 0
+homer 1 5 0
+ozone 2 5 1

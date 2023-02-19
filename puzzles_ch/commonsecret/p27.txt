@@ -1,0 +1,6 @@
+7 8 commonsecret
+under 1 1 0
+nerdy 2 1 1
+radii 2 3 0
+idiom 5 3 1
+!secret d

@@ -1,0 +1,5 @@
+6 10 soundscramble
+pateo 1 1 1
+avoed 1 2 0
+ozoni 1 5 0
+ixeli 5 5 1

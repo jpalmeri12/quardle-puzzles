@@ -1,0 +1,5 @@
+7 8 skyscrapers
+women 1 4 0
+rainy 5 1 1
+blurb 2 1 0
+amply 3 3 1

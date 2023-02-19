@@ -1,0 +1,5 @@
+6 8
+tabby 4 1 1
+boney 2 3 1
+hobby 1 4 0
+hymen 1 7 0

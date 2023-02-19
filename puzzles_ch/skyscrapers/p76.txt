@@ -1,0 +1,5 @@
+7 8 skyscrapers
+trail 3 1 1
+tardy 2 3 0
+dowel 5 3 1
+allow 1 5 0

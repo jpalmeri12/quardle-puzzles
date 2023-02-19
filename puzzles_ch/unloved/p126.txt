@@ -1,0 +1,5 @@
+7 9 unloved
+natal 2 1 1
+paler 1 2 0
+alert 2 4 0
+tiara 6 4 1

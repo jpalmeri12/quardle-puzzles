@@ -1,0 +1,5 @@
+6 9
+fable 3 1 1
+stave 1 2 0
+phase 5 4 1
+flesh 1 5 0

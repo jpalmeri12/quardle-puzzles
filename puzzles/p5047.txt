@@ -1,0 +1,5 @@
+7 9
+soapy 2 1 1
+overt 2 2 0
+spoof 1 4 0
+fjord 5 4 1

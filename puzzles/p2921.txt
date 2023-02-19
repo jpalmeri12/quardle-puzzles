@@ -1,0 +1,5 @@
+7 7
+leper 3 1 1
+spent 1 2 0
+tangy 5 2 1
+being 2 4 0

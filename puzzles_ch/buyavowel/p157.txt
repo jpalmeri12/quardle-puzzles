@@ -1,0 +1,5 @@
+7 10 buyavowel
+chili 4 1 1
+right 1 2 0
+drive 2 5 0
+drier 2 5 1

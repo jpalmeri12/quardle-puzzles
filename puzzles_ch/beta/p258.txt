@@ -1,0 +1,5 @@
+7 10 beta
+cacao 2 1 1
+sower 1 5 0
+wryly 3 5 1
+lyric 2 7 0

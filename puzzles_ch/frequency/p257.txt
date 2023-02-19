@@ -1,0 +1,5 @@
+7 10 frequency
+fetus 2 1 1
+weigh 1 2 0
+scoff 2 5 0
+fraud 5 5 1

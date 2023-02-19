@@ -1,0 +1,5 @@
+7 10
+bough 6 1 1
+speed 2 5 1
+swash 2 5 0
+edict 1 9 0

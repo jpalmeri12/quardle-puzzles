@@ -1,0 +1,5 @@
+7 10 dblltr
+thigh 4 1 1
+ether 2 5 0
+elect 5 5 1
+revue 1 7 0

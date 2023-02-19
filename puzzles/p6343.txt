@@ -1,0 +1,5 @@
+6 9
+shark 1 1 0
+acute 3 1 1
+motor 1 4 0
+medal 1 4 1

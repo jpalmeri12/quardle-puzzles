@@ -1,0 +1,5 @@
+7 10 beta
+gonad 2 1 1
+donut 1 2 0
+debug 2 5 0
+broom 4 5 1

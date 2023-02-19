@@ -1,0 +1,5 @@
+7 10
+waive 5 1 1
+ennui 1 3 0
+cagey 2 5 0
+clung 2 5 1

@@ -1,0 +1,9 @@
+7 9 spellbound
+remit 2 1 0
+miser 4 1 1
+gamer 1 4 0
+aptly 2 4 1
+!spellbound 0 3 0
+!spellbound 1 4 1
+!spellbound 2 2 4
+!spellbound 3 4 2

@@ -1,0 +1,7 @@
+7 12 secretdistance
+style 3 1 1
+bylaw 2 3 0
+sleet 1 5 0
+snarl 1 5 1
+booby 1 11 0
+!sdpos 2 0 2 1

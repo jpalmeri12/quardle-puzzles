@@ -1,0 +1,5 @@
+7 8 darkness
+detox 2 7 0
+leggy 1 5 0
+nosey 5 1 1
+dread 2 3 1

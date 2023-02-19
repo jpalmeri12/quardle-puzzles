@@ -1,0 +1,5 @@
+7 10 invention
+renew 2 1 1
+swift 1 5 0
+flume 4 5 1
+steed 2 9 0

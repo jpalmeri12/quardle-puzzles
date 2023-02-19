@@ -1,0 +1,5 @@
+7 8
+bicep 6 1 1
+glyph 3 3 1
+blaze 2 4 0
+abhor 1 7 0

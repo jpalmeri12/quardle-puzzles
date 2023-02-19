@@ -1,0 +1,5 @@
+7 8
+munch 3 1 1
+cream 5 3 1
+wheel 2 5 0
+swarm 1 7 0

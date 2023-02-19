@@ -1,0 +1,5 @@
+7 9
+flour 2 1 0
+friar 2 1 1
+stalk 4 4 1
+froth 1 5 0

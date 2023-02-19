@@ -1,0 +1,5 @@
+7 9
+gonad 2 1 0
+nosey 4 1 1
+twice 1 4 1
+timer 1 4 0

@@ -1,0 +1,5 @@
+6 8
+power 5 1 1
+bleak 2 3 1
+plume 1 4 0
+skunk 1 7 0

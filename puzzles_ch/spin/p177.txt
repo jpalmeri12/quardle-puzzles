@@ -1,0 +1,5 @@
+7 10 spin
+humid 5 1 1
+undid 1 5 0
+nudge 2 5 1
+glyph 2 8 0

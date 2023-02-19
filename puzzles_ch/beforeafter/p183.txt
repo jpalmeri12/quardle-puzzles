@@ -1,0 +1,9 @@
+6 8 beforeafter
+micro 3 1 1
+input 5 3 1
+baron 1 4 0
+inert 1 7 0
+!beforeafter 2 n
+!beforeafter 2 r
+!beforeafter 1 k
+!beforeafter 2 q

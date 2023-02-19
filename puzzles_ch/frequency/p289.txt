@@ -1,0 +1,5 @@
+7 8 frequency
+flown 4 1 1
+villa 2 3 1
+slant 1 5 0
+adapt 2 7 0

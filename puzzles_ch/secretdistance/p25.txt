@@ -1,0 +1,7 @@
+6 12 secretdistance
+igloo 2 1 1
+moody 1 5 0
+merit 1 5 1
+recur 1 7 0
+class 1 11 0
+!sdpos 3 2 2 2

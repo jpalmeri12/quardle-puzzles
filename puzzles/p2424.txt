@@ -1,0 +1,5 @@
+7 9
+table 2 1 1
+loyal 2 4 0
+anvil 5 4 1
+fatal 1 8 0

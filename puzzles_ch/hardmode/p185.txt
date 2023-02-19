@@ -1,0 +1,5 @@
+7 8 hardmode
+vinyl 6 1 1
+medal 3 3 1
+zesty 2 4 0
+shard 1 6 0

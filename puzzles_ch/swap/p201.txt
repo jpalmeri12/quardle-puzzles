@@ -1,0 +1,5 @@
+7 8 swap
+srory 4 1 1
+fliet 2 3 1
+blure 1 4 0
+taemr 2 7 0

@@ -1,0 +1,5 @@
+7 7 skyscrapers
+welsh 1 2 0
+hydro 5 2 1
+caddy 2 4 0
+bloat 3 1 1

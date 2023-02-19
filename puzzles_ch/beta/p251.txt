@@ -1,0 +1,5 @@
+7 9 beta
+noble 3 1 1
+sooth 2 2 0
+again 1 4 1
+guess 1 5 0

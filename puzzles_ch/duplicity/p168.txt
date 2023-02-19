@@ -1,0 +1,5 @@
+7 10 duplicity
+slung 3 1 1
+blunt 2 2 0
+bugle 1 5 0
+unset 2 5 1

@@ -1,0 +1,9 @@
+6 9 beforeafter
+entry 5 1 1
+demur 1 4 0
+metro 3 4 1
+abort 1 8 0
+!beforeafter 1 q
+!beforeafter 1 i
+!beforeafter 1 n
+!beforeafter 2 p

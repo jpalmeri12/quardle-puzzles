@@ -1,0 +1,5 @@
+7 9 elbowroom
+shack 5 1 1
+couch 3 4 1
+stock 1 5 0
+scald 2 7 0

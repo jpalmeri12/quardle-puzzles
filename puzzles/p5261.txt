@@ -1,0 +1,5 @@
+7 10
+humor 4 1 1
+bonus 1 2 0
+merge 2 5 0
+money 2 5 1

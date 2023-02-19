@@ -1,0 +1,6 @@
+7 10 connectfive
+dowel 2 1 1
+oxide 2 2 0
+alibi 1 5 0
+altar 1 5 1
+tract 1 7 0

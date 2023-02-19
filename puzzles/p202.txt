@@ -1,0 +1,5 @@
+7 8
+truss 6 1 1
+heath 4 3 1
+cress 2 4 0
+catty 1 6 0

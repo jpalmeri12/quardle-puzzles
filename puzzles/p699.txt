@@ -1,0 +1,5 @@
+7 10
+melon 4 1 1
+tangy 2 5 0
+azure 3 5 1
+surge 1 8 0

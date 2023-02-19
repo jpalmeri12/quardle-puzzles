@@ -1,0 +1,5 @@
+7 9 shiritori
+goody 1 1 1
+dumpy 1 4 0
+macro 3 4 1
+scant 2 6 0

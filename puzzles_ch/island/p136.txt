@@ -1,0 +1,6 @@
+7 10 island
+grind 5 1 1
+flail 2 3 0
+rigid 1 5 0
+intro 2 5 1
+!island 2111 1111 211 221

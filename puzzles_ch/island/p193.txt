@@ -1,0 +1,6 @@
+6 9 island
+cocoa 4 1 1
+abbot 1 4 0
+arena 1 4 1
+ninja 1 7 0
+!island 111 1111 211 31

@@ -1,0 +1,5 @@
+7 7 sweeper
+stilt 2 1 1
+stall 1 2 0
+lever 4 2 1
+tweak 2 5 0

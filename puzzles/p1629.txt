@@ -1,0 +1,5 @@
+7 7
+three 1 1 1
+hedge 1 2 0
+gnash 4 2 1
+rehab 2 6 0

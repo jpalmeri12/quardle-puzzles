@@ -1,0 +1,6 @@
+7 11 drop
+wacky 5 1 1
+break 2 2 0
+drank 1 4 0
+draft 1 4 1
+ruddy 1 10 0

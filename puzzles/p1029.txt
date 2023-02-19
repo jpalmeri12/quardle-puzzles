@@ -1,0 +1,5 @@
+6 7
+snarl 4 1 1
+drink 1 2 0
+dusky 1 2 1
+story 1 4 0

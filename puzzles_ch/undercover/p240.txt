@@ -1,0 +1,6 @@
+7 12 undercover
+alibi 2 1 1
+issue 2 5 0
+skate 3 5 1
+butch 1 8 0
+worry 1 11 0

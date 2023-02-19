@@ -1,0 +1,5 @@
+7 10 shiritori
+tenet 4 1 1
+gusto 1 5 0
+stilt 3 5 1
+tilde 2 7 0

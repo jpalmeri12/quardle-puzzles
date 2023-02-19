@@ -1,0 +1,5 @@
+7 8
+holly 2 1 0
+lurch 4 1 1
+khaki 2 3 1
+shock 1 4 0

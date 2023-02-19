@@ -1,0 +1,5 @@
+7 9
+flood 4 1 1
+birth 2 4 1
+boozy 2 4 0
+stock 1 7 0

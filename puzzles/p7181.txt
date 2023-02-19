@@ -1,0 +1,5 @@
+7 10
+hazel 2 1 1
+caper 1 2 0
+lapse 2 5 0
+aloft 3 5 1

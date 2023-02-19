@@ -1,0 +1,5 @@
+7 9
+skier 4 1 1
+liken 2 2 0
+tepee 1 4 0
+endow 2 4 1

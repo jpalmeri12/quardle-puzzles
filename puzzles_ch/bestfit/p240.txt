@@ -1,0 +1,5 @@
+6 8 bestfit
+biome 2 1 1
+nylon 5 3 1
+amply 1 4 0
+bacon 1 7 0

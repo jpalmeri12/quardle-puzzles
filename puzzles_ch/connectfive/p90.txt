@@ -1,0 +1,6 @@
+6 9 connectfive
+stern 1 1 1
+claim 3 1 1
+tulip 1 2 0
+rhino 1 4 0
+offal 5 4 1

@@ -1,0 +1,5 @@
+6 9
+mossy 4 1 1
+quest 1 4 0
+undue 2 4 1
+pesky 1 8 0

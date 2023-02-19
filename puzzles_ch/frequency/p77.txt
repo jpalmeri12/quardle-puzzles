@@ -1,0 +1,5 @@
+7 10 frequency
+tower 4 1 1
+spore 2 2 0
+agora 1 5 0
+abort 5 5 1

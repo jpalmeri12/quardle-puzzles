@@ -1,0 +1,5 @@
+6 10
+brook 1 1 0
+roach 2 1 1
+shock 1 5 0
+child 4 5 1

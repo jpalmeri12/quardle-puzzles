@@ -1,0 +1,5 @@
+7 10 spin
+cacao 4 1 1
+stony 2 5 0
+truth 3 5 1
+route 1 7 0

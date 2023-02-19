@@ -1,0 +1,5 @@
+7 10
+saner 5 1 1
+umbra 1 2 0
+scald 2 5 1
+spark 2 5 0

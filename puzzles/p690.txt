@@ -1,0 +1,5 @@
+7 8
+champ 3 1 1
+racer 2 3 0
+elude 5 3 1
+trice 1 7 0

@@ -1,0 +1,5 @@
+6 6
+doubt 2 1 1
+baker 5 1 1
+dogma 1 2 0
+steer 1 5 0

@@ -1,0 +1,5 @@
+7 10 hardmode
+score 5 1 1
+voice 2 2 0
+ingot 1 5 1
+inane 1 5 0

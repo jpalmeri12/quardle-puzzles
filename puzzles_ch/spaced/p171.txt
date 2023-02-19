@@ -1,0 +1,5 @@
+7 7 spaced
+guise 1 1 0
+salvo 4 1 1
+warty 6 2 1
+float 2 5 0

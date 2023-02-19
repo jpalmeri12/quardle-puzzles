@@ -1,0 +1,5 @@
+7 10 spin
+badge 4 1 1
+wordy 1 3 0
+omega 2 5 0
+masse 3 5 1

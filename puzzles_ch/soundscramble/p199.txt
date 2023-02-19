@@ -1,0 +1,5 @@
+7 9 soundscramble
+afuut 2 1 0
+aogor 2 1 1
+lorch 1 4 0
+hardy 5 4 1

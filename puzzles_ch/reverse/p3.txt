@@ -1,0 +1,5 @@
+6 10 reverse
+sower 3 1 1
+merah 1 5 0
+heart 5 5 1
+yksir 1 8 0

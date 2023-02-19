@@ -1,0 +1,6 @@
+7 10 connectfive
+fugue 2 1 0
+usage 5 1 1
+evade 1 5 0
+erase 1 5 1
+ethos 1 9 0

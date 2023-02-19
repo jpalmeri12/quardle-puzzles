@@ -1,0 +1,5 @@
+7 7
+tonic 6 1 1
+minim 4 2 1
+ennui 2 4 0
+mamma 1 6 0

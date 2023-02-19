@@ -1,0 +1,5 @@
+7 8 bestfit
+begin 1 1 0
+glean 3 1 1
+idiom 5 3 1
+randy 2 4 0

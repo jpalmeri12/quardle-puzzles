@@ -1,0 +1,6 @@
+7 10 connectfive
+evoke 5 1 1
+strut 1 2 1
+usage 1 5 0
+grout 4 5 1
+quoth 2 7 0

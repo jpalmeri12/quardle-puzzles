@@ -1,0 +1,5 @@
+7 7
+worth 2 1 1
+octet 2 2 0
+thong 4 2 1
+ethos 1 4 0

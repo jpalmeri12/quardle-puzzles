@@ -1,0 +1,5 @@
+6 9
+sneer 4 1 1
+china 1 2 0
+screw 1 4 0
+sally 1 4 1

@@ -1,0 +1,5 @@
+7 10 elbowroom
+motel 1 1 0
+larva 5 1 1
+clear 2 5 0
+enact 4 5 1

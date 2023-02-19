@@ -1,0 +1,5 @@
+7 7
+singe 1 1 1
+dizzy 4 2 1
+glaze 1 4 0
+coyly 2 6 0

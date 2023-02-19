@@ -1,0 +1,5 @@
+7 8
+point 5 1 1
+rally 3 3 1
+split 1 5 0
+hydro 2 7 0

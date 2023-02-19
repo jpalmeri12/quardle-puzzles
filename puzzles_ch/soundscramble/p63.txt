@@ -1,0 +1,5 @@
+7 10 soundscramble
+bayuo 3 1 1
+syrop 2 3 0
+cuoch 1 5 0
+cuope 4 5 1

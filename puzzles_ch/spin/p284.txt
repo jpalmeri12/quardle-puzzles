@@ -1,0 +1,5 @@
+7 9 spin
+egret 4 1 1
+wight 2 2 0
+facet 1 4 0
+flout 1 4 1

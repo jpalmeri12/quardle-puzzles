@@ -1,0 +1,6 @@
+7 8 commonsecret
+joker 6 1 1
+steak 2 3 0
+theft 3 3 1
+rifle 1 6 0
+!secret e

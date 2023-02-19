@@ -1,0 +1,5 @@
+7 9
+sinew 6 1 1
+dowel 2 4 1
+dodge 2 4 0
+aware 1 6 0

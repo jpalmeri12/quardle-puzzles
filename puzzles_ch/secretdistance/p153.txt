@@ -1,0 +1,7 @@
+6 11 secretdistance
+aloud 3 1 1
+court 1 4 0
+trust 5 4 1
+taint 1 8 0
+flour 1 10 0
+!sdpos 2 2 1 3

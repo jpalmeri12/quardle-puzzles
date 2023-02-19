@@ -1,0 +1,5 @@
+7 9
+pinch 6 1 1
+pubic 2 4 0
+poker 2 4 1
+bring 1 8 0

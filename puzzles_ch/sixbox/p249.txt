@@ -1,0 +1,7 @@
+8 8 sixbox
+gnome 3 1 1
+stead 5 1 1
+globe 1 3 0
+beady 4 3 1
+meaty 3 4 0
+knead 1 5 0

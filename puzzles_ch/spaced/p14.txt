@@ -1,0 +1,5 @@
+7 8 spaced
+rouge 1 1 1
+admit 5 3 1
+gourd 1 4 0
+wrote 2 7 0

@@ -1,0 +1,6 @@
+7 9 commonsecret
+spoil 2 1 0
+optic 4 1 1
+plier 2 4 1
+slick 1 5 0
+!secret i

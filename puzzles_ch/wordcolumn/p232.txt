@@ -1,0 +1,6 @@
+7 9 wordcolumn
+parka 6 1 1
+ester 2 3 1
+shark 2 4 0
+abase 4 4 1
+began 1 6 0

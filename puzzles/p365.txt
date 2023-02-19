@@ -1,0 +1,5 @@
+7 9
+pasty 6 1 1
+snort 2 4 0
+omega 4 4 1
+bezel 1 6 0

@@ -1,0 +1,5 @@
+7 9
+ghoul 5 1 1
+pushy 2 2 0
+bayou 1 4 0
+baggy 1 4 1

@@ -1,0 +1,5 @@
+6 9 unloved
+shale 4 1 1
+abbey 1 4 1
+betel 1 5 0
+ennui 1 7 0

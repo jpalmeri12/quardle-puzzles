@@ -1,0 +1,7 @@
+7 12 secretdistance
+koala 4 1 1
+amass 2 5 0
+macaw 3 5 1
+swarm 1 8 0
+awash 1 11 0
+!sdpos 2 2 3 1

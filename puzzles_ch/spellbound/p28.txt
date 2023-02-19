@@ -1,0 +1,9 @@
+7 8 spellbound
+wimpy 1 1 1
+mecca 1 3 0
+creep 3 3 1
+fetal 2 6 0
+!spellbound 0 4 1
+!spellbound 1 3 4
+!spellbound 2 4 2
+!spellbound 3 0 4

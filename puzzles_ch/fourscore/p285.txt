@@ -1,0 +1,5 @@
+7 9 fourscore
+cavil 5 1 1
+offal 2 2 0
+great 3 4 1
+mural 1 5 0

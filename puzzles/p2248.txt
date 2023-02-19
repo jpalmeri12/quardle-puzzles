@@ -1,0 +1,5 @@
+7 9
+foyer 5 1 1
+ratio 1 2 0
+screw 2 4 0
+saute 2 4 1

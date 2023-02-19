@@ -1,0 +1,5 @@
+7 7
+foamy 5 1 1
+crump 3 2 1
+freak 2 3 0
+wimpy 1 5 0

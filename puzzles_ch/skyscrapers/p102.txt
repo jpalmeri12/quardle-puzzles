@@ -1,0 +1,5 @@
+7 8 skyscrapers
+titan 2 1 1
+aware 2 4 0
+petty 6 3 1
+dilly 1 2 0

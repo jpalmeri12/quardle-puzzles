@@ -1,0 +1,5 @@
+7 10
+drink 2 1 1
+crowd 1 2 0
+knave 2 5 0
+array 4 5 1

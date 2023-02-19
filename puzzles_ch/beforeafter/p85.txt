@@ -1,0 +1,9 @@
+6 10 beforeafter
+swami 3 1 1
+idiot 1 5 0
+twang 5 5 1
+omega 1 7 0
+!beforeafter 1 q
+!beforeafter 2 j
+!beforeafter 1 q
+!beforeafter 1 i

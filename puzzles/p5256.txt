@@ -1,0 +1,5 @@
+7 7
+brute 2 1 1
+prone 1 2 0
+equal 5 2 1
+trout 2 4 0

@@ -1,0 +1,5 @@
+7 10 spin
+blurt 5 1 1
+waltz 2 5 0
+wider 2 5 1
+seedy 1 8 0

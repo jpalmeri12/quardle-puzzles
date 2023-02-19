@@ -1,0 +1,5 @@
+7 10
+humus 2 1 1
+unity 2 2 0
+aside 1 5 0
+dunce 4 5 1

@@ -1,0 +1,7 @@
+6 11 secretdistance
+chirp 4 1 1
+spare 1 4 0
+pence 2 4 1
+octal 1 7 0
+cacti 1 10 0
+!sdpos 3 2 3 3

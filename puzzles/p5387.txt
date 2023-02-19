@@ -1,0 +1,5 @@
+7 9
+demon 2 1 0
+death 2 1 1
+stock 1 4 0
+kayak 5 4 1

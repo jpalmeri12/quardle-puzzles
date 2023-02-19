@@ -1,0 +1,6 @@
+6 7 island
+outdo 4 1 1
+aloud 1 2 0
+acrid 1 2 1
+igloo 1 5 0
+!island 1111 2111 311 31

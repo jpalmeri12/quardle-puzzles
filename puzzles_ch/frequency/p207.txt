@@ -1,0 +1,5 @@
+7 8 frequency
+sushi 4 1 1
+lasso 2 3 1
+swing 2 5 0
+rowdy 1 7 0

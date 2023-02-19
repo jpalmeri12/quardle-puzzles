@@ -1,0 +1,5 @@
+7 9
+canon 5 1 1
+solar 2 2 0
+tamer 2 4 1
+ramen 1 5 0

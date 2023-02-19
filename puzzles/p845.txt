@@ -1,0 +1,5 @@
+6 9
+cleat 4 1 1
+float 1 4 0
+lumpy 2 4 1
+split 1 7 0

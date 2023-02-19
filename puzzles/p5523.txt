@@ -1,0 +1,5 @@
+7 10
+retch 4 1 1
+ethos 2 5 0
+tawny 3 5 1
+shyly 1 9 0

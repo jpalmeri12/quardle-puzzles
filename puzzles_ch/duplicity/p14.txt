@@ -1,0 +1,5 @@
+6 9 duplicity
+lefty 5 1 1
+belie 1 2 0
+befit 1 4 0
+filly 3 4 1

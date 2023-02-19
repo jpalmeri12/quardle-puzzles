@@ -1,0 +1,5 @@
+7 10 desync
+swung 1 1 0
+whoop 2 1 1
+prior 2 5 0
+ivory 4 5 1

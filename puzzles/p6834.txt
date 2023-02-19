@@ -1,0 +1,5 @@
+7 10
+flash 2 1 1
+cleft 1 2 0
+human 2 5 0
+mover 4 5 1

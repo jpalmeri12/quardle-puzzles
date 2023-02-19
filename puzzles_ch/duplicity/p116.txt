@@ -1,0 +1,5 @@
+7 8 duplicity
+timer 3 1 1
+bobby 5 3 1
+tribe 2 5 0
+roomy 1 7 0

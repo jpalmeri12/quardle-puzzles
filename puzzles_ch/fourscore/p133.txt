@@ -1,0 +1,5 @@
+6 9 fourscore
+lorry 1 1 1
+route 1 4 0
+equip 5 4 1
+rabbi 1 7 0

@@ -1,0 +1,5 @@
+7 7
+azure 5 1 1
+boozy 2 2 0
+ozone 3 2 1
+scour 1 4 0

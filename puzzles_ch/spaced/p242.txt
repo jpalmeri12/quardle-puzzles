@@ -1,0 +1,5 @@
+7 10 spaced
+crept 2 1 1
+twice 2 5 0
+wharf 3 5 1
+lurch 1 8 0

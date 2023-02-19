@@ -1,0 +1,5 @@
+7 8 spin
+below 6 1 1
+canal 2 3 0
+ninja 4 3 1
+banjo 1 6 0

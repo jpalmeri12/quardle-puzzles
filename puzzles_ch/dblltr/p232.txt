@@ -1,0 +1,5 @@
+7 8 dblltr
+gooey 1 1 0
+order 2 1 1
+enemy 6 3 1
+eaten 2 4 0

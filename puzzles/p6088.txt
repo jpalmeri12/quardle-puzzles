@@ -1,0 +1,5 @@
+7 9
+ferry 2 1 1
+apron 4 4 1
+nymph 1 5 0
+bench 2 8 0

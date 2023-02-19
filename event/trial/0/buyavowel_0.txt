@@ -1,0 +1,5 @@
+7 10 buyavowel
+cacti 3 1 1
+light 2 5 0
+heave 5 5 1
+umbra 1 7 0

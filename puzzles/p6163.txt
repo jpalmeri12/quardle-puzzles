@@ -1,0 +1,5 @@
+6 8
+blast 1 1 1
+dowdy 3 3 1
+shone 1 4 0
+flyer 1 7 0

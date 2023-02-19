@@ -1,0 +1,5 @@
+6 7
+lunar 3 1 1
+slung 1 2 0
+gusto 5 2 1
+crass 1 4 0

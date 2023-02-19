@@ -1,0 +1,5 @@
+7 10
+abbey 2 1 0
+beset 4 1 1
+mirth 1 5 0
+rebus 3 5 1

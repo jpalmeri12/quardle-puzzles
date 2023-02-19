@@ -1,0 +1,5 @@
+7 9 hardmode
+ethos 2 1 1
+kitty 4 4 1
+scion 2 5 0
+satyr 1 8 0

@@ -1,0 +1,5 @@
+7 10 reverse
+yalla 6 1 1
+erifa 2 5 0
+radio 3 5 1
+frill 1 8 0

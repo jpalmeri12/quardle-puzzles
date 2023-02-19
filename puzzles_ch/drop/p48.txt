@@ -1,0 +1,6 @@
+6 11 drop
+solid 1 1 1
+ovary 1 2 0
+bathe 3 4 1
+draft 1 5 0
+rodeo 1 10 0

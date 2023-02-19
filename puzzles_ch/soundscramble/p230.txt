@@ -1,0 +1,5 @@
+6 9 soundscramble
+rabod 4 1 1
+tweak 1 2 0
+mitof 1 4 0
+iuter 2 4 1

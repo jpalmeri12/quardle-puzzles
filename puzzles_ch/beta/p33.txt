@@ -1,0 +1,5 @@
+7 7 beta
+linen 5 1 1
+boast 3 2 1
+point 2 3 0
+bison 1 5 0

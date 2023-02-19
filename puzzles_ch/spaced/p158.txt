@@ -1,0 +1,5 @@
+7 9 spaced
+other 1 1 0
+hyena 3 1 1
+entry 6 4 1
+haven 2 5 0

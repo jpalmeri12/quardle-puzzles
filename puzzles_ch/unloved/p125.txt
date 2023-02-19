@@ -1,0 +1,5 @@
+7 9 unloved
+wrung 2 1 1
+grimy 1 2 0
+evict 4 4 1
+given 2 5 0

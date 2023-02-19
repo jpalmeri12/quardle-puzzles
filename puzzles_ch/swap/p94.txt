@@ -1,0 +1,5 @@
+7 7 swap
+jmubo 2 1 1
+hmuan 1 2 0
+agrue 4 2 1
+borad 2 4 0

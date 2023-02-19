@@ -1,0 +1,5 @@
+7 10 desync
+tripe 5 1 1
+fairy 2 2 0
+bugle 1 5 0
+glaze 3 5 1

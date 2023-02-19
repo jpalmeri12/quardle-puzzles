@@ -1,0 +1,5 @@
+6 8 duplicity
+cinch 1 1 0
+hymen 5 1 1
+ninny 3 3 1
+chime 1 4 0

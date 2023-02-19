@@ -1,0 +1,7 @@
+7 11 secretdistance
+exert 6 1 1
+chain 3 4 1
+shunt 2 5 0
+dance 1 8 0
+anvil 1 10 0
+!sdpos 2 2 1 0

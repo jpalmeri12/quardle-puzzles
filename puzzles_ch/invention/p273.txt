@@ -1,0 +1,5 @@
+7 10 invention
+khaki 3 1 1
+titan 2 5 0
+thyme 4 5 1
+plume 1 8 0

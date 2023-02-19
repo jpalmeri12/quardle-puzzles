@@ -1,0 +1,6 @@
+6 9 commonsecret
+baggy 1 1 1
+grass 1 4 0
+savoy 4 4 1
+bayou 1 7 0
+!secret a

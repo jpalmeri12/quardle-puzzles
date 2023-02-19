@@ -1,0 +1,5 @@
+7 8 buyavowel
+dryer 1 1 0
+relax 5 1 1
+ample 2 3 0
+muddy 3 3 1

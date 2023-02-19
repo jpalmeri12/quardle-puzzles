@@ -1,0 +1,6 @@
+6 12 five
+scold 1 1 1
+forty 5 4 1
+ditto 1 5 0
+swirl 3 7 1
+tawny 1 8 0

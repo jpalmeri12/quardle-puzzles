@@ -1,0 +1,5 @@
+7 9 hardmode
+genre 4 1 1
+infer 1 2 0
+karma 2 4 0
+artsy 6 4 1

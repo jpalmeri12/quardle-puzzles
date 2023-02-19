@@ -1,0 +1,6 @@
+7 9 island
+champ 2 1 1
+amuse 1 4 0
+stuff 4 4 1
+defer 2 8 0
+!island 11111 311 211 4

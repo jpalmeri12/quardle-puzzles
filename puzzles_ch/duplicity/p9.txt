@@ -1,0 +1,5 @@
+7 7 duplicity
+inlay 4 1 1
+agony 1 2 0
+gaily 2 2 1
+loyal 2 5 0

@@ -1,0 +1,6 @@
+7 9 commonsecret
+vomit 1 1 1
+ombre 3 4 1
+tumor 1 5 0
+venom 2 8 0
+!secret o

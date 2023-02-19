@@ -1,0 +1,5 @@
+7 10 darkness
+diary 5 1 1
+jiffy 1 5 0
+flown 3 5 1
+model 2 7 0

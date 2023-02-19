@@ -1,0 +1,6 @@
+7 9 undercover
+intro 6 1 1
+madly 4 2 1
+aider 2 4 0
+polyp 1 6 0
+shush 1 8 0

@@ -1,0 +1,6 @@
+6 12 drop
+heath 1 1 1
+hoist 1 5 0
+tally 5 5 1
+motel 1 7 0
+hilly 1 11 0

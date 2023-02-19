@@ -1,0 +1,5 @@
+6 8 dblltr
+algae 4 1 1
+fence 2 3 1
+legal 1 4 0
+needy 1 7 0

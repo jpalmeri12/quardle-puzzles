@@ -1,0 +1,5 @@
+7 10 spaced
+rogue 5 1 1
+elbow 2 2 0
+globe 1 5 1
+grate 1 5 0

@@ -1,0 +1,5 @@
+7 7 dblltr
+gloss 5 1 1
+bevel 1 2 0
+eater 2 2 1
+tryst 2 4 0

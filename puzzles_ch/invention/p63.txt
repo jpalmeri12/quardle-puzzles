@@ -1,0 +1,5 @@
+6 8 invention
+crass 1 1 1
+foamy 3 3 1
+scamp 1 5 0
+loyal 1 7 0

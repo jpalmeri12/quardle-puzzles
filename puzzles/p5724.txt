@@ -1,0 +1,5 @@
+7 9
+anvil 5 1 1
+tenet 3 4 1
+fella 2 5 0
+metro 1 8 0

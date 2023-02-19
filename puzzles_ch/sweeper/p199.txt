@@ -1,0 +1,5 @@
+7 8 sweeper
+infer 1 1 1
+flyer 1 3 0
+rifle 5 3 1
+dealt 2 6 0

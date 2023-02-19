@@ -1,0 +1,6 @@
+7 10 wordcolumn
+ionic 4 1 1
+elect 1 5 0
+lusty 2 5 1
+totem 5 5 1
+state 2 7 0

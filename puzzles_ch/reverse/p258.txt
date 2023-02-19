@@ -1,0 +1,5 @@
+7 10 reverse
+finch 3 1 1
+tibed 2 5 1
+thgit 2 5 0
+jelly 1 8 0

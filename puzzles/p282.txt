@@ -1,0 +1,5 @@
+7 10
+briar 3 1 1
+three 1 5 0
+emcee 4 5 1
+macro 2 7 0

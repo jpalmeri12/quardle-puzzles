@@ -1,0 +1,5 @@
+7 10 fourscore
+oddly 2 1 1
+ideal 1 2 0
+yearn 2 5 0
+recap 5 5 1

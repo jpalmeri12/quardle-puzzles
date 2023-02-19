@@ -1,0 +1,5 @@
+7 7
+scree 5 1 1
+lyric 1 2 0
+rough 3 2 1
+tuber 2 4 0

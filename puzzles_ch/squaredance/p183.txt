@@ -1,0 +1,6 @@
+6 8 squaredance
+board 1 1 1
+mercy 5 1 1
+bloom 1 1 0
+dandy 1 5 0
+ruder 1 7 0

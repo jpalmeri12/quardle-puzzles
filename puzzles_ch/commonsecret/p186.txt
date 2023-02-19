@@ -1,0 +1,6 @@
+7 8 commonsecret
+smear 4 1 1
+stomp 1 2 0
+sober 6 3 1
+shrub 2 5 0
+!secret s

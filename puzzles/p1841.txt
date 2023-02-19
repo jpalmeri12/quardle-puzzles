@@ -1,0 +1,5 @@
+7 9
+water 5 1 1
+begat 2 2 0
+fibre 1 4 0
+inner 2 4 1

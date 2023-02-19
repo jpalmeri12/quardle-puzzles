@@ -1,0 +1,5 @@
+6 10
+drown 4 1 1
+shone 1 5 0
+scent 1 5 1
+terra 1 9 0

@@ -1,0 +1,6 @@
+7 10 commonsecret
+local 6 1 1
+vocal 2 5 0
+canon 4 5 1
+count 1 7 0
+!secret c

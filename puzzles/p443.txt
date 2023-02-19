@@ -1,0 +1,5 @@
+7 10
+quiet 5 1 1
+gamut 2 2 0
+twixt 1 5 0
+truck 1 5 1

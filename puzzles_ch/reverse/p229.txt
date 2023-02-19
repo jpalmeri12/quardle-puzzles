@@ -1,0 +1,5 @@
+6 9 reverse
+allef 1 1 1
+latef 1 2 0
+privy 5 4 1
+freer 1 5 0

@@ -1,0 +1,8 @@
+6 8 twins
+hussy 1 1 0
+petty 1 3 0
+frill 1 5 0
+spicy 1 7 0
+!twins 2 3
+!twins 1 4
+!twins 0 4

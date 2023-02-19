@@ -1,0 +1,5 @@
+6 9
+sweep 1 1 0
+petal 5 1 1
+circa 1 4 0
+imply 2 4 1

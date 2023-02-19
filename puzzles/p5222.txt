@@ -1,0 +1,5 @@
+6 7
+fever 1 1 1
+elude 1 2 0
+elate 5 2 1
+rebut 1 5 0

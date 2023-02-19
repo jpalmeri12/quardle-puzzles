@@ -1,0 +1,5 @@
+7 9
+shown 1 1 1
+wharf 1 4 0
+recur 4 4 1
+facet 2 6 0

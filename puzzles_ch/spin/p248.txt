@@ -1,0 +1,5 @@
+7 9 spin
+quell 6 1 1
+excel 2 4 0
+chest 4 4 1
+welsh 1 7 0

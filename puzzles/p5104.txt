@@ -1,0 +1,5 @@
+7 9
+dryer 2 1 1
+worst 5 4 1
+bravo 1 5 0
+kiosk 2 7 0

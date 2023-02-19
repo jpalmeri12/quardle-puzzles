@@ -1,0 +1,9 @@
+6 8 beforeafter
+lurch 1 1 1
+turbo 3 3 1
+chunk 1 4 0
+floss 1 7 0
+!beforeafter 2 j
+!beforeafter 2 q
+!beforeafter 1 j
+!beforeafter 1 m

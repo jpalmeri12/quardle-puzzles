@@ -1,0 +1,5 @@
+7 9 swap
+emdia 2 1 0
+dowyr 4 1 1
+minmi 2 4 1
+nitro 1 5 0

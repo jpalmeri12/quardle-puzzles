@@ -1,0 +1,7 @@
+7 11 secretdistance
+idyll 2 1 1
+bluff 1 4 0
+frame 4 4 1
+human 2 7 0
+randy 1 10 0
+!sdpos 1 0 1 0

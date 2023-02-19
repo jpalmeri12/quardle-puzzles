@@ -1,0 +1,5 @@
+7 9
+virus 1 1 0
+swish 5 1 1
+oaken 3 4 1
+bathe 2 5 0

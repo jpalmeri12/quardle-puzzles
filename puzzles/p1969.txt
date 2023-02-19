@@ -1,0 +1,5 @@
+7 9
+furor 1 1 0
+unset 2 1 1
+edict 2 4 0
+crock 5 4 1

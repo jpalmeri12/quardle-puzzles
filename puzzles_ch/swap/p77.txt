@@ -1,0 +1,5 @@
+6 10 swap
+baest 4 1 1
+opimu 1 5 1
+oarta 1 5 0
+inelt 1 7 0

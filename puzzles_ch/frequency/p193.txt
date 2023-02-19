@@ -1,0 +1,5 @@
+7 9 frequency
+adore 1 1 0
+datum 2 1 1
+modem 5 4 1
+manor 2 5 0

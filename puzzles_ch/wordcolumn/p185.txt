@@ -1,0 +1,6 @@
+7 8 wordcolumn
+downy 6 1 1
+value 2 3 1
+dirge 4 3 1
+avian 2 4 0
+pudgy 1 6 0

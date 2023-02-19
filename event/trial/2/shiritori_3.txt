@@ -1,0 +1,5 @@
+7 7 shiritori
+fault 1 1 0
+ankle 2 1 1
+pygmy 6 2 1
+kinky 2 3 0

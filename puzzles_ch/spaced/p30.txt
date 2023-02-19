@@ -1,0 +1,5 @@
+7 9 spaced
+hover 4 1 1
+other 1 4 0
+towel 2 4 1
+lower 2 8 0

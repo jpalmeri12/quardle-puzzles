@@ -1,0 +1,5 @@
+7 10 unloved
+pried 5 1 1
+login 2 3 0
+yield 1 5 0
+ledge 4 5 1

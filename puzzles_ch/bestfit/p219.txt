@@ -1,0 +1,5 @@
+7 10 bestfit
+below 4 1 1
+unwed 2 5 0
+nudge 3 5 1
+godly 1 7 0

@@ -1,0 +1,5 @@
+6 8
+puppy 1 1 1
+freer 3 3 1
+perch 1 4 0
+carol 1 7 0

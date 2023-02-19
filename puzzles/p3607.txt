@@ -1,0 +1,5 @@
+7 9
+vigil 2 1 1
+minus 1 4 0
+usurp 4 4 1
+parer 2 7 0

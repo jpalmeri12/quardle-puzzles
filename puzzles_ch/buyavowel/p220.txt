@@ -1,0 +1,5 @@
+7 9 buyavowel
+tweak 4 1 1
+frown 1 2 0
+knack 2 4 0
+kiosk 2 4 1

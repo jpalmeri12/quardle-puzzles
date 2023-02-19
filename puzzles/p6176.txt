@@ -1,0 +1,5 @@
+7 9
+dryly 1 1 1
+lingo 1 4 0
+gamma 4 4 1
+shake 2 8 0

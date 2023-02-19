@@ -1,0 +1,5 @@
+7 8
+macho 3 1 1
+tutor 5 3 1
+worth 2 5 0
+floor 1 7 0

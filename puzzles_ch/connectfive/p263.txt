@@ -1,0 +1,6 @@
+7 10 connectfive
+token 6 1 1
+scowl 2 3 1
+steak 2 3 0
+primo 4 5 1
+swarm 1 6 0

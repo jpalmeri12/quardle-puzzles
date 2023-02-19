@@ -1,0 +1,5 @@
+7 10 buyavowel
+tally 5 1 1
+weary 1 5 0
+rogue 4 5 1
+logic 2 7 0

@@ -1,0 +1,5 @@
+6 9
+aloud 1 1 1
+untie 1 4 0
+trash 3 4 1
+pushy 1 7 0

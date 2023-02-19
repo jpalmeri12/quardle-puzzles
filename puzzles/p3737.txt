@@ -1,0 +1,5 @@
+7 10
+exult 1 1 1
+toddy 1 5 0
+occur 2 5 1
+uncle 2 8 0

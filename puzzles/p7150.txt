@@ -1,0 +1,5 @@
+7 9
+canny 6 1 1
+cabin 2 4 0
+brush 4 4 1
+hussy 1 7 0

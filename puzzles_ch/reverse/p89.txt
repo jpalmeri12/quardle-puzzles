@@ -1,0 +1,5 @@
+6 9 reverse
+hsrah 4 1 1
+regal 1 4 0
+ratio 1 4 1
+ohcam 1 8 0

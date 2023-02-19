@@ -1,0 +1,5 @@
+7 9 scrabble
+stern 1 4 0
+spare 2 8 0
+never 5 4 1
+fewer 3 1 1

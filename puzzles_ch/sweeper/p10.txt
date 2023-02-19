@@ -1,0 +1,5 @@
+7 7 sweeper
+chair 2 1 1
+hedge 2 2 0
+debar 4 2 1
+array 1 5 0

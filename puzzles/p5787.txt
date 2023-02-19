@@ -1,0 +1,5 @@
+7 9
+fleck 1 1 0
+kiosk 5 1 1
+lousy 2 4 0
+lucid 2 4 1

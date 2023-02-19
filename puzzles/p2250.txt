@@ -1,0 +1,5 @@
+7 9
+boozy 2 1 1
+rowdy 1 2 0
+zesty 2 4 0
+yacht 6 4 1

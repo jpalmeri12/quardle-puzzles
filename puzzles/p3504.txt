@@ -1,0 +1,5 @@
+7 10
+woman 2 1 1
+mango 2 3 0
+unlit 1 5 0
+learn 3 5 1

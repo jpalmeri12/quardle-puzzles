@@ -1,0 +1,5 @@
+6 6 shiritori
+hoard 1 1 0
+onion 2 1 1
+reset 4 1 1
+hovel 1 4 0

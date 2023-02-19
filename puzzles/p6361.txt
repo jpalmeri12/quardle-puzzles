@@ -1,0 +1,5 @@
+6 8
+nadir 4 1 1
+atoll 2 3 1
+stain 1 4 0
+elide 1 7 0

@@ -1,0 +1,5 @@
+6 9
+bribe 3 1 1
+march 1 2 0
+debar 1 4 0
+droit 1 4 1

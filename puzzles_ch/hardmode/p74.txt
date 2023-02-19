@@ -1,0 +1,5 @@
+7 10 hardmode
+mamma 4 1 1
+splat 1 5 0
+pixel 2 5 1
+loyal 2 9 0

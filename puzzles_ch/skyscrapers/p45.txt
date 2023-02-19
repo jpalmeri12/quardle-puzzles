@@ -1,0 +1,5 @@
+7 9 skyscrapers
+ultra 2 7 0
+sloth 4 4 1
+aisle 1 5 0
+chili 2 1 1

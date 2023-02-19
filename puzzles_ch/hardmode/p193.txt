@@ -1,0 +1,5 @@
+7 8 hardmode
+union 2 1 1
+icing 5 3 1
+tonic 1 4 0
+foggy 2 7 0

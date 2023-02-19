@@ -1,0 +1,5 @@
+6 8 spaced
+tawny 1 1 0
+whack 3 1 1
+heavy 5 3 1
+uncle 1 4 0

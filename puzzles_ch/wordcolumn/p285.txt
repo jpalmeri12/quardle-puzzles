@@ -1,0 +1,6 @@
+7 10 wordcolumn
+sugar 3 1 1
+again 2 3 0
+brace 2 5 0
+admit 4 5 1
+depth 1 9 0

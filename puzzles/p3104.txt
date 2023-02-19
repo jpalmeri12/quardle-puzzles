@@ -1,0 +1,5 @@
+7 8
+anger 1 1 0
+nosey 2 1 1
+loose 5 3 1
+extol 2 4 0

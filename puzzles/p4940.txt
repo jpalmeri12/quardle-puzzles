@@ -1,0 +1,5 @@
+6 9
+older 4 1 1
+uncle 1 4 1
+upset 1 4 0
+lousy 1 7 0

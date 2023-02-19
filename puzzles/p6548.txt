@@ -1,0 +1,5 @@
+7 7
+tipsy 2 1 1
+gipsy 1 2 0
+soapy 4 2 1
+shalt 2 4 0

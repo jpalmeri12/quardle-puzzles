@@ -1,0 +1,5 @@
+7 9 unloved
+prick 3 1 1
+perch 1 2 0
+scald 2 4 0
+legal 5 4 1

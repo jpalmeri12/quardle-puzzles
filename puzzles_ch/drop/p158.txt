@@ -1,0 +1,6 @@
+7 9 drop
+crime 3 1 1
+boney 5 2 1
+pilot 2 3 0
+where 1 5 0
+itchy 1 8 0

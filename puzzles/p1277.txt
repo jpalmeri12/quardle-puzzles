@@ -1,0 +1,5 @@
+7 9
+chasm 4 1 1
+bushy 1 2 0
+mason 2 4 0
+nobly 6 4 1

@@ -1,0 +1,5 @@
+7 8
+roach 1 1 0
+hurry 5 1 1
+shard 2 3 0
+shark 2 3 1

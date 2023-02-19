@@ -1,0 +1,6 @@
+7 10 wordcolumn
+scour 2 1 1
+rugby 1 4 0
+blast 4 4 1
+inept 6 5 1
+issue 2 7 0

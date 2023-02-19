@@ -1,0 +1,5 @@
+7 7 darkness
+mafia 5 2 1
+least 2 1 1
+swift 2 4 0
+serum 1 2 0

@@ -1,0 +1,5 @@
+7 10 swap
+hnoey 5 1 1
+sopon 2 3 0
+urddy 1 5 0
+rguff 2 5 1

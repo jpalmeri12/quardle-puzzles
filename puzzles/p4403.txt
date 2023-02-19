@@ -1,0 +1,5 @@
+7 10
+salsa 4 1 1
+salvo 2 3 0
+stray 1 5 0
+swish 1 5 1

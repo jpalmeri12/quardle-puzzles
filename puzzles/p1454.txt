@@ -1,0 +1,5 @@
+6 7
+cloth 2 1 1
+blurb 1 2 0
+bigot 5 2 1
+stung 1 4 0

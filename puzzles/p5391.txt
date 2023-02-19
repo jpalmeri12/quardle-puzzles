@@ -1,0 +1,5 @@
+7 9
+spurn 6 1 1
+truer 2 4 0
+uncle 4 4 1
+totem 1 8 0

@@ -1,0 +1,5 @@
+6 9 unloved
+slunk 5 1 1
+carol 1 2 0
+ester 1 4 1
+stick 1 5 0

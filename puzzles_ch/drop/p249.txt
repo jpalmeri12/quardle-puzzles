@@ -1,0 +1,6 @@
+7 12 drop
+abate 4 1 1
+ideal 2 5 0
+ditch 3 5 1
+facet 1 8 0
+tidal 1 11 0

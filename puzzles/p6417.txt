@@ -1,0 +1,5 @@
+6 9
+sassy 2 1 1
+aside 1 4 0
+dicey 4 4 1
+tweet 1 7 0

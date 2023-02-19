@@ -1,0 +1,5 @@
+7 9 frequency
+nasty 2 1 0
+spiel 4 1 1
+paper 1 4 0
+polar 1 4 1

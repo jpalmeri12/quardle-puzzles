@@ -1,0 +1,5 @@
+7 10 fourscore
+piano 4 1 1
+stamp 2 3 0
+depot 1 5 0
+piggy 3 5 1

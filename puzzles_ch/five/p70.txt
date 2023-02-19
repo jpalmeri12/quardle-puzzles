@@ -1,0 +1,6 @@
+7 10 five
+sharp 4 1 1
+drake 2 3 0
+grape 1 5 0
+ghost 1 5 1
+acrid 3 5 1

@@ -1,0 +1,5 @@
+7 9 dblltr
+linen 5 1 1
+weave 1 4 0
+avian 3 4 1
+inner 2 8 0

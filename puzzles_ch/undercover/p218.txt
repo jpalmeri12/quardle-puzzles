@@ -1,0 +1,6 @@
+7 12 undercover
+clown 1 1 0
+logic 2 1 1
+crisp 2 5 0
+swamp 5 5 1
+fuzzy 1 11 0

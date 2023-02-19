@@ -1,0 +1,5 @@
+6 10
+shift 5 1 1
+great 1 5 0
+abate 4 5 1
+cloak 1 7 0

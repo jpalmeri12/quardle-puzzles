@@ -1,0 +1,5 @@
+7 10 outoforder
+rogue 1 1 0
+until 4 1 1
+tilde 2 5 0
+irony 3 5 1

@@ -1,0 +1,5 @@
+7 10
+dryer 4 1 1
+angry 1 5 0
+gamma 3 5 1
+laugh 2 9 0

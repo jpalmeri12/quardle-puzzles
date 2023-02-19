@@ -1,0 +1,5 @@
+7 9
+pulpy 5 1 1
+smear 2 4 1
+smoky 1 5 0
+algae 2 7 0

@@ -1,0 +1,5 @@
+7 10 spaced
+askew 1 1 1
+world 1 5 0
+lance 4 5 1
+handy 2 7 0

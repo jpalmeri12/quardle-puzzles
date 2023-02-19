@@ -1,0 +1,5 @@
+7 9 clockdown
+theme 6 1 1
+fiend 4 4 1
+tripe 2 5 0
+biddy 1 8 0

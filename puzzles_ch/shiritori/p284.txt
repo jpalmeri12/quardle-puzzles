@@ -1,0 +1,5 @@
+7 10 shiritori
+slump 6 1 1
+thump 2 5 0
+husky 3 5 1
+mason 1 7 0

@@ -1,0 +1,5 @@
+6 9 altending
+booth 1 1 0
+mount 1 3 0
+slack 1 5 0
+chump 1 7 0

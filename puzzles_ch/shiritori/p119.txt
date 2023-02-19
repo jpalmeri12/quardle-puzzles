@@ -1,0 +1,5 @@
+7 9 shiritori
+dross 5 1 1
+fixer 1 2 0
+trunk 3 4 1
+brass 2 5 0

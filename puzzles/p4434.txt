@@ -1,0 +1,5 @@
+6 10
+judge 5 1 1
+spire 1 5 0
+prank 2 5 1
+untie 1 8 0

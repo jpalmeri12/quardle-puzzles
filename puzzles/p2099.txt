@@ -1,0 +1,5 @@
+6 7
+freak 4 1 1
+hurry 1 2 0
+uncut 2 2 1
+scrap 1 4 0

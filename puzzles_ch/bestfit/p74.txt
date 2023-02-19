@@ -1,0 +1,5 @@
+6 8 bestfit
+tonic 1 1 1
+later 4 3 1
+cacti 1 5 0
+there 1 7 0

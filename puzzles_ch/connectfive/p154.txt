@@ -1,0 +1,6 @@
+6 10 connectfive
+album 1 1 1
+aider 1 1 0
+lofty 5 4 1
+macho 1 5 0
+cream 3 5 1

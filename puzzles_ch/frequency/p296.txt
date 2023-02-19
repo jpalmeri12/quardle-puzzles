@@ -1,0 +1,5 @@
+7 10 frequency
+outer 3 1 1
+stake 2 3 0
+array 1 5 0
+amaze 1 5 1

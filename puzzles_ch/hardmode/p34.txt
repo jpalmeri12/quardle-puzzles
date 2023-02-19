@@ -1,0 +1,5 @@
+7 10 hardmode
+cobra 2 1 1
+about 1 3 0
+acrid 2 5 0
+decor 6 5 1

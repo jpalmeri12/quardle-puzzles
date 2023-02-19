@@ -1,0 +1,7 @@
+6 10 secretdistance
+lymph 5 1 1
+actor 3 3 1
+bicep 1 4 0
+parry 1 7 0
+short 1 9 0
+!sdpos 2 0 3 3

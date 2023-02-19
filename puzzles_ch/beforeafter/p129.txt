@@ -1,0 +1,9 @@
+7 10 beforeafter
+bayou 2 1 1
+judge 1 5 0
+ditto 3 5 1
+lorry 2 9 0
+!beforeafter 1 i
+!beforeafter 1 i
+!beforeafter 1 l
+!beforeafter 1 q

@@ -1,0 +1,5 @@
+6 6 buyavowel
+weedy 1 1 0
+error 2 1 1
+dingy 4 1 1
+lodge 1 4 0

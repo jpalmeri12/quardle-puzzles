@@ -1,0 +1,9 @@
+7 10 beforeafter
+still 5 1 1
+psalm 2 5 0
+stump 3 5 1
+demur 1 8 0
+!beforeafter 1 m
+!beforeafter 1 n
+!beforeafter 2 q
+!beforeafter 1 i

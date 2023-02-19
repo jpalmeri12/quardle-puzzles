@@ -1,0 +1,5 @@
+7 9 hardmode
+stray 6 1 1
+adept 2 4 1
+dirty 2 5 0
+upset 1 7 0

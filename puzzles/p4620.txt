@@ -1,0 +1,5 @@
+7 10
+bunch 3 1 1
+rehab 1 5 0
+beast 5 5 1
+hussy 2 8 0

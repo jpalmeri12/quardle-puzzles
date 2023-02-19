@@ -1,0 +1,5 @@
+7 10 sweeper
+fauna 3 1 1
+party 2 2 0
+scald 1 5 0
+drier 5 5 1

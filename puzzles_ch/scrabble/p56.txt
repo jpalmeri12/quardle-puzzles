@@ -1,0 +1,5 @@
+7 7 scrabble
+eerie 2 5 0
+glide 2 1 1
+lyric 5 2 1
+dizzy 1 3 0

@@ -1,0 +1,5 @@
+7 8
+allot 1 1 0
+lover 2 1 1
+virus 2 3 0
+seven 6 3 1

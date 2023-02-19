@@ -1,0 +1,5 @@
+7 10 buyavowel
+slung 4 1 1
+scale 1 2 0
+might 2 5 0
+issue 3 5 1

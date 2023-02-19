@@ -1,0 +1,5 @@
+6 8
+bring 5 1 1
+album 2 3 1
+plain 1 4 0
+imbue 1 7 0

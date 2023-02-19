@@ -1,0 +1,9 @@
+6 7 beforeafter
+trade 5 1 1
+abhor 1 2 0
+hefty 3 2 1
+unfed 1 4 0
+!beforeafter 1 k
+!beforeafter 2 i
+!beforeafter 2 k
+!beforeafter 1 m

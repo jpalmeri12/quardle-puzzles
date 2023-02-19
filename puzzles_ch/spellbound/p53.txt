@@ -1,0 +1,9 @@
+7 7 spellbound
+other 5 1 1
+adept 1 2 0
+dress 2 2 1
+swirl 2 5 0
+!spellbound 0 3 2
+!spellbound 1 2 3
+!spellbound 2 1 2
+!spellbound 3 4 1

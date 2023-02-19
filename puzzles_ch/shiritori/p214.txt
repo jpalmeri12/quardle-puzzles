@@ -1,0 +1,5 @@
+7 9 shiritori
+gumbo 3 1 1
+infer 5 4 1
+horny 2 5 0
+pixie 1 7 0

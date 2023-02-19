@@ -1,0 +1,5 @@
+7 8 buyavowel
+churn 1 1 0
+ranch 4 1 1
+bonus 2 3 0
+sheer 6 3 1

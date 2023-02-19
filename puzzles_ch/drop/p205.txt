@@ -1,0 +1,6 @@
+7 9 drop
+drown 1 1 1
+seedy 5 2 1
+weave 1 4 0
+polyp 2 6 0
+perky 1 8 0

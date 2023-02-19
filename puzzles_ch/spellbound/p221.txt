@@ -1,0 +1,9 @@
+7 10 spellbound
+steel 4 1 1
+deter 2 2 0
+world 1 5 0
+regal 3 5 1
+!spellbound 0 0 3
+!spellbound 1 0 4
+!spellbound 2 4 0
+!spellbound 3 4 1

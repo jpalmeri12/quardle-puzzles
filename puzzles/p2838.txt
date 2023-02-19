@@ -1,0 +1,5 @@
+6 10
+shown 5 1 1
+queen 1 5 0
+endow 3 5 1
+daddy 1 7 0

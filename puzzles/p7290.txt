@@ -1,0 +1,5 @@
+7 9
+quill 5 1 1
+scout 2 2 0
+bound 2 4 1
+bowel 1 5 0

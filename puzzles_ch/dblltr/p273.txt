@@ -1,0 +1,5 @@
+7 10 dblltr
+foggy 3 1 1
+tryst 1 5 0
+sushi 4 5 1
+basal 2 7 0

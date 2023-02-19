@@ -1,0 +1,5 @@
+7 9 invention
+rebus 1 1 1
+undue 1 4 0
+dowdy 3 4 1
+cyber 2 8 0

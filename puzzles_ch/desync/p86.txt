@@ -1,0 +1,5 @@
+6 9 desync
+mecca 3 1 1
+kiosk 5 4 1
+quasi 1 5 0
+ethos 1 7 0

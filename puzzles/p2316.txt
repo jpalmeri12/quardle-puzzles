@@ -1,0 +1,5 @@
+7 10
+filly 5 1 1
+godly 1 5 0
+lousy 4 5 1
+mossy 2 8 0

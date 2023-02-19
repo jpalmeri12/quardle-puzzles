@@ -1,0 +1,8 @@
+6 8 twins
+dense 1 1 0
+least 1 3 0
+lurid 1 5 0
+lumpy 1 7 0
+!twins 1 3
+!twins 1 4
+!twins 0 1

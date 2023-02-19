@@ -1,0 +1,5 @@
+7 10 unloved
+giver 2 1 1
+imbue 2 2 0
+trove 1 5 0
+verve 4 5 1

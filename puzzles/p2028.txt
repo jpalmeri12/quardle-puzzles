@@ -1,0 +1,5 @@
+6 6
+apart 1 1 0
+avian 1 1 1
+rayon 4 1 1
+nanny 1 5 0

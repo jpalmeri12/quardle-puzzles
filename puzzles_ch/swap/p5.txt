@@ -1,0 +1,5 @@
+6 8 swap
+rlaph 1 1 0
+pruen 4 1 1
+amuve 1 3 1
+uirne 1 5 0

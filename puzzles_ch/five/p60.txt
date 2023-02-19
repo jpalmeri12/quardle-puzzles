@@ -1,0 +1,6 @@
+7 8 five
+gourd 1 1 0
+undue 3 1 1
+edict 2 3 0
+crimp 5 3 1
+stoop 1 7 0

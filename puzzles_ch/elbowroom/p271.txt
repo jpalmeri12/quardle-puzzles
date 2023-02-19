@@ -1,0 +1,5 @@
+7 9 elbowroom
+pansy 2 1 0
+shark 5 1 1
+altar 1 4 0
+afoot 1 4 1

@@ -1,0 +1,5 @@
+7 10
+skulk 2 1 1
+skull 1 5 0
+under 3 5 1
+arbor 2 9 0

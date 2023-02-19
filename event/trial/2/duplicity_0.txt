@@ -1,0 +1,5 @@
+7 10 duplicity
+rover 5 1 1
+overt 2 5 0
+valet 3 5 1
+valor 1 7 0

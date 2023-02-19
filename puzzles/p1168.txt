@@ -1,0 +1,5 @@
+7 10
+bring 5 1 1
+basil 2 3 0
+aging 1 5 0
+inlay 3 5 1

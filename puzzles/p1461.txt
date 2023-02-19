@@ -1,0 +1,5 @@
+7 9
+brash 2 1 1
+rajah 2 2 0
+ester 1 4 0
+erase 4 4 1

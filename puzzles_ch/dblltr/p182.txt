@@ -1,0 +1,5 @@
+7 7 dblltr
+gayly 4 1 1
+heath 2 2 0
+hurry 2 2 1
+wryly 1 4 0

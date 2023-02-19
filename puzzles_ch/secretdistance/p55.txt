@@ -1,0 +1,7 @@
+7 11 secretdistance
+hence 2 1 0
+cycle 5 1 1
+crawl 1 4 0
+rinse 2 4 1
+prawn 1 10 0
+!sdpos 3 0 1 0

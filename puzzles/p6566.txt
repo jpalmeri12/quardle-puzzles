@@ -1,0 +1,5 @@
+7 9
+waxen 5 1 1
+gumbo 2 4 1
+gazer 2 4 0
+holly 1 8 0

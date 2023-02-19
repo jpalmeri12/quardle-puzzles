@@ -1,0 +1,5 @@
+7 7
+forte 1 1 1
+money 4 2 1
+trunk 1 4 0
+flyer 2 6 0

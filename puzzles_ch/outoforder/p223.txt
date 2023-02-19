@@ -1,0 +1,5 @@
+7 10 outoforder
+slain 2 1 1
+later 2 2 0
+enema 1 5 0
+email 3 5 1

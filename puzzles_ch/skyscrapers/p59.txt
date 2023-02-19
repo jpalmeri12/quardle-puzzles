@@ -1,0 +1,5 @@
+6 8 skyscrapers
+thing 1 4 0
+fungi 5 1 1
+stuff 1 1 0
+bitty 3 3 1

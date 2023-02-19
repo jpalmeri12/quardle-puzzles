@@ -1,0 +1,5 @@
+6 7 shiritori
+usurp 1 1 1
+slain 1 2 0
+newly 5 2 1
+renew 1 4 0

@@ -1,0 +1,6 @@
+7 8 five
+radar 1 1 0
+ruddy 5 1 1
+thigh 3 3 1
+vinyl 2 5 0
+chaff 2 7 0

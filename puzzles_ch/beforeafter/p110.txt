@@ -1,0 +1,9 @@
+7 9 beforeafter
+adapt 2 1 0
+patty 5 1 1
+begun 2 4 1
+deity 1 5 0
+!beforeafter 2 m
+!beforeafter 1 q
+!beforeafter 2 m
+!beforeafter 2 p

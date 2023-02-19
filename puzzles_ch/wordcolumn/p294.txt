@@ -1,0 +1,6 @@
+7 10 wordcolumn
+torus 5 1 1
+other 1 3 0
+leash 2 5 0
+humph 6 5 1
+clamp 2 8 0

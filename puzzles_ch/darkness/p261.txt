@@ -1,0 +1,5 @@
+6 8 darkness
+hydro 1 7 0
+lowly 2 3 1
+cheer 4 1 1
+twirl 1 5 0

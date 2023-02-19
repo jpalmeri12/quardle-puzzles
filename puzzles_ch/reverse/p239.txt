@@ -1,0 +1,5 @@
+7 10 reverse
+ezarg 2 1 1
+azure 1 2 0
+gniyl 2 5 0
+lasso 6 5 1

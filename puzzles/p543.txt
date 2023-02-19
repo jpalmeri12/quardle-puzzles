@@ -1,0 +1,5 @@
+7 10
+latch 1 1 1
+hilly 1 5 0
+lunch 3 5 1
+shalt 2 9 0

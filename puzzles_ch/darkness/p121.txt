@@ -1,0 +1,5 @@
+6 8 darkness
+skier 1 4 0
+fecal 1 1 0
+trade 5 3 1
+fussy 1 1 1

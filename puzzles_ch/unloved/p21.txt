@@ -1,0 +1,5 @@
+7 10 unloved
+whelp 1 1 1
+putty 1 5 0
+twist 4 5 1
+joist 2 7 0

@@ -1,0 +1,6 @@
+7 10 connectfive
+poesy 2 1 0
+equip 4 1 1
+spunk 2 3 0
+gripe 1 5 0
+essay 5 5 1

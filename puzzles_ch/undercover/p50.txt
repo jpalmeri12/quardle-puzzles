@@ -1,0 +1,6 @@
+6 11 undercover
+macaw 1 1 0
+caper 3 1 1
+hyper 5 4 1
+surly 1 5 0
+vivid 1 10 0

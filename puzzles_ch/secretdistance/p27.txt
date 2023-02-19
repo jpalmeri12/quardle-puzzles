@@ -1,0 +1,7 @@
+7 11 secretdistance
+petal 3 1 1
+manga 2 4 0
+genre 5 4 1
+aider 1 7 0
+comet 1 10 0
+!sdpos 1 0 0 0

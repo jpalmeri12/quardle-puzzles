@@ -1,0 +1,5 @@
+6 8 clockdown
+feral 3 1 1
+lynch 5 3 1
+loamy 1 4 0
+winch 1 7 0

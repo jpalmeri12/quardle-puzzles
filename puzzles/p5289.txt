@@ -1,0 +1,5 @@
+7 10
+barge 2 1 1
+cater 1 2 0
+error 2 5 0
+optic 5 5 1

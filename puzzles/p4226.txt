@@ -1,0 +1,5 @@
+7 10
+quart 3 1 1
+purse 2 2 0
+witch 1 5 0
+idiot 2 5 1

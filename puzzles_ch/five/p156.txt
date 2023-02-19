@@ -1,0 +1,6 @@
+7 10 five
+vivid 1 1 0
+inter 2 1 1
+tithe 2 3 0
+group 1 5 0
+older 3 5 1

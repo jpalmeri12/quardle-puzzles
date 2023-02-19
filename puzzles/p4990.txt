@@ -1,0 +1,5 @@
+7 10
+crazy 1 1 0
+revue 2 1 1
+equip 2 5 0
+quasi 3 5 1

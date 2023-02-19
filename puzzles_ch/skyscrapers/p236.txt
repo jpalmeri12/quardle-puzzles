@@ -1,0 +1,5 @@
+7 9 skyscrapers
+niche 4 4 1
+lying 1 4 0
+satyr 2 1 1
+alert 2 8 0

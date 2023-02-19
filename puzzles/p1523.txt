@@ -1,0 +1,5 @@
+7 9
+apply 5 1 1
+adept 2 2 0
+equal 1 4 0
+evade 1 4 1

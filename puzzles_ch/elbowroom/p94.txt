@@ -1,0 +1,5 @@
+7 10 elbowroom
+thorn 6 1 1
+begun 2 5 0
+until 5 5 1
+covet 1 7 0

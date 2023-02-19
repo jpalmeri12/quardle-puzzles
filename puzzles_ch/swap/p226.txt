@@ -1,0 +1,5 @@
+6 10 swap
+flcik 3 1 1
+jekry 1 5 0
+yding 5 5 1
+elfni 1 7 0

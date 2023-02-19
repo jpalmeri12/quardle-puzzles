@@ -1,0 +1,6 @@
+7 10 connectfive
+niche 2 1 1
+scree 1 3 0
+elegy 2 5 0
+lucid 3 5 1
+goofy 5 5 1

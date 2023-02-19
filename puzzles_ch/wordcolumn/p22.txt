@@ -1,0 +1,6 @@
+7 10 wordcolumn
+mimic 1 1 0
+major 3 1 1
+cacti 5 1 1
+brain 2 5 0
+arose 4 5 1

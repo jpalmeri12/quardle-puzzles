@@ -1,0 +1,6 @@
+6 9 drop
+ahead 2 1 1
+white 1 2 0
+every 5 2 1
+range 1 4 0
+payee 1 8 0

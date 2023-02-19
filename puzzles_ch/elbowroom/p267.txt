@@ -1,0 +1,5 @@
+6 10 elbowroom
+bacon 1 1 0
+cross 3 1 1
+bosom 1 5 0
+outdo 4 5 1

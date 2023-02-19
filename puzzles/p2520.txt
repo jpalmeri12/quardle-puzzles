@@ -1,0 +1,5 @@
+7 8
+caulk 5 1 1
+scrub 2 3 1
+drank 1 5 0
+basic 2 7 0

@@ -1,0 +1,6 @@
+6 10 five
+bloom 4 1 1
+jelly 1 2 0
+rhyme 1 5 0
+hound 2 5 1
+ethos 5 5 1

@@ -1,0 +1,5 @@
+7 9 swap
+udlly 5 1 1
+pecae 3 4 1
+uqery 1 5 0
+maong 2 7 0

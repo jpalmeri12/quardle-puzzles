@@ -1,0 +1,6 @@
+7 12 undercover
+plume 3 1 1
+guess 1 5 0
+slang 5 5 1
+human 2 7 0
+droit 1 11 0

@@ -1,0 +1,5 @@
+6 10 frequency
+dowel 3 1 1
+froze 1 2 0
+allot 1 5 0
+lobby 2 5 1

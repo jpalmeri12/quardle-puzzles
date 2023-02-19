@@ -1,0 +1,5 @@
+7 10 spaced
+swami 3 1 1
+viper 2 5 0
+valid 2 5 1
+cling 1 7 0

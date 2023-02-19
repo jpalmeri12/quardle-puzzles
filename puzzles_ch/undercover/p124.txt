@@ -1,0 +1,6 @@
+6 11 undercover
+soggy 2 1 1
+noble 1 2 0
+agora 1 4 0
+recur 4 4 1
+timid 1 10 0

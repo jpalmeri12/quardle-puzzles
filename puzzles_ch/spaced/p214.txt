@@ -1,0 +1,5 @@
+7 9 spaced
+quasi 1 1 1
+spiky 4 4 1
+inept 1 5 0
+taker 2 7 0

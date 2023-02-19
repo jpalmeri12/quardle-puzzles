@@ -1,0 +1,5 @@
+7 9 darkness
+weird 1 4 0
+donut 5 4 1
+pixie 3 1 1
+widen 2 2 0

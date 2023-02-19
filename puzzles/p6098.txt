@@ -1,0 +1,5 @@
+7 9
+hazel 6 1 1
+tidal 2 4 1
+tribe 2 4 0
+tasty 1 7 0

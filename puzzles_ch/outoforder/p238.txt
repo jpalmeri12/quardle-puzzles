@@ -1,0 +1,5 @@
+7 8 outoforder
+alike 6 1 1
+musky 2 3 1
+scree 2 5 0
+cynic 1 7 0

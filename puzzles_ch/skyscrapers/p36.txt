@@ -1,0 +1,5 @@
+7 7 skyscrapers
+umbra 1 1 0
+bongo 3 1 1
+donor 2 5 0
+fairy 6 2 1

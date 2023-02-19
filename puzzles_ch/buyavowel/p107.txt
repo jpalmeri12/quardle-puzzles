@@ -1,0 +1,5 @@
+7 10 buyavowel
+actor 3 1 1
+scout 2 2 0
+parse 1 5 0
+erupt 5 5 1

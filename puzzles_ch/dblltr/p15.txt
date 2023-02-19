@@ -1,0 +1,5 @@
+6 8 dblltr
+tract 1 1 0
+rebel 2 1 1
+prior 5 3 1
+meter 1 4 0

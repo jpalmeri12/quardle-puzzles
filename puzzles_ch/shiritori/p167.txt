@@ -1,0 +1,5 @@
+6 9 shiritori
+wispy 1 1 1
+woozy 1 1 0
+phase 1 4 0
+evade 5 4 1

@@ -1,0 +1,5 @@
+6 9
+sooty 4 1 1
+colon 1 2 0
+acute 1 4 0
+curvy 2 4 1

@@ -1,0 +1,8 @@
+6 8 twins
+emcee 1 1 0
+quoth 1 3 0
+shave 1 5 0
+fully 1 7 0
+!twins 0 2
+!twins 0 3
+!twins 0 1

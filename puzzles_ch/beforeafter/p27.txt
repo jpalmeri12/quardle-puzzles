@@ -1,0 +1,9 @@
+6 9 beforeafter
+smack 1 1 1
+swung 1 1 0
+chart 1 4 0
+roach 4 4 1
+!beforeafter 1 l
+!beforeafter 2 r
+!beforeafter 2 o
+!beforeafter 1 l

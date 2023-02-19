@@ -1,0 +1,5 @@
+6 8
+shown 1 1 1
+slung 1 1 0
+steak 5 3 1
+wrest 1 4 0

@@ -1,0 +1,5 @@
+7 9 scrabble
+laden 1 4 0
+troop 2 1 0
+owing 5 1 1
+aptly 2 4 1

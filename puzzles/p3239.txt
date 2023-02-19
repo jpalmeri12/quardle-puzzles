@@ -1,0 +1,5 @@
+7 10
+canal 2 1 1
+nutty 2 3 0
+blaze 1 5 0
+adopt 3 5 1

@@ -1,0 +1,6 @@
+7 9 commonsecret
+heady 6 1 1
+worry 3 4 1
+horny 2 5 0
+payee 1 8 0
+!secret y

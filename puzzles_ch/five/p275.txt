@@ -1,0 +1,6 @@
+7 10 five
+epoch 4 1 1
+ample 2 2 0
+fishy 1 5 0
+iliac 2 5 1
+inter 2 7 0

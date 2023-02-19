@@ -1,0 +1,6 @@
+7 10 wordcolumn
+bylaw 2 1 1
+hyper 1 2 0
+reach 5 2 1
+watch 2 5 0
+atone 3 5 1

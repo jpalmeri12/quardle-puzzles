@@ -1,0 +1,6 @@
+7 10 wordcolumn
+after 4 1 1
+puffy 2 2 0
+chard 1 5 0
+carve 1 5 1
+alley 3 5 1

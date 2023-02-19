@@ -1,0 +1,6 @@
+7 10 island
+lusty 1 1 0
+spasm 3 1 1
+smite 2 5 0
+tulip 5 5 1
+!island 311 211 2111 221

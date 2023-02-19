@@ -1,0 +1,5 @@
+7 9 clockdown
+quota 6 1 1
+penne 4 4 1
+opera 2 5 0
+quiet 1 8 0

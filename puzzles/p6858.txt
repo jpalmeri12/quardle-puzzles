@@ -1,0 +1,5 @@
+6 10
+vigor 1 1 1
+irony 1 2 0
+risky 1 5 0
+knead 4 5 1

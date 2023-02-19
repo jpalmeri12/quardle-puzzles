@@ -1,0 +1,6 @@
+6 11 undercover
+spilt 1 1 0
+pasta 2 1 1
+cater 5 4 1
+magma 1 5 0
+bunny 1 10 0

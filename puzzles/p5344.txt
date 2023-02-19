@@ -1,0 +1,5 @@
+7 10
+birch 4 1 1
+dirge 2 3 0
+alpha 1 5 0
+lorry 2 5 1

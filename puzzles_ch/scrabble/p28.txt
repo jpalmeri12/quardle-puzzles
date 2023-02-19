@@ -1,0 +1,5 @@
+7 8 scrabble
+tamer 5 3 1
+hoist 1 1 0
+ought 2 1 1
+thyme 2 5 0

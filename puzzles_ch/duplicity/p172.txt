@@ -1,0 +1,5 @@
+7 10 duplicity
+smear 3 1 1
+grass 2 5 0
+grace 2 5 1
+mecca 1 9 0

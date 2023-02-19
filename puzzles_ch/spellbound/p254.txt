@@ -1,0 +1,9 @@
+7 7 spellbound
+troll 3 1 1
+stunt 5 2 1
+forty 2 3 0
+felon 1 5 0
+!spellbound 0 1 0
+!spellbound 1 2 0
+!spellbound 2 2 4
+!spellbound 3 1 3

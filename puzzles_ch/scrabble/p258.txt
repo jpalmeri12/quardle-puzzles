@@ -1,0 +1,5 @@
+7 10 scrabble
+grail 2 1 1
+biome 2 8 0
+karma 5 5 1
+clock 1 5 0

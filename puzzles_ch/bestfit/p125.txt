@@ -1,0 +1,5 @@
+7 10 bestfit
+smith 5 1 1
+stomp 2 2 0
+welsh 1 5 0
+still 4 5 1

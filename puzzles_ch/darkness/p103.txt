@@ -1,0 +1,5 @@
+7 9 darkness
+latte 2 4 1
+royal 4 1 1
+scour 2 2 0
+cloak 1 4 0

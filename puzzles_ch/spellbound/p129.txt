@@ -1,0 +1,9 @@
+6 9 spellbound
+hydro 4 1 1
+abort 1 4 0
+bicep 2 4 1
+sprig 1 8 0
+!spellbound 0 2 4
+!spellbound 1 4 0
+!spellbound 2 2 3
+!spellbound 3 0 2

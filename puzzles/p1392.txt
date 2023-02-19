@@ -1,0 +1,5 @@
+7 10
+viola 3 1 1
+maple 2 5 0
+piper 4 5 1
+fibre 1 9 0

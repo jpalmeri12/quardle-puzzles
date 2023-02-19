@@ -1,0 +1,6 @@
+7 11 drop
+tiger 5 1 1
+burnt 3 4 1
+furry 2 5 0
+pithy 1 8 0
+girth 1 10 0

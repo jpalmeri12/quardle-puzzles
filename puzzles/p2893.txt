@@ -1,0 +1,5 @@
+7 9
+crown 1 1 1
+wafer 1 4 0
+rival 5 4 1
+steal 2 7 0

@@ -1,0 +1,5 @@
+7 10
+prawn 4 1 1
+aunty 2 5 0
+unify 3 5 1
+stink 1 7 0

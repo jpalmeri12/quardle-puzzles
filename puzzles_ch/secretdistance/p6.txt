@@ -1,0 +1,7 @@
+7 12 secretdistance
+total 1 1 1
+laden 1 5 0
+abate 2 5 1
+terra 2 8 0
+taper 1 11 0
+!sdpos 2 0 3 1

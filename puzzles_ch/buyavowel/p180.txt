@@ -1,0 +1,5 @@
+7 10 buyavowel
+sprig 1 1 0
+gusto 5 1 1
+bosom 2 5 0
+ombre 3 5 1

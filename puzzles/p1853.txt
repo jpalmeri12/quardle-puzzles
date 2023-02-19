@@ -1,0 +1,5 @@
+7 9
+annex 1 1 0
+enemy 4 1 1
+shirk 6 4 1
+glyph 2 5 0

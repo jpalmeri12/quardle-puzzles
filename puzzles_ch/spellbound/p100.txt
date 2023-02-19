@@ -1,0 +1,9 @@
+7 9 spellbound
+petal 2 1 1
+tight 4 4 1
+claim 1 5 0
+altar 2 8 0
+!spellbound 0 0 2
+!spellbound 1 2 3
+!spellbound 2 0 2
+!spellbound 3 3 4

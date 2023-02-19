@@ -1,0 +1,5 @@
+7 7 spin
+laden 1 1 0
+delve 3 1 1
+gaunt 6 2 1
+ultra 2 3 0

@@ -1,0 +1,5 @@
+7 7 scrabble
+augur 1 1 0
+motto 6 2 1
+rivet 2 4 0
+umbra 2 1 1

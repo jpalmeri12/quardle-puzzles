@@ -1,0 +1,5 @@
+7 9 dblltr
+bosom 1 1 0
+onion 2 1 1
+dolly 4 4 1
+noose 2 5 0

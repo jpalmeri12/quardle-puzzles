@@ -1,0 +1,9 @@
+7 8 beforeafter
+stain 5 1 1
+felon 3 3 1
+blunt 2 5 0
+lynch 1 7 0
+!beforeafter 1 p
+!beforeafter 1 k
+!beforeafter 1 m
+!beforeafter 2 i

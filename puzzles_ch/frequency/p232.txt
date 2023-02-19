@@ -1,0 +1,5 @@
+7 10 frequency
+hippo 3 1 1
+opera 2 3 0
+afoul 1 5 0
+agora 1 5 1

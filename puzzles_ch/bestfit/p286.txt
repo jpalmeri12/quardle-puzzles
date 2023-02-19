@@ -1,0 +1,5 @@
+7 10 bestfit
+pesto 3 1 1
+beget 2 2 0
+sooth 1 5 0
+outer 2 5 1

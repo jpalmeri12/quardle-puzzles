@@ -1,0 +1,7 @@
+7 12 secretdistance
+bloke 5 1 1
+swill 1 2 0
+amber 2 5 0
+armor 2 5 1
+louse 1 11 0
+!sdpos 3 1 2 2

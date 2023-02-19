@@ -1,0 +1,6 @@
+7 8 wordcolumn
+parse 6 1 1
+steer 2 3 0
+shaky 2 3 1
+exile 4 3 1
+skill 1 6 0

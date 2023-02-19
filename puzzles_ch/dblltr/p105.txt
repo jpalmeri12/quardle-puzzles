@@ -1,0 +1,5 @@
+7 10 dblltr
+union 6 1 1
+known 2 5 0
+ovoid 4 5 1
+whoop 1 7 0

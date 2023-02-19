@@ -1,0 +1,5 @@
+7 9
+shark 3 1 1
+furor 1 4 0
+retry 5 4 1
+satyr 2 8 0

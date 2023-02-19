@@ -1,0 +1,5 @@
+6 8
+sixty 5 1 1
+prude 2 3 1
+curry 1 5 0
+tempo 1 7 0

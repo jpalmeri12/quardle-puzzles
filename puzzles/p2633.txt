@@ -1,0 +1,5 @@
+6 7
+nerdy 2 1 1
+elect 5 2 1
+frill 1 3 0
+lyric 1 5 0

@@ -1,0 +1,5 @@
+7 9
+brief 3 1 1
+moron 1 2 0
+lever 2 4 0
+rumor 6 4 1

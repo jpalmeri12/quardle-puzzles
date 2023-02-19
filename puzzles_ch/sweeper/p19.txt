@@ -1,0 +1,5 @@
+6 10 sweeper
+water 2 1 1
+cress 1 5 0
+siren 5 5 1
+brown 1 9 0

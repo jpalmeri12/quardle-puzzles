@@ -1,0 +1,6 @@
+7 8 connectfive
+quart 3 1 1
+stung 1 2 0
+ulcer 6 3 1
+trial 2 4 0
+rigor 2 7 0

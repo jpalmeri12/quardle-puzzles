@@ -1,0 +1,5 @@
+6 9 swap
+robit 1 1 0
+trati 5 1 1
+sacnt 1 4 0
+colno 3 4 1

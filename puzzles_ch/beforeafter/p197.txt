@@ -1,0 +1,9 @@
+7 9 beforeafter
+trope 2 1 1
+tying 5 4 1
+hefty 1 5 0
+judge 2 8 0
+!beforeafter 1 q
+!beforeafter 1 o
+!beforeafter 2 n
+!beforeafter 1 i

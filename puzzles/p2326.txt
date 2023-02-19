@@ -1,0 +1,5 @@
+7 8
+betel 1 1 1
+bathe 4 3 1
+essay 1 4 0
+abhor 2 6 0

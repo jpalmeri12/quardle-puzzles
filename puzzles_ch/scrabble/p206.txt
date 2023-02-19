@@ -1,0 +1,5 @@
+7 9 scrabble
+tiger 5 1 1
+ether 1 5 0
+depth 1 4 1
+kitty 2 1 0

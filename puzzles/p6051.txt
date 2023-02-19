@@ -1,0 +1,5 @@
+7 10
+erupt 1 1 1
+tight 1 5 0
+truth 5 5 1
+lemur 2 7 0

@@ -1,0 +1,5 @@
+7 8
+smirk 5 1 1
+gnome 3 3 1
+snore 2 4 0
+bless 1 7 0

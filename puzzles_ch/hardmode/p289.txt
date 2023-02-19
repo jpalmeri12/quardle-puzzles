@@ -1,0 +1,5 @@
+7 9 hardmode
+favor 5 1 1
+hence 3 4 1
+retro 2 5 0
+macro 1 7 0

@@ -1,0 +1,6 @@
+7 10 commonsecret
+delta 3 1 1
+leash 2 2 0
+enact 1 5 0
+tuber 5 5 1
+!secret e

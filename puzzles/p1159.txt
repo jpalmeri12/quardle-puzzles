@@ -1,0 +1,5 @@
+7 9
+spore 2 1 1
+plunk 2 2 0
+prone 1 4 0
+nanny 4 4 1

@@ -1,0 +1,5 @@
+7 10 invention
+ferry 5 1 1
+fjord 2 3 0
+woozy 1 5 0
+wryly 1 5 1

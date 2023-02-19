@@ -1,0 +1,5 @@
+6 10 outoforder
+rajah 3 1 1
+usher 1 5 0
+sever 2 5 1
+wrath 1 9 0

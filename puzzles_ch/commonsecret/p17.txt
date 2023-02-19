@@ -1,0 +1,6 @@
+7 9 commonsecret
+annul 4 1 1
+wheat 2 4 1
+halve 2 5 0
+stall 1 8 0
+!secret a

@@ -1,0 +1,5 @@
+6 9
+blast 4 1 1
+dully 1 2 0
+artsy 1 4 0
+anvil 1 4 1

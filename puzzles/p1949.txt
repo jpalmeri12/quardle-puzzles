@@ -1,0 +1,5 @@
+7 9
+white 5 1 1
+reach 1 2 0
+hobby 2 4 1
+octet 2 5 0

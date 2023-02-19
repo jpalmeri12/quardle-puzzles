@@ -1,0 +1,6 @@
+6 8 squaredance
+riser 1 1 1
+navel 5 1 1
+raven 1 1 0
+regal 1 5 0
+venom 1 7 0

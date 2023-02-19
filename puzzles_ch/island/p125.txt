@@ -1,0 +1,6 @@
+7 10 island
+motel 1 1 1
+lasso 1 5 0
+olden 5 5 1
+arena 2 9 0
+!island 2111 22 221 211

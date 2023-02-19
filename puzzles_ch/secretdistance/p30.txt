@@ -1,0 +1,7 @@
+7 12 secretdistance
+balmy 1 1 0
+mover 4 1 1
+serum 2 5 0
+early 3 5 1
+fever 1 11 0
+!sdpos 0 2 1 1

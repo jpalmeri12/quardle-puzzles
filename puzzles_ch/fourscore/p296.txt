@@ -1,0 +1,5 @@
+7 10 fourscore
+music 6 1 1
+antic 2 5 0
+inner 5 5 1
+power 1 9 0

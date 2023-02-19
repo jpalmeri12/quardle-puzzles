@@ -1,0 +1,5 @@
+7 9 clockdown
+alpha 2 1 1
+flaky 1 2 0
+cable 5 4 1
+altar 2 5 0

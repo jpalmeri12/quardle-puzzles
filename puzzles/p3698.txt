@@ -1,0 +1,5 @@
+7 10
+debug 4 1 1
+alley 1 2 0
+vogue 2 5 0
+upset 5 5 1

@@ -1,0 +1,5 @@
+6 7 shiritori
+wench 2 1 1
+terse 1 2 0
+shame 4 2 1
+thumb 1 5 0

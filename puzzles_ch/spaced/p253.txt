@@ -1,0 +1,5 @@
+6 9 spaced
+wharf 1 1 1
+skimp 5 4 1
+frank 1 5 0
+chasm 1 7 0

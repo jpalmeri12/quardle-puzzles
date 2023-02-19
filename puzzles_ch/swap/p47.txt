@@ -1,0 +1,5 @@
+7 9 swap
+altte 2 1 1
+atker 2 1 0
+grion 4 4 1
+tehre 1 5 0

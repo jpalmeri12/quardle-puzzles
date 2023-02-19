@@ -1,0 +1,6 @@
+7 10 wordcolumn
+wound 5 1 1
+bleed 2 3 1
+beard 1 5 0
+rigor 4 5 1
+harem 2 9 0

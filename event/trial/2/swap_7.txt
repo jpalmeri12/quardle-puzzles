@@ -1,0 +1,5 @@
+7 9 swap
+leaev 4 1 1
+speil 2 2 0
+udtch 2 4 1
+rdove 1 5 0

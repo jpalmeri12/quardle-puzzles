@@ -1,0 +1,5 @@
+7 10 duplicity
+eerie 3 1 1
+dense 2 5 0
+drier 2 5 1
+resin 1 8 0

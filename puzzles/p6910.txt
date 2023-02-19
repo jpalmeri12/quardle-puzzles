@@ -1,0 +1,5 @@
+6 7
+handy 5 1 1
+comma 1 2 0
+oxide 2 2 1
+vivid 1 4 0

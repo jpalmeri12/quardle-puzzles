@@ -1,0 +1,5 @@
+7 10
+threw 1 1 1
+wacky 1 5 0
+antic 2 5 1
+tipsy 2 7 0

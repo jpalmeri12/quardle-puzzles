@@ -1,0 +1,6 @@
+6 9 drop
+sower 4 1 1
+ascot 1 2 0
+speed 2 2 1
+revel 1 4 0
+shave 1 8 0

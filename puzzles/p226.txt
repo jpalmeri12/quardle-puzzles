@@ -1,0 +1,5 @@
+7 10
+scoop 4 1 1
+proxy 2 3 0
+kappa 1 5 0
+penal 3 5 1

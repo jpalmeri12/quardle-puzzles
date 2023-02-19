@@ -1,0 +1,5 @@
+6 10 dblltr
+fever 1 1 1
+eater 1 2 0
+retro 1 5 0
+every 2 5 1

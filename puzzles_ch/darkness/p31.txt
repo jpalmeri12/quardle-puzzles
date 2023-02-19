@@ -1,0 +1,5 @@
+6 10 darkness
+vapor 3 5 1
+murky 1 9 0
+newer 1 1 1
+raven 1 5 0

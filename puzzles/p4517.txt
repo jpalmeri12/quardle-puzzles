@@ -1,0 +1,5 @@
+7 10
+regal 4 1 1
+began 2 3 0
+table 1 5 0
+abhor 2 5 1

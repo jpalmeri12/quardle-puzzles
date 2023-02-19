@@ -1,0 +1,6 @@
+7 9 undercover
+usual 2 1 1
+sumac 2 2 0
+mound 4 2 1
+cling 1 5 0
+beret 1 8 0

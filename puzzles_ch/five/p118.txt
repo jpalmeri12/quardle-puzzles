@@ -1,0 +1,6 @@
+7 9 five
+taste 2 1 1
+tonal 2 1 0
+stock 1 4 0
+koala 5 4 1
+mocha 1 8 0

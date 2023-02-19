@@ -1,0 +1,5 @@
+6 10
+buxom 3 1 1
+dummy 1 5 0
+unzip 2 5 1
+hinge 1 8 0

@@ -1,0 +1,5 @@
+7 10
+crave 4 1 1
+beast 2 3 0
+boxer 1 5 0
+burst 1 5 1

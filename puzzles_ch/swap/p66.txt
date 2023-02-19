@@ -1,0 +1,5 @@
+7 9 swap
+stikc 3 1 1
+rteat 2 2 0
+caues 5 4 1
+decla 1 5 0

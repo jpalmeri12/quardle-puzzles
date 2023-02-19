@@ -1,0 +1,5 @@
+7 9 clockdown
+glory 3 1 1
+harem 1 4 0
+moist 5 4 1
+bliss 2 7 0

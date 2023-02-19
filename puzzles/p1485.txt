@@ -1,0 +1,5 @@
+7 10
+brood 2 1 0
+ovine 5 1 1
+whine 1 5 0
+nobly 4 5 1

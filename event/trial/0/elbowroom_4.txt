@@ -1,0 +1,5 @@
+7 9 elbowroom
+prong 2 1 1
+briar 1 2 0
+vogue 4 4 1
+goody 2 5 0

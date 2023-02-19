@@ -1,0 +1,6 @@
+7 9 five
+fetid 1 1 1
+foggy 1 1 0
+idiom 1 4 0
+image 3 4 1
+igloo 2 7 0

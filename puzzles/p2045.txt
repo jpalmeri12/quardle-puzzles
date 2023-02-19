@@ -1,0 +1,5 @@
+7 9
+canoe 1 1 0
+argue 2 1 1
+urban 2 4 0
+abide 5 4 1

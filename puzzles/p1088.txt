@@ -1,0 +1,5 @@
+7 9
+slang 1 1 1
+never 1 4 0
+voice 3 4 1
+sewer 2 8 0

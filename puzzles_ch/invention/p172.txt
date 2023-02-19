@@ -1,0 +1,5 @@
+6 10 invention
+aback 1 1 0
+bayou 2 1 1
+mural 1 5 0
+rabid 3 5 1

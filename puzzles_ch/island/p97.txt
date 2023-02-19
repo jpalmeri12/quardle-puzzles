@@ -1,0 +1,6 @@
+6 7 island
+flail 2 1 1
+merge 4 2 1
+wafer 1 3 0
+align 1 5 0
+!island 1111 211 5 11111

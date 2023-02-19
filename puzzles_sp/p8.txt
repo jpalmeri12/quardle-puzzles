@@ -1,0 +1,6 @@
+6 9 drop
+hasty 3 1 1
+brain 1 2 0
+niche 5 2 1
+antic 1 4 0
+itchy 1 8 0

@@ -1,0 +1,5 @@
+7 9
+recut 1 1 0
+exult 2 1 1
+lymph 2 4 0
+humph 6 4 1

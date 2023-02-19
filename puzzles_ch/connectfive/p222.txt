@@ -1,0 +1,6 @@
+7 9 connectfive
+imbue 4 1 1
+comic 2 2 0
+spurn 2 4 0
+slink 2 4 1
+unlit 1 7 0

@@ -1,0 +1,5 @@
+7 9
+spawn 2 1 0
+wharf 5 1 1
+juror 1 4 0
+jewel 1 4 1

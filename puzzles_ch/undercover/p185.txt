@@ -1,0 +1,6 @@
+7 11 undercover
+bless 6 1 1
+abuse 4 4 1
+rebus 2 5 0
+preen 1 8 0
+civic 1 10 0

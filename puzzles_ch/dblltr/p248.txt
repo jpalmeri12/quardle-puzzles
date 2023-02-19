@@ -1,0 +1,5 @@
+7 9 dblltr
+allot 6 1 1
+folio 2 4 0
+offal 3 4 1
+jiffy 1 6 0

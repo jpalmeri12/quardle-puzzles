@@ -1,0 +1,5 @@
+7 10
+space 1 1 0
+ennui 5 1 1
+remit 2 5 0
+tacky 6 5 1

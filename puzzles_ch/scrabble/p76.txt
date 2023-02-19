@@ -1,0 +1,5 @@
+7 9 scrabble
+stand 1 1 0
+nasty 4 1 1
+idyll 2 5 0
+flaky 6 4 1

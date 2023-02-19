@@ -1,0 +1,5 @@
+7 10
+pansy 2 1 1
+cyber 1 5 0
+excel 4 5 1
+allot 2 9 0

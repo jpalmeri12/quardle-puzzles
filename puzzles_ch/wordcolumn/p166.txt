@@ -1,0 +1,6 @@
+7 11 wordcolumn
+halve 5 1 1
+offal 1 3 0
+furor 2 3 1
+amaze 6 6 1
+rearm 2 7 0

@@ -1,0 +1,5 @@
+7 9
+civic 6 1 1
+fungi 2 4 0
+nudge 4 4 1
+erode 1 6 0

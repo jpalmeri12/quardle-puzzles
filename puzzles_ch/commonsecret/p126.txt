@@ -1,0 +1,6 @@
+7 9 commonsecret
+shoot 5 1 1
+sight 2 2 0
+midst 3 4 1
+saint 1 5 0
+!secret t

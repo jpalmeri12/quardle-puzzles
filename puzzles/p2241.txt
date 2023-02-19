@@ -1,0 +1,5 @@
+7 10
+racer 2 1 1
+ruddy 2 5 0
+utter 3 5 1
+erect 1 8 0

@@ -1,0 +1,6 @@
+7 8 connectfive
+cloth 4 1 1
+eagle 1 2 0
+ghost 6 3 1
+dutch 2 4 0
+fruit 2 7 0

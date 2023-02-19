@@ -1,0 +1,5 @@
+7 10
+gumbo 3 1 1
+moult 1 2 0
+bowel 2 5 0
+logic 6 5 1

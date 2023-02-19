@@ -1,0 +1,5 @@
+7 10
+blurt 5 1 1
+pleat 1 5 0
+elegy 3 5 1
+igloo 2 8 0

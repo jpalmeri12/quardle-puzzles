@@ -1,0 +1,5 @@
+7 9 outoforder
+fewer 3 1 1
+blend 1 4 0
+dogma 5 4 1
+flame 2 7 0

@@ -1,0 +1,5 @@
+7 9 frequency
+forth 1 1 1
+tamer 1 4 0
+rally 5 4 1
+satyr 2 8 0

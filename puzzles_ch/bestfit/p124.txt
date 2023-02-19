@@ -1,0 +1,5 @@
+7 9 bestfit
+flame 2 1 1
+leper 2 2 0
+flesh 5 4 1
+revel 1 5 0

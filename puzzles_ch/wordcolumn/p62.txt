@@ -1,0 +1,6 @@
+7 10 wordcolumn
+tabby 1 1 0
+blurt 4 1 1
+altar 2 3 1
+tatty 2 5 0
+tepee 5 5 1

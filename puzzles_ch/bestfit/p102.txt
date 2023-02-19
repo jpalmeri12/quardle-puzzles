@@ -1,0 +1,5 @@
+6 9 bestfit
+decor 2 1 1
+rebus 1 2 0
+ester 4 4 1
+fresh 1 5 0

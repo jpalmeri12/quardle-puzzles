@@ -1,0 +1,5 @@
+6 9
+grimy 4 1 1
+alert 1 2 0
+llama 1 4 0
+loopy 2 4 1

@@ -1,0 +1,6 @@
+7 10 five
+koala 4 1 1
+using 2 3 1
+inane 2 5 0
+night 5 5 1
+aging 1 7 0

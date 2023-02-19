@@ -1,0 +1,5 @@
+7 7 frequency
+preen 6 1 1
+speed 3 2 1
+reuse 2 4 0
+endow 1 6 0

@@ -1,0 +1,5 @@
+7 10
+chump 2 1 1
+heron 2 2 0
+upper 1 5 0
+ripen 5 5 1

@@ -1,0 +1,5 @@
+6 10
+first 5 1 1
+cleft 1 5 0
+lithe 2 5 1
+stunk 1 7 0

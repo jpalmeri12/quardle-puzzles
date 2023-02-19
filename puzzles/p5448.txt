@@ -1,0 +1,5 @@
+7 7
+grate 2 1 1
+raven 2 2 0
+entry 5 2 1
+sever 1 5 0

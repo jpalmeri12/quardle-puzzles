@@ -1,0 +1,5 @@
+7 7
+throb 2 1 1
+thrum 1 2 0
+mogul 5 2 1
+bonus 2 5 0

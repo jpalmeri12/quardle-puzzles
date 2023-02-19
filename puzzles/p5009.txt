@@ -1,0 +1,5 @@
+7 9
+prior 2 1 1
+arrow 1 2 0
+dowdy 5 4 1
+razor 2 5 0

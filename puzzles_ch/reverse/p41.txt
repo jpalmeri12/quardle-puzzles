@@ -1,0 +1,5 @@
+7 9 reverse
+yssom 2 1 1
+yksum 2 1 0
+coral 1 4 0
+lynch 5 4 1

@@ -1,0 +1,5 @@
+7 8 buyavowel
+forgo 2 1 1
+robin 2 3 0
+briny 4 3 1
+comic 1 5 0

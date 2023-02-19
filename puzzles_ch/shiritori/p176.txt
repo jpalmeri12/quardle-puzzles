@@ -1,0 +1,5 @@
+7 9 shiritori
+vinyl 6 1 1
+jiffy 2 4 0
+finer 4 4 1
+drank 1 6 0

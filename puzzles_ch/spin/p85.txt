@@ -1,0 +1,5 @@
+7 10 spin
+visit 3 1 1
+rainy 1 2 0
+steer 2 5 0
+risky 6 5 1

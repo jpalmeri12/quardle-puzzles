@@ -1,0 +1,5 @@
+6 9 reverse
+tramp 5 1 1
+yksum 1 4 0
+sohte 3 4 1
+alter 1 7 0

@@ -1,0 +1,5 @@
+6 8
+bosom 1 1 0
+overt 4 1 1
+worse 2 3 1
+sorry 1 4 0

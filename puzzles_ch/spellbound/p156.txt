@@ -1,0 +1,9 @@
+6 8 spellbound
+kiosk 1 1 1
+knead 1 1 0
+algae 3 3 1
+salty 1 4 0
+!spellbound 0 4 2
+!spellbound 1 2 1
+!spellbound 2 2 0
+!spellbound 3 1 3

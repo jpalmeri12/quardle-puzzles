@@ -1,0 +1,7 @@
+7 11 secretdistance
+aloof 1 1 1
+otter 1 4 0
+essay 4 4 1
+class 2 7 0
+guppy 1 10 0
+!sdpos 3 0 0 3

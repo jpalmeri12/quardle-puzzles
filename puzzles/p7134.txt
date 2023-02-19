@@ -1,0 +1,5 @@
+7 10
+penne 5 1 1
+inlet 2 5 0
+newly 3 5 1
+dowdy 1 7 0

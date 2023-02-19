@@ -1,0 +1,5 @@
+7 9
+balmy 3 1 1
+omega 2 4 0
+grind 5 4 1
+scald 1 8 0

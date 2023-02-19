@@ -1,0 +1,5 @@
+7 9
+allay 5 1 1
+rival 1 2 0
+tread 2 4 0
+throw 2 4 1

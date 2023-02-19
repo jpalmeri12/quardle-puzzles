@@ -1,0 +1,5 @@
+7 9 hardmode
+inlet 5 1 1
+rhino 2 2 0
+drone 1 4 0
+rower 2 4 1

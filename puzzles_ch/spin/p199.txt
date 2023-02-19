@@ -1,0 +1,5 @@
+7 10 spin
+utter 2 1 1
+prime 1 5 0
+inert 3 5 1
+brute 2 8 0

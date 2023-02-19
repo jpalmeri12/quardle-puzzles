@@ -1,0 +1,6 @@
+6 11 drop
+pried 2 1 1
+track 1 2 0
+pesto 1 4 0
+overt 5 4 1
+trout 1 10 0

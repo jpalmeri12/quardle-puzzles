@@ -1,0 +1,6 @@
+7 10 undercover
+bunch 4 1 1
+bongo 2 3 0
+bulky 2 3 1
+cynic 1 7 0
+verve 1 9 0

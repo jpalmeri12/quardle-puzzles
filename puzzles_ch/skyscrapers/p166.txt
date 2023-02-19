@@ -1,0 +1,5 @@
+6 8 skyscrapers
+wooer 3 3 1
+trove 1 4 0
+money 5 1 1
+aorta 1 7 0

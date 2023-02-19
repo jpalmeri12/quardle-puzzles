@@ -1,0 +1,6 @@
+6 10 island
+paste 5 1 1
+tiara 1 2 0
+mauve 1 5 0
+verge 4 5 1
+!island 311 211 11111 22

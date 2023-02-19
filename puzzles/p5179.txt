@@ -1,0 +1,5 @@
+7 7
+chaos 3 1 1
+ethos 1 2 0
+smash 5 2 1
+polar 2 4 0

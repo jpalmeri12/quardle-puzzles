@@ -1,0 +1,5 @@
+7 8 reverse
+dunce 2 1 0
+cheek 5 1 1
+edile 1 3 0
+ikahk 3 3 1

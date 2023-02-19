@@ -1,0 +1,5 @@
+7 10
+evoke 5 1 1
+river 2 5 0
+ruler 2 5 1
+genre 1 8 0

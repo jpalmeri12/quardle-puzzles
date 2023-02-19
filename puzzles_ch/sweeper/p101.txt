@@ -1,0 +1,5 @@
+7 9 sweeper
+bleep 1 1 0
+equal 3 1 1
+water 2 4 0
+rifle 6 4 1

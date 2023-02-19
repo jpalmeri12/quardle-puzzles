@@ -1,0 +1,5 @@
+6 8 desync
+broil 2 1 1
+kiosk 4 3 1
+gloom 1 5 0
+musky 1 7 0

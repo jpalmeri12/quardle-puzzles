@@ -1,0 +1,6 @@
+7 10 wordcolumn
+gumbo 5 1 1
+muddy 2 2 1
+qualm 1 3 0
+droop 2 5 0
+paler 6 5 1

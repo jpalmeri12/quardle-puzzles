@@ -1,0 +1,9 @@
+7 10 spellbound
+vaunt 6 1 1
+upset 2 5 0
+prawn 3 5 1
+power 1 8 0
+!spellbound 0 3 1
+!spellbound 1 0 2
+!spellbound 2 2 4
+!spellbound 3 3 0

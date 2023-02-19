@@ -1,0 +1,5 @@
+6 8
+mouth 2 1 1
+widen 4 3 1
+strip 1 4 0
+inane 1 7 0

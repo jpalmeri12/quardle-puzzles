@@ -1,0 +1,6 @@
+7 10 commonsecret
+radii 1 1 1
+idiom 1 5 0
+mound 5 5 1
+demur 2 7 0
+!secret d

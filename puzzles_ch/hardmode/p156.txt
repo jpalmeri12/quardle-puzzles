@@ -1,0 +1,5 @@
+7 10 hardmode
+rumor 4 1 1
+flour 1 2 0
+verve 2 5 0
+viola 5 5 1

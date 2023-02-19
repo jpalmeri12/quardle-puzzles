@@ -1,0 +1,9 @@
+7 9 spellbound
+truly 5 1 1
+folly 3 4 1
+smoky 1 5 0
+hydro 2 8 0
+!spellbound 0 1 0
+!spellbound 1 2 0
+!spellbound 2 0 3
+!spellbound 3 4 2

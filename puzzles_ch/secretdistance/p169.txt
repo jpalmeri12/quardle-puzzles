@@ -1,0 +1,7 @@
+7 12 secretdistance
+circa 2 1 1
+pansy 1 5 0
+split 4 5 1
+white 2 8 0
+papal 1 11 0
+!sdpos 2 0 3 0

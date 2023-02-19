@@ -1,0 +1,5 @@
+7 10 beta
+ensue 4 1 1
+honey 2 2 0
+older 1 5 0
+outdo 1 5 1

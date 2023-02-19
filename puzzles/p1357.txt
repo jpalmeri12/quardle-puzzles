@@ -1,0 +1,5 @@
+7 10
+movie 5 1 1
+hydro 1 2 0
+bezel 2 5 0
+ebony 3 5 1

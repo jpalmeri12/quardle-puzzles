@@ -1,0 +1,5 @@
+7 10
+spiky 5 1 1
+druid 2 3 0
+downy 1 5 0
+widen 3 5 1

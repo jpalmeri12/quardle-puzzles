@@ -1,0 +1,6 @@
+7 9 commonsecret
+flint 5 1 1
+churn 2 4 1
+clank 2 4 0
+endow 1 8 0
+!secret n

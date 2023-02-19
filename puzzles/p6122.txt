@@ -1,0 +1,5 @@
+7 10
+froze 3 1 1
+trend 2 5 1
+terse 2 5 0
+ankle 1 8 0

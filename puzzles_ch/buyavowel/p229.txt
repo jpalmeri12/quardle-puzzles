@@ -1,0 +1,5 @@
+7 9 buyavowel
+barge 1 1 1
+gayer 1 4 0
+young 3 4 1
+mushy 2 6 0

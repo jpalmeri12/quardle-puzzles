@@ -1,0 +1,5 @@
+7 10
+great 2 1 1
+risen 2 2 0
+stray 1 5 0
+ripen 3 5 1

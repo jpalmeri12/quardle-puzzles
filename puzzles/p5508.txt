@@ -1,0 +1,5 @@
+7 9
+banjo 5 1 1
+renal 2 2 0
+tepid 3 4 1
+credo 1 5 0

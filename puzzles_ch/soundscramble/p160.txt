@@ -1,0 +1,5 @@
+7 7 soundscramble
+tadil 5 1 1
+glade 3 2 1
+blide 2 3 0
+medil 1 5 0

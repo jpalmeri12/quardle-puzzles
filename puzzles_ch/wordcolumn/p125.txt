@@ -1,0 +1,6 @@
+7 10 wordcolumn
+match 6 1 1
+quash 2 5 0
+aware 4 5 1
+ready 2 7 0
+given 1 9 0

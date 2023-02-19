@@ -1,0 +1,5 @@
+7 7 darkness
+snore 2 5 0
+ethos 2 1 1
+every 5 2 1
+stove 1 2 0

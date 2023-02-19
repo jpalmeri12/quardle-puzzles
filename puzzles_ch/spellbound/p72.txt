@@ -1,0 +1,9 @@
+6 8 spellbound
+loopy 1 1 1
+avert 4 3 1
+privy 1 4 0
+trite 1 7 0
+!spellbound 0 1 4
+!spellbound 1 2 3
+!spellbound 2 4 1
+!spellbound 3 1 0

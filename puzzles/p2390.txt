@@ -1,0 +1,5 @@
+7 9
+wield 6 1 1
+humid 3 4 1
+lurid 2 5 0
+thing 1 7 0

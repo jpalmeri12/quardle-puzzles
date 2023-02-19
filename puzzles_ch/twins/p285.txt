@@ -1,0 +1,8 @@
+6 8 twins
+lilac 1 1 0
+anode 1 3 0
+angry 1 5 0
+trove 1 7 0
+!twins 2 3
+!twins 0 1
+!twins 1 3

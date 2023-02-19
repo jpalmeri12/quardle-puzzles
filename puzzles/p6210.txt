@@ -1,0 +1,5 @@
+7 9
+swung 3 1 1
+bowel 1 2 0
+loath 6 4 1
+igloo 2 5 0

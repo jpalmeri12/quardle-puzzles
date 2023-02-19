@@ -1,0 +1,9 @@
+7 9 beforeafter
+major 5 1 1
+snide 3 4 1
+inert 2 5 0
+undid 1 7 0
+!beforeafter 2 n
+!beforeafter 1 k
+!beforeafter 2 q
+!beforeafter 1 l

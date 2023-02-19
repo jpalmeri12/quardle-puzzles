@@ -1,0 +1,5 @@
+7 9 duplicity
+cacti 1 1 1
+latte 4 4 1
+iliac 1 5 0
+cleat 2 8 0

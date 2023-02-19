@@ -1,0 +1,9 @@
+7 8 beforeafter
+badly 1 1 0
+abyss 2 1 1
+solid 5 3 1
+swell 2 5 0
+!beforeafter 2 j
+!beforeafter 1 l
+!beforeafter 1 n
+!beforeafter 1 q

@@ -1,0 +1,5 @@
+7 9
+polar 5 1 1
+arrow 2 2 0
+storm 3 4 1
+ester 1 5 0

@@ -1,0 +1,5 @@
+7 8 spaced
+image 2 1 0
+inlay 2 1 1
+bluer 1 3 0
+reign 5 3 1

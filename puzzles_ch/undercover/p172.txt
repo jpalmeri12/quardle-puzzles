@@ -1,0 +1,6 @@
+6 11 undercover
+elide 5 1 1
+lipid 1 4 0
+patio 3 4 1
+idiot 1 7 0
+funny 1 10 0

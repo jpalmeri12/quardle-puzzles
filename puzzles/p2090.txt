@@ -1,0 +1,5 @@
+7 10
+vixen 2 1 1
+filmy 1 2 0
+naive 2 5 0
+index 4 5 1

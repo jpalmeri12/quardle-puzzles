@@ -1,0 +1,6 @@
+7 11 undercover
+basis 2 1 1
+cling 5 4 1
+shalt 2 5 0
+resin 1 7 0
+puppy 1 10 0

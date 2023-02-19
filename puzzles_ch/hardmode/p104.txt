@@ -1,0 +1,5 @@
+7 10 hardmode
+shorn 5 1 1
+sixth 1 2 0
+fanny 2 5 0
+nicer 4 5 1

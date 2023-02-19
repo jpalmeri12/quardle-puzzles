@@ -1,0 +1,8 @@
+6 8 twins
+easel 1 1 0
+clown 1 3 0
+lurch 1 5 0
+relic 1 7 0
+!twins 0 4
+!twins 0 1
+!twins 0 2

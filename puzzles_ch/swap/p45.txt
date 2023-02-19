@@ -1,0 +1,5 @@
+7 8 swap
+guaav 6 1 1
+tired 3 3 1
+tiiba 2 4 0
+tseam 1 6 0

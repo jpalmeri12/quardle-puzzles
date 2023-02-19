@@ -1,0 +1,5 @@
+7 7
+glass 5 1 1
+noose 2 2 1
+vodka 1 3 0
+slash 2 5 0

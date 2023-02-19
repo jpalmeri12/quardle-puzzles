@@ -1,0 +1,6 @@
+7 9 five
+tight 5 1 1
+train 2 2 0
+sloth 1 4 0
+olden 3 4 1
+tense 2 7 0

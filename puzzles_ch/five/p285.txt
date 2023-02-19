@@ -1,0 +1,6 @@
+7 9 five
+crock 4 1 1
+spire 1 2 0
+decoy 2 4 0
+yield 6 4 1
+rigid 2 8 0

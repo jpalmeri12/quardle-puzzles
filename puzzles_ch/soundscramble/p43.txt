@@ -1,0 +1,5 @@
+7 9 soundscramble
+humen 4 1 1
+eblad 2 4 1
+bunny 2 5 0
+dabut 1 7 0

@@ -1,0 +1,6 @@
+7 11 connectfive
+comet 5 1 1
+fudge 1 4 0
+debar 3 4 1
+bylaw 6 6 1
+early 2 7 0

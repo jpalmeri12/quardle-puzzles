@@ -1,0 +1,5 @@
+6 6 skyscrapers
+rigid 1 2 0
+probe 1 1 1
+boney 1 4 0
+filet 4 1 1

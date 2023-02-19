@@ -1,0 +1,5 @@
+7 9
+stuff 5 1 1
+chief 1 4 0
+hunky 2 4 1
+knave 2 7 0

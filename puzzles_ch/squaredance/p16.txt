@@ -1,0 +1,6 @@
+6 8 squaredance
+beret 1 1 1
+tatty 5 1 1
+burnt 1 1 0
+toddy 1 5 0
+gassy 1 7 0

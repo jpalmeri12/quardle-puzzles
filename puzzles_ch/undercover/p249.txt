@@ -1,0 +1,6 @@
+7 10 undercover
+viral 2 1 1
+natal 5 3 1
+blurt 1 5 0
+child 2 7 0
+geeky 1 9 0

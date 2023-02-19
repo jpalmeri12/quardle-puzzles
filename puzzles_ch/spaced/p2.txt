@@ -1,0 +1,5 @@
+7 9 spaced
+hardy 5 1 1
+creak 2 2 0
+range 2 4 1
+dairy 1 5 0

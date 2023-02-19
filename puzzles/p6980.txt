@@ -1,0 +1,5 @@
+7 10
+range 4 1 1
+gland 2 2 0
+fleet 1 5 0
+lurid 2 5 1

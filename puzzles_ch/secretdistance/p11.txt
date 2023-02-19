@@ -1,0 +1,7 @@
+7 11 secretdistance
+elect 1 1 1
+cress 1 4 0
+solve 5 4 1
+savvy 2 7 0
+hardy 1 10 0
+!sdpos 0 2 3 1

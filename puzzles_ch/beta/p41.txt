@@ -1,0 +1,5 @@
+7 10 beta
+chili 4 1 1
+pithy 1 2 0
+guile 2 5 0
+elope 6 5 1

@@ -1,0 +1,6 @@
+7 10 commonsecret
+sushi 3 1 1
+diode 2 5 0
+doing 5 5 1
+bison 1 8 0
+!secret i

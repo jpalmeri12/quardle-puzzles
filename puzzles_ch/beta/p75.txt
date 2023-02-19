@@ -1,0 +1,5 @@
+7 10 beta
+abode 4 1 1
+usher 1 5 0
+shave 2 5 1
+ethic 2 9 0

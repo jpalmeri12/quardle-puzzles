@@ -1,0 +1,5 @@
+7 8
+manor 6 1 1
+clean 2 3 0
+liken 3 3 1
+honor 1 7 0

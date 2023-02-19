@@ -1,0 +1,5 @@
+7 10 elbowroom
+atone 4 1 1
+furor 1 3 0
+geeky 2 5 0
+yearn 6 5 1

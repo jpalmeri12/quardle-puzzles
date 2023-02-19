@@ -1,0 +1,5 @@
+7 9 swap
+ysnod 1 1 0
+oviod 4 1 1
+tanog 6 4 1
+tidla 2 5 0

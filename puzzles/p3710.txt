@@ -1,0 +1,5 @@
+7 9
+vaunt 5 1 1
+liver 3 4 1
+waist 1 5 0
+segue 2 7 0

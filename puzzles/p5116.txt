@@ -1,0 +1,5 @@
+6 7
+cameo 5 1 1
+brunt 3 2 1
+scram 1 3 0
+pinto 1 5 0

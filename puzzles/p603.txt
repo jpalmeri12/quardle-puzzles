@@ -1,0 +1,5 @@
+6 9
+brawl 4 1 1
+weary 1 2 0
+brown 1 4 0
+reign 2 4 1

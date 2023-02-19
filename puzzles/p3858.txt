@@ -1,0 +1,5 @@
+7 10
+aroma 4 1 1
+delay 1 5 0
+elect 2 5 1
+elfin 2 7 0

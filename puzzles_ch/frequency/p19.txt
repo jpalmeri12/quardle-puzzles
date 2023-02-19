@@ -1,0 +1,5 @@
+7 10 frequency
+ditto 3 1 1
+scoop 1 5 0
+owner 4 5 1
+creme 2 8 0

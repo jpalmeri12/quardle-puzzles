@@ -1,0 +1,5 @@
+7 10
+voila 2 1 0
+orbit 3 1 1
+otter 1 5 0
+epoxy 4 5 1

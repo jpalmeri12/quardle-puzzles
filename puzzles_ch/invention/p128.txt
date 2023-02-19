@@ -1,0 +1,5 @@
+7 8 invention
+argue 5 1 1
+usage 2 3 0
+shrug 3 3 1
+verve 1 5 0

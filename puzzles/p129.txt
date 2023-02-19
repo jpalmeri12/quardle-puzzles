@@ -1,0 +1,5 @@
+6 8
+brave 3 1 1
+clown 5 3 1
+credo 1 5 0
+drawn 1 7 0

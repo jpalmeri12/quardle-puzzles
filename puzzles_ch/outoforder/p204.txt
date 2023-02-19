@@ -1,0 +1,5 @@
+7 10 outoforder
+outdo 2 1 1
+third 2 3 0
+hover 1 5 0
+vinyl 3 5 1

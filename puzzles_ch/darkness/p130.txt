@@ -1,0 +1,5 @@
+7 9 darkness
+resin 1 4 0
+depot 2 2 0
+reedy 1 4 1
+horny 5 1 1

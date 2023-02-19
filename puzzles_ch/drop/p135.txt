@@ -1,0 +1,6 @@
+7 10 drop
+smile 1 1 0
+milky 2 1 1
+loath 2 3 0
+arose 4 3 1
+sally 1 9 0

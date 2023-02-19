@@ -1,0 +1,6 @@
+7 9 drop
+marsh 4 1 1
+scare 2 2 0
+spoke 2 2 1
+horse 1 4 0
+shire 1 8 0

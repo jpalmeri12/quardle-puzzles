@@ -1,0 +1,5 @@
+7 10 soundscramble
+sceur 2 1 1
+neeso 1 3 0
+rudor 2 5 0
+oaton 5 5 1

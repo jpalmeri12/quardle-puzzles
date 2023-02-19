@@ -1,0 +1,5 @@
+6 9 shiritori
+morph 2 1 1
+spill 1 4 0
+ladle 5 4 1
+loyal 1 7 0

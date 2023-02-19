@@ -1,0 +1,5 @@
+7 9 elbowroom
+dusky 1 1 1
+kebab 1 4 0
+blunt 3 4 1
+lucky 2 6 0

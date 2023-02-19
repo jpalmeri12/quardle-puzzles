@@ -1,0 +1,5 @@
+7 7
+clump 2 1 1
+llama 1 2 0
+arena 5 2 1
+phony 2 5 0

@@ -1,0 +1,5 @@
+6 7
+gayly 2 1 1
+panel 1 2 0
+lathe 5 2 1
+lynch 1 5 0

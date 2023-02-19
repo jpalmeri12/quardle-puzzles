@@ -1,0 +1,6 @@
+7 10 connectfive
+gauze 2 1 1
+gusty 2 1 0
+sever 1 5 0
+setup 1 5 1
+purge 1 9 0

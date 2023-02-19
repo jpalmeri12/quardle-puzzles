@@ -1,0 +1,5 @@
+7 10
+tower 4 1 1
+pearl 1 5 0
+amity 3 5 1
+steam 2 8 0

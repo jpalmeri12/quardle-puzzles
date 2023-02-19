@@ -1,0 +1,5 @@
+7 9 fourscore
+golly 2 1 0
+loyal 5 1 1
+junta 1 4 0
+utter 2 4 1

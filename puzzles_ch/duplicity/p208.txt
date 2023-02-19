@@ -1,0 +1,5 @@
+6 9 duplicity
+algae 4 1 1
+legal 1 4 0
+easel 2 4 1
+glass 1 8 0

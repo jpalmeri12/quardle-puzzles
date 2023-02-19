@@ -1,0 +1,5 @@
+7 7 beta
+chill 1 1 0
+human 2 1 1
+harry 6 2 1
+magma 2 3 0

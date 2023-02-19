@@ -1,0 +1,6 @@
+7 11 drop
+brush 5 1 1
+amass 1 4 0
+medal 2 4 1
+abide 2 7 0
+rabid 1 10 0

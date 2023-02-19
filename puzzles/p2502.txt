@@ -1,0 +1,5 @@
+7 9
+steel 1 1 0
+endow 4 1 1
+stoic 2 4 0
+cameo 6 4 1

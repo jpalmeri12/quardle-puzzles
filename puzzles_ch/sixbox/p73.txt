@@ -1,0 +1,7 @@
+8 8 sixbox
+cheat 3 1 1
+relay 5 1 1
+ideal 1 3 0
+amend 4 3 1
+amaze 3 4 0
+matey 1 5 0

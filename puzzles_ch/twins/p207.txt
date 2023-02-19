@@ -1,0 +1,8 @@
+6 8 twins
+blank 1 1 0
+slack 1 3 0
+afoul 1 5 0
+lilac 1 7 0
+!twins 1 2
+!twins 0 3
+!twins 1 2

@@ -1,0 +1,5 @@
+7 10
+paddy 5 1 1
+croak 2 2 0
+lowly 1 5 0
+which 3 5 1

@@ -1,0 +1,5 @@
+7 7
+hussy 6 1 1
+dowdy 4 2 1
+gloss 2 3 0
+polyp 1 6 0

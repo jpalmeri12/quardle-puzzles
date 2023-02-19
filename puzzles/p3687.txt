@@ -1,0 +1,5 @@
+6 10
+welch 5 1 1
+match 1 5 0
+anime 2 5 1
+bigot 1 7 0

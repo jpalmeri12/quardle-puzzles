@@ -1,0 +1,5 @@
+6 8 swap
+ciivl 1 1 1
+thrid 4 3 1
+lfare 1 5 0
+veade 1 7 0

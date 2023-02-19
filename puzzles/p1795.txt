@@ -1,0 +1,5 @@
+7 10
+magic 5 1 1
+lyric 1 5 0
+rotor 3 5 1
+moral 2 8 0

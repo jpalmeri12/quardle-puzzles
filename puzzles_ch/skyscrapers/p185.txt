@@ -1,0 +1,5 @@
+7 8 skyscrapers
+udder 1 7 0
+greed 2 3 1
+gloom 2 3 0
+cloud 4 1 1

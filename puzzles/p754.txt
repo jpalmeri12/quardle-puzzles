@@ -1,0 +1,5 @@
+7 9
+niece 6 1 1
+ethic 2 4 0
+heron 4 4 1
+canon 1 7 0

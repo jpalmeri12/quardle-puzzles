@@ -1,0 +1,5 @@
+7 9 scrabble
+latte 3 4 1
+outgo 1 6 0
+petal 6 1 1
+alpha 2 4 0

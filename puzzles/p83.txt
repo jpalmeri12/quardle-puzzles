@@ -1,0 +1,5 @@
+7 10
+groan 2 1 1
+snowy 1 5 0
+outgo 3 5 1
+steep 2 7 0

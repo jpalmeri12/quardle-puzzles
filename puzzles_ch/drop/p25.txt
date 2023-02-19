@@ -1,0 +1,6 @@
+6 10 drop
+recap 1 1 1
+reuse 1 1 0
+crump 1 3 0
+mushy 4 3 1
+cycle 1 9 0

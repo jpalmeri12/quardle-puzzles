@@ -1,0 +1,5 @@
+7 8 unloved
+dance 6 1 1
+gorge 3 3 1
+grime 2 5 0
+sweet 1 7 0

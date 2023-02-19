@@ -1,0 +1,5 @@
+7 8 spin
+resin 2 1 1
+islet 1 3 0
+equip 4 3 1
+lipid 2 7 0

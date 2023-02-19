@@ -1,0 +1,5 @@
+7 10 unloved
+wooer 3 1 1
+shrug 1 5 0
+guild 5 5 1
+grail 2 7 0

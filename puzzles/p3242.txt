@@ -1,0 +1,5 @@
+7 9
+libel 5 1 1
+denim 2 2 0
+stilt 3 4 1
+motel 1 5 0

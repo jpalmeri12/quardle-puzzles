@@ -1,0 +1,5 @@
+7 8 dblltr
+ember 6 1 1
+theta 2 3 1
+hedge 2 4 0
+stilt 1 6 0

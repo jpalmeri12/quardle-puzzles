@@ -1,0 +1,6 @@
+7 10 five
+undue 1 1 0
+decal 3 1 1
+stoke 6 4 1
+elect 2 5 0
+equip 2 5 1

@@ -1,0 +1,5 @@
+7 7
+glove 2 1 1
+liner 2 2 0
+nudge 4 2 1
+evade 1 4 0

@@ -1,0 +1,5 @@
+7 9
+drift 5 1 1
+perky 2 4 1
+recut 1 5 0
+kitty 2 7 0

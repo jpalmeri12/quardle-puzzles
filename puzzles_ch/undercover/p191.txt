@@ -1,0 +1,6 @@
+7 11 undercover
+cheat 2 1 0
+expel 4 1 1
+udder 1 4 0
+unfit 1 4 1
+smoky 1 10 0

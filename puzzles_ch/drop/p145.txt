@@ -1,0 +1,6 @@
+7 12 drop
+papal 2 1 0
+pasta 4 1 1
+medal 1 5 0
+moody 1 5 1
+daily 1 11 0

@@ -1,0 +1,7 @@
+6 6 fourthwall
+crust 1 1 0
+comet 1 1 1
+mafia 1 3 0
+unfit 3 1 1
+tithe 1 5 0
+tease 5 1 1

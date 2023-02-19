@@ -1,0 +1,5 @@
+6 8
+tumor 5 1 1
+qualm 1 3 0
+affix 3 3 1
+vixen 1 7 0

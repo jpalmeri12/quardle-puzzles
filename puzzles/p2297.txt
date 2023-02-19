@@ -1,0 +1,5 @@
+7 9
+spade 2 1 0
+dwelt 5 1 1
+write 3 4 1
+tarot 1 5 0

@@ -1,0 +1,9 @@
+6 10 spellbound
+bayou 2 1 1
+savor 1 2 0
+suite 1 5 0
+thing 4 5 1
+!spellbound 0 3 0
+!spellbound 1 3 2
+!spellbound 2 0 4
+!spellbound 3 2 4

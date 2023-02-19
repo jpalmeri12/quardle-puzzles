@@ -1,0 +1,5 @@
+6 10 fourscore
+bylaw 2 1 1
+gypsy 1 2 0
+swine 1 5 0
+neigh 4 5 1

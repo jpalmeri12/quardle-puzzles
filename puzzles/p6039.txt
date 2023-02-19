@@ -1,0 +1,5 @@
+7 10
+silly 5 1 1
+spilt 2 3 0
+spray 1 5 1
+shiny 1 5 0

@@ -1,0 +1,5 @@
+6 6 beta
+abate 1 1 1
+adept 3 1 1
+badly 1 2 0
+tepid 1 4 0

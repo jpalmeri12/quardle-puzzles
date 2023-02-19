@@ -1,0 +1,5 @@
+7 9 soundscramble
+nemad 2 1 1
+ogrot 5 4 1
+dirgo 2 5 0
+reest 1 8 0

@@ -1,0 +1,5 @@
+7 7 hardmode
+kiosk 5 1 1
+chair 2 2 0
+cairn 2 2 1
+freak 1 5 0

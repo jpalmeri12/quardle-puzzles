@@ -1,0 +1,5 @@
+7 10
+spire 2 1 1
+evade 2 5 0
+drier 5 5 1
+loser 1 9 0

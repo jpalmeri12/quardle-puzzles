@@ -1,0 +1,5 @@
+7 8
+aping 4 1 1
+metro 2 3 1
+penne 1 4 0
+ozone 2 7 0

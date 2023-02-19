@@ -1,0 +1,5 @@
+7 10 dblltr
+local 2 1 1
+llama 1 5 0
+amiss 3 5 1
+usurp 2 8 0

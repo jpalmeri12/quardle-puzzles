@@ -1,0 +1,6 @@
+7 8 island
+salsa 6 1 1
+vocal 2 3 0
+cabin 4 3 1
+mania 1 6 0
+!island 21 221 2111 211

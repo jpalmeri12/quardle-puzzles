@@ -1,0 +1,5 @@
+7 10
+small 4 1 1
+jolly 2 5 0
+junta 2 5 1
+staff 1 8 0

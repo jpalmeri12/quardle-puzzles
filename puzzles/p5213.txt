@@ -1,0 +1,5 @@
+6 7
+cheat 1 1 1
+hovel 1 2 0
+lucid 5 2 1
+antic 1 4 0

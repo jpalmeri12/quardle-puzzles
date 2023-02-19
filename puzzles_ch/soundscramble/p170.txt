@@ -1,0 +1,5 @@
+7 10 soundscramble
+buyoa 4 1 1
+dryer 2 3 0
+cloat 1 5 0
+ludle 2 5 1

@@ -1,0 +1,5 @@
+7 10 spin
+stink 1 1 1
+knave 1 5 0
+ethic 5 5 1
+basin 2 8 0

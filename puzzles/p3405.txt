@@ -1,0 +1,5 @@
+7 8
+chili 1 1 0
+latte 4 1 1
+witch 2 3 0
+hotly 6 3 1

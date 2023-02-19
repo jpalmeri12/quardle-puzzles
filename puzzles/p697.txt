@@ -1,0 +1,5 @@
+7 9
+glove 2 1 1
+snake 5 4 1
+deign 1 5 0
+snaky 2 7 0

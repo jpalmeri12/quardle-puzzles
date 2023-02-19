@@ -1,0 +1,5 @@
+7 9 frequency
+azure 1 1 1
+reset 1 4 0
+spelt 3 4 1
+reedy 2 6 0

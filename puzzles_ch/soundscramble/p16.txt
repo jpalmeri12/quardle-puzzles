@@ -1,0 +1,5 @@
+6 9 soundscramble
+shera 2 1 1
+shuck 1 2 0
+breva 1 4 0
+axect 5 4 1

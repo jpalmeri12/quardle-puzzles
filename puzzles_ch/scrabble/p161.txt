@@ -1,0 +1,5 @@
+7 7 scrabble
+audio 5 2 1
+rigid 1 4 0
+pedal 2 2 0
+feign 3 1 1

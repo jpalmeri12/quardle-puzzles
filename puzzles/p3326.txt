@@ -1,0 +1,5 @@
+6 7
+plate 5 1 1
+basil 1 2 0
+anvil 2 2 1
+event 1 4 0

@@ -1,0 +1,5 @@
+7 8
+prawn 2 1 1
+angry 2 3 0
+gooey 4 3 1
+envoy 1 5 0

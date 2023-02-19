@@ -1,0 +1,9 @@
+7 10 spellbound
+plain 2 1 1
+nasty 2 5 0
+steed 4 5 1
+abled 1 8 0
+!spellbound 0 3 1
+!spellbound 1 4 3
+!spellbound 2 2 1
+!spellbound 3 1 4

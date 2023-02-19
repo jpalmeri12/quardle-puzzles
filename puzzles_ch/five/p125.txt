@@ -1,0 +1,6 @@
+7 10 five
+vouch 4 1 1
+spoof 1 2 0
+mocha 1 5 0
+chill 3 5 1
+blurb 2 8 0

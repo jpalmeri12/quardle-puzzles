@@ -1,0 +1,5 @@
+7 7 dblltr
+theft 5 1 1
+slash 1 2 0
+aware 3 2 1
+taffy 2 4 0

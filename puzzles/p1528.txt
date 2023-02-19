@@ -1,0 +1,5 @@
+6 9
+spray 4 1 1
+flick 1 4 1
+final 1 4 0
+knead 1 8 0

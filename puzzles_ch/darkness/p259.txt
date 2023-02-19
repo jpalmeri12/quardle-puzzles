@@ -1,0 +1,5 @@
+7 9 darkness
+saucy 5 1 1
+cluck 2 4 0
+chaos 1 1 0
+level 3 4 1

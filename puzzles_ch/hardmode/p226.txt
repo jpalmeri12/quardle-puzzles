@@ -1,0 +1,5 @@
+6 7 hardmode
+curry 2 1 1
+gulch 1 2 0
+class 4 2 1
+freak 1 4 0

@@ -1,0 +1,5 @@
+7 9
+belly 2 1 1
+lucid 2 4 0
+circa 4 4 1
+algae 1 8 0

@@ -1,0 +1,6 @@
+7 10 wordcolumn
+mucus 2 1 1
+chili 4 1 1
+acrid 1 3 0
+shirk 2 5 0
+revel 5 5 1

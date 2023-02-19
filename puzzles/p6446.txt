@@ -1,0 +1,5 @@
+7 10
+sauce 5 1 1
+begun 2 3 0
+curve 1 5 0
+valve 4 5 1

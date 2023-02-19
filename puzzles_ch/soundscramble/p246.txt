@@ -1,0 +1,5 @@
+6 8 soundscramble
+adeil 1 1 1
+alaic 1 1 0
+spare 4 3 1
+igipe 1 4 0

@@ -1,0 +1,6 @@
+6 10 island
+shift 1 1 1
+seven 1 1 0
+tepee 1 5 0
+pedal 3 5 1
+!island 2111 211 111 221

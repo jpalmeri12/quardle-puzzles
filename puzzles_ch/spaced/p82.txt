@@ -1,0 +1,5 @@
+7 10 spaced
+drink 5 1 1
+spiky 2 5 0
+privy 3 5 1
+swine 1 7 0

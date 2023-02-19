@@ -1,0 +1,5 @@
+7 8 darkness
+witty 1 1 1
+tangy 1 3 0
+grade 4 3 1
+nudge 2 6 0

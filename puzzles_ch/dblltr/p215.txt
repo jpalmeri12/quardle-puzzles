@@ -1,0 +1,5 @@
+7 10 dblltr
+minim 5 1 1
+aging 2 3 0
+alarm 1 5 0
+aback 3 5 1

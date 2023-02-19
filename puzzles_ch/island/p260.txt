@@ -1,0 +1,6 @@
+6 8 island
+amble 1 1 0
+macaw 2 1 1
+snore 5 3 1
+wagon 1 4 0
+!island 11111 211 311 2111

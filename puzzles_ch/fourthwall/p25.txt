@@ -1,0 +1,7 @@
+6 6 fourthwall
+ample 1 1 0
+alibi 1 1 1
+impel 1 3 0
+papal 3 1 1
+islet 1 5 0
+eclat 5 1 1

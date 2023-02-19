@@ -1,0 +1,5 @@
+6 6 frequency
+curly 3 1 1
+hefty 5 1 1
+brute 1 2 0
+allot 1 4 0

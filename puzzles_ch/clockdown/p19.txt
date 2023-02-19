@@ -1,0 +1,5 @@
+7 7 clockdown
+repay 6 1 1
+horse 2 2 0
+hotel 2 2 1
+flick 1 6 0

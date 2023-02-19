@@ -1,0 +1,5 @@
+7 10 elbowroom
+mimic 4 1 1
+admit 2 3 0
+cluck 1 5 0
+krill 5 5 1

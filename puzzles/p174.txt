@@ -1,0 +1,5 @@
+6 10
+would 5 1 1
+steed 1 5 0
+title 2 5 1
+perch 1 9 0

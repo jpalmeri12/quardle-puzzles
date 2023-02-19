@@ -1,0 +1,5 @@
+7 7 swap
+tonla 1 1 0
+nside 3 1 1
+tapri 6 2 1
+simga 2 3 0

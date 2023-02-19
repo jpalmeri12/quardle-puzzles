@@ -1,0 +1,6 @@
+6 12 drop
+leash 5 1 1
+movie 1 2 0
+ditch 1 5 0
+title 3 5 1
+tried 1 11 0

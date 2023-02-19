@@ -1,0 +1,5 @@
+6 8 desync
+fluff 1 1 0
+fetus 4 1 1
+qualm 2 3 1
+fugue 1 4 0

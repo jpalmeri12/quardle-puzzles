@@ -1,0 +1,5 @@
+7 10 sweeper
+riser 2 1 1
+robin 2 5 0
+bless 4 5 1
+tweed 1 7 0

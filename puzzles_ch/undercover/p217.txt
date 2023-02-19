@@ -1,0 +1,6 @@
+7 12 undercover
+glyph 2 1 0
+pygmy 5 1 1
+loamy 1 5 0
+musty 4 5 1
+breed 1 11 0

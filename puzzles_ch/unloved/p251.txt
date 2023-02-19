@@ -1,0 +1,5 @@
+7 9 unloved
+twice 2 1 1
+whale 2 2 0
+debut 5 4 1
+femme 1 5 0

@@ -1,0 +1,5 @@
+6 8 spaced
+comfy 1 1 1
+grimy 3 3 1
+forth 1 4 0
+payer 1 7 0

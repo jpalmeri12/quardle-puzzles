@@ -1,0 +1,5 @@
+7 8 buyavowel
+shear 1 1 0
+roger 5 1 1
+bulge 2 3 0
+briar 2 3 1

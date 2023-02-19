@@ -1,0 +1,5 @@
+6 6 skyscrapers
+uncle 1 4 0
+tower 5 1 1
+fruit 1 1 0
+forum 1 1 1

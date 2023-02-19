@@ -1,0 +1,5 @@
+6 9 duplicity
+chord 5 1 1
+epoch 1 4 1
+proud 1 5 0
+coupe 1 7 0

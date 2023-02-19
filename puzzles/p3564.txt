@@ -1,0 +1,5 @@
+7 9
+virus 2 1 1
+queen 1 4 0
+earth 4 4 1
+ether 2 8 0

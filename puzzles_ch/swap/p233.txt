@@ -1,0 +1,5 @@
+6 8 swap
+luagh 1 1 0
+uinon 2 1 1
+woevn 5 3 1
+bosmo 1 4 0

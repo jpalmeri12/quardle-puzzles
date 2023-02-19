@@ -1,0 +1,5 @@
+7 10
+merge 2 1 0
+gloss 5 1 1
+grass 1 5 0
+rigid 2 5 1

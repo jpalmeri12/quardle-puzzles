@@ -1,0 +1,5 @@
+7 9
+point 2 1 1
+moist 1 2 0
+natal 2 4 0
+lease 6 4 1

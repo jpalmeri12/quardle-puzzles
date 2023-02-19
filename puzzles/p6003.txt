@@ -1,0 +1,5 @@
+7 9
+hedge 2 1 0
+elbow 3 1 1
+spoof 1 4 0
+spoil 1 4 1

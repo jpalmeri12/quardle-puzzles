@@ -1,0 +1,5 @@
+7 8
+retch 1 1 1
+vague 4 3 1
+croak 1 4 0
+churn 2 6 0

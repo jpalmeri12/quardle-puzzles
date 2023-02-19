@@ -1,0 +1,5 @@
+7 10 outoforder
+snake 2 1 1
+debut 1 5 0
+basil 3 5 1
+usher 2 7 0

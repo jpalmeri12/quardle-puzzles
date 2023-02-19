@@ -1,0 +1,5 @@
+7 9 spaced
+scale 1 1 0
+clear 2 1 1
+scalp 6 4 1
+relic 2 5 0

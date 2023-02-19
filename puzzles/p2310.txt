@@ -1,0 +1,5 @@
+7 7
+knife 2 1 1
+nymph 2 2 0
+murky 4 2 1
+afire 1 4 0

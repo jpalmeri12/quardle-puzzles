@@ -1,0 +1,5 @@
+7 7 swap
+birbe 1 1 0
+bradi 4 1 1
+cihde 6 2 1
+iwdth 2 4 0

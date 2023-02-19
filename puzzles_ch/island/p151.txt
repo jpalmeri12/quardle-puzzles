@@ -1,0 +1,6 @@
+7 9 island
+break 5 1 1
+goofy 2 4 1
+glean 2 4 0
+after 1 7 0
+!island 2111 31 11111 41

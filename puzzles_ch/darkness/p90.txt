@@ -1,0 +1,5 @@
+7 10 darkness
+gassy 2 5 0
+under 1 9 0
+solve 4 5 1
+jolly 6 1 1

@@ -1,0 +1,5 @@
+7 8
+bacon 5 1 1
+watch 2 3 0
+alike 3 3 1
+align 1 5 0

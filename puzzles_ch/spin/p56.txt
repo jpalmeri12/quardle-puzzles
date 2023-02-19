@@ -1,0 +1,5 @@
+7 9 spin
+paint 2 1 1
+needy 2 4 0
+dread 5 4 1
+mafia 1 7 0

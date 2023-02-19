@@ -1,0 +1,5 @@
+7 10
+vigor 2 1 1
+gavel 2 3 0
+brawn 1 5 0
+noise 5 5 1

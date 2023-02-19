@@ -1,0 +1,8 @@
+6 8 twins
+ovate 1 1 0
+serve 1 3 0
+bezel 1 5 0
+chaff 1 7 0
+!twins 1 2
+!twins 0 3
+!twins 0 3

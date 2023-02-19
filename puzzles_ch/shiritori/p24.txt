@@ -1,0 +1,5 @@
+7 10 shiritori
+rehab 4 1 1
+lobby 1 5 0
+blood 3 5 1
+pooch 2 8 0

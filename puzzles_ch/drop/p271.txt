@@ -1,0 +1,6 @@
+7 12 drop
+clamp 2 1 1
+piety 2 5 0
+tango 5 5 1
+pesto 1 9 0
+loose 1 11 0

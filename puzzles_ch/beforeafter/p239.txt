@@ -1,0 +1,9 @@
+6 9 beforeafter
+amass 5 1 1
+meaty 2 4 1
+fetus 1 5 0
+stiff 1 7 0
+!beforeafter 2 o
+!beforeafter 2 r
+!beforeafter 1 k
+!beforeafter 1 r

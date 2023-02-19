@@ -1,0 +1,5 @@
+6 8
+flail 4 1 1
+crazy 2 3 1
+badly 1 5 0
+syrup 1 7 0

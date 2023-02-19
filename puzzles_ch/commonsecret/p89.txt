@@ -1,0 +1,6 @@
+7 8 commonsecret
+solve 3 1 1
+slice 2 3 0
+chase 5 3 1
+hyena 1 5 0
+!secret e

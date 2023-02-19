@@ -1,0 +1,5 @@
+7 10 bestfit
+kneel 3 1 1
+clack 2 5 0
+audit 4 5 1
+sheik 1 8 0

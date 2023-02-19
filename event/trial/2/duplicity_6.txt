@@ -1,0 +1,5 @@
+7 9 duplicity
+dense 2 1 0
+sandy 5 1 1
+apple 1 4 1
+palsy 1 5 0

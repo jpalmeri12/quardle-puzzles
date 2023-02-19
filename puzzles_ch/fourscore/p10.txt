@@ -1,0 +1,5 @@
+6 7 fourscore
+avoid 1 1 1
+vapor 1 2 0
+pubic 3 2 1
+inbox 1 4 0

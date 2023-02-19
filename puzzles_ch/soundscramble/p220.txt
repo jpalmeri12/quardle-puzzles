@@ -1,0 +1,5 @@
+7 10 soundscramble
+yuong 1 1 1
+gaffe 1 5 0
+aptly 2 5 1
+torbu 2 7 0

@@ -1,0 +1,5 @@
+7 8
+willy 1 1 0
+liken 4 1 1
+askew 2 3 0
+abate 2 3 1

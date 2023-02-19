@@ -1,0 +1,6 @@
+7 10 five
+cacti 4 1 1
+today 1 2 0
+crisp 2 5 0
+stunk 5 5 1
+young 2 8 0

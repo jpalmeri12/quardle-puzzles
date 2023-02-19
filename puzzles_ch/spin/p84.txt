@@ -1,0 +1,5 @@
+7 10 spin
+bobby 4 1 1
+probe 1 3 0
+gayer 2 5 0
+audio 3 5 1

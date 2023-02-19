@@ -1,0 +1,5 @@
+7 9 darkness
+array 5 4 1
+ether 1 1 0
+harsh 3 1 1
+usual 2 4 0

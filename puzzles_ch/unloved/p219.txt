@@ -1,0 +1,5 @@
+7 10 unloved
+knoll 2 1 1
+bloat 1 5 0
+taper 5 5 1
+nymph 2 7 0

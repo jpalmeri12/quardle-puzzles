@@ -1,0 +1,5 @@
+6 9
+choir 5 1 1
+match 1 2 0
+quasi 1 4 0
+apnea 3 4 1

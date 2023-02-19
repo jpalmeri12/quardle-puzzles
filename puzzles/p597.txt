@@ -1,0 +1,5 @@
+7 10
+quite 4 1 1
+filer 1 5 0
+rabbi 5 5 1
+bobby 2 7 0

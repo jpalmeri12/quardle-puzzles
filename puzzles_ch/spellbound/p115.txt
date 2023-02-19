@@ -1,0 +1,9 @@
+7 8 spellbound
+smell 2 1 0
+maybe 3 1 1
+scaly 1 3 1
+cabal 1 4 0
+!spellbound 0 4 3
+!spellbound 1 2 1
+!spellbound 2 3 4
+!spellbound 3 3 4

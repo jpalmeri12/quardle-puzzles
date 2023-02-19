@@ -1,0 +1,5 @@
+6 10 swap
+mnaly 2 1 1
+gyaer 1 5 0
+risne 5 5 1
+crses 1 7 0

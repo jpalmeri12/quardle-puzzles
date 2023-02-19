@@ -1,0 +1,5 @@
+7 9 swap
+cnoic 2 1 0
+ovter 4 1 1
+hsrew 1 4 0
+stnit 2 4 1

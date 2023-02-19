@@ -1,0 +1,5 @@
+7 9
+stair 3 1 1
+patsy 1 2 0
+brush 6 4 1
+ardor 2 5 0

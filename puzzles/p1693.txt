@@ -1,0 +1,5 @@
+7 10
+abyss 2 1 1
+angle 2 1 0
+using 1 5 0
+umbra 1 5 1

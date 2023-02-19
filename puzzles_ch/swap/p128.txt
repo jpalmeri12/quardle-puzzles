@@ -1,0 +1,5 @@
+7 8 swap
+savle 2 1 1
+clnig 5 3 1
+ldale 2 4 0
+eiyng 1 7 0

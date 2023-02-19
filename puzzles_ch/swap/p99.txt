@@ -1,0 +1,5 @@
+7 8 swap
+lenat 1 1 1
+nkife 1 3 0
+iwndy 3 3 1
+rdess 2 6 0

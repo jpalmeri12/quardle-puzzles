@@ -1,0 +1,5 @@
+7 10 fourscore
+react 5 1 1
+exult 1 5 0
+upper 3 5 1
+spoof 2 7 0

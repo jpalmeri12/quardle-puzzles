@@ -1,0 +1,5 @@
+7 7 swap
+saovy 6 1 1
+bisno 2 2 1
+shoev 2 4 0
+ponit 1 6 0

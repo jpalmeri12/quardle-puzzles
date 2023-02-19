@@ -1,0 +1,5 @@
+7 10
+clump 5 1 1
+unzip 1 5 0
+zonal 3 5 1
+cloth 2 9 0

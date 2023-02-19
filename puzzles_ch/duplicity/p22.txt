@@ -1,0 +1,5 @@
+7 9 duplicity
+titan 2 1 0
+tasty 4 1 1
+nasty 1 4 0
+ninny 1 4 1

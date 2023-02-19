@@ -1,0 +1,5 @@
+7 8
+hunch 2 1 0
+newer 4 1 1
+abort 2 3 1
+abbey 1 4 0

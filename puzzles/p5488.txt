@@ -1,0 +1,5 @@
+7 9
+whiny 3 1 1
+inept 2 4 0
+psalm 5 4 1
+final 1 7 0

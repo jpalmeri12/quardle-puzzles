@@ -1,0 +1,5 @@
+7 7
+chalk 2 1 1
+shuck 1 2 0
+khaki 5 2 1
+lilac 2 4 0

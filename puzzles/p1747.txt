@@ -1,0 +1,5 @@
+6 10
+phony 3 1 1
+dryer 1 5 0
+rebar 2 5 1
+abate 1 7 0

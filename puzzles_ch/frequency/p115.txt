@@ -1,0 +1,5 @@
+7 9 frequency
+blood 6 1 1
+water 4 4 1
+staid 2 5 0
+ivory 1 8 0

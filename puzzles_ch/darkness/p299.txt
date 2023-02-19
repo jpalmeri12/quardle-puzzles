@@ -1,0 +1,5 @@
+6 7 darkness
+stern 1 4 0
+penne 5 1 1
+patch 2 2 1
+opine 1 2 0

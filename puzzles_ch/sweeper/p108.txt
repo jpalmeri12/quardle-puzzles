@@ -1,0 +1,5 @@
+7 10 sweeper
+fraud 2 1 1
+regal 2 2 0
+idler 1 5 0
+resin 5 5 1

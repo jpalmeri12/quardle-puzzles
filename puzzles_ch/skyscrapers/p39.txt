@@ -1,0 +1,5 @@
+7 10 skyscrapers
+peace 2 7 0
+overt 3 5 1
+brown 1 5 0
+elbow 4 1 1

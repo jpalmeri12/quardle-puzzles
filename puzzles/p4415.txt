@@ -1,0 +1,5 @@
+7 9
+blaze 2 1 1
+label 2 2 0
+ozone 1 4 0
+extra 5 4 1

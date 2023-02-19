@@ -1,0 +1,5 @@
+7 10 reverse
+cumin 1 1 0
+uoyab 2 1 1
+burhs 2 5 0
+rigid 4 5 1

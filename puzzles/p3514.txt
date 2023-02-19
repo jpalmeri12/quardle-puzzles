@@ -1,0 +1,5 @@
+7 10
+liner 2 1 1
+nobly 2 3 0
+drank 1 5 0
+abort 3 5 1

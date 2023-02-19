@@ -1,0 +1,5 @@
+7 10 invention
+tramp 2 1 1
+cacao 1 3 0
+photo 2 5 0
+honor 3 5 1

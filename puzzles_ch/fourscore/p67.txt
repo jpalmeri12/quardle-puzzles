@@ -1,0 +1,5 @@
+7 7 fourscore
+pinky 1 1 0
+index 2 1 1
+daily 6 2 1
+ennui 2 4 0

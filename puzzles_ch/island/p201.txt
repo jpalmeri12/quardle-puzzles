@@ -1,0 +1,6 @@
+6 6 island
+scree 1 1 0
+civic 2 1 1
+eclat 5 1 1
+villa 1 4 0
+!island 31 21 11111 1111

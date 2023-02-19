@@ -1,0 +1,5 @@
+7 9 spin
+stint 2 1 1
+pupal 4 4 1
+strut 1 5 0
+crate 2 7 0

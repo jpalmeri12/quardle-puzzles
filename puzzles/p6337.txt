@@ -1,0 +1,5 @@
+7 9
+moult 2 1 1
+clued 5 4 1
+stall 1 5 0
+agree 2 7 0

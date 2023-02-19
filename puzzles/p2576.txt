@@ -1,0 +1,5 @@
+7 9
+evict 6 1 1
+lupus 2 4 1
+unmet 2 5 0
+aside 1 8 0

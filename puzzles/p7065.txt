@@ -1,0 +1,5 @@
+7 10
+storm 3 1 1
+steep 2 2 0
+rumor 1 5 0
+undue 2 5 1

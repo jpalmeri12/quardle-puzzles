@@ -1,0 +1,5 @@
+7 10
+fugue 4 1 1
+woven 1 5 0
+ovary 2 5 1
+rabid 2 8 0

@@ -1,0 +1,5 @@
+7 9 outoforder
+itchy 5 1 1
+flute 2 2 0
+slash 1 4 0
+skirt 1 4 1

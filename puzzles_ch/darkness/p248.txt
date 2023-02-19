@@ -1,0 +1,5 @@
+6 9 darkness
+batty 1 5 0
+stall 3 4 1
+biddy 5 1 1
+polar 1 7 0

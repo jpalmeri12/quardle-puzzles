@@ -1,0 +1,5 @@
+7 8 swap
+gwaky 1 1 1
+crips 4 3 1
+kamra 1 4 0
+ugppy 2 6 0

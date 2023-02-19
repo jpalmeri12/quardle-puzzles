@@ -1,0 +1,5 @@
+7 10 dblltr
+dross 4 1 1
+lorry 1 2 0
+riser 2 5 0
+icing 3 5 1

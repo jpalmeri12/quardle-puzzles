@@ -1,0 +1,6 @@
+7 10 drop
+brief 1 1 1
+genie 4 3 1
+found 1 5 0
+theft 2 7 0
+fruit 1 9 0

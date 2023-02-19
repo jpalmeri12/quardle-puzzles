@@ -1,0 +1,5 @@
+7 10
+banal 4 1 1
+dingy 2 3 0
+scold 1 5 0
+crude 2 5 1

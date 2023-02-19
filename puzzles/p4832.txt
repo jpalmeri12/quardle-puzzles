@@ -1,0 +1,5 @@
+7 10
+fiber 4 1 1
+civil 1 2 0
+birch 2 5 0
+cairn 5 5 1

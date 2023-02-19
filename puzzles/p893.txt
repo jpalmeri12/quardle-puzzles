@@ -1,0 +1,5 @@
+6 7
+scene 5 1 1
+medic 1 2 0
+enema 2 2 1
+ombre 1 5 0

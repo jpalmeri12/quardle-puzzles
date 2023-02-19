@@ -1,0 +1,5 @@
+7 10 beta
+bonus 2 1 1
+small 2 5 0
+lithe 5 5 1
+geese 1 9 0

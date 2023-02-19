@@ -1,0 +1,5 @@
+7 10
+revel 1 1 1
+legal 1 5 0
+admin 4 5 1
+comic 2 7 0

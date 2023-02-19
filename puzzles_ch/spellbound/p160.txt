@@ -1,0 +1,9 @@
+7 7 spellbound
+basal 5 1 1
+opera 1 2 0
+phony 2 2 1
+newly 2 5 0
+!spellbound 0 3 2
+!spellbound 1 0 2
+!spellbound 2 4 1
+!spellbound 3 4 1

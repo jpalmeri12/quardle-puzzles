@@ -1,0 +1,5 @@
+7 10 darkness
+groan 5 1 1
+oaken 1 5 0
+endow 2 3 0
+olive 1 5 1

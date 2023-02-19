@@ -1,0 +1,6 @@
+6 10 five
+pique 5 1 1
+guile 2 4 1
+rupee 1 5 0
+emcee 4 5 1
+click 1 7 0

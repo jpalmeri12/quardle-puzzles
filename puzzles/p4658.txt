@@ -1,0 +1,5 @@
+7 10
+basin 1 1 0
+imply 4 1 1
+slyly 2 5 0
+slack 2 5 1

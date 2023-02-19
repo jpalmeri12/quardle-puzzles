@@ -1,0 +1,5 @@
+7 9 clockdown
+petal 1 1 1
+angst 1 4 0
+gloat 3 4 1
+voice 2 6 0

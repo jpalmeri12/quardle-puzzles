@@ -1,0 +1,9 @@
+6 8 beforeafter
+balmy 1 1 0
+lefty 3 1 1
+oxide 5 3 1
+detox 1 4 0
+!beforeafter 1 k
+!beforeafter 2 q
+!beforeafter 1 m
+!beforeafter 1 m

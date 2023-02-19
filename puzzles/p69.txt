@@ -1,0 +1,5 @@
+6 7
+waltz 2 1 1
+lapse 1 2 0
+stool 4 2 1
+ethos 1 4 0

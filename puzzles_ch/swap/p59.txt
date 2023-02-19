@@ -1,0 +1,5 @@
+6 9 swap
+birbe 1 1 0
+eikng 5 1 1
+asasy 1 4 1
+sogyg 1 5 0

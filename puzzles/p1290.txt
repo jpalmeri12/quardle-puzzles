@@ -1,0 +1,5 @@
+7 10
+smell 1 1 1
+lodge 1 5 0
+often 2 5 1
+nerve 2 9 0

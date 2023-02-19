@@ -1,0 +1,5 @@
+6 8 reverse
+xaler 1 1 1
+ykrej 4 3 1
+retry 1 5 0
+banjo 1 7 0

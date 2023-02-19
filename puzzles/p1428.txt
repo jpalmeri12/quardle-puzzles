@@ -1,0 +1,5 @@
+7 9
+after 2 1 1
+beast 4 4 1
+dried 1 5 0
+reset 2 7 0

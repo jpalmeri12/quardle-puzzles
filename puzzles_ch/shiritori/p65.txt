@@ -1,0 +1,5 @@
+6 9 shiritori
+smile 2 1 1
+blame 1 4 0
+mauve 4 4 1
+halve 1 7 0

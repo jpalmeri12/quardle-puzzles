@@ -1,0 +1,5 @@
+7 8
+wrath 6 1 1
+greed 3 3 1
+grout 2 4 0
+order 1 7 0

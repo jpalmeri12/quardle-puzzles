@@ -1,0 +1,5 @@
+6 9
+expel 5 1 1
+bloke 1 4 0
+lease 2 4 1
+depot 1 8 0

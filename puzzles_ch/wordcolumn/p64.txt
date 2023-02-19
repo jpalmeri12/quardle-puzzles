@@ -1,0 +1,6 @@
+7 10 wordcolumn
+clear 1 1 0
+awful 4 1 1
+troll 1 5 0
+leafy 5 5 1
+scoff 2 8 0

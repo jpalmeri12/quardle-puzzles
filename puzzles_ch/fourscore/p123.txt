@@ -1,0 +1,5 @@
+7 10 fourscore
+adapt 6 1 1
+blurt 2 5 0
+recap 5 5 1
+havoc 1 7 0

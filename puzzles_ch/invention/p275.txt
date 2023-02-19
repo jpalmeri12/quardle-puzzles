@@ -1,0 +1,5 @@
+7 9 invention
+clang 1 1 0
+glyph 5 1 1
+jumpy 2 4 0
+juror 2 4 1

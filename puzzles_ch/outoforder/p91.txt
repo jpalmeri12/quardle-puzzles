@@ -1,0 +1,5 @@
+6 10 outoforder
+maple 3 1 1
+shape 1 2 0
+sleep 1 5 0
+scree 1 5 1

@@ -1,0 +1,5 @@
+6 9 unloved
+mangy 4 1 1
+forge 1 4 0
+fling 1 4 1
+guess 1 8 0

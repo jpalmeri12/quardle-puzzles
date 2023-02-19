@@ -1,0 +1,5 @@
+7 9 clockdown
+crowd 2 1 1
+revel 2 2 0
+swine 1 4 0
+nutty 4 4 1

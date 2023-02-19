@@ -1,0 +1,5 @@
+7 7 reverse
+ydnac 2 1 1
+dleiy 2 2 0
+intro 5 2 1
+actor 1 5 0

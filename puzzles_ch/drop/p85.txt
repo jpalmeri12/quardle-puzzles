@@ -1,0 +1,6 @@
+6 8 drop
+rider 2 1 1
+dirty 5 1 1
+idler 1 3 0
+artsy 1 5 0
+sorry 1 7 0

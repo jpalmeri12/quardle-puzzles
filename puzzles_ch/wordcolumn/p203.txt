@@ -1,0 +1,6 @@
+7 12 wordcolumn
+koala 3 1 1
+event 5 3 1
+clove 2 4 0
+admit 1 7 0
+ionic 4 7 1

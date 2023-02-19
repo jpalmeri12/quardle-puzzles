@@ -1,0 +1,5 @@
+7 9
+dwarf 2 1 1
+fried 1 4 0
+exalt 4 4 1
+delta 2 7 0

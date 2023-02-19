@@ -1,0 +1,9 @@
+6 8 spellbound
+brine 1 1 0
+icily 3 1 1
+pesky 5 3 1
+tilde 1 4 0
+!spellbound 0 0 1
+!spellbound 1 4 2
+!spellbound 2 0 3
+!spellbound 3 3 1

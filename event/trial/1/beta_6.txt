@@ -1,0 +1,5 @@
+6 9 beta
+cavil 2 1 1
+amuse 4 4 1
+blimp 1 5 0
+hyper 1 8 0

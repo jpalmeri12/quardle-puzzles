@@ -1,0 +1,5 @@
+7 9
+gayer 6 1 1
+strut 2 4 1
+their 2 5 0
+stale 1 8 0

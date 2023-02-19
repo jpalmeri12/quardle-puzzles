@@ -1,0 +1,5 @@
+7 9
+abyss 6 1 1
+focus 2 4 0
+cruel 4 4 1
+value 1 6 0

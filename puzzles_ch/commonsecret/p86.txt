@@ -1,0 +1,6 @@
+7 9 commonsecret
+yeast 2 1 1
+yield 2 1 0
+islet 1 4 0
+email 4 4 1
+!secret e

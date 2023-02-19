@@ -1,0 +1,5 @@
+6 9 dblltr
+oddly 5 1 1
+annul 1 4 0
+never 3 4 1
+gorge 1 8 0

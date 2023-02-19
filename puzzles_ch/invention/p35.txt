@@ -1,0 +1,5 @@
+7 10 invention
+kebab 2 1 1
+abyss 1 3 0
+bosom 2 5 0
+macro 6 5 1

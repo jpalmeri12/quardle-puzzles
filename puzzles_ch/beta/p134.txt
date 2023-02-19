@@ -1,0 +1,5 @@
+7 9 beta
+nasal 1 1 0
+stout 3 1 1
+dusty 2 4 0
+table 5 4 1

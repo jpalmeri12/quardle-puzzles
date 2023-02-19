@@ -1,0 +1,5 @@
+7 9 dblltr
+payee 1 1 0
+every 4 1 1
+terse 2 4 0
+erect 6 4 1

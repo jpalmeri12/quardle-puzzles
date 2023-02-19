@@ -1,0 +1,5 @@
+7 7
+liver 1 1 0
+egret 4 1 1
+diode 6 2 1
+fetid 2 5 0

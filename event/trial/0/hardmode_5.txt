@@ -1,0 +1,5 @@
+7 9 hardmode
+fishy 5 1 1
+grown 3 4 1
+derby 1 5 0
+awful 2 7 0

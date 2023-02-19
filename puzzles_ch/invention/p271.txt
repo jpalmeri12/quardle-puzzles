@@ -1,0 +1,5 @@
+6 9 invention
+bonus 2 1 1
+putty 1 4 0
+trait 4 4 1
+staid 1 7 0

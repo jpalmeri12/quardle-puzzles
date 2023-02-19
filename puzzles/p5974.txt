@@ -1,0 +1,5 @@
+7 10
+twine 5 1 1
+sneak 2 5 1
+shied 2 5 0
+mauve 1 8 0

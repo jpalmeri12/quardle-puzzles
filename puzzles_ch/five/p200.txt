@@ -1,0 +1,6 @@
+6 10 five
+blush 2 1 1
+pulpy 1 3 0
+ghoul 1 5 0
+guise 1 5 1
+spray 1 8 0

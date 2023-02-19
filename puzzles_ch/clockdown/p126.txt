@@ -1,0 +1,5 @@
+7 10 clockdown
+easel 5 1 1
+whole 2 5 0
+heard 3 5 1
+rural 1 8 0

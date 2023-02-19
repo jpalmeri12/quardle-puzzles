@@ -1,0 +1,5 @@
+6 9
+tubal 5 1 1
+mamma 1 4 0
+morph 3 4 1
+depth 1 7 0

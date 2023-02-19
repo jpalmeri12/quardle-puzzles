@@ -1,0 +1,5 @@
+7 10
+study 3 1 1
+maybe 1 5 0
+audio 2 5 1
+ovoid 2 9 0

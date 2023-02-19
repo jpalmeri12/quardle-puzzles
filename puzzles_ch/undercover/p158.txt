@@ -1,0 +1,6 @@
+7 11 undercover
+lingo 5 1 1
+gravy 3 4 1
+broom 2 5 0
+fever 1 7 0
+shush 1 10 0

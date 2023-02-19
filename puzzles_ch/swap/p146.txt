@@ -1,0 +1,5 @@
+6 7 swap
+hetah 3 1 1
+leevl 1 2 0
+luicd 1 2 1
+idary 1 4 0

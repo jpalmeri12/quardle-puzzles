@@ -1,0 +1,6 @@
+7 11 drop
+spoof 2 1 1
+spiny 1 2 0
+ozone 2 4 0
+eking 6 4 1
+nosey 1 10 0

@@ -1,0 +1,6 @@
+7 9 five
+azure 4 1 1
+amaze 1 2 0
+furor 2 4 0
+foist 2 4 1
+rover 6 4 1

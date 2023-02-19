@@ -1,0 +1,5 @@
+7 10 buyavowel
+major 4 1 1
+splat 1 2 0
+verso 2 5 0
+organ 6 5 1

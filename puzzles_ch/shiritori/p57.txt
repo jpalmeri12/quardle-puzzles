@@ -1,0 +1,5 @@
+7 9 shiritori
+nerve 1 1 1
+vowel 1 4 0
+ember 4 4 1
+ocean 2 7 0

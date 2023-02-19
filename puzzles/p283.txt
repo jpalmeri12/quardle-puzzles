@@ -1,0 +1,5 @@
+6 9
+pesky 2 1 1
+devil 1 2 0
+skiff 1 4 0
+froze 5 4 1

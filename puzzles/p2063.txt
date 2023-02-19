@@ -1,0 +1,5 @@
+6 9
+spied 4 1 1
+below 2 4 1
+beady 1 5 0
+tooth 1 7 0

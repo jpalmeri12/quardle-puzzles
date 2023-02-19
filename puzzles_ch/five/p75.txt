@@ -1,0 +1,6 @@
+7 10 five
+yacht 1 1 0
+crime 3 1 1
+sewer 2 5 0
+waist 4 5 1
+untie 1 7 0

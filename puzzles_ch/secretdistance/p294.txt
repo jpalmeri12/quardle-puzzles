@@ -1,0 +1,7 @@
+7 10 secretdistance
+hello 2 1 0
+lyric 4 1 1
+sheen 2 3 1
+beech 1 5 0
+belle 1 9 0
+!sdpos 1 1 1 1
