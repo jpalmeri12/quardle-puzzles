@@ -1,0 +1,5 @@
+7 10
+scram 5 1 1
+witch 2 2 0
+qualm 1 5 0
+leaky 4 5 1

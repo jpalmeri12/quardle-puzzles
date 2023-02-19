@@ -1,0 +1,5 @@
+6 9 duplicity
+whiny 5 1 1
+lower 3 4 1
+irony 1 5 0
+wheel 1 7 0

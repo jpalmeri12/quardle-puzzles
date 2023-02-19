@@ -1,0 +1,5 @@
+7 8 frequency
+rower 2 1 0
+wafer 4 1 1
+taffy 1 3 0
+thorn 1 3 1

@@ -1,0 +1,5 @@
+7 7 sweeper
+utile 5 1 1
+heath 2 2 0
+eerie 3 2 1
+spice 1 5 0

@@ -1,0 +1,6 @@
+7 10 five
+brave 2 1 1
+whale 5 1 1
+assay 2 3 0
+merge 1 5 0
+grime 4 5 1

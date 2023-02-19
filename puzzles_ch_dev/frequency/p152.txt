@@ -1,0 +1,5 @@
+7 8 frequency
+ruder 1 1 0
+droit 3 1 1
+tonic 2 3 0
+ideal 5 3 1

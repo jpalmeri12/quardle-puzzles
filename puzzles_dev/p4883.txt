@@ -1,0 +1,5 @@
+7 9
+ready 6 1 1
+frond 2 4 0
+frock 2 4 1
+covet 1 6 0

@@ -1,0 +1,5 @@
+7 9 soundscramble
+fliud 1 1 1
+uncir 1 4 0
+conuc 3 4 1
+cuvuc 2 7 0

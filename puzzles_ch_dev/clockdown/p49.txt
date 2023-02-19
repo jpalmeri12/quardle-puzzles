@@ -1,0 +1,5 @@
+6 6 clockdown
+clamp 2 1 1
+vault 4 1 1
+float 1 2 0
+spite 1 5 0

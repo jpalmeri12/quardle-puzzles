@@ -1,0 +1,5 @@
+7 8
+brush 1 1 0
+renal 2 1 1
+seize 5 3 1
+logic 2 5 0

@@ -1,0 +1,5 @@
+7 7 elbowroom
+ethos 5 1 1
+slate 2 2 0
+lumpy 3 2 1
+gumbo 1 4 0

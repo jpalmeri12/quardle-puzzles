@@ -1,0 +1,5 @@
+7 9 invention
+ennui 1 1 1
+agate 3 4 1
+ingot 1 5 0
+steam 2 7 0

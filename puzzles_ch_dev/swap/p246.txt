@@ -1,0 +1,5 @@
+6 8 swap
+wsami 1 1 0
+avgue 3 1 1
+vpaid 5 3 1
+erutp 1 4 0

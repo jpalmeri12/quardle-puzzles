@@ -1,0 +1,5 @@
+7 9
+swoop 5 1 1
+jetty 3 4 1
+cheap 1 5 0
+stilt 2 7 0

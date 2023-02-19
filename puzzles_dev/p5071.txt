@@ -1,0 +1,5 @@
+7 9
+cider 5 1 1
+lower 3 4 1
+gourd 2 5 0
+bleak 1 7 0

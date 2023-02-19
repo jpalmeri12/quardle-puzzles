@@ -1,0 +1,5 @@
+7 9
+sneak 6 1 1
+decal 2 4 1
+dogma 2 4 0
+flirt 1 8 0

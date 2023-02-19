@@ -1,0 +1,5 @@
+6 7 swap
+filyl 2 1 1
+tigre 1 2 0
+earse 5 2 1
+myaor 1 4 0

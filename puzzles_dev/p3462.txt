@@ -1,0 +1,5 @@
+7 9
+stave 2 1 1
+strip 4 4 1
+delta 1 5 0
+third 2 7 0

@@ -1,0 +1,5 @@
+7 9
+whole 4 1 1
+aphid 2 2 0
+crepe 1 4 1
+revel 1 5 0

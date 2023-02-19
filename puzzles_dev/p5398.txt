@@ -1,0 +1,5 @@
+6 7
+paddy 5 1 1
+china 1 2 0
+islet 3 2 1
+abled 1 4 0

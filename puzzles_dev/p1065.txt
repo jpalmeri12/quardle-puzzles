@@ -1,0 +1,5 @@
+7 9
+plump 4 1 1
+wooly 1 2 0
+humus 2 4 0
+hutch 2 4 1

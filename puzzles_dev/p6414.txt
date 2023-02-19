@@ -1,0 +1,5 @@
+6 9
+wagon 2 1 1
+going 1 4 0
+nylon 4 4 1
+razor 1 7 0

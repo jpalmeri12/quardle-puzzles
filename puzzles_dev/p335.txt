@@ -1,0 +1,5 @@
+7 10
+slick 5 1 1
+topic 2 3 0
+thank 1 5 0
+hinge 2 5 1

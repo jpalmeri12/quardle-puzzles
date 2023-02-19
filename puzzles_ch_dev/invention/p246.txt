@@ -1,0 +1,5 @@
+7 8 invention
+deign 2 1 1
+inept 2 3 0
+perch 5 3 1
+inner 1 5 0

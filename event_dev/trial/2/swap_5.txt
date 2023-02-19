@@ -1,0 +1,5 @@
+7 8 swap
+umshy 1 1 0
+sahme 3 1 1
+begta 6 3 1
+omuse 2 4 0

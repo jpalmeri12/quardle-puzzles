@@ -1,0 +1,6 @@
+7 9 five
+shove 1 1 1
+hinge 1 2 0
+cater 3 4 1
+email 1 5 0
+never 2 7 0

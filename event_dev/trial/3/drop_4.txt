@@ -1,0 +1,6 @@
+6 12 drop
+spray 1 1 0
+pesto 2 1 1
+donor 1 5 0
+reply 5 5 1
+paint 1 11 0

@@ -1,0 +1,5 @@
+7 7 spin
+stank 4 1 1
+sappy 2 2 1
+pagan 1 3 0
+poker 2 5 0

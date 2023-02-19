@@ -1,0 +1,5 @@
+7 9 bestfit
+scrub 1 1 1
+stock 3 4 1
+betel 1 5 0
+scope 2 7 0

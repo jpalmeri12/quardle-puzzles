@@ -1,0 +1,5 @@
+6 7 frequency
+angst 4 1 1
+nanny 1 2 0
+awash 2 2 1
+pause 1 4 0

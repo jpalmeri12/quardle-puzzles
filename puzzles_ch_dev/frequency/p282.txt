@@ -1,0 +1,5 @@
+6 6 frequency
+lusty 1 1 1
+lymph 1 1 0
+hutch 5 1 1
+tunic 1 4 0

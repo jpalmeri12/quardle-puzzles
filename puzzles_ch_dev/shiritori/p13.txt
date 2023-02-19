@@ -1,0 +1,5 @@
+6 8 shiritori
+aroma 5 1 1
+chest 2 3 1
+chasm 1 4 0
+stave 1 7 0

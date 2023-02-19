@@ -1,0 +1,6 @@
+6 8 squaredance
+lever 1 1 1
+liken 5 1 1
+libel 1 1 0
+raven 1 5 0
+manor 1 7 0

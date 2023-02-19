@@ -1,0 +1,5 @@
+7 7
+brash 5 1 1
+gnome 2 2 1
+naval 2 3 0
+smith 1 5 0

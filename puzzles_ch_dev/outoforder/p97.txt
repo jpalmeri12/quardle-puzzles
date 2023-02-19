@@ -1,0 +1,5 @@
+7 9 outoforder
+exist 6 1 1
+flute 4 4 1
+unlit 2 5 0
+dirty 1 7 0

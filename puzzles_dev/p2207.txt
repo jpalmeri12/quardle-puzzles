@@ -1,0 +1,5 @@
+6 10
+cater 3 1 1
+parka 1 5 0
+koala 4 5 1
+lunar 1 9 0

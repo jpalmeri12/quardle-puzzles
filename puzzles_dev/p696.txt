@@ -1,0 +1,5 @@
+7 10
+label 1 1 0
+elide 4 1 1
+smelt 2 5 0
+lucid 5 5 1

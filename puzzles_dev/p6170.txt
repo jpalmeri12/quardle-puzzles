@@ -1,0 +1,5 @@
+6 9
+width 3 1 1
+crisp 1 2 0
+lathe 1 4 0
+email 5 4 1

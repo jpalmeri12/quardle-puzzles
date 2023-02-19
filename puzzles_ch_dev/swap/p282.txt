@@ -1,0 +1,5 @@
+7 9 swap
+sepnt 1 1 0
+enmea 2 1 1
+beile 5 4 1
+aboev 2 5 0

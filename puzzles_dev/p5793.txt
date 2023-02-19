@@ -1,0 +1,5 @@
+6 7
+gavel 4 1 1
+algae 1 2 0
+allot 1 2 1
+lumen 1 4 0

@@ -1,0 +1,5 @@
+6 8
+witch 2 1 1
+plier 4 3 1
+scalp 1 4 0
+furry 1 7 0

@@ -1,0 +1,5 @@
+7 10 reverse
+savoy 1 1 1
+ydlom 1 5 0
+leash 3 5 1
+tsieh 2 8 0

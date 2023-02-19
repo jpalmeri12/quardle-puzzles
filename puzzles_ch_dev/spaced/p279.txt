@@ -1,0 +1,5 @@
+6 8 spaced
+cargo 1 1 1
+grind 4 3 1
+guard 1 4 0
+howdy 1 7 0

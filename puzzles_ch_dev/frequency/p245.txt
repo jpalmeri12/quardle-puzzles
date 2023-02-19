@@ -1,0 +1,5 @@
+6 9 frequency
+spree 5 1 1
+aside 1 4 0
+shush 2 4 1
+chili 1 8 0

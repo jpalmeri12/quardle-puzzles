@@ -1,0 +1,5 @@
+6 9
+train 1 1 1
+inlay 1 4 0
+laden 3 4 1
+liege 1 7 0

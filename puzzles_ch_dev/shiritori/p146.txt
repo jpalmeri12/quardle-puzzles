@@ -1,0 +1,5 @@
+6 7 shiritori
+photo 2 1 1
+thump 1 2 0
+pushy 5 2 1
+roach 1 5 0

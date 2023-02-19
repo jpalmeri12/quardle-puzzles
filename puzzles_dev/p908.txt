@@ -1,0 +1,5 @@
+7 9
+rebut 2 1 1
+unify 2 4 0
+ficus 5 4 1
+grass 1 8 0

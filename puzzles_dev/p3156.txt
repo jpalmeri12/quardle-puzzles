@@ -1,0 +1,5 @@
+7 9
+jelly 5 1 1
+cause 1 2 0
+drill 2 4 0
+recut 3 4 1

@@ -1,0 +1,5 @@
+6 8 duplicity
+aisle 1 1 0
+snail 3 1 1
+dense 5 3 1
+aside 1 4 0

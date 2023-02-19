@@ -1,0 +1,6 @@
+7 9 commonsecret
+point 2 1 1
+optic 2 2 0
+ample 4 4 1
+stomp 1 5 0
+!secret p

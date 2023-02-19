@@ -1,0 +1,5 @@
+7 9 duplicity
+scram 1 1 0
+comma 2 1 1
+music 2 4 0
+curio 6 4 1

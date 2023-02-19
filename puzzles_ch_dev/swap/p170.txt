@@ -1,0 +1,5 @@
+7 9 swap
+cahos 2 1 1
+ahrry 2 2 0
+dodwy 1 4 0
+wedeg 4 4 1

@@ -1,0 +1,5 @@
+7 7
+pound 5 1 1
+broom 2 2 0
+beady 2 2 1
+laden 1 4 0

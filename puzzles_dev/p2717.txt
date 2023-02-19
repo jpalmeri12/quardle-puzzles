@@ -1,0 +1,5 @@
+7 7
+ocean 3 1 1
+cocoa 1 2 0
+aisle 5 2 1
+daisy 2 4 0

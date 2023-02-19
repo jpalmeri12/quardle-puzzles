@@ -1,0 +1,5 @@
+7 9
+eerie 2 1 0
+idiot 5 1 1
+rodeo 1 4 0
+ovate 2 4 1

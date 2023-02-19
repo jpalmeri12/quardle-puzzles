@@ -1,0 +1,5 @@
+7 9
+livid 5 1 1
+digit 2 4 0
+inert 3 4 1
+curry 1 7 0

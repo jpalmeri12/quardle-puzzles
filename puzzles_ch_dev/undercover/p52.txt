@@ -1,0 +1,6 @@
+7 11 undercover
+blurb 1 1 0
+booze 5 1 1
+graze 2 4 0
+grant 2 4 1
+whisk 1 10 0

@@ -1,0 +1,6 @@
+7 10 wordcolumn
+rabbi 2 1 1
+decay 5 1 1
+brick 2 3 0
+sissy 1 5 0
+serum 4 5 1

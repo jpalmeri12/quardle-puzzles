@@ -1,0 +1,5 @@
+7 9 outoforder
+fight 1 1 1
+smash 4 4 1
+thump 1 5 0
+caste 2 7 0

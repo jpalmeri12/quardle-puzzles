@@ -1,0 +1,5 @@
+7 10
+mafia 4 1 1
+safer 2 3 0
+scrap 1 5 0
+rigid 3 5 1

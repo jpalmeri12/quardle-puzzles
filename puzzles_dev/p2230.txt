@@ -1,0 +1,5 @@
+7 7
+tramp 5 1 1
+found 2 2 1
+octal 2 3 0
+unzip 1 5 0

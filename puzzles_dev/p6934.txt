@@ -1,0 +1,5 @@
+7 9
+snout 2 1 1
+mushy 4 4 1
+truce 2 5 0
+bushy 1 7 0

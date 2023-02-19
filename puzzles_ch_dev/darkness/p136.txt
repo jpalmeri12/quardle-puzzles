@@ -1,0 +1,5 @@
+6 6 darkness
+triad 1 1 1
+straw 5 1 1
+recut 1 2 0
+arena 1 4 0

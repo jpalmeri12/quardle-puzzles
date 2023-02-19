@@ -1,0 +1,5 @@
+7 9 outoforder
+deign 5 1 1
+whine 1 2 0
+range 2 4 0
+robot 2 4 1

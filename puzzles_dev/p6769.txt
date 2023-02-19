@@ -1,0 +1,5 @@
+6 9
+flaky 5 1 1
+steal 1 2 0
+skulk 1 4 0
+solve 1 4 1

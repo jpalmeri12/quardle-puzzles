@@ -1,0 +1,5 @@
+7 9
+dwelt 2 1 1
+droit 2 1 0
+plunk 1 4 0
+karma 5 4 1

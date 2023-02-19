@@ -1,0 +1,5 @@
+7 9 spin
+frock 1 1 0
+krill 5 1 1
+curly 2 4 0
+color 2 4 1

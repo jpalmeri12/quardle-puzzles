@@ -1,0 +1,5 @@
+7 9 duplicity
+irate 5 1 1
+tiara 2 2 0
+circa 3 4 1
+trice 1 5 0

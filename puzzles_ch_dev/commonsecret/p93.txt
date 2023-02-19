@@ -1,0 +1,6 @@
+7 7 commonsecret
+burly 6 1 1
+print 4 2 1
+whirl 2 4 0
+aorta 1 6 0
+!secret r

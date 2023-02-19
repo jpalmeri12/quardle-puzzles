@@ -1,0 +1,5 @@
+7 10 sweeper
+ester 2 1 0
+toast 4 1 1
+froth 1 5 0
+hippy 5 5 1

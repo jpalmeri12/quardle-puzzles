@@ -1,0 +1,5 @@
+7 10 scrabble
+range 2 5 0
+flair 2 1 1
+shied 1 7 0
+giddy 5 5 1

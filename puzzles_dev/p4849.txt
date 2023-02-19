@@ -1,0 +1,5 @@
+7 9
+loath 2 1 1
+oaken 2 2 0
+stoke 1 4 0
+koala 4 4 1

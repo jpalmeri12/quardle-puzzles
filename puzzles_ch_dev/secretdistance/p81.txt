@@ -1,0 +1,7 @@
+6 12 secretdistance
+patio 4 1 1
+eclat 1 2 0
+honor 1 5 0
+nutty 3 5 1
+happy 1 11 0
+!sdpos 0 1 0 2

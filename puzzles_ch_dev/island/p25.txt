@@ -1,0 +1,6 @@
+6 10 island
+elder 4 1 1
+windy 1 3 0
+carry 1 5 0
+young 5 5 1
+!island 31 11111 1111 311

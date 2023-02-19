@@ -1,0 +1,5 @@
+6 7
+rocky 5 1 1
+paddy 1 2 1
+pinto 1 2 0
+dusty 1 5 0

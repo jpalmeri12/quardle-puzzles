@@ -1,0 +1,5 @@
+7 10 reverse
+spite 5 1 1
+ksoik 2 3 0
+rebme 1 5 0
+brake 3 5 1

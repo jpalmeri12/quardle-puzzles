@@ -1,0 +1,5 @@
+6 10 sweeper
+neigh 5 1 1
+shush 1 5 0
+state 4 5 1
+tenth 1 8 0

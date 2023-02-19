@@ -1,0 +1,5 @@
+7 8
+annex 2 1 0
+nobly 3 1 1
+waltz 5 3 1
+salsa 1 4 0

@@ -1,0 +1,5 @@
+6 7
+bingo 5 1 1
+sushi 1 2 0
+sooth 3 2 1
+patio 1 5 0

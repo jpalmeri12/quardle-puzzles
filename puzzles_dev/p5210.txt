@@ -1,0 +1,5 @@
+6 9
+grunt 4 1 1
+diary 1 2 0
+shrug 2 4 1
+photo 1 5 0

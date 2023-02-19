@@ -1,0 +1,5 @@
+6 9
+grate 5 1 1
+guest 1 4 0
+equal 3 4 1
+scamp 1 7 0

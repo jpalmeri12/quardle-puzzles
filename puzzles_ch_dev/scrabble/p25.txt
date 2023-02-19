@@ -1,0 +1,5 @@
+6 9 scrabble
+stray 1 4 1
+axion 1 7 0
+thyme 1 5 0
+pygmy 3 1 1

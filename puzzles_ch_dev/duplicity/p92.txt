@@ -1,0 +1,5 @@
+7 9 duplicity
+geeky 2 1 0
+eking 4 1 1
+opine 1 4 0
+poppy 2 4 1

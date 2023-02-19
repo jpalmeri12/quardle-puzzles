@@ -1,0 +1,5 @@
+7 10 hardmode
+wager 2 1 1
+wedge 2 1 0
+crepe 1 5 0
+ethic 5 5 1

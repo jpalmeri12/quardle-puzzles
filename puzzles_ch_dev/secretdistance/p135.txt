@@ -1,0 +1,7 @@
+7 12 secretdistance
+yeast 4 1 1
+tutor 2 5 0
+troll 2 5 1
+comet 1 7 0
+locus 1 11 0
+!sdpos 2 3 0 0

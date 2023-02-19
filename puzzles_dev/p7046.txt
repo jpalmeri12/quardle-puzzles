@@ -1,0 +1,5 @@
+7 8
+curio 1 1 1
+rider 1 3 0
+river 5 3 1
+scree 2 6 0

@@ -1,0 +1,5 @@
+6 8 bestfit
+waver 1 1 0
+eking 4 1 1
+recur 2 3 1
+leant 1 4 0

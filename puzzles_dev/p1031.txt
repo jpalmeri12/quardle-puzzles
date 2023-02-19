@@ -1,0 +1,5 @@
+7 8
+humph 3 1 1
+smear 2 3 0
+aping 5 3 1
+wrong 1 7 0

@@ -1,0 +1,6 @@
+6 12 wordcolumn
+fishy 2 1 1
+throb 1 4 0
+booty 5 4 1
+quasi 2 7 1
+nutty 1 8 0

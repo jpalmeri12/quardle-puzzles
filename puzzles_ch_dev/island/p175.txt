@@ -1,0 +1,6 @@
+6 9 island
+worry 5 1 1
+hippo 1 2 0
+bacon 2 4 1
+tawny 1 5 0
+!island 1111 31 2111 221

@@ -1,0 +1,5 @@
+7 9
+elfin 6 1 1
+chain 2 4 1
+chili 2 4 0
+labor 1 6 0

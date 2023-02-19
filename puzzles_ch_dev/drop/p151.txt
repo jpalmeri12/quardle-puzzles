@@ -1,0 +1,6 @@
+7 12 drop
+crook 3 1 1
+askew 1 5 0
+stole 2 5 1
+ozone 2 7 0
+actor 1 11 0

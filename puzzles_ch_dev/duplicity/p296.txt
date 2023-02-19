@@ -1,0 +1,5 @@
+6 9 duplicity
+shush 1 1 1
+sushi 1 4 0
+sigma 3 4 1
+gamma 1 7 0

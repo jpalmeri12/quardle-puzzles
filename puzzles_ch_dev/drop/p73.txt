@@ -1,0 +1,6 @@
+7 12 drop
+fella 2 1 1
+gaffe 1 5 0
+flock 3 5 1
+hoist 2 7 0
+afire 1 11 0

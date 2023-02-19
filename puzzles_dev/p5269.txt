@@ -1,0 +1,5 @@
+7 9
+fatal 4 1 1
+great 1 2 0
+tramp 2 4 0
+proxy 6 4 1

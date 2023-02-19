@@ -1,0 +1,7 @@
+7 12 secretdistance
+rumba 2 1 1
+upper 2 2 0
+labor 1 5 0
+realm 5 5 1
+dolly 1 11 0
+!sdpos 2 1 3 0

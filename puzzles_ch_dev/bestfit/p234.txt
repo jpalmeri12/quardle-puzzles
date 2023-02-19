@@ -1,0 +1,5 @@
+7 9 bestfit
+agora 2 1 1
+agent 1 2 0
+tying 6 4 1
+agony 2 5 0

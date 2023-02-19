@@ -1,0 +1,5 @@
+7 10
+cream 2 1 1
+smell 1 5 0
+erupt 3 5 1
+bulge 2 7 0

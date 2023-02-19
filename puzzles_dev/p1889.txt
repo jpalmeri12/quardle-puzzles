@@ -1,0 +1,5 @@
+6 10
+issue 1 1 1
+erupt 1 5 0
+urban 3 5 1
+rebel 1 7 0

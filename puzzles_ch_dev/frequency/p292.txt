@@ -1,0 +1,5 @@
+6 9 frequency
+whose 1 1 0
+holly 2 1 1
+slung 1 4 0
+niche 4 4 1

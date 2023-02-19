@@ -1,0 +1,5 @@
+7 8
+prove 3 1 1
+court 2 3 0
+rifle 5 3 1
+shelf 1 5 0

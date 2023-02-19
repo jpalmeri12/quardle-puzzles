@@ -1,0 +1,9 @@
+7 9 spellbound
+quash 2 1 0
+satyr 5 1 1
+money 1 4 0
+media 1 4 1
+!spellbound 0 0 2
+!spellbound 1 4 1
+!spellbound 2 2 3
+!spellbound 3 3 1

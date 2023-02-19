@@ -1,0 +1,5 @@
+6 6 frequency
+lasso 1 1 1
+sneer 5 1 1
+shade 1 3 0
+offer 1 5 0

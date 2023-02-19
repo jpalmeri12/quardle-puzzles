@@ -1,0 +1,5 @@
+6 7 invention
+sorry 5 1 1
+limbo 1 2 0
+maybe 3 2 1
+flyer 1 4 0

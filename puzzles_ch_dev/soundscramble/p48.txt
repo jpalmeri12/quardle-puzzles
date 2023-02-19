@@ -1,0 +1,5 @@
+6 7 soundscramble
+enity 5 1 1
+ripun 1 2 0
+peruu 3 2 1
+tarot 1 4 0

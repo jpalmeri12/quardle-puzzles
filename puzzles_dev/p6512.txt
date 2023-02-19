@@ -1,0 +1,5 @@
+7 10
+wrist 5 1 1
+chute 2 5 0
+urban 4 5 1
+rehab 1 8 0

@@ -1,0 +1,5 @@
+7 10 unloved
+bayou 2 1 1
+dumpy 1 5 0
+pesky 4 5 1
+wispy 2 7 0

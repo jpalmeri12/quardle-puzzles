@@ -1,0 +1,5 @@
+7 9
+stout 3 1 1
+satin 1 2 0
+super 2 4 0
+roomy 6 4 1

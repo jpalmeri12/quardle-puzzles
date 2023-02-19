@@ -1,0 +1,5 @@
+7 9 frequency
+haven 5 1 1
+local 2 2 0
+lapse 1 4 0
+preen 3 4 1

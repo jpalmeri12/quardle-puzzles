@@ -1,0 +1,5 @@
+7 8
+bread 1 1 0
+rebar 2 1 1
+broom 2 3 0
+manic 6 3 1

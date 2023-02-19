@@ -1,0 +1,5 @@
+7 8
+plait 2 1 1
+pouty 2 1 0
+lobby 5 3 1
+dingo 1 4 0

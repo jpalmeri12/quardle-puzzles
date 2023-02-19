@@ -1,0 +1,5 @@
+7 9
+buddy 1 1 1
+dwelt 1 4 0
+lying 4 4 1
+sight 2 8 0

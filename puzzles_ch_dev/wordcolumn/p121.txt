@@ -1,0 +1,6 @@
+7 10 wordcolumn
+first 2 1 0
+spook 5 1 1
+torso 1 3 0
+khaki 2 5 0
+impel 6 5 1

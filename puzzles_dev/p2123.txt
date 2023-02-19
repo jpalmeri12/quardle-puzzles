@@ -1,0 +1,5 @@
+6 10
+gaunt 3 1 1
+soapy 1 2 0
+attic 1 5 0
+tooth 2 5 1

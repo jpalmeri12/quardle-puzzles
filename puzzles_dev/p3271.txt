@@ -1,0 +1,5 @@
+7 9
+alive 6 1 1
+riper 4 4 1
+brine 2 5 0
+wager 1 7 0

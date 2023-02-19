@@ -1,0 +1,6 @@
+6 10 connectfive
+homer 5 1 1
+eclat 1 4 1
+choir 1 5 0
+inner 4 5 1
+taker 1 8 0

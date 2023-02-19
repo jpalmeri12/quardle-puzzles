@@ -1,0 +1,5 @@
+7 9 hardmode
+final 2 1 1
+mambo 1 4 0
+beget 4 4 1
+theft 2 7 0

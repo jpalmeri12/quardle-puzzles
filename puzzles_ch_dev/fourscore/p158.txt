@@ -1,0 +1,5 @@
+7 9 fourscore
+apart 4 1 1
+vapid 2 2 0
+scarf 1 4 0
+cried 2 4 1

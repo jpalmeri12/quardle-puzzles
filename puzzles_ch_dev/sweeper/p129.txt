@@ -1,0 +1,5 @@
+7 9 sweeper
+vinyl 5 1 1
+nadir 2 2 0
+enjoy 1 4 0
+nasal 2 4 1

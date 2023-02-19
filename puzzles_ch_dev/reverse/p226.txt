@@ -1,0 +1,5 @@
+6 6 reverse
+gnuoy 2 1 1
+peets 5 1 1
+ensue 1 2 0
+posit 1 4 0

@@ -1,0 +1,5 @@
+7 10
+tiara 2 1 1
+madam 1 5 0
+motel 5 5 1
+skill 2 9 0

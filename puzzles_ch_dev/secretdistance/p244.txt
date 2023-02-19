@@ -1,0 +1,7 @@
+7 9 secretdistance
+sweet 1 1 0
+watch 2 1 1
+strap 6 2 1
+taunt 2 3 0
+quart 1 8 0
+!sdpos 0 2 1 1

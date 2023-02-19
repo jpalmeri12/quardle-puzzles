@@ -1,0 +1,5 @@
+7 10 frequency
+smoky 6 1 1
+bushy 2 5 0
+unity 3 5 1
+batch 1 8 0

@@ -1,0 +1,9 @@
+6 9 spellbound
+blitz 4 1 1
+guile 1 2 0
+tooth 1 4 0
+oxide 2 4 1
+!spellbound 0 4 0
+!spellbound 1 1 2
+!spellbound 2 0 2
+!spellbound 3 2 4

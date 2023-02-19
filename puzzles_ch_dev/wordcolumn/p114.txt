@@ -1,0 +1,6 @@
+7 8 wordcolumn
+weigh 1 1 1
+saute 3 3 1
+kneed 5 3 1
+grain 1 4 0
+ether 2 6 0

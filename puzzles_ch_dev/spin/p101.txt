@@ -1,0 +1,5 @@
+6 7 spin
+gonad 4 1 1
+havoc 1 2 0
+hence 1 2 1
+chide 1 5 0

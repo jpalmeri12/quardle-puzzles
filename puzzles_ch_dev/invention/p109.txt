@@ -1,0 +1,5 @@
+7 9 invention
+radii 2 1 1
+sassy 1 2 0
+emcee 6 4 1
+idiom 2 5 0

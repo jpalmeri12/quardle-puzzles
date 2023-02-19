@@ -1,0 +1,5 @@
+7 9
+puppy 3 1 1
+stump 1 2 0
+splat 2 4 0
+adopt 5 4 1

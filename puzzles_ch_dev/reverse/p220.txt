@@ -1,0 +1,5 @@
+7 10 reverse
+dirge 5 1 1
+tupni 1 2 0
+spiel 2 5 0
+puorc 3 5 1

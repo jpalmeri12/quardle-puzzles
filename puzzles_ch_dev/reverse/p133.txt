@@ -1,0 +1,5 @@
+7 10 reverse
+broom 4 1 1
+lepmi 1 5 0
+ester 2 5 1
+egrup 2 8 0

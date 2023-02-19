@@ -1,0 +1,5 @@
+7 7
+wider 2 1 1
+civic 1 2 0
+icily 4 2 1
+exist 2 4 0

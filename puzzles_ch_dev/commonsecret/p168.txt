@@ -1,0 +1,6 @@
+6 10 commonsecret
+embed 2 1 1
+amble 1 5 1
+adobe 1 5 0
+brunt 1 7 0
+!secret b

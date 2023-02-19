@@ -1,0 +1,5 @@
+7 8 skyscrapers
+tilde 5 3 1
+idyll 2 5 0
+blend 3 1 1
+abbot 1 1 0

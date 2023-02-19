@@ -1,0 +1,6 @@
+6 9 connectfive
+pique 1 1 0
+easel 5 1 1
+grove 1 4 0
+rural 2 4 1
+caput 1 7 0

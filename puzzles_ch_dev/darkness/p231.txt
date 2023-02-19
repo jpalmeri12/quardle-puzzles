@@ -1,0 +1,5 @@
+6 7 darkness
+freer 1 4 0
+knelt 3 2 1
+askew 1 2 0
+gaffe 1 1 1

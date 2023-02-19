@@ -1,0 +1,5 @@
+7 9 bestfit
+hippo 2 1 1
+plump 2 4 0
+mason 5 4 1
+cargo 1 7 0

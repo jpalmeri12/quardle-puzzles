@@ -1,0 +1,5 @@
+7 10 sweeper
+trace 2 1 1
+aphid 2 3 0
+lease 1 5 0
+afoul 3 5 1

@@ -1,0 +1,5 @@
+7 9
+drawn 4 1 1
+rebar 1 3 0
+folly 6 4 1
+banjo 2 5 0

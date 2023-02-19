@@ -1,0 +1,6 @@
+6 9 drop
+harem 1 1 1
+amiss 1 2 0
+stick 5 2 1
+magic 1 5 0
+caste 1 8 0

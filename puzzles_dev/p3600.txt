@@ -1,0 +1,5 @@
+7 9
+marsh 3 1 1
+cagey 2 2 0
+gusto 1 4 0
+outer 5 4 1

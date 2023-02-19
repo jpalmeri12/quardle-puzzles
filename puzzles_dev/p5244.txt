@@ -1,0 +1,5 @@
+7 9
+crisp 1 1 1
+nutty 3 4 1
+pouch 1 5 0
+utile 2 7 0

@@ -1,0 +1,5 @@
+7 9
+smite 2 1 1
+heart 4 4 1
+eject 2 5 0
+dusty 1 8 0

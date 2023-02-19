@@ -1,0 +1,5 @@
+7 8 invention
+loamy 5 1 1
+opine 2 3 1
+spasm 1 4 0
+exact 2 7 0

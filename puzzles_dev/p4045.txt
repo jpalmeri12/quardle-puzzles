@@ -1,0 +1,5 @@
+7 10
+snoop 2 1 1
+apron 1 5 0
+octet 4 5 1
+hatch 2 7 0

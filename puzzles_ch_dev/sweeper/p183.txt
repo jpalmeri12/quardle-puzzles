@@ -1,0 +1,5 @@
+7 8 sweeper
+known 2 1 0
+witty 5 1 1
+saint 1 3 0
+sleet 1 3 1

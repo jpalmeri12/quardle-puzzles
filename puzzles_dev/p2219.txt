@@ -1,0 +1,5 @@
+7 9
+naval 1 1 1
+anode 1 4 0
+elegy 5 4 1
+laden 2 6 0

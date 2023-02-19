@@ -1,0 +1,6 @@
+6 10 island
+cocoa 3 1 1
+learn 1 5 0
+nymph 5 5 1
+bleep 1 8 0
+!island 111 2111 41 211

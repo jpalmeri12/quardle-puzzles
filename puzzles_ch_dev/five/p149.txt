@@ -1,0 +1,6 @@
+6 10 five
+plane 5 1 1
+champ 2 2 1
+smile 1 5 0
+lymph 4 5 1
+lumpy 1 8 0

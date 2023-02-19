@@ -1,0 +1,5 @@
+7 8 darkness
+shied 3 3 1
+satyr 6 1 1
+ardor 1 7 0
+whiny 2 4 0

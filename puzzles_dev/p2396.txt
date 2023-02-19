@@ -1,0 +1,5 @@
+7 9
+sight 5 1 1
+rabbi 1 2 0
+bathe 2 4 0
+alloy 3 4 1

@@ -1,0 +1,5 @@
+6 9
+loyal 2 1 1
+gamut 1 4 0
+tenor 5 4 1
+cyber 1 8 0

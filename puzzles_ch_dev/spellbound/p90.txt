@@ -1,0 +1,9 @@
+7 8 spellbound
+moral 1 1 0
+lithe 5 1 1
+forty 2 3 0
+olden 3 3 1
+!spellbound 0 0 2
+!spellbound 1 4 3
+!spellbound 2 0 2
+!spellbound 3 3 4

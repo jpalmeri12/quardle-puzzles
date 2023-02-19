@@ -1,0 +1,6 @@
+7 10 connectfive
+rigid 6 1 1
+amaze 2 3 1
+among 2 3 0
+thief 4 5 1
+medic 1 7 0

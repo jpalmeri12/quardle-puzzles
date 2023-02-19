@@ -1,0 +1,6 @@
+7 9 island
+trick 2 1 1
+brace 1 2 0
+crept 2 4 0
+thong 6 4 1
+!island 221 2111 311 41

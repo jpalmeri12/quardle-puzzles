@@ -1,0 +1,5 @@
+6 7
+trade 1 1 1
+ramen 1 2 0
+metal 3 2 1
+dutch 1 4 0

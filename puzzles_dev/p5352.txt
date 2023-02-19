@@ -1,0 +1,5 @@
+6 10
+fizzy 2 1 1
+hilly 1 2 0
+gypsy 1 5 0
+split 4 5 1

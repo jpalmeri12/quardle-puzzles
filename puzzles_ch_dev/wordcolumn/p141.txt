@@ -1,0 +1,6 @@
+6 12 wordcolumn
+bayou 2 1 1
+pubic 1 5 0
+cairn 5 5 1
+swami 1 7 0
+whack 2 7 1

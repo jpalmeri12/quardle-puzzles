@@ -1,0 +1,6 @@
+7 10 island
+tulip 2 1 1
+spend 1 5 0
+nudge 4 5 1
+segue 2 8 0
+!island 221 311 2111 211

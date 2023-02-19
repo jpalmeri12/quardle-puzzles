@@ -1,0 +1,5 @@
+7 10
+polyp 4 1 1
+boozy 2 2 0
+drape 1 5 0
+roach 2 5 1

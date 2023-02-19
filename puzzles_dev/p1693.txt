@@ -1,0 +1,5 @@
+7 10
+while 3 1 1
+repel 2 5 0
+puppy 4 5 1
+ralph 1 8 0

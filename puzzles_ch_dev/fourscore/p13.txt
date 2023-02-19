@@ -1,0 +1,5 @@
+6 8 fourscore
+force 1 1 0
+refer 3 1 1
+lofty 1 3 0
+young 5 3 1

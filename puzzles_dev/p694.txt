@@ -1,0 +1,5 @@
+7 8
+fully 2 1 0
+lucky 5 1 1
+blond 2 3 1
+flank 1 4 0

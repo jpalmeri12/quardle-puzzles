@@ -1,0 +1,5 @@
+6 7
+dried 2 1 1
+crust 1 2 0
+tiger 5 2 1
+being 1 4 0

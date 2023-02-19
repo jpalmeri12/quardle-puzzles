@@ -1,0 +1,6 @@
+7 8 commonsecret
+grown 2 1 1
+denim 5 3 1
+waxen 2 4 0
+minim 1 7 0
+!secret n

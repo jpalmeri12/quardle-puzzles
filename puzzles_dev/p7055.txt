@@ -1,0 +1,5 @@
+7 7
+trait 4 1 1
+borax 2 2 0
+breed 2 2 1
+belie 1 4 0

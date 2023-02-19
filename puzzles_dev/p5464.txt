@@ -1,0 +1,5 @@
+7 9
+level 2 1 1
+force 4 4 1
+aloof 1 5 0
+focus 2 7 0

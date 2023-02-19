@@ -1,0 +1,5 @@
+7 7 buyavowel
+flirt 5 1 1
+shell 2 2 0
+stoic 2 2 1
+mower 1 4 0

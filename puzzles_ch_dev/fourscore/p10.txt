@@ -1,0 +1,5 @@
+7 9 fourscore
+rocky 6 1 1
+crane 2 4 1
+rusty 2 5 0
+enemy 1 7 0

@@ -1,0 +1,5 @@
+7 10 reverse
+marcs 2 1 1
+ladit 1 2 0
+shuck 2 5 0
+kiosk 6 5 1

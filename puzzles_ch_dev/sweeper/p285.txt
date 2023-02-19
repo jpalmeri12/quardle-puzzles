@@ -1,0 +1,5 @@
+6 6 sweeper
+grown 1 1 0
+oddly 3 1 1
+niece 5 1 1
+relic 1 4 0

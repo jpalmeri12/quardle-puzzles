@@ -1,0 +1,5 @@
+7 9
+cabal 4 1 1
+grain 2 2 0
+ardor 1 4 1
+reply 1 5 0

@@ -1,0 +1,5 @@
+7 10 hardmode
+lunar 4 1 1
+blurt 1 5 0
+unset 3 5 1
+usurp 2 7 0

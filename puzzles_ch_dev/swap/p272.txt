@@ -1,0 +1,5 @@
+7 9 swap
+bfeit 3 1 1
+fofer 1 2 0
+pikny 6 4 1
+steni 2 5 0

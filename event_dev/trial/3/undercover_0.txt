@@ -1,0 +1,6 @@
+6 11 undercover
+vouch 5 1 1
+hurry 2 4 1
+bunch 1 5 0
+nylon 1 8 0
+stamp 1 10 0

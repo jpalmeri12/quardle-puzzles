@@ -1,0 +1,5 @@
+7 9 swap
+excle 2 1 1
+vxien 1 2 0
+abmle 5 4 1
+emebr 2 5 0

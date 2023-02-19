@@ -1,0 +1,7 @@
+6 10 secretdistance
+legal 2 1 1
+verse 4 3 1
+valet 1 4 0
+level 1 7 0
+grave 1 9 0
+!sdpos 3 0 0 1

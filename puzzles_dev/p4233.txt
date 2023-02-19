@@ -1,0 +1,5 @@
+6 6
+bitty 2 1 1
+peril 4 1 1
+riper 1 2 0
+staid 1 4 0

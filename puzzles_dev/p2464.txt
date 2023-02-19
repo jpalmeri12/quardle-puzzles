@@ -1,0 +1,5 @@
+7 8
+stray 1 1 1
+saint 3 3 1
+abate 1 4 0
+snail 2 6 0

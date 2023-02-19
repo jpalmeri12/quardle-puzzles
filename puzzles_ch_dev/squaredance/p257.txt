@@ -1,0 +1,6 @@
+6 8 squaredance
+abode 1 1 1
+relay 5 1 1
+altar 1 1 0
+enjoy 1 5 0
+viper 1 7 0

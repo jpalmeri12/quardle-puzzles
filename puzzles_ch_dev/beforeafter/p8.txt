@@ -1,0 +1,9 @@
+6 10 beforeafter
+daily 5 1 1
+heavy 1 5 0
+vying 4 5 1
+topic 1 7 0
+!beforeafter 2 j
+!beforeafter 2 k
+!beforeafter 1 r
+!beforeafter 2 l

@@ -1,0 +1,5 @@
+7 8
+hoard 4 1 1
+stood 1 2 0
+dwell 6 3 1
+threw 2 4 0

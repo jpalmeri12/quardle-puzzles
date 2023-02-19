@@ -1,0 +1,5 @@
+7 8
+flank 5 1 1
+peril 2 3 1
+eying 2 4 0
+globe 1 7 0

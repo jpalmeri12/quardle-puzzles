@@ -1,0 +1,5 @@
+7 9 beta
+skirt 5 1 1
+style 2 4 1
+tooth 2 5 0
+blood 1 7 0

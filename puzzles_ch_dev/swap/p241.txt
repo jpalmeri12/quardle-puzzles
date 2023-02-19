@@ -1,0 +1,5 @@
+6 9 swap
+roedo 1 1 1
+rbead 1 1 0
+drkae 1 4 0
+krlil 3 4 1

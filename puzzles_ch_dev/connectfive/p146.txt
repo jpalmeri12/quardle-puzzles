@@ -1,0 +1,6 @@
+6 12 connectfive
+torso 2 1 1
+brisk 1 3 0
+spiel 4 3 1
+psalm 1 7 0
+prawn 1 7 1

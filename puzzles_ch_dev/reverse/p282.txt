@@ -1,0 +1,5 @@
+7 9 reverse
+nruhc 2 1 1
+arret 1 2 0
+piggy 4 4 1
+crime 2 5 0

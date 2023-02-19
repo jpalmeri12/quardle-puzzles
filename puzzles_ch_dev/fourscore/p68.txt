@@ -1,0 +1,5 @@
+7 9 fourscore
+leggy 4 1 1
+smear 2 2 0
+bulge 1 4 0
+brink 1 4 1

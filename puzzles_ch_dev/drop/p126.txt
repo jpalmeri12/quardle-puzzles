@@ -1,0 +1,6 @@
+6 9 drop
+perky 5 1 1
+baste 1 2 0
+slump 3 2 1
+stunk 1 4 0
+pesky 1 8 0

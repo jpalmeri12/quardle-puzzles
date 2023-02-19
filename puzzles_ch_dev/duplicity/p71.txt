@@ -1,0 +1,5 @@
+7 9 duplicity
+crate 1 1 1
+tepee 1 4 0
+paler 3 4 1
+clear 2 6 0

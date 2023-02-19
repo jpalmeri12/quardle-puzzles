@@ -1,0 +1,5 @@
+6 6
+swept 1 1 1
+badge 3 1 1
+weave 1 2 0
+piggy 1 4 0

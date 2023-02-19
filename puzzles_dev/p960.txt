@@ -1,0 +1,5 @@
+6 7
+angry 4 1 1
+penne 1 2 0
+exile 2 2 1
+diary 1 4 0

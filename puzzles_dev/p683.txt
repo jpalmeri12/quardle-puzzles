@@ -1,0 +1,5 @@
+7 10
+toddy 4 1 1
+credo 1 3 0
+gayer 2 5 0
+enjoy 5 5 1

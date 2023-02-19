@@ -1,0 +1,5 @@
+7 9 elbowroom
+gruel 5 1 1
+shark 2 2 0
+cycle 1 4 0
+clank 1 4 1

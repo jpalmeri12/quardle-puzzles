@@ -1,0 +1,5 @@
+7 10
+hello 5 1 1
+octet 2 2 0
+metro 1 5 0
+extol 2 5 1

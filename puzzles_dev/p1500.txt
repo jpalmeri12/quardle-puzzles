@@ -1,0 +1,5 @@
+7 9
+decry 3 1 1
+creme 1 2 0
+crush 2 4 0
+steel 5 4 1

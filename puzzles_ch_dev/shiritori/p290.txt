@@ -1,0 +1,5 @@
+6 7 shiritori
+badge 1 1 1
+arrow 1 2 0
+whoop 5 2 1
+gumbo 1 4 0

@@ -1,0 +1,5 @@
+7 9 reverse
+kcoms 4 1 1
+elect 1 2 0
+deird 2 4 1
+essay 2 5 0

@@ -1,0 +1,5 @@
+7 9 fourscore
+halve 4 1 1
+blare 2 4 1
+leery 2 5 0
+drake 1 7 0

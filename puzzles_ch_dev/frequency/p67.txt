@@ -1,0 +1,5 @@
+7 9 frequency
+bongo 1 1 0
+natal 3 1 1
+proxy 6 4 1
+flair 2 5 0

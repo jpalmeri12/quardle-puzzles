@@ -1,0 +1,5 @@
+7 9 spin
+bossy 5 1 1
+bravo 1 2 0
+gnash 2 4 0
+ninja 3 4 1

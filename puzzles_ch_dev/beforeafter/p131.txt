@@ -1,0 +1,9 @@
+6 8 beforeafter
+music 1 1 0
+snail 3 1 1
+utile 5 3 1
+heist 1 4 0
+!beforeafter 2 l
+!beforeafter 1 m
+!beforeafter 1 r
+!beforeafter 2 n

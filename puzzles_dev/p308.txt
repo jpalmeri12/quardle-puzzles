@@ -1,0 +1,5 @@
+7 10
+broom 2 1 1
+polka 1 3 0
+metal 2 5 0
+tally 4 5 1

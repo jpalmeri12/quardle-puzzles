@@ -1,0 +1,6 @@
+7 10 five
+rarer 4 1 1
+mural 2 5 0
+unmet 3 5 1
+umbra 2 7 0
+motor 1 9 0

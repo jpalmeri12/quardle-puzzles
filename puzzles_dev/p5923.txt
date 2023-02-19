@@ -1,0 +1,5 @@
+6 10
+decal 1 1 1
+lower 1 5 0
+orbit 2 5 1
+tibia 1 8 0

@@ -1,0 +1,5 @@
+7 9
+greed 2 1 1
+break 1 2 0
+eclat 2 4 0
+alert 5 4 1

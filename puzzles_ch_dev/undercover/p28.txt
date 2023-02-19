@@ -1,0 +1,6 @@
+6 9 undercover
+piper 1 1 1
+newly 5 2 1
+parse 1 3 0
+rebel 1 5 0
+tooth 1 8 0

@@ -1,0 +1,5 @@
+7 10 fourscore
+blade 2 1 1
+evict 2 5 0
+igloo 4 5 1
+synod 1 9 0

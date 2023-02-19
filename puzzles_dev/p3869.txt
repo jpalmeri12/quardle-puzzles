@@ -1,0 +1,5 @@
+7 10
+funky 4 1 1
+shyly 2 5 0
+hence 3 5 1
+minim 1 7 0

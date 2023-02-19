@@ -1,0 +1,5 @@
+6 8
+noise 1 1 0
+scamp 4 1 1
+lager 2 3 1
+magma 1 4 0

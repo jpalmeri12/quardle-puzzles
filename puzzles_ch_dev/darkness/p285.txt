@@ -1,0 +1,5 @@
+6 8 darkness
+scorn 1 1 1
+oddly 3 3 1
+idyll 1 7 0
+ruddy 1 4 0

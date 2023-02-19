@@ -1,0 +1,5 @@
+7 9
+trunk 2 1 1
+north 2 4 0
+tryst 5 4 1
+crass 1 7 0

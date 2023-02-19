@@ -1,0 +1,9 @@
+7 10 spellbound
+jewel 2 1 0
+waltz 4 1 1
+craze 1 5 0
+cruel 1 5 1
+!spellbound 0 3 0
+!spellbound 1 2 3
+!spellbound 2 4 1
+!spellbound 3 3 2

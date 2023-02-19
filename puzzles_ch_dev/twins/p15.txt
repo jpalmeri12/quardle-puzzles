@@ -1,0 +1,8 @@
+6 8 twins
+knock 1 1 0
+zonal 1 3 0
+ebony 1 5 0
+magma 1 7 0
+!twins 1 2
+!twins 1 3
+!twins 0 2

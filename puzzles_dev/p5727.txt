@@ -1,0 +1,5 @@
+7 9
+brown 1 1 1
+wrung 1 4 0
+naive 4 4 1
+axial 2 6 0

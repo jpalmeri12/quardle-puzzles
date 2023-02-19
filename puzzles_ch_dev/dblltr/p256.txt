@@ -1,0 +1,5 @@
+7 7 dblltr
+coach 2 1 1
+octet 2 2 0
+three 4 2 1
+sheer 1 5 0

@@ -1,0 +1,6 @@
+7 10 connectfive
+never 4 1 1
+jerky 2 5 0
+knave 5 5 1
+llama 1 7 0
+melee 1 9 0

@@ -1,0 +1,5 @@
+7 9 spin
+prune 2 1 1
+belly 4 4 1
+every 2 5 0
+atoll 1 7 0

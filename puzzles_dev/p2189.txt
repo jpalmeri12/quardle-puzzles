@@ -1,0 +1,5 @@
+7 9
+rebar 2 1 1
+venom 4 4 1
+breed 1 5 0
+limit 2 8 0

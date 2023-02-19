@@ -1,0 +1,5 @@
+7 10 sweeper
+shaft 2 1 1
+shiny 1 2 0
+taboo 2 5 0
+audit 3 5 1

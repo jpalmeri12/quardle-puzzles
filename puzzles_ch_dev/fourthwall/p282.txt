@@ -1,0 +1,7 @@
+6 6 fourthwall
+tulle 1 1 0
+taste 1 1 1
+staff 1 3 0
+least 3 1 1
+eaten 1 5 0
+elfin 5 1 1

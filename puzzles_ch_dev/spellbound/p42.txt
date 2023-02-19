@@ -1,0 +1,9 @@
+7 10 spellbound
+groin 6 1 1
+admin 2 5 0
+deity 3 5 1
+twice 1 7 0
+!spellbound 0 0 3
+!spellbound 1 0 3
+!spellbound 2 4 1
+!spellbound 3 4 1

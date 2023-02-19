@@ -1,0 +1,5 @@
+7 10
+loose 4 1 1
+crone 2 2 0
+sleek 1 5 0
+event 3 5 1

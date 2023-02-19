@@ -1,0 +1,5 @@
+6 6 swap
+cigra 1 1 0
+cehek 1 1 1
+girme 3 1 1
+etmpo 1 4 0

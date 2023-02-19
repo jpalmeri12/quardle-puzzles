@@ -1,0 +1,5 @@
+7 7
+stink 4 1 1
+hutch 2 2 0
+haven 2 2 1
+ovine 1 4 0

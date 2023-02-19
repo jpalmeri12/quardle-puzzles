@@ -1,0 +1,5 @@
+6 9 invention
+glean 2 1 1
+olden 1 2 0
+mambo 1 4 0
+ovoid 5 4 1

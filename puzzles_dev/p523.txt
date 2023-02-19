@@ -1,0 +1,5 @@
+7 9
+harsh 2 1 0
+sound 5 1 1
+felon 1 4 0
+excel 2 4 1

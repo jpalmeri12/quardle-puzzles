@@ -1,0 +1,6 @@
+7 10 five
+weigh 4 1 1
+brief 2 3 0
+ether 2 5 0
+eclat 2 5 1
+gloat 1 7 0

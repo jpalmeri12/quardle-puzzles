@@ -1,0 +1,5 @@
+6 8
+broom 1 1 0
+rower 2 1 1
+saucy 4 3 1
+grout 1 5 0

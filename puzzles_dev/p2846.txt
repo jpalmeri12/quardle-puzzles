@@ -1,0 +1,5 @@
+7 10
+latte 5 1 1
+pouty 2 3 0
+flume 1 5 0
+moody 4 5 1

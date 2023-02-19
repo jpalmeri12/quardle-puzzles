@@ -1,0 +1,5 @@
+7 9
+minty 1 1 0
+trait 4 1 1
+unify 2 4 0
+usurp 2 4 1

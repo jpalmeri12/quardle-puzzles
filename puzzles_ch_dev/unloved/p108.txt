@@ -1,0 +1,5 @@
+6 9 unloved
+chili 4 1 1
+light 1 2 0
+crimp 2 4 1
+broil 1 5 0

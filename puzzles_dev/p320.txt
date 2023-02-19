@@ -1,0 +1,5 @@
+6 8
+afoot 1 1 0
+tight 5 1 1
+koala 2 3 1
+pooch 1 4 0

@@ -1,0 +1,5 @@
+7 8 clockdown
+sneer 1 1 0
+every 3 1 1
+lease 2 3 0
+shock 5 3 1

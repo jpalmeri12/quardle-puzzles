@@ -1,0 +1,5 @@
+6 7 spaced
+rouge 3 1 1
+whole 1 2 0
+wharf 1 2 1
+argue 1 4 0

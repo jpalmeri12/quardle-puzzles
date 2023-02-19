@@ -1,0 +1,6 @@
+6 10 connectfive
+stout 1 1 0
+usage 4 1 1
+squad 1 3 0
+buyer 1 5 0
+urban 2 5 1

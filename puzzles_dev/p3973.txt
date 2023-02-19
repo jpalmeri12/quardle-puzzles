@@ -1,0 +1,5 @@
+7 8
+scowl 1 1 1
+blunt 3 3 1
+louse 1 5 0
+stash 2 7 0

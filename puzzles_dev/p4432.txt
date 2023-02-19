@@ -1,0 +1,5 @@
+7 10
+taboo 2 1 1
+abbot 1 3 0
+opium 2 5 0
+madly 6 5 1

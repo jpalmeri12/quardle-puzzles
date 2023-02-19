@@ -1,0 +1,5 @@
+7 10 scrabble
+inert 5 5 1
+admit 2 5 0
+livid 3 1 1
+mulch 1 1 0

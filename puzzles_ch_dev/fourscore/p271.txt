@@ -1,0 +1,5 @@
+7 10 fourscore
+opium 2 1 1
+proxy 2 2 0
+smart 1 5 0
+altar 3 5 1

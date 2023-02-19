@@ -1,0 +1,6 @@
+7 10 wordcolumn
+mafia 3 1 1
+gravy 1 5 0
+ruler 2 5 1
+venom 4 5 1
+lingo 2 7 0

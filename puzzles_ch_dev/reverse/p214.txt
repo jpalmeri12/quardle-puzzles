@@ -1,0 +1,5 @@
+7 10 reverse
+eslup 5 1 1
+bicep 1 5 0
+crack 3 5 1
+daeha 2 7 0

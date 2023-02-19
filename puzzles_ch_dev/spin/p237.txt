@@ -1,0 +1,5 @@
+7 9 spin
+foyer 4 1 1
+beech 2 4 1
+retro 1 5 0
+chill 2 7 0

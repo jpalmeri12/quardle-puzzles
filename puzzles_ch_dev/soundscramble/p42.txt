@@ -1,0 +1,5 @@
+7 9 soundscramble
+werst 5 1 1
+lapso 2 4 0
+lewor 2 4 1
+docry 1 7 0

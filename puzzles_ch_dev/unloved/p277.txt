@@ -1,0 +1,5 @@
+7 9 unloved
+slang 4 1 1
+abled 2 2 0
+weedy 2 4 1
+leggy 1 5 0

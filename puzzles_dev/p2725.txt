@@ -1,0 +1,5 @@
+7 9
+mocha 5 1 1
+brood 2 2 0
+thigh 1 4 0
+tidal 1 4 1

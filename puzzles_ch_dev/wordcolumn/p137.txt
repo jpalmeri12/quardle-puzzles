@@ -1,0 +1,6 @@
+6 10 wordcolumn
+dogma 3 1 1
+after 1 4 1
+frank 1 5 0
+niche 4 5 1
+right 1 8 0

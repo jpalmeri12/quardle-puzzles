@@ -1,0 +1,5 @@
+7 9 bestfit
+flash 1 1 0
+spoil 4 1 1
+flirt 2 4 0
+flora 2 4 1

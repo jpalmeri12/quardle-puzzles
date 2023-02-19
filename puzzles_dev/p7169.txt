@@ -1,0 +1,5 @@
+7 10
+shade 4 1 1
+plank 2 3 0
+truer 1 5 0
+rabbi 5 5 1

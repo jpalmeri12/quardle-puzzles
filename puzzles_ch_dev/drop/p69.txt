@@ -1,0 +1,6 @@
+7 12 drop
+snore 3 1 1
+shore 1 3 0
+hedge 2 5 0
+debit 4 5 1
+rhino 1 11 0

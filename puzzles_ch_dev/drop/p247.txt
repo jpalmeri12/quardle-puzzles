@@ -1,0 +1,6 @@
+7 10 drop
+aisle 2 1 0
+slave 4 1 1
+taker 2 3 1
+larva 1 4 0
+rural 1 9 0

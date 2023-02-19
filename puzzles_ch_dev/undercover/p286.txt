@@ -1,0 +1,6 @@
+7 9 undercover
+credo 4 1 1
+swirl 1 2 0
+wreak 2 2 1
+adobe 2 5 0
+puffy 1 8 0

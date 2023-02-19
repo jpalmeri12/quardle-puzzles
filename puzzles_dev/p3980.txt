@@ -1,0 +1,5 @@
+7 9
+zebra 2 1 1
+abyss 1 3 0
+bravo 6 4 1
+arbor 2 5 0

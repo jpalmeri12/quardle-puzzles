@@ -1,0 +1,5 @@
+7 9 bestfit
+robot 2 1 1
+rodeo 2 1 0
+bosom 1 4 0
+onset 4 4 1

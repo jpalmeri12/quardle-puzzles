@@ -1,0 +1,5 @@
+7 9
+quake 5 1 1
+venue 2 2 0
+thick 1 4 0
+ingot 3 4 1

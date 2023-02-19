@@ -1,0 +1,5 @@
+7 10 spaced
+mouse 6 1 1
+lapse 2 5 0
+phase 4 5 1
+coral 1 7 0

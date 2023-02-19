@@ -1,0 +1,5 @@
+7 8
+sauna 1 1 0
+annoy 5 1 1
+freer 3 3 1
+arson 2 4 0

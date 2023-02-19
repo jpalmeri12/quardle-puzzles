@@ -1,0 +1,9 @@
+7 9 beforeafter
+femur 5 1 1
+tulle 1 2 0
+ghost 2 4 1
+harry 2 5 0
+!beforeafter 2 o
+!beforeafter 1 p
+!beforeafter 1 j
+!beforeafter 1 n

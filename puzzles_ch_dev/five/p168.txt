@@ -1,0 +1,6 @@
+6 12 five
+guava 1 1 1
+arena 1 5 0
+eagle 3 5 1
+verse 1 7 1
+eclat 1 8 0

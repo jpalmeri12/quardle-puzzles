@@ -1,0 +1,5 @@
+7 10
+clash 2 1 0
+sixth 5 1 1
+rough 1 5 0
+using 3 5 1

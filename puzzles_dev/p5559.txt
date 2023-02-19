@@ -1,0 +1,5 @@
+7 9
+apply 2 1 1
+lowly 2 4 0
+wight 4 4 1
+niche 1 7 0

@@ -1,0 +1,5 @@
+7 10
+caulk 6 1 1
+croak 2 5 0
+octet 4 5 1
+delta 1 9 0

@@ -1,0 +1,9 @@
+6 6 spellbound
+mushy 3 1 1
+skunk 5 1 1
+slunk 1 2 0
+ashen 1 4 0
+!spellbound 0 4 2
+!spellbound 1 0 4
+!spellbound 2 1 3
+!spellbound 3 3 1

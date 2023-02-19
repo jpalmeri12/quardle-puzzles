@@ -1,0 +1,6 @@
+6 9 island
+bison 4 1 1
+chick 2 4 1
+shunt 1 5 0
+skill 1 8 0
+!island 221 211 311 31

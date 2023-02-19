@@ -1,0 +1,5 @@
+7 9
+vomit 4 1 1
+tiara 2 4 1
+vista 1 5 0
+amble 2 8 0

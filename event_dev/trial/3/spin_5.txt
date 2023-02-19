@@ -1,0 +1,5 @@
+7 9 spin
+bloat 4 1 1
+golem 2 2 0
+broad 1 4 0
+baste 1 4 1

@@ -1,0 +1,5 @@
+7 7 fourscore
+fiery 1 1 1
+infer 1 2 0
+endow 4 2 1
+dowdy 2 6 0

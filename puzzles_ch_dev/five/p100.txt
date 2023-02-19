@@ -1,0 +1,6 @@
+7 10 five
+dream 2 1 1
+shall 5 1 1
+media 1 3 0
+moult 2 5 0
+upper 4 5 1

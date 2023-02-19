@@ -1,0 +1,5 @@
+7 10
+cable 4 1 1
+khaki 2 2 0
+rower 1 5 0
+rarer 5 5 1

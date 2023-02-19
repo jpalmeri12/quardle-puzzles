@@ -1,0 +1,5 @@
+7 9 desync
+class 1 1 0
+spout 5 1 1
+opium 2 4 0
+offer 2 4 1

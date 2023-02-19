@@ -1,0 +1,7 @@
+7 10 secretdistance
+heist 3 1 1
+clean 1 2 0
+setup 6 3 1
+aside 2 4 0
+easel 1 9 0
+!sdpos 1 1 0 0

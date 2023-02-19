@@ -1,0 +1,5 @@
+7 7 buyavowel
+islet 1 1 1
+siren 1 2 0
+ruddy 3 2 1
+synod 2 6 0

@@ -1,0 +1,6 @@
+7 10 island
+harry 5 1 1
+stead 2 2 0
+spiky 1 5 0
+shame 1 5 1
+!island 211 41 2111 311

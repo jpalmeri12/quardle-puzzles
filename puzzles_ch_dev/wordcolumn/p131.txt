@@ -1,0 +1,6 @@
+7 10 wordcolumn
+bayou 2 1 1
+brine 4 1 1
+array 2 2 0
+bused 1 5 0
+digit 5 5 1

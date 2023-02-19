@@ -1,0 +1,6 @@
+7 9 commonsecret
+jetty 5 1 1
+crude 2 4 1
+crate 2 4 0
+adage 1 7 0
+!secret e

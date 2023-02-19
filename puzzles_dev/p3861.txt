@@ -1,0 +1,5 @@
+7 10
+fecal 4 1 1
+which 1 3 0
+tulle 2 5 0
+email 6 5 1

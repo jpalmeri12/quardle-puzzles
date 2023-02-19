@@ -1,0 +1,5 @@
+7 8
+riper 2 1 1
+rifle 2 1 0
+spook 1 3 0
+outdo 4 3 1

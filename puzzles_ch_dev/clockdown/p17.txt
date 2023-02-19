@@ -1,0 +1,5 @@
+6 8 clockdown
+apple 1 1 1
+paler 3 3 1
+leafy 1 4 0
+curvy 1 7 0

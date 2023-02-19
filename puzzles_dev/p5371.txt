@@ -1,0 +1,5 @@
+7 9
+vapor 3 1 1
+glass 1 2 0
+local 2 4 0
+lower 6 4 1

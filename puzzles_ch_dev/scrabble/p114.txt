@@ -1,0 +1,5 @@
+6 7 scrabble
+gruel 3 2 1
+cruel 1 4 0
+sigma 1 2 0
+badly 5 1 1

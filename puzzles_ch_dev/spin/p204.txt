@@ -1,0 +1,5 @@
+7 10 spin
+whale 5 1 1
+pushy 2 2 0
+loose 1 5 0
+sixth 4 5 1

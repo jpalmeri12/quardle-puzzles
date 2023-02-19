@@ -1,0 +1,5 @@
+6 9
+comfy 4 1 1
+ascot 1 2 0
+theft 1 4 0
+tried 1 4 1

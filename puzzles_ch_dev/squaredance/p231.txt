@@ -1,0 +1,6 @@
+6 8 squaredance
+bloat 1 1 1
+hoard 5 1 1
+berth 1 1 0
+triad 1 5 0
+eerie 1 7 0

@@ -1,0 +1,5 @@
+7 9
+salon 2 1 1
+golem 1 4 0
+masse 5 4 1
+abase 2 7 0

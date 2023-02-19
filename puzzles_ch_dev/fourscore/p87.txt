@@ -1,0 +1,5 @@
+7 8 fourscore
+prude 1 1 0
+until 3 1 1
+shuck 5 3 1
+tight 2 4 0

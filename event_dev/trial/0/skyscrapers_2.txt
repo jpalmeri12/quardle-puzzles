@@ -1,0 +1,5 @@
+6 8 skyscrapers
+unlit 1 5 0
+satin 5 3 1
+churn 1 7 0
+chill 3 1 1

@@ -1,0 +1,5 @@
+7 8
+stole 1 1 1
+virus 4 3 1
+lucid 1 4 0
+cluck 2 6 0

@@ -1,0 +1,6 @@
+7 9 five
+wafer 6 1 1
+dopey 2 3 1
+spoil 4 4 1
+paper 2 5 0
+cynic 1 7 0

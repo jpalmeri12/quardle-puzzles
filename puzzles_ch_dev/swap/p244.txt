@@ -1,0 +1,5 @@
+7 10 swap
+gurff 5 1 1
+cahff 2 5 0
+adroe 3 5 1
+aerna 1 7 0

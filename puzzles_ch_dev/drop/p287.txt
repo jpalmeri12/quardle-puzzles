@@ -1,0 +1,6 @@
+7 10 drop
+afoul 2 1 0
+floss 3 1 1
+carve 5 3 1
+wiser 1 5 0
+favor 1 9 0

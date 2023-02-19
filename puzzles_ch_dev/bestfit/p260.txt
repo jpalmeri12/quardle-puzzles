@@ -1,0 +1,5 @@
+6 7 bestfit
+gaffe 1 1 1
+attic 1 2 0
+trump 3 2 1
+flung 1 4 0

@@ -1,0 +1,5 @@
+7 7
+heady 1 1 1
+pubic 4 2 1
+derby 1 4 0
+ulcer 2 6 0

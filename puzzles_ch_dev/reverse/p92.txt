@@ -1,0 +1,5 @@
+7 9 reverse
+piggy 1 1 0
+impel 2 1 1
+eerup 2 4 0
+rumel 4 4 1

@@ -1,0 +1,5 @@
+7 10
+dying 6 1 1
+slang 2 5 0
+aloof 4 5 1
+canoe 1 8 0

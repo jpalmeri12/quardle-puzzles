@@ -1,0 +1,6 @@
+6 12 undercover
+agent 5 1 1
+stung 1 2 0
+abort 1 5 0
+odder 3 5 1
+hippy 1 11 0

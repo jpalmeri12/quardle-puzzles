@@ -1,0 +1,5 @@
+7 10 reverse
+nacep 2 1 0
+aifam 3 1 1
+mamma 1 5 0
+argue 2 5 1

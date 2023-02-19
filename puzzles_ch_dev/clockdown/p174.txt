@@ -1,0 +1,5 @@
+7 9 clockdown
+cadet 6 1 1
+bulge 2 4 0
+lucid 4 4 1
+beady 1 8 0

@@ -1,0 +1,5 @@
+7 9 frequency
+cutie 6 1 1
+snort 3 4 1
+anode 2 5 0
+furor 1 7 0

@@ -1,0 +1,5 @@
+6 9
+rapid 1 1 1
+resin 1 1 0
+ivory 1 4 0
+yearn 5 4 1

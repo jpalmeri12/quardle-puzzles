@@ -1,0 +1,5 @@
+6 6
+lingo 2 1 1
+droop 4 1 1
+fibre 1 2 0
+coupe 1 5 0

@@ -1,0 +1,6 @@
+7 10 island
+rabbi 2 1 1
+incur 2 5 0
+unfit 5 5 1
+ennui 1 8 0
+!island 1111 2111 221 211

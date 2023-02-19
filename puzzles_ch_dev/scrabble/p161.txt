@@ -1,0 +1,5 @@
+7 7 scrabble
+swoon 5 1 1
+wagon 2 4 0
+leaky 3 2 1
+bylaw 1 2 0

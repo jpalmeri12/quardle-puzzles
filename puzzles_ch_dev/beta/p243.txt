@@ -1,0 +1,5 @@
+7 10 beta
+usurp 4 1 1
+scout 1 3 0
+lapse 2 5 0
+louse 2 5 1

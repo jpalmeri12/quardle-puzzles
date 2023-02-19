@@ -1,0 +1,5 @@
+7 9 darkness
+tunic 1 4 0
+coupe 5 4 1
+chute 1 1 1
+libel 2 8 0

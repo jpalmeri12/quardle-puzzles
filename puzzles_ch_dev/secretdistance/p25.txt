@@ -1,0 +1,7 @@
+7 11 secretdistance
+curio 3 1 1
+dully 2 2 0
+stick 5 4 1
+trout 1 5 0
+gassy 1 10 0
+!sdpos 0 2 2 2

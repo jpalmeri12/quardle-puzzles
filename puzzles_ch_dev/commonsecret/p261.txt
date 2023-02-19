@@ -1,0 +1,6 @@
+7 10 commonsecret
+sharp 2 1 1
+cheat 1 2 0
+panic 2 5 0
+nasty 4 5 1
+!secret a

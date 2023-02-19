@@ -1,0 +1,9 @@
+6 7 beforeafter
+swoop 2 1 1
+swill 1 2 0
+lucid 4 2 1
+pooch 1 4 0
+!beforeafter 1 q
+!beforeafter 1 m
+!beforeafter 1 j
+!beforeafter 2 l

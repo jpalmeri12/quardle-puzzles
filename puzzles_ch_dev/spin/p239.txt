@@ -1,0 +1,5 @@
+7 9 spin
+later 1 1 1
+egret 1 4 0
+rover 3 4 1
+train 2 8 0

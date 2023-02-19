@@ -1,0 +1,5 @@
+7 9
+snarl 5 1 1
+artsy 3 4 1
+grill 2 5 0
+tryst 1 8 0

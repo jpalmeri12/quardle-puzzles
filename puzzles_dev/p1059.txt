@@ -1,0 +1,5 @@
+7 9
+broth 2 1 1
+teary 2 4 0
+altar 4 4 1
+dairy 1 8 0

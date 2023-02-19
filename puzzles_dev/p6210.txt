@@ -1,0 +1,5 @@
+6 7
+chard 4 1 1
+fight 1 2 0
+feast 1 2 1
+shade 1 5 0

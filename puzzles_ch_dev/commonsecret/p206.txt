@@ -1,0 +1,6 @@
+7 10 commonsecret
+elate 2 1 0
+taken 5 1 1
+bacon 1 5 0
+borax 1 5 1
+!secret a

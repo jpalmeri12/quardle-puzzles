@@ -1,0 +1,5 @@
+6 8 scrabble
+swirl 2 3 1
+swing 1 4 0
+crank 4 1 1
+couch 1 1 0

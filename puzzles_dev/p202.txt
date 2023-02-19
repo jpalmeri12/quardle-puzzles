@@ -1,0 +1,5 @@
+6 8
+foist 5 1 1
+gleam 2 3 1
+gloss 1 4 0
+smelt 1 7 0

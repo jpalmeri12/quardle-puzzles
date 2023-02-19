@@ -1,0 +1,6 @@
+6 10 commonsecret
+amiss 4 1 1
+cumin 1 3 0
+exist 1 5 0
+thing 5 5 1
+!secret i

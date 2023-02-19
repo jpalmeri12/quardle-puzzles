@@ -1,0 +1,5 @@
+7 9 clockdown
+scour 1 1 0
+crave 2 1 1
+vivid 2 4 0
+viper 4 4 1

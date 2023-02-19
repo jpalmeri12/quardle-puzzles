@@ -1,0 +1,6 @@
+7 10 five
+write 4 1 1
+rivet 1 5 0
+idler 2 5 1
+thing 5 5 1
+lurid 2 7 0

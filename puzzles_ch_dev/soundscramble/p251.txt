@@ -1,0 +1,5 @@
+7 9 soundscramble
+muave 1 1 0
+vistu 4 1 1
+eqaul 2 4 1
+qausi 2 5 0

@@ -1,0 +1,5 @@
+7 10 spaced
+imbue 5 1 1
+scale 1 5 0
+chase 2 5 1
+equal 2 9 0

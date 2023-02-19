@@ -1,0 +1,5 @@
+7 10 desync
+while 6 1 1
+swore 2 5 0
+wheat 3 5 1
+loath 1 8 0

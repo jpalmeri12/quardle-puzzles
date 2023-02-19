@@ -1,0 +1,5 @@
+6 9
+stood 2 1 1
+stand 1 2 0
+couch 1 4 0
+humph 5 4 1

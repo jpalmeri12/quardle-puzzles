@@ -1,0 +1,5 @@
+7 9 darkness
+sixth 6 1 1
+winch 2 5 0
+sight 3 4 1
+abhor 1 7 0

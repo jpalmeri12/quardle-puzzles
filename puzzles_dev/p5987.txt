@@ -1,0 +1,5 @@
+7 8
+rugby 2 1 0
+union 3 1 1
+decry 5 3 1
+panic 1 5 0

@@ -1,0 +1,5 @@
+7 10
+drake 5 1 1
+camel 2 5 0
+award 3 5 1
+radio 1 9 0

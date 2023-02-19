@@ -1,0 +1,5 @@
+7 9
+untie 5 1 1
+bully 3 4 1
+saute 1 5 0
+hydro 2 8 0

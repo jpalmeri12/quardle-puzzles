@@ -1,0 +1,7 @@
+6 6 fourthwall
+tapir 1 1 0
+tuber 1 1 1
+bring 1 3 0
+paint 3 1 1
+ratty 1 5 0
+rugby 5 1 1

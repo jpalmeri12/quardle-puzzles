@@ -1,0 +1,5 @@
+7 10 reverse
+mucus 2 1 1
+ksirf 1 5 0
+irate 3 5 1
+reldi 2 9 0

@@ -1,0 +1,6 @@
+7 9 commonsecret
+tramp 1 1 1
+mango 1 4 0
+gloat 4 4 1
+shawl 2 7 0
+!secret a

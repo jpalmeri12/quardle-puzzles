@@ -1,0 +1,5 @@
+6 8
+fling 1 1 0
+lurch 2 1 1
+stick 5 3 1
+scout 1 4 0

@@ -1,0 +1,7 @@
+6 6 fourthwall
+mover 1 1 0
+music 1 1 1
+snide 1 3 0
+vying 3 1 1
+cagey 1 5 0
+reedy 5 1 1

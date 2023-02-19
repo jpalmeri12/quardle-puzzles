@@ -1,0 +1,6 @@
+7 11 drop
+pound 5 1 1
+below 2 2 0
+seven 1 4 0
+eking 2 4 1
+revue 1 10 0

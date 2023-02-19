@@ -1,0 +1,5 @@
+6 7
+dummy 1 1 1
+ultra 1 2 0
+tidal 3 2 1
+yeast 1 5 0

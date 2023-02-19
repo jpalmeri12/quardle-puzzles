@@ -1,0 +1,5 @@
+7 7 buyavowel
+dowry 4 1 1
+flown 2 2 0
+flume 2 2 1
+quart 1 4 0

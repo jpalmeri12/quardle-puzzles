@@ -1,0 +1,6 @@
+7 7 commonsecret
+basil 2 1 1
+saner 5 2 1
+spear 2 3 0
+glare 1 5 0
+!secret a

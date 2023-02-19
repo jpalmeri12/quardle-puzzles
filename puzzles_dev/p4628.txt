@@ -1,0 +1,5 @@
+7 9
+bless 2 1 0
+stool 5 1 1
+cameo 1 4 0
+chair 1 4 1

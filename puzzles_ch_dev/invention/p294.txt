@@ -1,0 +1,5 @@
+7 9 invention
+amiss 5 1 1
+dream 1 2 0
+prism 2 4 0
+patty 2 4 1

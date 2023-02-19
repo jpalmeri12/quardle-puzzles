@@ -1,0 +1,9 @@
+7 9 spellbound
+bliss 2 1 1
+rough 5 4 1
+swoop 2 5 0
+wring 1 7 0
+!spellbound 0 2 0
+!spellbound 1 2 4
+!spellbound 2 4 1
+!spellbound 3 0 1

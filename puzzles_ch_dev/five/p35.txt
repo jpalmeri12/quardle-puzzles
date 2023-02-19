@@ -1,0 +1,6 @@
+6 10 five
+trice 5 1 1
+tapir 1 2 0
+dusky 3 4 1
+truce 1 5 0
+tryst 1 5 1

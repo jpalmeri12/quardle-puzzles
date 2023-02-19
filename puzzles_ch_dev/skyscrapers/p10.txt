@@ -1,0 +1,5 @@
+7 8 skyscrapers
+trope 2 7 0
+rower 3 3 1
+tawny 1 5 0
+beast 1 1 1

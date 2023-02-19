@@ -1,0 +1,5 @@
+7 8 unloved
+unwed 5 1 1
+spawn 2 3 0
+plaza 3 3 1
+chard 1 5 0

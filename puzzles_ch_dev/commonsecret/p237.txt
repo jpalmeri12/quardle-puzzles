@@ -1,0 +1,6 @@
+7 9 commonsecret
+metal 2 1 1
+least 1 2 0
+apnea 2 4 0
+entry 5 4 1
+!secret e

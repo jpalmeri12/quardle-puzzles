@@ -1,0 +1,5 @@
+7 10 unloved
+solve 4 1 1
+shoot 2 2 0
+onset 1 5 0
+tubal 5 5 1

@@ -1,0 +1,5 @@
+7 9
+lever 2 1 1
+reset 1 2 0
+exalt 2 4 0
+tabby 6 4 1

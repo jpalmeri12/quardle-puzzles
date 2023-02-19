@@ -1,0 +1,9 @@
+6 9 spellbound
+ethic 1 1 0
+hurry 3 1 1
+heron 1 4 0
+nerve 5 4 1
+!spellbound 0 4 1
+!spellbound 1 2 4
+!spellbound 2 0 3
+!spellbound 3 3 4

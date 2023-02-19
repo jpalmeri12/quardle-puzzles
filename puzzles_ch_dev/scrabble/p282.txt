@@ -1,0 +1,5 @@
+6 9 scrabble
+outgo 2 4 1
+corer 1 4 0
+flier 4 1 1
+gruff 1 1 0

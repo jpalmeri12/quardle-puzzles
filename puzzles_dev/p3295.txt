@@ -1,0 +1,5 @@
+6 7
+berth 2 1 1
+peril 1 2 0
+icing 4 2 1
+ethic 1 4 0

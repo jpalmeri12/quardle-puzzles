@@ -1,0 +1,5 @@
+7 9 spin
+bugle 2 1 1
+lucid 1 2 0
+leafy 2 4 0
+forty 5 4 1

@@ -1,0 +1,5 @@
+7 9 invention
+linen 5 1 1
+unzip 2 2 0
+lathe 1 4 0
+actor 2 4 1

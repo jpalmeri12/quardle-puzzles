@@ -1,0 +1,5 @@
+7 9
+swamp 2 1 1
+three 5 4 1
+pithy 2 5 0
+lapse 1 7 0

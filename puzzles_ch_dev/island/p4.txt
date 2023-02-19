@@ -1,0 +1,6 @@
+6 6 island
+fatal 1 1 1
+taken 5 1 1
+track 1 3 0
+lemon 1 5 0
+!island 211 11111 2111 221

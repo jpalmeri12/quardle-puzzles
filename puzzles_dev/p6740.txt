@@ -1,0 +1,5 @@
+7 9
+dirge 1 1 1
+faint 3 4 1
+email 1 5 0
+snake 2 7 0

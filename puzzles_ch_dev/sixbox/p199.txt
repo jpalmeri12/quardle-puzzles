@@ -1,0 +1,7 @@
+8 8 sixbox
+viola 3 1 1
+agent 5 1 1
+atone 1 3 0
+ninja 4 3 1
+liner 3 4 0
+slant 1 5 0

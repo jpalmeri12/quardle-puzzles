@@ -1,0 +1,5 @@
+7 9
+medal 2 1 1
+expel 2 2 0
+brisk 4 4 1
+blare 1 5 0

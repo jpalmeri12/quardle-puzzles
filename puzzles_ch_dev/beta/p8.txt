@@ -1,0 +1,5 @@
+7 9 beta
+woman 1 1 0
+media 3 1 1
+staff 5 4 1
+caste 2 5 0

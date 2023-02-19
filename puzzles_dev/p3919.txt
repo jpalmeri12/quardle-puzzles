@@ -1,0 +1,5 @@
+6 9
+queue 5 1 1
+queen 2 4 1
+quote 1 5 0
+heady 1 7 0

@@ -1,0 +1,5 @@
+7 9
+alibi 5 1 1
+child 2 2 0
+kebab 1 4 0
+knock 1 4 1

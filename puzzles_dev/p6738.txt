@@ -1,0 +1,5 @@
+6 9
+cleft 5 1 1
+angel 1 2 0
+split 3 4 1
+input 1 5 0

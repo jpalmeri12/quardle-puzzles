@@ -1,0 +1,5 @@
+7 10
+bible 3 1 1
+about 2 3 0
+queen 1 5 0
+quill 1 5 1

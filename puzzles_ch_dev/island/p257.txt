@@ -1,0 +1,6 @@
+7 10 island
+bravo 4 1 1
+fjord 2 5 0
+jewel 3 5 1
+gleam 1 8 0
+!island 2111 311 211 11111

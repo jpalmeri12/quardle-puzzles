@@ -1,0 +1,5 @@
+6 8 spaced
+glean 3 1 1
+wench 5 3 1
+crate 1 4 0
+welch 1 7 0

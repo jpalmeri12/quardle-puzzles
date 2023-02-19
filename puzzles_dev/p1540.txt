@@ -1,0 +1,5 @@
+7 10
+gouge 2 1 1
+leapt 1 5 0
+agile 3 5 1
+wield 2 7 0

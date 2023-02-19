@@ -1,0 +1,5 @@
+7 10 shiritori
+crass 5 1 1
+ficus 1 5 0
+utter 4 5 1
+hatch 2 7 0

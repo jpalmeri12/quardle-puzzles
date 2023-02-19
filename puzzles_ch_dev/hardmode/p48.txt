@@ -1,0 +1,5 @@
+7 9 hardmode
+salad 2 1 1
+silly 4 4 1
+daisy 2 5 0
+polyp 1 8 0

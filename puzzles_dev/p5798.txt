@@ -1,0 +1,5 @@
+6 7
+timer 5 1 1
+quasi 1 2 0
+unwed 2 2 1
+awake 1 4 0

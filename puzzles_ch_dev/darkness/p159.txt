@@ -1,0 +1,5 @@
+7 9 darkness
+sonic 5 1 1
+stock 2 5 0
+usher 2 4 1
+merry 1 7 0

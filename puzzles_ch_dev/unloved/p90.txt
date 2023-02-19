@@ -1,0 +1,5 @@
+7 10 unloved
+cease 6 1 1
+vogue 2 5 0
+undue 5 5 1
+timid 1 7 0

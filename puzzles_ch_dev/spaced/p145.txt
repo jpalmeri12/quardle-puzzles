@@ -1,0 +1,5 @@
+7 10 spaced
+snuck 4 1 1
+lunar 2 2 0
+pesky 1 5 0
+eying 2 5 1

@@ -1,0 +1,7 @@
+6 10 secretdistance
+mower 5 1 1
+taint 2 3 1
+visor 1 5 0
+straw 1 7 0
+awoke 1 9 0
+!sdpos 1 3 2 3

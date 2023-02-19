@@ -1,0 +1,5 @@
+7 8 reverse
+krihs 3 1 1
+lurid 5 3 1
+usurp 2 5 0
+egrid 1 7 0

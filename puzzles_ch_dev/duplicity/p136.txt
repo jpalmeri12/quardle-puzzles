@@ -1,0 +1,5 @@
+7 10 duplicity
+floss 2 1 1
+folly 1 3 0
+sloop 2 5 0
+poppy 6 5 1

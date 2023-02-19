@@ -1,0 +1,5 @@
+7 8 beta
+color 2 1 1
+cello 2 1 0
+matey 4 3 1
+moral 1 4 0

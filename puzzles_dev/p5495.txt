@@ -1,0 +1,5 @@
+7 9
+foamy 3 1 1
+mogul 2 2 0
+lymph 1 4 0
+heist 5 4 1

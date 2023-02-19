@@ -1,0 +1,5 @@
+7 8 spaced
+comfy 2 1 0
+foray 5 1 1
+tower 1 3 0
+whale 3 3 1

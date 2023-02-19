@@ -1,0 +1,6 @@
+7 10 wordcolumn
+iliac 2 1 1
+tonic 6 3 1
+crown 2 5 0
+ridge 3 5 1
+soggy 1 8 0

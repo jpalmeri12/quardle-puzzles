@@ -1,0 +1,5 @@
+7 7 frequency
+oaken 1 1 0
+khaki 3 1 1
+satyr 6 2 1
+pinky 2 5 0

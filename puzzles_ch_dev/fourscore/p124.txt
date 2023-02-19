@@ -1,0 +1,5 @@
+7 9 fourscore
+borne 1 1 1
+noise 1 4 0
+imbue 3 4 1
+decoy 2 8 0

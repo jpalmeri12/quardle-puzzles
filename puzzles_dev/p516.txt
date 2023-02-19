@@ -1,0 +1,5 @@
+7 10
+knoll 5 1 1
+broil 1 5 0
+ingot 4 5 1
+magic 2 7 0

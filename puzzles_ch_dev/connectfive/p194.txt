@@ -1,0 +1,6 @@
+7 10 connectfive
+swoon 5 1 1
+axion 2 3 0
+avian 1 5 0
+azure 4 5 1
+hydro 1 8 0

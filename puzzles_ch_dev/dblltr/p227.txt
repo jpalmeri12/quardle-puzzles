@@ -1,0 +1,5 @@
+7 10 dblltr
+easel 5 1 1
+grass 1 3 0
+filly 2 5 0
+larva 4 5 1

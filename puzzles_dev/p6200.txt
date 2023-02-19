@@ -1,0 +1,5 @@
+7 8
+vapid 2 1 1
+spore 1 3 0
+exact 5 3 1
+spite 2 7 0

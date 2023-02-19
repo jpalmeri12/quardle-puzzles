@@ -1,0 +1,5 @@
+7 9 duplicity
+lance 5 1 1
+augur 2 4 1
+lunge 1 5 0
+ulcer 2 7 0

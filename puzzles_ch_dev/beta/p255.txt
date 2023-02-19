@@ -1,0 +1,5 @@
+7 8 beta
+snowy 1 1 0
+waste 4 1 1
+basal 2 3 0
+bagel 2 3 1

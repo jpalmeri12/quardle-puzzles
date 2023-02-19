@@ -1,0 +1,5 @@
+7 9 buyavowel
+posse 5 1 1
+blood 2 2 0
+scree 1 4 1
+carve 1 5 0

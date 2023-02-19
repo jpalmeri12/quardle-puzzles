@@ -1,0 +1,6 @@
+7 11 drop
+sharp 1 1 0
+panel 5 1 1
+heave 3 4 1
+dealt 2 5 0
+spelt 1 10 0

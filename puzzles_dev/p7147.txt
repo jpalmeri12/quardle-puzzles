@@ -1,0 +1,5 @@
+7 9
+sassy 1 1 0
+scone 3 1 1
+snare 2 4 0
+rally 5 4 1

@@ -1,0 +1,5 @@
+6 9
+morph 1 1 0
+outgo 2 1 1
+aging 1 4 0
+never 4 4 1

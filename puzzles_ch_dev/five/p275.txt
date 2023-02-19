@@ -1,0 +1,6 @@
+6 10 five
+medic 1 1 1
+scope 4 1 1
+elect 1 2 0
+cruel 1 5 0
+unfed 3 5 1

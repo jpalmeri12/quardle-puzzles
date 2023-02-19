@@ -1,0 +1,5 @@
+7 9 soundscramble
+drepa 2 1 0
+polyp 5 1 1
+fenny 1 4 0
+nicar 3 4 1

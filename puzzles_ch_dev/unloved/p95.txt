@@ -1,0 +1,5 @@
+7 10 unloved
+spout 4 1 1
+wispy 1 2 0
+ester 2 5 0
+elope 5 5 1

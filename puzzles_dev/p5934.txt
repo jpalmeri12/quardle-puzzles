@@ -1,0 +1,5 @@
+7 8
+bleed 1 1 0
+lowly 2 1 1
+whine 2 3 0
+empty 6 3 1

@@ -1,0 +1,5 @@
+7 9 spaced
+gazer 4 1 1
+plane 2 2 0
+nicer 1 4 0
+inlay 2 4 1

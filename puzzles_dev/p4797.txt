@@ -1,0 +1,5 @@
+6 9
+neigh 5 1 1
+flung 1 4 0
+ulcer 3 4 1
+puree 1 8 0

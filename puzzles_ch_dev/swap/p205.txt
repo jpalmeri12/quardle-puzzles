@@ -1,0 +1,5 @@
+6 8 swap
+juorr 2 1 1
+soryr 1 3 0
+youht 4 3 1
+friut 1 5 0

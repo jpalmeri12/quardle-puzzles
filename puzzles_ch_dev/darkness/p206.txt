@@ -1,0 +1,5 @@
+7 10 darkness
+spout 1 5 0
+patsy 2 5 1
+staid 2 8 0
+patio 3 1 1

@@ -1,0 +1,5 @@
+7 10 shiritori
+splat 6 1 1
+roast 2 5 0
+spiny 5 5 1
+ramen 1 8 0

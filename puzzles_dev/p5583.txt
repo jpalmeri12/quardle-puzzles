@@ -1,0 +1,5 @@
+7 9
+woozy 2 1 0
+occur 4 1 1
+ensue 1 4 0
+easel 1 4 1

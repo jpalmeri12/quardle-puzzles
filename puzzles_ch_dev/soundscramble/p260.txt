@@ -1,0 +1,5 @@
+7 10 soundscramble
+vista 2 1 0
+shoon 4 1 1
+meund 1 5 0
+eutor 2 5 1

@@ -1,0 +1,5 @@
+7 7 unloved
+plied 4 1 1
+split 2 2 0
+spade 2 2 1
+wager 1 4 0

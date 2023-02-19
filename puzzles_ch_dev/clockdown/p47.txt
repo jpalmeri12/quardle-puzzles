@@ -1,0 +1,5 @@
+7 9 clockdown
+after 6 1 1
+usage 2 4 0
+scene 3 4 1
+dread 1 8 0

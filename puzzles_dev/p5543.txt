@@ -1,0 +1,5 @@
+7 7
+dizzy 1 1 0
+zonal 4 1 1
+guess 6 2 1
+abate 2 4 0

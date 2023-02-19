@@ -1,0 +1,7 @@
+6 12 secretdistance
+hydro 3 1 1
+bloom 1 5 0
+lipid 2 5 1
+spook 1 7 0
+daddy 1 11 0
+!sdpos 1 2 0 0

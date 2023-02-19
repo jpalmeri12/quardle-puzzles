@@ -1,0 +1,5 @@
+6 10 assembly
+relax 1 3 1
+liken 5 3 1
+flock 1 1 0
+axion 1 9 0

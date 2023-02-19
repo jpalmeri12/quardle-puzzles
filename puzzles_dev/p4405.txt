@@ -1,0 +1,5 @@
+7 9
+coral 5 1 1
+zonal 2 4 1
+mogul 1 5 0
+armor 2 7 0

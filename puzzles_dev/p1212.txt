@@ -1,0 +1,5 @@
+7 7
+furry 5 1 1
+bayou 1 2 0
+avoid 2 2 1
+opera 2 4 0

@@ -1,0 +1,5 @@
+7 10
+front 3 1 1
+stilt 2 5 0
+livid 5 5 1
+sushi 1 8 0

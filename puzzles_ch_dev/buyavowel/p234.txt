@@ -1,0 +1,5 @@
+7 7 buyavowel
+singe 1 1 0
+golem 4 1 1
+syrup 6 2 1
+bully 2 3 0

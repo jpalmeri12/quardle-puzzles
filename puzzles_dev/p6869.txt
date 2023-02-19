@@ -1,0 +1,5 @@
+7 7
+awoke 3 1 1
+cower 1 2 0
+ridge 5 2 1
+leggy 2 5 0

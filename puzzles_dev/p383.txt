@@ -1,0 +1,5 @@
+7 8
+piety 1 1 0
+icily 2 1 1
+islet 2 3 0
+these 6 3 1

@@ -1,0 +1,5 @@
+7 9 darkness
+abate 3 4 1
+aglow 5 1 1
+elbow 1 5 0
+verge 2 2 0

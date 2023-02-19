@@ -1,0 +1,5 @@
+7 7 reverse
+demon 3 1 1
+renif 2 2 0
+intro 5 2 1
+laner 1 5 0

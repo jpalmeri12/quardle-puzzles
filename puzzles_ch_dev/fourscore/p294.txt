@@ -1,0 +1,5 @@
+7 10 fourscore
+south 2 1 1
+punch 1 3 0
+hedge 2 5 0
+envoy 6 5 1

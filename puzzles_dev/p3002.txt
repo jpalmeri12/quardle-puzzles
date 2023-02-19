@@ -1,0 +1,5 @@
+7 8
+brawl 1 1 0
+rifle 2 1 1
+slump 5 3 1
+ladle 2 4 0

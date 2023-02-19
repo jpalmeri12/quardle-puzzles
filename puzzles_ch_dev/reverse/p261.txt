@@ -1,0 +1,5 @@
+7 9 reverse
+naorg 2 1 1
+rally 2 4 0
+latef 5 4 1
+chaff 1 8 0

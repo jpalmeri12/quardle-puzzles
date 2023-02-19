@@ -1,0 +1,5 @@
+7 9
+liege 2 1 1
+meant 5 4 1
+tease 1 5 0
+forte 2 8 0

@@ -1,0 +1,5 @@
+7 10
+stack 2 1 0
+terra 3 1 1
+climb 1 5 1
+chain 1 5 0

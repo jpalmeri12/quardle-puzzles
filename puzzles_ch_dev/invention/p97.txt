@@ -1,0 +1,5 @@
+7 10 invention
+ashen 6 1 1
+adorn 2 5 0
+outer 4 5 1
+gusty 1 7 0

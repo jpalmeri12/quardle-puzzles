@@ -1,0 +1,5 @@
+7 7 skyscrapers
+vital 1 3 0
+strap 3 2 1
+cagey 2 5 0
+delve 5 1 1

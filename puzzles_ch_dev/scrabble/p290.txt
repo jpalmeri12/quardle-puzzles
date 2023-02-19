@@ -1,0 +1,5 @@
+7 10 scrabble
+lasso 5 5 1
+lorry 4 1 1
+chose 2 8 0
+vinyl 1 5 0

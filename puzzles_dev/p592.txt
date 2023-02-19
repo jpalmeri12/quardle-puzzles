@@ -1,0 +1,5 @@
+7 9
+wrest 3 1 1
+murky 1 2 0
+ester 2 4 0
+renew 6 4 1

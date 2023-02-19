@@ -1,0 +1,5 @@
+7 10 swap
+truts 1 1 0
+reapy 2 1 1
+ysrup 2 5 0
+polak 6 5 1

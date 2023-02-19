@@ -1,0 +1,5 @@
+7 9
+flout 1 1 1
+upper 1 4 0
+ratty 5 4 1
+photo 2 6 0

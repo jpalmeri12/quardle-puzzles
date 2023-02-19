@@ -1,0 +1,5 @@
+7 8
+swine 4 1 1
+crowd 1 2 0
+moult 6 3 1
+bongo 2 4 0

@@ -1,0 +1,5 @@
+7 10
+quite 4 1 1
+speed 1 5 0
+prove 2 5 1
+ester 2 9 0

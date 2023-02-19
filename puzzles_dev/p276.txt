@@ -1,0 +1,5 @@
+7 7
+recur 2 1 1
+endow 2 2 0
+older 5 2 1
+prose 1 5 0

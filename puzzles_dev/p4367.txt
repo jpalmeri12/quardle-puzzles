@@ -1,0 +1,5 @@
+6 9
+frost 5 1 1
+boxer 1 2 0
+floss 1 4 0
+locus 2 4 1

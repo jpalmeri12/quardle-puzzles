@@ -1,0 +1,5 @@
+7 8
+other 2 1 1
+mover 4 3 1
+drive 1 5 0
+terse 2 7 0

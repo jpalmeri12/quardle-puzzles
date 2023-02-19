@@ -1,0 +1,5 @@
+7 9 fourscore
+juror 1 1 0
+ozone 4 1 1
+decal 6 4 1
+creme 2 5 0

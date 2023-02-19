@@ -1,0 +1,5 @@
+7 10
+offer 1 1 0
+equip 4 1 1
+repel 2 5 0
+epoch 5 5 1

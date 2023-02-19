@@ -1,0 +1,5 @@
+7 8
+pouch 2 1 1
+miser 4 3 1
+shush 1 5 0
+first 2 7 0

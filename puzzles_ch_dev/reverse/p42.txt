@@ -1,0 +1,5 @@
+6 9 reverse
+enohp 1 1 1
+every 1 1 0
+hguod 1 4 0
+oddly 4 4 1

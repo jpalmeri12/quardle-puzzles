@@ -1,0 +1,5 @@
+7 9
+satin 5 1 1
+dimly 3 4 1
+align 1 5 0
+cloak 2 7 0

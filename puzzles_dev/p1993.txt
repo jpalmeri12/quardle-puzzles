@@ -1,0 +1,5 @@
+7 9
+cycle 4 1 1
+maybe 2 2 0
+golly 1 4 0
+gamut 1 4 1

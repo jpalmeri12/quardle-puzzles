@@ -1,0 +1,5 @@
+6 7
+fable 1 1 1
+aware 1 2 0
+along 3 2 1
+loopy 1 4 0

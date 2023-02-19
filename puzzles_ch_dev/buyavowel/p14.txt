@@ -1,0 +1,5 @@
+7 9 buyavowel
+flair 4 1 1
+imply 1 2 0
+after 2 4 1
+furor 2 5 0

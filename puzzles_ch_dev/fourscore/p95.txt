@@ -1,0 +1,5 @@
+6 10 fourscore
+quick 1 1 1
+khaki 1 5 0
+aging 3 5 1
+sunny 1 8 0

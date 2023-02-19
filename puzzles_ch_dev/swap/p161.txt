@@ -1,0 +1,5 @@
+7 8 swap
+laone 5 1 1
+ulnch 2 3 1
+ubxom 2 3 0
+cnaoe 1 5 0

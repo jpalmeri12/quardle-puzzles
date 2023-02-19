@@ -1,0 +1,5 @@
+6 8 spaced
+panic 1 1 0
+crept 5 1 1
+prize 2 3 1
+cramp 1 4 0

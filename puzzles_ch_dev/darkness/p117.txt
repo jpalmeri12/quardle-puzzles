@@ -1,0 +1,5 @@
+6 10 darkness
+trick 1 1 0
+cheap 1 5 0
+hoard 2 5 1
+cobra 4 1 1

@@ -1,0 +1,5 @@
+7 9 clockdown
+haste 2 1 1
+hoard 2 1 0
+stalk 1 4 0
+lathe 4 4 1

@@ -1,0 +1,5 @@
+7 9
+begin 2 1 1
+woven 5 4 1
+nylon 2 5 0
+prawn 1 8 0

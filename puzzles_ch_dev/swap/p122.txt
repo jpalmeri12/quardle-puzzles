@@ -1,0 +1,5 @@
+7 10 swap
+ptich 3 1 1
+fiebr 2 3 0
+lihgt 1 5 0
+ivxen 2 5 1

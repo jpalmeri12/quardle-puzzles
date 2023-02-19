@@ -1,0 +1,5 @@
+7 8
+trace 1 1 0
+alter 3 1 1
+toast 6 3 1
+pesto 2 4 0

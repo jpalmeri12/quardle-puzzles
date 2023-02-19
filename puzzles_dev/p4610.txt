@@ -1,0 +1,5 @@
+6 10
+bilge 5 1 1
+cycle 1 5 0
+linen 4 5 1
+going 1 7 0

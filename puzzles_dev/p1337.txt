@@ -1,0 +1,5 @@
+6 9
+fling 3 1 1
+sense 1 4 0
+enemy 5 4 1
+paddy 1 8 0

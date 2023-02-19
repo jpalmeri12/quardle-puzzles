@@ -1,0 +1,6 @@
+7 12 wordcolumn
+mayor 5 1 1
+slyly 1 3 0
+level 2 3 1
+leafy 2 7 0
+ennui 3 7 1

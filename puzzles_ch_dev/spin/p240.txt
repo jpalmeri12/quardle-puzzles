@@ -1,0 +1,5 @@
+7 10 spin
+scrum 5 1 1
+climb 2 5 0
+charm 2 5 1
+tapir 1 7 0

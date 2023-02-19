@@ -1,0 +1,5 @@
+7 7
+wagon 2 1 1
+wacky 1 2 0
+knock 4 2 1
+ovoid 2 4 0

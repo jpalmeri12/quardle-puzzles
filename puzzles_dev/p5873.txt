@@ -1,0 +1,5 @@
+7 7
+cello 6 1 1
+cabin 2 2 1
+bevel 2 4 0
+undid 1 6 0

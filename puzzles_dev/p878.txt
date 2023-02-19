@@ -1,0 +1,5 @@
+7 10
+tasty 2 1 1
+synod 1 5 0
+olden 4 5 1
+nudge 2 7 0

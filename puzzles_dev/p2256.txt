@@ -1,0 +1,5 @@
+7 10
+revel 5 1 1
+metal 1 5 0
+terra 3 5 1
+brand 2 8 0

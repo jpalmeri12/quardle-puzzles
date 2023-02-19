@@ -1,0 +1,5 @@
+7 10
+cheap 3 1 1
+apple 1 5 0
+edify 5 5 1
+again 2 7 0

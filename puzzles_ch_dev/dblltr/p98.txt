@@ -1,0 +1,5 @@
+6 6 dblltr
+eject 1 1 1
+elate 1 1 0
+troop 4 1 1
+crook 1 4 0

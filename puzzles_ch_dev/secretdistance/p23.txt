@@ -1,0 +1,7 @@
+6 11 secretdistance
+welch 1 1 0
+candy 4 1 1
+daddy 1 4 0
+admin 2 4 1
+rebel 1 10 0
+!sdpos 1 1 0 0

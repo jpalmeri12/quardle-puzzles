@@ -1,0 +1,6 @@
+7 12 wordcolumn
+broad 4 1 1
+caddy 2 3 1
+rajah 1 4 0
+yeast 2 7 0
+evade 3 7 1

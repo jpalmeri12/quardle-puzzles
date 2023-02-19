@@ -1,0 +1,5 @@
+7 9
+smash 2 1 1
+sooth 2 4 0
+ovine 4 4 1
+crane 1 7 0

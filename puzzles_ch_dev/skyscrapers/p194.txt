@@ -1,0 +1,5 @@
+7 9 skyscrapers
+score 1 5 0
+ethic 2 1 1
+elude 2 1 0
+gravy 4 4 1

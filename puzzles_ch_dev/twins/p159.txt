@@ -1,0 +1,8 @@
+6 8 twins
+logic 1 1 0
+wryly 1 3 0
+blurb 1 5 0
+strut 1 7 0
+!twins 1 3
+!twins 1 3
+!twins 2 3

@@ -1,0 +1,5 @@
+7 9 bestfit
+ratty 6 1 1
+dwelt 2 4 0
+exist 4 4 1
+unite 1 8 0

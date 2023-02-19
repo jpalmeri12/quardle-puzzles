@@ -1,0 +1,5 @@
+7 9
+peace 1 1 0
+essay 2 1 1
+aware 2 4 0
+agate 4 4 1

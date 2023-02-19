@@ -1,0 +1,5 @@
+7 10
+block 3 1 1
+tough 2 3 0
+woken 1 5 0
+opera 2 5 1

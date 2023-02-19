@@ -1,0 +1,5 @@
+7 9 sweeper
+poise 5 1 1
+floss 3 4 1
+bilge 1 5 0
+assay 2 7 0

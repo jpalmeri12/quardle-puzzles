@@ -1,0 +1,5 @@
+7 7 shiritori
+junta 2 1 1
+nurse 1 2 0
+sheik 4 2 1
+aging 2 5 0

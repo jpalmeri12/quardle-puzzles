@@ -1,0 +1,5 @@
+7 10
+cobra 5 1 1
+viola 1 5 0
+loose 4 5 1
+zesty 2 8 0

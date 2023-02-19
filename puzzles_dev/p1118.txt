@@ -1,0 +1,5 @@
+6 7
+basic 4 1 1
+rebar 1 2 0
+entry 2 2 1
+stoic 1 4 0

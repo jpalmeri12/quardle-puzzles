@@ -1,0 +1,5 @@
+7 9 spin
+cacao 4 1 1
+conic 2 4 1
+colon 1 5 0
+choke 2 8 0

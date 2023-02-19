@@ -1,0 +1,5 @@
+7 9 duplicity
+rarer 2 1 1
+arena 2 2 0
+knack 4 4 1
+crank 1 5 0

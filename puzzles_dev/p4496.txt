@@ -1,0 +1,5 @@
+7 8
+scamp 2 1 1
+angel 2 3 0
+goody 4 3 1
+spoon 1 5 0

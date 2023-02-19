@@ -1,0 +1,8 @@
+6 8 twins
+crepe 1 1 0
+greed 1 3 0
+tense 1 5 0
+eagle 1 7 0
+!twins 1 2
+!twins 0 1
+!twins 2 3

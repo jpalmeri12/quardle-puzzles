@@ -1,0 +1,5 @@
+6 10 reverse
+yniar 4 1 1
+acorn 1 5 0
+clout 2 5 1
+turts 1 8 0

@@ -1,0 +1,6 @@
+6 9 drop
+krill 3 1 1
+strap 1 2 0
+slice 1 2 1
+islet 1 4 0
+truss 1 8 0

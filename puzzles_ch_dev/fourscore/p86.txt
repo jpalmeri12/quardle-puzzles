@@ -1,0 +1,5 @@
+6 10 fourscore
+silly 5 1 1
+ennui 1 2 0
+whiny 1 5 0
+hunch 2 5 1

@@ -1,0 +1,5 @@
+7 9 outoforder
+choke 5 1 1
+visor 2 4 1
+bible 1 5 0
+relax 2 8 0

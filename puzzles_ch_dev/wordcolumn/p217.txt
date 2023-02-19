@@ -1,0 +1,6 @@
+7 10 wordcolumn
+bless 3 1 1
+whine 5 1 1
+welsh 1 2 0
+islet 2 5 0
+iliac 2 5 1

@@ -1,0 +1,6 @@
+7 10 five
+tryst 5 1 1
+kiosk 2 4 1
+rivet 1 5 0
+ebony 4 5 1
+score 2 7 0

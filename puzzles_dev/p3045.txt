@@ -1,0 +1,5 @@
+7 9
+craft 1 1 0
+rivet 2 1 1
+ensue 2 4 0
+every 6 4 1

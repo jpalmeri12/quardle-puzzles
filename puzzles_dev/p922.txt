@@ -1,0 +1,5 @@
+6 6
+drone 1 1 0
+decay 1 1 1
+ovoid 3 1 1
+axial 1 4 0

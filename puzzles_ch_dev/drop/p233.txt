@@ -1,0 +1,6 @@
+6 11 drop
+abled 1 1 0
+bloom 2 1 1
+sower 1 4 0
+event 4 4 1
+bless 1 10 0

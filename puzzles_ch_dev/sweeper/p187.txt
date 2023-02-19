@@ -1,0 +1,5 @@
+6 8 sweeper
+raven 1 1 1
+robin 1 1 0
+teddy 3 3 1
+erect 1 4 0

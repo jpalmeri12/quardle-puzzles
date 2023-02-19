@@ -1,0 +1,5 @@
+6 9 elbowroom
+caput 1 1 0
+proxy 3 1 1
+vixen 1 4 0
+noble 5 4 1

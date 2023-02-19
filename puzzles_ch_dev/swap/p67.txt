@@ -1,0 +1,5 @@
+6 7 swap
+sylly 1 1 1
+yuong 1 2 0
+gulhc 5 2 1
+ynmph 1 5 0

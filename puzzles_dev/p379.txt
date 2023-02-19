@@ -1,0 +1,5 @@
+7 10
+basal 6 1 1
+gruel 2 5 0
+enema 5 5 1
+cocoa 1 9 0

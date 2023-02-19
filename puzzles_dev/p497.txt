@@ -1,0 +1,5 @@
+6 8
+niche 5 1 1
+belly 3 3 1
+beech 1 4 0
+loyal 1 7 0

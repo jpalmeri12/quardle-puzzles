@@ -1,0 +1,9 @@
+7 9 beforeafter
+mocha 2 1 1
+ovoid 2 2 0
+steal 5 4 1
+faint 1 5 0
+!beforeafter 1 k
+!beforeafter 2 l
+!beforeafter 1 n
+!beforeafter 2 k

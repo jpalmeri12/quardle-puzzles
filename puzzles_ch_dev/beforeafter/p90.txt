@@ -1,0 +1,9 @@
+7 10 beforeafter
+vodka 2 1 1
+oxide 2 2 0
+jaunt 1 5 0
+trunk 5 5 1
+!beforeafter 1 n
+!beforeafter 1 n
+!beforeafter 1 l
+!beforeafter 2 o

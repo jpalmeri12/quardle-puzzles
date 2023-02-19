@@ -1,0 +1,5 @@
+7 10
+polar 4 1 1
+milky 2 3 0
+furry 1 5 0
+filly 1 5 1

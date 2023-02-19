@@ -1,0 +1,5 @@
+7 9 reverse
+query 2 1 1
+knuls 4 4 1
+hyena 1 5 0
+walyb 2 7 0

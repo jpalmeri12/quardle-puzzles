@@ -1,0 +1,5 @@
+7 9
+threw 2 1 0
+elfin 5 1 1
+polka 1 4 1
+ocean 1 5 0

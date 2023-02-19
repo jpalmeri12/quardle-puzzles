@@ -1,0 +1,5 @@
+6 10
+peach 1 1 0
+cabal 4 1 1
+dolly 1 5 0
+decry 1 5 1

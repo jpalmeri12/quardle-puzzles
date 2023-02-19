@@ -1,0 +1,5 @@
+6 6 unloved
+depot 1 1 0
+prior 3 1 1
+titan 5 1 1
+quota 1 4 0

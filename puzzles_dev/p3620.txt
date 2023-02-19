@@ -1,0 +1,5 @@
+7 10
+dowel 2 1 1
+lover 2 5 0
+vapor 4 5 1
+wimpy 1 7 0

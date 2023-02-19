@@ -1,0 +1,5 @@
+7 9
+truth 2 1 1
+trope 5 4 1
+chair 1 5 0
+elope 2 7 0

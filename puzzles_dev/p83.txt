@@ -1,0 +1,5 @@
+7 10
+rough 2 1 1
+phone 1 5 0
+needy 4 5 1
+bayou 2 9 0

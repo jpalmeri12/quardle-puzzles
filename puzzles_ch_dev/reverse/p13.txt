@@ -1,0 +1,5 @@
+7 10 reverse
+yknik 4 1 1
+brake 1 5 0
+abbey 3 5 1
+abmur 2 7 0

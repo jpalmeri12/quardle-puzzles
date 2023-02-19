@@ -1,0 +1,5 @@
+7 8 scrabble
+bison 4 3 1
+annoy 2 7 0
+dilly 2 1 1
+gypsy 1 5 0

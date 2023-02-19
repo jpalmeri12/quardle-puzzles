@@ -1,0 +1,5 @@
+6 9
+thick 1 1 0
+knife 5 1 1
+brown 2 4 1
+prone 1 5 0

@@ -1,0 +1,5 @@
+7 7 beta
+crump 1 1 0
+myrrh 4 1 1
+slyly 6 2 1
+wordy 2 4 0

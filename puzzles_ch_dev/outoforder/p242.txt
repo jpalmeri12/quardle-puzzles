@@ -1,0 +1,5 @@
+7 10 outoforder
+conic 1 1 1
+cause 1 5 0
+apart 2 5 1
+refer 2 8 0

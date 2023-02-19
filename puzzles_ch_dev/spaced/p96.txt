@@ -1,0 +1,5 @@
+6 10 spaced
+brine 4 1 1
+dowry 1 2 0
+taper 1 5 0
+plaid 3 5 1

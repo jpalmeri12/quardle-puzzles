@@ -1,0 +1,9 @@
+6 10 beforeafter
+stoic 1 1 0
+clasp 5 1 1
+swamp 1 5 0
+slice 1 5 1
+!beforeafter 1 r
+!beforeafter 2 m
+!beforeafter 1 q
+!beforeafter 1 j

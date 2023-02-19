@@ -1,0 +1,5 @@
+6 9 skyscrapers
+scene 1 4 0
+slant 4 1 1
+marsh 1 1 0
+cloud 2 4 1

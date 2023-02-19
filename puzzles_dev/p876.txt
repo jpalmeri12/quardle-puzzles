@@ -1,0 +1,5 @@
+6 7
+natal 1 1 1
+artsy 1 2 0
+truth 3 2 1
+latch 1 5 0

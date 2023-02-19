@@ -1,0 +1,5 @@
+7 7 buyavowel
+torch 2 1 1
+forty 1 2 0
+tarot 4 2 1
+curly 2 4 0

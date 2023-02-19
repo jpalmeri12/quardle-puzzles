@@ -1,0 +1,5 @@
+7 9 frequency
+pasta 2 1 1
+trite 2 4 0
+tryst 5 4 1
+theft 1 8 0

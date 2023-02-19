@@ -1,0 +1,5 @@
+7 10
+spend 2 1 1
+spiky 1 2 0
+digit 2 5 0
+taker 6 5 1

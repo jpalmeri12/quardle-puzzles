@@ -1,0 +1,5 @@
+7 10 outoforder
+plant 6 1 1
+denim 2 5 1
+dealt 2 5 0
+omega 1 9 0

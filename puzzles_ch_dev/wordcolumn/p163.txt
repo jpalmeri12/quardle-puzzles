@@ -1,0 +1,6 @@
+6 10 wordcolumn
+snoop 1 1 0
+overt 4 1 1
+junto 1 5 0
+older 5 5 1
+above 1 8 0

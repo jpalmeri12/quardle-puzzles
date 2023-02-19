@@ -1,0 +1,6 @@
+7 9 connectfive
+stark 1 1 0
+rodeo 4 1 1
+cream 2 4 0
+camel 2 4 1
+alien 1 8 0

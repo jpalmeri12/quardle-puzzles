@@ -1,0 +1,5 @@
+6 8 sweeper
+abled 1 1 0
+below 2 1 1
+ethos 5 3 1
+swish 1 5 0

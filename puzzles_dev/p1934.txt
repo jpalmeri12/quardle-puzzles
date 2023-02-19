@@ -1,0 +1,5 @@
+6 9
+anvil 1 1 0
+nanny 2 1 1
+argue 4 4 1
+myrrh 1 5 0

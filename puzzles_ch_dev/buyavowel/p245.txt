@@ -1,0 +1,5 @@
+7 7 buyavowel
+sport 1 1 0
+posse 2 1 1
+itchy 6 2 1
+shaft 2 3 0

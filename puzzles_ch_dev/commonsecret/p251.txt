@@ -1,0 +1,6 @@
+6 6 commonsecret
+skimp 2 1 1
+fruit 4 1 1
+pique 1 3 0
+spite 1 5 0
+!secret i

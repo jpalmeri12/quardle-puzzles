@@ -1,0 +1,5 @@
+7 10
+grate 4 1 1
+older 1 5 0
+deity 3 5 1
+stoop 2 8 0

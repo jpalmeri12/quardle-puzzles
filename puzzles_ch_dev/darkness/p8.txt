@@ -1,0 +1,5 @@
+7 8 darkness
+latte 5 1 1
+drier 2 5 0
+coral 3 3 1
+tacit 1 3 0

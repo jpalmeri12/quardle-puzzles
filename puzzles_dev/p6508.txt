@@ -1,0 +1,5 @@
+7 10
+timid 2 1 0
+tenth 2 1 1
+whole 1 5 0
+elude 5 5 1

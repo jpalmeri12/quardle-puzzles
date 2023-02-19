@@ -1,0 +1,5 @@
+6 9 skyscrapers
+salsa 1 2 0
+macho 5 1 1
+flash 1 4 0
+filly 1 4 1

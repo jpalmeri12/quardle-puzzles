@@ -1,0 +1,5 @@
+7 10
+patio 3 1 1
+crone 1 5 0
+noise 4 5 1
+cleat 2 9 0

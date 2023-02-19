@@ -1,0 +1,5 @@
+6 7 desync
+bathe 2 1 1
+banjo 1 2 0
+jumbo 4 2 1
+thyme 1 4 0

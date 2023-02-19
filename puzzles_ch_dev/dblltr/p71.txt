@@ -1,0 +1,5 @@
+6 8 dblltr
+idyll 5 1 1
+ninja 2 3 1
+kneel 1 5 0
+eater 1 7 0

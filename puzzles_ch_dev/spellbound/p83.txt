@@ -1,0 +1,9 @@
+6 9 spellbound
+larva 2 1 1
+cello 5 4 1
+mauve 1 5 0
+macho 1 8 0
+!spellbound 0 0 2
+!spellbound 1 2 3
+!spellbound 2 3 2
+!spellbound 3 0 2

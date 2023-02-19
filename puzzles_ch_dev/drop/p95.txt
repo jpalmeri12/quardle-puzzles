@@ -1,0 +1,6 @@
+7 10 drop
+soapy 6 1 1
+stunt 3 3 1
+stomp 2 4 0
+bathe 1 7 0
+thyme 1 9 0

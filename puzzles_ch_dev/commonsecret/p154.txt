@@ -1,0 +1,6 @@
+7 7 commonsecret
+petty 5 1 1
+spine 1 2 0
+pedal 2 2 1
+depth 2 4 0
+!secret p

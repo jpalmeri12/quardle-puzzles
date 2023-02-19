@@ -1,0 +1,5 @@
+7 8
+moldy 2 1 0
+ledge 4 1 1
+bossy 1 3 1
+outgo 1 4 0

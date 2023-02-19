@@ -1,0 +1,5 @@
+7 10
+ladle 6 1 1
+bible 2 5 0
+leant 5 5 1
+first 1 9 0

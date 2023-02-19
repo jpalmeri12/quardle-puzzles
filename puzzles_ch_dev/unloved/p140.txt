@@ -1,0 +1,5 @@
+7 8 unloved
+wiser 2 1 1
+style 2 3 0
+yearn 4 3 1
+dread 1 5 0

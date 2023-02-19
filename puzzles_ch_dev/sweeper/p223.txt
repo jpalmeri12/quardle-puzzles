@@ -1,0 +1,5 @@
+7 9 sweeper
+rebar 1 1 0
+bluer 3 1 1
+screw 5 4 1
+trice 2 5 0

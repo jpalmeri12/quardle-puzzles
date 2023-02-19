@@ -1,0 +1,6 @@
+7 10 wordcolumn
+bayou 2 1 1
+bowel 2 1 0
+tulle 1 5 0
+tiger 1 5 1
+leant 4 5 1

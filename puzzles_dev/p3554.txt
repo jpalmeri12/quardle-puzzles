@@ -1,0 +1,5 @@
+7 8
+skimp 4 1 1
+ghost 2 3 1
+champ 1 4 0
+trace 2 7 0

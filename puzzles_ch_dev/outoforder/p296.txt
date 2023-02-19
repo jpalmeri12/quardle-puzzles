@@ -1,0 +1,5 @@
+6 10 outoforder
+grand 4 1 1
+smart 1 2 0
+ruddy 1 5 0
+yield 5 5 1

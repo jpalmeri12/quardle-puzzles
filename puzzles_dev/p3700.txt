@@ -1,0 +1,5 @@
+6 9
+inept 4 1 1
+fling 1 2 0
+aloft 1 4 1
+loath 1 5 0

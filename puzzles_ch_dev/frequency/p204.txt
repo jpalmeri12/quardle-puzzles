@@ -1,0 +1,5 @@
+7 7 frequency
+rugby 1 1 1
+pulpy 4 2 1
+belly 1 4 0
+wryly 2 6 0

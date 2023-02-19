@@ -1,0 +1,5 @@
+7 10
+feast 5 1 1
+slate 2 5 0
+acorn 4 5 1
+salon 1 7 0

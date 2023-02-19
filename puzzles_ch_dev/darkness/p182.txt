@@ -1,0 +1,5 @@
+7 7 darkness
+harpy 6 1 1
+grant 3 2 1
+agora 2 2 0
+title 1 6 0

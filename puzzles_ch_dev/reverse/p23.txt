@@ -1,0 +1,5 @@
+7 9 reverse
+decal 2 1 1
+essay 2 2 0
+nward 5 4 1
+ylyrw 1 5 0

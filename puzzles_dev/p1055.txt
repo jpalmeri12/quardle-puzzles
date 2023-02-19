@@ -1,0 +1,5 @@
+7 10
+weird 5 1 1
+genie 2 3 0
+braid 1 5 0
+ruler 2 5 1

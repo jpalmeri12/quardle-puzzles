@@ -1,0 +1,5 @@
+7 9
+chick 1 1 1
+caulk 1 4 0
+usage 3 4 1
+basal 2 6 0

@@ -1,0 +1,5 @@
+7 7 beta
+elude 5 1 1
+dully 2 2 0
+dilly 2 2 1
+plied 1 4 0

@@ -1,0 +1,6 @@
+7 9 drop
+aider 5 1 1
+snail 2 2 1
+needy 2 3 0
+liner 1 5 0
+sorry 1 8 0

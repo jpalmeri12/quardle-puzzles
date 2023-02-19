@@ -1,0 +1,5 @@
+7 10 clockdown
+fixer 2 1 1
+grand 1 5 0
+doing 5 5 1
+civic 2 7 0

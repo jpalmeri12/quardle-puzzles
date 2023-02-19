@@ -1,0 +1,5 @@
+7 10
+petty 2 1 1
+eying 1 5 0
+itchy 3 5 1
+score 2 7 0

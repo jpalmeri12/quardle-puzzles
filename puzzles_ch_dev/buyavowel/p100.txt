@@ -1,0 +1,5 @@
+7 10 buyavowel
+dross 1 1 1
+solid 1 5 0
+inane 4 5 1
+scary 2 7 0

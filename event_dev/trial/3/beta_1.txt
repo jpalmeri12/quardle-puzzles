@@ -1,0 +1,5 @@
+6 8 beta
+radio 2 1 1
+dying 5 3 1
+minty 1 4 0
+thing 1 7 0

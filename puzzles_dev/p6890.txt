@@ -1,0 +1,5 @@
+7 10
+bonus 3 1 1
+askew 2 5 0
+exist 5 5 1
+quasi 1 7 0

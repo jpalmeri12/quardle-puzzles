@@ -1,0 +1,5 @@
+7 10
+stale 2 1 1
+tacky 1 3 0
+evict 2 5 0
+triad 6 5 1

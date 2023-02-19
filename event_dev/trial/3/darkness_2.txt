@@ -1,0 +1,5 @@
+7 10 darkness
+urban 3 5 1
+pudgy 2 5 0
+suite 1 2 0
+staid 4 1 1

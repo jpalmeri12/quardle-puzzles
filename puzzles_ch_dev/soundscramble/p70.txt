@@ -1,0 +1,5 @@
+7 9 soundscramble
+hoest 1 1 1
+snepi 1 4 0
+plush 4 4 1
+posir 2 7 0

@@ -1,0 +1,5 @@
+7 7 skyscrapers
+upset 1 1 0
+swell 3 1 1
+flyer 2 5 0
+flirt 6 2 1

@@ -1,0 +1,5 @@
+7 7 bestfit
+aphid 3 1 1
+lupus 1 2 0
+shape 5 2 1
+adept 2 5 0

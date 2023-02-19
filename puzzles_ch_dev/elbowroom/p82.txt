@@ -1,0 +1,5 @@
+6 9 elbowroom
+visit 1 1 1
+vixen 1 1 0
+above 4 4 1
+turbo 1 5 0

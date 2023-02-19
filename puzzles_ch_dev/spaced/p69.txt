@@ -1,0 +1,5 @@
+7 8 spaced
+girly 2 1 0
+loath 5 1 1
+pansy 3 3 1
+punch 1 5 0

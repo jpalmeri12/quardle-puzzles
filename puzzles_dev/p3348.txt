@@ -1,0 +1,5 @@
+7 9
+stuff 1 1 1
+pooch 3 4 1
+front 1 5 0
+icily 2 7 0

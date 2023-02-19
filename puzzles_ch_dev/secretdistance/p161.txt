@@ -1,0 +1,7 @@
+6 10 secretdistance
+chaff 1 1 1
+stuff 4 3 1
+flute 1 4 0
+fluff 1 7 0
+point 1 9 0
+!sdpos 0 0 0 0

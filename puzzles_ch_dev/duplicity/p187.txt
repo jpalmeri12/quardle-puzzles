@@ -1,0 +1,5 @@
+7 8 duplicity
+sedan 1 1 1
+debit 1 3 0
+begin 3 3 1
+angst 2 7 0

@@ -1,0 +1,5 @@
+7 9 reverse
+prime 6 1 1
+ylaem 2 4 0
+await 4 4 1
+hctip 1 7 0

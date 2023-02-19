@@ -1,0 +1,5 @@
+7 7 spaced
+heavy 4 1 1
+liner 1 2 0
+irate 2 2 1
+anvil 2 4 0

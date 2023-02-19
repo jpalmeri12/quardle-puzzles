@@ -1,0 +1,6 @@
+7 10 connectfive
+spout 2 1 0
+usual 5 1 1
+equal 1 5 0
+aorta 4 5 1
+creak 1 9 0

@@ -1,0 +1,5 @@
+7 9 bestfit
+bayou 4 1 1
+often 2 4 1
+fauna 2 5 0
+snide 1 8 0

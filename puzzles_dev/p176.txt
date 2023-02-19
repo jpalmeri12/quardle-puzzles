@@ -1,0 +1,5 @@
+7 9
+filer 6 1 1
+gypsy 2 4 1
+goose 2 4 0
+spawn 1 6 0

@@ -1,0 +1,5 @@
+7 10
+solid 4 1 1
+delay 2 3 0
+ruddy 1 5 0
+dealt 3 5 1

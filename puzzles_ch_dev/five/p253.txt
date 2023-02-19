@@ -1,0 +1,6 @@
+6 10 five
+realm 1 1 0
+manor 5 1 1
+bigot 3 3 1
+eager 1 5 0
+elegy 1 5 1

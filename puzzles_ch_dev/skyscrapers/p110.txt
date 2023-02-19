@@ -1,0 +1,5 @@
+7 8 skyscrapers
+urban 2 4 0
+thrum 2 1 1
+churn 1 2 0
+inept 6 3 1

@@ -1,0 +1,5 @@
+7 9
+squat 4 1 1
+beach 2 4 1
+brave 2 4 0
+their 1 8 0

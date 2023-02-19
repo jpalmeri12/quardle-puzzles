@@ -1,0 +1,5 @@
+7 10 spaced
+raven 6 1 1
+ashen 2 5 0
+sepia 3 5 1
+tapir 1 7 0

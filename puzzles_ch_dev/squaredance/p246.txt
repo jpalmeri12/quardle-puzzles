@@ -1,0 +1,6 @@
+6 8 squaredance
+ardor 1 1 1
+shall 5 1 1
+amass 1 1 0
+renal 1 5 0
+being 1 7 0

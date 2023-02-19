@@ -1,0 +1,5 @@
+7 9 skyscrapers
+radar 4 1 1
+furor 2 5 0
+prude 6 4 1
+dowdy 1 3 0

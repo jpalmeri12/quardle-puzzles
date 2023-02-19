@@ -1,0 +1,9 @@
+6 9 beforeafter
+stead 1 1 0
+tulle 2 1 1
+bliss 1 4 0
+stamp 4 4 1
+!beforeafter 1 i
+!beforeafter 1 n
+!beforeafter 2 p
+!beforeafter 1 q

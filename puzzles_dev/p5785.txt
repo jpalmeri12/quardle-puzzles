@@ -1,0 +1,5 @@
+7 8
+sandy 1 1 0
+dryer 4 1 1
+snail 6 3 1
+clean 2 4 0

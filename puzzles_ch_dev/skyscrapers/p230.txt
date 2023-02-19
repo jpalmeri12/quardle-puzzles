@@ -1,0 +1,5 @@
+6 7 skyscrapers
+ulcer 1 2 0
+turbo 1 1 1
+banjo 1 4 0
+enjoy 4 2 1

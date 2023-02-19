@@ -1,0 +1,5 @@
+7 10
+stage 5 1 1
+genre 1 5 0
+newer 3 5 1
+proof 2 9 0

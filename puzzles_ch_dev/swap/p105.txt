@@ -1,0 +1,5 @@
+6 7 swap
+clapm 2 1 1
+ulecr 1 2 0
+chmap 4 2 1
+omdal 1 5 0

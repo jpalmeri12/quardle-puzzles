@@ -1,0 +1,5 @@
+7 10
+noose 2 1 1
+sedan 1 5 0
+nobly 5 5 1
+polyp 2 9 0

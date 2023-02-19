@@ -1,0 +1,5 @@
+7 9 spin
+utter 2 1 1
+beast 1 4 0
+tidal 5 4 1
+array 2 7 0

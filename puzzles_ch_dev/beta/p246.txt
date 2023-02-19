@@ -1,0 +1,5 @@
+7 8 beta
+unmet 4 1 1
+tamer 2 3 0
+teary 2 3 1
+ratty 1 5 0

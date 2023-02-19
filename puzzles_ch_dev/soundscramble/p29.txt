@@ -1,0 +1,5 @@
+7 10 soundscramble
+spalt 5 1 1
+satup 1 2 0
+sleta 2 5 0
+leugh 3 5 1

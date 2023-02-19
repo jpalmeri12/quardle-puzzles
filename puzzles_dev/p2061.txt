@@ -1,0 +1,5 @@
+6 10
+wacky 5 1 1
+vista 1 2 0
+picky 1 5 0
+icily 2 5 1

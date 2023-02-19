@@ -1,0 +1,5 @@
+7 9 hardmode
+alpha 2 1 1
+loath 2 2 0
+nylon 5 4 1
+tangy 1 5 0

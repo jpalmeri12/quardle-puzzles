@@ -1,0 +1,5 @@
+7 8 reverse
+ensue 1 1 0
+uoyab 4 1 1
+reyal 2 3 0
+revue 2 3 1

@@ -1,0 +1,5 @@
+6 8 scrabble
+drape 1 1 1
+stomp 4 3 1
+raspy 1 7 0
+enjoy 1 5 0

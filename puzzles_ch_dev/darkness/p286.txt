@@ -1,0 +1,5 @@
+7 10 darkness
+spell 5 1 1
+sewer 1 9 0
+apple 2 5 0
+prose 4 5 1

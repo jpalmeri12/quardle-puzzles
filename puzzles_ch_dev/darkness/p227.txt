@@ -1,0 +1,5 @@
+7 10 darkness
+affix 1 7 0
+think 4 5 1
+tithe 2 5 0
+split 2 1 1

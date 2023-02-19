@@ -1,0 +1,5 @@
+7 10 soundscramble
+breed 2 1 0
+bayuo 2 1 1
+gostu 1 5 0
+uoght 5 5 1

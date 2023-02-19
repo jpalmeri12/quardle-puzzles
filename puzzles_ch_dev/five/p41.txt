@@ -1,0 +1,6 @@
+6 11 five
+drink 2 1 1
+infer 1 4 0
+refit 5 4 1
+gusty 3 6 1
+beset 1 8 0

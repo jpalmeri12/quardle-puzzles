@@ -1,0 +1,6 @@
+7 9 island
+shank 1 1 1
+ninja 1 4 0
+jetty 4 4 1
+extol 2 7 0
+!island 221 31 211 2111

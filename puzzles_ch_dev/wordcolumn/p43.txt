@@ -1,0 +1,6 @@
+7 10 wordcolumn
+dogma 2 1 1
+olive 2 2 0
+vinyl 5 2 1
+tacky 1 5 0
+cloak 3 5 1

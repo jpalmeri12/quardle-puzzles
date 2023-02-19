@@ -1,0 +1,5 @@
+7 10
+sieve 2 1 0
+equip 4 1 1
+tripe 1 5 0
+react 2 5 1

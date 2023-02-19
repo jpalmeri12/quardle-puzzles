@@ -1,0 +1,5 @@
+7 10
+larva 1 1 1
+adapt 1 5 0
+tango 5 5 1
+plant 2 7 0

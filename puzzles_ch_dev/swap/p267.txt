@@ -1,0 +1,5 @@
+6 7 swap
+mmama 2 1 1
+imnor 1 2 0
+rovre 5 2 1
+vaolr 1 5 0

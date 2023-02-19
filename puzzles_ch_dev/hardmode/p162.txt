@@ -1,0 +1,5 @@
+6 9 hardmode
+truth 5 1 1
+dealt 1 4 0
+decoy 1 4 1
+opium 1 7 0

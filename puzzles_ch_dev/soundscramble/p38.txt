@@ -1,0 +1,5 @@
+7 10 soundscramble
+cetar 6 1 1
+uddar 2 5 0
+dalva 4 5 1
+brevo 1 8 0

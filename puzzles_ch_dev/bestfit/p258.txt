@@ -1,0 +1,5 @@
+7 7 bestfit
+adore 5 1 1
+unfed 1 2 0
+favor 3 2 1
+ovary 2 4 0

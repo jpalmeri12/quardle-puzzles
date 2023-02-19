@@ -1,0 +1,5 @@
+7 10
+cling 2 1 1
+leave 2 2 0
+agile 1 5 0
+exert 5 5 1

@@ -1,0 +1,5 @@
+7 10 beta
+gloss 1 1 0
+sushi 4 1 1
+spill 2 5 0
+lodge 6 5 1

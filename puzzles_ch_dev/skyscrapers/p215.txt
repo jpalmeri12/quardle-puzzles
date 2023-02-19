@@ -1,0 +1,5 @@
+7 9 skyscrapers
+sigma 5 1 1
+creme 2 4 0
+ruddy 3 4 1
+chili 1 2 0

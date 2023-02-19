@@ -1,0 +1,5 @@
+6 9 fourscore
+lever 3 1 1
+fiery 1 2 0
+crepe 1 4 0
+excel 5 4 1

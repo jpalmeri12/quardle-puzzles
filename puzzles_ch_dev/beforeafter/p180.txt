@@ -1,0 +1,9 @@
+6 7 beforeafter
+smoke 2 1 1
+bigot 4 2 1
+motif 1 3 0
+felon 1 5 0
+!beforeafter 2 l
+!beforeafter 2 n
+!beforeafter 2 j
+!beforeafter 2 m

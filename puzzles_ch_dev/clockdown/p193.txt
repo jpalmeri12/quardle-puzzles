@@ -1,0 +1,5 @@
+7 9 clockdown
+magic 1 1 1
+strut 4 4 1
+catty 1 5 0
+betel 2 8 0

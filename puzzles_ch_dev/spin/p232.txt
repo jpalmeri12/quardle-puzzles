@@ -1,0 +1,5 @@
+7 7 spin
+teddy 1 1 1
+evade 3 2 1
+drawn 1 4 0
+repay 2 6 0

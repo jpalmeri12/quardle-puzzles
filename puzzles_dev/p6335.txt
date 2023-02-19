@@ -1,0 +1,5 @@
+7 8
+prose 2 1 0
+seedy 5 1 1
+valid 1 3 1
+leggy 1 5 0

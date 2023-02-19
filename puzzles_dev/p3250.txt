@@ -1,0 +1,5 @@
+7 9
+prone 5 1 1
+drain 1 4 0
+along 3 4 1
+known 2 7 0

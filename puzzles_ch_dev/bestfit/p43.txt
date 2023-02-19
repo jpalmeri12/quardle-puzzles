@@ -1,0 +1,5 @@
+6 6 bestfit
+gamma 1 1 1
+lofty 4 1 1
+afoot 1 2 0
+mouth 1 4 0

@@ -1,0 +1,5 @@
+7 10
+topaz 5 1 1
+plaza 2 5 0
+acrid 4 5 1
+alarm 1 7 0

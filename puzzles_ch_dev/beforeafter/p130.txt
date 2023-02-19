@@ -1,0 +1,9 @@
+6 9 beforeafter
+ditto 5 1 1
+flirt 1 4 0
+femur 1 4 1
+usual 1 7 0
+!beforeafter 1 m
+!beforeafter 2 n
+!beforeafter 2 q
+!beforeafter 2 n

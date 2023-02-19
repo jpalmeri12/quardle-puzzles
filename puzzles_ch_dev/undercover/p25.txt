@@ -1,0 +1,6 @@
+7 11 undercover
+riser 5 1 1
+adapt 3 4 1
+elder 1 5 0
+stoke 2 8 0
+mummy 1 10 0

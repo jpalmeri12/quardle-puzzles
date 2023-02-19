@@ -1,0 +1,5 @@
+6 10
+ionic 4 1 1
+cinch 1 5 0
+hefty 5 5 1
+stiff 1 7 0

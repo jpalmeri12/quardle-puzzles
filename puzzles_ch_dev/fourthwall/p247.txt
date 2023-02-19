@@ -1,0 +1,7 @@
+6 6 fourthwall
+rabid 1 1 0
+relic 1 1 1
+lodge 1 3 0
+badly 3 1 1
+crypt 1 5 0
+dwelt 5 1 1

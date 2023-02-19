@@ -1,0 +1,5 @@
+7 10 beta
+batty 6 1 1
+filmy 2 5 0
+macaw 5 5 1
+attic 1 7 0

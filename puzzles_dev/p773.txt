@@ -1,0 +1,5 @@
+7 9
+optic 1 1 1
+teeth 5 4 1
+cache 1 5 0
+plate 2 7 0

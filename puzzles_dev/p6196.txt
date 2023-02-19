@@ -1,0 +1,5 @@
+7 8
+locus 2 1 0
+uncut 5 1 1
+manic 1 3 0
+manly 1 3 1

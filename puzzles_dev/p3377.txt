@@ -1,0 +1,5 @@
+7 9
+greet 2 1 0
+rerun 3 1 1
+macro 1 4 1
+annoy 1 5 0

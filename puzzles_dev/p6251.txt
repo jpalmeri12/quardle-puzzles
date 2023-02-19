@@ -1,0 +1,5 @@
+6 8
+price 1 1 0
+recap 2 1 1
+threw 4 3 1
+spore 1 5 0

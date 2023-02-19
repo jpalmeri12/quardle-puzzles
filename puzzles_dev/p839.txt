@@ -1,0 +1,5 @@
+7 10
+quite 5 1 1
+lurid 2 3 0
+price 1 5 0
+remit 2 5 1

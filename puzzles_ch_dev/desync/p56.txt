@@ -1,0 +1,5 @@
+7 10 desync
+basis 5 1 1
+sauna 1 2 0
+harsh 2 5 0
+assay 3 5 1

@@ -1,0 +1,7 @@
+6 11 secretdistance
+bliss 1 1 1
+logic 1 2 0
+droop 4 4 1
+sorry 1 5 0
+troop 1 10 0
+!sdpos 1 2 3 2

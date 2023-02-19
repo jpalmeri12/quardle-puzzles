@@ -1,0 +1,6 @@
+7 9 commonsecret
+grail 4 1 1
+great 2 4 1
+grill 1 5 0
+agony 2 7 0
+!secret g

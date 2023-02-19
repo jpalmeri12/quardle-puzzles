@@ -1,0 +1,6 @@
+7 10 wordcolumn
+wound 3 1 1
+mucus 2 3 0
+muddy 1 5 0
+unity 2 5 1
+incur 2 7 0

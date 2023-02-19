@@ -1,0 +1,5 @@
+6 8 soundscramble
+breem 1 1 0
+raror 2 1 1
+fraud 1 3 0
+unsot 4 3 1

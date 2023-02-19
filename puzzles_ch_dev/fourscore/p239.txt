@@ -1,0 +1,5 @@
+7 10 fourscore
+quick 5 1 1
+quake 2 5 0
+alike 4 5 1
+khaki 1 8 0

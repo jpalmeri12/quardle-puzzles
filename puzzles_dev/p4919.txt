@@ -1,0 +1,5 @@
+7 7
+lilac 5 1 1
+fungi 1 2 0
+nymph 3 2 1
+epoch 2 5 0

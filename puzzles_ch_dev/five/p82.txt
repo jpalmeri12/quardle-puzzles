@@ -1,0 +1,6 @@
+7 10 five
+field 1 1 1
+harpy 4 2 1
+eclat 1 3 0
+orbit 6 5 1
+buyer 2 6 0

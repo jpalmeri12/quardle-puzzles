@@ -1,0 +1,5 @@
+7 9 spaced
+cramp 1 1 0
+mocha 4 1 1
+agile 6 4 1
+slang 2 5 0

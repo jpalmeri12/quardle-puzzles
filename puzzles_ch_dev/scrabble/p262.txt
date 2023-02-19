@@ -1,0 +1,5 @@
+7 10 scrabble
+elide 5 5 1
+tower 2 5 0
+woven 1 2 0
+joint 2 1 1

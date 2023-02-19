@@ -1,0 +1,5 @@
+7 9 desync
+seedy 1 1 1
+trump 4 4 1
+yearn 1 5 0
+mamma 2 7 0

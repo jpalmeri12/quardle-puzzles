@@ -1,0 +1,5 @@
+7 9
+grape 1 1 0
+ethic 5 1 1
+grope 2 4 1
+react 2 5 0

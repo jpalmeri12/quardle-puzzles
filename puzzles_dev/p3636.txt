@@ -1,0 +1,5 @@
+7 10
+grand 4 1 1
+cacao 1 3 0
+rodeo 2 5 0
+olive 3 5 1

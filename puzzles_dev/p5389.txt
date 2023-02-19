@@ -1,0 +1,5 @@
+6 6
+trash 1 1 0
+torso 1 1 1
+about 3 1 1
+squat 1 4 0

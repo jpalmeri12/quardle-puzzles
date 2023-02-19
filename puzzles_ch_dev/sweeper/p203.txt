@@ -1,0 +1,5 @@
+7 9 sweeper
+swami 5 1 1
+arrow 1 2 0
+heart 3 4 1
+relic 2 5 0

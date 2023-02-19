@@ -1,0 +1,5 @@
+6 8
+spelt 3 1 1
+frond 5 3 1
+ruler 1 4 0
+bland 1 7 0

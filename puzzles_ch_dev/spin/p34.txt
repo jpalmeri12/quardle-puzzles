@@ -1,0 +1,5 @@
+6 8 spin
+camel 2 1 1
+fudge 4 3 1
+debut 1 4 0
+sleet 1 7 0

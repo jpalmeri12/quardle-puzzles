@@ -1,0 +1,7 @@
+7 11 secretdistance
+mogul 1 1 0
+under 4 1 1
+abuse 2 4 1
+burly 2 5 0
+taken 1 10 0
+!sdpos 3 1 1 2

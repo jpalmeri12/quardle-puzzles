@@ -1,0 +1,7 @@
+7 12 secretdistance
+sever 4 1 1
+store 1 5 0
+turbo 2 5 1
+basis 2 8 0
+curse 1 11 0
+!sdpos 0 2 0 1

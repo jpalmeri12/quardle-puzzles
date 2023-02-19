@@ -1,0 +1,5 @@
+7 9 shiritori
+guest 4 1 1
+slurp 2 2 0
+salsa 1 4 0
+stump 1 4 1

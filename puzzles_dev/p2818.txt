@@ -1,0 +1,5 @@
+6 8
+spiky 5 1 1
+slack 1 3 1
+allay 1 5 0
+kappa 1 7 0

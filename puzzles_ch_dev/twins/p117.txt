@@ -1,0 +1,8 @@
+6 8 twins
+tawny 1 1 0
+glove 1 3 0
+style 1 5 0
+lover 1 7 0
+!twins 2 3
+!twins 2 3
+!twins 0 3

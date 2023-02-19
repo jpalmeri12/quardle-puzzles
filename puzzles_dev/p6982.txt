@@ -1,0 +1,5 @@
+7 10
+whiny 3 1 1
+hydro 2 5 0
+dicey 4 5 1
+speck 1 7 0

@@ -1,0 +1,5 @@
+7 10
+whoop 3 1 1
+couch 2 3 0
+amply 1 5 0
+merge 2 5 1

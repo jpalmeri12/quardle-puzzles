@@ -1,0 +1,5 @@
+6 9 sweeper
+craft 1 1 1
+focal 1 4 0
+agent 4 4 1
+nutty 1 8 0

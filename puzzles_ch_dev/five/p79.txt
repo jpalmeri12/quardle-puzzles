@@ -1,0 +1,6 @@
+7 10 five
+lorry 2 1 1
+altar 5 4 1
+yield 2 5 0
+index 3 5 1
+media 1 7 0

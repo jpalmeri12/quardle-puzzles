@@ -1,0 +1,9 @@
+6 8 spellbound
+agate 2 1 1
+theme 4 3 1
+itchy 1 4 0
+ulcer 1 7 0
+!spellbound 0 1 0
+!spellbound 1 2 3
+!spellbound 2 0 2
+!spellbound 3 4 2

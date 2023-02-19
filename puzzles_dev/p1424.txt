@@ -1,0 +1,5 @@
+7 7
+think 5 1 1
+flood 3 2 1
+flail 2 3 0
+stork 1 5 0

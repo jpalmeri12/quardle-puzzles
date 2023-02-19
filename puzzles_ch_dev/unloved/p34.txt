@@ -1,0 +1,5 @@
+7 10 unloved
+terse 2 1 0
+shunt 5 1 1
+queer 1 5 1
+quiet 1 5 0

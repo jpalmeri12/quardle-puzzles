@@ -1,0 +1,6 @@
+7 10 connectfive
+power 2 1 1
+swung 1 3 0
+rover 2 5 0
+retry 6 5 1
+sixty 2 9 0

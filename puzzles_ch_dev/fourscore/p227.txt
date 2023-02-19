@@ -1,0 +1,5 @@
+6 7 fourscore
+hoist 3 1 1
+froze 1 2 0
+flunk 1 2 1
+upset 1 4 0

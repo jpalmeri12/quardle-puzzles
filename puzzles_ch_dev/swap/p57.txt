@@ -1,0 +1,5 @@
+7 10 swap
+perhc 2 1 1
+erarm 2 2 0
+mcuky 1 5 0
+keing 4 5 1

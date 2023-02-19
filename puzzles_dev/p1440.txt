@@ -1,0 +1,5 @@
+7 10
+since 2 1 1
+erode 2 5 0
+rebut 3 5 1
+snuff 1 8 0

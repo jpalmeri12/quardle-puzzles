@@ -1,0 +1,5 @@
+7 7
+pesky 3 1 1
+beech 1 2 0
+heron 5 2 1
+nylon 2 5 0

@@ -1,0 +1,5 @@
+7 9 bestfit
+storm 2 1 1
+strap 1 2 0
+unmet 4 4 1
+mango 2 5 0

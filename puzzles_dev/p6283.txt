@@ -1,0 +1,5 @@
+7 9
+asset 2 1 1
+snake 2 2 0
+genre 1 4 0
+eaten 5 4 1

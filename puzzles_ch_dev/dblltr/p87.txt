@@ -1,0 +1,5 @@
+7 8 dblltr
+kneed 2 1 1
+dummy 5 3 1
+idiom 1 5 0
+polyp 2 7 0

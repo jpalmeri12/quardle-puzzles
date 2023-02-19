@@ -1,0 +1,5 @@
+7 10
+drive 5 1 1
+niche 1 5 0
+count 3 5 1
+attic 2 9 0

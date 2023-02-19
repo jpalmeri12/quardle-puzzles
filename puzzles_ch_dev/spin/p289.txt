@@ -1,0 +1,5 @@
+7 10 spin
+bongo 6 1 1
+audio 2 5 0
+imbue 5 5 1
+thumb 1 7 0

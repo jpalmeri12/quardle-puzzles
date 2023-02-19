@@ -1,0 +1,5 @@
+6 10
+right 5 1 1
+spent 1 5 0
+newer 4 5 1
+expel 1 8 0

@@ -1,0 +1,6 @@
+7 10 connectfive
+ninja 1 1 1
+aisle 1 5 0
+slime 3 5 1
+twine 1 7 0
+jerky 2 9 0

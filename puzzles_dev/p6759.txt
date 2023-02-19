@@ -1,0 +1,5 @@
+6 10
+being 2 1 1
+igloo 1 5 0
+owner 4 5 1
+brine 1 7 0

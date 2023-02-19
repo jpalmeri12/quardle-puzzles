@@ -1,0 +1,5 @@
+7 10
+kitty 2 1 1
+lyric 1 5 0
+curve 5 5 1
+glory 2 7 0

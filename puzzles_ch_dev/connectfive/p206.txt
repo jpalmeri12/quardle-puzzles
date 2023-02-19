@@ -1,0 +1,6 @@
+6 10 connectfive
+drama 1 1 1
+cycle 5 4 1
+abbey 1 5 0
+badge 2 5 1
+ideal 1 7 0

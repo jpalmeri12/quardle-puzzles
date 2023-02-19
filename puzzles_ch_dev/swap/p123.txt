@@ -1,0 +1,5 @@
+7 10 swap
+bgiot 5 1 1
+eretc 2 5 0
+eaxct 2 5 1
+ocwer 1 8 0

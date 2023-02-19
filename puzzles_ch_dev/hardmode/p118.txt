@@ -1,0 +1,5 @@
+7 7 hardmode
+berry 2 1 1
+erupt 2 2 0
+palsy 5 2 1
+broil 1 4 0

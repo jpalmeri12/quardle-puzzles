@@ -1,0 +1,5 @@
+6 7
+skulk 1 1 1
+kneel 1 2 0
+extol 4 2 1
+lofty 1 4 0

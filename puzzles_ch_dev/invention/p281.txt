@@ -1,0 +1,5 @@
+7 9 invention
+chess 2 1 1
+these 1 2 0
+brass 4 4 1
+straw 2 5 0

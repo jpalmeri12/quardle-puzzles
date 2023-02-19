@@ -1,0 +1,5 @@
+7 8 frequency
+serum 2 1 1
+rumba 2 3 0
+brand 5 3 1
+undid 1 7 0

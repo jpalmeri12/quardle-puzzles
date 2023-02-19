@@ -1,0 +1,5 @@
+7 10
+clout 4 1 1
+party 1 5 0
+regal 3 5 1
+tarot 2 8 0

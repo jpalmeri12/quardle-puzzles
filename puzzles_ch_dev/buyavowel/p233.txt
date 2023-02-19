@@ -1,0 +1,5 @@
+7 7 buyavowel
+waltz 6 1 1
+scene 3 2 1
+octal 2 3 0
+steak 1 6 0

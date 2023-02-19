@@ -1,0 +1,5 @@
+7 10 spaced
+quasi 4 1 1
+spike 2 5 0
+price 3 5 1
+piety 1 9 0

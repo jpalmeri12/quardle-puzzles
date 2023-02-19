@@ -1,0 +1,5 @@
+7 7
+carat 6 1 1
+plaza 2 2 0
+agile 4 2 1
+flyer 1 6 0

@@ -1,0 +1,5 @@
+7 10
+break 1 1 1
+kneed 1 5 0
+novel 2 5 1
+leapt 2 9 0

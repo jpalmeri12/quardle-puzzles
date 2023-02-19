@@ -1,0 +1,5 @@
+6 9
+boost 2 1 1
+borne 1 2 0
+aside 1 4 0
+debar 4 4 1

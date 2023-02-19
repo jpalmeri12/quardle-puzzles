@@ -1,0 +1,7 @@
+7 11 secretdistance
+eclat 6 1 1
+waist 3 4 1
+paint 2 5 0
+bison 1 7 0
+shake 1 10 0
+!sdpos 2 2 3 0

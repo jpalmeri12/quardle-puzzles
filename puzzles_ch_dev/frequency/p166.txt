@@ -1,0 +1,5 @@
+7 8 frequency
+crawl 2 1 0
+wight 5 1 1
+thong 1 3 0
+opera 3 3 1

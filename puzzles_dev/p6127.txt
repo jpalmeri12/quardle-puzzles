@@ -1,0 +1,5 @@
+7 10
+caulk 1 1 0
+knock 5 1 1
+fluke 2 5 0
+erase 6 5 1

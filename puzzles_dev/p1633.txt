@@ -1,0 +1,5 @@
+7 8
+china 1 1 0
+house 2 1 1
+cumin 5 3 1
+scrub 2 4 0

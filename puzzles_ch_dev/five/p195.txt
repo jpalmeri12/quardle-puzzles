@@ -1,0 +1,6 @@
+7 10 five
+snarl 2 1 1
+await 2 3 0
+inter 5 3 1
+cleft 1 5 0
+equal 3 5 1

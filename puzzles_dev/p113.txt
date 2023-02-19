@@ -1,0 +1,5 @@
+7 10
+pizza 6 1 1
+sushi 2 5 1
+scuba 2 5 0
+usurp 1 7 0

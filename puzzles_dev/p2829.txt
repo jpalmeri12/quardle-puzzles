@@ -1,0 +1,5 @@
+7 9
+frill 6 1 1
+pupal 2 4 0
+unfit 3 4 1
+shift 1 7 0

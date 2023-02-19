@@ -1,0 +1,5 @@
+7 8
+smack 6 1 1
+comma 3 3 1
+toxic 2 4 0
+femme 1 6 0

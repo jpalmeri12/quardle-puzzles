@@ -1,0 +1,9 @@
+7 10 spellbound
+mimic 5 1 1
+golem 1 3 0
+chock 2 5 0
+hedge 3 5 1
+!spellbound 0 3 1
+!spellbound 1 0 2
+!spellbound 2 0 4
+!spellbound 3 1 2

@@ -1,0 +1,5 @@
+6 8 reverse
+rhyme 5 1 1
+tsaey 1 3 0
+swarm 2 3 1
+lauqe 1 5 0

@@ -1,0 +1,5 @@
+7 10
+spray 3 1 1
+proof 2 3 0
+slyly 1 5 0
+later 2 5 1

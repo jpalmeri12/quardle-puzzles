@@ -1,0 +1,6 @@
+6 8 island
+waltz 1 1 1
+wedge 1 1 0
+croup 5 3 1
+tutor 1 4 0
+!island 311 31 2111 211

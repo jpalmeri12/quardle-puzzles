@@ -1,0 +1,5 @@
+6 9 skyscrapers
+snide 4 4 1
+eying 1 5 0
+meaty 2 1 1
+imply 1 1 0

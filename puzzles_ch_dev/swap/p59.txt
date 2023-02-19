@@ -1,0 +1,5 @@
+6 9 swap
+raerr 5 1 1
+armoa 1 2 0
+coerr 1 4 0
+curde 1 4 1

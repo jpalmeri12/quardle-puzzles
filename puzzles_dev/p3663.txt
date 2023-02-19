@@ -1,0 +1,5 @@
+6 9
+decal 5 1 1
+vista 1 4 0
+steed 3 4 1
+wedge 1 8 0

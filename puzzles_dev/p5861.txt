@@ -1,0 +1,5 @@
+6 7
+adopt 2 1 1
+idyll 1 2 0
+lance 5 2 1
+spurn 1 4 0

@@ -1,0 +1,5 @@
+7 9 darkness
+waist 1 2 0
+chaff 2 4 0
+frost 6 4 1
+fight 3 1 1

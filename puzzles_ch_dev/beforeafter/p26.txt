@@ -1,0 +1,9 @@
+7 9 beforeafter
+stump 3 1 1
+bitty 1 2 0
+knife 5 4 1
+spunk 2 5 0
+!beforeafter 2 r
+!beforeafter 1 l
+!beforeafter 1 j
+!beforeafter 2 o

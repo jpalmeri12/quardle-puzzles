@@ -1,0 +1,5 @@
+7 10 darkness
+mania 5 1 1
+smoke 3 5 1
+assay 2 5 0
+frown 1 3 0

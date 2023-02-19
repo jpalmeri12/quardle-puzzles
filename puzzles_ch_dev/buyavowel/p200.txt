@@ -1,0 +1,5 @@
+7 8 buyavowel
+dream 1 1 0
+mushy 5 1 1
+dross 2 3 0
+radar 3 3 1

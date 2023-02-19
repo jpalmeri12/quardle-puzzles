@@ -1,0 +1,5 @@
+7 10
+south 6 1 1
+stash 2 5 0
+stint 2 5 1
+eight 1 7 0

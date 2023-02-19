@@ -1,0 +1,5 @@
+7 9
+snare 5 1 1
+dirty 3 4 1
+diver 2 5 0
+petal 1 7 0

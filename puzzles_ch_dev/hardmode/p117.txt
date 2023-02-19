@@ -1,0 +1,5 @@
+7 9 hardmode
+dally 2 1 1
+doing 2 1 0
+ulcer 1 4 0
+extra 4 4 1

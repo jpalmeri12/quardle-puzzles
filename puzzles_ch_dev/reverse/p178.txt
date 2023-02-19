@@ -1,0 +1,5 @@
+7 10 reverse
+odtuo 4 1 1
+total 2 3 0
+spook 1 5 0
+oiruc 3 5 1

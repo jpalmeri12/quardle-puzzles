@@ -1,0 +1,5 @@
+7 8 buyavowel
+bravo 1 1 1
+aware 1 3 0
+assay 3 3 1
+synod 2 7 0

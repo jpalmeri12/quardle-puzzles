@@ -1,0 +1,5 @@
+6 9
+picky 1 1 0
+ivory 2 1 1
+print 1 4 0
+nomad 4 4 1

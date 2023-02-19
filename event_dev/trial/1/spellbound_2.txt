@@ -1,0 +1,9 @@
+7 9 spellbound
+maxim 5 1 1
+unfit 2 4 0
+never 3 4 1
+world 1 8 0
+!spellbound 0 0 1
+!spellbound 1 2 0
+!spellbound 2 3 2
+!spellbound 3 3 4

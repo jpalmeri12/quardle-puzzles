@@ -1,0 +1,5 @@
+7 9
+tribe 5 1 1
+story 2 2 0
+kebab 1 4 0
+knack 1 4 1

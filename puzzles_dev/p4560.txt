@@ -1,0 +1,5 @@
+7 10
+spear 3 1 1
+crowd 2 5 0
+wordy 5 5 1
+stead 1 8 0

@@ -1,0 +1,5 @@
+7 9 dblltr
+dwell 2 1 0
+ditto 2 1 1
+harsh 5 4 1
+comma 1 5 0

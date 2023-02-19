@@ -1,0 +1,5 @@
+7 9
+solve 5 1 1
+torso 1 2 0
+brave 2 4 0
+bread 2 4 1

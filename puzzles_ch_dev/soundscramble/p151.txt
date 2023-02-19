@@ -1,0 +1,5 @@
+7 9 soundscramble
+ustur 1 1 0
+stiff 2 1 1
+futes 2 4 0
+endid 5 4 1

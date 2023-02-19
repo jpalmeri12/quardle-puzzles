@@ -1,0 +1,5 @@
+7 8
+pause 3 1 1
+terra 5 3 1
+asset 2 4 0
+tiara 1 7 0

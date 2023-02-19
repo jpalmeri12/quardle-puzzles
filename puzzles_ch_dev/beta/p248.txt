@@ -1,0 +1,5 @@
+7 10 beta
+snipe 5 1 1
+mania 2 3 0
+midge 1 5 0
+dread 3 5 1

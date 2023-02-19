@@ -1,0 +1,5 @@
+6 10 skyscrapers
+spree 1 5 0
+ankle 4 1 1
+glean 1 1 0
+proxy 2 5 1

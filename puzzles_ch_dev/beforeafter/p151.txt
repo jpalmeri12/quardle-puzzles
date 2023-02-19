@@ -1,0 +1,9 @@
+6 9 beforeafter
+carol 5 1 1
+lasso 1 4 0
+stack 3 4 1
+bacon 1 7 0
+!beforeafter 1 k
+!beforeafter 1 m
+!beforeafter 1 r
+!beforeafter 2 k

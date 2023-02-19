@@ -1,0 +1,5 @@
+7 8
+macho 2 1 1
+minim 2 1 0
+serum 5 3 1
+poser 1 5 0

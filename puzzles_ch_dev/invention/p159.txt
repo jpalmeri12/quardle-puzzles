@@ -1,0 +1,5 @@
+7 9 invention
+smoky 6 1 1
+coast 2 4 1
+clock 2 4 0
+taper 1 6 0

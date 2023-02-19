@@ -1,0 +1,5 @@
+6 9 swap
+agrue 1 1 1
+uprge 1 4 0
+ejrky 5 4 1
+asppy 1 8 0

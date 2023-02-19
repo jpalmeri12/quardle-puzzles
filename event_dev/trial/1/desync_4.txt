@@ -1,0 +1,5 @@
+7 8 desync
+vegan 6 1 1
+forte 2 3 1
+omega 2 4 0
+otter 1 6 0

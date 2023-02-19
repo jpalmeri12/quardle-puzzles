@@ -1,0 +1,5 @@
+7 9 duplicity
+lunar 3 1 1
+loopy 5 4 1
+arson 2 5 0
+syrup 1 7 0

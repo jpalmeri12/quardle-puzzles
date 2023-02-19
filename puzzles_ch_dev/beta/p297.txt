@@ -1,0 +1,5 @@
+7 8 beta
+unwed 2 1 0
+woken 4 1 1
+parka 1 3 0
+pygmy 1 3 1

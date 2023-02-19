@@ -1,0 +1,7 @@
+7 11 secretdistance
+tally 2 1 1
+taboo 2 1 0
+flick 1 4 0
+khaki 5 4 1
+error 1 10 0
+!sdpos 2 2 1 0

@@ -1,0 +1,5 @@
+6 7 skyscrapers
+utile 3 2 1
+tying 1 4 0
+elite 1 1 1
+lousy 1 2 0

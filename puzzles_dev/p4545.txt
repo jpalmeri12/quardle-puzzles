@@ -1,0 +1,5 @@
+7 7
+brisk 1 1 0
+inlet 3 1 1
+brand 6 2 1
+flair 2 3 0

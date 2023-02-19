@@ -1,0 +1,5 @@
+7 9 soundscramble
+cergo 2 1 0
+raheb 4 1 1
+luner 1 4 0
+litha 1 4 1

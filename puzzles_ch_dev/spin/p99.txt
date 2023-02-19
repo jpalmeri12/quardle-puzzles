@@ -1,0 +1,5 @@
+6 9 spin
+wench 1 1 0
+carve 4 1 1
+nerve 1 4 1
+easel 1 5 0

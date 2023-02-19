@@ -1,0 +1,5 @@
+7 9 fourscore
+upset 2 1 1
+sharp 5 4 1
+tight 2 5 0
+clamp 1 8 0

@@ -1,0 +1,5 @@
+7 7
+witty 4 1 1
+sting 2 2 0
+spurt 2 2 1
+putty 1 4 0

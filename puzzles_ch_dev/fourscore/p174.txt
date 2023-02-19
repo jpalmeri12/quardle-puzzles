@@ -1,0 +1,5 @@
+7 9 fourscore
+nomad 1 1 1
+ferry 4 4 1
+diner 1 5 0
+crypt 2 8 0

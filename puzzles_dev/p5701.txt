@@ -1,0 +1,5 @@
+6 10
+knelt 4 1 1
+brunt 1 2 0
+amity 1 5 0
+matey 2 5 1

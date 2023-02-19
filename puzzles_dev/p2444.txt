@@ -1,0 +1,5 @@
+7 7
+rebus 5 1 1
+phone 1 2 0
+hutch 2 2 1
+crush 2 5 0

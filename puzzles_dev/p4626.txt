@@ -1,0 +1,5 @@
+7 9
+vegan 2 1 1
+demon 1 2 0
+agora 2 4 0
+obese 4 4 1

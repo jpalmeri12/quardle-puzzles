@@ -1,0 +1,5 @@
+7 10
+tibia 5 1 1
+sushi 1 2 0
+gloat 2 5 0
+tacit 6 5 1

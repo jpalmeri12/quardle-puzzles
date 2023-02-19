@@ -1,0 +1,6 @@
+7 9 wordcolumn
+sloop 2 1 1
+genie 4 1 1
+clued 1 2 0
+olive 2 4 0
+ethic 6 4 1

@@ -1,0 +1,6 @@
+7 10 five
+grain 5 1 1
+seven 2 2 1
+terra 1 3 0
+eking 2 5 0
+irate 4 5 1

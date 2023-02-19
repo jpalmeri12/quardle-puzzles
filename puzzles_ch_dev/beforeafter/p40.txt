@@ -1,0 +1,9 @@
+6 9 beforeafter
+fanny 5 1 1
+rumba 1 2 0
+ghost 1 4 1
+heavy 1 5 0
+!beforeafter 1 m
+!beforeafter 2 j
+!beforeafter 1 l
+!beforeafter 2 i

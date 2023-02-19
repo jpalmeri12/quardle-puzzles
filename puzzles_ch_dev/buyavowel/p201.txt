@@ -1,0 +1,5 @@
+7 9 buyavowel
+regal 4 1 1
+medal 1 4 0
+early 2 4 1
+lobby 2 7 0

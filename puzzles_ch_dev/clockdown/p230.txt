@@ -1,0 +1,5 @@
+7 8 clockdown
+swami 3 1 1
+rower 1 2 0
+downy 6 3 1
+sinew 2 5 0

@@ -1,0 +1,5 @@
+7 8 sweeper
+demon 1 1 1
+pleat 4 3 1
+nicer 1 5 0
+entry 2 7 0

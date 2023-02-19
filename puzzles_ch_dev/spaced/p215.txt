@@ -1,0 +1,5 @@
+7 8 spaced
+final 6 1 1
+askew 2 3 1
+sigma 2 4 0
+perky 1 6 0

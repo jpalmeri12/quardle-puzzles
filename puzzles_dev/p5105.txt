@@ -1,0 +1,5 @@
+7 9
+bowel 5 1 1
+rouse 1 4 0
+untie 3 4 1
+ditty 2 7 0

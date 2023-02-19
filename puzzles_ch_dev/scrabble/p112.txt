@@ -1,0 +1,5 @@
+7 8 scrabble
+depot 2 5 0
+ample 4 3 1
+humid 2 1 1
+phony 1 1 0

@@ -1,0 +1,5 @@
+7 9 shiritori
+knead 1 1 0
+apnea 4 1 1
+floor 2 4 1
+llama 2 5 0

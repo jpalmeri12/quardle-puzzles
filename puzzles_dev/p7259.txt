@@ -1,0 +1,5 @@
+7 9
+spoke 6 1 1
+tweak 2 4 0
+wrist 3 4 1
+bathe 1 8 0

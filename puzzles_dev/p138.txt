@@ -1,0 +1,5 @@
+7 9
+tatty 3 1 1
+flail 1 2 0
+bunch 5 4 1
+syrup 2 5 0

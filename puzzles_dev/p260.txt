@@ -1,0 +1,5 @@
+7 7
+swift 2 1 1
+whiny 2 2 0
+nicer 5 2 1
+stoke 1 5 0

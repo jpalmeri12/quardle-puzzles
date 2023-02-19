@@ -1,0 +1,5 @@
+6 9 altending
+pansy 1 1 0
+paler 1 3 0
+eagle 1 5 0
+stair 1 7 0

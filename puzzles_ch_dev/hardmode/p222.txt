@@ -1,0 +1,5 @@
+7 8 hardmode
+wedge 2 1 1
+above 5 3 1
+globe 2 4 0
+agree 1 7 0

@@ -1,0 +1,5 @@
+7 9 bestfit
+midge 1 1 0
+ionic 2 1 1
+tense 5 4 1
+covey 2 5 0

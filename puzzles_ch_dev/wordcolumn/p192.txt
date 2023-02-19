@@ -1,0 +1,6 @@
+7 10 wordcolumn
+pouch 2 1 1
+prowl 2 1 0
+whine 5 1 1
+shone 1 5 0
+nasty 4 5 1

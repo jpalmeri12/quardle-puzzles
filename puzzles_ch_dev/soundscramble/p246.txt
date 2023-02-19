@@ -1,0 +1,5 @@
+7 8 soundscramble
+fussy 6 1 1
+fergo 4 3 1
+porky 2 5 0
+vidoe 1 7 0

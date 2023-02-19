@@ -1,0 +1,5 @@
+7 10
+tarot 5 1 1
+paint 1 5 0
+neigh 4 5 1
+crime 2 7 0

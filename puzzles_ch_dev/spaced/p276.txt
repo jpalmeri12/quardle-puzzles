@@ -1,0 +1,5 @@
+7 9 spaced
+whose 1 1 1
+slang 1 4 0
+grand 5 4 1
+inlay 2 6 0

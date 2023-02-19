@@ -1,0 +1,5 @@
+6 7 frequency
+state 4 1 1
+crate 1 2 0
+cheek 1 2 1
+elder 1 5 0

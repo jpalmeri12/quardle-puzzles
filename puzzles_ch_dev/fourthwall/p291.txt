@@ -1,0 +1,7 @@
+6 6 fourthwall
+asset 1 1 0
+aisle 1 1 1
+sweep 1 3 0
+sweat 3 1 1
+ester 1 5 0
+tapir 5 1 1

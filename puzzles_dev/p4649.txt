@@ -1,0 +1,5 @@
+6 10
+liner 1 1 1
+ratty 1 5 0
+tease 3 5 1
+flash 1 7 0

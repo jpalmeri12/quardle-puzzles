@@ -1,0 +1,5 @@
+7 10
+friar 2 1 0
+inane 4 1 1
+lager 1 5 0
+ready 5 5 1

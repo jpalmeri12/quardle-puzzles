@@ -1,0 +1,5 @@
+6 8 swap
+lgass 1 1 0
+silde 5 1 1
+wtirl 1 3 0
+wisyp 1 3 1

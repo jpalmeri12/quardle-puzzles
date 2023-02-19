@@ -1,0 +1,5 @@
+7 8
+drift 4 1 1
+spill 2 3 1
+slimy 2 3 0
+ulcer 1 7 0

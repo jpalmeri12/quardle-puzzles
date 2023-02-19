@@ -1,0 +1,5 @@
+7 10 outoforder
+fever 6 1 1
+focal 2 5 1
+foyer 2 5 0
+scion 1 7 0

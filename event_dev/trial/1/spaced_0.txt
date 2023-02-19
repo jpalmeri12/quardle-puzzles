@@ -1,0 +1,5 @@
+6 9 spaced
+voter 2 1 1
+hovel 1 2 0
+eking 5 4 1
+wreck 1 5 0

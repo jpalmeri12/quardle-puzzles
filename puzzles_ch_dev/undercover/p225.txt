@@ -1,0 +1,6 @@
+7 10 undercover
+spray 1 1 0
+rebus 3 1 1
+odder 5 3 1
+muddy 2 4 0
+fling 1 9 0

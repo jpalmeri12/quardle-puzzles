@@ -1,0 +1,6 @@
+7 12 undercover
+banal 2 1 1
+nerdy 2 3 0
+alter 1 5 0
+teeth 3 5 1
+opium 1 11 0

@@ -1,0 +1,5 @@
+7 10
+sweep 2 1 1
+swamp 2 1 0
+spell 1 5 0
+stood 1 5 1

@@ -1,0 +1,5 @@
+7 10
+later 4 1 1
+patty 1 3 0
+burnt 2 5 0
+towel 6 5 1

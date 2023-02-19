@@ -1,0 +1,5 @@
+7 10 scrabble
+reign 4 1 1
+denim 2 5 0
+imbue 5 5 1
+crumb 1 7 0

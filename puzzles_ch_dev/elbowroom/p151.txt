@@ -1,0 +1,5 @@
+7 9 elbowroom
+above 1 1 0
+beefy 2 1 1
+fudge 2 4 0
+dogma 4 4 1

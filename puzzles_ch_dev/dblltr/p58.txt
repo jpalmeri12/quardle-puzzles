@@ -1,0 +1,5 @@
+6 9 dblltr
+tabby 5 1 1
+blurb 1 4 0
+upper 3 4 1
+leery 1 7 0

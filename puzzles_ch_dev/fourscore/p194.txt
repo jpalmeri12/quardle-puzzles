@@ -1,0 +1,5 @@
+7 10 fourscore
+quash 1 1 1
+husky 1 5 0
+unlit 2 5 1
+tumor 2 9 0

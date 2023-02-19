@@ -1,0 +1,5 @@
+7 8 swap
+yeing 1 1 1
+wgaon 5 3 1
+guvaa 1 5 0
+bilnk 2 7 0

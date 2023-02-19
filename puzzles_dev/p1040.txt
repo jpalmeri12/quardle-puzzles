@@ -1,0 +1,5 @@
+7 7
+salty 1 1 1
+widow 5 2 1
+tepid 1 4 0
+trawl 2 6 0

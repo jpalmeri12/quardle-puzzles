@@ -1,0 +1,5 @@
+6 6 reverse
+horde 2 1 1
+aloud 4 1 1
+pools 1 2 0
+yddur 1 4 0

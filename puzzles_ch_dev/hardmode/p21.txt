@@ -1,0 +1,5 @@
+7 7 hardmode
+afoot 5 1 1
+scoff 1 2 0
+crier 2 2 1
+igloo 2 4 0

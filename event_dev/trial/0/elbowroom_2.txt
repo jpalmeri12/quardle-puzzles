@@ -1,0 +1,5 @@
+7 9 elbowroom
+while 4 1 1
+ethic 2 2 0
+bible 1 4 0
+blind 1 4 1

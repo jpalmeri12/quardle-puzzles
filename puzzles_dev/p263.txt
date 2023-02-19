@@ -1,0 +1,5 @@
+7 10
+clown 2 1 1
+nutty 2 5 0
+thyme 4 5 1
+stamp 1 8 0

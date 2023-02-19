@@ -1,0 +1,5 @@
+7 10
+tread 5 1 1
+wager 1 2 0
+pride 2 5 0
+itchy 4 5 1

@@ -1,0 +1,5 @@
+6 7 shiritori
+cress 1 1 1
+remit 1 2 0
+melon 3 2 1
+snort 1 5 0

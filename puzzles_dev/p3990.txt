@@ -1,0 +1,5 @@
+7 9
+stalk 2 1 0
+token 3 1 1
+child 5 4 1
+bench 1 5 0

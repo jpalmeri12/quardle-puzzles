@@ -1,0 +1,5 @@
+6 7
+agate 4 1 1
+binge 1 2 0
+blade 1 2 1
+aunty 1 4 0

@@ -1,0 +1,5 @@
+6 10
+liken 3 1 1
+ninth 1 5 0
+idyll 2 5 1
+alive 1 8 0

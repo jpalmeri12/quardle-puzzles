@@ -1,0 +1,5 @@
+7 10
+smart 2 1 1
+march 2 2 0
+stout 1 5 0
+uncle 4 5 1

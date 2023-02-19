@@ -1,0 +1,5 @@
+6 10 fourscore
+truly 3 1 1
+maybe 1 5 0
+built 4 5 1
+wrath 1 9 0

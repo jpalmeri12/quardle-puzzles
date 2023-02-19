@@ -1,0 +1,5 @@
+7 9 unloved
+fibre 6 1 1
+fiber 2 4 0
+below 4 4 1
+alloy 1 7 0

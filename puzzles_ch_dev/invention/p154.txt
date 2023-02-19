@@ -1,0 +1,5 @@
+6 8 invention
+polyp 1 1 0
+yearn 4 1 1
+relay 1 3 0
+rivet 1 3 1

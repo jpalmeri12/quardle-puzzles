@@ -1,0 +1,5 @@
+6 7
+alert 1 1 1
+logic 1 2 0
+glade 3 2 1
+rearm 1 4 0

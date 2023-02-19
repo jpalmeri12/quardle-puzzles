@@ -1,0 +1,5 @@
+6 9 buyavowel
+scowl 1 1 1
+sushi 1 1 0
+wryly 1 4 0
+youth 3 4 1

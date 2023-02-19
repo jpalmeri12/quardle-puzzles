@@ -1,0 +1,5 @@
+7 9 duplicity
+opera 6 1 1
+otter 2 4 0
+tapir 3 4 1
+onion 1 7 0

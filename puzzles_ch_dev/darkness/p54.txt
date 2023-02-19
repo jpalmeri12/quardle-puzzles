@@ -1,0 +1,5 @@
+7 8 darkness
+roach 2 5 0
+spend 1 3 0
+medic 5 1 1
+parse 2 3 1

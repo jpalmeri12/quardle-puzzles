@@ -1,0 +1,5 @@
+7 9 bestfit
+agile 2 1 1
+amuse 2 1 0
+flack 1 4 0
+charm 4 4 1

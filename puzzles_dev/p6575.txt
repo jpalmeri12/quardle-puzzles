@@ -1,0 +1,5 @@
+6 10
+white 1 1 1
+eying 1 5 0
+gully 5 5 1
+broil 1 8 0

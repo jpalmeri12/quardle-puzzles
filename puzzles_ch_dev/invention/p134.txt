@@ -1,0 +1,5 @@
+7 9 invention
+pique 1 1 0
+quell 3 1 1
+alive 2 4 0
+elect 6 4 1

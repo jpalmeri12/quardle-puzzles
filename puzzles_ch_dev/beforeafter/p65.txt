@@ -1,0 +1,9 @@
+7 9 beforeafter
+omega 1 1 0
+mulch 2 1 1
+cairn 2 4 0
+notch 6 4 1
+!beforeafter 1 i
+!beforeafter 2 i
+!beforeafter 2 k
+!beforeafter 2 j

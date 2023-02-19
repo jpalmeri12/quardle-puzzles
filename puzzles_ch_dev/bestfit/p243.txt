@@ -1,0 +1,5 @@
+7 9 bestfit
+scram 2 1 0
+chili 3 1 1
+ether 1 4 1
+twice 1 5 0

@@ -1,0 +1,5 @@
+7 10 outoforder
+frail 2 1 1
+floss 1 5 0
+seedy 5 5 1
+randy 2 8 0

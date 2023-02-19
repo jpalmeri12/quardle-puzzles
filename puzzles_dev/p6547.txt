@@ -1,0 +1,5 @@
+6 8
+stash 5 1 1
+dicey 2 3 1
+minus 1 4 0
+myrrh 1 7 0

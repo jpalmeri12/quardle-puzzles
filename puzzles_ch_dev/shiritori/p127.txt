@@ -1,0 +1,5 @@
+7 9 shiritori
+ebony 2 1 0
+butte 3 1 1
+ester 1 4 0
+razor 5 4 1

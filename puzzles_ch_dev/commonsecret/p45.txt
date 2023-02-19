@@ -1,0 +1,6 @@
+7 10 commonsecret
+teach 1 1 0
+chase 4 1 1
+cheap 2 5 0
+abyss 5 5 1
+!secret a

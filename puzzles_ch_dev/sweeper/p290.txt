@@ -1,0 +1,5 @@
+6 10 sweeper
+bayou 2 1 1
+cynic 1 3 0
+jumbo 1 5 0
+madly 3 5 1

@@ -1,0 +1,5 @@
+7 8 sweeper
+quick 1 1 0
+clone 4 1 1
+sooty 2 3 0
+skunk 2 3 1

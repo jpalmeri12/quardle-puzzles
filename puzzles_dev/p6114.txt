@@ -1,0 +1,5 @@
+7 7
+snarl 2 1 1
+knack 1 2 0
+cliff 4 2 1
+rainy 2 4 0

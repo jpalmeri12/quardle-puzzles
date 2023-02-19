@@ -1,0 +1,5 @@
+7 10
+vault 5 1 1
+blitz 2 5 0
+lasso 3 5 1
+hasty 1 7 0

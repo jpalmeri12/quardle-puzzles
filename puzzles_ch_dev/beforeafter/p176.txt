@@ -1,0 +1,9 @@
+7 9 beforeafter
+bayou 1 1 1
+clout 5 4 1
+until 1 5 0
+jetty 2 8 0
+!beforeafter 1 i
+!beforeafter 2 r
+!beforeafter 2 m
+!beforeafter 1 n

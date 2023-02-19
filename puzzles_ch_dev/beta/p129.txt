@@ -1,0 +1,5 @@
+7 8 beta
+thief 1 1 0
+furor 5 1 1
+beard 2 3 0
+baron 2 3 1

@@ -1,0 +1,9 @@
+7 8 spellbound
+tiara 2 1 0
+adorn 4 1 1
+sulky 2 3 1
+quart 1 4 0
+!spellbound 0 4 3
+!spellbound 1 4 2
+!spellbound 2 2 4
+!spellbound 3 4 0

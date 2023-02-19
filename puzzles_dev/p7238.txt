@@ -1,0 +1,5 @@
+6 10
+sinew 1 1 0
+inlet 2 1 1
+stout 1 5 0
+tonga 5 5 1

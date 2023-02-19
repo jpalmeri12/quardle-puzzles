@@ -1,0 +1,5 @@
+7 10
+light 3 1 1
+stead 2 5 0
+await 5 5 1
+salsa 1 7 0

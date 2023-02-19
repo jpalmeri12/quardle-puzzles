@@ -1,0 +1,6 @@
+6 11 drop
+mamma 1 1 1
+first 3 4 1
+aside 1 5 0
+risen 1 7 0
+ramen 1 10 0

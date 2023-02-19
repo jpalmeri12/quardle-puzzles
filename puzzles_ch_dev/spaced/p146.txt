@@ -1,0 +1,5 @@
+7 9 spaced
+snack 5 1 1
+grail 2 4 1
+brink 1 5 0
+lunge 2 8 0

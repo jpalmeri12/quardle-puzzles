@@ -1,0 +1,9 @@
+6 6 spellbound
+decor 3 1 1
+stain 5 1 1
+scent 1 2 0
+rerun 1 5 0
+!spellbound 0 3 2
+!spellbound 1 3 2
+!spellbound 2 3 1
+!spellbound 3 0 1

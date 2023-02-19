@@ -1,0 +1,5 @@
+7 10 frequency
+stiff 2 1 1
+stead 1 2 0
+filet 2 5 0
+ember 5 5 1

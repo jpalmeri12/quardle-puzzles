@@ -1,0 +1,5 @@
+7 9
+drool 6 1 1
+mango 2 4 0
+arena 3 4 1
+bread 1 6 0

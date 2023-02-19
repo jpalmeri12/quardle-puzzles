@@ -1,0 +1,5 @@
+7 10 spaced
+valid 1 1 1
+draft 1 5 0
+foray 4 5 1
+wordy 2 7 0

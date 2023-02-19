@@ -1,0 +1,6 @@
+6 12 drop
+antic 1 1 0
+crowd 5 1 1
+bread 1 5 0
+equip 3 5 1
+decay 1 11 0

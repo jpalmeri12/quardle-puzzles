@@ -1,0 +1,6 @@
+7 10 island
+goner 2 1 1
+nanny 2 3 0
+proud 1 5 0
+polka 1 5 1
+!island 2111 111 221 41

@@ -1,0 +1,5 @@
+7 10 hardmode
+lumpy 2 1 0
+manga 4 1 1
+plead 1 5 0
+llama 2 5 1

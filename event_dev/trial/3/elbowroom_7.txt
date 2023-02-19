@@ -1,0 +1,5 @@
+6 9 elbowroom
+fetal 1 1 1
+stunk 3 4 1
+lithe 1 5 0
+canon 1 7 0

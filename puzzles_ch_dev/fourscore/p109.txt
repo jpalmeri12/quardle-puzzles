@@ -1,0 +1,5 @@
+7 9 fourscore
+aroma 4 1 1
+thrum 2 2 0
+nanny 2 4 1
+salad 1 5 0

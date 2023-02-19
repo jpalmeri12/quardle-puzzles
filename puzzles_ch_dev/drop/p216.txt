@@ -1,0 +1,6 @@
+7 10 drop
+spoil 2 1 0
+primo 3 1 1
+tread 5 3 1
+stone 1 5 0
+pesto 1 9 0

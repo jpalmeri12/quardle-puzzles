@@ -1,0 +1,5 @@
+7 10
+dingy 3 1 1
+snipe 1 2 0
+lynch 2 5 0
+noble 4 5 1

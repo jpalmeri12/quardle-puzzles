@@ -1,0 +1,5 @@
+7 10 reverse
+clout 5 1 1
+doots 2 5 0
+ognob 3 5 1
+taboo 1 9 0

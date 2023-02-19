@@ -1,0 +1,6 @@
+6 10 connectfive
+donut 2 1 1
+lilac 4 1 1
+comic 1 2 0
+stock 1 5 0
+oaken 3 5 1

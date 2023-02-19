@@ -1,0 +1,5 @@
+6 9
+leave 3 1 1
+cavil 1 4 0
+leach 5 4 1
+basic 1 7 0

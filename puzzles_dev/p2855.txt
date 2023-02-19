@@ -1,0 +1,5 @@
+7 8
+pouch 2 1 1
+vouch 5 3 1
+carol 2 4 0
+broth 1 7 0

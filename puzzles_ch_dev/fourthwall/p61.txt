@@ -1,0 +1,7 @@
+6 6 fourthwall
+tonal 1 1 0
+there 1 1 1
+error 1 3 0
+north 3 1 1
+ethic 1 5 0
+lyric 5 1 1

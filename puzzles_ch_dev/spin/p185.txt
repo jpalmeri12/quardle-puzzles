@@ -1,0 +1,5 @@
+7 9 spin
+ounce 2 1 0
+comic 5 1 1
+alibi 1 4 0
+adapt 1 4 1

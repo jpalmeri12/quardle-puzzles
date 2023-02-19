@@ -1,0 +1,5 @@
+7 8
+flush 1 1 0
+habit 5 1 1
+coral 2 3 1
+ratty 2 5 0

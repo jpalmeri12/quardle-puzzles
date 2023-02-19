@@ -1,0 +1,9 @@
+7 10 beforeafter
+hippo 4 1 1
+empty 2 3 0
+labor 1 5 0
+abbot 2 5 1
+!beforeafter 1 j
+!beforeafter 2 r
+!beforeafter 2 n
+!beforeafter 2 j

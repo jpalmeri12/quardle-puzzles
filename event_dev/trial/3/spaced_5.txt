@@ -1,0 +1,5 @@
+7 9 spaced
+voila 2 1 1
+other 2 2 0
+clove 1 4 0
+viper 4 4 1

@@ -1,0 +1,5 @@
+6 8
+hippo 1 1 0
+ozone 5 1 1
+slash 2 3 1
+clean 1 4 0

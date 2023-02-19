@@ -1,0 +1,5 @@
+7 10
+frock 5 1 1
+trick 1 5 0
+canoe 4 5 1
+smear 2 9 0

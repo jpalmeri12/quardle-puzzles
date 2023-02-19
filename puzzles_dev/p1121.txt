@@ -1,0 +1,5 @@
+7 10
+torus 1 1 0
+onion 2 1 1
+natal 2 5 0
+truth 4 5 1

@@ -1,0 +1,5 @@
+7 8 unloved
+blush 1 1 0
+stunk 4 1 1
+abide 2 3 1
+adult 2 3 0

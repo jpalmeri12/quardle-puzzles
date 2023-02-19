@@ -1,0 +1,5 @@
+7 9 shiritori
+verge 1 1 0
+elbow 2 1 1
+myrrh 4 4 1
+wryly 2 5 0

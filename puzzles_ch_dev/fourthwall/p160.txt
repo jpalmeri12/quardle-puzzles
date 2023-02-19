@@ -1,0 +1,7 @@
+6 6 fourthwall
+rower 1 1 0
+risen 1 1 1
+sling 1 3 0
+weird 3 1 1
+nudge 1 5 0
+rogue 5 1 1

@@ -1,0 +1,5 @@
+7 9
+solve 1 1 0
+login 3 1 1
+tangy 5 4 1
+sneak 2 5 0

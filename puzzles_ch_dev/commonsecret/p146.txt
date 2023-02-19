@@ -1,0 +1,6 @@
+7 9 commonsecret
+roach 1 1 1
+cabby 1 4 0
+board 4 4 1
+mealy 2 6 0
+!secret a

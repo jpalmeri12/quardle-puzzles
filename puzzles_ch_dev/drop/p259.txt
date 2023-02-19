@@ -1,0 +1,6 @@
+7 12 drop
+magic 3 1 1
+scope 2 5 0
+panel 5 5 1
+prove 1 8 0
+scalp 1 11 0

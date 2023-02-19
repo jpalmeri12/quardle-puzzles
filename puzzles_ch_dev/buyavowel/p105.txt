@@ -1,0 +1,5 @@
+6 6 buyavowel
+reply 1 1 0
+reuse 1 1 1
+plaid 3 1 1
+spilt 1 4 0

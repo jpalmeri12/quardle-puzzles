@@ -1,0 +1,5 @@
+7 9 hardmode
+chaff 5 1 1
+pesto 2 4 1
+puffy 2 4 0
+golly 1 8 0

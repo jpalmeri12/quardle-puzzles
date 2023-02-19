@@ -1,0 +1,5 @@
+7 9
+gummy 3 1 1
+ample 2 4 0
+lanky 5 4 1
+plunk 1 7 0

@@ -1,0 +1,5 @@
+7 10
+sloop 2 1 1
+month 1 3 0
+pooch 2 5 0
+clink 5 5 1

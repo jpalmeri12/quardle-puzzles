@@ -1,0 +1,7 @@
+8 8 sixbox
+lasso 3 1 1
+steep 5 1 1
+posse 1 3 0
+spore 4 3 1
+spent 3 4 0
+swoop 1 5 0

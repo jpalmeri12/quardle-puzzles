@@ -1,0 +1,5 @@
+7 9
+split 2 1 1
+spine 1 2 0
+inept 2 4 0
+pleat 5 4 1

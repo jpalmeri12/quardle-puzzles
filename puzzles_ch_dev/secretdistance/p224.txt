@@ -1,0 +1,7 @@
+7 12 secretdistance
+prior 4 1 1
+intro 1 2 0
+mural 2 5 0
+moral 2 5 1
+radio 1 11 0
+!sdpos 2 0 1 2

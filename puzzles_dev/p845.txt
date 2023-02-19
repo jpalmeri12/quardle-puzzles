@@ -1,0 +1,5 @@
+7 7
+iliac 6 1 1
+shake 2 2 1
+snarl 2 2 0
+tenor 1 6 0

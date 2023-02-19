@@ -1,0 +1,5 @@
+7 9
+flint 6 1 1
+plank 3 4 1
+blurt 2 5 0
+taker 1 8 0

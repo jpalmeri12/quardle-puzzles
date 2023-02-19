@@ -1,0 +1,5 @@
+6 10 spin
+until 4 1 1
+shyly 1 5 0
+yield 3 5 1
+bleak 1 7 0

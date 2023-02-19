@@ -1,0 +1,6 @@
+7 11 undercover
+naive 4 1 1
+scram 1 2 0
+sever 2 4 0
+rajah 6 4 1
+lobby 1 10 0

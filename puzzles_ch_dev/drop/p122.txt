@@ -1,0 +1,6 @@
+6 8 drop
+cause 2 1 1
+aside 4 1 1
+harsh 1 2 0
+deter 1 5 0
+spurt 1 7 0

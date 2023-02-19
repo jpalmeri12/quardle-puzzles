@@ -1,0 +1,5 @@
+7 8 scrabble
+annoy 2 5 0
+gayer 1 7 0
+manly 3 3 1
+witty 6 1 1

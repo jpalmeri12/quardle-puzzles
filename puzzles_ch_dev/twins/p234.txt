@@ -1,0 +1,8 @@
+6 8 twins
+manor 1 1 0
+sixth 1 3 0
+cyber 1 5 0
+cutie 1 7 0
+!twins 2 4
+!twins 0 1
+!twins 1 3

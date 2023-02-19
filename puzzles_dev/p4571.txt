@@ -1,0 +1,5 @@
+6 9
+clasp 2 1 1
+issue 1 4 0
+uncle 4 4 1
+quilt 1 7 0

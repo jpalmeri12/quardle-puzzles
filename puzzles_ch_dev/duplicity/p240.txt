@@ -1,0 +1,5 @@
+7 10 duplicity
+milky 5 1 1
+email 2 2 0
+flaky 1 5 0
+femme 1 5 1

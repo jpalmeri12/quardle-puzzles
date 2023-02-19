@@ -1,0 +1,5 @@
+7 8
+fetus 4 1 1
+newer 1 2 0
+chief 6 3 1
+sushi 2 5 0

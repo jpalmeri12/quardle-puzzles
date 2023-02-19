@@ -1,0 +1,5 @@
+7 10 clockdown
+hyena 1 1 1
+abide 1 5 0
+broth 2 5 1
+tried 2 8 0

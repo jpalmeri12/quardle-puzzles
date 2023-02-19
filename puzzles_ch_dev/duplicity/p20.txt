@@ -1,0 +1,5 @@
+6 10 duplicity
+coyly 1 1 0
+larva 4 1 1
+vocal 1 5 0
+lorry 5 5 1

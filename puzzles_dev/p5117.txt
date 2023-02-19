@@ -1,0 +1,5 @@
+7 8
+scrum 6 1 1
+rarer 2 3 0
+aorta 3 3 1
+twang 1 7 0

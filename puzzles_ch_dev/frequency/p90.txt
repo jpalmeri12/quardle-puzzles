@@ -1,0 +1,5 @@
+7 9 frequency
+teach 2 1 0
+allow 4 1 1
+brink 2 4 1
+brown 1 5 0

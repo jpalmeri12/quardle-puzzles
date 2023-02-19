@@ -1,0 +1,5 @@
+6 6
+scrum 1 1 1
+toast 3 1 1
+choir 1 2 0
+upset 1 4 0

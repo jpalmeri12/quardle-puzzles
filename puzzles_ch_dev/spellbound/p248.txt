@@ -1,0 +1,9 @@
+7 9 spellbound
+torch 4 1 1
+knoll 2 2 0
+latch 1 4 0
+aroma 2 4 1
+!spellbound 0 2 4
+!spellbound 1 4 0
+!spellbound 2 4 2
+!spellbound 3 4 1

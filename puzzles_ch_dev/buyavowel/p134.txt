@@ -1,0 +1,5 @@
+7 7 buyavowel
+rebus 2 1 1
+regal 4 2 1
+bless 2 3 0
+usual 1 5 0

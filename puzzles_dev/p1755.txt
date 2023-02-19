@@ -1,0 +1,5 @@
+6 8
+curry 5 1 1
+motif 2 3 1
+donor 1 4 0
+afoot 1 7 0

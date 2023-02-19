@@ -1,0 +1,5 @@
+7 9
+angel 6 1 1
+canoe 2 4 0
+await 3 4 1
+grime 1 7 0

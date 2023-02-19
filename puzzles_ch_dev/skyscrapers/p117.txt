@@ -1,0 +1,5 @@
+7 10 skyscrapers
+scarf 2 1 0
+cried 3 1 1
+caddy 1 5 0
+crest 1 5 1

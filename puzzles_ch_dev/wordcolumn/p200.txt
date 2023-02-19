@@ -1,0 +1,6 @@
+7 10 wordcolumn
+threw 2 1 1
+shown 4 1 1
+roost 2 3 0
+twang 1 5 0
+torso 1 5 1

@@ -1,0 +1,6 @@
+7 9 island
+cross 3 1 1
+wench 5 4 1
+aisle 1 5 0
+tight 2 8 0
+!island 1111 221 311 31

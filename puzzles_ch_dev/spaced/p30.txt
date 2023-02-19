@@ -1,0 +1,5 @@
+7 9 spaced
+usage 5 1 1
+clasp 2 2 0
+wrung 1 4 0
+ulcer 3 4 1

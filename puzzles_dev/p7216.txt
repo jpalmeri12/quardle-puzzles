@@ -1,0 +1,5 @@
+7 10
+posit 5 1 1
+arrow 2 2 0
+plant 1 5 0
+naval 4 5 1

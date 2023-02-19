@@ -1,0 +1,5 @@
+7 10
+dough 4 1 1
+ethos 2 5 0
+outdo 5 5 1
+bland 1 8 0

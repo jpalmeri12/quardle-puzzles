@@ -1,0 +1,9 @@
+7 8 beforeafter
+chess 1 1 0
+harry 2 1 1
+rumba 2 3 0
+billy 5 3 1
+!beforeafter 2 l
+!beforeafter 1 n
+!beforeafter 2 j
+!beforeafter 1 k

@@ -1,0 +1,5 @@
+7 10 fourscore
+booze 4 1 1
+cheer 1 5 0
+humid 2 5 1
+miner 2 7 0

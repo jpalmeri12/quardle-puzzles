@@ -1,0 +1,5 @@
+7 9 soundscramble
+asing 3 1 1
+mashy 1 2 0
+cleun 5 4 1
+ugile 2 5 0

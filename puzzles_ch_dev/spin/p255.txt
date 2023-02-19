@@ -1,0 +1,5 @@
+6 10 spin
+diner 1 1 0
+noise 3 1 1
+slept 1 5 0
+topaz 5 5 1

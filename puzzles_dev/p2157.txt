@@ -1,0 +1,5 @@
+7 8
+hence 2 1 1
+swear 5 3 1
+screw 1 4 0
+guard 2 7 0

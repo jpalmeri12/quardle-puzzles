@@ -1,0 +1,5 @@
+7 9
+penny 4 1 1
+wreck 2 2 0
+amend 1 4 0
+mirth 2 4 1

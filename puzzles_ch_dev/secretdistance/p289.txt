@@ -1,0 +1,7 @@
+6 12 secretdistance
+scion 1 1 0
+charm 2 1 1
+small 1 5 0
+leery 4 5 1
+rabbi 1 11 0
+!sdpos 3 2 3 0

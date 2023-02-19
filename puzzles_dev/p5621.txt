@@ -1,0 +1,5 @@
+7 9
+islet 5 1 1
+slosh 2 2 0
+utile 1 4 0
+icily 3 4 1

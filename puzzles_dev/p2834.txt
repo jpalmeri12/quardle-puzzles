@@ -1,0 +1,5 @@
+7 8
+apnea 2 1 0
+eight 5 1 1
+prize 3 3 1
+worth 1 4 0

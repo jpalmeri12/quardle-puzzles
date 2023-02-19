@@ -1,0 +1,5 @@
+6 9
+armor 1 1 0
+mogul 3 1 1
+deuce 1 4 0
+elide 5 4 1

@@ -1,0 +1,5 @@
+7 10
+duchy 5 1 1
+focus 2 2 0
+kitty 1 5 0
+tulip 3 5 1

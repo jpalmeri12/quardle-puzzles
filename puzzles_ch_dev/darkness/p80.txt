@@ -1,0 +1,5 @@
+7 7 darkness
+olden 3 2 1
+avoid 1 2 0
+udder 5 1 1
+idler 2 4 0

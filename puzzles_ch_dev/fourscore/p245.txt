@@ -1,0 +1,5 @@
+7 10 fourscore
+grass 4 1 1
+psalm 2 3 0
+phase 1 5 0
+affix 3 5 1

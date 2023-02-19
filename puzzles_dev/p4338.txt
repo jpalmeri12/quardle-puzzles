@@ -1,0 +1,5 @@
+7 9
+reuse 4 1 1
+sinew 2 4 1
+sissy 2 4 0
+swill 1 8 0

@@ -1,0 +1,5 @@
+7 10
+gummy 2 1 1
+glaze 2 1 0
+cyber 1 5 0
+ripen 5 5 1

@@ -1,0 +1,5 @@
+7 10
+squad 3 1 1
+pique 1 2 0
+edict 2 5 0
+tawny 6 5 1

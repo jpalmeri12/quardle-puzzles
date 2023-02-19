@@ -1,0 +1,6 @@
+7 10 five
+drive 2 1 1
+screw 5 4 1
+erect 2 5 0
+racer 3 5 1
+uncle 1 7 0

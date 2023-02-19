@@ -1,0 +1,7 @@
+7 11 secretdistance
+mafia 1 1 1
+ready 5 4 1
+aside 1 5 0
+howdy 2 7 0
+chime 1 10 0
+!sdpos 1 1 3 1

@@ -1,0 +1,9 @@
+6 7 spellbound
+chili 2 1 1
+theme 1 2 0
+mango 4 2 1
+dingo 1 5 0
+!spellbound 0 2 0
+!spellbound 1 2 4
+!spellbound 2 4 1
+!spellbound 3 4 2

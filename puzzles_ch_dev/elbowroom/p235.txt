@@ -1,0 +1,5 @@
+7 7 elbowroom
+wimpy 1 1 0
+mango 3 1 1
+exile 6 2 1
+hotel 2 5 0

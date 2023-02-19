@@ -1,0 +1,6 @@
+7 10 island
+comet 4 1 1
+spook 1 2 0
+motto 2 5 0
+motif 2 5 1
+!island 11111 31 111 221

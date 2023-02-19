@@ -1,0 +1,6 @@
+6 8 squaredance
+state 1 1 1
+flung 5 1 1
+skiff 1 1 0
+eying 1 5 0
+kinky 1 7 0

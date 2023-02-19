@@ -1,0 +1,5 @@
+7 9 shiritori
+scald 6 1 1
+rural 2 4 0
+roomy 4 4 1
+clump 1 7 0

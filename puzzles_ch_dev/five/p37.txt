@@ -1,0 +1,6 @@
+7 10 five
+house 6 1 1
+taboo 2 2 0
+snake 2 5 0
+affix 4 5 1
+sniff 1 7 0

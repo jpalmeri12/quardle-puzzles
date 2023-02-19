@@ -1,0 +1,5 @@
+7 9 scrabble
+stage 2 1 1
+rover 2 8 0
+chore 5 4 1
+weigh 1 5 0

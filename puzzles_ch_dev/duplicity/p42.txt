@@ -1,0 +1,5 @@
+7 10 duplicity
+scare 3 1 1
+sally 2 3 0
+credo 1 5 0
+oddly 5 5 1

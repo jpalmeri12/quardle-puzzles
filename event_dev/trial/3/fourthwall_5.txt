@@ -1,0 +1,7 @@
+6 6 fourthwall
+uncut 1 1 0
+unset 1 1 1
+sower 1 3 0
+cower 3 1 1
+torso 1 5 0
+turbo 5 1 1

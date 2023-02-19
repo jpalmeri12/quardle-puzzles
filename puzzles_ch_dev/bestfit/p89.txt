@@ -1,0 +1,5 @@
+7 7 bestfit
+surge 4 1 1
+lousy 2 2 0
+lying 2 2 1
+midge 1 4 0

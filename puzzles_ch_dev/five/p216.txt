@@ -1,0 +1,6 @@
+7 10 five
+spine 1 1 1
+ashen 4 1 1
+event 1 5 0
+ethos 3 5 1
+chard 2 7 0

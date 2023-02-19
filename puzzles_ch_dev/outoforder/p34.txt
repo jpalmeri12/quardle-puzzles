@@ -1,0 +1,5 @@
+7 9 outoforder
+after 1 1 0
+fetus 2 1 1
+rifle 4 4 1
+spire 2 5 0

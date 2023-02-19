@@ -1,0 +1,9 @@
+6 10 beforeafter
+haunt 2 1 1
+fairy 1 2 0
+stool 1 5 0
+sting 1 5 1
+!beforeafter 1 l
+!beforeafter 2 p
+!beforeafter 1 p
+!beforeafter 1 q

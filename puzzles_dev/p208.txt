@@ -1,0 +1,5 @@
+7 10
+spree 2 1 1
+optic 1 2 0
+equip 2 5 0
+quite 3 5 1

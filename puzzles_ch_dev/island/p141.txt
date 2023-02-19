@@ -1,0 +1,6 @@
+7 8 island
+tribe 1 1 1
+image 1 3 0
+glide 4 3 1
+ruder 2 6 0
+!island 311 11111 2111 31

@@ -1,0 +1,5 @@
+7 9 unloved
+poppy 5 1 1
+wagon 2 2 0
+cramp 1 4 0
+retch 2 4 1

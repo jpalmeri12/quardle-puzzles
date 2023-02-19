@@ -1,0 +1,5 @@
+7 7
+brass 5 1 1
+power 1 2 0
+older 2 2 1
+dense 2 4 0

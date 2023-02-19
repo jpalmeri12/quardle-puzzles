@@ -1,0 +1,5 @@
+7 10
+saner 4 1 1
+tango 2 3 0
+chart 1 5 0
+aglow 3 5 1

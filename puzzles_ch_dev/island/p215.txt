@@ -1,0 +1,6 @@
+7 9 island
+extra 3 1 1
+pixie 1 2 0
+crush 2 4 0
+spiny 5 4 1
+!island 311 1111 2111 11111

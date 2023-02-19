@@ -1,0 +1,7 @@
+6 6 fourthwall
+unfit 1 1 0
+uncle 1 1 1
+champ 1 3 0
+flash 3 1 1
+ethic 1 5 0
+topic 5 1 1

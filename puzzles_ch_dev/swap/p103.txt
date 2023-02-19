@@ -1,0 +1,5 @@
+6 6 swap
+hsall 1 1 0
+htrum 1 1 1
+aries 3 1 1
+uqell 1 4 0

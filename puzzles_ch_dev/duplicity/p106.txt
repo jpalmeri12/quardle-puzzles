@@ -1,0 +1,5 @@
+7 10 duplicity
+terra 5 1 1
+snare 1 2 0
+sugar 2 5 0
+grunt 4 5 1

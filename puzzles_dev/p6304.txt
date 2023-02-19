@@ -1,0 +1,5 @@
+7 8
+sound 2 1 1
+pudgy 5 3 1
+dandy 2 5 0
+gayly 1 7 0

@@ -1,0 +1,5 @@
+6 8 elbowroom
+birch 1 1 0
+input 2 1 1
+skate 4 3 1
+murky 1 4 0

@@ -1,0 +1,5 @@
+6 8
+globe 1 1 1
+musty 3 3 1
+blush 1 4 0
+flyer 1 7 0

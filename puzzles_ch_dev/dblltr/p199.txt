@@ -1,0 +1,5 @@
+7 8 dblltr
+seven 3 1 1
+floss 5 3 1
+jelly 2 4 0
+lupus 1 7 0

@@ -1,0 +1,6 @@
+7 9 five
+savor 1 1 0
+octet 4 1 1
+query 2 4 0
+quack 2 4 1
+young 6 4 1

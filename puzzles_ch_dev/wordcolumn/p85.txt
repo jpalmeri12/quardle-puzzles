@@ -1,0 +1,6 @@
+7 10 wordcolumn
+teeth 2 1 1
+thong 5 2 1
+eight 2 3 0
+thorn 1 5 0
+orbit 3 5 1

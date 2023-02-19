@@ -1,0 +1,5 @@
+6 8
+pubic 1 1 0
+unfit 2 1 1
+phone 4 3 1
+stoop 1 5 0

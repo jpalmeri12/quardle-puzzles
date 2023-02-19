@@ -1,0 +1,5 @@
+7 10
+sonic 1 1 1
+clump 1 5 0
+poesy 5 5 1
+satyr 2 9 0

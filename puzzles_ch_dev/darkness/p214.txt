@@ -1,0 +1,5 @@
+7 7 darkness
+write 1 2 0
+below 5 1 1
+remit 2 2 1
+mason 2 4 0

@@ -1,0 +1,6 @@
+7 12 connectfive
+greed 6 1 1
+taste 2 4 0
+squib 4 4 1
+magic 1 7 0
+motif 1 7 1

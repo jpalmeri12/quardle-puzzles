@@ -1,0 +1,5 @@
+7 9
+cache 5 1 1
+tiara 1 2 0
+piece 3 4 1
+wiser 2 5 0

@@ -1,0 +1,5 @@
+6 9 bestfit
+reuse 4 1 1
+filer 1 2 0
+smash 1 4 0
+maple 2 4 1

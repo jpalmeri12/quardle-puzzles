@@ -1,0 +1,5 @@
+7 10
+stock 1 1 0
+oddly 3 1 1
+cyber 2 5 0
+equip 5 5 1

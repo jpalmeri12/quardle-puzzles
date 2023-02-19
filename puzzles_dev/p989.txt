@@ -1,0 +1,5 @@
+7 8
+foamy 6 1 1
+pasta 2 3 0
+annul 3 3 1
+sauce 1 6 0

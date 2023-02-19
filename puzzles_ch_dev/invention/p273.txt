@@ -1,0 +1,5 @@
+7 10 invention
+mossy 6 1 1
+soapy 2 5 0
+pushy 5 5 1
+lupus 1 7 0

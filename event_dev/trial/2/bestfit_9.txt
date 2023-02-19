@@ -1,0 +1,5 @@
+7 10 bestfit
+fugue 6 1 1
+snide 2 5 1
+swore 2 5 0
+milky 1 7 0

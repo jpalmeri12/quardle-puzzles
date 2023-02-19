@@ -1,0 +1,5 @@
+7 8 scrabble
+alone 2 3 0
+again 2 1 1
+navel 1 1 0
+oaken 4 3 1

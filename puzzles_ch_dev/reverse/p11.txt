@@ -1,0 +1,5 @@
+7 10 reverse
+treva 4 1 1
+retac 1 5 0
+teary 3 5 1
+ratio 2 7 0

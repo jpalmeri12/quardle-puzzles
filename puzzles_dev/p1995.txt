@@ -1,0 +1,5 @@
+7 10
+masse 5 1 1
+swine 1 5 0
+iliac 3 5 1
+datum 2 8 0

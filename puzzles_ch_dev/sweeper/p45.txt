@@ -1,0 +1,5 @@
+7 10 sweeper
+feign 4 1 1
+slick 2 3 0
+grind 1 5 0
+rebel 2 5 1

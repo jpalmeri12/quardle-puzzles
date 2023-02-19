@@ -1,0 +1,6 @@
+7 9 wordcolumn
+charm 6 1 1
+fiber 2 4 0
+fatal 2 4 1
+bound 4 4 1
+strut 1 6 0

@@ -1,0 +1,5 @@
+6 9 swap
+fruti 3 1 1
+sproe 1 2 0
+daapt 1 4 1
+agiel 1 5 0

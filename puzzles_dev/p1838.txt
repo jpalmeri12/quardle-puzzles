@@ -1,0 +1,5 @@
+7 10
+spite 4 1 1
+spied 2 3 0
+pixel 1 5 0
+piano 1 5 1

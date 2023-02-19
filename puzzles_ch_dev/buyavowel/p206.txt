@@ -1,0 +1,5 @@
+7 10 buyavowel
+truss 1 1 0
+steak 5 1 1
+perky 2 5 0
+envoy 3 5 1

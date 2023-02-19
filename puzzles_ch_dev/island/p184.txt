@@ -1,0 +1,6 @@
+7 8 island
+nanny 4 1 1
+bleep 2 3 1
+lunar 2 4 0
+spine 1 7 0
+!island 111 211 11111 2111

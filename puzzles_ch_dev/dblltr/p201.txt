@@ -1,0 +1,5 @@
+7 10 dblltr
+error 2 1 1
+freer 1 5 0
+embed 4 5 1
+biddy 2 9 0

@@ -1,0 +1,5 @@
+7 10
+medic 1 1 1
+crash 1 5 0
+agile 3 5 1
+flare 2 8 0

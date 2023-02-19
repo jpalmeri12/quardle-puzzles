@@ -1,0 +1,5 @@
+7 7
+dicey 2 1 1
+fiend 1 2 0
+niece 4 2 1
+elect 2 4 0

@@ -1,0 +1,5 @@
+7 9
+duchy 5 1 1
+patch 3 4 1
+ready 1 5 0
+scene 2 7 0

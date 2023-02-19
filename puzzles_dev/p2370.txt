@@ -1,0 +1,5 @@
+7 10
+fairy 6 1 1
+leery 2 5 0
+repel 5 5 1
+equip 1 7 0

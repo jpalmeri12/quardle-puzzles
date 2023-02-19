@@ -1,0 +1,5 @@
+7 10
+chair 5 1 1
+bleat 2 3 0
+mover 1 5 0
+mouth 1 5 1

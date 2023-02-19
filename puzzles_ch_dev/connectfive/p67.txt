@@ -1,0 +1,6 @@
+7 10 connectfive
+bleed 2 1 1
+easel 4 3 1
+decal 1 4 0
+creed 6 5 1
+false 2 7 0

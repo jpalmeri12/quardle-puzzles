@@ -1,0 +1,5 @@
+6 7 bestfit
+fight 2 1 1
+mimic 1 2 0
+inert 4 2 1
+story 1 5 0

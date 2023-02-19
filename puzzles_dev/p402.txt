@@ -1,0 +1,5 @@
+7 10
+vague 1 1 0
+usage 4 1 1
+cheap 2 5 0
+hefty 3 5 1

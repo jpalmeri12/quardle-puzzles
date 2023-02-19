@@ -1,0 +1,6 @@
+6 9 drop
+ovoid 3 1 1
+liver 1 2 0
+learn 1 2 1
+arise 1 4 0
+groan 1 8 0

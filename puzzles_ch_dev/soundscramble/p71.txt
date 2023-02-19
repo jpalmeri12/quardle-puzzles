@@ -1,0 +1,5 @@
+7 8 soundscramble
+dinga 3 1 1
+ponic 1 3 0
+chino 5 3 1
+lagin 2 5 0

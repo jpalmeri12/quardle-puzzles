@@ -1,0 +1,5 @@
+6 9 bestfit
+clink 1 1 0
+needy 4 1 1
+randy 1 4 0
+aware 2 4 1

@@ -1,0 +1,9 @@
+7 8 spellbound
+after 6 1 1
+truss 3 3 1
+trite 2 4 0
+sassy 1 6 0
+!spellbound 0 0 2
+!spellbound 1 4 0
+!spellbound 2 0 3
+!spellbound 3 0 1

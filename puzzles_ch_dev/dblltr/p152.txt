@@ -1,0 +1,5 @@
+7 8 dblltr
+wedge 1 1 1
+etude 3 3 1
+elude 1 5 0
+geeky 2 7 0

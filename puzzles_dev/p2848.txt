@@ -1,0 +1,5 @@
+7 8
+paler 3 1 1
+wafer 5 3 1
+relay 2 4 0
+waver 1 7 0

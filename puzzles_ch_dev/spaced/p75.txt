@@ -1,0 +1,5 @@
+7 7 spaced
+vinyl 6 1 1
+slung 2 2 1
+unify 2 4 0
+agent 1 6 0

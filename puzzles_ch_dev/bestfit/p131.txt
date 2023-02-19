@@ -1,0 +1,5 @@
+7 10 bestfit
+crass 3 1 1
+issue 1 5 0
+still 2 5 1
+input 2 7 0

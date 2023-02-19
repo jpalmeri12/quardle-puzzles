@@ -1,0 +1,5 @@
+7 10 bestfit
+dogma 4 1 1
+agate 2 5 0
+giant 3 5 1
+graph 1 7 0

@@ -1,0 +1,6 @@
+6 10 connectfive
+medal 4 1 1
+rehab 2 2 1
+seedy 1 3 0
+eagle 1 5 0
+elfin 5 5 1

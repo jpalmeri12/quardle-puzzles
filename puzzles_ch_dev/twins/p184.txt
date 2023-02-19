@@ -1,0 +1,8 @@
+6 8 twins
+squib 1 1 0
+alert 1 3 0
+grave 1 5 0
+glint 1 7 0
+!twins 0 4
+!twins 0 1
+!twins 2 3

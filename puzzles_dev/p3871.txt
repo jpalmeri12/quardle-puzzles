@@ -1,0 +1,5 @@
+7 10
+brake 1 1 0
+error 5 1 1
+churn 2 5 0
+naval 6 5 1

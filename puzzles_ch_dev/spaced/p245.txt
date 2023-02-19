@@ -1,0 +1,5 @@
+7 7 spaced
+sandy 5 1 1
+gruel 3 2 1
+grind 2 3 0
+piety 1 5 0

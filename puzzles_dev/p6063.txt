@@ -1,0 +1,5 @@
+7 8
+grief 1 1 0
+rusty 2 1 1
+scrum 2 3 0
+utter 5 3 1

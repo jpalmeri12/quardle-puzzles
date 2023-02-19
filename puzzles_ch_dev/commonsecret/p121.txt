@@ -1,0 +1,6 @@
+7 8 commonsecret
+swami 5 1 1
+heath 2 3 1
+affix 2 5 0
+thank 1 7 0
+!secret a

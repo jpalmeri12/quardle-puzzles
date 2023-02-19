@@ -1,0 +1,7 @@
+7 12 secretdistance
+relic 1 1 1
+crept 1 5 0
+pasta 4 5 1
+pushy 2 7 0
+pedal 1 11 0
+!sdpos 2 2 2 2

@@ -1,0 +1,9 @@
+6 7 beforeafter
+stood 5 1 1
+caput 1 2 0
+preen 3 2 1
+trend 1 5 0
+!beforeafter 1 r
+!beforeafter 1 i
+!beforeafter 1 o
+!beforeafter 1 p

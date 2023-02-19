@@ -1,0 +1,5 @@
+7 9 beta
+coach 1 1 1
+cobra 1 4 0
+ardor 5 4 1
+scary 2 8 0

@@ -1,0 +1,5 @@
+7 8 desync
+scold 6 1 1
+flunk 4 3 1
+pound 2 5 0
+awoke 1 7 0

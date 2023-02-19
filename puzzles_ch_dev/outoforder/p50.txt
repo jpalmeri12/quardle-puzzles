@@ -1,0 +1,5 @@
+7 8 outoforder
+grasp 1 1 0
+avoid 3 1 1
+brand 6 3 1
+rider 2 4 0

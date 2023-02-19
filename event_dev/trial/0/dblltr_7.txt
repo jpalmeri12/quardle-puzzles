@@ -1,0 +1,5 @@
+6 10 dblltr
+gorge 1 1 0
+rerun 3 1 1
+fanny 1 5 0
+nanny 4 5 1

@@ -1,0 +1,5 @@
+7 9 skyscrapers
+khaki 5 1 1
+login 2 5 0
+mound 3 4 1
+chick 1 1 0

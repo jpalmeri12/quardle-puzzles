@@ -1,0 +1,5 @@
+6 9
+sport 1 1 1
+spree 1 1 0
+ruler 1 4 0
+lefty 3 4 1

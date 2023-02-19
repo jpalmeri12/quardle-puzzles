@@ -1,0 +1,5 @@
+7 9 soundscramble
+guida 5 1 1
+focus 2 2 0
+hoerd 1 4 0
+egepa 3 4 1

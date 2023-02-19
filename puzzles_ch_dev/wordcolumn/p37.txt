@@ -1,0 +1,6 @@
+7 8 wordcolumn
+freer 5 1 1
+cutie 1 3 0
+token 3 3 1
+skirt 2 5 0
+tonic 1 7 0

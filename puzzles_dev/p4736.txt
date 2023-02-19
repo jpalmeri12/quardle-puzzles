@@ -1,0 +1,5 @@
+7 10
+smack 5 1 1
+stick 1 5 0
+circa 4 5 1
+terra 2 7 0

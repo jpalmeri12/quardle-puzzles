@@ -1,0 +1,5 @@
+7 10
+civic 1 1 0
+cynic 5 1 1
+stock 2 5 0
+theft 3 5 1

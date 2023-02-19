@@ -1,0 +1,5 @@
+7 8 fourscore
+quirk 4 1 1
+peril 1 3 0
+elder 2 3 1
+rural 2 7 0

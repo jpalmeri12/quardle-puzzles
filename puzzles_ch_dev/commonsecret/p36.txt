@@ -1,0 +1,6 @@
+6 10 commonsecret
+genie 4 1 1
+thief 1 2 0
+flier 1 5 0
+rider 5 5 1
+!secret i

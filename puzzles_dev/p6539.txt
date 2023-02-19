@@ -1,0 +1,5 @@
+7 8
+broom 2 1 1
+blare 2 1 0
+mover 1 3 0
+rumba 5 3 1

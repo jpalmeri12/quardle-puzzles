@@ -1,0 +1,5 @@
+7 8
+eight 5 1 1
+ridge 2 3 0
+rupee 2 3 1
+split 1 5 0

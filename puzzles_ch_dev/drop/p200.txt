@@ -1,0 +1,6 @@
+6 11 drop
+cello 2 1 1
+ideal 5 4 1
+bound 1 5 0
+mamma 1 7 0
+moult 1 10 0

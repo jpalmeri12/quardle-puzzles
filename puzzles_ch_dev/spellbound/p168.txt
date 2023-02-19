@@ -1,0 +1,9 @@
+7 9 spellbound
+flash 4 1 1
+willy 2 2 0
+house 1 4 0
+onset 2 4 1
+!spellbound 0 4 2
+!spellbound 1 4 1
+!spellbound 2 4 2
+!spellbound 3 3 2

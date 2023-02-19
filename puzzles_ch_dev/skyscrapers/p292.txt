@@ -1,0 +1,5 @@
+7 10 skyscrapers
+udder 4 1 1
+error 2 5 0
+roast 3 5 1
+flour 1 1 0

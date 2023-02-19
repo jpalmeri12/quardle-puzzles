@@ -1,0 +1,5 @@
+7 9
+ghost 2 1 1
+humor 2 2 0
+papal 4 4 1
+straw 1 5 0

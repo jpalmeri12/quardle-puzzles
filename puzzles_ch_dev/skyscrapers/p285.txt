@@ -1,0 +1,5 @@
+7 9 skyscrapers
+visor 5 4 1
+toxic 2 5 0
+graft 2 1 1
+agent 1 1 0

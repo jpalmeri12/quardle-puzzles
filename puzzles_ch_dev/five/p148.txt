@@ -1,0 +1,6 @@
+6 10 five
+lipid 4 1 1
+magic 1 2 0
+amply 2 2 1
+blade 1 5 0
+ether 5 5 1

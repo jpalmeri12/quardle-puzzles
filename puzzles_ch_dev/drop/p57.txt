@@ -1,0 +1,6 @@
+7 10 drop
+afire 1 1 0
+float 2 1 1
+harem 6 3 1
+tiger 2 5 0
+omega 1 9 0

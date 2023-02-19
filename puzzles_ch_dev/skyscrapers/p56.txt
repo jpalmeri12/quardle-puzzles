@@ -1,0 +1,5 @@
+7 10 skyscrapers
+robin 4 1 1
+dunce 2 5 0
+decal 2 5 1
+cloth 1 9 0

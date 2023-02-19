@@ -1,0 +1,5 @@
+7 10
+dying 4 1 1
+pygmy 2 5 0
+young 3 5 1
+tenet 1 8 0

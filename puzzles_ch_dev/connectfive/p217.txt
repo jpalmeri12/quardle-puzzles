@@ -1,0 +1,6 @@
+7 12 connectfive
+apnea 1 1 1
+witch 3 4 1
+alibi 1 5 0
+study 6 7 1
+theft 2 8 0

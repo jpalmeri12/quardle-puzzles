@@ -1,0 +1,6 @@
+7 10 five
+dingo 2 1 1
+polyp 5 2 1
+goody 1 5 0
+octet 3 5 1
+decay 2 8 0

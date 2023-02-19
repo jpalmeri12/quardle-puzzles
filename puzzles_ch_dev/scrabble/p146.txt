@@ -1,0 +1,5 @@
+6 9 scrabble
+ingot 3 4 1
+udder 1 1 1
+dogma 1 2 0
+evict 1 4 0

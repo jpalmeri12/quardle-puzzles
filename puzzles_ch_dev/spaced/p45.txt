@@ -1,0 +1,5 @@
+7 9 spaced
+plain 6 1 1
+other 2 4 1
+taken 2 5 0
+below 1 7 0

@@ -1,0 +1,5 @@
+7 10 skyscrapers
+those 1 5 0
+shrug 4 5 1
+harpy 2 7 0
+copse 5 1 1

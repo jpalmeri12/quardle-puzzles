@@ -1,0 +1,5 @@
+7 10
+geeky 4 1 1
+payer 2 5 0
+aloof 3 5 1
+crock 1 8 0

@@ -1,0 +1,5 @@
+7 9 dblltr
+rajah 1 1 1
+await 1 4 0
+alley 3 4 1
+allot 2 6 0

@@ -1,0 +1,5 @@
+7 10
+bulge 4 1 1
+false 2 3 0
+bezel 1 5 0
+lumpy 5 5 1

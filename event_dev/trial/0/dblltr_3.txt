@@ -1,0 +1,5 @@
+7 9 dblltr
+naval 1 1 1
+awake 1 4 0
+expel 5 4 1
+loopy 2 6 0

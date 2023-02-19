@@ -1,0 +1,5 @@
+7 8 scrabble
+greed 2 6 0
+voter 1 4 0
+drove 1 1 1
+creek 5 3 1

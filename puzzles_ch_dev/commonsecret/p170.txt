@@ -1,0 +1,6 @@
+6 7 commonsecret
+macro 1 1 1
+agora 1 2 0
+adopt 5 2 1
+ratio 1 4 0
+!secret o

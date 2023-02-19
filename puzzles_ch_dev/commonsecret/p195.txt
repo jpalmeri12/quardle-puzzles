@@ -1,0 +1,6 @@
+6 9 commonsecret
+lapse 5 1 1
+scuba 1 2 0
+scrum 1 4 1
+curse 1 5 0
+!secret s

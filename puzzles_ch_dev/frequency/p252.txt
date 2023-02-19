@@ -1,0 +1,5 @@
+6 10 frequency
+order 3 1 1
+scrap 1 5 0
+caulk 2 5 1
+lunge 1 7 0

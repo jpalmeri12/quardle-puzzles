@@ -1,0 +1,6 @@
+6 7 island
+gauze 3 1 1
+story 1 2 1
+small 1 2 0
+reedy 1 5 0
+!island 2111 311 211 31

@@ -1,0 +1,9 @@
+7 10 spellbound
+vodka 2 1 1
+dusty 2 3 0
+harry 1 5 0
+reuse 3 5 1
+!spellbound 0 1 0
+!spellbound 1 4 3
+!spellbound 2 4 0
+!spellbound 3 1 4

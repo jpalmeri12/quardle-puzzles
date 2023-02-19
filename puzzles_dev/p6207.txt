@@ -1,0 +1,5 @@
+7 9
+above 6 1 1
+light 4 4 1
+utile 2 5 0
+ratty 1 8 0

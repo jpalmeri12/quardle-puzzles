@@ -1,0 +1,6 @@
+7 9 connectfive
+dowdy 2 1 1
+arson 6 3 1
+diver 2 4 0
+vital 4 4 1
+truly 1 8 0

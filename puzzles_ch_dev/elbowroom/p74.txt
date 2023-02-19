@@ -1,0 +1,5 @@
+7 9 elbowroom
+manga 4 1 1
+ovary 2 2 0
+fungi 1 4 0
+until 2 4 1

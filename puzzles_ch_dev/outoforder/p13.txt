@@ -1,0 +1,5 @@
+6 10 outoforder
+fewer 2 1 1
+twixt 1 3 0
+grape 1 5 0
+grunt 1 5 1

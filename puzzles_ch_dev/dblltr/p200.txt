@@ -1,0 +1,5 @@
+6 9 dblltr
+dross 2 1 1
+ester 1 4 0
+elope 4 4 1
+kappa 1 7 0

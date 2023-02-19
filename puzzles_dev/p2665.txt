@@ -1,0 +1,5 @@
+6 7
+recur 3 1 1
+fully 1 2 1
+fresh 1 2 0
+louse 1 4 0

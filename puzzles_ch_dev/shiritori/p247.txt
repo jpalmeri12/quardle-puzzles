@@ -1,0 +1,5 @@
+7 9 shiritori
+graft 4 1 1
+furry 1 2 0
+lefty 2 4 0
+youth 6 4 1

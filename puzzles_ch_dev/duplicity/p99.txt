@@ -1,0 +1,5 @@
+7 8 duplicity
+giant 4 1 1
+again 2 3 0
+among 2 3 1
+motto 1 5 0

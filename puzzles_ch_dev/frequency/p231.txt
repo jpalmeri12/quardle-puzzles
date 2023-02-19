@@ -1,0 +1,5 @@
+7 10 frequency
+enema 3 1 1
+cameo 2 5 0
+moody 4 5 1
+vinyl 1 9 0

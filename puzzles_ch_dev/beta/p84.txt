@@ -1,0 +1,5 @@
+7 8 beta
+noise 1 1 0
+spout 4 1 1
+skirt 6 3 1
+cluck 2 4 0

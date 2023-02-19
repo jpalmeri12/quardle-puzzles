@@ -1,0 +1,5 @@
+7 10
+world 4 1 1
+dairy 1 3 0
+radio 2 5 0
+rupee 2 5 1

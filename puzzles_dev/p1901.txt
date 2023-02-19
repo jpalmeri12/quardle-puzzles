@@ -1,0 +1,5 @@
+7 10
+bugle 6 1 1
+rupee 2 5 0
+puffy 4 5 1
+beefy 1 8 0

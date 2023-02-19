@@ -1,0 +1,6 @@
+6 6 island
+inert 3 1 1
+deter 5 1 1
+venue 1 2 0
+verge 1 4 0
+!island 311 4 1111 22

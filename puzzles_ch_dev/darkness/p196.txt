@@ -1,0 +1,5 @@
+6 8 darkness
+wight 2 1 1
+skier 5 3 1
+shark 1 4 0
+corer 1 7 0

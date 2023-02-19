@@ -1,0 +1,5 @@
+7 9 buyavowel
+about 2 1 1
+utter 2 4 0
+tally 4 4 1
+knelt 1 7 0

@@ -1,0 +1,5 @@
+7 10 swap
+nocth 3 1 1
+accti 2 3 0
+sohok 1 5 0
+kenad 5 5 1

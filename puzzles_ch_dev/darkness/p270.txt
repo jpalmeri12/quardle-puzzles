@@ -1,0 +1,5 @@
+7 10 darkness
+avert 5 1 1
+drift 2 9 0
+valid 2 5 1
+evict 1 5 0

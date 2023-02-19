@@ -1,0 +1,5 @@
+6 9 buyavowel
+touch 1 1 1
+caper 1 4 0
+plant 3 4 1
+notch 1 8 0

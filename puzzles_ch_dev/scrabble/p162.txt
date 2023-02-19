@@ -1,0 +1,5 @@
+7 10 scrabble
+snide 3 1 1
+enema 4 5 1
+knead 2 7 0
+wheel 1 5 0

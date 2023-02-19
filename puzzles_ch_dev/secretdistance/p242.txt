@@ -1,0 +1,7 @@
+6 10 secretdistance
+basil 1 1 1
+being 1 1 0
+filth 5 3 1
+local 1 5 0
+incur 1 9 0
+!sdpos 1 2 0 3

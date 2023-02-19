@@ -1,0 +1,5 @@
+7 9 scrabble
+enema 2 5 0
+lithe 2 1 1
+witty 1 2 0
+cabby 6 4 1

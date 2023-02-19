@@ -1,0 +1,6 @@
+7 11 undercover
+friar 2 1 1
+robin 2 2 0
+valve 1 4 0
+endow 5 4 1
+shuck 1 10 0

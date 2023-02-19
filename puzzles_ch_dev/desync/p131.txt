@@ -1,0 +1,5 @@
+7 10 desync
+swami 3 1 1
+patsy 2 3 0
+pried 1 5 0
+death 5 5 1

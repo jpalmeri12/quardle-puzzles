@@ -1,0 +1,5 @@
+6 9 darkness
+lanky 1 4 0
+aglow 2 4 1
+flake 4 1 1
+sweep 1 8 0

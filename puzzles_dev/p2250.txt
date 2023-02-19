@@ -1,0 +1,5 @@
+7 10
+grant 3 1 1
+state 2 5 0
+tweet 5 5 1
+prose 1 8 0

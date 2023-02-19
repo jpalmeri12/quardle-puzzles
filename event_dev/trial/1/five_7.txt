@@ -1,0 +1,6 @@
+6 12 five
+chili 4 1 1
+visit 1 5 0
+strap 3 5 1
+peril 1 7 0
+pasta 1 7 1

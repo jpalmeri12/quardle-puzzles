@@ -1,0 +1,5 @@
+7 10 dblltr
+stall 2 1 1
+llama 1 5 0
+minim 4 5 1
+funny 2 7 0

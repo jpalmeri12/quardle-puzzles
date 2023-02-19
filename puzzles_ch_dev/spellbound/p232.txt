@@ -1,0 +1,9 @@
+7 9 spellbound
+singe 1 1 1
+gleam 1 4 0
+mushy 5 4 1
+lasso 2 6 0
+!spellbound 0 2 0
+!spellbound 1 2 1
+!spellbound 2 1 3
+!spellbound 3 0 1

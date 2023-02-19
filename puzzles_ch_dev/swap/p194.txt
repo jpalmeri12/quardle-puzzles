@@ -1,0 +1,5 @@
+7 9 swap
+sliym 1 1 1
+ysrup 1 4 0
+upepr 4 4 1
+sepll 2 7 0

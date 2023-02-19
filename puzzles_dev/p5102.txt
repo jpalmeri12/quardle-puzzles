@@ -1,0 +1,5 @@
+6 9
+molar 3 1 1
+arose 1 2 0
+graph 1 4 0
+husky 5 4 1

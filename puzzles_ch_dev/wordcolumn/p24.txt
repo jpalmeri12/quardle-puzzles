@@ -1,0 +1,6 @@
+7 10 wordcolumn
+leapt 1 1 0
+totem 5 1 1
+valet 3 3 1
+flume 2 5 0
+eying 6 5 1

@@ -1,0 +1,5 @@
+7 8
+delve 5 1 1
+dolly 2 3 0
+ought 3 3 1
+botch 1 7 0

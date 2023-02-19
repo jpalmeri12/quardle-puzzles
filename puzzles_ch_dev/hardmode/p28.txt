@@ -1,0 +1,5 @@
+7 10 hardmode
+bayou 4 1 1
+royal 2 3 0
+locus 1 5 0
+cider 3 5 1

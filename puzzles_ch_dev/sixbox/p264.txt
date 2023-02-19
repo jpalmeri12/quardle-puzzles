@@ -1,0 +1,7 @@
+8 8 sixbox
+leafy 3 1 1
+nasal 5 1 1
+amass 1 3 0
+slave 4 3 1
+flank 3 4 0
+loyal 1 5 0

@@ -1,0 +1,5 @@
+7 9
+peace 2 1 1
+exile 2 2 0
+crude 4 4 1
+heard 1 5 0

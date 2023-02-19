@@ -1,0 +1,5 @@
+7 7 shiritori
+kiosk 3 1 1
+missy 2 2 0
+showy 5 2 1
+askew 1 5 0

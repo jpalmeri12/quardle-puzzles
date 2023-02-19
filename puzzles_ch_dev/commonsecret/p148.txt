@@ -1,0 +1,6 @@
+7 10 commonsecret
+ovate 5 1 1
+viola 1 3 0
+poker 2 5 0
+knoll 4 5 1
+!secret o

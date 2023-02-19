@@ -1,0 +1,5 @@
+7 10 reverse
+exact 5 1 1
+loath 2 5 0
+oolgi 3 5 1
+thgim 1 8 0

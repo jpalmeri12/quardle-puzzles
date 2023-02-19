@@ -1,0 +1,5 @@
+7 8 spaced
+lapse 1 1 0
+panic 3 1 1
+inlay 2 3 0
+avert 5 3 1

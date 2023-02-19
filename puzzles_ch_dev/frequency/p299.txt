@@ -1,0 +1,5 @@
+7 9 frequency
+ratio 4 1 1
+onion 2 4 1
+union 1 5 0
+ovoid 2 7 0

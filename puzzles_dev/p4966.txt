@@ -1,0 +1,5 @@
+7 9
+fiend 4 1 1
+twixt 2 2 0
+lying 1 4 0
+leech 1 4 1

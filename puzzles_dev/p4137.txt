@@ -1,0 +1,5 @@
+7 10
+jewel 6 1 1
+nasal 2 5 0
+needy 2 5 1
+cynic 1 9 0

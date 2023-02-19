@@ -1,0 +1,5 @@
+6 10 assembly
+diver 1 3 1
+truck 5 3 1
+deter 1 1 0
+excel 1 9 0

@@ -1,0 +1,5 @@
+7 9
+cadet 1 1 1
+seedy 4 4 1
+tamer 1 5 0
+under 2 7 0

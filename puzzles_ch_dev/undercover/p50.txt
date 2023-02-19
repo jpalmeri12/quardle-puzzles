@@ -1,0 +1,6 @@
+7 11 undercover
+voila 4 1 1
+smock 2 2 0
+aptly 1 4 0
+abide 1 4 1
+gruff 1 10 0

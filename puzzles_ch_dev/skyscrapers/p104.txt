@@ -1,0 +1,5 @@
+7 9 skyscrapers
+total 1 2 0
+mason 4 1 1
+diode 2 4 0
+delay 2 4 1

@@ -1,0 +1,5 @@
+6 7
+donut 4 1 1
+vigor 1 2 0
+icily 2 2 1
+pique 1 4 0

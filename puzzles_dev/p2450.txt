@@ -1,0 +1,5 @@
+7 9
+bland 2 1 1
+naive 2 4 0
+irate 4 4 1
+fever 1 8 0

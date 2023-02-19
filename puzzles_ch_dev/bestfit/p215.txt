@@ -1,0 +1,5 @@
+7 10 bestfit
+syrup 1 1 0
+polka 5 1 1
+salad 2 5 0
+state 2 5 1

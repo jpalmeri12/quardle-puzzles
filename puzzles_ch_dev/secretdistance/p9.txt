@@ -1,0 +1,7 @@
+7 9 secretdistance
+silly 1 1 1
+idyll 5 2 1
+lorry 1 4 0
+agile 2 6 0
+daddy 1 8 0
+!sdpos 1 1 2 2

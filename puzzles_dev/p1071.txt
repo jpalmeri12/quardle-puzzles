@@ -1,0 +1,5 @@
+7 10
+wheel 2 1 0
+email 4 1 1
+curly 1 5 0
+ramen 3 5 1

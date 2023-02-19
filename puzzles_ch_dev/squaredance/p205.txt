@@ -1,0 +1,6 @@
+6 8 squaredance
+start 1 1 1
+reach 5 1 1
+sewer 1 1 0
+touch 1 5 0
+broom 1 7 0

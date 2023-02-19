@@ -1,0 +1,5 @@
+7 10 reverse
+cried 2 1 0
+eking 5 1 1
+yeoog 1 5 0
+otohp 3 5 1

@@ -1,0 +1,5 @@
+7 10
+brake 2 1 1
+aping 2 3 0
+regal 1 5 0
+leggy 5 5 1

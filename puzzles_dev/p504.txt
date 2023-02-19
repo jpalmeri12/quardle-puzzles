@@ -1,0 +1,5 @@
+7 8
+three 2 1 1
+truce 2 1 0
+frock 1 3 0
+known 5 3 1

@@ -1,0 +1,5 @@
+7 7
+reign 2 1 1
+zesty 1 2 0
+young 5 2 1
+nanny 2 5 0

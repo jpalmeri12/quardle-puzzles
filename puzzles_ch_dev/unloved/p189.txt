@@ -1,0 +1,5 @@
+7 7 unloved
+drill 4 1 1
+aback 2 2 1
+brief 2 3 0
+scold 1 5 0

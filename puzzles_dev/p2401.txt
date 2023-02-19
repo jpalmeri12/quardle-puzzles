@@ -1,0 +1,5 @@
+7 10
+drama 4 1 1
+shall 2 5 0
+hovel 3 5 1
+liver 1 7 0

@@ -1,0 +1,5 @@
+7 10
+couch 1 1 0
+unfed 3 1 1
+adept 2 5 0
+titan 6 5 1

@@ -1,0 +1,5 @@
+7 10
+break 2 1 0
+rural 3 1 1
+drain 1 5 1
+delve 1 5 0

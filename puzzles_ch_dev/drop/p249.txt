@@ -1,0 +1,6 @@
+7 11 drop
+comma 3 1 1
+doing 2 2 0
+edict 5 4 1
+brand 1 5 0
+mover 1 10 0

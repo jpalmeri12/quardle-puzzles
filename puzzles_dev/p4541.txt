@@ -1,0 +1,5 @@
+7 8
+repay 2 1 1
+piety 2 3 0
+equip 4 3 1
+syrup 1 5 0

@@ -1,0 +1,5 @@
+7 7
+cheap 3 1 1
+chess 2 2 0
+smite 5 2 1
+swami 1 4 0

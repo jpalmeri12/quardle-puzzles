@@ -1,0 +1,7 @@
+8 8 sixbox
+whisk 3 1 1
+aider 5 1 1
+build 1 3 0
+liege 4 3 1
+siege 3 4 0
+maker 1 5 0

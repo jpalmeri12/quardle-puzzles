@@ -1,0 +1,6 @@
+7 12 wordcolumn
+idler 5 1 1
+ample 1 4 0
+paler 3 4 1
+venue 2 7 0
+unite 5 7 1

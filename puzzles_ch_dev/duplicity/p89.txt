@@ -1,0 +1,5 @@
+7 9 duplicity
+cache 5 1 1
+catch 1 4 0
+actor 2 4 1
+other 2 7 0

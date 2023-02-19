@@ -1,0 +1,5 @@
+7 9
+guard 5 1 1
+rebut 2 2 0
+chirp 1 4 1
+hound 1 5 0

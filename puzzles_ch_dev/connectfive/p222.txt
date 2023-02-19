@@ -1,0 +1,6 @@
+6 12 connectfive
+setup 1 1 1
+pixel 1 5 0
+lowly 5 5 1
+duvet 3 7 1
+equal 1 8 0

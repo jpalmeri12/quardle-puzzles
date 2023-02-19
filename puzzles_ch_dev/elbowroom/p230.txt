@@ -1,0 +1,5 @@
+7 10 elbowroom
+focus 1 1 1
+stout 1 5 0
+tally 5 5 1
+filly 2 8 0

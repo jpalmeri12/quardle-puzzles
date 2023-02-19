@@ -1,0 +1,5 @@
+7 7 outoforder
+assay 1 1 1
+stout 1 2 0
+tidal 5 2 1
+scalp 2 6 0

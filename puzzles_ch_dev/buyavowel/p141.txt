@@ -1,0 +1,5 @@
+7 9 buyavowel
+gecko 5 1 1
+steel 2 2 0
+stuck 3 4 1
+motto 1 5 0

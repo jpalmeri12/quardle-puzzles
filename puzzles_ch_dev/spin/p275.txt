@@ -1,0 +1,5 @@
+7 9 spin
+cyber 3 1 1
+buyer 1 2 0
+peril 2 4 0
+imbue 5 4 1

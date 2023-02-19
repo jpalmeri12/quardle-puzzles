@@ -1,0 +1,5 @@
+7 10
+bitty 2 1 0
+trade 4 1 1
+woven 1 5 0
+offer 2 5 1

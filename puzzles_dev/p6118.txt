@@ -1,0 +1,5 @@
+7 9
+dream 6 1 1
+pasta 2 4 0
+poppy 2 4 1
+spree 1 6 0

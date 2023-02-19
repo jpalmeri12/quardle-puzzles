@@ -1,0 +1,5 @@
+7 10
+debar 6 1 1
+queer 2 5 0
+elite 4 5 1
+filth 1 8 0

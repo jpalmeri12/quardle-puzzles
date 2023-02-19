@@ -1,0 +1,5 @@
+6 10 frequency
+occur 2 1 1
+arbor 1 5 0
+belle 3 5 1
+fleet 1 9 0

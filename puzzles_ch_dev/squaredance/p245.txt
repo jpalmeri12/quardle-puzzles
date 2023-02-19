@@ -1,0 +1,6 @@
+6 8 squaredance
+slate 1 1 1
+taunt 5 1 1
+shaft 1 1 0
+exult 1 5 0
+alike 1 7 0

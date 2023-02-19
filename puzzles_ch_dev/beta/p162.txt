@@ -1,0 +1,5 @@
+7 10 beta
+spoon 4 1 1
+ingot 1 3 0
+gonad 2 5 0
+ovine 3 5 1

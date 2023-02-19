@@ -1,0 +1,5 @@
+7 10 shiritori
+hyena 4 1 1
+scare 2 5 0
+crump 3 5 1
+coupe 1 7 0

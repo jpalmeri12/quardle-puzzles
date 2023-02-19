@@ -1,0 +1,5 @@
+7 8 unloved
+audio 2 1 0
+irony 5 1 1
+yeast 3 3 1
+shady 1 5 0

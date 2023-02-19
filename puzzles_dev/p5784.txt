@@ -1,0 +1,5 @@
+7 8
+tonga 1 1 0
+greed 4 1 1
+rocky 2 3 1
+cedar 2 5 0

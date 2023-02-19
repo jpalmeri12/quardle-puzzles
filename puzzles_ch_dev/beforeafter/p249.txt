@@ -1,0 +1,9 @@
+6 7 beforeafter
+midst 2 1 1
+kitty 1 2 0
+tread 4 2 1
+steam 1 5 0
+!beforeafter 2 q
+!beforeafter 1 m
+!beforeafter 1 m
+!beforeafter 1 p

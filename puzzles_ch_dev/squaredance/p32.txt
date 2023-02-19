@@ -1,0 +1,6 @@
+6 8 squaredance
+shape 1 1 1
+noose 5 1 1
+swoon 1 1 0
+elate 1 5 0
+lipid 1 7 0

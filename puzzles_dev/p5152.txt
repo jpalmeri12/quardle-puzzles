@@ -1,0 +1,5 @@
+7 10
+jumpy 1 1 0
+pesto 4 1 1
+diode 2 5 0
+drink 5 5 1

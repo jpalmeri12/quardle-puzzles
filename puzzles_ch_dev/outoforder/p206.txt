@@ -1,0 +1,5 @@
+6 10 outoforder
+treat 3 1 1
+jetty 1 5 0
+evade 2 5 1
+karma 1 7 0

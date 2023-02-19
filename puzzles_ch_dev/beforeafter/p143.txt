@@ -1,0 +1,9 @@
+6 8 beforeafter
+palsy 5 1 1
+slide 2 3 1
+floss 1 4 0
+lefty 1 7 0
+!beforeafter 2 q
+!beforeafter 1 j
+!beforeafter 1 n
+!beforeafter 2 q

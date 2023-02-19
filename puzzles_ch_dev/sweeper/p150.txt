@@ -1,0 +1,5 @@
+7 9 sweeper
+lymph 2 1 0
+polyp 5 1 1
+giddy 1 4 0
+infer 2 4 1

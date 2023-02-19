@@ -1,0 +1,5 @@
+6 8 clockdown
+agent 1 1 0
+giddy 2 1 1
+artsy 5 3 1
+idler 1 4 0

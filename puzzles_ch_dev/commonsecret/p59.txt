@@ -1,0 +1,6 @@
+7 10 commonsecret
+buxom 4 1 1
+jumpy 2 5 0
+juicy 2 5 1
+scour 1 8 0
+!secret u

@@ -1,0 +1,5 @@
+7 10
+crash 4 1 1
+wight 1 5 0
+grate 3 5 1
+baste 2 7 0

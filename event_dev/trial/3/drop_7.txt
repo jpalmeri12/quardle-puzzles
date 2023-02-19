@@ -1,0 +1,6 @@
+6 12 drop
+swami 3 1 1
+afire 1 5 0
+flume 2 5 1
+curly 1 7 0
+amity 1 11 0

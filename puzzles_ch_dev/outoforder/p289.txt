@@ -1,0 +1,5 @@
+7 10 outoforder
+armor 5 1 1
+ardor 1 2 0
+avert 2 5 0
+timid 6 5 1

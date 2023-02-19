@@ -1,0 +1,5 @@
+6 9
+ruder 1 1 0
+drool 3 1 1
+fjord 1 4 0
+fetid 1 4 1

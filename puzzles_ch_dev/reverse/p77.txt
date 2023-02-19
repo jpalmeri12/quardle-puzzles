@@ -1,0 +1,5 @@
+7 10 reverse
+sutef 4 1 1
+gaffe 1 5 0
+fuzzy 3 5 1
+azalp 2 7 0

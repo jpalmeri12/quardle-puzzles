@@ -1,0 +1,5 @@
+7 10
+world 1 1 1
+delve 1 5 0
+edify 5 5 1
+shaft 2 8 0

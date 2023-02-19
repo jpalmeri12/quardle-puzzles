@@ -1,0 +1,5 @@
+7 10
+stove 4 1 1
+fetid 2 2 0
+viper 1 5 0
+venom 1 5 1

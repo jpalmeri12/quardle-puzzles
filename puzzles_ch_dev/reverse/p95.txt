@@ -1,0 +1,5 @@
+7 10 reverse
+elleb 5 1 1
+probe 2 5 0
+poppy 2 5 1
+lyniv 1 9 0

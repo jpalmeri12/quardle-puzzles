@@ -1,0 +1,5 @@
+7 10 darkness
+palsy 4 5 1
+guppy 2 5 0
+satyr 1 9 0
+cramp 5 1 1

@@ -1,0 +1,5 @@
+7 10
+glade 4 1 1
+holly 2 2 0
+angel 1 5 0
+louse 5 5 1

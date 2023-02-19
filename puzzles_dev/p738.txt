@@ -1,0 +1,5 @@
+7 10
+voter 4 1 1
+dross 2 2 0
+fairy 1 5 0
+imply 3 5 1

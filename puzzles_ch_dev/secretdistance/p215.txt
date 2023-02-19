@@ -1,0 +1,7 @@
+6 12 secretdistance
+curve 2 1 1
+irate 1 3 0
+fetid 1 5 0
+icily 4 5 1
+wheat 1 11 0
+!sdpos 2 2 1 2

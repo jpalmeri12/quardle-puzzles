@@ -1,0 +1,5 @@
+6 10 assembly
+baste 1 3 1
+knoll 5 3 1
+nanny 1 1 0
+belly 1 9 0

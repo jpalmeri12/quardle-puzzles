@@ -1,0 +1,5 @@
+7 8 darkness
+ivory 1 1 1
+rumor 1 4 0
+croup 5 3 1
+grope 2 7 0

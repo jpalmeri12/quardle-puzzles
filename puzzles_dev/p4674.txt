@@ -1,0 +1,5 @@
+6 7
+unwed 3 1 1
+madam 1 2 1
+manic 1 2 0
+dream 1 4 0

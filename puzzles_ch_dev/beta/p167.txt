@@ -1,0 +1,5 @@
+7 10 beta
+sedan 2 1 0
+afoul 5 1 1
+gruel 1 5 0
+resin 2 5 1

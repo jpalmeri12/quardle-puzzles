@@ -1,0 +1,5 @@
+7 9 invention
+chill 5 1 1
+sushi 2 2 0
+psalm 1 4 1
+scowl 1 5 0

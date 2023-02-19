@@ -1,0 +1,5 @@
+7 8
+abort 1 1 1
+daily 3 3 1
+tying 1 5 0
+hymen 2 7 0

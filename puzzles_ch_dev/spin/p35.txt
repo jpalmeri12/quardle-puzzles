@@ -1,0 +1,5 @@
+7 10 spin
+pearl 5 1 1
+anvil 1 5 0
+infer 4 5 1
+perky 2 9 0

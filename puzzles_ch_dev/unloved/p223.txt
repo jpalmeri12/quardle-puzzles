@@ -1,0 +1,5 @@
+7 9 unloved
+amass 2 1 1
+handy 5 4 1
+strap 2 5 0
+spend 1 7 0

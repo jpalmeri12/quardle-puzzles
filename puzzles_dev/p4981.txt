@@ -1,0 +1,5 @@
+7 9
+crest 2 1 1
+curse 2 1 0
+ascot 1 4 0
+toxin 5 4 1

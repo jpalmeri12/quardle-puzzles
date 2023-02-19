@@ -1,0 +1,6 @@
+6 7 island
+spire 1 1 1
+plush 1 2 0
+snowy 4 2 1
+razor 1 4 0
+!island 311 221 2111 211

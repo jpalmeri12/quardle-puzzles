@@ -1,0 +1,5 @@
+7 9
+reach 2 1 1
+cavil 2 4 0
+ingot 5 4 1
+tract 1 8 0

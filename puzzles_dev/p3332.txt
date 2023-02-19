@@ -1,0 +1,5 @@
+7 7
+charm 4 1 1
+alpha 1 2 0
+lodge 2 2 1
+dirty 2 4 0

@@ -1,0 +1,5 @@
+7 9 shiritori
+sepia 4 1 1
+egret 2 4 1
+guava 2 5 0
+stamp 1 8 0

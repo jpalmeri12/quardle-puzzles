@@ -1,0 +1,5 @@
+7 10 soundscramble
+barne 5 1 1
+vigar 2 2 0
+blode 1 5 0
+omend 3 5 1

@@ -1,0 +1,6 @@
+7 8 wordcolumn
+jazzy 4 1 1
+fecal 1 2 0
+mound 6 3 1
+bayou 2 5 0
+kneed 2 7 0

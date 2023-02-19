@@ -1,0 +1,5 @@
+7 8 darkness
+adult 4 3 1
+tweed 2 1 1
+later 2 7 0
+needy 1 4 0

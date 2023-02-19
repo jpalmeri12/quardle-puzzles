@@ -1,0 +1,5 @@
+6 6
+filer 2 1 1
+flute 5 1 1
+civil 1 2 0
+tribe 1 5 0

@@ -1,0 +1,6 @@
+6 11 drop
+bribe 2 1 1
+breed 1 2 0
+ebony 1 4 0
+yeast 5 4 1
+beefy 1 10 0

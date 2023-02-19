@@ -1,0 +1,6 @@
+7 10 five
+crush 6 1 1
+sonar 4 4 1
+cloth 2 5 0
+crime 2 5 1
+viral 1 7 0

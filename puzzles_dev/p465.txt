@@ -1,0 +1,5 @@
+7 10
+whisk 2 1 1
+wince 1 3 0
+kayak 2 5 0
+knelt 6 5 1

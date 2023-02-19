@@ -1,0 +1,5 @@
+7 8
+junta 1 1 0
+those 4 1 1
+spook 2 3 0
+knelt 6 3 1

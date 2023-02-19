@@ -1,0 +1,5 @@
+7 9
+plush 6 1 1
+thong 3 4 1
+shush 2 5 0
+begat 1 8 0

@@ -1,0 +1,5 @@
+6 8
+quoth 1 1 1
+quasi 1 1 0
+oxide 1 3 0
+extol 5 3 1

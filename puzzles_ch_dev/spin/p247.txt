@@ -1,0 +1,5 @@
+7 10 spin
+labor 1 1 1
+rivet 1 5 0
+incur 2 5 1
+rusty 2 9 0

@@ -1,0 +1,5 @@
+6 8 elbowroom
+spank 1 1 0
+prank 2 1 1
+afoul 4 3 1
+snuff 1 4 0

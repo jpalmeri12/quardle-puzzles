@@ -1,0 +1,5 @@
+7 8 spin
+twine 1 1 1
+fraud 3 3 1
+nerdy 1 4 0
+burly 2 6 0

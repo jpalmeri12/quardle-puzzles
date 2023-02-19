@@ -1,0 +1,5 @@
+7 8
+blame 5 1 1
+shirk 2 3 1
+shoal 2 3 0
+pique 1 5 0

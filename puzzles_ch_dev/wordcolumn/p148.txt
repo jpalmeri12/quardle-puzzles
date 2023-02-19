@@ -1,0 +1,6 @@
+7 10 wordcolumn
+pinto 2 1 1
+nasal 5 1 1
+noise 2 3 0
+focal 1 5 0
+amaze 4 5 1

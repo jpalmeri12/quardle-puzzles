@@ -1,0 +1,5 @@
+6 10
+adorn 3 1 1
+model 1 2 0
+boney 1 5 0
+onion 2 5 1

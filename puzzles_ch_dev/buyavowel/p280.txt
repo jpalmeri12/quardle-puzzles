@@ -1,0 +1,5 @@
+7 10 buyavowel
+gnome 5 1 1
+piano 2 2 0
+cache 1 5 0
+cloud 1 5 1

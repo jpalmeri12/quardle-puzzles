@@ -1,0 +1,5 @@
+7 9 dblltr
+issue 5 1 1
+swish 2 2 0
+crack 3 4 1
+verse 1 5 0

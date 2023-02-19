@@ -1,0 +1,5 @@
+7 7
+brand 5 1 1
+decor 1 2 0
+cough 3 2 1
+bunny 2 4 0

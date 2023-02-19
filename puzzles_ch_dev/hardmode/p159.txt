@@ -1,0 +1,5 @@
+7 10 hardmode
+panic 2 1 1
+aloud 2 2 0
+scorn 1 5 0
+ovine 3 5 1

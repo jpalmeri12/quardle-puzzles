@@ -1,0 +1,5 @@
+7 7
+older 5 1 1
+viola 2 2 0
+image 3 2 1
+sugar 1 5 0

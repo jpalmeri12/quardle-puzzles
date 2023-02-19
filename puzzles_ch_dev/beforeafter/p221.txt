@@ -1,0 +1,9 @@
+6 6 beforeafter
+stain 1 1 0
+sushi 1 1 1
+idiom 4 1 1
+snail 1 3 0
+!beforeafter 1 r
+!beforeafter 2 k
+!beforeafter 2 l
+!beforeafter 1 m

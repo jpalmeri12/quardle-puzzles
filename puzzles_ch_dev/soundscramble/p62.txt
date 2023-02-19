@@ -1,0 +1,5 @@
+7 9 soundscramble
+buddy 1 1 0
+detum 4 1 1
+aname 6 4 1
+luman 2 5 0

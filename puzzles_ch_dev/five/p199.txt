@@ -1,0 +1,6 @@
+7 12 five
+favor 3 1 1
+shrew 1 5 0
+hardy 2 5 1
+algae 5 7 1
+dealt 2 8 0

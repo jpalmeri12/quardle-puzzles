@@ -1,0 +1,5 @@
+6 9 frequency
+essay 1 1 0
+stray 2 1 1
+saint 1 4 0
+night 4 4 1

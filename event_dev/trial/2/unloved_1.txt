@@ -1,0 +1,5 @@
+7 10 unloved
+tread 4 1 1
+scarf 1 2 0
+judge 2 5 0
+joust 2 5 1

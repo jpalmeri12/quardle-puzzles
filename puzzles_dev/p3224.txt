@@ -1,0 +1,5 @@
+7 7
+sleep 2 1 1
+diver 4 2 1
+eking 2 3 0
+spree 1 5 0

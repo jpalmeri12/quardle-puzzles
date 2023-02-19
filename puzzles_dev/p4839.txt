@@ -1,0 +1,5 @@
+7 9
+sweet 2 1 1
+decay 1 3 0
+aloft 6 4 1
+tubal 2 5 0

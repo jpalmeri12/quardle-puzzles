@@ -1,0 +1,5 @@
+7 9
+arose 2 1 0
+sigma 5 1 1
+rouge 3 4 1
+aroma 1 5 0

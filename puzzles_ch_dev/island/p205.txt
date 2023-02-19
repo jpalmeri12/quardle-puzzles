@@ -1,0 +1,6 @@
+7 10 island
+sleek 1 1 0
+ether 3 1 1
+briny 2 5 0
+inlay 4 5 1
+!island 22 31 2111 11111

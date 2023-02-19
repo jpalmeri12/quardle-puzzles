@@ -1,0 +1,5 @@
+7 9
+scald 4 1 1
+pulpy 2 4 0
+punch 2 4 1
+shove 1 8 0

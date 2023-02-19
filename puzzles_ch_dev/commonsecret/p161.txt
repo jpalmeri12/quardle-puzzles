@@ -1,0 +1,6 @@
+6 9 commonsecret
+verso 3 1 1
+eclat 1 4 1
+close 1 5 0
+acute 1 7 0
+!secret e

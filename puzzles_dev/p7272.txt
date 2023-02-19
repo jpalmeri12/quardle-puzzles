@@ -1,0 +1,5 @@
+7 10
+dance 5 1 1
+melee 2 5 0
+easel 3 5 1
+polar 1 9 0

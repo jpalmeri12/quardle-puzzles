@@ -1,0 +1,5 @@
+6 9 frequency
+vomit 1 1 0
+icing 4 1 1
+clown 2 4 1
+elegy 1 5 0

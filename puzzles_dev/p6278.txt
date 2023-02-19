@@ -1,0 +1,5 @@
+7 8
+loyal 6 1 1
+kebab 2 3 1
+extra 2 4 0
+saner 1 6 0

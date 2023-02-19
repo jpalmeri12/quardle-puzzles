@@ -1,0 +1,6 @@
+6 9 undercover
+humid 2 1 1
+pubic 1 2 0
+copse 5 2 1
+bicep 1 4 0
+frank 1 8 0

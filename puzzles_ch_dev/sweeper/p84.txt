@@ -1,0 +1,5 @@
+7 9 sweeper
+bliss 2 1 0
+share 5 1 1
+parer 1 4 0
+acrid 2 4 1

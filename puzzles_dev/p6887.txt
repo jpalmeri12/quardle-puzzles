@@ -1,0 +1,5 @@
+7 8
+chump 5 1 1
+gamut 2 3 0
+axiom 3 3 1
+blimp 1 5 0

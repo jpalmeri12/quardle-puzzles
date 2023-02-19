@@ -1,0 +1,5 @@
+7 9 duplicity
+rotor 2 1 0
+truss 4 1 1
+octet 1 4 1
+curse 1 5 0

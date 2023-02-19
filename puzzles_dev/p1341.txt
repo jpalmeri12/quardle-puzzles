@@ -1,0 +1,5 @@
+6 9
+ester 3 1 1
+amuse 1 4 1
+march 1 5 0
+shaky 1 7 0

@@ -1,0 +1,5 @@
+7 9
+feral 2 1 1
+allow 2 4 0
+outgo 5 4 1
+pesto 1 8 0

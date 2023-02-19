@@ -1,0 +1,5 @@
+7 8 dblltr
+ahead 5 1 1
+verge 2 3 1
+fella 1 4 0
+elate 2 7 0

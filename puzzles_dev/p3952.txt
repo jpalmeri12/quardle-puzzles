@@ -1,0 +1,5 @@
+7 10
+peril 5 1 1
+nicer 1 3 0
+manly 2 5 0
+allay 3 5 1

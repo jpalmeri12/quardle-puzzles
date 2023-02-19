@@ -1,0 +1,9 @@
+6 10 beforeafter
+glass 1 1 0
+swing 4 1 1
+purge 1 5 0
+pried 1 5 1
+!beforeafter 2 o
+!beforeafter 1 p
+!beforeafter 2 n
+!beforeafter 1 j

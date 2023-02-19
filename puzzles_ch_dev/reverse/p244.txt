@@ -1,0 +1,5 @@
+7 10 reverse
+yfoog 1 1 1
+goner 1 5 0
+ecraf 4 5 1
+agree 2 7 0

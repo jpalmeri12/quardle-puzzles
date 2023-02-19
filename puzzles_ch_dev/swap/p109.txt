@@ -1,0 +1,5 @@
+7 10 swap
+spary 2 1 1
+ygpsy 2 5 0
+smlie 5 5 1
+garze 1 9 0

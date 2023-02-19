@@ -1,0 +1,5 @@
+6 8 swap
+vgiil 1 1 1
+vinly 1 1 0
+agmer 4 3 1
+lfume 1 5 0

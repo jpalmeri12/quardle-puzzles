@@ -1,0 +1,5 @@
+7 10
+lingo 3 1 1
+daily 1 2 0
+boule 2 5 0
+early 6 5 1

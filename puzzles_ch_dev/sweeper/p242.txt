@@ -1,0 +1,5 @@
+7 8 sweeper
+dandy 2 1 0
+anvil 3 1 1
+kayak 5 3 1
+bully 1 5 0

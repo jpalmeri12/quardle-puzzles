@@ -1,0 +1,5 @@
+7 8
+fancy 2 1 0
+amber 3 1 1
+swamp 5 3 1
+karma 1 5 0

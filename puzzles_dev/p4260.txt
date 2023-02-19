@@ -1,0 +1,5 @@
+7 7
+crash 5 1 1
+sport 2 2 0
+parse 3 2 1
+torus 1 4 0

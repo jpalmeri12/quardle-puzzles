@@ -1,0 +1,5 @@
+7 9 unloved
+gassy 1 1 1
+skulk 1 4 0
+under 3 4 1
+truck 2 8 0

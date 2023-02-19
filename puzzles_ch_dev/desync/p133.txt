@@ -1,0 +1,5 @@
+6 9 desync
+quite 5 1 1
+smoke 1 4 1
+shift 1 4 0
+koala 1 7 0

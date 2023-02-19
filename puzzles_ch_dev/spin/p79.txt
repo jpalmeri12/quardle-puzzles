@@ -1,0 +1,5 @@
+7 9 spin
+flora 2 1 1
+pride 4 4 1
+array 2 5 0
+unset 1 8 0

@@ -1,0 +1,5 @@
+7 9 soundscramble
+baafy 5 1 1
+aetar 2 2 0
+whiff 1 4 0
+wetar 1 4 1

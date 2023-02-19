@@ -1,0 +1,6 @@
+7 10 connectfive
+pecan 5 1 1
+cadet 2 2 0
+clang 2 5 0
+arena 4 5 1
+debar 1 9 0

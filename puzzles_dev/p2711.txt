@@ -1,0 +1,5 @@
+7 8
+sedan 2 1 0
+demon 4 1 1
+color 2 3 1
+rotor 1 4 0

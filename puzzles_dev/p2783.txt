@@ -1,0 +1,5 @@
+7 10
+conic 5 1 1
+scorn 1 3 0
+stock 2 5 0
+older 4 5 1

@@ -1,0 +1,5 @@
+6 8 buyavowel
+bluff 1 1 1
+super 3 3 1
+fauna 1 4 0
+verse 1 7 0

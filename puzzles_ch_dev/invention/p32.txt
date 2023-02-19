@@ -1,0 +1,5 @@
+7 9 invention
+flash 5 1 1
+tally 3 4 1
+peach 1 5 0
+flank 2 7 0

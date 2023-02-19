@@ -1,0 +1,5 @@
+7 9
+jelly 5 1 1
+power 2 2 0
+merry 3 4 1
+query 1 5 0

@@ -1,0 +1,6 @@
+6 10 connectfive
+natal 5 1 1
+worst 1 3 0
+assay 1 5 1
+anvil 1 5 0
+sauna 1 7 0

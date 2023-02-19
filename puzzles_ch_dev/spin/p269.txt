@@ -1,0 +1,5 @@
+7 7 spin
+witty 2 1 1
+arise 4 2 1
+torso 2 3 0
+gypsy 1 5 0

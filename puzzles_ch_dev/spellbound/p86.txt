@@ -1,0 +1,9 @@
+7 9 spellbound
+depth 5 1 1
+eager 2 2 0
+craft 1 4 0
+rider 2 4 1
+!spellbound 0 0 2
+!spellbound 1 2 1
+!spellbound 2 0 3
+!spellbound 3 3 2

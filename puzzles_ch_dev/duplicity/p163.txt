@@ -1,0 +1,5 @@
+7 10 duplicity
+river 6 1 1
+upper 2 5 0
+proud 3 5 1
+ovoid 1 7 0

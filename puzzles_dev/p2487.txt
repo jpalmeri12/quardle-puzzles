@@ -1,0 +1,5 @@
+7 10
+idiot 4 1 1
+motto 1 5 0
+offer 5 5 1
+guard 2 9 0

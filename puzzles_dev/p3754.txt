@@ -1,0 +1,5 @@
+7 9
+haute 5 1 1
+drama 1 2 0
+pluck 2 4 1
+lapel 2 5 0

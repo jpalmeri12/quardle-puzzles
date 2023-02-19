@@ -1,0 +1,6 @@
+6 10 commonsecret
+price 5 1 1
+lapse 1 5 0
+paste 3 5 1
+swept 1 9 0
+!secret p

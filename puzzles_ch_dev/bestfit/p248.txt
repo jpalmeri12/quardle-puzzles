@@ -1,0 +1,5 @@
+7 9 bestfit
+dream 4 1 1
+regal 2 4 1
+roach 2 4 0
+match 1 7 0

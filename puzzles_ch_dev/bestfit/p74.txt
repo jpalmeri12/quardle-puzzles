@@ -1,0 +1,5 @@
+7 9 bestfit
+dumpy 2 1 1
+plead 2 4 0
+aptly 5 4 1
+hotly 1 8 0

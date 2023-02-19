@@ -1,0 +1,5 @@
+7 7 spin
+month 2 1 1
+court 1 2 0
+ready 4 2 1
+tract 2 4 0

@@ -1,0 +1,5 @@
+7 9 scrabble
+preen 2 1 0
+afoot 1 4 0
+endow 4 1 1
+flick 2 4 1

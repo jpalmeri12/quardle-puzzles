@@ -1,0 +1,5 @@
+7 9 fourscore
+droll 5 1 1
+joker 1 2 0
+welch 2 4 1
+exile 2 5 0

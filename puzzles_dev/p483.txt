@@ -1,0 +1,5 @@
+7 10
+loath 3 1 1
+nasal 2 3 0
+ashen 1 5 0
+ennui 4 5 1

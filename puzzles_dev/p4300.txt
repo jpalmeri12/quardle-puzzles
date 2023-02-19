@@ -1,0 +1,5 @@
+7 9
+plank 4 1 1
+paint 1 4 0
+alibi 2 4 1
+beget 2 7 0

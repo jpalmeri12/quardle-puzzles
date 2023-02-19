@@ -1,0 +1,5 @@
+7 9
+chick 5 1 1
+right 2 2 0
+meant 3 4 1
+clerk 1 5 0

@@ -1,0 +1,5 @@
+7 8
+soggy 2 1 1
+grave 2 3 0
+vocal 5 3 1
+cynic 1 5 0

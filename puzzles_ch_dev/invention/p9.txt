@@ -1,0 +1,5 @@
+7 9 invention
+shorn 5 1 1
+tight 2 2 0
+baler 1 4 0
+awake 2 4 1

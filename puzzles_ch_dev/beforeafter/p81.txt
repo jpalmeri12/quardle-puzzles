@@ -1,0 +1,9 @@
+7 10 beforeafter
+novel 4 1 1
+swill 1 5 0
+lunch 5 5 1
+pouch 2 8 0
+!beforeafter 2 m
+!beforeafter 1 o
+!beforeafter 2 i
+!beforeafter 2 k

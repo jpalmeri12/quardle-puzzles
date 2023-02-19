@@ -1,0 +1,6 @@
+7 10 wordcolumn
+aloof 1 1 0
+fungi 5 1 1
+timid 2 5 0
+munch 4 5 1
+phony 1 7 0

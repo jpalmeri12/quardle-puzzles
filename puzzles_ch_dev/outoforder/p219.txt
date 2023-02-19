@@ -1,0 +1,5 @@
+7 9 outoforder
+crown 5 1 1
+scald 2 4 1
+showy 2 4 0
+blink 1 7 0

@@ -1,0 +1,5 @@
+7 10 buyavowel
+troll 5 1 1
+swoon 2 3 0
+excel 1 5 0
+eying 4 5 1

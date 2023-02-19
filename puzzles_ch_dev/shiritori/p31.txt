@@ -1,0 +1,5 @@
+6 9 shiritori
+trend 4 1 1
+briny 1 4 0
+blame 1 4 1
+eater 1 8 0

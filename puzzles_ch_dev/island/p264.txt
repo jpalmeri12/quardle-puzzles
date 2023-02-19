@@ -1,0 +1,6 @@
+6 9 island
+fatty 5 1 1
+wreak 3 4 1
+early 1 5 0
+poker 1 8 0
+!island 31 41 2111 32

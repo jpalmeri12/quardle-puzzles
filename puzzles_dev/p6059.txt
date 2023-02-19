@@ -1,0 +1,5 @@
+7 9
+hence 1 1 0
+edict 5 1 1
+prick 2 4 0
+robot 3 4 1

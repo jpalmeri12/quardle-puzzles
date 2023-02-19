@@ -1,0 +1,5 @@
+6 9 bestfit
+pecan 3 1 1
+cliff 5 4 1
+zonal 1 5 0
+sniff 1 8 0

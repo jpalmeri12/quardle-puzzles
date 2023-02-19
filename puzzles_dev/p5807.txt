@@ -1,0 +1,5 @@
+7 9
+loose 2 1 1
+vowel 1 2 0
+scald 2 4 0
+defer 6 4 1

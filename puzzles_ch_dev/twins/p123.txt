@@ -1,0 +1,8 @@
+6 8 twins
+piggy 1 1 0
+dealt 1 3 0
+baker 1 5 0
+allot 1 7 0
+!twins 3 4
+!twins 0 4
+!twins 0 2

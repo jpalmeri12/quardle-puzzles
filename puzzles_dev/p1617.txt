@@ -1,0 +1,5 @@
+7 7
+smart 4 1 1
+limit 2 2 0
+learn 2 2 1
+fairy 1 4 0

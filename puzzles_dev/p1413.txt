@@ -1,0 +1,5 @@
+6 10
+stone 3 1 1
+botch 1 2 0
+freak 1 5 0
+flank 1 5 1

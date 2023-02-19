@@ -1,0 +1,5 @@
+6 10
+spunk 1 1 1
+putty 1 2 0
+kappa 1 5 0
+annul 5 5 1

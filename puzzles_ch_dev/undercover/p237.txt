@@ -1,0 +1,6 @@
+6 8 undercover
+eject 1 1 1
+jaunt 5 1 1
+junta 1 2 0
+tarot 1 5 0
+silly 1 7 0

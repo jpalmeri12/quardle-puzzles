@@ -1,0 +1,5 @@
+7 8 dblltr
+known 5 1 1
+stood 2 3 1
+colon 1 5 0
+drool 2 7 0

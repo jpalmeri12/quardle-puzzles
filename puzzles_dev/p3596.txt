@@ -1,0 +1,5 @@
+7 9
+verse 5 1 1
+token 2 2 0
+crass 1 4 0
+rarer 2 4 1

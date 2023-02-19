@@ -1,0 +1,6 @@
+7 10 wordcolumn
+other 1 1 1
+handy 1 3 0
+nudge 3 3 1
+bossy 5 5 1
+sense 2 7 0

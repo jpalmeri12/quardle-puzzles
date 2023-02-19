@@ -1,0 +1,5 @@
+7 9 shiritori
+blond 1 1 1
+foyer 3 4 1
+dross 1 5 0
+arena 2 8 0

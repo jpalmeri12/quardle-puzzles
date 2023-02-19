@@ -1,0 +1,5 @@
+7 8
+piece 1 1 1
+blood 4 3 1
+cable 1 4 0
+whose 2 6 0

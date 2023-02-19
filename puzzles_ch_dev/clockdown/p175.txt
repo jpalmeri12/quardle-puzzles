@@ -1,0 +1,5 @@
+7 9 clockdown
+tipsy 1 1 1
+slang 1 4 0
+gaffe 5 4 1
+puffy 2 6 0

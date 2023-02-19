@@ -1,0 +1,6 @@
+6 8 squaredance
+altar 1 1 1
+whose 5 1 1
+aglow 1 1 0
+rouge 1 5 0
+shell 1 7 0

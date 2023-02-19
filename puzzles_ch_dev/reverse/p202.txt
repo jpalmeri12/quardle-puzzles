@@ -1,0 +1,5 @@
+7 7 reverse
+ethos 1 1 1
+ssehc 4 2 1
+otsep 1 4 0
+mucky 2 6 0

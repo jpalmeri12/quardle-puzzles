@@ -1,0 +1,5 @@
+7 9
+scout 1 1 1
+until 1 4 0
+talon 3 4 1
+toddy 2 7 0

@@ -1,0 +1,6 @@
+6 12 drop
+paint 5 1 1
+fella 1 2 0
+moist 1 5 0
+start 4 5 1
+radio 1 11 0

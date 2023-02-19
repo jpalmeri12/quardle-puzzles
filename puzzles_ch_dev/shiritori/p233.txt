@@ -1,0 +1,5 @@
+7 8 shiritori
+tango 1 1 0
+glide 4 1 1
+exile 2 3 0
+exact 6 3 1

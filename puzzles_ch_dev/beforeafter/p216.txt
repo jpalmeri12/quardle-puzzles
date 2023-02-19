@@ -1,0 +1,9 @@
+7 9 beforeafter
+swami 1 1 0
+idyll 5 1 1
+utile 2 4 1
+tulle 2 5 0
+!beforeafter 1 r
+!beforeafter 1 j
+!beforeafter 1 n
+!beforeafter 1 r

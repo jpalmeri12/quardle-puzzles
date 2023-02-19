@@ -1,0 +1,5 @@
+7 10
+swamp 2 1 1
+prick 2 5 0
+inlet 4 5 1
+rally 1 7 0

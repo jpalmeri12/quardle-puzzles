@@ -1,0 +1,5 @@
+7 10 unloved
+baler 2 1 1
+lorry 2 3 0
+creep 1 5 1
+cramp 1 5 0

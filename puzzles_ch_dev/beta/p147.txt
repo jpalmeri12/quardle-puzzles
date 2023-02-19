@@ -1,0 +1,5 @@
+7 8 beta
+apnea 2 1 0
+polyp 3 1 1
+derby 5 3 1
+thyme 1 4 0

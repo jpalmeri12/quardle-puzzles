@@ -1,0 +1,5 @@
+7 9
+safer 6 1 1
+awoke 3 4 1
+owner 2 5 0
+ankle 1 7 0

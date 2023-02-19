@@ -1,0 +1,5 @@
+7 9
+sword 3 1 1
+great 2 4 0
+adept 5 4 1
+unfit 1 8 0

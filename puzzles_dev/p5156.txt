@@ -1,0 +1,5 @@
+6 10
+chock 3 1 1
+usher 1 2 0
+woken 1 5 0
+ozone 2 5 1

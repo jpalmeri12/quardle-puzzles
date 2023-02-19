@@ -1,0 +1,5 @@
+7 10 desync
+ladle 3 1 1
+obese 1 5 0
+bezel 2 5 1
+ester 2 8 0

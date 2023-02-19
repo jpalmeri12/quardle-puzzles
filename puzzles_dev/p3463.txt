@@ -1,0 +1,5 @@
+7 10
+hefty 2 1 0
+flock 4 1 1
+wacky 1 5 0
+cameo 3 5 1

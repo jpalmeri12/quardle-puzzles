@@ -1,0 +1,6 @@
+7 9 five
+drier 1 1 0
+dwelt 1 1 1
+leper 1 4 0
+epoch 4 4 1
+ethos 2 8 0

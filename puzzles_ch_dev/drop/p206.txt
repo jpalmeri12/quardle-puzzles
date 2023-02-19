@@ -1,0 +1,6 @@
+7 10 drop
+choke 3 1 1
+their 5 3 1
+beset 2 5 0
+poker 1 7 0
+shirt 1 9 0

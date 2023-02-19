@@ -1,0 +1,6 @@
+6 12 five
+clasp 5 1 1
+chess 1 4 0
+extol 3 4 1
+chase 5 7 1
+belch 1 8 0

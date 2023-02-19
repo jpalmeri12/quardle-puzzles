@@ -1,0 +1,5 @@
+7 8 darkness
+edify 2 1 1
+snoop 4 3 1
+sappy 1 7 0
+fungi 2 4 0

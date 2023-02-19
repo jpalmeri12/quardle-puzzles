@@ -1,0 +1,5 @@
+7 9
+larva 2 1 1
+crony 5 4 1
+azure 2 5 0
+groan 1 7 0

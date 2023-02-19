@@ -1,0 +1,5 @@
+7 10
+total 2 1 1
+train 2 3 0
+glory 1 5 0
+gaily 1 5 1

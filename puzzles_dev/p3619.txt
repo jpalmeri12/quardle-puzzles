@@ -1,0 +1,5 @@
+7 8
+scant 2 1 0
+clash 3 1 1
+swath 1 3 0
+stomp 1 3 1

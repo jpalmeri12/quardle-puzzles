@@ -1,0 +1,5 @@
+7 9 invention
+apple 1 1 0
+pivot 2 1 1
+begin 6 4 1
+terse 2 5 0

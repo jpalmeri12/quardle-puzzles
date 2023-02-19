@@ -1,0 +1,5 @@
+6 8 swap
+tmaer 1 1 0
+rvier 5 1 1
+alrge 2 3 1
+orwer 1 5 0

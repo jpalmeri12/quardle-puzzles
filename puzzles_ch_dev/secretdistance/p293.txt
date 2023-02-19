@@ -1,0 +1,7 @@
+7 10 secretdistance
+shoal 3 1 1
+crock 5 3 1
+parry 2 4 0
+flank 1 7 0
+hurry 1 9 0
+!sdpos 1 1 2 2

@@ -1,0 +1,6 @@
+7 12 drop
+macho 3 1 1
+scoop 1 5 0
+prank 5 5 1
+foray 2 7 0
+spoon 1 11 0

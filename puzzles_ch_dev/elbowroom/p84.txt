@@ -1,0 +1,5 @@
+6 10 elbowroom
+smack 1 1 0
+cacti 4 1 1
+anvil 1 5 0
+naive 2 5 1

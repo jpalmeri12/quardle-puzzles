@@ -1,0 +1,6 @@
+7 9 island
+baler 5 1 1
+saner 3 4 1
+stair 1 5 0
+feast 2 7 0
+!island 2111 41 221 32

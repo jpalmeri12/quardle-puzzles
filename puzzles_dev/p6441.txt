@@ -1,0 +1,5 @@
+7 10
+cavil 3 1 1
+alley 2 5 0
+etude 5 5 1
+bland 1 8 0

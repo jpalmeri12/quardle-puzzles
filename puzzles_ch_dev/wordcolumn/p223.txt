@@ -1,0 +1,6 @@
+7 10 wordcolumn
+spine 3 1 1
+sauna 5 4 1
+sedan 2 5 0
+spiny 2 5 1
+risen 1 7 0

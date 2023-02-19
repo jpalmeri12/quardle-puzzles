@@ -1,0 +1,6 @@
+7 10 connectfive
+deter 1 1 1
+braid 4 3 1
+extra 1 4 0
+cedar 6 5 1
+agile 2 6 0

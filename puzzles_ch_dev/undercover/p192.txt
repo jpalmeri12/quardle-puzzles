@@ -1,0 +1,6 @@
+6 8 undercover
+paper 3 1 1
+skier 5 1 1
+flack 1 2 0
+piece 1 4 0
+mound 1 7 0

@@ -1,0 +1,5 @@
+7 9 reverse
+lepmi 2 1 0
+moixa 5 1 1
+detox 1 4 0
+taper 3 4 1

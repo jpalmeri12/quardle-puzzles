@@ -1,0 +1,5 @@
+7 7 bestfit
+usurp 2 1 1
+slimy 2 2 0
+mamma 5 2 1
+broom 1 4 0

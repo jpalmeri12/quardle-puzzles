@@ -1,0 +1,5 @@
+6 9 elbowroom
+roost 3 1 1
+bosom 1 4 0
+mimic 5 4 1
+panic 1 8 0

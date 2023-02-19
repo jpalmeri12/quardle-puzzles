@@ -1,0 +1,5 @@
+7 8 shiritori
+ultra 3 1 1
+stark 2 3 0
+rhino 5 3 1
+quasi 1 5 0

@@ -1,0 +1,7 @@
+7 11 secretdistance
+sport 1 1 0
+photo 2 1 1
+tripe 2 4 0
+event 6 4 1
+clove 1 10 0
+!sdpos 0 1 1 0

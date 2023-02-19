@@ -1,0 +1,5 @@
+7 10
+sheer 2 1 1
+hoist 2 2 0
+trash 1 5 0
+sprig 4 5 1

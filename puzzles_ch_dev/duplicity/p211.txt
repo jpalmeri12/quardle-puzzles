@@ -1,0 +1,5 @@
+7 9 duplicity
+incur 3 1 1
+cynic 1 2 0
+lurid 2 4 0
+idyll 5 4 1

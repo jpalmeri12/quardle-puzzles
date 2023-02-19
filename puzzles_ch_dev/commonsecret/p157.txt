@@ -1,0 +1,6 @@
+7 9 commonsecret
+cacti 6 1 1
+cleat 2 4 1
+crust 2 4 0
+retro 1 6 0
+!secret t

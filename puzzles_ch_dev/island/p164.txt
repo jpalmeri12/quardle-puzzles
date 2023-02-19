@@ -1,0 +1,6 @@
+7 9 island
+suing 5 1 1
+basin 1 4 0
+snake 3 4 1
+repel 2 8 0
+!island 2111 221 311 22

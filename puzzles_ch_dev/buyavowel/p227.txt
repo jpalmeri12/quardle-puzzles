@@ -1,0 +1,5 @@
+6 7 buyavowel
+trove 2 1 1
+stone 5 2 1
+mount 1 3 0
+yearn 1 5 0

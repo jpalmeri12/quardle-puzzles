@@ -1,0 +1,5 @@
+7 9 soundscramble
+toper 5 1 1
+azane 3 4 1
+ozure 2 5 0
+punch 1 7 0

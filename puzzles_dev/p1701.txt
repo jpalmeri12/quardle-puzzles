@@ -1,0 +1,5 @@
+6 8
+tense 1 1 1
+about 4 3 1
+scuba 1 4 0
+petty 1 7 0

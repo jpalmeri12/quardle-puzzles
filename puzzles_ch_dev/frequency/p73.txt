@@ -1,0 +1,5 @@
+6 10 frequency
+quick 1 1 0
+craze 4 1 1
+cover 1 5 0
+vapor 3 5 1

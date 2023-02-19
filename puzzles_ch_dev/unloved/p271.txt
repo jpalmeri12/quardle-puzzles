@@ -1,0 +1,5 @@
+7 9 unloved
+beret 5 1 1
+cubic 3 4 1
+musty 2 5 0
+blind 1 7 0

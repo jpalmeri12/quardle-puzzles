@@ -1,0 +1,5 @@
+7 9 hardmode
+class 6 1 1
+icing 2 4 1
+cross 2 5 0
+snide 1 7 0

@@ -1,0 +1,5 @@
+6 8
+begat 1 1 0
+abbot 4 1 1
+pence 2 3 1
+melon 1 4 0

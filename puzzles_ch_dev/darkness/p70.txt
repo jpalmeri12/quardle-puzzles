@@ -1,0 +1,5 @@
+7 9 darkness
+incur 2 2 0
+lucid 1 4 0
+usurp 2 4 1
+guide 5 1 1

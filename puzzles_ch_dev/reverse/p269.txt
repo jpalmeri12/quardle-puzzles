@@ -1,0 +1,5 @@
+6 6 reverse
+humid 1 1 0
+uoyab 2 1 1
+ibbar 4 1 1
+abort 1 5 0

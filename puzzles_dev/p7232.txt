@@ -1,0 +1,5 @@
+7 10
+awoke 4 1 1
+pixel 1 5 0
+layer 5 5 1
+hairy 2 9 0

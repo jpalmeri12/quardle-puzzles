@@ -1,0 +1,5 @@
+7 8
+super 4 1 1
+totem 2 3 1
+stork 1 5 0
+madam 2 7 0

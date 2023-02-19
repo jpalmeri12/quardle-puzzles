@@ -1,0 +1,6 @@
+6 9 undercover
+ahead 5 1 1
+erect 2 2 1
+urine 1 3 0
+scald 1 5 0
+boozy 1 8 0

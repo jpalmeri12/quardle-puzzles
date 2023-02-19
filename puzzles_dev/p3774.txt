@@ -1,0 +1,5 @@
+7 10
+fatal 4 1 1
+triad 1 2 0
+igloo 2 5 0
+grimy 3 5 1

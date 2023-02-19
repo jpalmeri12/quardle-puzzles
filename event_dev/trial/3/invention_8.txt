@@ -1,0 +1,5 @@
+7 9 invention
+lithe 1 1 1
+havoc 1 4 0
+chide 5 4 1
+sepia 2 6 0

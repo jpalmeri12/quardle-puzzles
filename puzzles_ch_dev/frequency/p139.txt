@@ -1,0 +1,5 @@
+7 9 frequency
+abate 1 1 0
+bathe 2 1 1
+happy 2 4 0
+pixel 4 4 1

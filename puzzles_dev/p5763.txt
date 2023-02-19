@@ -1,0 +1,5 @@
+7 10
+stone 4 1 1
+fatty 2 2 0
+cater 1 5 0
+alloy 2 5 1

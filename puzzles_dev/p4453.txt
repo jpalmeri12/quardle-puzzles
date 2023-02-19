@@ -1,0 +1,5 @@
+7 9
+grace 1 1 1
+wench 5 4 1
+elate 1 5 0
+belch 2 7 0

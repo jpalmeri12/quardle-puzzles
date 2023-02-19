@@ -1,0 +1,5 @@
+7 7
+block 5 1 1
+crawl 1 2 0
+admin 3 2 1
+picky 2 5 0

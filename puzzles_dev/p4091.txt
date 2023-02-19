@@ -1,0 +1,5 @@
+7 9
+rabid 1 1 0
+dusty 5 1 1
+nasty 2 4 0
+atone 3 4 1

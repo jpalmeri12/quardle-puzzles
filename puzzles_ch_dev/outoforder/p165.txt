@@ -1,0 +1,5 @@
+6 9 outoforder
+comet 5 1 1
+usual 1 4 1
+squat 1 5 0
+lumpy 1 8 0

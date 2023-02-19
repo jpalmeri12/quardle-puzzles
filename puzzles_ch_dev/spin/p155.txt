@@ -1,0 +1,5 @@
+6 7 spin
+sally 3 1 1
+llama 1 2 0
+limbo 1 2 1
+bayou 1 5 0

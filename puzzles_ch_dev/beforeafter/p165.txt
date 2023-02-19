@@ -1,0 +1,9 @@
+6 9 beforeafter
+forty 1 1 0
+omega 2 1 1
+stump 5 4 1
+haunt 1 5 0
+!beforeafter 1 q
+!beforeafter 1 j
+!beforeafter 2 r
+!beforeafter 1 j

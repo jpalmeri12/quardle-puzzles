@@ -1,0 +1,5 @@
+6 9 scrabble
+snore 1 4 1
+round 1 7 0
+rupee 3 1 1
+sleek 1 4 0

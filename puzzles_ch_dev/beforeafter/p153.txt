@@ -1,0 +1,9 @@
+7 10 beforeafter
+omega 2 1 1
+gassy 1 5 0
+stalk 3 5 1
+major 2 7 0
+!beforeafter 1 k
+!beforeafter 1 j
+!beforeafter 1 n
+!beforeafter 2 n

@@ -1,0 +1,5 @@
+7 9 duplicity
+yacht 2 1 1
+carry 1 2 0
+haute 2 4 0
+truce 5 4 1

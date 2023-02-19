@@ -1,0 +1,5 @@
+7 9
+payee 1 1 0
+youth 3 1 1
+stamp 2 4 0
+prune 6 4 1

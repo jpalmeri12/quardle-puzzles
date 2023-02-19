@@ -1,0 +1,6 @@
+6 8 squaredance
+verge 1 1 1
+awake 5 1 1
+villa 1 1 0
+elude 1 5 0
+stork 1 7 0

@@ -1,0 +1,5 @@
+7 10
+tango 2 1 1
+antic 2 2 0
+bongo 1 5 0
+greet 4 5 1

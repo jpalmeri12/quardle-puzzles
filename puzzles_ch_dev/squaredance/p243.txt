@@ -1,0 +1,6 @@
+6 8 squaredance
+avert 1 1 1
+etude 5 1 1
+awoke 1 1 0
+title 1 5 0
+shall 1 7 0

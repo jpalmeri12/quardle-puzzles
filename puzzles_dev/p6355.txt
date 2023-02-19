@@ -1,0 +1,5 @@
+7 10
+plume 1 1 1
+exult 1 5 0
+theta 5 5 1
+crate 2 8 0

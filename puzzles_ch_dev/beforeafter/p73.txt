@@ -1,0 +1,9 @@
+7 10 beforeafter
+jaunt 4 1 1
+actor 2 5 0
+chess 3 5 1
+kneed 1 7 0
+!beforeafter 1 k
+!beforeafter 1 n
+!beforeafter 2 l
+!beforeafter 1 i

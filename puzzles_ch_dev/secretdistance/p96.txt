@@ -1,0 +1,7 @@
+7 11 secretdistance
+polyp 5 1 1
+study 1 4 0
+urban 3 4 1
+undue 2 8 0
+radar 1 10 0
+!sdpos 1 2 0 2

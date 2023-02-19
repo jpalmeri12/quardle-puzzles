@@ -1,0 +1,5 @@
+7 7
+glint 2 1 1
+ladle 2 2 0
+lanky 5 2 1
+stock 1 5 0

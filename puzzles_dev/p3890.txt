@@ -1,0 +1,5 @@
+7 8
+gazer 3 1 1
+bezel 1 3 0
+laden 5 3 1
+crude 2 5 0

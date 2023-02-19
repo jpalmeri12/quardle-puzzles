@@ -1,0 +1,5 @@
+7 9
+faint 2 1 1
+anime 2 2 0
+toxic 4 4 1
+stoop 1 5 0

@@ -1,0 +1,5 @@
+6 6 elbowroom
+synod 1 1 0
+scuba 1 1 1
+nomad 3 1 1
+black 1 4 0

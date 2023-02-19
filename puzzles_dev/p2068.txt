@@ -1,0 +1,5 @@
+7 8
+badly 2 1 1
+pluck 4 3 1
+lilac 2 4 0
+shake 1 7 0

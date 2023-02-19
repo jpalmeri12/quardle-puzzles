@@ -1,0 +1,5 @@
+7 10
+tulip 4 1 1
+bully 1 3 0
+caper 2 5 0
+avert 3 5 1

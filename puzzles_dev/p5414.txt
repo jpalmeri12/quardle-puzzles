@@ -1,0 +1,5 @@
+6 9
+skimp 2 1 1
+rural 4 4 1
+spout 1 5 0
+scald 1 8 0

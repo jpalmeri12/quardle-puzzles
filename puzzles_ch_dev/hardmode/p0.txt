@@ -1,0 +1,5 @@
+7 10 hardmode
+clasp 1 1 0
+split 4 1 1
+fatal 2 5 0
+frock 2 5 1

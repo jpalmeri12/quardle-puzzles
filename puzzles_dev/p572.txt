@@ -1,0 +1,5 @@
+7 10
+snowy 2 1 1
+shown 2 1 0
+lymph 1 5 0
+lobby 1 5 1

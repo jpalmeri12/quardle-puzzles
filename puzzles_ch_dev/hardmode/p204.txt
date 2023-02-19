@@ -1,0 +1,5 @@
+7 8 hardmode
+alter 3 1 1
+attic 1 3 0
+cache 5 3 1
+trice 2 5 0

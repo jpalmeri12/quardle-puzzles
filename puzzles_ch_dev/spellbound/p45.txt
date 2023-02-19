@@ -1,0 +1,9 @@
+6 7 spellbound
+recap 1 1 1
+asset 4 2 1
+crest 1 3 0
+puree 1 5 0
+!spellbound 0 1 3
+!spellbound 1 2 0
+!spellbound 2 1 2
+!spellbound 3 4 1

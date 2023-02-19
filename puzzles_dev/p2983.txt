@@ -1,0 +1,5 @@
+7 10
+prune 4 1 1
+blunt 2 3 0
+miner 1 5 0
+imply 2 5 1

@@ -1,0 +1,5 @@
+6 10 soundscramble
+cremp 1 1 0
+madie 4 1 1
+lagel 1 5 0
+aking 2 5 1

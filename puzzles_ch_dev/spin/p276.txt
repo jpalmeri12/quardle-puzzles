@@ -1,0 +1,5 @@
+7 10 spin
+minty 4 1 1
+satyr 1 5 0
+rayon 5 5 1
+vinyl 2 7 0

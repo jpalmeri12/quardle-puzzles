@@ -1,0 +1,5 @@
+7 8 unloved
+linen 5 1 1
+ovine 2 3 0
+verso 3 3 1
+apron 1 5 0

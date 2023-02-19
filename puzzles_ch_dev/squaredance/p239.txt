@@ -1,0 +1,6 @@
+6 8 squaredance
+hovel 1 1 1
+hurry 5 1 1
+hitch 1 1 0
+leaky 1 5 0
+fatal 1 7 0

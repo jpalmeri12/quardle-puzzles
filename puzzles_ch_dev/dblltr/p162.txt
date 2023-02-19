@@ -1,0 +1,5 @@
+7 10 dblltr
+ruder 2 1 1
+udder 2 2 0
+creep 1 5 0
+crick 1 5 1

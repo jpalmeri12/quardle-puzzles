@@ -1,0 +1,6 @@
+6 8 five
+stump 1 1 1
+unwed 1 3 0
+wench 3 3 1
+pence 1 5 0
+ashen 1 7 0

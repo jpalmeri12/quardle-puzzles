@@ -1,0 +1,8 @@
+6 8 twins
+dogma 1 1 0
+caulk 1 3 0
+swore 1 5 0
+itchy 1 7 0
+!twins 1 2
+!twins 2 3
+!twins 0 3

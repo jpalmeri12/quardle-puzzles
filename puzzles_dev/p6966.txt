@@ -1,0 +1,5 @@
+7 8
+berth 2 1 1
+cobra 5 3 1
+hobby 2 5 0
+voila 1 7 0

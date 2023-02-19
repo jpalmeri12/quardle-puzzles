@@ -1,0 +1,5 @@
+7 8 desync
+wight 2 1 0
+glory 4 1 1
+bloom 1 3 0
+lingo 2 3 1

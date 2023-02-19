@@ -1,0 +1,5 @@
+6 6 unloved
+aptly 2 1 1
+aside 4 1 1
+spasm 1 2 0
+hymen 1 5 0

@@ -1,0 +1,6 @@
+7 10 wordcolumn
+buxom 4 1 1
+avail 2 4 1
+vomit 2 5 0
+index 5 5 1
+elite 1 8 0

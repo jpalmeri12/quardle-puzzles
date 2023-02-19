@@ -1,0 +1,5 @@
+7 8 frequency
+catty 1 1 1
+windy 3 3 1
+tying 1 4 0
+lying 2 7 0

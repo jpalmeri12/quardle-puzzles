@@ -1,0 +1,5 @@
+7 8 darkness
+octet 1 7 0
+torch 5 1 1
+comic 2 3 1
+chard 2 3 0

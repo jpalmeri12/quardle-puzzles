@@ -1,0 +1,5 @@
+7 9 scrabble
+fight 2 4 0
+privy 1 8 0
+fishy 5 1 1
+fixer 2 4 1

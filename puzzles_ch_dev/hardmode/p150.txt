@@ -1,0 +1,5 @@
+7 10 hardmode
+snuff 2 1 1
+dumpy 1 3 0
+fudge 2 5 0
+gorge 5 5 1

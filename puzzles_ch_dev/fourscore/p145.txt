@@ -1,0 +1,5 @@
+7 9 fourscore
+ruder 6 1 1
+glaze 2 4 0
+apply 4 4 1
+harpy 1 6 0

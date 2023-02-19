@@ -1,0 +1,6 @@
+6 10 undercover
+scour 1 1 0
+optic 3 1 1
+fatty 5 3 1
+tacit 1 5 0
+embed 1 9 0

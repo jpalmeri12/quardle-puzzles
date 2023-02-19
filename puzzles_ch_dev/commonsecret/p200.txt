@@ -1,0 +1,6 @@
+7 7 commonsecret
+skate 5 1 1
+check 1 2 0
+hefty 2 2 1
+timer 2 5 0
+!secret e

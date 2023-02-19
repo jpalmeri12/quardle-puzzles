@@ -1,0 +1,5 @@
+6 7 spin
+stick 1 1 1
+trail 1 2 0
+avert 3 2 1
+cleft 1 4 0

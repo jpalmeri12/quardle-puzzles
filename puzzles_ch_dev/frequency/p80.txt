@@ -1,0 +1,5 @@
+7 10 frequency
+curio 4 1 1
+bayou 1 5 0
+usual 5 5 1
+human 2 8 0

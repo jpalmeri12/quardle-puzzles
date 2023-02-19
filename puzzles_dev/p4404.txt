@@ -1,0 +1,5 @@
+7 7
+truer 2 1 1
+rabid 4 2 1
+usage 2 3 0
+trail 1 5 0

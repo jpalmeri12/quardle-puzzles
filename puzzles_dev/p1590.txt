@@ -1,0 +1,5 @@
+6 9
+viper 1 1 1
+knoll 5 4 1
+robin 1 5 0
+kneel 1 8 0

@@ -1,0 +1,9 @@
+6 10 beforeafter
+stoic 1 1 1
+chasm 1 5 0
+steak 4 5 1
+knead 1 8 0
+!beforeafter 2 l
+!beforeafter 2 k
+!beforeafter 1 o
+!beforeafter 1 j

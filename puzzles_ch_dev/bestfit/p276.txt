@@ -1,0 +1,5 @@
+7 9 bestfit
+melee 6 1 1
+amble 2 4 0
+baton 4 4 1
+borne 1 8 0

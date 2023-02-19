@@ -1,0 +1,5 @@
+7 10
+uncut 6 1 1
+start 2 5 0
+agony 4 5 1
+spool 1 7 0

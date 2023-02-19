@@ -1,0 +1,9 @@
+7 9 beforeafter
+stomp 1 1 1
+missy 1 4 0
+stead 4 4 1
+plead 2 6 0
+!beforeafter 1 q
+!beforeafter 1 o
+!beforeafter 1 k
+!beforeafter 1 j

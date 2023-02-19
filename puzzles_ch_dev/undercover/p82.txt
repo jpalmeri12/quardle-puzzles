@@ -1,0 +1,6 @@
+7 11 undercover
+tonic 5 1 1
+chaos 2 2 0
+unzip 3 4 1
+panic 1 5 0
+dryly 1 10 0

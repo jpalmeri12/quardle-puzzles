@@ -1,0 +1,5 @@
+7 10
+truce 3 1 1
+hurry 1 2 0
+fecal 2 5 0
+light 6 5 1

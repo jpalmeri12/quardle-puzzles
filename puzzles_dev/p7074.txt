@@ -1,0 +1,5 @@
+6 7
+hurry 2 1 1
+bunch 1 2 0
+hatch 5 2 1
+wrest 1 4 0

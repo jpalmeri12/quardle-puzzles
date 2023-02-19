@@ -1,0 +1,5 @@
+7 10 dblltr
+sheen 3 1 1
+inner 2 5 0
+nylon 4 5 1
+juror 1 8 0

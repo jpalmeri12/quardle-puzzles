@@ -1,0 +1,6 @@
+6 8 squaredance
+edict 1 1 1
+those 5 1 1
+exult 1 1 0
+tease 1 5 0
+grave 1 7 0

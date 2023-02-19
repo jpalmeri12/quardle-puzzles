@@ -1,0 +1,5 @@
+6 9 spaced
+jumbo 1 1 1
+jumpy 1 1 0
+broil 1 4 0
+ivory 4 4 1

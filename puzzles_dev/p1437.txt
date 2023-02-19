@@ -1,0 +1,5 @@
+7 10
+sloop 5 1 1
+bleep 1 5 0
+enjoy 3 5 1
+forgo 2 8 0

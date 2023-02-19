@@ -1,0 +1,5 @@
+6 6 outoforder
+clack 2 1 1
+stank 4 1 1
+plate 1 2 0
+scent 1 4 0

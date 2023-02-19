@@ -1,0 +1,5 @@
+7 10 spin
+moult 1 1 1
+twang 1 5 0
+admit 3 5 1
+picky 2 8 0

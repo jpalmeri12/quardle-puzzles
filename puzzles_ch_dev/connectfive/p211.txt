@@ -1,0 +1,6 @@
+6 10 connectfive
+truer 5 1 1
+patio 2 4 1
+favor 1 5 0
+onset 4 5 1
+first 1 7 0

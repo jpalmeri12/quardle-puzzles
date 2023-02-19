@@ -1,0 +1,6 @@
+6 12 drop
+flora 3 1 1
+stunk 1 5 1
+slant 1 5 0
+unfit 1 7 0
+flank 1 11 0

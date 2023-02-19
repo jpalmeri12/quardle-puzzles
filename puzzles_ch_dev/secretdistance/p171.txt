@@ -1,0 +1,7 @@
+7 10 secretdistance
+rabbi 4 1 1
+drain 2 3 1
+rebus 2 4 0
+inert 1 7 0
+actor 1 9 0
+!sdpos 0 3 1 3

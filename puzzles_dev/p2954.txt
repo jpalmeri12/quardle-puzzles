@@ -1,0 +1,5 @@
+7 10
+clean 5 1 1
+fully 2 2 0
+vegan 1 5 0
+venue 1 5 1

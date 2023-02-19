@@ -1,0 +1,5 @@
+7 10
+guide 1 1 0
+eying 5 1 1
+soggy 2 5 0
+staid 2 5 1

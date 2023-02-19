@@ -1,0 +1,5 @@
+6 10
+stave 3 1 1
+tweed 1 5 0
+exile 4 5 1
+braid 1 7 0

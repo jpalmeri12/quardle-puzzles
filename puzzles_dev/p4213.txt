@@ -1,0 +1,5 @@
+6 6
+fried 1 1 0
+felon 1 1 1
+easel 4 1 1
+order 1 4 0

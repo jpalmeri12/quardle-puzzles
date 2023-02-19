@@ -1,0 +1,5 @@
+6 7
+inlay 4 1 1
+grant 1 2 0
+route 2 2 1
+sumac 1 4 0

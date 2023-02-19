@@ -1,0 +1,5 @@
+6 7
+plunk 3 1 1
+salon 1 2 0
+nerdy 5 2 1
+honor 1 4 0

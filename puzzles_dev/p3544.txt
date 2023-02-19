@@ -1,0 +1,5 @@
+6 9
+stage 1 1 1
+grate 1 4 0
+tepee 4 4 1
+liver 1 7 0

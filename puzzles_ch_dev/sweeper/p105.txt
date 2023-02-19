@@ -1,0 +1,5 @@
+7 9 sweeper
+crown 2 1 1
+rigor 2 2 0
+sweat 1 4 0
+algae 4 4 1

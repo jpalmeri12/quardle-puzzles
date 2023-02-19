@@ -1,0 +1,5 @@
+6 8 duplicity
+eater 1 1 0
+tiara 3 1 1
+visit 1 3 1
+stave 1 5 0

@@ -1,0 +1,5 @@
+6 6 beta
+junto 1 1 0
+juice 1 1 1
+terse 4 1 1
+crush 1 4 0

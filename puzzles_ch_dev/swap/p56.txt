@@ -1,0 +1,5 @@
+6 6 swap
+stign 2 1 1
+wsorn 4 1 1
+etrse 1 2 0
+lgory 1 4 0

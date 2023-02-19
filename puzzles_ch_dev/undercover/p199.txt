@@ -1,0 +1,6 @@
+7 9 undercover
+mason 1 1 1
+drone 4 2 1
+short 1 3 0
+sleet 2 6 0
+fizzy 1 8 0

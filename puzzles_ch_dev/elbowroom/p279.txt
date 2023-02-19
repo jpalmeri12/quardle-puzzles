@@ -1,0 +1,5 @@
+6 10 elbowroom
+surly 1 1 0
+raven 3 1 1
+ranch 1 5 0
+aping 2 5 1

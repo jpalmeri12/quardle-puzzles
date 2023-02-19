@@ -1,0 +1,5 @@
+7 9 dblltr
+brass 5 1 1
+tense 3 4 1
+bless 1 5 0
+dense 2 8 0

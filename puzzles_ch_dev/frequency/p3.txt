@@ -1,0 +1,5 @@
+7 7 frequency
+stern 5 1 1
+grass 3 2 1
+breed 2 3 0
+mason 1 5 0

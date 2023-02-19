@@ -1,0 +1,5 @@
+7 8
+crept 2 1 0
+evade 4 1 1
+total 1 3 1
+oxide 1 4 0

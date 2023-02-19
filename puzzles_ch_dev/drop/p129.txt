@@ -1,0 +1,6 @@
+6 12 drop
+antic 4 1 1
+dusty 1 3 0
+aback 1 5 0
+arena 1 5 1
+canny 1 11 0

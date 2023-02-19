@@ -1,0 +1,5 @@
+7 10 swap
+teaes 5 1 1
+slian 2 3 0
+feats 1 5 0
+flehs 1 5 1

@@ -1,0 +1,6 @@
+7 12 undercover
+gamma 3 1 1
+brand 2 5 1
+basis 2 5 0
+carol 1 7 0
+teeth 1 11 0

@@ -1,0 +1,5 @@
+6 8
+dream 1 1 0
+reign 2 1 1
+racer 4 3 1
+snack 1 5 0

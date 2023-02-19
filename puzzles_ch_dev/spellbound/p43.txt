@@ -1,0 +1,9 @@
+6 8 spellbound
+tryst 1 1 0
+scary 4 1 1
+clink 2 3 1
+ultra 1 4 0
+!spellbound 0 1 2
+!spellbound 1 1 4
+!spellbound 2 3 2
+!spellbound 3 0 4

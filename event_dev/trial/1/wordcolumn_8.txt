@@ -1,0 +1,6 @@
+7 10 wordcolumn
+stamp 2 1 1
+stint 5 4 1
+petty 2 5 0
+equal 3 5 1
+churn 1 7 0

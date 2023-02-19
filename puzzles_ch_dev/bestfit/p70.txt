@@ -1,0 +1,5 @@
+7 10 bestfit
+dizzy 5 1 1
+booty 1 5 0
+trout 4 5 1
+plump 2 8 0

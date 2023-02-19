@@ -1,0 +1,5 @@
+7 10 outoforder
+tubal 6 1 1
+naval 2 5 0
+anode 3 5 1
+pleat 1 9 0

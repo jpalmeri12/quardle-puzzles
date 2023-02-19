@@ -1,0 +1,5 @@
+7 7 elbowroom
+about 2 1 1
+bribe 2 2 0
+blink 5 2 1
+sushi 1 4 0

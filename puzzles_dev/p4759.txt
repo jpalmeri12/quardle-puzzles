@@ -1,0 +1,5 @@
+7 9
+croup 2 1 1
+risky 2 2 0
+buddy 1 4 0
+yearn 5 4 1

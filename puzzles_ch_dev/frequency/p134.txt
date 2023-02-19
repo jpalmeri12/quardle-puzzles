@@ -1,0 +1,5 @@
+7 9 frequency
+clamp 5 1 1
+cable 3 4 1
+cramp 1 5 0
+float 2 7 0

@@ -1,0 +1,5 @@
+7 8
+baler 4 1 1
+amply 2 3 1
+alloy 2 3 0
+spare 1 5 0

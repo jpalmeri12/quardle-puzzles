@@ -1,0 +1,5 @@
+7 8 bestfit
+conic 6 1 1
+eater 4 3 1
+antic 2 5 0
+there 1 7 0

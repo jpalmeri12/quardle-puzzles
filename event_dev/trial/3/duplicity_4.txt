@@ -1,0 +1,5 @@
+6 9 duplicity
+worth 1 1 1
+wrath 1 1 0
+thong 1 4 0
+organ 3 4 1

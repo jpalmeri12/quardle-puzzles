@@ -1,0 +1,6 @@
+6 11 drop
+limbo 2 1 1
+riper 1 2 0
+askew 4 4 1
+bossy 1 5 0
+mayor 1 10 0

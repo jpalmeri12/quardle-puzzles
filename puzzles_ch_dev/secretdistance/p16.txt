@@ -1,0 +1,7 @@
+7 12 secretdistance
+focus 1 1 1
+slink 1 5 0
+lipid 2 5 1
+ionic 2 8 0
+opine 1 11 0
+!sdpos 0 2 1 1

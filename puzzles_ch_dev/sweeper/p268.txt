@@ -1,0 +1,5 @@
+7 8 sweeper
+image 2 1 1
+happy 4 3 1
+grass 2 4 0
+vinyl 1 7 0

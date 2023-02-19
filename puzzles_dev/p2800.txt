@@ -1,0 +1,5 @@
+6 9
+stare 2 1 1
+stomp 1 2 0
+drama 1 4 0
+angle 5 4 1

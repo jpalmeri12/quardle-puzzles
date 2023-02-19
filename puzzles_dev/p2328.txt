@@ -1,0 +1,5 @@
+7 10
+brush 1 1 1
+harpy 1 5 0
+admin 2 5 1
+medal 2 7 0

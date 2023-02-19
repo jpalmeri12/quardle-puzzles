@@ -1,0 +1,5 @@
+7 10
+conch 4 1 1
+cocoa 1 2 0
+ethos 2 5 0
+entry 2 5 1

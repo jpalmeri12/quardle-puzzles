@@ -1,0 +1,7 @@
+6 12 secretdistance
+voila 2 1 1
+barge 1 5 0
+rocky 3 5 1
+focal 1 7 0
+title 1 11 0
+!sdpos 0 2 2 3

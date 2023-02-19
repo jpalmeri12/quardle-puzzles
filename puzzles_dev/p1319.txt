@@ -1,0 +1,5 @@
+6 9
+blame 1 1 0
+elder 5 1 1
+stoke 1 4 0
+ozone 3 4 1

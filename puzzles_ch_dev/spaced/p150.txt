@@ -1,0 +1,5 @@
+7 9 spaced
+cameo 5 1 1
+tamer 2 4 0
+thank 2 4 1
+skimp 1 8 0

@@ -1,0 +1,5 @@
+6 6
+cling 3 1 1
+truly 5 1 1
+color 1 2 0
+penal 1 4 0

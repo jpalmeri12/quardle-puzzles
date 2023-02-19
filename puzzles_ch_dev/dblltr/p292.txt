@@ -1,0 +1,5 @@
+7 10 dblltr
+digit 3 1 1
+etude 2 5 0
+defer 5 5 1
+theme 1 8 0

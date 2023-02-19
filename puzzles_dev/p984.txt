@@ -1,0 +1,5 @@
+7 9
+snail 4 1 1
+tenth 2 2 0
+spunk 2 4 1
+spell 1 5 0

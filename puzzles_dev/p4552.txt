@@ -1,0 +1,5 @@
+7 10
+robot 5 1 1
+cabby 2 3 0
+wight 1 5 0
+goofy 3 5 1

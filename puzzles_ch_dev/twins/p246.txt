@@ -1,0 +1,8 @@
+6 8 twins
+rayon 1 1 0
+tidal 1 3 0
+shorn 1 5 0
+peace 1 7 0
+!twins 0 4
+!twins 0 1
+!twins 0 1

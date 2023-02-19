@@ -1,0 +1,9 @@
+7 10 beforeafter
+spill 1 1 0
+pooch 2 1 1
+harry 2 5 0
+rupee 4 5 1
+!beforeafter 1 o
+!beforeafter 2 i
+!beforeafter 1 k
+!beforeafter 1 q

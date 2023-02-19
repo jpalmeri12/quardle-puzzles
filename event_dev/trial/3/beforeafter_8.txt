@@ -1,0 +1,9 @@
+7 7 beforeafter
+jetty 1 1 0
+tubal 4 1 1
+actor 6 2 1
+pubic 2 3 0
+!beforeafter 1 q
+!beforeafter 1 n
+!beforeafter 1 k
+!beforeafter 1 m

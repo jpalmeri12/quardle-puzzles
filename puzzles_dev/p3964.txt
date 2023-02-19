@@ -1,0 +1,5 @@
+7 10
+crush 5 1 1
+munch 1 5 0
+noise 3 5 1
+sixty 2 7 0

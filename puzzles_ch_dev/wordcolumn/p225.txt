@@ -1,0 +1,6 @@
+6 12 wordcolumn
+lathe 1 1 1
+abhor 3 3 1
+hobby 1 4 0
+verge 1 7 0
+guile 4 7 1

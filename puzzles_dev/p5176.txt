@@ -1,0 +1,5 @@
+7 10
+pride 4 1 1
+afire 1 2 0
+blend 2 5 0
+labor 3 5 1

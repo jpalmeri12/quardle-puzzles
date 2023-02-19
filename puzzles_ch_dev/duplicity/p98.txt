@@ -1,0 +1,5 @@
+7 9 duplicity
+mecca 1 1 1
+cache 1 4 0
+chide 3 4 1
+media 2 8 0

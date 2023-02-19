@@ -1,0 +1,5 @@
+7 9 reverse
+mucky 6 1 1
+shock 2 4 0
+surot 2 4 1
+rorre 1 7 0

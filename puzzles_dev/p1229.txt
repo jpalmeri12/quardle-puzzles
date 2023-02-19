@@ -1,0 +1,5 @@
+7 9
+sweet 1 1 1
+chaff 4 4 1
+tight 1 5 0
+affix 2 7 0

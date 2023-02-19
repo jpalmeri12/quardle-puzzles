@@ -1,0 +1,5 @@
+7 9
+given 1 1 0
+niche 5 1 1
+gummy 3 4 1
+super 2 5 0

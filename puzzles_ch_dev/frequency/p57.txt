@@ -1,0 +1,5 @@
+7 10 frequency
+karma 4 1 1
+swarm 2 2 0
+today 1 5 0
+trick 1 5 1

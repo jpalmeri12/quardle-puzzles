@@ -1,0 +1,5 @@
+7 10 bestfit
+diver 2 1 1
+vicar 1 2 0
+river 2 5 0
+imply 3 5 1

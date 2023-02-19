@@ -1,0 +1,5 @@
+7 10
+goner 1 1 1
+rabid 1 5 0
+apply 2 5 1
+polar 2 7 0

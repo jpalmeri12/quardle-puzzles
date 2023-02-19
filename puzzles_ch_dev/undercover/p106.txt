@@ -1,0 +1,6 @@
+7 10 undercover
+hinge 5 1 1
+ocean 1 3 0
+coral 2 3 1
+risen 2 5 0
+buddy 1 9 0

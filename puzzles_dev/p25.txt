@@ -1,0 +1,5 @@
+7 10
+ranch 3 1 1
+whiff 2 5 0
+worse 2 5 1
+crazy 1 7 0

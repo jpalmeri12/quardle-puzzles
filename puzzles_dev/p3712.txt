@@ -1,0 +1,5 @@
+6 9
+glare 1 1 0
+river 4 1 1
+purer 1 4 0
+parry 1 4 1

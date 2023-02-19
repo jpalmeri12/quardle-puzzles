@@ -1,0 +1,5 @@
+7 9 swap
+eilde 5 1 1
+omtif 2 4 1
+mooes 2 5 0
+riesr 1 7 0

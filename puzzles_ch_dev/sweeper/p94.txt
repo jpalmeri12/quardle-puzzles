@@ -1,0 +1,5 @@
+6 9 sweeper
+agile 4 1 1
+skull 1 4 0
+krill 2 4 1
+alley 1 8 0

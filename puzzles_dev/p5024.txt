@@ -1,0 +1,5 @@
+7 10
+wrath 5 1 1
+spire 2 2 0
+glyph 1 5 0
+leave 2 5 1

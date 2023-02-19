@@ -1,0 +1,9 @@
+6 10 spellbound
+giant 4 1 1
+allay 1 3 0
+loath 1 5 0
+alien 3 5 1
+!spellbound 0 1 0
+!spellbound 1 0 4
+!spellbound 2 1 4
+!spellbound 3 2 3

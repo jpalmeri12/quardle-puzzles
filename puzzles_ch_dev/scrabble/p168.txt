@@ -1,0 +1,5 @@
+7 7 scrabble
+liver 2 2 1
+blush 1 2 0
+vying 2 4 0
+chunk 5 1 1

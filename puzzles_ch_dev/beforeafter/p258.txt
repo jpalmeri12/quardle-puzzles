@@ -1,0 +1,9 @@
+7 10 beforeafter
+oxide 1 1 0
+demon 4 1 1
+meaty 2 5 1
+minus 2 5 0
+!beforeafter 1 j
+!beforeafter 1 l
+!beforeafter 2 n
+!beforeafter 2 o

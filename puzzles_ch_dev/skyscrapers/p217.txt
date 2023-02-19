@@ -1,0 +1,5 @@
+7 10 skyscrapers
+watch 1 5 0
+exist 3 1 1
+giddy 2 3 0
+hotly 5 5 1

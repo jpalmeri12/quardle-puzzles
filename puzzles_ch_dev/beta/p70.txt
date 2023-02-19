@@ -1,0 +1,5 @@
+7 10 beta
+sumac 2 1 1
+cliff 2 5 0
+lying 3 5 1
+legal 1 9 0

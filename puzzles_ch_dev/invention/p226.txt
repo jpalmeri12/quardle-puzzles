@@ -1,0 +1,5 @@
+7 9 invention
+cried 4 1 1
+ultra 1 2 0
+bless 2 4 0
+smock 6 4 1

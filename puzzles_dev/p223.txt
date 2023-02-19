@@ -1,0 +1,5 @@
+7 9
+mogul 5 1 1
+hello 1 2 0
+flour 2 4 0
+flung 2 4 1

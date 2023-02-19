@@ -1,0 +1,5 @@
+6 6
+dying 1 1 1
+duvet 1 1 0
+egret 4 1 1
+novel 1 4 0

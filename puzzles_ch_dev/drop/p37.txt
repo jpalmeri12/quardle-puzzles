@@ -1,0 +1,6 @@
+7 12 drop
+shush 2 1 1
+chess 1 5 0
+swell 5 5 1
+drill 2 9 0
+shrew 1 11 0

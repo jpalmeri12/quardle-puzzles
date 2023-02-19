@@ -1,0 +1,5 @@
+7 10 unloved
+llama 2 1 1
+adage 2 5 0
+drift 3 5 1
+fetus 1 9 0

@@ -1,0 +1,5 @@
+7 9
+prism 4 1 1
+there 1 2 0
+dross 6 4 1
+humor 2 5 0

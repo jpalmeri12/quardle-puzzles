@@ -1,0 +1,7 @@
+8 8 sixbox
+drawn 3 1 1
+abhor 5 1 1
+graph 1 3 0
+prove 4 3 1
+wrong 3 4 0
+honor 1 5 0

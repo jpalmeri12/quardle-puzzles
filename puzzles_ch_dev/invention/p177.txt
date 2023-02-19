@@ -1,0 +1,5 @@
+7 8 invention
+spent 4 1 1
+godly 2 3 1
+round 1 4 0
+yearn 2 7 0

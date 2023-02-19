@@ -1,0 +1,5 @@
+7 9 hardmode
+woken 5 1 1
+began 3 4 1
+green 1 5 0
+snare 2 8 0

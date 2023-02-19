@@ -1,0 +1,6 @@
+6 9 connectfive
+outdo 1 1 1
+unset 1 2 0
+deuce 1 4 0
+coven 4 4 1
+downy 1 8 0

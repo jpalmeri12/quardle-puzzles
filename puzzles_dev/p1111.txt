@@ -1,0 +1,5 @@
+7 9
+spoke 2 1 0
+kitty 5 1 1
+droit 1 4 0
+overt 3 4 1

@@ -1,0 +1,5 @@
+7 10
+glyph 5 1 1
+month 1 5 0
+talon 4 5 1
+thorn 2 8 0

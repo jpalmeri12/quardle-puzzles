@@ -1,0 +1,5 @@
+6 6
+kayak 1 1 0
+kiosk 1 1 1
+krill 5 1 1
+small 1 4 0

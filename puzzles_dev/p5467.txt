@@ -1,0 +1,5 @@
+7 7
+quest 2 1 1
+rifle 4 2 1
+serif 1 3 0
+tulle 2 5 0

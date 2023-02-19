@@ -1,0 +1,9 @@
+6 8 beforeafter
+meaty 1 1 0
+about 3 1 1
+apart 1 3 1
+prude 1 4 0
+!beforeafter 2 o
+!beforeafter 2 r
+!beforeafter 2 q
+!beforeafter 2 i

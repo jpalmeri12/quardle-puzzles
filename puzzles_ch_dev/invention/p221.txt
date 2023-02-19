@@ -1,0 +1,5 @@
+7 7 invention
+toddy 2 1 1
+orbit 2 2 0
+begin 4 2 1
+adage 1 4 0

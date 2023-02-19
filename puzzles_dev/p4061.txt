@@ -1,0 +1,5 @@
+6 10
+clash 3 1 1
+ashen 1 5 0
+scour 2 5 1
+sorry 1 7 0

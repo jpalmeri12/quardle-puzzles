@@ -1,0 +1,5 @@
+7 9 buyavowel
+bayou 1 1 0
+union 5 1 1
+usher 2 4 1
+swine 2 5 0

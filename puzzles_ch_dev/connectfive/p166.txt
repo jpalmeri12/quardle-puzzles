@@ -1,0 +1,6 @@
+7 10 connectfive
+dopey 1 1 1
+cease 4 3 1
+eater 1 4 0
+budge 6 5 1
+fiend 2 7 0

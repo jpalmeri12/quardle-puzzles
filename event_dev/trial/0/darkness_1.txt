@@ -1,0 +1,5 @@
+7 10 darkness
+saint 2 5 0
+urban 5 1 1
+slate 2 5 1
+thumb 1 3 0

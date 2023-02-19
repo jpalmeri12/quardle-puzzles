@@ -1,0 +1,6 @@
+6 12 five
+abode 2 1 1
+seize 1 5 0
+zonal 4 5 1
+urine 1 7 0
+reach 2 7 1

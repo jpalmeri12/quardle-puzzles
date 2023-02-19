@@ -1,0 +1,6 @@
+7 10 five
+vogue 3 1 1
+heard 2 5 0
+hitch 2 5 1
+rebar 5 5 1
+shear 1 9 0

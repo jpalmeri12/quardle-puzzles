@@ -1,0 +1,5 @@
+7 9 frequency
+showy 2 1 1
+snare 2 1 0
+swine 1 4 0
+nutty 4 4 1

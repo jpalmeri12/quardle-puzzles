@@ -1,0 +1,5 @@
+7 7 desync
+reply 5 1 1
+islet 2 2 0
+storm 3 2 1
+stray 1 5 0

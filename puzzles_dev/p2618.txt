@@ -1,0 +1,5 @@
+7 10
+cheer 3 1 1
+aphid 1 2 0
+greed 2 5 0
+erupt 4 5 1

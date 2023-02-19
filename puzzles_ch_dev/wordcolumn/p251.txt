@@ -1,0 +1,6 @@
+7 8 wordcolumn
+thief 1 1 0
+frost 5 1 1
+decoy 2 3 0
+depth 2 3 1
+spout 1 5 0

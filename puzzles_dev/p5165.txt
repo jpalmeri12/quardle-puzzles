@@ -1,0 +1,5 @@
+6 8
+swarm 1 1 0
+would 2 1 1
+merge 5 3 1
+blaze 1 4 0

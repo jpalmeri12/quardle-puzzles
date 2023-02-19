@@ -1,0 +1,6 @@
+7 9 island
+sigma 4 1 1
+robin 1 2 0
+mealy 6 4 1
+amaze 2 5 0
+!island 2111 221 11111 211

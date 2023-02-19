@@ -1,0 +1,5 @@
+7 9 invention
+radio 2 1 0
+inter 5 1 1
+leave 1 4 0
+ample 3 4 1

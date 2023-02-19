@@ -1,0 +1,6 @@
+6 11 undercover
+pearl 4 1 1
+filer 1 2 0
+renew 2 4 1
+cello 1 5 0
+shush 1 10 0

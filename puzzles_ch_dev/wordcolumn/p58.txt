@@ -1,0 +1,6 @@
+7 9 wordcolumn
+wider 2 1 1
+input 2 2 0
+wench 4 4 1
+truer 1 5 0
+aphid 2 8 0

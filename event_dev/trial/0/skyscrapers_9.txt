@@ -1,0 +1,5 @@
+7 7 skyscrapers
+scion 2 3 0
+naive 4 1 1
+found 1 1 0
+entry 6 2 1

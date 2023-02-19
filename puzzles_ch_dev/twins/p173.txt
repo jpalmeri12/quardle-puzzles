@@ -1,0 +1,8 @@
+6 8 twins
+pouty 1 1 0
+credo 1 3 0
+tamer 1 5 0
+alter 1 7 0
+!twins 2 3
+!twins 0 1
+!twins 3 4

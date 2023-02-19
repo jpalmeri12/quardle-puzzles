@@ -1,0 +1,5 @@
+7 10 dblltr
+avail 1 1 0
+valve 2 1 1
+eagle 2 5 0
+elite 6 5 1

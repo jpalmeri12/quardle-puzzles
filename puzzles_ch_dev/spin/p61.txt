@@ -1,0 +1,5 @@
+7 8 spin
+mirth 1 1 0
+icing 2 1 1
+inane 5 3 1
+gloat 2 5 0

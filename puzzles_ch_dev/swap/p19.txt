@@ -1,0 +1,5 @@
+7 7 swap
+omgea 2 1 1
+ampel 1 2 0
+loevr 5 2 1
+etaen 2 4 0

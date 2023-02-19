@@ -1,0 +1,6 @@
+7 9 connectfive
+inert 2 1 1
+nicer 2 2 0
+urban 1 4 0
+ardor 4 4 1
+chaos 1 7 0

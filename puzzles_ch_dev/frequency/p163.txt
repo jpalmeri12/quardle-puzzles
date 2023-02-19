@@ -1,0 +1,5 @@
+7 10 frequency
+lynch 2 1 1
+shard 1 5 0
+ratio 4 5 1
+ester 2 7 0

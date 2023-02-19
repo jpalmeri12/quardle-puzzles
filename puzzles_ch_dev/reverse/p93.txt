@@ -1,0 +1,5 @@
+7 9 reverse
+tnael 1 1 0
+nesir 2 1 1
+faith 4 4 1
+reach 2 5 0

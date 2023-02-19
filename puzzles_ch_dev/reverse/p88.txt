@@ -1,0 +1,5 @@
+7 7 reverse
+sheer 2 1 1
+hpmuh 2 2 0
+unfit 5 2 1
+treni 1 5 0

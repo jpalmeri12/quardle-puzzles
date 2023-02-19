@@ -1,0 +1,9 @@
+7 8 beforeafter
+glint 1 1 0
+inert 3 1 1
+abort 5 3 1
+probe 2 4 0
+!beforeafter 2 m
+!beforeafter 2 p
+!beforeafter 2 q
+!beforeafter 2 i

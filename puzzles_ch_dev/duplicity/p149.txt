@@ -1,0 +1,5 @@
+7 10 duplicity
+reset 5 1 1
+moose 1 2 0
+smote 2 5 0
+error 6 5 1

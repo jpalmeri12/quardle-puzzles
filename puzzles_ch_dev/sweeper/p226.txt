@@ -1,0 +1,5 @@
+7 10 sweeper
+quasi 4 1 1
+fluid 1 5 0
+delta 5 5 1
+gusto 2 8 0

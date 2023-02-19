@@ -1,0 +1,5 @@
+7 9 dblltr
+there 1 1 1
+riper 1 4 0
+error 4 4 1
+rarer 2 8 0

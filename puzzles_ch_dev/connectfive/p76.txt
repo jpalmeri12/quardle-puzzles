@@ -1,0 +1,6 @@
+6 8 connectfive
+disco 1 1 0
+clued 4 1 1
+purer 2 3 1
+duvet 1 4 0
+artsy 1 7 0

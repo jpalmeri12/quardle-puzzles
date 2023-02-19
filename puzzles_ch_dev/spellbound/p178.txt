@@ -1,0 +1,9 @@
+7 9 spellbound
+ninja 2 1 1
+dizzy 1 2 0
+juror 2 4 0
+retch 6 4 1
+!spellbound 0 2 4
+!spellbound 1 2 0
+!spellbound 2 3 2
+!spellbound 3 3 4

@@ -1,0 +1,5 @@
+6 10
+dirge 4 1 1
+aphid 1 2 0
+dryer 1 5 0
+youth 3 5 1

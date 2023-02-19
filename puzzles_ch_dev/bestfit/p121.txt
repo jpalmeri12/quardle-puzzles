@@ -1,0 +1,5 @@
+7 7 bestfit
+alley 1 1 0
+label 2 1 1
+impel 6 2 1
+bloom 2 3 0

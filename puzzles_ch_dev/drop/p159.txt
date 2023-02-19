@@ -1,0 +1,6 @@
+7 11 drop
+leapt 5 1 1
+raven 3 4 1
+party 2 5 0
+genre 1 8 0
+entry 1 10 0

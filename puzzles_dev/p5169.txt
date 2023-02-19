@@ -1,0 +1,5 @@
+7 8
+truth 2 1 0
+towel 2 1 1
+pygmy 4 3 1
+align 1 5 0

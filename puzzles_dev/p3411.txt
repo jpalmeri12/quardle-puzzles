@@ -1,0 +1,5 @@
+6 10
+vague 3 1 1
+freak 1 5 0
+flash 1 5 1
+surge 1 8 0

@@ -1,0 +1,5 @@
+7 9 swap
+shpae 1 1 1
+akrma 1 4 0
+redey 3 4 1
+edlve 2 6 0

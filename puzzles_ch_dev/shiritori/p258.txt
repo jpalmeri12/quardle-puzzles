@@ -1,0 +1,5 @@
+6 10 shiritori
+edify 5 1 1
+wispy 1 5 0
+pupil 4 5 1
+girly 1 9 0

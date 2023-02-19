@@ -1,0 +1,5 @@
+7 8
+bring 1 1 0
+noisy 4 1 1
+petal 6 3 1
+taste 2 4 0

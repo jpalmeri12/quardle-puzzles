@@ -1,0 +1,5 @@
+7 8 bestfit
+dummy 2 1 0
+macaw 4 1 1
+eclat 2 3 1
+blown 1 5 0

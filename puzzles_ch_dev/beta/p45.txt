@@ -1,0 +1,5 @@
+6 10 beta
+banjo 4 1 1
+throb 1 5 0
+brook 5 5 1
+hydro 1 7 0

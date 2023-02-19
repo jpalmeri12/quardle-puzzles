@@ -1,0 +1,6 @@
+7 10 connectfive
+youth 2 1 1
+husky 1 3 0
+hover 2 5 0
+vowel 4 5 1
+rotor 6 5 1

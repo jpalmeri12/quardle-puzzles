@@ -1,0 +1,5 @@
+7 9 clockdown
+idiot 1 1 0
+dress 2 1 1
+asset 5 4 1
+sassy 2 5 0

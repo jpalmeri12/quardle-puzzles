@@ -1,0 +1,5 @@
+7 10
+guise 4 1 1
+blurb 2 2 0
+surer 1 5 0
+rainy 3 5 1

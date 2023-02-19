@@ -1,0 +1,5 @@
+6 10
+camel 3 1 1
+chaff 1 2 0
+holly 1 5 0
+lunge 4 5 1

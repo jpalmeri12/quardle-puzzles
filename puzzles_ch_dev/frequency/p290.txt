@@ -1,0 +1,5 @@
+7 8 frequency
+horse 2 1 1
+hotel 2 1 0
+break 1 3 0
+kayak 5 3 1

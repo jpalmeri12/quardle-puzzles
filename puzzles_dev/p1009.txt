@@ -1,0 +1,5 @@
+7 9
+shalt 2 1 1
+laden 2 4 0
+drank 4 4 1
+blend 1 7 0

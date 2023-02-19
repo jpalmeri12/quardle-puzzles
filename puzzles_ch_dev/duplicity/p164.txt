@@ -1,0 +1,5 @@
+7 10 duplicity
+baste 4 1 1
+blast 1 3 0
+bleat 2 5 0
+bless 2 5 1

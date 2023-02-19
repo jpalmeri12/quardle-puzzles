@@ -1,0 +1,5 @@
+6 6 spaced
+below 1 1 0
+eking 2 1 1
+wrath 5 1 1
+sigma 1 3 0

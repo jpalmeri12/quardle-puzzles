@@ -1,0 +1,9 @@
+6 9 beforeafter
+rumba 4 1 1
+lemur 1 2 0
+stank 1 4 1
+tweak 1 5 0
+!beforeafter 2 k
+!beforeafter 2 p
+!beforeafter 1 o
+!beforeafter 1 n

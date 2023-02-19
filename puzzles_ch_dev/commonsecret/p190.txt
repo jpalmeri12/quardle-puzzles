@@ -1,0 +1,6 @@
+6 9 commonsecret
+vomit 4 1 1
+droit 1 4 0
+drone 1 4 1
+notch 1 7 0
+!secret o

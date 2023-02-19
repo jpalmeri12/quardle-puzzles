@@ -1,0 +1,6 @@
+7 10 five
+belch 2 1 0
+cargo 5 1 1
+venom 2 5 0
+ember 3 5 1
+debit 1 7 0

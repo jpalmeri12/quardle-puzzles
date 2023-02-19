@@ -1,0 +1,7 @@
+8 8 sixbox
+model 3 1 1
+mayor 5 1 1
+pudgy 1 3 0
+graph 4 3 1
+erode 3 4 0
+polar 1 5 0

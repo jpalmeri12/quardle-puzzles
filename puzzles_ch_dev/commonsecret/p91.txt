@@ -1,0 +1,6 @@
+6 10 commonsecret
+title 5 1 1
+slave 1 5 0
+viola 4 5 1
+chili 1 8 0
+!secret l

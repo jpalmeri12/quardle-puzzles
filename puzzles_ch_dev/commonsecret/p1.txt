@@ -1,0 +1,6 @@
+7 8 commonsecret
+odder 1 1 0
+debar 2 1 1
+brake 2 3 0
+agora 4 3 1
+!secret r

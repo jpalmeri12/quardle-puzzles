@@ -1,0 +1,5 @@
+7 8
+sharp 1 1 0
+horse 2 1 1
+rinse 2 3 0
+eject 6 3 1

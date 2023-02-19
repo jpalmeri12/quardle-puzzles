@@ -1,0 +1,5 @@
+7 9
+evict 5 1 1
+smock 2 4 0
+minty 3 4 1
+payee 1 8 0

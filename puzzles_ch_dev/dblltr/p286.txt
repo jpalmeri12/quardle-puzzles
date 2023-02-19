@@ -1,0 +1,5 @@
+7 10 dblltr
+harry 5 1 1
+truer 1 3 0
+polyp 2 5 0
+occur 3 5 1

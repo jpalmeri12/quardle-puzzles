@@ -1,0 +1,7 @@
+8 8 sixbox
+unmet 3 1 1
+dryer 5 1 1
+comfy 1 3 0
+fjord 4 3 1
+eject 3 4 0
+rotor 1 5 0

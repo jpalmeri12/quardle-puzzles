@@ -1,0 +1,5 @@
+7 9
+picky 2 1 0
+knave 5 1 1
+rigid 3 4 1
+crime 1 5 0

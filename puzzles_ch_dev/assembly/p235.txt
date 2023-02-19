@@ -1,0 +1,5 @@
+6 10 assembly
+elfin 1 3 1
+nasal 5 3 1
+fussy 1 1 0
+nylon 1 9 0

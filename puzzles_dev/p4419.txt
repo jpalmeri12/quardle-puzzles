@@ -1,0 +1,5 @@
+7 8
+rivet 6 1 1
+decor 3 3 1
+delve 2 4 0
+harsh 1 7 0

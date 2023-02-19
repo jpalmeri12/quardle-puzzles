@@ -1,0 +1,6 @@
+7 9 connectfive
+sense 5 1 1
+quake 1 2 0
+tacit 3 4 1
+ramen 2 5 0
+utile 2 8 0

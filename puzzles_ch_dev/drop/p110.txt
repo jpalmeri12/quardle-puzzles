@@ -1,0 +1,6 @@
+6 12 drop
+algae 2 1 1
+remit 1 5 0
+model 3 5 1
+teddy 1 7 0
+alert 1 11 0

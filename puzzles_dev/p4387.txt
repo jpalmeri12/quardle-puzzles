@@ -1,0 +1,5 @@
+7 10
+dying 2 1 1
+hyena 1 2 0
+grill 2 5 0
+lower 5 5 1

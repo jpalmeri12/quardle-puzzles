@@ -1,0 +1,6 @@
+7 10 five
+sloth 4 1 1
+fight 1 5 0
+twixt 5 5 1
+radii 1 7 0
+cacti 2 9 0

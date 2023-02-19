@@ -1,0 +1,5 @@
+7 9 shiritori
+sushi 2 1 1
+stare 4 4 1
+witty 1 5 0
+worst 2 7 0

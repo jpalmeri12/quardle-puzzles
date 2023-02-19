@@ -1,0 +1,6 @@
+7 12 undercover
+swoon 4 1 1
+mange 2 5 0
+grate 5 5 1
+droit 1 8 0
+pluck 1 11 0

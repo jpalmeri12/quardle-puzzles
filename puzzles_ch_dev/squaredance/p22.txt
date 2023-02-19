@@ -1,0 +1,6 @@
+6 8 squaredance
+spade 1 1 1
+exact 5 1 1
+spike 1 1 0
+elect 1 5 0
+lurch 1 7 0

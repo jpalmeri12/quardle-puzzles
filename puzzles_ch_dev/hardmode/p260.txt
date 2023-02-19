@@ -1,0 +1,5 @@
+7 10 hardmode
+abyss 4 1 1
+vista 2 5 0
+think 5 5 1
+ramen 1 8 0

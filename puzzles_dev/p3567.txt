@@ -1,0 +1,5 @@
+7 9
+thigh 6 1 1
+aisle 2 4 1
+among 2 4 0
+flood 1 7 0

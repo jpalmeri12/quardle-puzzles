@@ -1,0 +1,5 @@
+7 8
+utile 1 1 1
+pouty 4 3 1
+labor 1 4 0
+match 2 6 0

@@ -1,0 +1,6 @@
+7 9 five
+radii 4 1 1
+filmy 2 2 1
+tilde 1 3 0
+fetus 6 4 1
+maize 2 5 0

@@ -1,0 +1,5 @@
+7 9 unloved
+avert 5 1 1
+baker 1 4 0
+knack 3 4 1
+scowl 2 7 0

@@ -1,0 +1,5 @@
+7 9 outoforder
+ratio 2 1 1
+fetus 4 4 1
+tower 1 5 0
+taste 2 8 0

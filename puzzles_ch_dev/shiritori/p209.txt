@@ -1,0 +1,5 @@
+6 8 shiritori
+stiff 1 1 1
+stung 1 1 0
+bluer 4 3 1
+filly 1 4 0

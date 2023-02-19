@@ -1,0 +1,6 @@
+6 8 squaredance
+clank 1 1 1
+knead 5 1 1
+chick 1 1 0
+kneed 1 5 0
+decal 1 7 0

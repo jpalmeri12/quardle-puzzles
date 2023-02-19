@@ -1,0 +1,6 @@
+7 9 commonsecret
+tarot 6 1 1
+augur 4 4 1
+crust 2 5 0
+thrum 1 7 0
+!secret r

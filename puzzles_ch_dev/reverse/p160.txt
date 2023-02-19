@@ -1,0 +1,5 @@
+7 10 reverse
+shone 5 1 1
+terse 1 5 0
+sutef 4 5 1
+niets 2 8 0

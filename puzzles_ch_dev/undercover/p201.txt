@@ -1,0 +1,6 @@
+7 11 undercover
+slump 3 1 1
+jelly 1 2 0
+email 2 4 0
+lucky 6 4 1
+thorn 1 10 0

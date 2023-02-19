@@ -1,0 +1,5 @@
+6 8 darkness
+delve 1 5 0
+heard 1 1 1
+chess 5 3 1
+ficus 1 7 0

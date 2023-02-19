@@ -1,0 +1,7 @@
+6 6 fourthwall
+minus 1 1 0
+mirth 1 1 1
+river 1 3 0
+navel 3 1 1
+holly 1 5 0
+stray 5 1 1

@@ -1,0 +1,6 @@
+7 9 wordcolumn
+preen 1 1 1
+raspy 1 2 0
+eater 1 4 0
+radio 5 4 1
+claim 2 7 0

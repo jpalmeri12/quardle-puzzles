@@ -1,0 +1,9 @@
+6 8 beforeafter
+metro 2 1 1
+bison 4 3 1
+poesy 1 5 0
+agony 1 7 0
+!beforeafter 1 n
+!beforeafter 1 l
+!beforeafter 2 r
+!beforeafter 1 k

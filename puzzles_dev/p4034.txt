@@ -1,0 +1,5 @@
+6 10
+viola 4 1 1
+steal 1 5 0
+trice 2 5 1
+scram 1 8 0

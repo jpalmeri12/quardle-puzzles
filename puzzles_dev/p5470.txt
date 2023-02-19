@@ -1,0 +1,5 @@
+7 9
+moose 2 1 1
+solar 4 4 1
+epoch 2 5 0
+sonar 1 7 0

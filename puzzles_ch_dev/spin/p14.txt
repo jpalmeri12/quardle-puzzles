@@ -1,0 +1,5 @@
+6 9 spin
+cheer 2 1 1
+shady 1 2 0
+jewel 1 4 0
+learn 5 4 1

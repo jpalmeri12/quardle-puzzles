@@ -1,0 +1,6 @@
+7 9 commonsecret
+shock 1 1 1
+comfy 1 4 0
+forum 4 4 1
+moult 2 7 0
+!secret o

@@ -1,0 +1,5 @@
+7 8 darkness
+cramp 2 3 0
+hyper 1 1 0
+yacht 2 1 1
+prune 6 3 1

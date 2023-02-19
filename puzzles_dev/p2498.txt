@@ -1,0 +1,5 @@
+7 10
+snore 4 1 1
+drank 1 2 0
+fresh 2 5 0
+steep 5 5 1

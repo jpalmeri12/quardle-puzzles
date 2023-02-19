@@ -1,0 +1,5 @@
+7 9 fourscore
+photo 4 1 1
+lathe 1 2 0
+clone 6 4 1
+drool 2 5 0

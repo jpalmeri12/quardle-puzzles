@@ -1,0 +1,5 @@
+7 10
+meaty 1 1 0
+augur 3 1 1
+gross 2 5 0
+gauze 2 5 1

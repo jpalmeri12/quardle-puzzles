@@ -1,0 +1,5 @@
+7 9
+charm 4 1 1
+might 1 2 0
+parse 2 4 0
+elder 6 4 1

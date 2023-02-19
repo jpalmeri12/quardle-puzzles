@@ -1,0 +1,6 @@
+7 12 drop
+album 1 1 0
+broil 3 1 1
+blade 2 5 0
+abase 4 5 1
+labor 1 11 0

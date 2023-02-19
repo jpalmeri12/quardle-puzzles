@@ -1,0 +1,5 @@
+7 9
+acute 2 1 1
+aptly 4 4 1
+expel 2 5 0
+droll 1 7 0

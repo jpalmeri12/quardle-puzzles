@@ -1,0 +1,5 @@
+6 10
+denim 4 1 1
+grimy 1 5 0
+rally 2 5 1
+cycle 1 9 0

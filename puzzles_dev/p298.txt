@@ -1,0 +1,5 @@
+7 9
+singe 3 1 1
+belle 5 4 1
+queue 1 5 0
+fewer 2 8 0

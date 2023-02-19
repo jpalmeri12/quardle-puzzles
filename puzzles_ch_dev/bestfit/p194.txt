@@ -1,0 +1,5 @@
+7 8 bestfit
+jumbo 2 1 1
+cubic 1 2 0
+stare 6 3 1
+blast 2 4 0

@@ -1,0 +1,9 @@
+7 9 spellbound
+usher 5 1 1
+owner 3 4 1
+sword 2 5 0
+guest 1 7 0
+!spellbound 0 2 1
+!spellbound 1 2 4
+!spellbound 2 4 0
+!spellbound 3 0 4

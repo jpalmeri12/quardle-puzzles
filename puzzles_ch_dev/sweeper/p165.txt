@@ -1,0 +1,5 @@
+6 8 sweeper
+agent 5 1 1
+fiber 2 3 1
+liken 1 4 0
+trait 1 7 0

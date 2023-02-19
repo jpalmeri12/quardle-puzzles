@@ -1,0 +1,5 @@
+6 10 soundscramble
+humus 1 1 1
+steno 1 5 0
+neiso 4 5 1
+untio 1 7 0

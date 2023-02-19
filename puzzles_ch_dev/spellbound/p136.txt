@@ -1,0 +1,9 @@
+7 8 spellbound
+aglow 1 1 0
+women 5 1 1
+event 2 3 1
+viper 2 4 0
+!spellbound 0 0 1
+!spellbound 1 4 2
+!spellbound 2 2 3
+!spellbound 3 1 2

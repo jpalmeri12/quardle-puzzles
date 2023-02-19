@@ -1,0 +1,6 @@
+6 9 undercover
+every 2 1 1
+scour 4 2 1
+belch 1 3 0
+syrup 1 5 0
+maxim 1 8 0

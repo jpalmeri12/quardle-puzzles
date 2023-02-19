@@ -1,0 +1,5 @@
+7 9 swap
+rsier 2 1 1
+stadn 2 2 0
+devli 1 4 0
+lfety 4 4 1

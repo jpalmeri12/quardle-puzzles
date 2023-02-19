@@ -1,0 +1,6 @@
+7 10 five
+under 6 1 1
+racer 2 5 0
+above 3 5 1
+edict 5 5 1
+civic 1 8 0

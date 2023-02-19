@@ -1,0 +1,5 @@
+7 9 spaced
+vinyl 6 1 1
+pudgy 2 4 0
+dogma 4 4 1
+chump 1 7 0

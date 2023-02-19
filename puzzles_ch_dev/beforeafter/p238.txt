@@ -1,0 +1,9 @@
+7 9 beforeafter
+motif 5 1 1
+prude 2 4 1
+plaid 2 4 0
+idiot 1 7 0
+!beforeafter 2 l
+!beforeafter 2 n
+!beforeafter 1 j
+!beforeafter 2 l

@@ -1,0 +1,9 @@
+7 8 spellbound
+bitty 1 1 0
+trash 3 1 1
+latte 2 3 0
+trump 5 3 1
+!spellbound 0 4 0
+!spellbound 1 4 3
+!spellbound 2 0 4
+!spellbound 3 2 4

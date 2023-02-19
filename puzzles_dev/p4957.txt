@@ -1,0 +1,5 @@
+7 10
+betel 2 1 1
+melee 1 2 0
+lyric 2 5 0
+ramen 4 5 1

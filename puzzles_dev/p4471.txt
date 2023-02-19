@@ -1,0 +1,5 @@
+7 10
+today 1 1 0
+yacht 5 1 1
+latte 2 5 0
+apply 3 5 1

@@ -1,0 +1,6 @@
+7 9 drop
+booby 6 1 1
+limbo 2 2 0
+maker 4 2 1
+slurp 1 6 0
+proxy 1 8 0

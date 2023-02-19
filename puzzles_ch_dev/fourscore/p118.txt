@@ -1,0 +1,5 @@
+7 9 fourscore
+creak 1 1 1
+aping 1 4 0
+gummy 5 4 1
+flame 2 6 0

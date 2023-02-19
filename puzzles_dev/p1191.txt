@@ -1,0 +1,5 @@
+7 7
+tryst 6 1 1
+augur 2 2 0
+until 3 2 1
+milky 1 6 0

@@ -1,0 +1,7 @@
+7 10 secretdistance
+preen 5 1 1
+saute 3 3 1
+burnt 2 5 0
+chess 1 7 0
+abuse 1 9 0
+!sdpos 0 2 0 2

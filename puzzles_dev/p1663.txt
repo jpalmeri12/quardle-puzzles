@@ -1,0 +1,5 @@
+6 10
+gauze 1 1 1
+eject 1 5 0
+eying 3 5 1
+foggy 1 9 0

@@ -1,0 +1,6 @@
+6 6 island
+imply 1 1 0
+inert 1 1 1
+pasty 3 1 1
+essay 1 3 0
+!island 2111 311 221 31

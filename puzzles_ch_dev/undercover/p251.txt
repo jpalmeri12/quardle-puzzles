@@ -1,0 +1,6 @@
+7 10 undercover
+fixer 5 1 1
+prone 2 3 1
+solar 1 5 0
+elbow 2 7 0
+muddy 1 9 0

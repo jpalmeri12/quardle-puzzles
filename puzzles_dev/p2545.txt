@@ -1,0 +1,5 @@
+7 10
+tripe 2 1 1
+repay 2 2 0
+peach 1 5 0
+hippo 5 5 1

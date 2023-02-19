@@ -1,0 +1,5 @@
+7 10 bestfit
+visor 5 1 1
+floss 1 3 0
+award 2 5 0
+whale 3 5 1

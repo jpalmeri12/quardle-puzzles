@@ -1,0 +1,5 @@
+7 9
+matey 5 1 1
+papal 2 2 0
+easel 1 4 1
+apply 1 5 0

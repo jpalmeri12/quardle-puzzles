@@ -1,0 +1,5 @@
+7 10
+cough 3 1 1
+chart 2 5 0
+ardor 4 5 1
+pride 1 7 0

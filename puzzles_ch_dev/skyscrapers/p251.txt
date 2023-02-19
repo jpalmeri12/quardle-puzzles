@@ -1,0 +1,5 @@
+7 7 skyscrapers
+kebab 2 5 0
+stark 2 1 1
+assay 1 1 0
+derby 6 2 1

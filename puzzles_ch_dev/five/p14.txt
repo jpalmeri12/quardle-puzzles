@@ -1,0 +1,6 @@
+7 8 five
+bribe 6 1 1
+alibi 2 3 0
+ideal 4 3 1
+where 2 5 0
+skill 1 7 0

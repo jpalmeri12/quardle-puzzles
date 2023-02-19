@@ -1,0 +1,5 @@
+7 8
+floor 2 1 0
+outdo 4 1 1
+waste 1 3 0
+abode 2 3 1

@@ -1,0 +1,5 @@
+7 8
+peach 6 1 1
+diner 2 3 1
+dogma 2 3 0
+trial 1 7 0

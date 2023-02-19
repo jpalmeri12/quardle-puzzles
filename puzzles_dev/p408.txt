@@ -1,0 +1,5 @@
+7 9
+forgo 5 1 1
+debug 1 4 0
+email 2 4 1
+lower 2 8 0

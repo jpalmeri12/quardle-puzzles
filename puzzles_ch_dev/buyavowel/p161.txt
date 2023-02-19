@@ -1,0 +1,5 @@
+7 9 buyavowel
+fritz 5 1 1
+issue 2 4 1
+seize 2 5 0
+debut 1 8 0

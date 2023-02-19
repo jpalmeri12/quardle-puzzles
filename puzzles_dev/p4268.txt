@@ -1,0 +1,5 @@
+7 10
+blitz 4 1 1
+gauze 1 5 0
+error 5 5 1
+sperm 2 7 0

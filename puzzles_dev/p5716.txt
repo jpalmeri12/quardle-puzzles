@@ -1,0 +1,5 @@
+7 8
+snipe 2 1 1
+binge 4 3 1
+leant 1 5 0
+quell 2 7 0

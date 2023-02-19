@@ -1,0 +1,5 @@
+7 9
+filmy 2 1 0
+moral 5 1 1
+sauna 1 4 0
+askew 2 4 1

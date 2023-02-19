@@ -1,0 +1,5 @@
+7 8
+etude 1 1 1
+manic 5 3 1
+eaten 1 5 0
+fetch 2 7 0

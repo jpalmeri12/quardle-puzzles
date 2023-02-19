@@ -1,0 +1,5 @@
+7 10 spin
+agate 4 1 1
+clean 2 5 0
+apron 5 5 1
+armor 1 7 0

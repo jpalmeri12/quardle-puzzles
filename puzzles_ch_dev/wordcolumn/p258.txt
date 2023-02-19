@@ -1,0 +1,6 @@
+7 9 wordcolumn
+nymph 2 1 1
+young 2 2 0
+spend 1 4 0
+newer 4 4 1
+forum 2 8 0

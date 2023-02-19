@@ -1,0 +1,5 @@
+6 9
+broil 1 1 0
+least 5 1 1
+girth 3 4 1
+guilt 1 5 0

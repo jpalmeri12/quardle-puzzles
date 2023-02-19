@@ -1,0 +1,5 @@
+7 9 dblltr
+event 4 1 1
+loyal 2 4 1
+otter 2 5 0
+dally 1 7 0

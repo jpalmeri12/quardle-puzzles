@@ -1,0 +1,5 @@
+6 7 spaced
+lapse 3 1 1
+heart 1 2 0
+humor 1 2 1
+mushy 1 4 0

@@ -1,0 +1,5 @@
+6 8
+blare 4 1 1
+cheap 1 3 0
+cacao 1 3 1
+cried 1 5 0

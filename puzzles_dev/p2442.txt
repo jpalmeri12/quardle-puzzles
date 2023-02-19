@@ -1,0 +1,5 @@
+7 9
+pithy 1 1 0
+truer 3 1 1
+sewer 2 4 0
+eater 5 4 1

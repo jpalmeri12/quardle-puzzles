@@ -1,0 +1,5 @@
+7 10
+fatty 4 1 1
+motif 2 3 0
+polyp 1 5 0
+order 2 5 1

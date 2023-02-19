@@ -1,0 +1,5 @@
+7 10 fourscore
+opera 4 1 1
+swamp 2 5 0
+mimic 5 5 1
+radii 1 8 0

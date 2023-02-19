@@ -1,0 +1,5 @@
+7 8 duplicity
+leggy 1 1 0
+geeky 4 1 1
+guess 2 3 0
+sulky 6 3 1

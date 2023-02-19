@@ -1,0 +1,9 @@
+6 10 beforeafter
+lasso 4 1 1
+macro 1 5 1
+mayor 1 5 0
+catty 1 7 0
+!beforeafter 1 m
+!beforeafter 2 n
+!beforeafter 1 n
+!beforeafter 1 k

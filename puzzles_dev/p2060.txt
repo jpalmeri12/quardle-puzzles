@@ -1,0 +1,5 @@
+7 10
+greet 5 1 1
+caste 2 5 0
+award 3 5 1
+clamp 1 7 0

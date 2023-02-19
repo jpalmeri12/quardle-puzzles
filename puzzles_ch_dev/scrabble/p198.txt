@@ -1,0 +1,5 @@
+6 7 scrabble
+rodeo 1 2 0
+ocean 5 2 1
+spice 1 4 0
+morph 2 1 1

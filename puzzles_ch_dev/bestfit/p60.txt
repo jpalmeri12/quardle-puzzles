@@ -1,0 +1,5 @@
+7 8 bestfit
+quasi 4 1 1
+stray 1 3 0
+touch 2 3 1
+unity 2 5 0

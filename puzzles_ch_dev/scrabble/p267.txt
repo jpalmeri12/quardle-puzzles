@@ -1,0 +1,5 @@
+7 9 scrabble
+large 1 5 0
+modal 1 1 1
+drove 3 4 1
+every 2 7 0

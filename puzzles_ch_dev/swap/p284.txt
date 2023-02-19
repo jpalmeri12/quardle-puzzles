@@ -1,0 +1,5 @@
+7 10 swap
+hedeg 2 1 1
+idelr 1 3 0
+gosoe 2 5 0
+odedr 5 5 1

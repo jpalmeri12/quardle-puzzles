@@ -1,0 +1,5 @@
+7 9 swap
+rpoxy 5 1 1
+selpt 2 2 0
+heilx 1 4 0
+ibngo 3 4 1

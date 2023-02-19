@@ -1,0 +1,5 @@
+7 10 swap
+floio 4 1 1
+ebgin 2 5 1
+exotl 2 5 0
+agroa 1 7 0

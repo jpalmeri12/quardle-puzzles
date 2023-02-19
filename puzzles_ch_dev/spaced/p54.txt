@@ -1,0 +1,5 @@
+7 9 spaced
+covey 5 1 1
+watch 2 4 1
+fairy 1 5 0
+crypt 2 7 0

@@ -1,0 +1,5 @@
+7 8 unloved
+cross 3 1 1
+bobby 2 3 0
+biome 5 3 1
+lasso 1 5 0

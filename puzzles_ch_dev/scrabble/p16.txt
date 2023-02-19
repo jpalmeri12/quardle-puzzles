@@ -1,0 +1,5 @@
+7 8 scrabble
+iliac 5 1 1
+arrow 3 3 1
+lyric 1 5 0
+awash 2 7 0

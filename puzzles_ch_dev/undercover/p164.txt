@@ -1,0 +1,6 @@
+7 10 undercover
+trick 2 1 1
+tawny 5 3 1
+clean 2 4 0
+nasty 1 7 0
+jumbo 1 9 0

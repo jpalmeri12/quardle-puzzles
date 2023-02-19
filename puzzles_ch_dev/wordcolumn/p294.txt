@@ -1,0 +1,6 @@
+6 10 wordcolumn
+media 3 1 1
+large 1 4 1
+again 1 5 0
+night 5 5 1
+going 1 7 0

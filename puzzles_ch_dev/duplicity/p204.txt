@@ -1,0 +1,5 @@
+7 9 duplicity
+story 2 1 0
+rotor 5 1 1
+verso 1 4 0
+every 2 4 1

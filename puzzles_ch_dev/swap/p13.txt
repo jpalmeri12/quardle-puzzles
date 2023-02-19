@@ -1,0 +1,5 @@
+7 9 swap
+lfeck 1 1 0
+fnuny 2 1 1
+nigot 2 4 0
+goand 4 4 1

@@ -1,0 +1,8 @@
+6 8 twins
+moldy 1 1 0
+acute 1 3 0
+cairn 1 5 0
+gazer 1 7 0
+!twins 0 1
+!twins 0 1
+!twins 0 4

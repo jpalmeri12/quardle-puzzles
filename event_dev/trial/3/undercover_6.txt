@@ -1,0 +1,6 @@
+7 11 undercover
+idyll 1 1 0
+lumpy 4 1 1
+topic 2 4 0
+thank 2 4 1
+fever 1 10 0

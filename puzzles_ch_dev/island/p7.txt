@@ -1,0 +1,6 @@
+7 8 island
+stark 6 1 1
+visor 3 3 1
+filer 2 4 0
+three 1 7 0
+!island 221 2111 311 31

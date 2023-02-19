@@ -1,0 +1,5 @@
+7 7
+epoch 1 1 1
+allay 4 2 1
+chili 1 4 0
+tryst 2 6 0

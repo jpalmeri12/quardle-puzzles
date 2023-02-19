@@ -1,0 +1,6 @@
+7 9 commonsecret
+exact 1 1 0
+count 4 1 1
+crate 6 4 1
+actor 2 5 0
+!secret c

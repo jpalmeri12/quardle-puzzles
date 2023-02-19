@@ -1,0 +1,5 @@
+7 10 beta
+climb 1 1 0
+brawl 5 1 1
+golly 2 5 0
+lowly 4 5 1

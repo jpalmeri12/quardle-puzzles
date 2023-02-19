@@ -1,0 +1,5 @@
+7 10
+glory 3 1 1
+bylaw 2 5 0
+lanky 4 5 1
+grunt 1 7 0

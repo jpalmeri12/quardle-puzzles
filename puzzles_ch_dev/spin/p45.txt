@@ -1,0 +1,5 @@
+7 9 spin
+berry 5 1 1
+queue 1 2 0
+opera 2 4 0
+odder 2 4 1

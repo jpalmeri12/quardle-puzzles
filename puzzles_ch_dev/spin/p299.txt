@@ -1,0 +1,5 @@
+7 10 spin
+trait 3 1 1
+broth 2 2 0
+alter 1 5 0
+rebut 5 5 1

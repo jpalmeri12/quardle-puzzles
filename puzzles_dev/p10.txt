@@ -1,0 +1,5 @@
+6 9
+pulpy 3 1 1
+daily 1 4 1
+depot 1 4 0
+yearn 1 8 0

@@ -1,0 +1,5 @@
+7 9 skyscrapers
+vogue 2 2 0
+guise 5 1 1
+acute 1 5 0
+curvy 3 4 1

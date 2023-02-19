@@ -1,0 +1,6 @@
+7 12 drop
+grill 4 1 1
+nerdy 2 2 0
+swill 1 5 0
+lever 5 5 1
+wryly 1 11 0

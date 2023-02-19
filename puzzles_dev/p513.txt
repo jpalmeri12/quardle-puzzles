@@ -1,0 +1,5 @@
+7 7
+rover 2 1 1
+bossy 1 2 0
+smith 4 2 1
+retry 2 5 0

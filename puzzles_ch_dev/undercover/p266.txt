@@ -1,0 +1,6 @@
+7 12 undercover
+moist 4 1 1
+often 2 5 0
+front 3 5 1
+nanny 1 8 0
+cluck 1 11 0

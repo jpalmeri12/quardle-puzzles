@@ -1,0 +1,6 @@
+6 8 squaredance
+roast 1 1 1
+needy 5 1 1
+risen 1 1 0
+toddy 1 5 0
+opera 1 7 0

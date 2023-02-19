@@ -1,0 +1,5 @@
+7 7 soundscramble
+idael 5 1 1
+grend 1 2 0
+egant 3 2 1
+ranel 2 4 0

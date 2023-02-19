@@ -1,0 +1,5 @@
+7 10 elbowroom
+micro 1 1 0
+clear 3 1 1
+organ 2 5 0
+grind 4 5 1

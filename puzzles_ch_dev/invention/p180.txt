@@ -1,0 +1,5 @@
+7 10 invention
+verso 3 1 1
+prank 2 3 0
+avoid 1 5 0
+verve 2 5 1

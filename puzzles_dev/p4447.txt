@@ -1,0 +1,5 @@
+7 7
+slime 1 1 0
+inept 3 1 1
+bagel 6 2 1
+sprig 2 4 0

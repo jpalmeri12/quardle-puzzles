@@ -1,0 +1,6 @@
+7 10 connectfive
+juice 5 1 1
+maker 2 5 0
+koala 4 5 1
+lunar 1 7 0
+nomad 1 9 0

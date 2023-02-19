@@ -1,0 +1,6 @@
+7 10 connectfive
+utile 3 1 1
+terse 2 5 0
+relax 4 5 1
+spell 1 7 0
+vixen 2 9 0

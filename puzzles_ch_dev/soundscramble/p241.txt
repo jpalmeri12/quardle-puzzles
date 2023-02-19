@@ -1,0 +1,5 @@
+6 8 soundscramble
+murel 5 1 1
+humor 1 3 0
+midga 3 3 1
+padel 1 5 0

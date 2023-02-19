@@ -1,0 +1,5 @@
+7 7 hardmode
+angle 4 1 1
+fiery 2 2 1
+dingy 1 3 0
+reedy 2 5 0

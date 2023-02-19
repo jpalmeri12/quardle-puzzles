@@ -1,0 +1,5 @@
+7 8 elbowroom
+snuff 1 1 0
+flute 4 1 1
+altar 6 3 1
+spelt 2 5 0

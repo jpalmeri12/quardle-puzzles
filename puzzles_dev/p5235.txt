@@ -1,0 +1,5 @@
+7 10
+burnt 4 1 1
+ditty 1 5 0
+tardy 3 5 1
+nylon 2 9 0

@@ -1,0 +1,5 @@
+6 10
+squad 4 1 1
+shady 1 5 0
+sauce 1 5 1
+expel 1 9 0

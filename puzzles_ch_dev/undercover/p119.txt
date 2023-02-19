@@ -1,0 +1,6 @@
+6 8 undercover
+prune 2 1 1
+ultra 4 1 1
+musty 1 3 0
+petal 1 5 0
+civic 1 7 0

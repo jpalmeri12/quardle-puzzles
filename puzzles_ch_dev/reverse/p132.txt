@@ -1,0 +1,5 @@
+7 9 reverse
+idler 6 1 1
+leenk 4 4 1
+queer 2 5 0
+retne 1 7 0

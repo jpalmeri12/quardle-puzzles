@@ -1,0 +1,5 @@
+7 7 clockdown
+aside 5 1 1
+avoid 2 2 1
+amass 2 2 0
+fibre 1 5 0

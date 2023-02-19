@@ -1,0 +1,9 @@
+7 9 spellbound
+aloud 5 1 1
+realm 2 2 0
+react 3 4 1
+trend 1 5 0
+!spellbound 0 0 2
+!spellbound 1 1 4
+!spellbound 2 3 2
+!spellbound 3 0 1

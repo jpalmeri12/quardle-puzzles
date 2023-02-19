@@ -1,0 +1,9 @@
+7 7 beforeafter
+occur 2 1 1
+clown 2 2 0
+wring 5 2 1
+sushi 1 4 0
+!beforeafter 2 p
+!beforeafter 1 m
+!beforeafter 1 o
+!beforeafter 2 m

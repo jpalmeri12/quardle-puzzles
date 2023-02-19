@@ -1,0 +1,6 @@
+7 12 five
+canon 1 1 1
+needy 1 5 0
+elfin 3 5 1
+affix 2 7 0
+issue 5 7 1

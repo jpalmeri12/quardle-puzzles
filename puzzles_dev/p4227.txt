@@ -1,0 +1,5 @@
+7 9
+taboo 2 1 1
+aware 2 2 0
+frail 4 4 1
+hoard 1 5 0

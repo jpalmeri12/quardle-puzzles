@@ -1,0 +1,5 @@
+7 9
+salad 2 1 1
+pasta 1 2 0
+rearm 5 4 1
+deter 2 5 0

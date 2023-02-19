@@ -1,0 +1,5 @@
+7 9 sweeper
+tight 1 1 0
+hyena 4 1 1
+emcee 6 4 1
+swarm 2 5 0

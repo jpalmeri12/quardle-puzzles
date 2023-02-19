@@ -1,0 +1,5 @@
+7 7
+faith 6 1 1
+blush 2 2 1
+unfit 2 4 0
+shrew 1 6 0

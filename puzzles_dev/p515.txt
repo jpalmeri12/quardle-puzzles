@@ -1,0 +1,5 @@
+7 9
+tooth 2 1 1
+teach 2 4 0
+axion 4 4 1
+lemon 1 7 0

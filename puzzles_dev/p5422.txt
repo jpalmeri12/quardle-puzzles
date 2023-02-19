@@ -1,0 +1,5 @@
+6 7
+spear 4 1 1
+dumpy 1 2 0
+until 2 2 1
+tiara 1 5 0

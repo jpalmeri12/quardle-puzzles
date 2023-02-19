@@ -1,0 +1,5 @@
+6 9
+vapid 3 1 1
+spike 1 4 0
+edict 5 4 1
+civic 1 7 0

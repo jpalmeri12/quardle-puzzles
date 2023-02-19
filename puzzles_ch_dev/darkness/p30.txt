@@ -1,0 +1,5 @@
+6 10 darkness
+ought 2 1 1
+stump 1 5 0
+shook 1 5 1
+obese 1 8 0

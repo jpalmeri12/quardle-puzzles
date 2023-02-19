@@ -1,0 +1,5 @@
+7 7 buyavowel
+spoke 2 1 1
+reuse 5 2 1
+older 2 3 0
+fetus 1 5 0

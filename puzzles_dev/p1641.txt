@@ -1,0 +1,5 @@
+7 10
+angel 4 1 1
+willy 2 5 0
+welch 2 5 1
+glove 1 7 0

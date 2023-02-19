@@ -1,0 +1,5 @@
+7 10 sweeper
+stood 2 1 0
+thong 3 1 1
+angry 1 5 0
+yacht 5 5 1

@@ -1,0 +1,6 @@
+6 10 wordcolumn
+stomp 4 1 1
+troll 1 2 1
+truth 1 2 0
+lumpy 1 5 0
+yield 5 5 1

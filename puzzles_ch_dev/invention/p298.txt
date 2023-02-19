@@ -1,0 +1,5 @@
+7 9 invention
+crush 5 1 1
+fewer 1 2 0
+chess 2 4 0
+hence 3 4 1

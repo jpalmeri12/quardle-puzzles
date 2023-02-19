@@ -1,0 +1,5 @@
+7 9 spaced
+bushy 3 1 1
+gaudy 1 2 0
+throb 2 4 0
+being 6 4 1

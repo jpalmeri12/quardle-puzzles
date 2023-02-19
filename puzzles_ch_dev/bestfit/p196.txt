@@ -1,0 +1,5 @@
+6 10 bestfit
+truce 3 1 1
+dream 1 5 0
+rowdy 2 5 1
+swash 1 7 0

@@ -1,0 +1,6 @@
+6 10 five
+revue 5 1 1
+loath 1 4 1
+opine 1 5 0
+neigh 4 5 1
+hedge 1 8 0

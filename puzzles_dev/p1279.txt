@@ -1,0 +1,5 @@
+7 8
+wrong 1 1 0
+rhyme 2 1 1
+posse 4 3 1
+moose 2 4 0

@@ -1,0 +1,7 @@
+6 12 secretdistance
+gaffe 2 1 1
+decry 1 5 0
+rover 4 5 1
+cadet 1 8 0
+stomp 1 11 0
+!sdpos 1 0 0 0

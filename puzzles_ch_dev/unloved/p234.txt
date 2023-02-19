@@ -1,0 +1,5 @@
+6 7 unloved
+sneer 5 1 1
+began 1 2 0
+glade 3 2 1
+inane 1 4 0

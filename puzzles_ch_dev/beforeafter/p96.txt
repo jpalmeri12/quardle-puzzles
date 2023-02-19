@@ -1,0 +1,9 @@
+6 10 beforeafter
+mayor 2 1 1
+dairy 1 2 0
+tread 1 5 0
+ditty 5 5 1
+!beforeafter 1 n
+!beforeafter 2 k
+!beforeafter 1 m
+!beforeafter 1 l

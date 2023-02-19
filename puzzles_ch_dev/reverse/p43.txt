@@ -1,0 +1,5 @@
+6 6 reverse
+knard 3 1 1
+manly 5 1 1
+xenna 1 2 0
+feral 1 4 0

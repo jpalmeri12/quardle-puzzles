@@ -1,0 +1,5 @@
+7 9 darkness
+stale 1 7 0
+radio 2 5 0
+brute 2 4 1
+khaki 5 1 1

@@ -1,0 +1,6 @@
+7 10 commonsecret
+filer 6 1 1
+wider 2 5 0
+drill 4 5 1
+lucid 1 7 0
+!secret i

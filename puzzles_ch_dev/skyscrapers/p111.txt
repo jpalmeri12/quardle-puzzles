@@ -1,0 +1,5 @@
+7 10 skyscrapers
+salad 1 5 0
+pizza 4 1 1
+dizzy 2 3 0
+study 1 5 1

@@ -1,0 +1,5 @@
+7 9 invention
+virus 2 1 1
+guess 1 4 0
+store 5 4 1
+inlet 2 8 0

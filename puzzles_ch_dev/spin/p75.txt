@@ -1,0 +1,5 @@
+6 9 spin
+chirp 5 1 1
+bigot 2 4 1
+bicep 1 5 0
+colon 1 7 0

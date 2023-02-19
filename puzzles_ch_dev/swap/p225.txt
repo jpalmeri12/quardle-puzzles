@@ -1,0 +1,5 @@
+7 8 swap
+hyepr 2 1 0
+hwoop 2 1 1
+togna 1 3 0
+nelwy 4 3 1

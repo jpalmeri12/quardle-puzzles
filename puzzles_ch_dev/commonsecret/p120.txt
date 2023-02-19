@@ -1,0 +1,6 @@
+6 10 commonsecret
+stake 4 1 1
+askew 1 5 0
+shack 2 5 1
+baker 1 7 0
+!secret k

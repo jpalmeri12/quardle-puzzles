@@ -1,0 +1,5 @@
+7 10
+betel 1 1 1
+ledge 1 5 0
+demon 3 5 1
+amiss 2 7 0

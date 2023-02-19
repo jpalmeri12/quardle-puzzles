@@ -1,0 +1,5 @@
+7 9 unloved
+daddy 2 1 1
+labor 1 2 0
+diver 2 4 0
+rivet 6 4 1

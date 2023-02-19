@@ -1,0 +1,5 @@
+7 10 shiritori
+bayou 3 1 1
+junta 2 5 0
+train 5 5 1
+crown 1 9 0

@@ -1,0 +1,5 @@
+7 9
+burst 3 1 1
+study 1 2 0
+aside 2 4 0
+dingo 5 4 1

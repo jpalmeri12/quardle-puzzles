@@ -1,0 +1,5 @@
+7 9 outoforder
+shush 3 1 1
+snail 5 4 1
+china 2 5 0
+regal 1 8 0

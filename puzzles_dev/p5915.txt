@@ -1,0 +1,5 @@
+6 9
+creek 1 1 0
+elope 4 1 1
+morph 1 4 0
+midge 1 4 1

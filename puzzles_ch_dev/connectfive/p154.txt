@@ -1,0 +1,6 @@
+7 11 connectfive
+gloom 2 1 1
+hyper 5 3 1
+foggy 1 4 0
+evict 3 6 1
+ivory 2 7 0

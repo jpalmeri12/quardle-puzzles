@@ -1,0 +1,5 @@
+7 8 sweeper
+duchy 2 1 0
+honey 5 1 1
+nylon 1 3 0
+yearn 2 3 1

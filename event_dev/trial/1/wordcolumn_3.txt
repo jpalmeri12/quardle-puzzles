@@ -1,0 +1,6 @@
+7 10 wordcolumn
+limbo 1 1 0
+oxide 5 1 1
+fetal 2 5 1
+fewer 2 5 0
+weave 4 5 1

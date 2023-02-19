@@ -1,0 +1,5 @@
+7 10
+flock 1 1 1
+kebab 1 5 0
+blurb 5 5 1
+wharf 2 8 0

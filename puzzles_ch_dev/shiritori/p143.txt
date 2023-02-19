@@ -1,0 +1,5 @@
+7 9 shiritori
+slept 4 1 1
+civic 2 4 1
+caput 2 4 0
+scarf 1 8 0

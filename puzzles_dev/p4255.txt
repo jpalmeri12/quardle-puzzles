@@ -1,0 +1,5 @@
+7 9
+vista 4 1 1
+elite 2 2 0
+crone 1 4 1
+rural 1 5 0

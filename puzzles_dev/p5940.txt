@@ -1,0 +1,5 @@
+6 7
+slack 1 1 1
+login 1 2 0
+idiom 4 2 1
+curio 1 4 0

@@ -1,0 +1,5 @@
+6 8
+alpha 1 1 0
+prong 3 1 1
+donut 5 3 1
+wagon 1 5 0

@@ -1,0 +1,5 @@
+7 10
+blush 5 1 1
+flame 2 5 1
+fishy 2 5 0
+gauze 1 7 0

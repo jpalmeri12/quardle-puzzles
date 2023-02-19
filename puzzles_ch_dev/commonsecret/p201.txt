@@ -1,0 +1,6 @@
+7 8 commonsecret
+eking 1 1 0
+knife 2 1 1
+outer 4 3 1
+flume 2 4 0
+!secret e

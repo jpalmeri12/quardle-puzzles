@@ -1,0 +1,5 @@
+7 7
+rigid 1 1 0
+gnash 3 1 1
+whirl 6 2 1
+shear 2 5 0

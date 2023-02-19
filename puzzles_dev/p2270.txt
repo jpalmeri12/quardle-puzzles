@@ -1,0 +1,5 @@
+7 7
+loopy 2 1 1
+onset 2 2 0
+salvo 4 2 1
+spill 1 4 0

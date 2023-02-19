@@ -1,0 +1,5 @@
+7 9 elbowroom
+pinto 2 1 1
+oddly 5 4 1
+mound 1 5 0
+jelly 2 7 0

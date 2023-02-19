@@ -1,0 +1,5 @@
+7 7 scrabble
+eaten 4 2 1
+outgo 2 4 0
+melon 2 1 1
+sever 1 2 0

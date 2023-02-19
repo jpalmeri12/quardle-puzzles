@@ -1,0 +1,6 @@
+6 10 connectfive
+macho 2 1 1
+scoff 1 3 0
+digit 1 5 1
+dough 1 5 0
+homer 5 5 1

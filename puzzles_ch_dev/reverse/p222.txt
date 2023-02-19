@@ -1,0 +1,5 @@
+6 9 reverse
+tnuah 1 1 0
+above 4 1 1
+ylrub 1 4 1
+lever 1 5 0

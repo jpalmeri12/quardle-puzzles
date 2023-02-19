@@ -1,0 +1,5 @@
+6 9
+tonic 3 1 1
+click 1 4 0
+chart 1 4 1
+triad 1 8 0

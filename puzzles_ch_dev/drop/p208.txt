@@ -1,0 +1,6 @@
+7 12 drop
+omega 4 1 1
+nicer 1 3 0
+swami 2 5 0
+snore 2 5 1
+rhino 1 11 0

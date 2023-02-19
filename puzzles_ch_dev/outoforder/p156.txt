@@ -1,0 +1,5 @@
+6 7 outoforder
+goner 2 1 1
+mouth 1 2 0
+tribe 4 2 1
+tepid 1 4 0

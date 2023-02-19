@@ -1,0 +1,7 @@
+6 6 fourthwall
+gully 1 1 0
+gecko 1 1 1
+cynic 1 3 0
+lunge 3 1 1
+overt 1 5 0
+yacht 5 1 1

@@ -1,0 +1,5 @@
+7 9 swap
+stema 2 1 0
+eneam 4 1 1
+ovtae 1 4 0
+voert 2 4 1

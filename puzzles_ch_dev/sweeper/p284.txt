@@ -1,0 +1,5 @@
+7 9 sweeper
+dowdy 1 1 1
+depth 1 4 0
+hedge 5 4 1
+rough 2 7 0

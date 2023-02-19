@@ -1,0 +1,5 @@
+6 9
+ovine 1 1 0
+novel 4 1 1
+spied 1 4 0
+sieve 1 4 1

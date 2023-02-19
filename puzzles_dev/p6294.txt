@@ -1,0 +1,5 @@
+7 9
+chock 6 1 1
+basic 2 4 0
+atone 3 4 1
+wreck 1 8 0

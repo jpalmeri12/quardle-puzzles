@@ -1,0 +1,5 @@
+7 10 unloved
+cinch 3 1 1
+drill 1 2 0
+copse 2 5 1
+chunk 2 5 0

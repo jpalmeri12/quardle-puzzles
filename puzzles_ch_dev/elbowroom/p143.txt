@@ -1,0 +1,5 @@
+7 8 elbowroom
+spilt 2 1 0
+pagan 3 1 1
+royal 5 3 1
+fanny 1 5 0

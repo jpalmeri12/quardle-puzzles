@@ -1,0 +1,5 @@
+7 8
+dopey 1 1 0
+young 5 1 1
+aloud 2 3 0
+admin 2 3 1

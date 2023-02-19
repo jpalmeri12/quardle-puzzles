@@ -1,0 +1,5 @@
+7 10 swap
+lefay 1 1 1
+yhper 1 5 0
+hipyp 2 5 1
+psike 2 9 0

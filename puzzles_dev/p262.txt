@@ -1,0 +1,5 @@
+7 9
+atone 2 1 1
+howdy 4 4 1
+decor 1 5 0
+wider 2 7 0

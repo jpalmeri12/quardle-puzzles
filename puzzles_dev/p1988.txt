@@ -1,0 +1,5 @@
+7 9
+choke 1 1 0
+humid 2 1 1
+inter 2 4 0
+twang 4 4 1

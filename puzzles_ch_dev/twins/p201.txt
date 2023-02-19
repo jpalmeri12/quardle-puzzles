@@ -1,0 +1,8 @@
+6 8 twins
+close 1 1 0
+mania 1 3 0
+kiosk 1 5 0
+diode 1 7 0
+!twins 0 3
+!twins 3 4
+!twins 1 2

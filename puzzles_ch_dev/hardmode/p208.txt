@@ -1,0 +1,5 @@
+7 8 hardmode
+genre 1 1 0
+ruler 4 1 1
+glove 6 3 1
+smell 2 4 0

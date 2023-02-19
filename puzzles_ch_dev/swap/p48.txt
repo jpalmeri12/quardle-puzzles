@@ -1,0 +1,5 @@
+7 8 swap
+smera 2 1 0
+riony 5 1 1
+snere 2 3 1
+peity 1 5 0

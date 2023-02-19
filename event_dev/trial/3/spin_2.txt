@@ -1,0 +1,5 @@
+7 9 spin
+piety 2 1 1
+inlay 2 2 0
+study 1 4 0
+donor 4 4 1

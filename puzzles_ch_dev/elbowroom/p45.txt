@@ -1,0 +1,5 @@
+7 9 elbowroom
+bring 4 1 1
+murky 2 2 0
+blind 1 4 1
+lingo 1 5 0

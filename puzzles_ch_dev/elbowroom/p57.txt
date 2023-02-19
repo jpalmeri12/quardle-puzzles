@@ -1,0 +1,5 @@
+7 10 elbowroom
+throb 1 1 1
+blurb 1 5 0
+botch 5 5 1
+niche 2 9 0

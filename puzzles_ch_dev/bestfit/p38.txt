@@ -1,0 +1,5 @@
+6 6 bestfit
+maybe 1 1 1
+daisy 3 1 1
+award 1 2 0
+bused 1 4 0

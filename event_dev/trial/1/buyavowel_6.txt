@@ -1,0 +1,5 @@
+7 7 buyavowel
+trash 5 1 1
+ombre 2 2 0
+marry 3 2 1
+north 1 5 0

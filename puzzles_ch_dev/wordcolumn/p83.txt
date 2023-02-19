@@ -1,0 +1,6 @@
+7 10 wordcolumn
+below 4 1 1
+shrug 2 3 1
+drawn 1 5 0
+naive 5 5 1
+grain 2 7 0

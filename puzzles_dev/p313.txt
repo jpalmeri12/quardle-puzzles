@@ -1,0 +1,5 @@
+6 10
+scarf 1 1 1
+fibre 1 5 0
+eerie 5 5 1
+color 1 7 0

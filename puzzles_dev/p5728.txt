@@ -1,0 +1,5 @@
+6 6
+pried 2 1 1
+pansy 4 1 1
+treat 1 2 0
+welsh 1 4 0

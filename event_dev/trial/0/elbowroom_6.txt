@@ -1,0 +1,5 @@
+6 6 elbowroom
+aback 1 1 1
+afoot 5 1 1
+bluff 1 2 0
+condo 1 4 0

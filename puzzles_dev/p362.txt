@@ -1,0 +1,5 @@
+7 10
+riper 2 1 1
+dizzy 1 2 0
+ruder 2 5 0
+exalt 5 5 1

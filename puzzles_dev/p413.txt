@@ -1,0 +1,5 @@
+7 9
+paddy 2 1 1
+aside 2 2 0
+maple 5 4 1
+hyena 1 5 0

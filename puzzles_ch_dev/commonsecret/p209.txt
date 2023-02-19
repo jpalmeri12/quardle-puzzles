@@ -1,0 +1,6 @@
+7 8 commonsecret
+slurp 4 1 1
+gloss 2 3 1
+blurb 1 4 0
+skulk 2 7 0
+!secret l

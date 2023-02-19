@@ -1,0 +1,7 @@
+6 11 secretdistance
+swarm 3 1 1
+mural 1 4 0
+lapel 5 4 1
+abide 1 7 0
+shawl 1 10 0
+!sdpos 1 3 0 1

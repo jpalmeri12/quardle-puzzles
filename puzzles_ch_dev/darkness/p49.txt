@@ -1,0 +1,5 @@
+7 10 darkness
+rehab 2 5 0
+thumb 6 1 1
+risky 1 8 0
+husky 4 5 1

@@ -1,0 +1,5 @@
+7 8 shiritori
+utter 5 1 1
+resin 2 3 1
+dense 1 4 0
+night 2 7 0

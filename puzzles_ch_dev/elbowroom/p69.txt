@@ -1,0 +1,5 @@
+7 10 elbowroom
+cross 1 1 1
+shown 1 5 0
+whale 4 5 1
+soapy 2 7 0

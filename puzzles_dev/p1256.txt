@@ -1,0 +1,5 @@
+6 7
+dopey 4 1 1
+arrow 1 2 0
+racer 2 2 1
+scree 1 4 0

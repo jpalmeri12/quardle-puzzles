@@ -1,0 +1,6 @@
+6 10 island
+askew 1 1 1
+khaki 1 3 0
+white 1 5 0
+erase 5 5 1
+!island 41 211 2111 4

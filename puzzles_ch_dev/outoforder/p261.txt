@@ -1,0 +1,5 @@
+7 9 outoforder
+harem 2 1 1
+croak 1 3 0
+eclat 6 4 1
+mimic 2 5 0

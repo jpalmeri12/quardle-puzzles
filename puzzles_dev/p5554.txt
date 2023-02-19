@@ -1,0 +1,5 @@
+6 9
+gooey 1 1 0
+grief 1 1 1
+evoke 1 4 0
+knock 4 4 1

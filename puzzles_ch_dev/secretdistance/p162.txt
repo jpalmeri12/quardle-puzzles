@@ -1,0 +1,7 @@
+6 11 secretdistance
+anode 4 1 1
+glade 1 4 0
+lucid 2 4 1
+adapt 1 8 0
+pupal 1 10 0
+!sdpos 2 0 3 2

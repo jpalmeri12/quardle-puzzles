@@ -1,0 +1,5 @@
+7 9 darkness
+gourd 4 1 1
+ledge 2 5 0
+heavy 6 4 1
+rotor 1 2 0

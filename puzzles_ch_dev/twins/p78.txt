@@ -1,0 +1,8 @@
+6 8 twins
+heist 1 1 0
+dodgy 1 3 0
+roomy 1 5 0
+spiny 1 7 0
+!twins 2 4
+!twins 1 4
+!twins 0 1

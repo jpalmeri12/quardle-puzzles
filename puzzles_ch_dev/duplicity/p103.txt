@@ -1,0 +1,5 @@
+7 9 duplicity
+rabbi 2 1 1
+carat 1 2 0
+brisk 2 4 0
+stack 5 4 1

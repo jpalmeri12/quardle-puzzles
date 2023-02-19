@@ -1,0 +1,6 @@
+7 10 five
+salty 2 1 0
+young 6 1 1
+aping 2 5 0
+ivory 4 5 1
+scion 1 7 0

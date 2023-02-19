@@ -1,0 +1,6 @@
+7 12 undercover
+scuba 3 1 1
+mecca 1 2 0
+basis 2 5 0
+slimy 6 5 1
+droop 1 11 0

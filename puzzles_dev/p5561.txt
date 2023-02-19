@@ -1,0 +1,5 @@
+7 9
+wispy 3 1 1
+ficus 2 2 0
+super 1 4 0
+stilt 1 4 1

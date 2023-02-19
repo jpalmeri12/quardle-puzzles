@@ -1,0 +1,6 @@
+7 9 island
+dwell 5 1 1
+straw 1 2 0
+nudge 3 4 1
+bully 2 5 0
+!island 31 32 2111 211

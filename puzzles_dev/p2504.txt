@@ -1,0 +1,5 @@
+7 9
+spoil 2 1 1
+twice 4 4 1
+clown 1 5 0
+speak 2 8 0

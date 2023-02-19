@@ -1,0 +1,6 @@
+6 8 squaredance
+taunt 1 1 1
+drain 5 1 1
+trend 1 1 0
+token 1 5 0
+await 1 7 0

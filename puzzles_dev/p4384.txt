@@ -1,0 +1,5 @@
+7 10
+beget 4 1 1
+outgo 1 3 0
+hater 2 5 0
+hippo 2 5 1

@@ -1,0 +1,5 @@
+7 9 spaced
+focus 4 1 1
+admit 2 4 1
+dusky 2 5 0
+vinyl 1 7 0

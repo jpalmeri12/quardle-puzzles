@@ -1,0 +1,5 @@
+7 7
+queer 3 1 1
+flunk 1 2 0
+kneed 5 2 1
+freed 2 5 0

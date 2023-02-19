@@ -1,0 +1,5 @@
+7 8 spaced
+graze 2 1 1
+clang 4 3 1
+relax 1 5 0
+angry 2 7 0

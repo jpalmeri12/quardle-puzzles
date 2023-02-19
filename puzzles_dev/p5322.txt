@@ -1,0 +1,5 @@
+7 9
+wield 1 1 0
+ennui 3 1 1
+spend 5 4 1
+wimpy 2 5 0

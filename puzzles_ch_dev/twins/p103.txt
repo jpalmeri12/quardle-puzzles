@@ -1,0 +1,8 @@
+6 8 twins
+outer 1 1 0
+kebab 1 3 0
+slink 1 5 0
+panic 1 7 0
+!twins 0 3
+!twins 1 2
+!twins 2 3

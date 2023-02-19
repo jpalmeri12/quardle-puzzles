@@ -1,0 +1,5 @@
+7 8 unloved
+yield 1 1 1
+vigor 4 3 1
+lyric 1 4 0
+grout 2 6 0

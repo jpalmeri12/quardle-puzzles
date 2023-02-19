@@ -1,0 +1,5 @@
+7 9
+gauge 5 1 1
+acorn 3 4 1
+scree 2 5 0
+sprig 1 7 0

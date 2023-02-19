@@ -1,0 +1,5 @@
+7 10 soundscramble
+ribba 5 1 1
+cliam 2 5 0
+igipe 4 5 1
+kippi 1 8 0

@@ -1,0 +1,5 @@
+7 7 spin
+uncut 2 1 1
+night 2 2 0
+harem 5 2 1
+ruler 1 4 0

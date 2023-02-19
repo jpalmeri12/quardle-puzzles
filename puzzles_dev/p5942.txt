@@ -1,0 +1,5 @@
+7 9
+adobe 2 1 1
+atone 2 1 0
+spook 4 4 1
+leapt 1 5 0

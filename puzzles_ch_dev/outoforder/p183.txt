@@ -1,0 +1,5 @@
+7 10 outoforder
+thumb 3 1 1
+phony 2 2 0
+abbey 1 5 0
+ennui 4 5 1

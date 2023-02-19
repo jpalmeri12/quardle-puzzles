@@ -1,0 +1,5 @@
+7 10 darkness
+rebel 1 5 0
+mural 5 1 1
+musty 2 7 0
+boule 3 5 1

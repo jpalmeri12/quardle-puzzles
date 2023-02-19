@@ -1,0 +1,5 @@
+6 9
+equip 1 1 0
+quilt 2 1 1
+clear 1 4 0
+abhor 4 4 1

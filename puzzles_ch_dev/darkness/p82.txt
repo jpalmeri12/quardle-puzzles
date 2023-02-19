@@ -1,0 +1,5 @@
+6 10 darkness
+blare 1 1 0
+flora 1 5 0
+assay 5 5 1
+racer 4 1 1

@@ -1,0 +1,5 @@
+7 10
+revue 6 1 1
+guild 2 5 1
+grace 2 5 0
+circa 1 7 0

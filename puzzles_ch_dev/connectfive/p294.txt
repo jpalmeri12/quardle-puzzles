@@ -1,0 +1,6 @@
+6 9 connectfive
+offal 1 1 0
+axiom 4 1 1
+abhor 1 4 0
+baggy 2 4 1
+hyena 1 8 0

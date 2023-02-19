@@ -1,0 +1,5 @@
+7 8
+flail 4 1 1
+guppy 2 3 1
+polar 2 5 0
+nymph 1 7 0

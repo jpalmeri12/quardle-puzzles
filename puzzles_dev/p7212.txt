@@ -1,0 +1,5 @@
+6 7
+groom 2 1 1
+graze 1 2 0
+zesty 4 2 1
+posse 1 4 0

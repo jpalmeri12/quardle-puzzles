@@ -1,0 +1,5 @@
+7 8
+milky 1 1 0
+yacht 5 1 1
+shorn 2 3 1
+ovate 2 5 0

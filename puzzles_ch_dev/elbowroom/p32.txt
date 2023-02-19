@@ -1,0 +1,5 @@
+7 10 elbowroom
+radii 5 1 1
+vodka 1 2 0
+attic 2 5 0
+tenor 3 5 1

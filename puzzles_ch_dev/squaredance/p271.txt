@@ -1,0 +1,6 @@
+6 8 squaredance
+spree 1 1 1
+navel 5 1 1
+shown 1 1 0
+expel 1 5 0
+occur 1 7 0

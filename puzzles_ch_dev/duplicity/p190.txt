@@ -1,0 +1,5 @@
+7 9 duplicity
+dying 2 1 1
+ionic 4 4 1
+goody 2 5 0
+cynic 1 7 0

@@ -1,0 +1,6 @@
+7 10 undercover
+essay 1 1 0
+shaky 3 1 1
+apple 6 3 1
+skimp 2 4 0
+count 1 9 0

@@ -1,0 +1,5 @@
+7 10
+puppy 6 1 1
+sulky 2 5 0
+sonar 2 5 1
+vapor 1 8 0

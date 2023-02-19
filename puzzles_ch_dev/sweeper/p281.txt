@@ -1,0 +1,5 @@
+7 8 sweeper
+scrub 1 1 0
+chaff 2 1 1
+stomp 4 3 1
+flock 2 5 0

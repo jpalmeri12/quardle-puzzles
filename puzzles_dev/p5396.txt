@@ -1,0 +1,5 @@
+7 9
+cedar 2 1 1
+crate 2 1 0
+laugh 1 4 0
+hoist 5 4 1

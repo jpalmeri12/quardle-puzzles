@@ -1,0 +1,5 @@
+7 10 unloved
+blurb 2 1 1
+flier 1 2 0
+bilge 2 5 0
+large 4 5 1

@@ -1,0 +1,6 @@
+7 10 connectfive
+fifth 2 1 1
+inbox 2 2 0
+chess 1 5 0
+cedar 1 5 1
+emcee 3 5 1

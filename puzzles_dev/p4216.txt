@@ -1,0 +1,5 @@
+7 10
+tying 5 1 1
+leggy 2 5 0
+erupt 3 5 1
+kappa 1 8 0

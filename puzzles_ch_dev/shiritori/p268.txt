@@ -1,0 +1,5 @@
+6 9 shiritori
+print 4 1 1
+worry 1 2 0
+prone 1 4 0
+ripen 2 4 1

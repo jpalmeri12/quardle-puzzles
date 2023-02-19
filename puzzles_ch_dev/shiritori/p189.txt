@@ -1,0 +1,5 @@
+7 7 shiritori
+femur 3 1 1
+usual 5 2 1
+amass 2 3 0
+parka 1 5 0

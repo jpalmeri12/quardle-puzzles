@@ -1,0 +1,5 @@
+7 10
+foray 2 1 1
+orbit 2 2 0
+vying 1 5 0
+gecko 5 5 1

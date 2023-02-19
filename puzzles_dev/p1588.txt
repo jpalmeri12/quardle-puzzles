@@ -1,0 +1,5 @@
+7 10
+saucy 4 1 1
+sedan 1 2 0
+slyly 2 5 0
+lapel 5 5 1

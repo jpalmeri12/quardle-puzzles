@@ -1,0 +1,5 @@
+7 7
+tying 5 1 1
+bawdy 1 2 0
+after 2 2 1
+trend 2 4 0

@@ -1,0 +1,5 @@
+7 7 sweeper
+expel 5 1 1
+affix 1 2 0
+fiber 3 2 1
+abled 2 4 0

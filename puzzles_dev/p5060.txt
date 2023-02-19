@@ -1,0 +1,5 @@
+7 9
+model 4 1 1
+color 1 2 0
+theme 2 4 0
+trial 2 4 1

@@ -1,0 +1,5 @@
+7 9
+brake 5 1 1
+stoke 2 4 1
+stake 1 5 0
+known 2 7 0

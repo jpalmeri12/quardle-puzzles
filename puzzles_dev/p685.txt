@@ -1,0 +1,5 @@
+7 8
+spurt 1 1 1
+udder 1 3 0
+ruddy 5 3 1
+chide 2 6 0

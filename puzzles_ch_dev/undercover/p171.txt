@@ -1,0 +1,6 @@
+6 12 undercover
+whole 2 1 1
+chaos 1 2 0
+repel 1 5 0
+libel 5 5 1
+fuzzy 1 11 0

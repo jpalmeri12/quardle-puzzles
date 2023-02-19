@@ -1,0 +1,5 @@
+7 9 desync
+outgo 2 1 0
+trace 4 1 1
+black 1 4 0
+ladle 2 4 1

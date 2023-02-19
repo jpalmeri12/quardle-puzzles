@@ -1,0 +1,6 @@
+7 10 island
+posse 4 1 1
+inept 2 5 0
+purge 5 5 1
+rider 1 7 0
+!island 22 11111 2111 31

@@ -1,0 +1,6 @@
+6 6 wordcolumn
+erect 1 1 0
+rural 2 1 1
+clout 4 1 1
+arbor 1 3 0
+blitz 1 5 0

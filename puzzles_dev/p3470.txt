@@ -1,0 +1,5 @@
+7 10
+dumpy 5 1 1
+drama 2 3 0
+enemy 1 5 0
+error 1 5 1

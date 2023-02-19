@@ -1,0 +1,5 @@
+7 9
+papal 5 1 1
+briar 2 2 0
+mocha 1 4 0
+might 1 4 1

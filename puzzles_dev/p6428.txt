@@ -1,0 +1,5 @@
+7 10
+tulip 4 1 1
+pupil 2 5 0
+idler 5 5 1
+towel 1 7 0

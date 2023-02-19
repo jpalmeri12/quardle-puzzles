@@ -1,0 +1,5 @@
+7 7 dblltr
+widow 5 1 1
+icily 2 2 1
+ionic 2 2 0
+hippo 1 4 0

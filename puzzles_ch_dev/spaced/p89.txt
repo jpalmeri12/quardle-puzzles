@@ -1,0 +1,5 @@
+7 10 spaced
+axiom 2 1 1
+mushy 2 5 0
+hydro 5 5 1
+micro 1 9 0

@@ -1,0 +1,6 @@
+7 10 wordcolumn
+stare 2 1 1
+adage 2 3 0
+gecko 1 5 0
+cheek 3 5 1
+olden 5 5 1

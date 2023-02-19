@@ -1,0 +1,5 @@
+7 10 beta
+probe 4 1 1
+havoc 1 3 0
+query 2 5 0
+yeast 6 5 1

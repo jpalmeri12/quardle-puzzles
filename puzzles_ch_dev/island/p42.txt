@@ -1,0 +1,6 @@
+6 8 island
+spawn 2 1 1
+fetid 5 3 1
+unset 1 5 0
+blend 1 7 0
+!island 311 41 2111 221

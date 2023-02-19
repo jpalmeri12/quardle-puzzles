@@ -1,0 +1,5 @@
+7 10 shiritori
+fauna 3 1 1
+snaky 1 2 0
+eager 2 5 0
+error 5 5 1

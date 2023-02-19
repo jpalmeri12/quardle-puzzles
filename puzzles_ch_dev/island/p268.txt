@@ -1,0 +1,6 @@
+6 10 island
+truer 5 1 1
+slimy 1 5 1
+skier 1 5 0
+icing 1 7 0
+!island 31 11111 32 1111

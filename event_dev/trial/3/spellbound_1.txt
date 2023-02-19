@@ -1,0 +1,9 @@
+7 10 spellbound
+stash 3 1 1
+quasi 1 3 0
+shove 2 5 0
+stack 2 5 1
+!spellbound 0 1 3
+!spellbound 1 4 0
+!spellbound 2 4 2
+!spellbound 3 1 3

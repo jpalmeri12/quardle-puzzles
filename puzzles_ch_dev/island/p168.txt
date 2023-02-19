@@ -1,0 +1,6 @@
+6 6 island
+wider 2 1 1
+igloo 4 1 1
+dirge 1 2 0
+armor 1 5 0
+!island 41 31 311 1111

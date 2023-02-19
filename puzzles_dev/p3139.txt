@@ -1,0 +1,5 @@
+6 9
+sneer 4 1 1
+grand 1 2 0
+amity 2 4 1
+ombre 1 5 0

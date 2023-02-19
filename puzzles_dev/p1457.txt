@@ -1,0 +1,5 @@
+6 9
+flier 1 1 0
+rarer 5 1 1
+hippy 3 4 1
+skier 1 5 0

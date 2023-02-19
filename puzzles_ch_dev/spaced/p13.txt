@@ -1,0 +1,5 @@
+7 9 spaced
+bowel 2 1 1
+other 4 4 1
+cloth 1 5 0
+cargo 2 8 0

@@ -1,0 +1,5 @@
+7 10 fourscore
+metal 2 1 1
+elude 2 2 0
+plump 1 5 0
+prick 5 5 1

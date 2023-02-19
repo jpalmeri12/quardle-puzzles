@@ -1,0 +1,5 @@
+7 10
+sport 2 1 1
+tiara 2 5 0
+album 4 5 1
+annul 1 8 0

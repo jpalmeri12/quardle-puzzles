@@ -1,0 +1,5 @@
+7 9
+crump 1 1 0
+manga 4 1 1
+brain 6 4 1
+stair 2 5 0

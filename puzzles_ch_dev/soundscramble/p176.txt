@@ -1,0 +1,5 @@
+6 7 soundscramble
+osage 5 1 1
+ficos 1 2 0
+cucua 3 2 1
+scune 1 5 0

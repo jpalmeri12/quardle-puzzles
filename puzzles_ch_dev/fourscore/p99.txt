@@ -1,0 +1,5 @@
+7 8 fourscore
+jewel 6 1 1
+ember 3 3 1
+image 2 4 0
+stein 1 6 0

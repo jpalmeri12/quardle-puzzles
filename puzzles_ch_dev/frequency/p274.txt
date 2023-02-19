@@ -1,0 +1,5 @@
+6 8 frequency
+nymph 2 1 1
+amiss 1 3 0
+snipe 4 3 1
+onset 1 7 0

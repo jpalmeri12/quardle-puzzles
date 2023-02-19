@@ -1,0 +1,5 @@
+7 9
+helix 6 1 1
+alibi 2 4 0
+islet 4 4 1
+bagel 1 7 0

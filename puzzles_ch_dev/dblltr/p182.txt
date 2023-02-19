@@ -1,0 +1,5 @@
+7 7 dblltr
+fence 1 1 1
+tenth 4 2 1
+never 1 3 0
+ether 2 6 0

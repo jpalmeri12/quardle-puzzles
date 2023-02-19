@@ -1,0 +1,5 @@
+6 8 desync
+lobby 1 1 1
+fried 3 3 1
+borax 1 4 0
+radar 1 7 0

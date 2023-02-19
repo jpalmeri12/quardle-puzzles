@@ -1,0 +1,5 @@
+7 8
+merge 1 1 0
+erupt 2 1 1
+savoy 5 3 1
+penal 2 4 0

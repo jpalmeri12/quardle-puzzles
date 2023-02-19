@@ -1,0 +1,5 @@
+7 10
+sleet 2 1 1
+tweet 2 5 0
+wight 3 5 1
+wager 1 7 0

@@ -1,0 +1,5 @@
+6 9 hardmode
+arise 1 1 1
+admin 1 1 0
+slack 1 4 0
+chess 4 4 1

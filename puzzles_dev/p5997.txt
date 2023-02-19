@@ -1,0 +1,5 @@
+7 9
+plush 1 1 0
+shush 4 1 1
+masse 2 4 0
+eject 6 4 1

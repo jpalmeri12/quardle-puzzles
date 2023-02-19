@@ -1,0 +1,5 @@
+7 10
+debut 1 1 1
+thing 1 5 0
+ninny 4 5 1
+penne 2 7 0

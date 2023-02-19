@@ -1,0 +1,5 @@
+7 9 swap
+gudie 3 1 1
+fianl 2 4 0
+nocth 5 4 1
+sotoh 1 8 0

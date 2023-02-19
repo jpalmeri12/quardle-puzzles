@@ -1,0 +1,5 @@
+7 8 unloved
+libel 6 1 1
+boast 3 3 1
+canal 2 5 0
+antic 1 7 0

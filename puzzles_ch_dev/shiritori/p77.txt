@@ -1,0 +1,5 @@
+6 10 shiritori
+baton 3 1 1
+minty 1 5 0
+thump 4 5 1
+swept 1 9 0

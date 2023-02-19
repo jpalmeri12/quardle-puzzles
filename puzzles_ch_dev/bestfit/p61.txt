@@ -1,0 +1,5 @@
+7 9 bestfit
+rehab 1 1 0
+bayou 5 1 1
+scare 3 4 1
+scrub 2 5 0

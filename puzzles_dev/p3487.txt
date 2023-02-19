@@ -1,0 +1,5 @@
+7 10
+crimp 2 1 1
+court 2 1 0
+opine 1 5 0
+inner 3 5 1

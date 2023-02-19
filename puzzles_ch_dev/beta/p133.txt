@@ -1,0 +1,5 @@
+7 9 beta
+realm 2 1 1
+eclat 4 4 1
+mucus 2 5 0
+coral 1 7 0

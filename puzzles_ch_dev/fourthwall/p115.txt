@@ -1,0 +1,7 @@
+6 6 fourthwall
+comet 1 1 0
+charm 1 1 1
+armor 1 3 0
+mummy 3 1 1
+maybe 1 5 0
+terse 5 1 1

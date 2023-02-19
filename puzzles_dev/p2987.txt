@@ -1,0 +1,5 @@
+7 9
+mural 2 1 1
+valid 5 4 1
+loyal 2 5 0
+unwed 1 8 0

@@ -1,0 +1,5 @@
+7 10 dblltr
+dress 1 1 1
+seedy 1 5 0
+event 2 5 1
+tease 2 9 0

@@ -1,0 +1,5 @@
+7 9 dblltr
+grill 1 1 0
+libel 5 1 1
+steep 2 4 0
+tense 3 4 1

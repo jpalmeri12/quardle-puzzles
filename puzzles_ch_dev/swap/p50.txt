@@ -1,0 +1,5 @@
+6 10 swap
+dicye 3 1 1
+amedn 1 5 0
+newre 5 5 1
+rcier 1 8 0

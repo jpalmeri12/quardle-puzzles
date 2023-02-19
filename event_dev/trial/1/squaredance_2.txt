@@ -1,0 +1,6 @@
+6 8 squaredance
+align 1 1 1
+ruler 5 1 1
+altar 1 1 0
+newer 1 5 0
+delve 1 7 0

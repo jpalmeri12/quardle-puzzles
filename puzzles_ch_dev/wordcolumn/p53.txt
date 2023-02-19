@@ -1,0 +1,6 @@
+7 10 wordcolumn
+omega 3 1 1
+weary 1 5 0
+eight 2 5 1
+youth 5 5 1
+tithe 2 9 0

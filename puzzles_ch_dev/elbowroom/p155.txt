@@ -1,0 +1,5 @@
+6 6 elbowroom
+conic 1 1 0
+occur 2 1 1
+climb 5 1 1
+qualm 1 4 0

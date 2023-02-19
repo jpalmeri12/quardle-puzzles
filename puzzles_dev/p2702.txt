@@ -1,0 +1,5 @@
+7 8
+guild 6 1 1
+moult 2 3 1
+offal 2 4 0
+slunk 1 6 0

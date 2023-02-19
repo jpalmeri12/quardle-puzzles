@@ -1,0 +1,5 @@
+7 9 swap
+doide 4 1 1
+flcok 1 2 0
+hydor 2 4 0
+ruote 6 4 1

@@ -1,0 +1,5 @@
+7 9
+grape 3 1 1
+spore 2 4 0
+rocky 5 4 1
+testy 1 8 0

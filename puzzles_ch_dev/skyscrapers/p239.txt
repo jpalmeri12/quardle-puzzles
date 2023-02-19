@@ -1,0 +1,5 @@
+6 7 skyscrapers
+rebel 1 5 0
+aside 2 1 1
+islet 1 2 0
+egret 4 2 1

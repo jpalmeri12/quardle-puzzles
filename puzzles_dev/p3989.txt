@@ -1,0 +1,5 @@
+7 7
+prude 3 1 1
+grout 2 2 0
+unwed 5 2 1
+widow 1 4 0

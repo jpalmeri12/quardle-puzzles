@@ -1,0 +1,5 @@
+6 10 buyavowel
+focus 1 1 1
+smock 1 5 0
+mucus 2 5 1
+scoop 1 7 0

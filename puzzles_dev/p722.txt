@@ -1,0 +1,5 @@
+7 9
+along 4 1 1
+quill 1 2 0
+annoy 2 4 0
+arson 2 4 1

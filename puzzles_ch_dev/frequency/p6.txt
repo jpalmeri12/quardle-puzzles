@@ -1,0 +1,5 @@
+7 7 frequency
+pesky 1 1 0
+scree 3 1 1
+allow 6 2 1
+medal 2 4 0

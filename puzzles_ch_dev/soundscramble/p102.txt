@@ -1,0 +1,5 @@
+6 6 soundscramble
+wamon 3 1 1
+relox 5 1 1
+stale 1 2 0
+dromo 1 4 0

@@ -1,0 +1,5 @@
+7 8 sweeper
+swing 5 1 1
+radar 2 3 1
+remit 2 3 0
+privy 1 7 0

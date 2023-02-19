@@ -1,0 +1,5 @@
+7 10
+going 4 1 1
+savoy 1 2 0
+bugle 2 5 0
+lunch 5 5 1

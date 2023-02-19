@@ -1,0 +1,5 @@
+7 9
+armor 5 1 1
+torso 1 4 0
+reply 3 4 1
+pygmy 2 8 0

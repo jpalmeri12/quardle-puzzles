@@ -1,0 +1,6 @@
+7 8 island
+satyr 6 1 1
+homer 3 3 1
+poesy 2 4 0
+berry 1 7 0
+!island 32 2111 221 211

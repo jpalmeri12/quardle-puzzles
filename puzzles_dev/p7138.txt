@@ -1,0 +1,5 @@
+7 10
+baker 5 1 1
+augur 1 5 0
+grail 3 5 1
+salvo 2 7 0

@@ -1,0 +1,9 @@
+7 10 beforeafter
+lurch 2 1 1
+lorry 2 1 0
+chest 1 5 0
+ebony 3 5 1
+!beforeafter 2 i
+!beforeafter 1 q
+!beforeafter 2 k
+!beforeafter 1 i

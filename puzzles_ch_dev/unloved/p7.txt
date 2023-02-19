@@ -1,0 +1,5 @@
+7 8 unloved
+scrub 1 1 1
+dirty 4 3 1
+unfit 1 4 0
+hotel 2 6 0

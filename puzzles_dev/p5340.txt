@@ -1,0 +1,5 @@
+7 9
+duchy 2 1 1
+heist 2 4 0
+sorry 5 4 1
+mangy 1 8 0

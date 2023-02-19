@@ -1,0 +1,5 @@
+7 10 swap
+mudyd 5 1 1
+saldy 2 5 0
+anive 3 5 1
+brien 1 7 0

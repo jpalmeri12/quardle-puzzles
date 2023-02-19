@@ -1,0 +1,5 @@
+6 9 dblltr
+broom 2 1 1
+treat 1 2 0
+dolly 1 4 0
+lever 4 4 1

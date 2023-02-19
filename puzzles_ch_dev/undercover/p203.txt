@@ -1,0 +1,6 @@
+6 12 undercover
+shack 5 1 1
+surly 1 5 1
+steak 1 5 0
+youth 1 9 0
+minim 1 11 0

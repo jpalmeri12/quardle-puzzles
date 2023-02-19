@@ -1,0 +1,5 @@
+7 10
+canal 4 1 1
+glare 2 2 0
+agile 1 5 0
+grunt 2 5 1

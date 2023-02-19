@@ -1,0 +1,6 @@
+7 10 island
+arrow 1 1 1
+worst 1 5 0
+savor 4 5 1
+pivot 2 7 0
+!island 211 221 2111 311

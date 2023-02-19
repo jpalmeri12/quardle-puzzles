@@ -1,0 +1,5 @@
+6 9
+vapid 4 1 1
+ahead 1 2 0
+rapid 1 4 0
+rupee 1 4 1

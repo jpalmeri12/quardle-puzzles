@@ -1,0 +1,5 @@
+6 10 assembly
+court 1 3 1
+flair 5 3 1
+atoll 1 1 0
+voter 1 9 0

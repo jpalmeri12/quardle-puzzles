@@ -1,0 +1,5 @@
+7 8 swap
+ufngi 2 1 0
+noesy 4 1 1
+dzoen 1 3 0
+zetsy 2 3 1

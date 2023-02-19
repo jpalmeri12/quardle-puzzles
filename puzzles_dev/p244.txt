@@ -1,0 +1,5 @@
+6 8
+marsh 1 1 0
+hedge 5 1 1
+chard 1 3 0
+angle 3 3 1

@@ -1,0 +1,5 @@
+7 9 clockdown
+habit 4 1 1
+altar 1 2 0
+guilt 2 4 0
+tramp 6 4 1

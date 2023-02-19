@@ -1,0 +1,5 @@
+7 9
+clued 6 1 1
+teach 4 4 1
+stead 2 5 0
+couch 1 7 0

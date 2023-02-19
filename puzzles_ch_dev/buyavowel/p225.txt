@@ -1,0 +1,5 @@
+6 9 buyavowel
+abhor 1 1 0
+bayou 2 1 1
+spade 4 4 1
+dumpy 1 5 0

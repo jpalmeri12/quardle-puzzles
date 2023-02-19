@@ -1,0 +1,5 @@
+6 9 clockdown
+macaw 1 1 1
+smoky 3 4 1
+women 1 5 0
+oaken 1 7 0

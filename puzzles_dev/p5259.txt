@@ -1,0 +1,5 @@
+7 9
+plain 5 1 1
+libel 1 2 0
+unlit 3 4 1
+inane 2 5 0

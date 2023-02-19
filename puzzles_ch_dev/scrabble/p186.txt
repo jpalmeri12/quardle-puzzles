@@ -1,0 +1,5 @@
+7 7 scrabble
+patty 2 6 0
+stiff 1 1 1
+yacht 5 2 1
+tacky 1 2 0

@@ -1,0 +1,5 @@
+7 10
+droit 5 1 1
+movie 2 5 1
+mirth 2 5 0
+vicar 1 8 0

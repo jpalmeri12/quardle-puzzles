@@ -1,0 +1,5 @@
+7 9
+swing 1 1 1
+nerdy 1 4 0
+rupee 3 4 1
+leach 2 7 0

@@ -1,0 +1,5 @@
+7 8 unloved
+coral 1 1 1
+skirt 5 3 1
+aback 1 4 0
+elite 2 7 0

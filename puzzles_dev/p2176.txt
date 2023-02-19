@@ -1,0 +1,5 @@
+7 10
+hedge 6 1 1
+scene 2 5 0
+scrub 2 5 1
+grant 1 7 0

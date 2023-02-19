@@ -1,0 +1,6 @@
+7 9 five
+audio 2 1 1
+wrest 6 3 1
+rival 4 4 1
+opine 2 5 0
+utile 1 8 0

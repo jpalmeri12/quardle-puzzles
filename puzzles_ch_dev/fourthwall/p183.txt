@@ -1,0 +1,7 @@
+6 6 fourthwall
+befit 1 1 0
+bleat 1 1 1
+eager 1 3 0
+fight 3 1 1
+title 1 5 0
+terse 5 1 1

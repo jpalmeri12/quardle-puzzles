@@ -1,0 +1,5 @@
+7 10
+craze 5 1 1
+scorn 2 2 0
+place 1 5 0
+curry 4 5 1

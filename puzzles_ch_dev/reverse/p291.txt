@@ -1,0 +1,5 @@
+7 7 reverse
+gloss 2 1 1
+stung 4 2 1
+oitap 2 3 0
+tsgna 1 5 0

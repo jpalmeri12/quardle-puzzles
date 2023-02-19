@@ -1,0 +1,5 @@
+7 9 buyavowel
+poker 6 1 1
+obese 2 4 0
+boney 3 4 1
+sandy 1 6 0

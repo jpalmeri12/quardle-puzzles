@@ -1,0 +1,5 @@
+7 10 elbowroom
+blitz 1 1 0
+zebra 5 1 1
+octal 2 5 0
+ovate 2 5 1

@@ -1,0 +1,5 @@
+7 10 elbowroom
+moral 3 1 1
+climb 2 5 0
+macro 5 5 1
+labor 1 8 0

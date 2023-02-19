@@ -1,0 +1,5 @@
+6 7 duplicity
+scare 3 1 1
+rusty 1 2 1
+recut 1 2 0
+stray 1 4 0

@@ -1,0 +1,5 @@
+7 10 frequency
+wagon 5 1 1
+cargo 2 3 0
+shorn 1 5 0
+renal 4 5 1

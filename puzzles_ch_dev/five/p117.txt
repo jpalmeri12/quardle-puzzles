@@ -1,0 +1,6 @@
+6 10 five
+leave 2 1 1
+alley 5 2 1
+cavil 1 3 0
+verse 1 5 0
+raven 3 5 1

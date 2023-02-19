@@ -1,0 +1,5 @@
+7 10 clockdown
+party 6 1 1
+abbey 2 5 0
+amuse 2 5 1
+furor 1 7 0

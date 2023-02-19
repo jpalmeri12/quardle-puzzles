@@ -1,0 +1,5 @@
+7 9
+borax 5 1 1
+swoop 2 2 0
+zebra 1 4 0
+exist 2 4 1

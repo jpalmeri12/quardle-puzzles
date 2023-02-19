@@ -1,0 +1,7 @@
+7 9 secretdistance
+slick 6 1 1
+quill 2 2 0
+urban 3 2 1
+fungi 1 6 0
+tumor 1 8 0
+!sdpos 3 2 2 3

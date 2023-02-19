@@ -1,0 +1,6 @@
+6 12 drop
+antic 4 1 1
+aping 1 2 0
+trick 1 5 0
+islet 3 5 1
+track 1 11 0

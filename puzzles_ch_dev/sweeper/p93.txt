@@ -1,0 +1,5 @@
+6 8 sweeper
+brass 1 1 0
+strip 4 1 1
+lover 2 3 1
+ionic 1 4 0

@@ -1,0 +1,5 @@
+7 8
+crime 4 1 1
+quark 1 2 0
+satin 6 3 1
+cleat 2 5 0

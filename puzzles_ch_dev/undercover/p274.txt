@@ -1,0 +1,6 @@
+6 9 undercover
+croup 4 1 1
+overt 1 2 1
+venom 1 3 0
+ralph 1 5 0
+sissy 1 8 0

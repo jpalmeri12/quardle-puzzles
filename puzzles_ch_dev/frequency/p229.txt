@@ -1,0 +1,5 @@
+6 6 frequency
+cloth 2 1 1
+dryer 5 1 1
+comfy 1 3 0
+sheer 1 5 0

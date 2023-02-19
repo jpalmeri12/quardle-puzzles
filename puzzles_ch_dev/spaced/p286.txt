@@ -1,0 +1,5 @@
+7 10 spaced
+voila 4 1 1
+maize 2 3 0
+pleat 1 5 0
+equal 3 5 1

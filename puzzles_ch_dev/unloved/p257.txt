@@ -1,0 +1,5 @@
+7 10 unloved
+opium 2 1 1
+spiky 1 2 0
+masse 2 5 0
+scamp 4 5 1

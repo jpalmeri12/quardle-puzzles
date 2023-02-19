@@ -1,0 +1,5 @@
+7 10
+laden 5 1 1
+elide 2 3 0
+haven 1 5 0
+adore 2 5 1

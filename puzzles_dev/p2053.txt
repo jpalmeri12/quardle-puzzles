@@ -1,0 +1,5 @@
+6 9
+fixer 1 1 0
+freak 1 1 1
+alike 1 4 0
+krill 4 4 1

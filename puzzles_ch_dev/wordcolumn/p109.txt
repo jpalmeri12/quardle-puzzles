@@ -1,0 +1,6 @@
+6 10 wordcolumn
+rabbi 4 1 1
+harem 2 3 1
+brain 1 5 0
+novel 5 5 1
+pearl 1 9 0

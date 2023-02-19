@@ -1,0 +1,5 @@
+7 8
+scent 4 1 1
+deity 2 3 1
+dress 2 3 0
+vying 1 7 0

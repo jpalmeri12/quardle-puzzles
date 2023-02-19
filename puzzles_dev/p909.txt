@@ -1,0 +1,5 @@
+7 10
+halve 4 1 1
+ember 1 5 0
+masse 2 5 1
+straw 2 7 0

@@ -1,0 +1,6 @@
+6 10 connectfive
+relay 5 1 1
+abode 3 4 1
+tabby 1 5 0
+tried 1 5 1
+elect 1 8 0

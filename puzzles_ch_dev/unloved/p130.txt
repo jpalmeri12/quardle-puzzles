@@ -1,0 +1,5 @@
+6 7 unloved
+toast 5 1 1
+piano 1 2 0
+avert 3 2 1
+tarot 1 5 0

@@ -1,0 +1,5 @@
+7 10
+alpha 4 1 1
+clash 2 5 0
+leave 3 5 1
+piano 1 7 0

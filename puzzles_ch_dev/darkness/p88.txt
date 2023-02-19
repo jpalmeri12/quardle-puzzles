@@ -1,0 +1,5 @@
+6 9 darkness
+fleck 1 5 0
+ozone 1 7 0
+aloof 1 1 1
+scent 4 4 1

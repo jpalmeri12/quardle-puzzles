@@ -1,0 +1,6 @@
+7 9 wordcolumn
+print 3 1 1
+spare 5 1 1
+crepe 2 2 0
+lyric 1 4 1
+lunar 1 4 0

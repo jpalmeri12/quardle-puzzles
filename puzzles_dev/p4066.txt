@@ -1,0 +1,5 @@
+7 9
+larva 2 1 1
+apple 2 2 0
+avert 1 4 0
+tipsy 5 4 1

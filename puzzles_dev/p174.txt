@@ -1,0 +1,5 @@
+7 9
+noise 1 1 1
+shown 1 4 0
+oddly 3 4 1
+hyper 2 8 0

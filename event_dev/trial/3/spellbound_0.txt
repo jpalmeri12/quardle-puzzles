@@ -1,0 +1,9 @@
+7 9 spellbound
+patty 6 1 1
+hoist 3 4 1
+coyly 2 5 0
+onset 1 7 0
+!spellbound 0 1 3
+!spellbound 1 0 4
+!spellbound 2 0 3
+!spellbound 3 4 0

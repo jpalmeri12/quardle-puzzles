@@ -1,0 +1,5 @@
+7 10
+flora 2 1 1
+catty 1 5 0
+totem 3 5 1
+tease 2 8 0

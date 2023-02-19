@@ -1,0 +1,5 @@
+6 7 frequency
+abbot 3 1 1
+petty 1 2 1
+pubic 1 2 0
+troll 1 4 0

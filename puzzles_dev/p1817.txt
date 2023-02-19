@@ -1,0 +1,5 @@
+7 10
+wound 1 1 0
+untie 3 1 1
+fecal 2 5 0
+actor 5 5 1

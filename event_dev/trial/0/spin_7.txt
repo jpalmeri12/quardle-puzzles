@@ -1,0 +1,5 @@
+6 10 spin
+allow 1 1 1
+abyss 1 1 0
+woven 1 5 0
+valid 3 5 1

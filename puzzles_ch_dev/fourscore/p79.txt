@@ -1,0 +1,5 @@
+7 7 fourscore
+snore 4 1 1
+donut 2 2 0
+diver 2 2 1
+ovary 1 4 0

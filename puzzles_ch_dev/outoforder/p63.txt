@@ -1,0 +1,5 @@
+7 10 outoforder
+decal 2 1 0
+cross 4 1 1
+first 1 5 0
+rarer 3 5 1

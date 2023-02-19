@@ -1,0 +1,5 @@
+7 10
+grunt 2 1 1
+lunar 1 3 0
+tango 2 5 0
+abled 3 5 1

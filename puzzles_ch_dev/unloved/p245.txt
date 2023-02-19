@@ -1,0 +1,5 @@
+7 10 unloved
+abode 2 1 1
+bench 1 5 0
+humus 5 5 1
+crump 2 7 0

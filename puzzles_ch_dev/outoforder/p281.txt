@@ -1,0 +1,5 @@
+6 7 outoforder
+hobby 1 1 1
+opium 1 2 0
+upset 4 2 1
+brash 1 4 0

@@ -1,0 +1,5 @@
+7 7
+godly 6 1 1
+grape 4 2 1
+world 2 3 0
+skier 1 6 0

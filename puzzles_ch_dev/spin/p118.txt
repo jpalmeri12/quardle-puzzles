@@ -1,0 +1,5 @@
+7 9 spin
+alloy 2 1 0
+oaken 5 1 1
+clear 2 4 1
+olden 1 5 0

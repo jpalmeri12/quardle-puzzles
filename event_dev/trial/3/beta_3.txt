@@ -1,0 +1,5 @@
+6 9 beta
+squib 1 1 0
+bitty 5 1 1
+agent 1 4 0
+etude 3 4 1

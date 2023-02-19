@@ -1,0 +1,5 @@
+7 8 scrabble
+nylon 1 5 0
+pouty 2 1 1
+funny 5 3 1
+polyp 2 7 0

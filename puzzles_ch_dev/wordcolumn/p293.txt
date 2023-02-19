@@ -1,0 +1,6 @@
+6 10 wordcolumn
+china 2 1 1
+lasso 1 5 0
+laden 1 5 1
+slang 3 5 1
+ennui 1 8 0

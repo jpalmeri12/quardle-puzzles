@@ -1,0 +1,5 @@
+7 10
+dilly 6 1 1
+buddy 2 5 0
+blink 2 5 1
+skate 1 9 0

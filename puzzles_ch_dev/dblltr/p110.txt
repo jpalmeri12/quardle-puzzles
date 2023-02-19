@@ -1,0 +1,5 @@
+7 10 dblltr
+slush 3 1 1
+cheer 2 5 0
+elite 5 5 1
+fleet 1 8 0

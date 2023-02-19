@@ -1,0 +1,5 @@
+6 10 dblltr
+elect 3 1 1
+betel 1 5 0
+ember 2 5 1
+hello 1 8 0

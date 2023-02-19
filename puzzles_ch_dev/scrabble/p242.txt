@@ -1,0 +1,5 @@
+7 8 scrabble
+prude 1 1 0
+wagon 2 3 0
+evoke 5 1 1
+wispy 2 3 1

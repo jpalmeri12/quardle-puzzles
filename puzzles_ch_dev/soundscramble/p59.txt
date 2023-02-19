@@ -1,0 +1,5 @@
+7 10 soundscramble
+lyrac 4 1 1
+weard 1 3 0
+decil 2 5 0
+lunir 6 5 1

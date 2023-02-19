@@ -1,0 +1,5 @@
+7 9 outoforder
+obese 5 1 1
+kebab 1 2 0
+these 2 4 0
+hence 3 4 1

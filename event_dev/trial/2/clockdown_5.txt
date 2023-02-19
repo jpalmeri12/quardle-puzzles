@@ -1,0 +1,5 @@
+7 9 clockdown
+glass 2 1 1
+cluck 1 2 0
+newer 4 4 1
+swear 2 5 0

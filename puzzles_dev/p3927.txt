@@ -1,0 +1,5 @@
+7 9
+baste 1 1 1
+timid 1 4 0
+deter 5 4 1
+bleep 2 7 0

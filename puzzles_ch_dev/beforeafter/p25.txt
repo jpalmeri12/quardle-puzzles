@@ -1,0 +1,9 @@
+6 9 beforeafter
+chirp 1 1 0
+petty 5 1 1
+glory 1 4 1
+ghost 1 4 0
+!beforeafter 2 n
+!beforeafter 1 r
+!beforeafter 1 n
+!beforeafter 1 k

@@ -1,0 +1,5 @@
+7 10 skyscrapers
+yield 2 5 1
+syrup 1 5 0
+cider 3 1 1
+dilly 2 2 0

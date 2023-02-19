@@ -1,0 +1,6 @@
+7 11 drop
+groin 3 1 1
+chirp 1 4 0
+purer 5 4 1
+gazer 2 7 0
+error 1 10 0

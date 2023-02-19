@@ -1,0 +1,5 @@
+7 9 clockdown
+radii 2 1 1
+lathe 4 4 1
+vicar 1 5 0
+dwell 2 8 0

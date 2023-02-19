@@ -1,0 +1,5 @@
+7 9
+crack 2 1 1
+miser 4 4 1
+knife 2 5 0
+greet 1 7 0

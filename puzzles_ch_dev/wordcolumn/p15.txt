@@ -1,0 +1,6 @@
+7 10 wordcolumn
+surge 5 1 1
+wharf 2 3 0
+chute 1 5 0
+humor 2 5 1
+imply 1 7 0

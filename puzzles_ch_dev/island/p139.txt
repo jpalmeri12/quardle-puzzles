@@ -1,0 +1,6 @@
+7 10 island
+rearm 6 1 1
+acute 2 5 1
+axiom 2 5 0
+curio 1 7 0
+!island 211 11111 2111 311

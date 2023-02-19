@@ -1,0 +1,6 @@
+7 10 wordcolumn
+lurch 1 1 0
+cargo 4 1 1
+rigid 2 3 1
+ghoul 2 5 0
+lipid 6 5 1

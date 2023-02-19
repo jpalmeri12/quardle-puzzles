@@ -1,0 +1,5 @@
+7 9
+gayer 2 1 1
+snide 5 4 1
+rainy 2 5 0
+moose 1 8 0

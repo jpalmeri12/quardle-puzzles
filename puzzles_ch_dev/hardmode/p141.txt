@@ -1,0 +1,5 @@
+7 8 hardmode
+issue 2 1 1
+savvy 2 3 0
+vomit 5 3 1
+venom 1 5 0

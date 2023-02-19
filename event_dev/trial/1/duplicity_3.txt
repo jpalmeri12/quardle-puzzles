@@ -1,0 +1,5 @@
+7 7 duplicity
+satyr 6 1 1
+pesto 2 2 1
+soapy 2 4 0
+poser 1 6 0

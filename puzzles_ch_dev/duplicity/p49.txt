@@ -1,0 +1,5 @@
+7 9 duplicity
+tabby 5 1 1
+royal 2 2 0
+about 1 4 1
+burly 1 5 0

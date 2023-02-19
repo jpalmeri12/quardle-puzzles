@@ -1,0 +1,5 @@
+7 9 fourscore
+crush 2 1 1
+waver 4 4 1
+ahead 1 5 0
+moral 2 8 0

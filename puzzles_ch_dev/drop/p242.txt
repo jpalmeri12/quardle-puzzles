@@ -1,0 +1,6 @@
+7 10 drop
+revel 6 1 1
+dicey 2 3 1
+chill 2 5 0
+hymen 1 7 0
+covey 1 9 0

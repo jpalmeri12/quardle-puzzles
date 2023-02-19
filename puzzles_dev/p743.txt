@@ -1,0 +1,5 @@
+7 8
+twine 6 1 1
+hobby 4 3 1
+amble 2 5 0
+satyr 1 7 0

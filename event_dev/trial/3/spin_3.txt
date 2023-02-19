@@ -1,0 +1,5 @@
+7 7 spin
+abate 2 1 1
+baker 2 2 0
+krill 4 2 1
+attic 1 4 0

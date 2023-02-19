@@ -1,0 +1,6 @@
+6 10 five
+spoke 1 1 0
+karma 4 1 1
+woman 1 5 0
+masse 3 5 1
+nerve 5 5 1

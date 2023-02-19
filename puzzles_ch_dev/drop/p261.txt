@@ -1,0 +1,6 @@
+6 10 drop
+slump 1 1 0
+magic 4 1 1
+ounce 2 3 1
+knock 1 5 0
+pluck 1 9 0

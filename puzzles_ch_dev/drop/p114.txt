@@ -1,0 +1,6 @@
+7 12 drop
+rarer 2 1 1
+tramp 1 5 0
+mouse 4 5 1
+bluer 2 7 0
+prior 1 11 0

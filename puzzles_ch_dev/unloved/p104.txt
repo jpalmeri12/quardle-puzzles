@@ -1,0 +1,5 @@
+7 7 unloved
+acorn 5 1 1
+elect 2 2 0
+locus 3 2 1
+incur 1 4 0

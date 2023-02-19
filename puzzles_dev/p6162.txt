@@ -1,0 +1,5 @@
+7 10
+fight 2 1 1
+bison 1 2 0
+total 2 5 0
+otter 3 5 1

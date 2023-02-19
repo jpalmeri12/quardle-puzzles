@@ -1,0 +1,9 @@
+7 10 beforeafter
+swoon 2 1 1
+novel 2 5 0
+voila 4 5 1
+ovoid 1 7 0
+!beforeafter 1 r
+!beforeafter 2 m
+!beforeafter 1 n
+!beforeafter 2 k

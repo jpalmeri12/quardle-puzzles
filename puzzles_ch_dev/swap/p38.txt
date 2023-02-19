@@ -1,0 +1,5 @@
+7 7 swap
+lfail 4 1 1
+comci 2 2 1
+coean 1 3 0
+calmp 2 5 0

@@ -1,0 +1,5 @@
+7 10 hardmode
+outgo 3 1 1
+worst 2 5 0
+slide 5 5 1
+alibi 1 7 0

@@ -1,0 +1,5 @@
+6 7
+proof 3 1 1
+verve 1 2 0
+verge 1 2 1
+roomy 1 4 0

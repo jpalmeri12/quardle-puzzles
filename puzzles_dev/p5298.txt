@@ -1,0 +1,5 @@
+6 7
+chaos 5 1 1
+morph 1 2 0
+rebut 3 2 1
+taboo 1 4 0

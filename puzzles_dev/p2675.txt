@@ -1,0 +1,5 @@
+7 10
+filer 4 1 1
+badly 1 3 0
+wordy 2 5 0
+wrack 2 5 1

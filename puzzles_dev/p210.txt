@@ -1,0 +1,5 @@
+7 10
+obese 6 1 1
+broke 2 5 0
+owing 4 5 1
+burnt 1 8 0

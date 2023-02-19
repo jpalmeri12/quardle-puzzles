@@ -1,0 +1,5 @@
+7 9 fourscore
+would 5 1 1
+quill 2 4 0
+quark 2 4 1
+crazy 1 7 0

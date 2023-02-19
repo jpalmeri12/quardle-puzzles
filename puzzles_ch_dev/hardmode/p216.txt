@@ -1,0 +1,5 @@
+7 9 hardmode
+ester 1 1 0
+scoff 2 1 1
+psalm 6 4 1
+ficus 2 5 0

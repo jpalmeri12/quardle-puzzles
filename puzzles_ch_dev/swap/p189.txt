@@ -1,0 +1,5 @@
+6 7 swap
+mamga 1 1 1
+abker 1 2 0
+ksill 3 2 1
+goign 1 4 0

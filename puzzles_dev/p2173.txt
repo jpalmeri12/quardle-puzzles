@@ -1,0 +1,5 @@
+7 10
+muddy 4 1 1
+ready 1 3 0
+kayak 2 5 0
+aside 3 5 1

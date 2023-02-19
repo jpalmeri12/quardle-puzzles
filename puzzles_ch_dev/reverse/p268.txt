@@ -1,0 +1,5 @@
+7 10 reverse
+ypaos 1 1 1
+spied 1 5 0
+pmuts 2 5 1
+uncut 2 7 0

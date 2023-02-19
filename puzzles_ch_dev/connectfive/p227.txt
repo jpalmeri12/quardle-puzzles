@@ -1,0 +1,6 @@
+7 11 connectfive
+joint 6 1 1
+midst 3 3 1
+liken 2 4 0
+kneel 1 6 1
+natal 1 7 0

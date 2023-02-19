@@ -1,0 +1,5 @@
+7 9 invention
+awful 3 1 1
+swarm 2 2 0
+azure 1 4 0
+ennui 5 4 1

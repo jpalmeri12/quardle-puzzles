@@ -1,0 +1,7 @@
+6 6 fourthwall
+widow 1 1 0
+world 1 1 1
+ratty 1 3 0
+ditty 3 1 1
+dryly 1 5 0
+wryly 5 1 1

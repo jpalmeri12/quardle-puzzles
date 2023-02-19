@@ -1,0 +1,5 @@
+7 10
+funky 6 1 1
+missy 2 5 0
+minor 2 5 1
+inlay 1 7 0

@@ -1,0 +1,5 @@
+7 9 duplicity
+agate 4 1 1
+ratty 2 4 1
+eager 1 5 0
+tatty 2 7 0

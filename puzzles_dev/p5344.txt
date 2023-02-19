@@ -1,0 +1,5 @@
+6 10
+tithe 4 1 1
+patty 1 3 0
+flier 1 5 0
+lapse 2 5 1

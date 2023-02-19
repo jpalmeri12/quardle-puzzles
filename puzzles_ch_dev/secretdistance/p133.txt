@@ -1,0 +1,7 @@
+7 9 secretdistance
+arrow 6 1 1
+vigor 2 2 0
+gorge 4 2 1
+comet 1 6 0
+godly 1 8 0
+!sdpos 3 0 2 2

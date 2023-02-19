@@ -1,0 +1,5 @@
+7 7
+begun 1 1 1
+sound 4 2 1
+undue 1 4 0
+cadet 2 6 0

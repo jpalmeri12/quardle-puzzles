@@ -1,0 +1,9 @@
+7 9 beforeafter
+first 1 1 1
+snuff 1 4 0
+floor 4 4 1
+dirty 2 8 0
+!beforeafter 1 m
+!beforeafter 2 k
+!beforeafter 1 m
+!beforeafter 1 m

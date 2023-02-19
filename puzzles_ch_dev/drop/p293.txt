@@ -1,0 +1,6 @@
+6 12 drop
+steam 1 1 0
+truck 2 1 1
+skill 1 5 0
+leery 4 5 1
+tasty 1 11 0

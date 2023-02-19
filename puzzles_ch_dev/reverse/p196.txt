@@ -1,0 +1,5 @@
+7 10 reverse
+ecnuo 5 1 1
+wagon 2 5 0
+gnuoy 4 5 1
+rebus 1 7 0

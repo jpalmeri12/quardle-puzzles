@@ -1,0 +1,5 @@
+7 7 invention
+goose 2 1 1
+folly 1 2 0
+lyric 4 2 1
+edict 2 5 0

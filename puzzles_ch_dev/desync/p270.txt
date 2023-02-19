@@ -1,0 +1,5 @@
+7 9 desync
+omega 1 1 0
+medal 2 1 1
+hardy 4 4 1
+loamy 2 5 0

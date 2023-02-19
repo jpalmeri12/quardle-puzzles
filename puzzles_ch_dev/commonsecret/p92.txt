@@ -1,0 +1,6 @@
+7 10 commonsecret
+gazer 4 1 1
+cedar 1 2 0
+circa 2 5 0
+chaos 5 5 1
+!secret a

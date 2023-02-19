@@ -1,0 +1,5 @@
+7 9 spaced
+handy 1 1 1
+dusky 1 4 0
+shape 3 4 1
+retch 2 8 0

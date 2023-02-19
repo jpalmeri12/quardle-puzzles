@@ -1,0 +1,6 @@
+7 9 five
+bluer 1 1 0
+lasso 2 1 1
+droop 4 3 1
+shrew 2 4 0
+woken 6 4 1

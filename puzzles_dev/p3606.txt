@@ -1,0 +1,5 @@
+7 8
+sewer 3 1 1
+cheat 1 2 0
+sieve 6 3 1
+prune 2 5 0

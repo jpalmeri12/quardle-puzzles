@@ -1,0 +1,6 @@
+6 10 five
+surge 1 1 1
+shied 1 1 0
+remit 1 3 0
+ester 1 5 0
+token 3 5 1

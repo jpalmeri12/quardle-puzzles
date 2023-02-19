@@ -1,0 +1,6 @@
+6 10 commonsecret
+torch 1 1 1
+harsh 1 5 0
+shrew 4 5 1
+fjord 1 7 0
+!secret r

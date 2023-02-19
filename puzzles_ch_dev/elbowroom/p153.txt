@@ -1,0 +1,5 @@
+7 8 elbowroom
+thong 2 1 1
+bully 4 3 1
+gulch 2 5 0
+vinyl 1 7 0

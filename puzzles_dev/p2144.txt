@@ -1,0 +1,5 @@
+7 8
+lapse 6 1 1
+tipsy 3 3 1
+spare 2 5 0
+dryer 1 7 0

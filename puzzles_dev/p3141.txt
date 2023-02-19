@@ -1,0 +1,5 @@
+7 10
+spunk 4 1 1
+setup 1 3 0
+askew 2 5 0
+whale 6 5 1

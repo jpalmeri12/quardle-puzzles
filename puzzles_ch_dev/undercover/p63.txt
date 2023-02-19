@@ -1,0 +1,6 @@
+7 11 undercover
+harem 4 1 1
+asset 1 4 0
+sonic 2 4 1
+irony 2 7 0
+fluff 1 10 0

@@ -1,0 +1,5 @@
+6 9 scrabble
+satyr 1 8 0
+stork 1 1 1
+karma 1 5 0
+empty 4 4 1

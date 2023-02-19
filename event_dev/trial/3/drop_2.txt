@@ -1,0 +1,6 @@
+7 12 drop
+giver 3 1 1
+liner 2 2 0
+marry 1 5 0
+aglow 2 5 1
+rarer 1 11 0

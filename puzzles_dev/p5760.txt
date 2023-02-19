@@ -1,0 +1,5 @@
+7 9
+leper 3 1 1
+wheat 1 4 0
+torch 5 4 1
+cache 2 8 0

@@ -1,0 +1,5 @@
+7 10 soundscramble
+ditte 4 1 1
+adebo 2 5 0
+bolew 5 5 1
+annul 1 7 0

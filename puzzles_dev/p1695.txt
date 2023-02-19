@@ -1,0 +1,5 @@
+7 9
+clash 6 1 1
+gloss 2 4 0
+lurch 3 4 1
+shrug 1 6 0

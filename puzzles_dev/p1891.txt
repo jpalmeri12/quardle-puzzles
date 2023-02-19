@@ -1,0 +1,5 @@
+7 10
+hasty 2 1 1
+assay 2 2 0
+syrup 1 5 0
+snide 1 5 1

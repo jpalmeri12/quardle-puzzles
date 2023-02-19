@@ -1,0 +1,5 @@
+7 9
+sling 5 1 1
+gruel 1 2 0
+dingo 3 4 1
+singe 2 5 0

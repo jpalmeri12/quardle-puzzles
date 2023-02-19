@@ -1,0 +1,5 @@
+7 10
+prick 5 1 1
+wacky 2 5 0
+wheel 2 5 1
+beefy 1 8 0

@@ -1,0 +1,9 @@
+6 9 spellbound
+watch 2 1 1
+cadet 1 2 0
+eclat 1 4 0
+abbey 4 4 1
+!spellbound 0 4 2
+!spellbound 1 4 0
+!spellbound 2 4 0
+!spellbound 3 4 3

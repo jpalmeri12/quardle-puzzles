@@ -1,0 +1,5 @@
+7 10 spaced
+elbow 2 1 1
+plaid 1 2 0
+wimpy 2 5 0
+macho 4 5 1

@@ -1,0 +1,5 @@
+7 10 spaced
+cramp 2 1 1
+tawny 1 3 0
+penal 2 5 0
+naive 4 5 1

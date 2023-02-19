@@ -1,0 +1,5 @@
+7 7 clockdown
+vinyl 3 1 1
+crisp 1 2 0
+panel 5 2 1
+lying 2 4 0

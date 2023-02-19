@@ -1,0 +1,6 @@
+7 8 commonsecret
+goody 6 1 1
+lingo 3 3 1
+rigid 2 4 0
+begun 1 6 0
+!secret g

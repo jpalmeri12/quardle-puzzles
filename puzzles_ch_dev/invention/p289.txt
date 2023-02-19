@@ -1,0 +1,5 @@
+7 7 invention
+inlay 3 1 1
+lynch 1 2 0
+haven 5 2 1
+larva 2 4 0

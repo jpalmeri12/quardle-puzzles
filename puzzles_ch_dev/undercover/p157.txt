@@ -1,0 +1,6 @@
+7 10 undercover
+tatty 1 1 0
+alibi 2 1 1
+exist 6 3 1
+borax 2 4 0
+chump 1 9 0

@@ -1,0 +1,6 @@
+7 9 wordcolumn
+venue 6 1 1
+buyer 2 4 1
+pivot 4 4 1
+unite 2 5 0
+detox 1 7 0

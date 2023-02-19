@@ -1,0 +1,5 @@
+6 6
+flail 1 1 0
+filer 1 1 1
+avian 3 1 1
+exalt 1 4 0

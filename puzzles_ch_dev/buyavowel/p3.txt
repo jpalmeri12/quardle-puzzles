@@ -1,0 +1,5 @@
+7 9 buyavowel
+pithy 3 1 1
+stick 1 2 0
+shoot 2 4 0
+torus 6 4 1

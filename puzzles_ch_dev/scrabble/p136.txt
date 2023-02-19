@@ -1,0 +1,5 @@
+6 7 scrabble
+lemur 3 2 1
+cheat 5 1 1
+mamma 1 4 0
+belch 1 2 0

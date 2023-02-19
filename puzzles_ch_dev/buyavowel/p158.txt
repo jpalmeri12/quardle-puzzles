@@ -1,0 +1,5 @@
+7 9 buyavowel
+ideal 1 1 0
+adorn 4 1 1
+circa 2 4 0
+alert 6 4 1

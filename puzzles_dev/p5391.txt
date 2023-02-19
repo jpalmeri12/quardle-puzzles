@@ -1,0 +1,5 @@
+7 10
+crowd 4 1 1
+sadly 2 5 0
+snare 2 5 1
+tasty 1 7 0

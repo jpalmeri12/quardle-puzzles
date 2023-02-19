@@ -1,0 +1,5 @@
+7 9 clockdown
+scuba 3 1 1
+ficus 1 2 0
+roost 5 4 1
+savoy 2 5 0

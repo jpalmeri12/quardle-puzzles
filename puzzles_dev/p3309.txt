@@ -1,0 +1,5 @@
+7 10
+vodka 6 1 1
+hardy 2 5 1
+hyena 2 5 0
+truth 1 7 0

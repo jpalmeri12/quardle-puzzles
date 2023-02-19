@@ -1,0 +1,5 @@
+7 10
+spank 5 1 1
+squad 2 3 0
+clink 1 5 0
+igloo 3 5 1

@@ -1,0 +1,6 @@
+6 12 drop
+flora 1 1 0
+fibre 1 1 1
+envoy 1 5 0
+noise 2 5 1
+broil 1 11 0

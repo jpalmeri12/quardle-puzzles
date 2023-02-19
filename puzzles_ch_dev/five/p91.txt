@@ -1,0 +1,6 @@
+7 10 five
+modal 6 1 1
+broad 3 4 1
+prowl 2 5 0
+waist 5 5 1
+swami 1 7 0

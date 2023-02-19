@@ -1,0 +1,6 @@
+6 12 wordcolumn
+karma 2 1 1
+amiss 1 4 0
+scale 5 4 1
+usage 1 7 1
+snake 1 8 0

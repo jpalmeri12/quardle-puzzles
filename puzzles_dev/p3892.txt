@@ -1,0 +1,5 @@
+6 10
+facet 2 1 1
+stank 1 5 0
+kitty 5 5 1
+gully 1 9 0

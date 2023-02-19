@@ -1,0 +1,9 @@
+7 10 beforeafter
+datum 5 1 1
+adopt 1 3 0
+swami 2 5 0
+icily 6 5 1
+!beforeafter 1 k
+!beforeafter 1 i
+!beforeafter 1 r
+!beforeafter 2 j

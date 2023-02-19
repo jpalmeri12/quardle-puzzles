@@ -1,0 +1,5 @@
+7 7 skyscrapers
+gaffe 2 5 0
+dwarf 4 1 1
+ruddy 1 1 0
+cadet 6 2 1

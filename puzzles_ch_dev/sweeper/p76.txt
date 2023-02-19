@@ -1,0 +1,5 @@
+7 8 sweeper
+flume 2 1 1
+surge 1 3 0
+gourd 4 3 1
+caddy 2 7 0

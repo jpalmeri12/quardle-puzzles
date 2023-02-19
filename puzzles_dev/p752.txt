@@ -1,0 +1,5 @@
+7 10
+field 2 1 1
+oddly 1 5 0
+youth 5 5 1
+minus 2 7 0

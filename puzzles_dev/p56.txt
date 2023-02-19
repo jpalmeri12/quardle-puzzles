@@ -1,0 +1,5 @@
+7 10
+hazel 4 1 1
+dozen 2 3 0
+surly 1 5 0
+unify 2 5 1

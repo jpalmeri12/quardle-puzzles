@@ -1,0 +1,5 @@
+7 10
+crush 2 1 1
+hyena 2 5 0
+youth 3 5 1
+motto 1 8 0

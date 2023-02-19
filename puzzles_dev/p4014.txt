@@ -1,0 +1,5 @@
+6 10
+terra 4 1 1
+vegan 1 5 1
+vital 1 5 0
+nomad 1 9 0

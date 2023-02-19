@@ -1,0 +1,5 @@
+7 10
+ounce 1 1 0
+check 4 1 1
+maker 2 5 0
+error 5 5 1

@@ -1,0 +1,6 @@
+6 9 drop
+swine 2 1 1
+aware 1 2 0
+reply 4 2 1
+snipe 1 4 0
+pause 1 8 0

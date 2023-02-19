@@ -1,0 +1,9 @@
+6 9 spellbound
+druid 3 1 1
+egret 1 2 0
+drier 1 4 0
+robin 5 4 1
+!spellbound 0 4 2
+!spellbound 1 0 3
+!spellbound 2 3 1
+!spellbound 3 1 3

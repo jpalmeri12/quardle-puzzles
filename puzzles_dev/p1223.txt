@@ -1,0 +1,5 @@
+7 8
+bigot 5 1 1
+cloak 3 3 1
+scout 1 5 0
+skunk 2 7 0

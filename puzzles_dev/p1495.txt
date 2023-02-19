@@ -1,0 +1,5 @@
+7 7
+stole 4 1 1
+pithy 2 2 0
+paddy 2 2 1
+adult 1 4 0

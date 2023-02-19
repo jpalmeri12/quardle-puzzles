@@ -1,0 +1,6 @@
+7 10 connectfive
+gaffe 3 1 1
+macaw 2 2 0
+scent 1 5 0
+toddy 5 5 1
+embed 1 7 0

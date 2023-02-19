@@ -1,0 +1,6 @@
+7 8 commonsecret
+golem 5 1 1
+great 2 3 1
+grime 1 4 0
+tangy 2 7 0
+!secret g

@@ -1,0 +1,6 @@
+6 11 undercover
+pence 1 1 1
+cluck 1 4 0
+crust 4 4 1
+waist 1 7 0
+foggy 1 10 0

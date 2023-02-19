@@ -1,0 +1,6 @@
+7 12 undercover
+dwarf 2 1 1
+final 2 5 0
+angst 5 5 1
+sling 1 7 0
+couch 1 11 0

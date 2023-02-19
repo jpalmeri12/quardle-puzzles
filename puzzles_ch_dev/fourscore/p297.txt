@@ -1,0 +1,5 @@
+7 7 fourscore
+maple 2 1 1
+amity 2 2 0
+timer 5 2 1
+segue 1 5 0

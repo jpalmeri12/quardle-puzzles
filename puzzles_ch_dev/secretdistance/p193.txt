@@ -1,0 +1,7 @@
+6 11 secretdistance
+sinew 5 1 1
+radii 1 2 0
+geese 1 4 0
+expel 2 4 1
+buggy 1 10 0
+!sdpos 3 3 2 0

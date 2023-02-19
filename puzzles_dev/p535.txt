@@ -1,0 +1,5 @@
+7 10
+brass 2 1 1
+brief 2 1 0
+essay 1 5 0
+aider 4 5 1

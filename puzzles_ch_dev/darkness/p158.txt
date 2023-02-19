@@ -1,0 +1,5 @@
+7 9 darkness
+riser 2 1 0
+swing 4 1 1
+swine 1 4 0
+stuck 1 4 1

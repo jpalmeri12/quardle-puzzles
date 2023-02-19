@@ -1,0 +1,5 @@
+6 9
+decoy 2 1 1
+verso 1 2 0
+roger 1 4 0
+reedy 5 4 1

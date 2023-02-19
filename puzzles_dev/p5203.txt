@@ -1,0 +1,5 @@
+7 9
+equip 2 1 1
+quick 2 2 0
+wordy 4 4 1
+spoon 1 5 0

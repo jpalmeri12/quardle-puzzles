@@ -1,0 +1,5 @@
+7 10
+study 2 1 1
+myrrh 1 5 0
+rumor 3 5 1
+smoke 2 7 0

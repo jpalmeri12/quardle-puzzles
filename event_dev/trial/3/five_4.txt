@@ -1,0 +1,6 @@
+6 10 five
+bayou 2 1 1
+banjo 1 2 0
+jetty 4 2 1
+aunty 1 5 0
+abbey 1 5 1

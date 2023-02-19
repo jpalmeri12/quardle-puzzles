@@ -1,0 +1,5 @@
+7 9
+cleat 2 1 0
+alien 5 1 1
+butte 1 4 0
+teeth 3 4 1

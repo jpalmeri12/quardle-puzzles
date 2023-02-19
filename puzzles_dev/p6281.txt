@@ -1,0 +1,5 @@
+7 9
+shirk 1 1 0
+imply 3 1 1
+false 5 4 1
+bylaw 2 5 0

@@ -1,0 +1,5 @@
+7 9 unloved
+gecko 4 1 1
+nasal 2 4 1
+canon 1 5 0
+lefty 2 8 0

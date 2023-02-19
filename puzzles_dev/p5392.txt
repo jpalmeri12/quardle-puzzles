@@ -1,0 +1,5 @@
+6 10
+cloak 3 1 1
+baker 1 5 0
+relax 5 5 1
+swirl 1 7 0

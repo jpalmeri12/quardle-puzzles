@@ -1,0 +1,5 @@
+6 7 soundscramble
+tarre 2 1 1
+macce 1 2 0
+empla 5 2 1
+lebal 1 5 0

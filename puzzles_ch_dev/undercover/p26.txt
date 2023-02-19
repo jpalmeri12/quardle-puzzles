@@ -1,0 +1,6 @@
+7 10 undercover
+psalm 4 1 1
+trust 1 2 0
+myrrh 6 3 1
+palsy 2 4 0
+evoke 1 9 0

@@ -1,0 +1,5 @@
+6 6 hardmode
+embed 1 1 1
+aware 5 1 1
+macaw 1 2 0
+ember 1 4 0

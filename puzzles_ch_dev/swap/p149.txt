@@ -1,0 +1,5 @@
+7 10 swap
+spaek 2 1 1
+rpior 1 2 0
+ksier 2 5 0
+isnge 4 5 1

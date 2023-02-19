@@ -1,0 +1,5 @@
+6 7
+clasp 4 1 1
+atoll 1 2 0
+tumor 2 2 1
+amiss 1 4 0

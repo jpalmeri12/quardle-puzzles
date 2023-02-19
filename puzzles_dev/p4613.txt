@@ -1,0 +1,5 @@
+6 10
+snide 1 1 0
+idiot 3 1 1
+crust 1 5 1
+cutie 1 5 0

@@ -1,0 +1,6 @@
+6 9 connectfive
+satyr 5 1 1
+vista 1 2 0
+dowry 1 4 0
+doubt 1 4 1
+waver 3 4 1

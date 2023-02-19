@@ -1,0 +1,5 @@
+7 9
+sting 5 1 1
+rogue 2 4 1
+doing 1 5 0
+usual 2 7 0

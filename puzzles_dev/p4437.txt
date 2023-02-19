@@ -1,0 +1,5 @@
+7 10
+toxic 3 1 1
+chord 1 2 0
+eclat 2 5 0
+lapse 4 5 1

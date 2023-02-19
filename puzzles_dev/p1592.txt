@@ -1,0 +1,5 @@
+7 9
+safer 1 1 0
+elect 4 1 1
+vocal 2 4 0
+lapse 6 4 1

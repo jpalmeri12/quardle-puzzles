@@ -1,0 +1,5 @@
+7 9 bestfit
+raise 4 1 1
+shade 2 2 0
+slush 1 4 0
+leafy 2 4 1

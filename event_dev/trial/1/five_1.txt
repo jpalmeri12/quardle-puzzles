@@ -1,0 +1,6 @@
+7 10 five
+drama 3 1 1
+lucky 6 3 1
+manic 2 5 0
+ninth 4 5 1
+quota 1 8 0

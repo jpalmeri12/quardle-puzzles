@@ -1,0 +1,6 @@
+7 9 commonsecret
+thyme 4 1 1
+ether 2 2 0
+thumb 1 4 0
+hotel 2 4 1
+!secret t

@@ -1,0 +1,5 @@
+7 7 frequency
+folio 5 1 1
+lilac 3 2 1
+chill 1 3 0
+carol 2 5 0

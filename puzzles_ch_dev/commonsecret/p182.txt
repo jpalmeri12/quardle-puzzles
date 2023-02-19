@@ -1,0 +1,6 @@
+6 9 commonsecret
+paint 5 1 1
+spill 1 4 1
+pleat 1 5 0
+lumpy 1 7 0
+!secret p

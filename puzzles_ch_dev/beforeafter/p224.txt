@@ -1,0 +1,9 @@
+6 9 beforeafter
+pride 1 1 1
+rouge 1 2 0
+demur 1 4 0
+metro 3 4 1
+!beforeafter 1 j
+!beforeafter 2 k
+!beforeafter 1 k
+!beforeafter 1 n

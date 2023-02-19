@@ -1,0 +1,6 @@
+6 9 island
+music 1 1 1
+condo 5 4 1
+cacao 1 5 0
+mambo 1 8 0
+!island 2111 211 111 1111

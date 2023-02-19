@@ -1,0 +1,5 @@
+7 10
+mangy 4 1 1
+tense 2 3 0
+polyp 1 5 0
+purse 1 5 1

@@ -1,0 +1,5 @@
+6 10
+wheel 1 1 0
+hunch 2 1 1
+shaky 1 5 0
+abyss 3 5 1

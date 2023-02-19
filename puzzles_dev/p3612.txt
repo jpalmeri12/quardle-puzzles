@@ -1,0 +1,5 @@
+6 7
+waver 5 1 1
+theta 1 2 0
+hatch 2 2 1
+scour 1 5 0

@@ -1,0 +1,5 @@
+7 9
+fritz 5 1 1
+blitz 2 4 0
+black 2 4 1
+skirt 1 8 0

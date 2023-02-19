@@ -1,0 +1,5 @@
+7 7
+sever 3 1 1
+weedy 2 2 0
+death 5 2 1
+opera 1 4 0

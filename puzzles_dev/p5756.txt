@@ -1,0 +1,5 @@
+7 8
+wordy 3 1 1
+urban 2 3 0
+ahead 5 3 1
+maybe 1 5 0

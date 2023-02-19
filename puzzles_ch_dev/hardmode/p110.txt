@@ -1,0 +1,5 @@
+7 10 hardmode
+cache 6 1 1
+tower 2 5 1
+trite 2 5 0
+begat 1 8 0

@@ -1,0 +1,6 @@
+7 9 commonsecret
+rebus 1 1 0
+scrub 5 1 1
+pubic 3 4 1
+rumba 2 5 0
+!secret b

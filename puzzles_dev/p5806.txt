@@ -1,0 +1,5 @@
+7 8
+poesy 2 1 0
+olive 3 1 1
+bring 1 3 0
+blast 1 3 1

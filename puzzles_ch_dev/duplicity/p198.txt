@@ -1,0 +1,5 @@
+7 8 duplicity
+earth 6 1 1
+chase 4 3 1
+crash 2 5 0
+steer 1 7 0

@@ -1,0 +1,6 @@
+6 10 connectfive
+plumb 1 1 1
+endow 5 3 1
+bland 1 5 0
+awake 3 5 1
+knelt 1 9 0

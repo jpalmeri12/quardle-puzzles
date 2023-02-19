@@ -1,0 +1,5 @@
+6 9
+wrung 1 1 0
+unmet 3 1 1
+shell 1 4 0
+leach 5 4 1

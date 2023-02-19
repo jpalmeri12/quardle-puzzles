@@ -1,0 +1,5 @@
+7 7
+while 5 1 1
+macho 2 2 0
+arbor 3 2 1
+libel 1 4 0

@@ -1,0 +1,5 @@
+7 7 frequency
+frost 1 1 1
+frank 4 2 1
+sugar 1 4 0
+ankle 2 6 0

@@ -1,0 +1,6 @@
+7 10 wordcolumn
+clasp 4 1 1
+rapid 2 5 0
+await 3 5 1
+input 5 5 1
+stamp 1 7 0

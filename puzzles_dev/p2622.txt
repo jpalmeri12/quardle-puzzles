@@ -1,0 +1,5 @@
+7 9
+corer 5 1 1
+honor 2 2 0
+rebus 1 4 1
+ember 1 5 0

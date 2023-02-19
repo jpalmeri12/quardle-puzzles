@@ -1,0 +1,5 @@
+7 7 frequency
+usher 4 1 1
+basil 2 2 0
+birth 2 2 1
+storm 1 5 0

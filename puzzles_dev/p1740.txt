@@ -1,0 +1,5 @@
+7 10
+hover 5 1 1
+audio 1 2 0
+dairy 2 5 0
+dryer 2 5 1

@@ -1,0 +1,5 @@
+7 10
+stale 3 1 1
+flesh 1 5 0
+haute 5 5 1
+batty 2 8 0

@@ -1,0 +1,5 @@
+6 7 spaced
+tripe 2 1 1
+gripe 1 2 0
+pudgy 4 2 1
+reign 1 5 0

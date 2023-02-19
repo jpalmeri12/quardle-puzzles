@@ -1,0 +1,5 @@
+7 10 duplicity
+trade 2 1 1
+tread 1 2 0
+edict 2 5 0
+tacit 6 5 1

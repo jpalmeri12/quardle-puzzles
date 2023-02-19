@@ -1,0 +1,6 @@
+7 9 connectfive
+abled 2 1 0
+broke 3 1 1
+askew 1 4 0
+armor 1 4 1
+wince 5 4 1

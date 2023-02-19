@@ -1,0 +1,7 @@
+6 12 secretdistance
+cruel 1 1 0
+cynic 1 1 1
+chime 1 5 0
+moron 4 5 1
+scald 1 11 0
+!sdpos 2 1 3 0

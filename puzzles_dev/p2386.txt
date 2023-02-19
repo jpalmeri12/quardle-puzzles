@@ -1,0 +1,5 @@
+7 10
+shaft 1 1 0
+flint 4 1 1
+motel 2 5 0
+leaky 6 5 1

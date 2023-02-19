@@ -1,0 +1,6 @@
+7 11 five
+panic 1 1 1
+beret 3 4 1
+creak 1 5 0
+fraud 6 6 1
+fewer 2 7 0

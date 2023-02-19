@@ -1,0 +1,5 @@
+7 10
+teeth 4 1 1
+rupee 1 2 0
+rehab 2 5 0
+elope 3 5 1

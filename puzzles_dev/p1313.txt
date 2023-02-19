@@ -1,0 +1,5 @@
+7 10
+shine 1 1 1
+elect 1 5 0
+exert 3 5 1
+fresh 2 8 0

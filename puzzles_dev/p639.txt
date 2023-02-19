@@ -1,0 +1,5 @@
+6 7
+guise 4 1 1
+silky 1 2 1
+stout 1 2 0
+lousy 1 4 0

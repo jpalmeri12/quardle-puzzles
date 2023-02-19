@@ -1,0 +1,5 @@
+7 8 soundscramble
+actol 4 1 1
+prick 1 2 0
+glass 6 3 1
+emoil 2 4 0

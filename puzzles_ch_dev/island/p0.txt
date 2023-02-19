@@ -1,0 +1,6 @@
+6 10 island
+bison 5 1 1
+cabin 1 5 0
+borax 3 5 1
+circa 1 7 0
+!island 221 2111 11111 1111

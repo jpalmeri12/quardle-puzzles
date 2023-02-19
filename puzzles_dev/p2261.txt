@@ -1,0 +1,5 @@
+7 10
+deity 4 1 1
+royal 2 5 0
+alike 5 5 1
+knack 1 8 0

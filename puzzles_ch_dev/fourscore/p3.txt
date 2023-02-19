@@ -1,0 +1,5 @@
+6 10 fourscore
+paler 5 1 1
+hovel 1 3 0
+diver 1 5 0
+inbox 2 5 1

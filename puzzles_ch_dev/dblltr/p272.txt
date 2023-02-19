@@ -1,0 +1,5 @@
+7 9 dblltr
+legal 3 1 1
+queue 1 2 0
+bible 5 4 1
+flail 2 5 0

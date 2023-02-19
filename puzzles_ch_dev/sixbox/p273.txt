@@ -1,0 +1,7 @@
+8 8 sixbox
+crude 3 1 1
+sheik 5 1 1
+rouge 1 3 0
+gravy 4 3 1
+drill 3 4 0
+wreak 1 5 0

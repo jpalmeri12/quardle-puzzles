@@ -1,0 +1,5 @@
+7 9 frequency
+hedge 4 1 1
+flier 1 2 0
+rodeo 2 4 1
+rigor 2 4 0

@@ -1,0 +1,5 @@
+7 8
+mamma 1 1 1
+mangy 3 3 1
+mealy 1 4 0
+aging 2 6 0

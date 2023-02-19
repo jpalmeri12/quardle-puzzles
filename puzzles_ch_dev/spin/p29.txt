@@ -1,0 +1,5 @@
+7 10 spin
+scale 2 1 1
+fetid 1 5 0
+drama 5 5 1
+chump 2 8 0

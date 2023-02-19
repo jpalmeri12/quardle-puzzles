@@ -1,0 +1,5 @@
+6 10 spin
+green 1 1 1
+event 1 3 0
+ninny 1 5 0
+notch 3 5 1

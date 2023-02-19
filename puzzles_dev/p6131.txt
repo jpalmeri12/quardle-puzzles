@@ -1,0 +1,5 @@
+7 10
+udder 2 1 1
+adept 1 2 0
+reset 2 5 0
+snuff 4 5 1

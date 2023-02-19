@@ -1,0 +1,5 @@
+7 10
+shawl 1 1 1
+lymph 1 5 0
+power 4 5 1
+vowel 2 7 0

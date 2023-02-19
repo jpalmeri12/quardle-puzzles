@@ -1,0 +1,5 @@
+7 9
+trail 2 1 0
+aisle 4 1 1
+exult 1 4 0
+egret 1 4 1

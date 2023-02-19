@@ -1,0 +1,6 @@
+7 10 connectfive
+parry 2 1 0
+remit 5 1 1
+quota 2 5 0
+ombre 4 5 1
+stork 1 8 0

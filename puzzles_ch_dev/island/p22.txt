@@ -1,0 +1,6 @@
+6 9 island
+sword 2 1 1
+erode 1 4 0
+drill 4 4 1
+still 1 7 0
+!island 41 31 211 1111

@@ -1,0 +1,5 @@
+6 9 spaced
+alter 5 1 1
+sauce 1 4 0
+spice 1 4 1
+crime 1 7 0

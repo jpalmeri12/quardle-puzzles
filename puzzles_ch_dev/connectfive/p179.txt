@@ -1,0 +1,6 @@
+7 10 connectfive
+arbor 1 1 0
+bound 3 1 1
+adapt 2 5 0
+amble 4 5 1
+theme 6 5 1

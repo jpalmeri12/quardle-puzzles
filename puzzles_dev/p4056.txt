@@ -1,0 +1,5 @@
+7 10
+verge 5 1 1
+elide 1 5 0
+icing 3 5 1
+annul 2 8 0

@@ -1,0 +1,5 @@
+7 9
+liver 5 1 1
+thank 2 4 1
+hoard 2 5 0
+skate 1 8 0

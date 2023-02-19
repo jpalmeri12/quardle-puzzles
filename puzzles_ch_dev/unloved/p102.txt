@@ -1,0 +1,5 @@
+6 8 unloved
+empty 4 1 1
+pixel 2 3 1
+width 1 4 0
+pluck 1 7 0

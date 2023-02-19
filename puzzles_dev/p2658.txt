@@ -1,0 +1,5 @@
+6 8
+swami 1 1 0
+salon 1 1 1
+lynch 5 3 1
+ovary 1 4 0

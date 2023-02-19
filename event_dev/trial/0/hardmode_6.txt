@@ -1,0 +1,5 @@
+7 8 hardmode
+lobby 1 1 1
+assay 4 3 1
+bossy 1 4 0
+brawl 2 6 0

@@ -1,0 +1,5 @@
+7 9 sweeper
+glass 1 1 0
+shrug 5 1 1
+recut 2 4 0
+rural 2 4 1

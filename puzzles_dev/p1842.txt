@@ -1,0 +1,5 @@
+7 10
+plier 2 1 1
+riper 1 3 0
+rigid 2 5 0
+idyll 5 5 1

@@ -1,0 +1,6 @@
+6 8 squaredance
+strap 1 1 1
+wrack 5 1 1
+screw 1 1 0
+prank 1 5 0
+belch 1 7 0

@@ -1,0 +1,5 @@
+7 10 fourscore
+topic 4 1 1
+wacky 2 5 0
+khaki 5 5 1
+tweak 1 8 0

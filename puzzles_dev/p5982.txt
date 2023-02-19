@@ -1,0 +1,5 @@
+7 7
+swore 1 1 1
+godly 4 2 1
+rowdy 1 4 0
+royal 2 6 0

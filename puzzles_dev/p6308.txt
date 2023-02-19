@@ -1,0 +1,5 @@
+7 10
+liege 1 1 0
+gripe 4 1 1
+smell 2 5 0
+motel 3 5 1

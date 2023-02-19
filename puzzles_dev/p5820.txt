@@ -1,0 +1,5 @@
+6 10
+otter 3 1 1
+jetty 1 2 0
+verso 1 5 0
+snarl 4 5 1

@@ -1,0 +1,5 @@
+7 8 duplicity
+gamma 2 1 0
+mango 5 1 1
+llama 2 3 1
+along 1 4 0

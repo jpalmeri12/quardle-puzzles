@@ -1,0 +1,5 @@
+7 10
+these 2 1 1
+epoch 2 3 0
+heavy 1 5 0
+alibi 3 5 1

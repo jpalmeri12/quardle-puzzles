@@ -1,0 +1,5 @@
+7 9 skyscrapers
+ocean 2 4 0
+rayon 2 1 1
+fruit 1 1 0
+entry 4 4 1

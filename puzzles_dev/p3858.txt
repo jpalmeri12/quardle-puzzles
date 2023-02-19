@@ -1,0 +1,5 @@
+7 10
+gross 3 1 1
+missy 1 5 0
+sower 4 5 1
+alert 2 8 0

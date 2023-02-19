@@ -1,0 +1,6 @@
+7 10 drop
+aping 1 1 0
+grimy 5 1 1
+login 2 3 0
+orbit 3 3 1
+gayer 1 9 0

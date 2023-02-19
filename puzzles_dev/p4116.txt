@@ -1,0 +1,5 @@
+6 6
+index 3 1 1
+today 5 1 1
+tango 1 2 0
+sixty 1 5 0

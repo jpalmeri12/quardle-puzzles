@@ -1,0 +1,5 @@
+7 9
+pubic 5 1 1
+dryly 3 4 1
+lyric 1 5 0
+hydro 2 8 0

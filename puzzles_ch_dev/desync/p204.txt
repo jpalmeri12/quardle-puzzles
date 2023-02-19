@@ -1,0 +1,5 @@
+7 10 desync
+amble 2 1 0
+bleat 4 1 1
+month 1 5 0
+often 2 5 1

@@ -1,0 +1,5 @@
+7 9 swap
+setam 4 1 1
+smoet 1 2 0
+orach 2 4 0
+hwole 6 4 1

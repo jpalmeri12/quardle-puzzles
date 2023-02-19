@@ -1,0 +1,5 @@
+7 10 outoforder
+stash 3 1 1
+stave 1 3 0
+shrug 2 5 0
+gamer 6 5 1

@@ -1,0 +1,5 @@
+7 9 duplicity
+adore 5 1 1
+amble 2 4 1
+ombre 1 5 0
+ladle 2 7 0

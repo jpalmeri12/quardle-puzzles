@@ -1,0 +1,5 @@
+7 10 beta
+riper 5 1 1
+swirl 2 5 0
+wafer 3 5 1
+freak 1 8 0

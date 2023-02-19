@@ -1,0 +1,5 @@
+7 10
+udder 3 1 1
+widen 1 2 0
+grimy 2 5 0
+muddy 5 5 1

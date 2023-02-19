@@ -1,0 +1,5 @@
+7 10
+fruit 2 1 1
+truth 2 5 0
+tuber 5 5 1
+brine 1 8 0

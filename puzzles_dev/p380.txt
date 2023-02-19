@@ -1,0 +1,5 @@
+7 9
+pinto 1 1 1
+towel 1 4 0
+evade 4 4 1
+daddy 2 7 0

@@ -1,0 +1,9 @@
+7 9 spellbound
+credo 5 1 1
+undid 3 4 1
+tango 1 5 0
+fiber 2 7 0
+!spellbound 0 3 2
+!spellbound 1 2 4
+!spellbound 2 0 1
+!spellbound 3 2 0

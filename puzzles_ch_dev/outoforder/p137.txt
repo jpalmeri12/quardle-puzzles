@@ -1,0 +1,5 @@
+7 10 outoforder
+minim 1 1 1
+mirth 1 5 0
+truer 4 5 1
+haunt 2 7 0

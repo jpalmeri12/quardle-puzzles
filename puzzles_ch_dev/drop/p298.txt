@@ -1,0 +1,6 @@
+7 11 drop
+caper 4 1 1
+brawn 2 2 0
+slide 1 4 1
+leery 1 5 0
+weary 1 10 0

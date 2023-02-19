@@ -1,0 +1,6 @@
+6 10 five
+stock 3 1 1
+token 1 5 0
+ounce 2 5 1
+nosey 5 5 1
+derby 1 9 0

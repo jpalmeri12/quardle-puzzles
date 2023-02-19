@@ -1,0 +1,5 @@
+7 9 swap
+oragn 1 1 1
+grutn 1 4 0
+urpee 3 4 1
+weidr 2 8 0

@@ -1,0 +1,5 @@
+7 9
+fewer 5 1 1
+scram 2 4 1
+chord 2 5 0
+small 1 8 0

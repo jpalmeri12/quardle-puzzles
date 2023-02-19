@@ -1,0 +1,5 @@
+7 9 sweeper
+chaos 2 1 1
+chock 2 1 0
+world 1 4 0
+leafy 4 4 1

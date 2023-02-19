@@ -1,0 +1,5 @@
+7 8 elbowroom
+abbot 1 1 0
+balmy 2 1 1
+leaky 2 3 0
+agate 4 3 1

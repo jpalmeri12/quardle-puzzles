@@ -1,0 +1,6 @@
+7 12 undercover
+villa 3 1 1
+viral 2 2 0
+crate 1 5 0
+retry 2 5 1
+snuff 1 11 0

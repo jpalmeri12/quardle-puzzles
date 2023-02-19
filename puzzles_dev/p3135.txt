@@ -1,0 +1,5 @@
+7 10
+sewer 2 1 0
+whine 4 1 1
+skier 1 5 0
+shack 1 5 1

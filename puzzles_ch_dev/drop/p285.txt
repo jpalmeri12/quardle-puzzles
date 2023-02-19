@@ -1,0 +1,6 @@
+6 9 drop
+trump 2 1 1
+breed 1 2 0
+duvet 5 2 1
+opine 1 5 0
+stove 1 8 0

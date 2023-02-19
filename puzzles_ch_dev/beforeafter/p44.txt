@@ -1,0 +1,9 @@
+7 10 beforeafter
+lasso 3 1 1
+psalm 2 3 0
+adorn 1 5 0
+rural 4 5 1
+!beforeafter 1 n
+!beforeafter 1 n
+!beforeafter 1 m
+!beforeafter 2 m

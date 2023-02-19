@@ -1,0 +1,8 @@
+6 8 twins
+beast 1 1 0
+zebra 1 3 0
+serve 1 5 0
+fungi 1 7 0
+!twins 2 3
+!twins 3 4
+!twins 2 4

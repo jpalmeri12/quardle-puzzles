@@ -1,0 +1,5 @@
+6 7 buyavowel
+abbey 1 1 1
+blank 1 2 0
+angry 3 2 1
+eagle 1 4 0

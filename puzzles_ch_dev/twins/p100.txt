@@ -1,0 +1,8 @@
+6 8 twins
+stomp 1 1 0
+whoop 1 3 0
+banjo 1 5 0
+lefty 1 7 0
+!twins 2 4
+!twins 2 4
+!twins 0 3

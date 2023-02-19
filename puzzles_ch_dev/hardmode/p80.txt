@@ -1,0 +1,5 @@
+7 10 hardmode
+thief 5 1 1
+alpha 2 2 0
+stiff 1 5 0
+toddy 2 5 1

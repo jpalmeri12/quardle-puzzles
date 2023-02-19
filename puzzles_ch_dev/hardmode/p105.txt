@@ -1,0 +1,5 @@
+7 10 hardmode
+shift 5 1 1
+dusty 2 5 0
+delta 2 5 1
+black 1 7 0

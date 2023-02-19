@@ -1,0 +1,9 @@
+6 9 spellbound
+glass 1 1 1
+lucky 1 2 0
+creed 4 4 1
+stark 1 5 0
+!spellbound 0 0 2
+!spellbound 1 2 3
+!spellbound 2 4 3
+!spellbound 3 2 4

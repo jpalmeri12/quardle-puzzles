@@ -1,0 +1,5 @@
+7 9
+saute 2 1 1
+award 2 2 0
+stack 1 4 0
+kneel 5 4 1

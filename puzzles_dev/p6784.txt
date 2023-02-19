@@ -1,0 +1,5 @@
+6 7
+bribe 4 1 1
+apart 1 2 0
+awash 1 2 1
+adobe 1 4 0

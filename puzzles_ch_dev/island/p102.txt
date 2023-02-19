@@ -1,0 +1,6 @@
+7 8 island
+queen 6 1 1
+nymph 2 3 1
+noble 2 3 0
+shrug 1 7 0
+!island 1111 41 221 311

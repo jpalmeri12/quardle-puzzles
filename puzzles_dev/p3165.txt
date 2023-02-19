@@ -1,0 +1,5 @@
+7 10
+drive 1 1 1
+endow 1 5 0
+would 5 5 1
+shout 2 7 0

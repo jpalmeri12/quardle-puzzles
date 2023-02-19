@@ -1,0 +1,5 @@
+7 10
+ghost 6 1 1
+robot 2 5 0
+owner 3 5 1
+perky 1 9 0

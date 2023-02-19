@@ -1,0 +1,5 @@
+7 8 hardmode
+askew 6 1 1
+gaudy 4 3 1
+grave 2 4 0
+beady 1 6 0

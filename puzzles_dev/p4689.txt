@@ -1,0 +1,5 @@
+7 7
+droit 2 1 1
+rumba 2 2 0
+mummy 4 2 1
+filmy 1 4 0

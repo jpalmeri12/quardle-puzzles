@@ -1,0 +1,6 @@
+7 9 island
+stair 4 1 1
+omega 2 4 1
+merry 2 5 0
+saint 1 8 0
+!island 221 11111 211 2111

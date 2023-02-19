@@ -1,0 +1,6 @@
+7 9 wordcolumn
+agent 4 1 1
+elegy 1 2 0
+lowly 2 2 1
+windy 2 4 0
+young 6 4 1

@@ -1,0 +1,5 @@
+7 10
+logic 5 1 1
+arbor 2 2 0
+stoic 1 5 0
+spike 1 5 1

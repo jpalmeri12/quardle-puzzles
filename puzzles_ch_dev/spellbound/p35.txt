@@ -1,0 +1,9 @@
+6 8 spellbound
+bicep 1 1 1
+crept 1 3 0
+poser 4 3 1
+pulse 1 5 0
+!spellbound 0 1 3
+!spellbound 1 2 4
+!spellbound 2 3 4
+!spellbound 3 1 2

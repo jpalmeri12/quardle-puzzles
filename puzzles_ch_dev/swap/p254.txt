@@ -1,0 +1,5 @@
+6 8 swap
+woeor 1 1 0
+elfni 3 1 1
+spary 5 3 1
+seipa 1 5 0

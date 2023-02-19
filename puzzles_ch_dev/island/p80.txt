@@ -1,0 +1,6 @@
+7 9 island
+pilot 3 1 1
+alike 1 2 0
+scowl 5 4 1
+stock 2 5 0
+!island 41 311 221 2111

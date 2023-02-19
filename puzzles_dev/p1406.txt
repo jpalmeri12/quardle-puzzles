@@ -1,0 +1,5 @@
+6 8
+state 4 1 1
+daddy 2 3 1
+pasty 1 4 0
+pygmy 1 7 0

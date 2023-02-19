@@ -1,0 +1,6 @@
+7 8 wordcolumn
+aside 1 1 0
+score 2 1 1
+guest 4 3 1
+reuse 2 4 0
+motif 2 7 0

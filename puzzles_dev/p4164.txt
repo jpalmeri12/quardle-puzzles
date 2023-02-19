@@ -1,0 +1,5 @@
+7 9
+vault 5 1 1
+amply 2 4 0
+alley 2 4 1
+synod 1 8 0

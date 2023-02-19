@@ -1,0 +1,5 @@
+7 9
+annex 5 1 1
+model 2 4 0
+miner 2 4 1
+fruit 1 8 0

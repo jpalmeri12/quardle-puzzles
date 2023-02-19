@@ -1,0 +1,5 @@
+7 8 dblltr
+tweet 2 1 1
+revue 1 3 0
+udder 4 3 1
+teddy 2 5 0

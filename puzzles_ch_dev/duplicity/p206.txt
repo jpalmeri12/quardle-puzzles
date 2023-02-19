@@ -1,0 +1,5 @@
+6 9 duplicity
+hello 2 1 1
+close 1 4 0
+steal 4 4 1
+cheat 1 7 0

@@ -1,0 +1,9 @@
+7 9 beforeafter
+tubal 6 1 1
+lefty 4 4 1
+steal 2 5 0
+empty 1 7 0
+!beforeafter 1 q
+!beforeafter 2 n
+!beforeafter 1 r
+!beforeafter 2 r

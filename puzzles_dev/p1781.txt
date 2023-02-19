@@ -1,0 +1,5 @@
+6 6
+cacao 2 1 1
+snaky 5 1 1
+baron 1 2 0
+kayak 1 4 0

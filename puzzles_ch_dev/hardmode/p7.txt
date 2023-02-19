@@ -1,0 +1,5 @@
+7 9 hardmode
+tatty 1 1 1
+titan 1 4 0
+tonic 3 4 1
+acorn 2 8 0

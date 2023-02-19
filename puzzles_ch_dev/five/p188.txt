@@ -1,0 +1,6 @@
+7 10 five
+crook 5 1 1
+taper 1 2 0
+kinky 2 5 0
+natal 4 5 1
+later 2 7 0

@@ -1,0 +1,5 @@
+7 7
+swamp 6 1 1
+eagle 2 2 1
+gleam 2 4 0
+reply 1 6 0

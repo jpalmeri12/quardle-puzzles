@@ -1,0 +1,6 @@
+6 10 wordcolumn
+bingo 4 1 1
+globe 1 2 1
+leant 1 3 0
+brood 1 5 0
+downy 5 5 1

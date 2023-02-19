@@ -1,0 +1,6 @@
+7 10 wordcolumn
+pasta 3 1 1
+remit 6 4 1
+maybe 2 5 0
+youth 4 5 1
+tight 1 9 0

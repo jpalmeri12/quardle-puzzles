@@ -1,0 +1,5 @@
+7 10
+cinch 2 1 1
+heart 2 5 0
+aware 4 5 1
+focal 1 7 0

@@ -1,0 +1,5 @@
+7 8
+water 1 1 0
+enact 4 1 1
+doubt 6 3 1
+cacao 2 4 0

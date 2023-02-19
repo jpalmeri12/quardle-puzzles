@@ -1,0 +1,5 @@
+7 7
+liege 3 1 1
+built 1 2 0
+thyme 5 2 1
+femme 2 5 0

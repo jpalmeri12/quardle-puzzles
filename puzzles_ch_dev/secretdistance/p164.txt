@@ -1,0 +1,7 @@
+7 10 secretdistance
+shout 1 1 0
+humus 2 1 1
+verso 6 3 1
+solar 2 5 0
+agora 1 9 0
+!sdpos 2 1 0 1

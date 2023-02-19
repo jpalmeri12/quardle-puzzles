@@ -1,0 +1,5 @@
+7 10 outoforder
+glyph 4 1 1
+usher 2 5 0
+shaky 3 5 1
+baker 1 8 0

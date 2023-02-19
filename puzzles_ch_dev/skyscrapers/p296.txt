@@ -1,0 +1,5 @@
+7 10 skyscrapers
+sepia 2 5 0
+crimp 4 1 1
+cluck 1 1 0
+imply 5 5 1

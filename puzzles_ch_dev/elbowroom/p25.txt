@@ -1,0 +1,5 @@
+7 10 elbowroom
+fling 1 1 1
+guava 1 5 0
+undue 2 5 1
+exact 2 9 0

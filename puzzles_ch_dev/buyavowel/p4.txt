@@ -1,0 +1,5 @@
+7 10 buyavowel
+radii 4 1 1
+privy 2 5 0
+prude 2 5 1
+delta 1 9 0

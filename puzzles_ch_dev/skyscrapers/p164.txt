@@ -1,0 +1,5 @@
+7 9 skyscrapers
+plead 1 7 0
+oddly 2 4 1
+opium 2 4 0
+debit 4 1 1

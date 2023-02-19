@@ -1,0 +1,5 @@
+7 9 reverse
+happy 1 1 0
+ybgur 5 1 1
+oidua 2 4 0
+impel 3 4 1

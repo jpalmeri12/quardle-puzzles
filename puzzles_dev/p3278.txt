@@ -1,0 +1,5 @@
+7 10
+value 6 1 1
+smite 2 5 0
+minty 3 5 1
+binge 1 7 0

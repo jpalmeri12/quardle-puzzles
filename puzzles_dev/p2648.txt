@@ -1,0 +1,5 @@
+7 10
+peril 4 1 1
+steer 1 2 0
+valet 2 5 0
+villa 2 5 1

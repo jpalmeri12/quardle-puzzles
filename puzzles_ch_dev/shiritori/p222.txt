@@ -1,0 +1,5 @@
+6 10 shiritori
+scamp 4 1 1
+madam 1 3 0
+horny 1 5 1
+hippy 1 5 0

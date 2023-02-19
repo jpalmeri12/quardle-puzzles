@@ -1,0 +1,6 @@
+6 12 drop
+liken 4 1 1
+spank 1 5 0
+pound 2 5 1
+tuber 1 7 0
+prune 1 11 0

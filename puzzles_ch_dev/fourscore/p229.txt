@@ -1,0 +1,5 @@
+7 10 fourscore
+scrub 1 1 0
+rhyme 3 1 1
+decoy 2 5 0
+owner 5 5 1

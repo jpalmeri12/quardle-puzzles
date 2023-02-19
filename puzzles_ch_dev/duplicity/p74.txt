@@ -1,0 +1,5 @@
+7 10 duplicity
+decay 5 1 1
+truer 2 2 0
+duchy 1 5 0
+hater 4 5 1

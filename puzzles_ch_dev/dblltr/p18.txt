@@ -1,0 +1,5 @@
+6 9 dblltr
+frill 1 1 1
+recur 1 2 0
+local 1 4 0
+afoot 4 4 1

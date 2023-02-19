@@ -1,0 +1,5 @@
+7 9
+small 1 1 1
+lofty 1 4 0
+youth 5 4 1
+undue 2 6 0

@@ -1,0 +1,5 @@
+7 10
+story 2 1 1
+pygmy 1 5 0
+grout 3 5 1
+moose 2 7 0

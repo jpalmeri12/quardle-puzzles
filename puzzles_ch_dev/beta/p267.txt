@@ -1,0 +1,5 @@
+7 9 beta
+jumpy 1 1 0
+month 3 1 1
+medic 5 4 1
+cheek 2 5 0

@@ -1,0 +1,5 @@
+7 10
+spell 2 1 1
+penal 1 3 0
+leery 2 5 0
+raspy 5 5 1

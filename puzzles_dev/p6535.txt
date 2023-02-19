@@ -1,0 +1,5 @@
+7 9
+decal 4 1 1
+wheat 2 2 0
+allay 1 4 0
+laugh 2 4 1

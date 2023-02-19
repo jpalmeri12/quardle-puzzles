@@ -1,0 +1,5 @@
+7 9 shiritori
+globe 2 1 0
+broke 5 1 1
+slunk 1 4 0
+unlit 3 4 1

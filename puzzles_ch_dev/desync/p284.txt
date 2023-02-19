@@ -1,0 +1,5 @@
+7 10 desync
+sauna 3 1 1
+stash 1 2 0
+satyr 2 5 0
+sepia 2 5 1

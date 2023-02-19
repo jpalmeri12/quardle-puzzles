@@ -1,0 +1,6 @@
+6 9 island
+timer 2 1 1
+wiser 1 2 0
+peach 1 4 0
+curly 4 4 1
+!island 311 41 11111 2111

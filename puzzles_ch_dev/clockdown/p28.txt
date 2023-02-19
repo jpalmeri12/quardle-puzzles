@@ -1,0 +1,5 @@
+7 9 clockdown
+aisle 5 1 1
+repel 1 4 0
+prune 3 4 1
+incur 2 7 0

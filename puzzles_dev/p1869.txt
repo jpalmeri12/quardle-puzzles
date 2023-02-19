@@ -1,0 +1,5 @@
+6 7
+dusky 4 1 1
+shrub 1 2 0
+heist 2 2 1
+milky 1 4 0

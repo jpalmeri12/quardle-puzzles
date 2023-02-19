@@ -1,0 +1,5 @@
+7 8 swap
+taoln 1 1 0
+ashne 2 1 1
+caryr 6 3 1
+entyr 2 5 0

@@ -1,0 +1,5 @@
+7 7 soundscramble
+plamp 5 1 1
+stull 2 2 0
+terru 3 2 1
+foram 1 4 0

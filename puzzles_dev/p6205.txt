@@ -1,0 +1,5 @@
+6 8
+flush 2 1 1
+feign 4 3 1
+ester 1 4 0
+sling 1 7 0

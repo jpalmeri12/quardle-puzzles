@@ -1,0 +1,5 @@
+7 9 desync
+spoof 2 1 1
+wooly 1 3 0
+piggy 6 4 1
+fungi 2 5 0

@@ -1,0 +1,5 @@
+7 9 scrabble
+liner 2 4 1
+lurid 2 4 0
+gouge 1 2 0
+serif 5 1 1

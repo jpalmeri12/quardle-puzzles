@@ -1,0 +1,6 @@
+7 10 island
+daunt 5 1 1
+tight 1 5 0
+grade 3 5 1
+raise 2 7 0
+!island 11111 31 311 41

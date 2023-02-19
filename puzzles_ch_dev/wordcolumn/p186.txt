@@ -1,0 +1,6 @@
+7 10 wordcolumn
+stool 5 1 1
+spurt 1 2 0
+pygmy 2 2 1
+mealy 2 5 0
+alike 4 5 1

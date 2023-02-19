@@ -1,0 +1,5 @@
+7 8
+ficus 2 1 0
+usher 5 1 1
+brass 1 3 1
+augur 1 5 0

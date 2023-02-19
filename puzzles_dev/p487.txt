@@ -1,0 +1,5 @@
+7 9
+gross 3 1 1
+mossy 5 4 1
+disco 1 5 0
+satyr 2 8 0

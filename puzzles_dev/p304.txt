@@ -1,0 +1,5 @@
+7 9
+patty 6 1 1
+pearl 2 4 1
+posit 2 4 0
+cargo 1 6 0

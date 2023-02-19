@@ -1,0 +1,5 @@
+6 9 elbowroom
+adorn 1 1 0
+dogma 2 1 1
+agora 4 4 1
+cargo 1 5 0

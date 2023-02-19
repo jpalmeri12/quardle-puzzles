@@ -1,0 +1,6 @@
+7 12 undercover
+radii 5 1 1
+cabin 2 5 0
+aider 3 5 1
+judge 1 7 0
+motto 1 11 0

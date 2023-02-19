@@ -1,0 +1,7 @@
+8 8 sixbox
+bacon 3 1 1
+rural 5 1 1
+vicar 1 3 0
+avail 4 3 1
+ovary 3 4 0
+penal 1 5 0

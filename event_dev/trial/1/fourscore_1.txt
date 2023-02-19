@@ -1,0 +1,5 @@
+7 10 fourscore
+lunge 4 1 1
+spend 2 5 0
+prose 3 5 1
+phone 1 7 0

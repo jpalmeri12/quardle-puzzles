@@ -1,0 +1,9 @@
+7 9 beforeafter
+towel 1 1 1
+empty 1 4 0
+tonga 4 4 1
+bigot 2 7 0
+!beforeafter 2 n
+!beforeafter 1 o
+!beforeafter 2 l
+!beforeafter 2 j

@@ -1,0 +1,9 @@
+6 8 spellbound
+anger 1 1 1
+conic 3 3 1
+range 1 5 0
+lucky 1 7 0
+!spellbound 0 2 3
+!spellbound 1 1 3
+!spellbound 2 3 4
+!spellbound 3 0 1

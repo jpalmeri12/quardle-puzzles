@@ -1,0 +1,5 @@
+7 9
+weird 2 1 1
+elude 2 2 0
+trait 1 4 0
+tower 5 4 1

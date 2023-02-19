@@ -1,0 +1,6 @@
+6 10 undercover
+motto 1 1 1
+mushy 1 1 0
+trump 1 3 0
+minty 4 3 1
+bleed 1 9 0

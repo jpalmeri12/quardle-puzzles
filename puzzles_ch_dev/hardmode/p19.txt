@@ -1,0 +1,5 @@
+7 10 hardmode
+growl 2 1 1
+grope 1 2 0
+lupus 2 5 0
+primo 4 5 1

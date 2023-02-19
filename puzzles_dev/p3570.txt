@@ -1,0 +1,5 @@
+6 7
+furry 4 1 1
+fraud 1 2 0
+roast 2 2 1
+marry 1 4 0

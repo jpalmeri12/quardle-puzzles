@@ -1,0 +1,5 @@
+6 9
+prize 5 1 1
+biome 2 4 1
+bible 1 5 0
+perch 1 8 0

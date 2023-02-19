@@ -1,0 +1,6 @@
+6 10 commonsecret
+token 4 1 1
+spook 1 2 0
+slink 1 5 0
+kneel 5 5 1
+!secret k

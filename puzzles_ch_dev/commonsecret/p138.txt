@@ -1,0 +1,6 @@
+7 8 commonsecret
+elfin 3 1 1
+golem 1 2 0
+crude 6 3 1
+timer 2 4 0
+!secret e

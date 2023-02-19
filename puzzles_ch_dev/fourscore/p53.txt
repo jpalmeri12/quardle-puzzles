@@ -1,0 +1,5 @@
+7 9 fourscore
+caste 5 1 1
+youth 2 4 0
+otter 3 4 1
+theme 1 7 0

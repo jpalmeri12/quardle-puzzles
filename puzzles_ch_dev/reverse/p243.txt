@@ -1,0 +1,5 @@
+7 9 reverse
+egrup 2 1 0
+rajah 4 1 1
+repat 1 4 0
+evade 2 4 1

@@ -1,0 +1,5 @@
+6 7 darkness
+spend 1 2 0
+enter 4 1 1
+prism 2 2 1
+diner 1 4 0

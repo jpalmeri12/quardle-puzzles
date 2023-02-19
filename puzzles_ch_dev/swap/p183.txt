@@ -1,0 +1,5 @@
+7 9 swap
+srcam 2 1 1
+lryic 1 2 0
+aduit 2 4 0
+imdst 5 4 1

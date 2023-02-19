@@ -1,0 +1,9 @@
+6 10 beforeafter
+afoul 1 1 1
+logic 1 5 0
+gloss 3 5 1
+bossy 1 8 0
+!beforeafter 1 k
+!beforeafter 1 k
+!beforeafter 2 q
+!beforeafter 1 q

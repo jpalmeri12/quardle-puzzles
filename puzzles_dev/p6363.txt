@@ -1,0 +1,5 @@
+7 10
+peace 4 1 1
+guess 2 5 0
+union 3 5 1
+gross 1 8 0

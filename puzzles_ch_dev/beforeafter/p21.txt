@@ -1,0 +1,9 @@
+7 10 beforeafter
+vodka 2 1 1
+adept 1 3 0
+adopt 2 5 0
+torch 6 5 1
+!beforeafter 1 m
+!beforeafter 2 n
+!beforeafter 1 l
+!beforeafter 2 m

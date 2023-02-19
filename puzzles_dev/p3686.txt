@@ -1,0 +1,5 @@
+7 7
+tipsy 2 1 1
+fiber 1 2 0
+expel 4 2 1
+yield 2 5 0

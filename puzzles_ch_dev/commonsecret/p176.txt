@@ -1,0 +1,6 @@
+7 9 commonsecret
+palsy 2 1 1
+patty 1 2 0
+scoop 2 4 0
+opium 4 4 1
+!secret p

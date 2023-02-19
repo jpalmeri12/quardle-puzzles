@@ -1,0 +1,5 @@
+7 9
+spire 1 1 1
+rajah 1 4 0
+haven 5 4 1
+above 2 6 0

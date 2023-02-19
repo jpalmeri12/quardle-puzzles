@@ -1,0 +1,5 @@
+7 10 clockdown
+sling 5 1 1
+rabbi 1 3 0
+gorge 2 5 0
+oxide 3 5 1

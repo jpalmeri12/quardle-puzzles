@@ -1,0 +1,5 @@
+7 9
+palsy 4 1 1
+trial 1 2 0
+nosey 2 4 0
+needy 2 4 1

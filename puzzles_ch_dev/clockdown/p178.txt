@@ -1,0 +1,5 @@
+7 7 clockdown
+swung 6 1 1
+aider 3 2 1
+adorn 2 4 0
+harpy 1 6 0

@@ -1,0 +1,6 @@
+6 12 wordcolumn
+aside 2 1 1
+cedar 1 5 0
+acute 4 5 1
+locus 1 7 0
+omega 2 7 1

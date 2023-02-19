@@ -1,0 +1,5 @@
+7 9
+lithe 1 1 1
+hymen 1 4 0
+night 5 4 1
+dingy 2 6 0

@@ -1,0 +1,6 @@
+7 11 drop
+acute 5 1 1
+glint 1 4 0
+islet 3 4 1
+itchy 2 8 0
+tangy 1 10 0

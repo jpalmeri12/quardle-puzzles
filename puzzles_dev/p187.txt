@@ -1,0 +1,5 @@
+6 9
+basis 1 1 0
+soapy 5 1 1
+clamp 1 4 0
+cater 1 4 1

@@ -1,0 +1,5 @@
+7 8
+scrum 4 1 1
+purse 2 3 1
+rumor 2 5 0
+never 1 7 0

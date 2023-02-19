@@ -1,0 +1,5 @@
+7 8
+cedar 6 1 1
+spine 4 3 1
+sepia 2 4 0
+funny 1 6 0

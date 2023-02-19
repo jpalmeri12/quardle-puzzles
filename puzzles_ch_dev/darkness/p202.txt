@@ -1,0 +1,5 @@
+7 8 darkness
+favor 1 3 0
+clown 4 1 1
+pecan 2 1 0
+alloy 2 3 1

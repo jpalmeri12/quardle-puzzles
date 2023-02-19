@@ -1,0 +1,5 @@
+6 9
+masse 1 1 1
+sober 1 4 0
+rifle 5 4 1
+bagel 1 7 0

@@ -1,0 +1,5 @@
+7 7
+touch 5 1 1
+aglow 2 2 0
+adobe 2 2 1
+topic 1 4 0

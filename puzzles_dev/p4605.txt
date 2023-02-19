@@ -1,0 +1,5 @@
+7 10
+sonar 4 1 1
+juror 1 2 0
+rerun 2 5 0
+eking 3 5 1

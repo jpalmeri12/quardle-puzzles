@@ -1,0 +1,5 @@
+7 9 elbowroom
+roomy 2 1 0
+murky 5 1 1
+thank 1 4 0
+heady 2 4 1

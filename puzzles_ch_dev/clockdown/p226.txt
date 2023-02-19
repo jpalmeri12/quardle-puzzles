@@ -1,0 +1,5 @@
+7 9 clockdown
+ficus 4 1 1
+mulch 1 3 0
+hydro 6 4 1
+essay 2 5 0

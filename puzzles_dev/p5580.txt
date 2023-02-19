@@ -1,0 +1,5 @@
+7 10
+golem 5 1 1
+credo 1 2 0
+mamma 2 5 0
+alter 6 5 1

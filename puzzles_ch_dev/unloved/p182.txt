@@ -1,0 +1,5 @@
+7 10 unloved
+carat 4 1 1
+skate 1 5 0
+knave 2 5 1
+among 2 7 0

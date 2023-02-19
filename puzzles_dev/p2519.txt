@@ -1,0 +1,5 @@
+7 10
+seven 3 1 1
+ovary 2 3 0
+spiel 1 5 1
+sense 1 5 0

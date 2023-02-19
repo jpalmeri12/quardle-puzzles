@@ -1,0 +1,5 @@
+7 7 swap
+suacy 4 1 1
+ohard 2 2 1
+rheab 1 3 0
+royla 2 5 0

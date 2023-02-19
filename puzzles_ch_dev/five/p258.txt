@@ -1,0 +1,6 @@
+7 8 five
+spire 1 1 1
+press 5 2 1
+infer 1 3 0
+freak 3 3 1
+parse 2 6 0

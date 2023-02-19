@@ -1,0 +1,5 @@
+7 10 invention
+comma 4 1 1
+prank 2 5 0
+north 5 5 1
+tiger 1 7 0

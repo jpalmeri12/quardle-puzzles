@@ -1,0 +1,5 @@
+7 9
+easel 2 1 0
+scope 4 1 1
+steed 2 4 1
+otter 1 5 0

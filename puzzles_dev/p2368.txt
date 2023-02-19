@@ -1,0 +1,5 @@
+6 10
+bongo 4 1 1
+onion 1 2 0
+shook 1 5 0
+outgo 3 5 1

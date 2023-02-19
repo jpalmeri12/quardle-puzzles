@@ -1,0 +1,5 @@
+7 8
+amble 1 1 0
+lasso 4 1 1
+roast 6 3 1
+flora 2 5 0

@@ -1,0 +1,5 @@
+7 9
+verso 6 1 1
+wacky 3 4 1
+banjo 2 5 0
+flyer 1 8 0

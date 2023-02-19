@@ -1,0 +1,5 @@
+6 6 soundscramble
+grean 1 1 0
+reyal 2 1 1
+nicor 5 1 1
+payoo 1 4 0

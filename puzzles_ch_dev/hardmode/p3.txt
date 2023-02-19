@@ -1,0 +1,5 @@
+7 9 hardmode
+guide 6 1 1
+patio 3 4 1
+false 2 5 0
+guise 1 7 0

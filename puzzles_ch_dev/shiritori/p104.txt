@@ -1,0 +1,5 @@
+7 9 shiritori
+shelf 4 1 1
+ethic 2 2 0
+geese 2 4 1
+beefy 1 5 0

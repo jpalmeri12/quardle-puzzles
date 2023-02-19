@@ -1,0 +1,5 @@
+7 10
+trump 3 1 1
+input 1 5 0
+ulcer 4 5 1
+enema 2 8 0

@@ -1,0 +1,6 @@
+6 11 drop
+modem 1 1 1
+overt 1 2 0
+lever 5 4 1
+maize 1 5 0
+limit 1 10 0

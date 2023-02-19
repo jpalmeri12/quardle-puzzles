@@ -1,0 +1,5 @@
+7 9 shiritori
+usage 1 1 0
+stump 2 1 1
+molar 2 4 0
+rupee 6 4 1

@@ -1,0 +1,6 @@
+7 11 drop
+decoy 4 1 1
+deter 1 2 0
+flour 2 4 0
+fiend 2 4 1
+lefty 1 10 0

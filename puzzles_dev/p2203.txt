@@ -1,0 +1,5 @@
+7 10
+rumor 1 1 1
+route 1 5 0
+tatty 4 5 1
+rayon 2 9 0

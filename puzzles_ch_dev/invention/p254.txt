@@ -1,0 +1,5 @@
+7 9 invention
+edict 1 1 1
+chili 1 4 0
+inbox 5 4 1
+turbo 2 6 0

@@ -1,0 +1,5 @@
+7 8
+major 3 1 1
+bible 5 3 1
+bribe 2 5 0
+pixie 1 7 0

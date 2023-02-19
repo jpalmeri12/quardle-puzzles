@@ -1,0 +1,6 @@
+7 9 island
+civil 3 1 1
+ditch 2 2 0
+brief 1 4 0
+burnt 1 4 1
+!island 211 2111 311 221

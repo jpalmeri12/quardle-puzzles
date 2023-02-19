@@ -1,0 +1,5 @@
+6 9 skyscrapers
+spill 4 1 1
+shyly 1 4 0
+sunny 1 4 1
+noisy 1 1 0

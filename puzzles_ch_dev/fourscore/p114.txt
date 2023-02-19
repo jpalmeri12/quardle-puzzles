@@ -1,0 +1,5 @@
+7 9 fourscore
+beefy 5 1 1
+dwarf 1 4 0
+weird 2 4 1
+rouse 2 7 0

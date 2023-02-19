@@ -1,0 +1,5 @@
+7 10
+golem 5 1 1
+buxom 1 5 0
+owner 4 5 1
+shell 2 8 0

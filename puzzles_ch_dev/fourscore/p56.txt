@@ -1,0 +1,5 @@
+7 10 fourscore
+odder 5 1 1
+ahead 1 3 0
+stare 2 5 0
+sting 2 5 1

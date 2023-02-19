@@ -1,0 +1,5 @@
+6 7
+pinto 4 1 1
+aphid 1 2 0
+allay 1 2 1
+lofty 1 4 0

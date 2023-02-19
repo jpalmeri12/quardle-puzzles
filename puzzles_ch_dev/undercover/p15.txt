@@ -1,0 +1,6 @@
+7 10 undercover
+satyr 6 1 1
+ennui 2 3 1
+nanny 2 4 0
+nudge 1 6 0
+clock 1 9 0

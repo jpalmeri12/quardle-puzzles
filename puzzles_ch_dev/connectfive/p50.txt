@@ -1,0 +1,6 @@
+7 10 connectfive
+condo 3 1 1
+probe 1 2 0
+torch 2 5 0
+tidal 2 5 1
+racer 1 8 0

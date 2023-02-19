@@ -1,0 +1,5 @@
+6 8
+biome 1 1 0
+eager 5 1 1
+carve 3 3 1
+grade 1 4 0

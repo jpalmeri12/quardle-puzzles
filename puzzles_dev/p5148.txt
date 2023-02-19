@@ -1,0 +1,5 @@
+6 7
+minim 4 1 1
+eerie 1 2 0
+elite 2 2 1
+vivid 1 4 0

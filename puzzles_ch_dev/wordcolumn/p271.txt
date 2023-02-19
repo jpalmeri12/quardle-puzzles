@@ -1,0 +1,6 @@
+7 10 wordcolumn
+loath 6 1 1
+limit 3 4 1
+ninth 2 5 0
+thump 5 5 1
+datum 1 8 0

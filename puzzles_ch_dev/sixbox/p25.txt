@@ -1,0 +1,7 @@
+8 8 sixbox
+parka 3 1 1
+robot 5 1 1
+shrub 1 3 0
+unfit 4 3 1
+knock 3 4 0
+graft 1 5 0

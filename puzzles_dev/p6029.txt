@@ -1,0 +1,5 @@
+7 9
+parry 2 1 1
+frill 1 4 0
+lurch 4 4 1
+mecca 2 7 0

@@ -1,0 +1,5 @@
+7 10 frequency
+spurn 4 1 1
+abuse 2 3 0
+chunk 1 5 0
+kneel 5 5 1

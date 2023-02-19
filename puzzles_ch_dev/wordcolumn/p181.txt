@@ -1,0 +1,6 @@
+6 10 wordcolumn
+logic 4 1 1
+scarf 1 4 1
+crack 1 5 0
+koala 5 5 1
+fatal 1 8 0

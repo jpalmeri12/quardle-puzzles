@@ -1,0 +1,5 @@
+6 9 swap
+mcoha 3 1 1
+aslad 5 4 1
+ceaes 1 5 0
+flela 1 7 0

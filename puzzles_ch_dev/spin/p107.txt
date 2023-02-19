@@ -1,0 +1,5 @@
+7 9 spin
+voter 2 1 1
+metro 1 4 0
+rival 4 4 1
+ralph 2 8 0

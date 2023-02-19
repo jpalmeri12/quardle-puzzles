@@ -1,0 +1,5 @@
+7 8 clockdown
+undid 5 1 1
+voter 3 3 1
+etude 2 5 0
+purse 1 7 0

@@ -1,0 +1,5 @@
+7 10 invention
+villa 2 1 1
+tabby 1 5 0
+broth 4 5 1
+alter 2 8 0

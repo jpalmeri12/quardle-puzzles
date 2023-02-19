@@ -1,0 +1,9 @@
+7 10 spellbound
+gamma 3 1 1
+chaff 1 5 0
+hussy 2 5 1
+strip 2 7 0
+!spellbound 0 3 1
+!spellbound 1 3 4
+!spellbound 2 1 4
+!spellbound 3 1 2

@@ -1,0 +1,5 @@
+7 8
+amity 1 1 0
+yield 5 1 1
+drawl 2 3 1
+realm 2 4 0

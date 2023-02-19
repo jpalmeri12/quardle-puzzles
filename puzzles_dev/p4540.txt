@@ -1,0 +1,5 @@
+7 9
+sling 2 1 1
+skier 2 1 0
+anode 1 4 0
+drake 4 4 1

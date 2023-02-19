@@ -1,0 +1,7 @@
+7 12 secretdistance
+round 1 1 1
+daddy 1 5 0
+devil 3 5 1
+gipsy 2 8 0
+icily 1 11 0
+!sdpos 1 0 2 3

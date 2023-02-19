@@ -1,0 +1,6 @@
+7 12 undercover
+karma 6 1 1
+aider 2 5 1
+agora 2 5 0
+beset 1 8 0
+fuzzy 1 11 0

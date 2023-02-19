@@ -1,0 +1,5 @@
+7 10
+thyme 1 1 0
+elude 5 1 1
+freed 2 5 0
+fetal 2 5 1

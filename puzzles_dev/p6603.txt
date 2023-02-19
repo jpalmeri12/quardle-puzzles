@@ -1,0 +1,5 @@
+7 8
+known 1 1 0
+width 4 1 1
+budge 2 3 0
+brick 2 3 1

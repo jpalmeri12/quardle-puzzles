@@ -1,0 +1,7 @@
+6 6 fourthwall
+robot 1 1 0
+rupee 1 1 1
+prick 1 3 0
+built 3 1 1
+ester 1 5 0
+taker 5 1 1

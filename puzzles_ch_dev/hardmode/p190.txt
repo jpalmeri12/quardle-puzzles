@@ -1,0 +1,5 @@
+7 9 hardmode
+heard 5 1 1
+actor 1 4 0
+creep 2 4 1
+plane 2 8 0

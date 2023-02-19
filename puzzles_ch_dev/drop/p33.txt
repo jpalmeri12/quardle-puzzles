@@ -1,0 +1,6 @@
+7 11 drop
+train 5 1 1
+filer 1 2 0
+orbit 2 4 0
+omega 2 4 1
+retro 1 10 0

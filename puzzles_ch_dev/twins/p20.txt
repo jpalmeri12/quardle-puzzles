@@ -1,0 +1,8 @@
+6 8 twins
+axion 1 1 0
+plump 1 3 0
+tardy 1 5 0
+lemon 1 7 0
+!twins 1 2
+!twins 3 4
+!twins 3 4

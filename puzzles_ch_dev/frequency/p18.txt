@@ -1,0 +1,5 @@
+7 10 frequency
+liken 4 1 1
+perky 1 3 0
+canal 2 5 0
+chump 2 5 1

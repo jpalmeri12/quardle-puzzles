@@ -1,0 +1,5 @@
+7 10 swap
+whilr 2 1 0
+layre 5 1 1
+rogre 1 5 0
+rilfe 1 5 1

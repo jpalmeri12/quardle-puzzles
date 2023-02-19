@@ -1,0 +1,5 @@
+7 9 unloved
+token 1 1 0
+ounce 2 1 1
+curvy 2 4 0
+young 6 4 1

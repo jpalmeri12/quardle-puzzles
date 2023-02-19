@@ -1,0 +1,5 @@
+7 8 spin
+shape 2 1 0
+pansy 5 1 1
+baron 1 3 0
+ruddy 3 3 1

@@ -1,0 +1,6 @@
+6 10 wordcolumn
+booze 2 1 1
+price 4 2 1
+belch 1 5 0
+bloom 1 5 1
+ozone 1 8 0

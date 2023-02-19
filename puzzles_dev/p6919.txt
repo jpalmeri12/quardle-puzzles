@@ -1,0 +1,5 @@
+7 9
+repay 1 1 0
+plane 3 1 1
+snaky 5 4 1
+penny 2 5 0

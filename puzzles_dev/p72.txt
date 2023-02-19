@@ -1,0 +1,5 @@
+7 10
+braid 5 1 1
+daddy 2 5 0
+apron 3 5 1
+group 1 8 0

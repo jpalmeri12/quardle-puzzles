@@ -1,0 +1,5 @@
+7 10 frequency
+midge 1 1 0
+glean 4 1 1
+ionic 2 5 0
+cutie 6 5 1

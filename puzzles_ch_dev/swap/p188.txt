@@ -1,0 +1,5 @@
+7 9 swap
+wsate 2 1 1
+slpit 2 2 0
+ftech 1 4 0
+hcill 5 4 1

@@ -1,0 +1,5 @@
+7 9
+share 6 1 1
+rigor 2 4 0
+icing 3 4 1
+renew 1 7 0

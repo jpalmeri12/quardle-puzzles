@@ -1,0 +1,5 @@
+7 9
+color 5 1 1
+video 1 2 0
+bacon 2 4 0
+alike 3 4 1

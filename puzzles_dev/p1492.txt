@@ -1,0 +1,5 @@
+7 10
+polka 6 1 1
+arena 2 5 0
+eking 4 5 1
+siege 1 9 0

@@ -1,0 +1,7 @@
+7 11 secretdistance
+clack 5 1 1
+swarm 3 4 1
+awake 2 5 0
+turbo 1 7 0
+intro 1 10 0
+!sdpos 2 3 3 1

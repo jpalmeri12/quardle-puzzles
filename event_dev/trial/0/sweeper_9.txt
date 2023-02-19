@@ -1,0 +1,5 @@
+7 10 sweeper
+humus 5 1 1
+groom 1 3 0
+crash 2 5 0
+react 3 5 1

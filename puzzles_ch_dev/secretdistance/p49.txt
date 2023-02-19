@@ -1,0 +1,7 @@
+6 9 secretdistance
+meter 5 1 1
+naive 1 2 0
+nasty 1 2 1
+since 1 4 0
+humus 1 8 0
+!sdpos 0 1 0 3

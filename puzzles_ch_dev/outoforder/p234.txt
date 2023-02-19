@@ -1,0 +1,5 @@
+6 9 outoforder
+teach 1 1 1
+these 1 1 0
+candy 1 4 0
+nobly 3 4 1

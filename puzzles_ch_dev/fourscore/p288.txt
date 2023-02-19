@@ -1,0 +1,5 @@
+7 10 fourscore
+forty 1 1 0
+talon 4 1 1
+ninny 2 5 0
+nicer 2 5 1

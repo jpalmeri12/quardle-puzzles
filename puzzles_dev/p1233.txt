@@ -1,0 +1,5 @@
+7 10
+scrub 6 1 1
+shrub 2 5 0
+horde 3 5 1
+harsh 1 7 0

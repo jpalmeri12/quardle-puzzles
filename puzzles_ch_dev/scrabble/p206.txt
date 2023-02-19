@@ -1,0 +1,5 @@
+7 8 scrabble
+bland 1 1 0
+optic 3 3 1
+dozen 5 1 1
+boozy 2 3 0

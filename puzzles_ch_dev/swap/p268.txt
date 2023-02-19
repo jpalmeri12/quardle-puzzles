@@ -1,0 +1,5 @@
+7 10 swap
+clnag 1 1 1
+glema 1 5 0
+ehter 3 5 1
+etach 2 7 0

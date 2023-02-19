@@ -1,0 +1,5 @@
+6 9 shiritori
+bobby 1 1 1
+oxide 1 2 0
+blunt 1 4 0
+noisy 4 4 1

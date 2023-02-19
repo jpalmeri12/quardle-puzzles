@@ -1,0 +1,5 @@
+6 6
+goofy 1 1 0
+greed 1 1 1
+ovary 3 1 1
+dryly 1 5 0

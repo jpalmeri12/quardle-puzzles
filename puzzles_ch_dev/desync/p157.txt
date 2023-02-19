@@ -1,0 +1,5 @@
+7 10 desync
+trick 5 1 1
+evoke 2 5 0
+vouch 3 5 1
+thump 1 7 0

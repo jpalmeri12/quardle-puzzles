@@ -1,0 +1,9 @@
+7 9 beforeafter
+occur 2 1 0
+canon 3 1 1
+stoke 1 4 0
+entry 5 4 1
+!beforeafter 2 p
+!beforeafter 1 i
+!beforeafter 1 r
+!beforeafter 1 o

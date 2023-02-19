@@ -1,0 +1,5 @@
+7 8
+photo 6 1 1
+tiger 3 3 1
+digit 2 4 0
+swell 1 6 0

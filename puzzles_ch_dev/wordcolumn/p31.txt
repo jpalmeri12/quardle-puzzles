@@ -1,0 +1,6 @@
+6 8 wordcolumn
+clash 1 1 1
+circa 1 1 0
+river 3 1 1
+trove 5 3 1
+swear 1 4 0

@@ -1,0 +1,6 @@
+6 11 undercover
+dicey 4 1 1
+stoic 1 2 0
+egret 1 4 0
+eight 1 4 1
+plaza 1 10 0

@@ -1,0 +1,6 @@
+7 10 five
+dicey 3 1 1
+scaly 2 3 0
+glyph 1 5 0
+lever 2 5 1
+rainy 2 9 0

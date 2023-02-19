@@ -1,0 +1,5 @@
+7 7
+wheel 2 1 1
+shawl 1 2 0
+witch 4 2 1
+locus 2 5 0

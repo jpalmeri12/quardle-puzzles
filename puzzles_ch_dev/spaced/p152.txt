@@ -1,0 +1,5 @@
+7 9 spaced
+sigma 5 1 1
+scamp 2 4 0
+chasm 3 4 1
+wispy 1 7 0

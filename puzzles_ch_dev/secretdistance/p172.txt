@@ -1,0 +1,7 @@
+7 12 secretdistance
+vicar 2 1 1
+brave 1 5 0
+abbot 3 5 1
+abode 2 7 0
+outdo 1 11 0
+!sdpos 1 0 0 2

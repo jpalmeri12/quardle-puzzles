@@ -1,0 +1,7 @@
+7 10 secretdistance
+civil 2 1 1
+visor 2 3 0
+slice 4 3 1
+flair 1 5 0
+alike 1 9 0
+!sdpos 0 3 3 1

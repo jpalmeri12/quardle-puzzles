@@ -1,0 +1,5 @@
+7 8
+stint 5 1 1
+react 2 3 1
+acute 2 5 0
+stole 1 7 0

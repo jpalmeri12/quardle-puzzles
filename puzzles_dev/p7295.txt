@@ -1,0 +1,5 @@
+7 9
+chide 4 1 1
+sushi 1 2 0
+nudge 2 4 0
+natal 2 4 1

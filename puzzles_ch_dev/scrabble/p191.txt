@@ -1,0 +1,5 @@
+7 10 scrabble
+ashen 1 8 0
+piney 2 5 0
+halve 5 1 1
+itchy 3 5 1

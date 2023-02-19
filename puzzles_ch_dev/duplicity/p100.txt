@@ -1,0 +1,5 @@
+7 9 duplicity
+repay 1 1 1
+aphid 1 4 0
+harpy 3 4 1
+pride 2 6 0

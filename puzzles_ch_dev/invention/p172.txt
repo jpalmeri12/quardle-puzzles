@@ -1,0 +1,5 @@
+7 8 invention
+trial 1 1 0
+idyll 3 1 1
+aphid 6 3 1
+cloth 2 5 0

@@ -1,0 +1,5 @@
+7 9 outoforder
+shrub 1 1 0
+baggy 5 1 1
+tango 2 4 0
+armor 3 4 1

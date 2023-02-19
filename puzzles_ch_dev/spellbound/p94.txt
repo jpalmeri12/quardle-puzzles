@@ -1,0 +1,9 @@
+7 9 spellbound
+ashen 1 1 0
+snide 2 1 1
+dusty 2 4 0
+tenet 5 4 1
+!spellbound 0 2 4
+!spellbound 1 2 1
+!spellbound 2 4 2
+!spellbound 3 1 2

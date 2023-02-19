@@ -1,0 +1,5 @@
+7 9 buyavowel
+spire 5 1 1
+wiser 1 4 0
+scene 3 4 1
+input 2 7 0

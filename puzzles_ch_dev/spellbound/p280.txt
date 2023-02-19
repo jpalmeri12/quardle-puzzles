@@ -1,0 +1,9 @@
+7 8 spellbound
+glade 1 1 1
+aloud 1 3 0
+dimly 5 3 1
+polyp 2 7 0
+!spellbound 0 4 1
+!spellbound 1 2 1
+!spellbound 2 3 1
+!spellbound 3 4 2

@@ -1,0 +1,5 @@
+7 9
+clout 4 1 1
+trout 1 4 0
+route 2 4 1
+empty 2 8 0

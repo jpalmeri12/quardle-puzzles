@@ -1,0 +1,5 @@
+7 10
+vomit 2 1 1
+stuff 1 5 0
+untie 3 5 1
+stain 2 7 0

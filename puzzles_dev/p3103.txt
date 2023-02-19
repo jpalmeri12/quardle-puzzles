@@ -1,0 +1,5 @@
+7 9
+swing 1 1 0
+incur 3 1 1
+focal 6 4 1
+credo 2 5 0

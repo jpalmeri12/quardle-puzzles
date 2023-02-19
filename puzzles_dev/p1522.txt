@@ -1,0 +1,5 @@
+7 10
+gypsy 4 1 1
+payee 2 5 0
+acorn 3 5 1
+forty 1 8 0

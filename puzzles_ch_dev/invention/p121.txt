@@ -1,0 +1,5 @@
+7 9 invention
+deign 5 1 1
+fudge 1 2 0
+elope 3 4 1
+glint 2 5 0

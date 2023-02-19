@@ -1,0 +1,5 @@
+7 9
+chief 5 1 1
+molar 3 4 1
+goofy 2 5 0
+tardy 1 8 0

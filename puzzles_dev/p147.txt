@@ -1,0 +1,5 @@
+7 9
+crumb 6 1 1
+opium 2 4 0
+incur 4 4 1
+awful 1 7 0

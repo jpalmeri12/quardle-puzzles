@@ -1,0 +1,6 @@
+6 8 squaredance
+while 1 1 1
+happy 5 1 1
+winch 1 1 0
+enjoy 1 5 0
+vista 1 7 0

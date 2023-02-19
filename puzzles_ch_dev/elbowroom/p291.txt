@@ -1,0 +1,5 @@
+7 10 elbowroom
+climb 5 1 1
+tabby 2 5 0
+today 2 5 1
+tarot 1 8 0

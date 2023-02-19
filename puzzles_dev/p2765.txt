@@ -1,0 +1,5 @@
+7 8
+crony 5 1 1
+mealy 2 3 1
+event 2 4 0
+hyper 1 7 0

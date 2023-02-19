@@ -1,0 +1,5 @@
+7 10
+sleek 6 1 1
+blank 2 5 0
+noose 5 5 1
+bravo 1 7 0

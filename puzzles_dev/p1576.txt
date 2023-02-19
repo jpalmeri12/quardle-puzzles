@@ -1,0 +1,5 @@
+7 10
+hydro 5 1 1
+cargo 1 5 0
+grain 4 5 1
+beast 2 7 0

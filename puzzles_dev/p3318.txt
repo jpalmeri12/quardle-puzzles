@@ -1,0 +1,5 @@
+7 7
+mason 3 1 1
+basis 2 2 0
+igloo 5 2 1
+stool 1 4 0

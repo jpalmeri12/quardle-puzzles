@@ -1,0 +1,5 @@
+7 10 spin
+limbo 2 1 1
+tidal 1 2 0
+ought 2 5 0
+titan 6 5 1

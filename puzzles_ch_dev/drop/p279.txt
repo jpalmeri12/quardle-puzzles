@@ -1,0 +1,6 @@
+6 12 drop
+liken 4 1 1
+bulky 1 3 0
+drunk 1 5 0
+devil 1 5 1
+randy 1 11 0

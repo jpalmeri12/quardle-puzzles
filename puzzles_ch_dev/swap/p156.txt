@@ -1,0 +1,5 @@
+6 7 swap
+nagel 2 1 1
+knvae 4 2 1
+rgind 1 3 0
+llaam 1 5 0

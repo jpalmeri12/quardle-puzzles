@@ -1,0 +1,5 @@
+7 9 frequency
+latte 5 1 1
+squat 2 2 0
+splat 1 4 0
+pecan 2 4 1

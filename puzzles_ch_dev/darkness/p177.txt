@@ -1,0 +1,5 @@
+7 7 darkness
+scuba 2 2 0
+crump 3 2 1
+wager 6 1 1
+sepia 1 6 0

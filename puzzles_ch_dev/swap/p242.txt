@@ -1,0 +1,5 @@
+7 9 swap
+stapm 3 1 1
+detre 1 2 0
+apste 2 4 0
+triep 5 4 1

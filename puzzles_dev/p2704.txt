@@ -1,0 +1,5 @@
+7 10
+fluke 5 1 1
+donut 2 3 0
+trice 1 5 0
+ideal 3 5 1

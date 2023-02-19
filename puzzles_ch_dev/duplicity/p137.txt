@@ -1,0 +1,5 @@
+7 9 duplicity
+vicar 2 1 0
+crank 4 1 1
+clink 1 4 0
+larva 2 4 1

@@ -1,0 +1,5 @@
+7 9
+cheap 2 1 1
+harem 5 4 1
+plead 2 5 0
+sperm 1 8 0

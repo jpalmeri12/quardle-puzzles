@@ -1,0 +1,5 @@
+6 6 soundscramble
+raign 1 1 0
+raerm 1 1 1
+geyar 4 1 1
+ripan 1 4 0

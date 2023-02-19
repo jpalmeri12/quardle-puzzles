@@ -1,0 +1,5 @@
+6 9 soundscramble
+hypor 4 1 1
+cevor 1 4 0
+cheso 1 4 1
+onnui 1 8 0

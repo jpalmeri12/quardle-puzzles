@@ -1,0 +1,5 @@
+7 9
+slime 5 1 1
+bevel 3 4 1
+piece 1 5 0
+slate 2 8 0

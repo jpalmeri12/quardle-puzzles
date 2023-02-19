@@ -1,0 +1,5 @@
+7 9
+sieve 6 1 1
+nylon 4 4 1
+rhyme 2 5 0
+motor 1 7 0

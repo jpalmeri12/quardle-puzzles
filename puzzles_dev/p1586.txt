@@ -1,0 +1,5 @@
+7 8
+clung 5 1 1
+spice 3 3 1
+bilge 2 5 0
+cress 1 7 0

@@ -1,0 +1,6 @@
+7 10 five
+agent 3 1 1
+penal 2 3 0
+stalk 2 5 0
+leave 5 5 1
+alpha 1 7 0

@@ -1,0 +1,5 @@
+7 10
+porch 4 1 1
+harpy 2 3 0
+tithe 1 5 0
+ember 5 5 1

@@ -1,0 +1,5 @@
+7 8 outoforder
+climb 1 1 0
+brawn 5 1 1
+scorn 3 3 1
+scowl 2 4 0

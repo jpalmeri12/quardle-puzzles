@@ -1,0 +1,7 @@
+6 12 secretdistance
+third 4 1 1
+crude 1 5 0
+rebel 2 5 1
+abode 1 7 0
+ardor 1 11 0
+!sdpos 3 2 1 2

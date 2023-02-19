@@ -1,0 +1,5 @@
+6 6 reverse
+purse 1 1 0
+retne 3 1 1
+egasu 5 1 1
+bonus 1 4 0

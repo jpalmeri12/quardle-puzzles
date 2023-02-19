@@ -1,0 +1,5 @@
+7 10
+stuff 2 1 1
+steam 2 1 0
+affix 1 5 0
+irony 4 5 1

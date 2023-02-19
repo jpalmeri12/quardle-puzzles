@@ -1,0 +1,5 @@
+7 10
+watch 1 1 1
+hotel 1 5 0
+linen 5 5 1
+phone 2 9 0

@@ -1,0 +1,5 @@
+7 8 spaced
+water 5 1 1
+piney 3 3 1
+maize 1 4 0
+hydro 2 7 0

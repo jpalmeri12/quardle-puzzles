@@ -1,0 +1,5 @@
+7 8
+fatty 6 1 1
+route 4 3 1
+shout 2 4 0
+diner 1 7 0

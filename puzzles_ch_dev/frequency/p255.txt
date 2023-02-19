@@ -1,0 +1,5 @@
+6 9 frequency
+fraud 1 1 1
+flush 1 1 0
+beast 4 4 1
+dicey 1 5 0

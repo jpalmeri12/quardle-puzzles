@@ -1,0 +1,7 @@
+6 11 secretdistance
+punch 1 1 0
+cider 4 1 1
+splat 2 4 1
+spark 1 5 0
+patio 1 10 0
+!sdpos 2 0 3 1

@@ -1,0 +1,5 @@
+7 9
+trade 3 1 1
+borne 1 2 0
+adult 2 4 0
+tilde 6 4 1

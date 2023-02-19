@@ -1,0 +1,5 @@
+7 10
+carve 2 1 1
+patty 1 2 0
+early 2 5 0
+raise 4 5 1

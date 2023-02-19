@@ -1,0 +1,5 @@
+7 9 shiritori
+plumb 1 1 0
+bicep 5 1 1
+roger 2 4 0
+opine 3 4 1

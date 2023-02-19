@@ -1,0 +1,5 @@
+7 10
+curse 5 1 1
+roger 2 5 0
+ombre 3 5 1
+abbot 1 7 0

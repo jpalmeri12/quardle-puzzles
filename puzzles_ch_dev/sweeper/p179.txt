@@ -1,0 +1,5 @@
+7 9 sweeper
+found 5 1 1
+grass 2 4 1
+pried 1 5 0
+salon 2 7 0

@@ -1,0 +1,5 @@
+7 7 shiritori
+angry 5 1 1
+scone 2 2 0
+cabby 3 2 1
+amber 1 4 0

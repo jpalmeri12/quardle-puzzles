@@ -1,0 +1,5 @@
+7 10
+randy 2 1 1
+assay 2 2 0
+cyber 1 5 0
+chalk 1 5 1

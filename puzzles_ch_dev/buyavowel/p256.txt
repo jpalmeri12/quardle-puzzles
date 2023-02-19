@@ -1,0 +1,5 @@
+6 9 buyavowel
+swear 1 1 1
+avert 1 4 0
+reset 4 4 1
+musty 1 8 0

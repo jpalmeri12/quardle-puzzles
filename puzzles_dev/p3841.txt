@@ -1,0 +1,5 @@
+7 7
+sandy 5 1 1
+tonga 1 2 0
+noble 3 2 1
+abide 2 4 0

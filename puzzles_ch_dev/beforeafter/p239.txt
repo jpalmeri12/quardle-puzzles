@@ -1,0 +1,9 @@
+7 8 beforeafter
+tramp 6 1 1
+chart 3 3 1
+charm 2 4 0
+petty 1 7 0
+!beforeafter 1 q
+!beforeafter 2 k
+!beforeafter 2 j
+!beforeafter 1 q

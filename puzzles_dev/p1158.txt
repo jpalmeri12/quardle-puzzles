@@ -1,0 +1,5 @@
+7 8
+welch 6 1 1
+begin 3 3 1
+medic 2 4 0
+pinto 1 7 0

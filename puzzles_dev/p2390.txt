@@ -1,0 +1,5 @@
+7 10
+those 6 1 1
+whose 2 5 0
+humid 3 5 1
+gummy 1 7 0

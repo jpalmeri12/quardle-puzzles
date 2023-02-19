@@ -1,0 +1,8 @@
+6 8 twins
+relic 1 1 0
+vowel 1 3 0
+bible 1 5 0
+skunk 1 7 0
+!twins 0 3
+!twins 3 4
+!twins 1 3

@@ -1,0 +1,5 @@
+7 8 darkness
+fella 5 1 1
+ashen 3 3 1
+shoal 2 5 0
+manic 1 7 0

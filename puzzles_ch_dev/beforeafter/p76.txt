@@ -1,0 +1,9 @@
+7 10 beforeafter
+floor 3 1 1
+balmy 1 2 0
+trace 2 5 0
+tunic 2 5 1
+!beforeafter 1 m
+!beforeafter 1 i
+!beforeafter 1 l
+!beforeafter 2 j

@@ -1,0 +1,9 @@
+6 9 beforeafter
+bonus 4 1 1
+allow 2 4 1
+class 1 5 0
+lodge 1 7 0
+!beforeafter 2 r
+!beforeafter 2 n
+!beforeafter 2 o
+!beforeafter 1 k

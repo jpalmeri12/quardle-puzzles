@@ -1,0 +1,5 @@
+7 10
+corny 2 1 0
+nanny 5 1 1
+harpy 1 5 0
+petty 4 5 1

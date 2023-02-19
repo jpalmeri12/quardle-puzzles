@@ -1,0 +1,5 @@
+7 9
+lefty 2 1 1
+eject 2 2 0
+straw 1 4 0
+ashen 4 4 1

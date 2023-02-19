@@ -1,0 +1,5 @@
+6 10 hardmode
+drawl 4 1 1
+badly 1 5 0
+dwelt 3 5 1
+gleam 1 7 0

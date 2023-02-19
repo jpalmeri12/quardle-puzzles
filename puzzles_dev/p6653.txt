@@ -1,0 +1,5 @@
+7 7
+study 5 1 1
+broth 2 2 0
+relay 3 2 1
+foamy 1 5 0

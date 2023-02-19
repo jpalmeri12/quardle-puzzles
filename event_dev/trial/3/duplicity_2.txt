@@ -1,0 +1,5 @@
+7 10 duplicity
+scarf 2 1 1
+scare 1 2 0
+flair 2 5 0
+relic 6 5 1

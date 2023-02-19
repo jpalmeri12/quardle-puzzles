@@ -1,0 +1,5 @@
+7 8 skyscrapers
+vogue 1 5 0
+trunk 4 3 1
+joker 2 7 0
+cello 2 1 1

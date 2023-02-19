@@ -1,0 +1,6 @@
+6 9 commonsecret
+bacon 1 1 0
+niche 5 1 1
+dutch 1 4 0
+tract 3 4 1
+!secret c

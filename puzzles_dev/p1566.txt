@@ -1,0 +1,5 @@
+7 7
+scoff 6 1 1
+crier 4 2 1
+cliff 2 4 0
+sword 1 6 0

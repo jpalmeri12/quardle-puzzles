@@ -1,0 +1,5 @@
+7 8
+cliff 1 1 1
+imply 1 3 0
+leafy 4 3 1
+puffy 2 6 0

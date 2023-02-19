@@ -1,0 +1,5 @@
+7 8 outoforder
+abhor 1 1 0
+bosom 2 1 1
+sweet 2 3 0
+ebony 5 3 1

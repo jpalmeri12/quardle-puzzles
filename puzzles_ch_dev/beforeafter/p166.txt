@@ -1,0 +1,9 @@
+7 9 beforeafter
+major 3 1 1
+caput 5 4 1
+trial 2 5 0
+faint 1 8 0
+!beforeafter 2 n
+!beforeafter 2 r
+!beforeafter 1 p
+!beforeafter 2 k

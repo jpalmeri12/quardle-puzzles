@@ -1,0 +1,8 @@
+6 8 twins
+liver 1 1 0
+creak 1 3 0
+unmet 1 5 0
+peril 1 7 0
+!twins 0 1
+!twins 1 3
+!twins 0 2

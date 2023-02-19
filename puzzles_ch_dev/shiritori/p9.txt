@@ -1,0 +1,5 @@
+7 10 shiritori
+fungi 5 1 1
+movie 2 5 0
+motor 2 5 1
+lowly 1 8 0

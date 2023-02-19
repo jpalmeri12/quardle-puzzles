@@ -1,0 +1,5 @@
+6 8 reverse
+hceeb 1 1 1
+human 1 1 0
+ynnan 4 3 1
+brine 1 5 0

@@ -1,0 +1,5 @@
+7 8 skyscrapers
+trait 1 5 0
+stamp 3 3 1
+ascot 2 3 0
+clout 5 1 1

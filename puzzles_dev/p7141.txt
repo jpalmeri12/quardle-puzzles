@@ -1,0 +1,5 @@
+7 10
+arise 4 1 1
+strut 2 2 0
+ripen 1 5 0
+ruler 1 5 1

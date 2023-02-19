@@ -1,0 +1,5 @@
+6 9
+share 1 1 1
+ripen 1 4 0
+exert 4 4 1
+booty 1 8 0

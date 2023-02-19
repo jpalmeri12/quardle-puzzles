@@ -1,0 +1,5 @@
+7 10
+fatty 2 1 0
+thump 5 1 1
+sweep 1 5 0
+spied 1 5 1

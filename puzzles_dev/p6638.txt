@@ -1,0 +1,5 @@
+7 7
+booty 2 1 1
+outdo 2 2 0
+tango 4 2 1
+stony 1 4 0

@@ -1,0 +1,5 @@
+7 8
+ninja 1 1 0
+irate 2 1 1
+agree 2 3 0
+rural 4 3 1

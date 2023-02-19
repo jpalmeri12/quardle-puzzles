@@ -1,0 +1,6 @@
+7 10 five
+catch 4 1 1
+adage 2 2 0
+pushy 1 5 0
+usher 2 5 1
+yeast 5 5 1

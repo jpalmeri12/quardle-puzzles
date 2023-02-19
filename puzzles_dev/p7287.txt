@@ -1,0 +1,5 @@
+6 7
+broth 5 1 1
+crock 1 2 1
+cedar 1 2 0
+overt 1 4 0

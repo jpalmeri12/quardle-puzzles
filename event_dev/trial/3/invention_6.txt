@@ -1,0 +1,5 @@
+7 10 invention
+plumb 6 1 1
+rehab 2 5 0
+helix 4 5 1
+scale 1 7 0

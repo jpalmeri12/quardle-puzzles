@@ -1,0 +1,5 @@
+7 10
+fifty 3 1 1
+after 2 3 0
+thyme 1 5 0
+melee 4 5 1

@@ -1,0 +1,5 @@
+6 10
+vomit 3 1 1
+hitch 1 5 0
+harry 5 5 1
+spear 1 7 0

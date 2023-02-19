@@ -1,0 +1,5 @@
+7 8
+sadly 5 1 1
+loopy 3 3 1
+growl 1 4 0
+hydro 2 7 0

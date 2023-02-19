@@ -1,0 +1,9 @@
+7 9 spellbound
+aping 6 1 1
+login 2 4 0
+gamer 4 4 1
+river 1 7 0
+!spellbound 0 0 4
+!spellbound 1 1 0
+!spellbound 2 4 2
+!spellbound 3 0 4

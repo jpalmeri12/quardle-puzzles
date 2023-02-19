@@ -1,0 +1,5 @@
+7 9 scrabble
+grunt 1 1 1
+taboo 1 5 0
+honor 5 4 1
+vapor 2 7 0

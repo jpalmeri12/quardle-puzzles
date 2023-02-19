@@ -1,0 +1,5 @@
+6 9
+stead 1 1 0
+ethos 3 1 1
+horny 5 4 1
+disco 1 5 0

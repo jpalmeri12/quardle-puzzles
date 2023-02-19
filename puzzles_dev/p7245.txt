@@ -1,0 +1,5 @@
+7 10
+frame 5 1 1
+gauge 1 5 0
+unfed 3 5 1
+afoot 2 7 0

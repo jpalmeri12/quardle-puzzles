@@ -1,0 +1,5 @@
+7 10
+beech 2 1 0
+elect 4 1 1
+bitty 1 5 0
+tough 3 5 1

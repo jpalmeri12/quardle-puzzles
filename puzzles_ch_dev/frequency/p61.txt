@@ -1,0 +1,5 @@
+6 9 frequency
+aloof 2 1 1
+plump 1 2 0
+gonad 1 4 0
+apart 4 4 1

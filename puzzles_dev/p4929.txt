@@ -1,0 +1,5 @@
+7 10
+aback 2 1 1
+kebab 2 5 0
+bleed 4 5 1
+agree 1 8 0

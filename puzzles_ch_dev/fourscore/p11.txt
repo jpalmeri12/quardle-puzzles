@@ -1,0 +1,5 @@
+7 8 fourscore
+penal 2 1 1
+nurse 2 3 0
+ralph 4 3 1
+yacht 1 7 0

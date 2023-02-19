@@ -1,0 +1,5 @@
+7 10
+award 4 1 1
+guard 2 3 0
+amber 1 5 1
+abode 1 5 0

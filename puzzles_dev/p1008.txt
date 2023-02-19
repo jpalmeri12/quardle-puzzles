@@ -1,0 +1,5 @@
+7 10
+shard 2 1 1
+catch 1 3 0
+dunce 2 5 0
+crisp 5 5 1

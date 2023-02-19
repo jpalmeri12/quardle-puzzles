@@ -1,0 +1,5 @@
+6 9
+adopt 1 1 0
+petal 4 1 1
+gleam 1 4 0
+glade 1 4 1

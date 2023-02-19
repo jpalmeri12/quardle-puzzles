@@ -1,0 +1,6 @@
+7 10 drop
+below 4 1 1
+dusty 2 3 1
+sower 2 5 0
+hymen 1 7 0
+sense 1 9 0

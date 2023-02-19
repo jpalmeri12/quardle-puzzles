@@ -1,0 +1,5 @@
+7 8
+aloof 4 1 1
+whale 1 2 0
+pesky 6 3 1
+scone 2 4 0

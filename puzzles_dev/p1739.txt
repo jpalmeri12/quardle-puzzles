@@ -1,0 +1,5 @@
+6 8
+nosey 3 1 1
+blush 5 3 1
+shell 1 4 0
+weigh 1 7 0

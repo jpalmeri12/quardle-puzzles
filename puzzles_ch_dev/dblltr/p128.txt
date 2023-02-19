@@ -1,0 +1,5 @@
+7 10 dblltr
+colon 4 1 1
+floor 2 2 0
+aging 1 5 0
+issue 3 5 1

@@ -1,0 +1,9 @@
+6 10 spellbound
+fungi 2 1 1
+bitty 1 5 0
+torch 4 5 1
+storm 1 7 0
+!spellbound 0 0 1
+!spellbound 1 4 0
+!spellbound 2 3 4
+!spellbound 3 0 1

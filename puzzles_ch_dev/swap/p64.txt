@@ -1,0 +1,5 @@
+7 9 swap
+agnet 1 1 0
+ghots 2 1 1
+tuogh 2 4 0
+htree 6 4 1

@@ -1,0 +1,5 @@
+7 8 scrabble
+boast 5 1 1
+final 2 3 0
+fried 2 3 1
+wight 1 5 0

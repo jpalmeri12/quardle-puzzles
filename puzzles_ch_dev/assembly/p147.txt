@@ -1,0 +1,5 @@
+6 10 assembly
+among 1 3 1
+idiot 5 3 1
+muddy 1 1 0
+girth 1 9 0

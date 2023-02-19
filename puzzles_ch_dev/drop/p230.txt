@@ -1,0 +1,6 @@
+7 10 drop
+twine 2 1 1
+mayor 5 3 1
+jerky 1 5 0
+beard 2 7 0
+retry 1 9 0

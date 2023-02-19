@@ -1,0 +1,9 @@
+7 9 beforeafter
+tribe 1 1 1
+blown 1 4 0
+wring 4 4 1
+begun 2 8 0
+!beforeafter 1 n
+!beforeafter 1 m
+!beforeafter 1 o
+!beforeafter 2 i

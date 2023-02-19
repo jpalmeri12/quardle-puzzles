@@ -1,0 +1,5 @@
+7 9 darkness
+llama 2 2 0
+plump 2 1 1
+exert 4 4 1
+emcee 1 4 0

@@ -1,0 +1,5 @@
+7 9
+curve 2 1 0
+vogue 5 1 1
+dunce 3 4 1
+deuce 1 5 0

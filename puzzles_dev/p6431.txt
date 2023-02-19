@@ -1,0 +1,5 @@
+7 8
+stalk 2 1 0
+atoll 4 1 1
+aloof 1 3 0
+arson 1 3 1

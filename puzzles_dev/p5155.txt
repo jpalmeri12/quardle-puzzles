@@ -1,0 +1,5 @@
+7 10
+glyph 3 1 1
+shook 2 5 0
+sleek 2 5 1
+lefty 1 7 0

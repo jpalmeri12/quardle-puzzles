@@ -1,0 +1,5 @@
+7 10
+super 2 1 1
+poppy 2 3 0
+trite 1 5 0
+tempo 4 5 1

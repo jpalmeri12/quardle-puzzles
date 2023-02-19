@@ -1,0 +1,5 @@
+7 8
+octet 5 1 1
+limit 3 3 1
+slide 1 4 0
+stuck 2 7 0

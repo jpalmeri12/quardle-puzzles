@@ -1,0 +1,5 @@
+7 8
+inner 1 1 1
+rural 3 3 1
+rerun 1 5 0
+aloud 2 7 0

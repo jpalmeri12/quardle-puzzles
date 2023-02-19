@@ -1,0 +1,9 @@
+7 10 spellbound
+salvo 4 1 1
+agora 2 5 0
+glade 3 5 1
+knave 1 7 0
+!spellbound 0 1 0
+!spellbound 1 4 3
+!spellbound 2 4 1
+!spellbound 3 4 1

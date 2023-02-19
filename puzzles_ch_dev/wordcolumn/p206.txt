@@ -1,0 +1,6 @@
+6 10 wordcolumn
+thorn 2 1 1
+spook 1 5 1
+snack 1 5 0
+await 3 5 1
+onion 1 8 0

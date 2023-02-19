@@ -1,0 +1,5 @@
+7 10 spin
+sadly 2 1 1
+droll 2 3 0
+bylaw 1 5 0
+lucky 3 5 1

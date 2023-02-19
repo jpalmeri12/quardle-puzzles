@@ -1,0 +1,5 @@
+6 6
+sneer 1 1 0
+sport 1 1 1
+etude 3 1 1
+their 1 5 0

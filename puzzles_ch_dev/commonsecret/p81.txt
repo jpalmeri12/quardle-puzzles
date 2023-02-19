@@ -1,0 +1,6 @@
+6 7 commonsecret
+graph 1 1 1
+rapid 1 2 0
+pinch 3 2 1
+penne 1 4 0
+!secret p

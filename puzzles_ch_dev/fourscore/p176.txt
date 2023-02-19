@@ -1,0 +1,5 @@
+7 10 fourscore
+birth 4 1 1
+avoid 1 2 0
+other 2 5 0
+reset 6 5 1

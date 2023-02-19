@@ -1,0 +1,5 @@
+7 10
+homer 2 1 0
+evade 5 1 1
+barge 1 5 0
+agape 2 5 1

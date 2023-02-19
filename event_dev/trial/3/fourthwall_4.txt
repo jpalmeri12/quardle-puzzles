@@ -1,0 +1,7 @@
+6 6 fourthwall
+rebar 1 1 0
+reset 1 1 1
+steer 1 3 0
+bleep 3 1 1
+tapir 1 5 0
+rarer 5 1 1

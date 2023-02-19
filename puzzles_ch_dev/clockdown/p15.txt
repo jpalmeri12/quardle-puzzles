@@ -1,0 +1,5 @@
+7 9 clockdown
+ditto 6 1 1
+spiky 2 4 1
+piano 2 5 0
+synod 1 8 0

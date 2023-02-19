@@ -1,0 +1,5 @@
+6 9
+voice 3 1 1
+mangy 5 4 1
+enema 1 5 0
+alley 1 8 0

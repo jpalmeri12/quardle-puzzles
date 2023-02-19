@@ -1,0 +1,5 @@
+7 9
+guppy 5 1 1
+livid 3 4 1
+grimy 1 5 0
+light 2 7 0

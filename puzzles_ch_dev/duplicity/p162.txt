@@ -1,0 +1,5 @@
+7 7 duplicity
+least 1 1 1
+linen 5 2 1
+stein 1 4 0
+slant 2 6 0

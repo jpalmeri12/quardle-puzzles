@@ -1,0 +1,5 @@
+7 8
+rabbi 2 1 0
+booty 5 1 1
+speed 3 3 1
+input 1 4 0

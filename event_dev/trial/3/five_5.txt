@@ -1,0 +1,6 @@
+7 10 five
+photo 5 1 1
+pagan 2 4 1
+taboo 1 5 0
+omega 4 5 1
+avert 2 7 0

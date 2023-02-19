@@ -1,0 +1,6 @@
+6 10 five
+river 4 1 1
+trail 1 2 0
+quirk 1 5 0
+usurp 2 5 1
+trick 1 8 0

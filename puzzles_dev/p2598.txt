@@ -1,0 +1,5 @@
+7 10
+hymen 2 1 1
+snore 1 5 0
+earth 5 5 1
+slurp 2 7 0

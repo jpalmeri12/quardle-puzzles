@@ -1,0 +1,6 @@
+7 9 wordcolumn
+mount 2 1 0
+tried 6 1 1
+libel 4 4 1
+weird 2 5 0
+layer 1 7 0

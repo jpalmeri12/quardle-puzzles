@@ -1,0 +1,5 @@
+7 7 elbowroom
+betel 2 1 1
+stall 4 2 1
+totem 2 3 0
+slyly 1 5 0

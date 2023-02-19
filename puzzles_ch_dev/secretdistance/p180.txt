@@ -1,0 +1,7 @@
+6 11 secretdistance
+steer 2 1 1
+spiky 5 4 1
+droop 1 5 0
+alley 1 8 0
+shade 1 10 0
+!sdpos 0 1 1 0

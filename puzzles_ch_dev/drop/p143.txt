@@ -1,0 +1,6 @@
+7 11 drop
+world 2 1 1
+olive 2 2 0
+clang 1 4 0
+noose 4 4 1
+gloom 1 10 0

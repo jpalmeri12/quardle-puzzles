@@ -1,0 +1,5 @@
+7 10
+spunk 5 1 1
+cluck 1 5 0
+upper 3 5 1
+leech 2 8 0

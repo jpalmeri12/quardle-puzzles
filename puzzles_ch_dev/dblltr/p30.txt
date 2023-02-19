@@ -1,0 +1,5 @@
+7 10 dblltr
+salad 6 1 1
+blood 2 5 0
+offal 5 5 1
+terra 1 8 0

@@ -1,0 +1,7 @@
+7 12 secretdistance
+prowl 2 1 1
+rivet 2 2 0
+flour 1 5 0
+urine 4 5 1
+snail 1 11 0
+!sdpos 2 1 1 2

@@ -1,0 +1,5 @@
+7 7
+etude 2 1 1
+teeth 2 2 0
+twist 5 2 1
+rebus 1 5 0

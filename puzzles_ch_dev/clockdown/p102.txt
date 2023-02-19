@@ -1,0 +1,5 @@
+7 9 clockdown
+mirth 5 1 1
+lucid 3 4 1
+mushy 2 5 0
+rhino 1 7 0

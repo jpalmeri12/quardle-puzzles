@@ -1,0 +1,7 @@
+6 11 secretdistance
+tenor 5 1 1
+found 2 4 1
+solar 1 5 0
+admin 1 8 0
+helix 1 10 0
+!sdpos 0 2 1 0

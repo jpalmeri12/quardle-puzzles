@@ -1,0 +1,5 @@
+6 10 beta
+bayou 1 1 1
+bleat 1 1 0
+urine 1 5 0
+easel 5 5 1

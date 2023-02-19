@@ -1,0 +1,5 @@
+6 7 elbowroom
+ocean 1 1 1
+china 1 2 0
+amiss 5 2 1
+alibi 1 4 0

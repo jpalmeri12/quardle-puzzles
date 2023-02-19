@@ -1,0 +1,5 @@
+7 10 soundscramble
+stont 2 1 0
+torbu 3 1 1
+spuot 1 5 0
+osage 4 5 1

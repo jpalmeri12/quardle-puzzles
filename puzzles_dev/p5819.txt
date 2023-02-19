@@ -1,0 +1,5 @@
+6 10
+speak 5 1 1
+whack 1 5 0
+crash 4 5 1
+fight 1 9 0

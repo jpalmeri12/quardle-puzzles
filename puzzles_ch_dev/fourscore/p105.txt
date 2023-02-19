@@ -1,0 +1,5 @@
+6 7 fourscore
+verso 3 1 1
+sleep 1 2 0
+patty 5 2 1
+snout 1 5 0

@@ -1,0 +1,5 @@
+7 7 elbowroom
+whisk 5 1 1
+leech 1 2 0
+elbow 3 2 1
+abyss 2 4 0

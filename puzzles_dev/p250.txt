@@ -1,0 +1,5 @@
+6 7
+chest 4 1 1
+tithe 1 2 0
+tough 1 2 1
+gusty 1 5 0

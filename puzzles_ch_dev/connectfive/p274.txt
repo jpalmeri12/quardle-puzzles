@@ -1,0 +1,6 @@
+7 10 connectfive
+theta 1 1 0
+afire 5 1 1
+aging 3 3 1
+wiser 2 5 0
+rebus 6 5 1

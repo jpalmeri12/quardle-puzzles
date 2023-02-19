@@ -1,0 +1,5 @@
+7 10
+sweet 2 1 1
+stout 1 5 0
+unfed 4 5 1
+cress 2 8 0

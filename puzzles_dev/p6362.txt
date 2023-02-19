@@ -1,0 +1,5 @@
+7 9
+sissy 2 1 1
+aside 1 4 0
+druid 4 4 1
+midst 2 8 0

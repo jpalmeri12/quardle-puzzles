@@ -1,0 +1,5 @@
+6 9 duplicity
+briar 1 1 0
+armor 4 1 1
+broom 1 4 0
+rabbi 2 4 1

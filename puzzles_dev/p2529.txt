@@ -1,0 +1,5 @@
+7 9
+gumbo 1 1 0
+offal 5 1 1
+wreak 2 4 0
+riper 3 4 1

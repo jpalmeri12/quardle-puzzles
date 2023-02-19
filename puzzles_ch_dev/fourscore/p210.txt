@@ -1,0 +1,5 @@
+7 9 fourscore
+chose 1 1 0
+hilly 2 1 1
+level 2 4 0
+eject 5 4 1

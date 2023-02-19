@@ -1,0 +1,5 @@
+6 9 dblltr
+cycle 3 1 1
+slyly 1 2 0
+deuce 1 4 1
+elegy 1 5 0

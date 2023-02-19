@@ -1,0 +1,9 @@
+7 9 beforeafter
+unwed 5 1 1
+wrung 2 2 0
+stunk 2 4 1
+stand 1 5 0
+!beforeafter 2 l
+!beforeafter 2 o
+!beforeafter 2 o
+!beforeafter 1 r

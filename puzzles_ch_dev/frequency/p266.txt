@@ -1,0 +1,5 @@
+7 7 frequency
+piney 5 1 1
+stamp 2 2 1
+trunk 2 3 0
+empty 1 5 0

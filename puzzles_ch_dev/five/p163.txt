@@ -1,0 +1,6 @@
+7 10 five
+lemur 5 1 1
+dummy 2 3 0
+sober 1 5 0
+bunny 3 5 1
+pinto 1 7 0

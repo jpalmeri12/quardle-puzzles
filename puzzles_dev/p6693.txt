@@ -1,0 +1,5 @@
+6 9
+alike 1 1 1
+lunch 1 2 0
+koala 1 4 0
+avail 5 4 1

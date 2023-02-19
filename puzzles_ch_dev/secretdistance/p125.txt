@@ -1,0 +1,7 @@
+6 11 secretdistance
+habit 4 1 1
+shaft 1 4 1
+stair 1 4 0
+totem 1 8 0
+bunch 1 10 0
+!sdpos 3 1 1 0

@@ -1,0 +1,6 @@
+7 9 wordcolumn
+minim 2 1 1
+hitch 1 2 0
+diary 1 4 0
+relay 4 4 1
+tryst 2 8 0

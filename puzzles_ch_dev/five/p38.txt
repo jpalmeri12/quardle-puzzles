@@ -1,0 +1,6 @@
+7 10 five
+dally 3 1 1
+rodeo 5 2 1
+allow 2 3 0
+payee 1 5 0
+acorn 2 5 1

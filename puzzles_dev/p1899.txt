@@ -1,0 +1,5 @@
+7 10
+ratio 4 1 1
+outer 2 3 0
+synod 1 5 0
+dryly 5 5 1

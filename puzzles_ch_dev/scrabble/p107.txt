@@ -1,0 +1,5 @@
+7 8 scrabble
+labor 1 4 0
+fable 1 1 1
+awful 2 6 0
+comfy 4 3 1

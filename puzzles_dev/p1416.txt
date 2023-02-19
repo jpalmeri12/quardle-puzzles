@@ -1,0 +1,5 @@
+7 10
+mocha 6 1 1
+aroma 2 5 0
+rebel 3 5 1
+zebra 1 7 0

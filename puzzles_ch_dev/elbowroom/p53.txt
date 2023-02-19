@@ -1,0 +1,5 @@
+7 10 elbowroom
+snuff 5 1 1
+spank 2 2 0
+scoff 1 5 0
+oddly 3 5 1

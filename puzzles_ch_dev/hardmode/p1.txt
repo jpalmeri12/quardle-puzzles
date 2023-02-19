@@ -1,0 +1,5 @@
+6 9 hardmode
+shrub 1 1 0
+buddy 5 1 1
+ferry 2 4 1
+weary 1 5 0

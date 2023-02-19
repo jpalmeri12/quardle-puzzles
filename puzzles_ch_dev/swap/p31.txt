@@ -1,0 +1,5 @@
+6 9 swap
+trcuk 1 1 1
+rbook 1 2 0
+sepll 4 4 1
+knief 1 5 0

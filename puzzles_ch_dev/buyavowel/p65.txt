@@ -1,0 +1,5 @@
+7 10 buyavowel
+cagey 6 1 1
+booby 2 5 0
+blare 5 5 1
+rumor 1 8 0

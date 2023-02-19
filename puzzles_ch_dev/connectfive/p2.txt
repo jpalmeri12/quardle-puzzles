@@ -1,0 +1,6 @@
+7 10 connectfive
+issue 2 1 1
+drawl 6 1 1
+equal 2 5 0
+upset 4 5 1
+mossy 1 7 0

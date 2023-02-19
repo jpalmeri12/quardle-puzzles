@@ -1,0 +1,5 @@
+7 8
+adapt 4 1 1
+macaw 1 3 0
+adage 2 3 1
+altar 2 5 0

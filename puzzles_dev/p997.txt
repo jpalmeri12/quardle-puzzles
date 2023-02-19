@@ -1,0 +1,5 @@
+7 7
+spurn 5 1 1
+trope 2 2 0
+raise 3 2 1
+risen 1 5 0

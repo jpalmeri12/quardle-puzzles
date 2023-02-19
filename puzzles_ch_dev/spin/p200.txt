@@ -1,0 +1,5 @@
+7 10 spin
+north 1 1 0
+hunky 5 1 1
+polyp 2 5 0
+oxide 3 5 1

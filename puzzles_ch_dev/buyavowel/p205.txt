@@ -1,0 +1,5 @@
+7 7 buyavowel
+haven 4 1 1
+assay 1 2 0
+skier 2 2 1
+inept 2 4 0

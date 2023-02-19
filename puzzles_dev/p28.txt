@@ -1,0 +1,5 @@
+7 9
+scone 3 1 1
+harpy 5 4 1
+rehab 2 5 0
+pasty 1 8 0

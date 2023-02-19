@@ -1,0 +1,6 @@
+6 8 squaredance
+racer 1 1 1
+twice 5 1 1
+rebut 1 1 0
+reuse 1 5 0
+corer 1 7 0

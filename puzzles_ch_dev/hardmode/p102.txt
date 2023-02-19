@@ -1,0 +1,5 @@
+6 6 hardmode
+tapir 1 1 1
+wryly 4 1 1
+acorn 1 2 0
+imply 1 4 0

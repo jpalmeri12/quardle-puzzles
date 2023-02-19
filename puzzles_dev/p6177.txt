@@ -1,0 +1,5 @@
+7 8
+wooly 5 1 1
+money 2 3 1
+major 2 3 0
+syrup 1 7 0

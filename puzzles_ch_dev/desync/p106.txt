@@ -1,0 +1,5 @@
+7 10 desync
+extra 5 1 1
+midst 1 3 0
+inlay 2 5 0
+young 6 5 1

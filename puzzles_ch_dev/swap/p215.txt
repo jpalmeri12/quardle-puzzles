@@ -1,0 +1,5 @@
+6 6 swap
+chmup 1 1 1
+sotve 4 1 1
+hvaoc 1 2 0
+puset 1 5 0

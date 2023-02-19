@@ -1,0 +1,5 @@
+7 9 clockdown
+steed 6 1 1
+until 3 4 1
+unfed 2 5 0
+solid 1 8 0

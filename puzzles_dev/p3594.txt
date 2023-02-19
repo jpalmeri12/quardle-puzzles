@@ -1,0 +1,5 @@
+7 10
+fancy 4 1 1
+glyph 2 5 0
+linen 3 5 1
+dunce 1 9 0

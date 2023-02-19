@@ -1,0 +1,5 @@
+7 9 frequency
+onset 5 1 1
+idler 2 4 0
+daily 3 4 1
+hilly 1 7 0

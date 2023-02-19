@@ -1,0 +1,5 @@
+7 10
+value 1 1 0
+agile 2 1 1
+elite 2 5 0
+tease 5 5 1

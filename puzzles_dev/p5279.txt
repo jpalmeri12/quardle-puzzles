@@ -1,0 +1,5 @@
+7 10
+chart 5 1 1
+moist 1 5 0
+shoot 4 5 1
+gloom 2 8 0

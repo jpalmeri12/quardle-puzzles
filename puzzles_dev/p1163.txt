@@ -1,0 +1,5 @@
+7 9
+polar 1 1 1
+carat 5 4 1
+rumba 1 5 0
+bleak 2 7 0

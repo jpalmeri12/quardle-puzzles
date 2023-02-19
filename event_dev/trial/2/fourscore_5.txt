@@ -1,0 +1,5 @@
+7 10 fourscore
+booth 2 1 1
+moult 1 2 0
+haven 2 5 0
+eagle 5 5 1

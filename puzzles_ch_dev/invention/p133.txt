@@ -1,0 +1,5 @@
+7 10 invention
+panic 4 1 1
+ovary 2 2 0
+couch 1 5 0
+heart 5 5 1

@@ -1,0 +1,5 @@
+6 9 frequency
+judge 1 1 1
+junta 1 1 0
+grope 1 4 0
+prowl 4 4 1

@@ -1,0 +1,6 @@
+7 11 wordcolumn
+rabbi 6 1 1
+kebab 2 3 0
+booze 4 3 1
+craze 1 6 0
+clean 1 6 1

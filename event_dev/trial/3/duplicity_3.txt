@@ -1,0 +1,5 @@
+6 10 duplicity
+sixty 5 1 1
+sissy 1 5 0
+stoic 4 5 1
+toxic 1 8 0

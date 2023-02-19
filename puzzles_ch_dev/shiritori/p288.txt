@@ -1,0 +1,5 @@
+7 8 shiritori
+frill 3 1 1
+suing 1 3 0
+gauge 5 3 1
+flout 2 5 0

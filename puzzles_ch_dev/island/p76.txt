@@ -1,0 +1,6 @@
+6 7 island
+quark 4 1 1
+fugue 1 2 1
+fraud 1 2 0
+glory 1 4 0
+!island 2111 211 311 221

@@ -1,0 +1,5 @@
+7 10 reverse
+usurp 5 1 1
+creep 1 5 0
+eileb 4 5 1
+dleiw 2 8 0

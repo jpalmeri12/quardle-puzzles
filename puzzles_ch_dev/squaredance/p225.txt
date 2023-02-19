@@ -1,0 +1,6 @@
+6 8 squaredance
+raven 1 1 1
+nanny 5 1 1
+risen 1 1 0
+nerdy 1 5 0
+prime 1 7 0

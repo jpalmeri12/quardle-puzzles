@@ -1,0 +1,5 @@
+6 9
+shush 4 1 1
+tryst 1 4 0
+tight 1 4 1
+hovel 1 7 0

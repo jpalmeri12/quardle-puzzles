@@ -1,0 +1,6 @@
+7 10 commonsecret
+event 1 1 0
+virus 2 1 1
+shove 2 5 0
+vogue 5 5 1
+!secret v

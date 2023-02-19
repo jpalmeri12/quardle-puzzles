@@ -1,0 +1,5 @@
+7 9 darkness
+chart 1 5 0
+idler 2 7 0
+tight 5 1 1
+bawdy 3 4 1

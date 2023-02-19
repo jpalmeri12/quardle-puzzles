@@ -1,0 +1,5 @@
+7 8 reverse
+eagle 1 1 0
+align 2 1 1
+gnulc 6 3 1
+nabru 2 5 0

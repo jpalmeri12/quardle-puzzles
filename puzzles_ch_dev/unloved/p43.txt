@@ -1,0 +1,5 @@
+7 8 unloved
+crumb 2 1 1
+grill 1 2 0
+flyer 6 3 1
+burly 2 5 0

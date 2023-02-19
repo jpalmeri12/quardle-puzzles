@@ -1,0 +1,5 @@
+6 7
+smart 3 1 1
+admit 1 2 0
+allow 1 2 1
+large 1 4 0

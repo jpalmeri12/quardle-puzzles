@@ -1,0 +1,5 @@
+6 8 hardmode
+nasty 1 1 0
+swing 3 1 1
+knelt 5 3 1
+linen 1 4 0

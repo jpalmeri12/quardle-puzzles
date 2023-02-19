@@ -1,0 +1,5 @@
+7 10 clockdown
+greet 2 1 1
+rouse 2 2 0
+atoll 1 5 0
+lumen 5 5 1

@@ -1,0 +1,5 @@
+7 9 clockdown
+muddy 6 1 1
+stead 2 4 0
+tight 3 4 1
+abhor 1 7 0

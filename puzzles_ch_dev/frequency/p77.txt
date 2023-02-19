@@ -1,0 +1,5 @@
+7 10 frequency
+exalt 1 1 0
+larva 4 1 1
+drank 2 5 0
+nerve 5 5 1

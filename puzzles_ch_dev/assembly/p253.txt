@@ -1,0 +1,5 @@
+6 10 assembly
+spool 1 3 1
+crane 5 3 1
+caper 1 1 0
+solve 1 9 0

@@ -1,0 +1,9 @@
+6 7 spellbound
+lying 4 1 1
+belly 1 2 1
+equip 1 3 0
+ledge 1 5 0
+!spellbound 0 0 3
+!spellbound 1 2 4
+!spellbound 2 2 4
+!spellbound 3 2 1

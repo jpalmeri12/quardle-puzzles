@@ -1,0 +1,5 @@
+6 10
+mangy 2 1 1
+nymph 1 5 0
+harry 5 5 1
+vigor 1 7 0

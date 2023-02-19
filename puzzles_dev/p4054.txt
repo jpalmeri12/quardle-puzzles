@@ -1,0 +1,5 @@
+7 10
+glass 4 1 1
+focal 1 3 0
+issue 2 5 0
+unfed 5 5 1

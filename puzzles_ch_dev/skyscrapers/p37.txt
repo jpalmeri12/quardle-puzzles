@@ -1,0 +1,5 @@
+7 10 skyscrapers
+speck 5 1 1
+black 1 5 0
+cider 4 5 1
+endow 2 7 0

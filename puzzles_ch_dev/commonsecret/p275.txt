@@ -1,0 +1,6 @@
+6 9 commonsecret
+gayer 1 1 0
+essay 4 1 1
+repay 1 4 0
+ready 1 4 1
+!secret y

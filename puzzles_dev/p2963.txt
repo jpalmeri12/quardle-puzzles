@@ -1,0 +1,5 @@
+7 10
+lithe 5 1 1
+navel 2 5 0
+niece 2 5 1
+scion 1 8 0

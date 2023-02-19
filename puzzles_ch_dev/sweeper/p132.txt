@@ -1,0 +1,5 @@
+7 9 sweeper
+spill 2 1 1
+poppy 2 2 0
+ideal 5 4 1
+plead 1 5 0

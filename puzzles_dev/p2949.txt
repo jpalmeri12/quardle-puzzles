@@ -1,0 +1,5 @@
+7 10
+toddy 2 1 1
+idyll 1 3 0
+yearn 2 5 0
+ruler 5 5 1

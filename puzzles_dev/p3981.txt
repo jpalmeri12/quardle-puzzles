@@ -1,0 +1,5 @@
+7 9
+dough 4 1 1
+motor 1 2 0
+begun 2 4 0
+bloom 2 4 1

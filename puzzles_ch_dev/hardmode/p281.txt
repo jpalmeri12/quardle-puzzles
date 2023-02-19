@@ -1,0 +1,5 @@
+7 10 hardmode
+imbue 1 1 0
+blaze 3 1 1
+teddy 2 5 0
+trawl 2 5 1

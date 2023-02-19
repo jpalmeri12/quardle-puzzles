@@ -1,0 +1,5 @@
+7 9
+leash 1 1 0
+afire 3 1 1
+frost 2 4 0
+theme 6 4 1

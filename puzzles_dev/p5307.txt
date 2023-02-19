@@ -1,0 +1,5 @@
+7 9
+ombre 2 1 0
+beset 4 1 1
+ferry 1 4 1
+earth 1 5 0

@@ -1,0 +1,5 @@
+7 9
+koala 3 1 1
+ionic 2 2 0
+jelly 1 4 0
+joint 1 4 1

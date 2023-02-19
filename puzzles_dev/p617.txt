@@ -1,0 +1,5 @@
+7 7
+waver 1 1 0
+elate 4 1 1
+forum 6 2 1
+piano 2 3 0

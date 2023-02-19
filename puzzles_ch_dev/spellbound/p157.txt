@@ -1,0 +1,9 @@
+7 10 spellbound
+khaki 3 1 1
+drone 2 5 1
+disco 2 5 0
+donor 1 7 0
+!spellbound 0 2 3
+!spellbound 1 4 3
+!spellbound 2 3 2
+!spellbound 3 0 3

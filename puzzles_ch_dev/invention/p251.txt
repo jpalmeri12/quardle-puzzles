@@ -1,0 +1,5 @@
+7 9 invention
+coven 5 1 1
+stood 2 2 0
+range 1 4 0
+noise 3 4 1

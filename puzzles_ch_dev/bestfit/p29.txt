@@ -1,0 +1,5 @@
+7 10 bestfit
+wagon 4 1 1
+mangy 2 5 0
+angel 3 5 1
+break 1 8 0

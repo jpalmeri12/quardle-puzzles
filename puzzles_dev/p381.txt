@@ -1,0 +1,5 @@
+7 9
+spike 2 1 1
+skiff 1 4 0
+fetid 5 4 1
+windy 2 8 0

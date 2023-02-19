@@ -1,0 +1,6 @@
+7 12 connectfive
+harem 2 1 1
+elegy 2 4 0
+glade 5 4 1
+fraud 2 7 1
+irate 1 8 0

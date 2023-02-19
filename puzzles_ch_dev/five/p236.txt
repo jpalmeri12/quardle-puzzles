@@ -1,0 +1,6 @@
+6 9 five
+daddy 1 1 0
+admin 2 1 1
+ridge 1 4 0
+elect 5 4 1
+cynic 1 7 0

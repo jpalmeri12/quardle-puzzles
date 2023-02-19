@@ -1,0 +1,6 @@
+6 10 wordcolumn
+waste 2 1 1
+leach 1 5 0
+cause 4 5 1
+opium 1 7 0
+alter 1 9 0

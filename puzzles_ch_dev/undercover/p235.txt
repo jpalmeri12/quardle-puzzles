@@ -1,0 +1,6 @@
+7 12 undercover
+vogue 4 1 1
+refer 1 5 0
+fiend 3 5 1
+adapt 2 9 0
+slyly 1 11 0

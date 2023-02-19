@@ -1,0 +1,9 @@
+7 9 beforeafter
+entry 4 1 1
+spunk 1 2 0
+turbo 2 4 0
+touch 2 4 1
+!beforeafter 1 o
+!beforeafter 2 o
+!beforeafter 2 q
+!beforeafter 2 i

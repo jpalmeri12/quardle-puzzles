@@ -1,0 +1,5 @@
+7 10 elbowroom
+broom 1 1 1
+mucus 1 5 0
+sleek 5 5 1
+grief 2 8 0

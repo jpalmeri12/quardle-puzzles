@@ -1,0 +1,5 @@
+7 9 scrabble
+prone 2 4 0
+naive 5 4 1
+abhor 1 2 0
+chard 3 1 1

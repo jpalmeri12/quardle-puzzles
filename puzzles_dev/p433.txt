@@ -1,0 +1,5 @@
+6 8
+slimy 2 1 1
+siege 1 3 0
+ethos 5 3 1
+lynch 1 5 0

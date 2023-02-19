@@ -1,0 +1,7 @@
+6 11 secretdistance
+shore 2 1 1
+wrath 4 4 1
+weary 1 5 0
+pesto 1 7 0
+dingy 1 10 0
+!sdpos 1 0 0 3

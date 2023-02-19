@@ -1,0 +1,5 @@
+7 9
+bison 4 1 1
+friar 2 2 0
+valor 1 4 1
+among 1 5 0

@@ -1,0 +1,5 @@
+7 10 outoforder
+cobra 5 1 1
+octal 2 5 0
+crump 3 5 1
+wimpy 1 8 0

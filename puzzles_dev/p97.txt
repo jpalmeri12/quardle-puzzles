@@ -1,0 +1,5 @@
+7 10
+shock 2 1 0
+olden 4 1 1
+scant 1 5 0
+actor 3 5 1

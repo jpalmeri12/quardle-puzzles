@@ -1,0 +1,5 @@
+7 10
+sweat 4 1 1
+mirth 1 5 0
+idiot 2 5 1
+trove 2 9 0

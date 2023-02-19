@@ -1,0 +1,5 @@
+7 9
+extra 6 1 1
+bicep 2 4 1
+bluer 2 4 0
+scare 1 6 0

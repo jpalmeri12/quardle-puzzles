@@ -1,0 +1,5 @@
+7 9
+sloop 4 1 1
+hello 2 2 0
+stork 1 4 1
+spoof 1 4 0

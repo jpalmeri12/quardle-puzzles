@@ -1,0 +1,5 @@
+6 9
+caste 3 1 1
+heavy 1 4 1
+hater 1 4 0
+vying 1 7 0

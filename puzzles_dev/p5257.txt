@@ -1,0 +1,5 @@
+7 9
+ester 5 1 1
+risen 2 4 0
+inner 3 4 1
+piety 1 7 0

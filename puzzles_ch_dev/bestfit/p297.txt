@@ -1,0 +1,5 @@
+7 10 bestfit
+table 5 1 1
+ester 2 5 0
+tumor 4 5 1
+shame 1 7 0

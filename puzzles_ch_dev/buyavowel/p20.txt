@@ -1,0 +1,5 @@
+7 8 buyavowel
+twirl 1 1 0
+leper 5 1 1
+grape 2 3 0
+robin 3 3 1

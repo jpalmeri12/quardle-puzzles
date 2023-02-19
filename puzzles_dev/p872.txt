@@ -1,0 +1,5 @@
+7 7
+pithy 5 1 1
+guilt 3 2 1
+quota 2 3 0
+filly 1 5 0

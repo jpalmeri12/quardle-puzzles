@@ -1,0 +1,5 @@
+7 9 bestfit
+blurb 1 1 1
+store 4 4 1
+butte 1 5 0
+three 2 7 0

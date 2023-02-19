@@ -1,0 +1,5 @@
+7 10 buyavowel
+clown 2 1 0
+willy 5 1 1
+dryly 1 5 0
+local 4 5 1

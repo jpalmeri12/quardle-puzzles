@@ -1,0 +1,5 @@
+7 10
+cinch 4 1 1
+ashen 2 5 0
+avian 2 5 1
+salad 1 8 0

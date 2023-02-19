@@ -1,0 +1,5 @@
+7 9
+weave 5 1 1
+guava 2 4 0
+green 2 4 1
+leach 1 7 0

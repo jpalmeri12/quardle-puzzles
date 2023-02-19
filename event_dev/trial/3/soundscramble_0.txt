@@ -1,0 +1,5 @@
+7 10 soundscramble
+madel 4 1 1
+radea 2 3 0
+stole 1 5 0
+omple 3 5 1

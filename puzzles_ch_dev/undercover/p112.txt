@@ -1,0 +1,6 @@
+7 12 undercover
+sever 2 1 1
+ovate 1 3 0
+relic 2 5 0
+incur 5 5 1
+pygmy 1 11 0

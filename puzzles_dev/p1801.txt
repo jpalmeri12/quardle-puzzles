@@ -1,0 +1,5 @@
+7 9
+dunce 4 1 1
+frisk 2 4 1
+creep 1 5 0
+krill 2 8 0

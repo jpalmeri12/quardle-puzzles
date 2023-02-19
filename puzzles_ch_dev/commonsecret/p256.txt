@@ -1,0 +1,6 @@
+7 10 commonsecret
+viola 3 1 1
+afoot 1 3 0
+cabin 2 5 0
+bleat 4 5 1
+!secret a

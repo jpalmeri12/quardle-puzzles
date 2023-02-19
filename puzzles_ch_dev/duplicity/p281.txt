@@ -1,0 +1,5 @@
+6 9 duplicity
+royal 1 1 0
+lover 5 1 1
+trove 1 4 0
+tally 1 4 1

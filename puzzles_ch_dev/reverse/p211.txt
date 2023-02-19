@@ -1,0 +1,5 @@
+7 10 reverse
+mango 2 1 1
+nruom 2 3 0
+toxic 1 5 0
+xaler 3 5 1

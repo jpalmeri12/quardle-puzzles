@@ -1,0 +1,6 @@
+6 9 undercover
+write 2 1 1
+prick 1 2 0
+crisp 4 2 1
+stein 1 4 0
+madam 1 8 0

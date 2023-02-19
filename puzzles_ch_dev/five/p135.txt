@@ -1,0 +1,6 @@
+7 10 five
+plume 6 1 1
+flirt 2 5 1
+forte 2 5 0
+trope 5 5 1
+limbo 1 7 0

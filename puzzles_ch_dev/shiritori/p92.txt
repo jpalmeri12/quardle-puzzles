@@ -1,0 +1,5 @@
+7 9 shiritori
+burst 1 1 1
+using 4 4 1
+those 1 5 0
+ionic 2 7 0

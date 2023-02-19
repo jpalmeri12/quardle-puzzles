@@ -1,0 +1,5 @@
+7 9
+rivet 1 1 1
+cobra 5 4 1
+tango 1 5 0
+dowry 2 7 0

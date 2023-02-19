@@ -1,0 +1,5 @@
+7 9 frequency
+chide 5 1 1
+fetid 1 4 0
+excel 2 4 1
+lasso 2 8 0

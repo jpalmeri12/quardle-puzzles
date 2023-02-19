@@ -1,0 +1,5 @@
+7 8
+buxom 4 1 1
+ghost 2 3 1
+whoop 1 4 0
+trump 2 7 0

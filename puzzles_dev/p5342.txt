@@ -1,0 +1,5 @@
+7 9
+crave 3 1 1
+curio 1 2 0
+lusty 5 4 1
+debut 2 5 0

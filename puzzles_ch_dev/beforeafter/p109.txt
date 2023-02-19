@@ -1,0 +1,9 @@
+7 9 beforeafter
+amiss 2 1 1
+notch 4 4 1
+stoic 2 5 0
+mocha 1 8 0
+!beforeafter 2 q
+!beforeafter 2 k
+!beforeafter 2 n
+!beforeafter 1 k

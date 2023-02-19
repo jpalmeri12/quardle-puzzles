@@ -1,0 +1,5 @@
+6 6
+eager 2 1 1
+quilt 4 1 1
+caput 1 2 0
+newly 1 4 0

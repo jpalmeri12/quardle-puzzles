@@ -1,0 +1,5 @@
+7 10 soundscramble
+erane 1 1 0
+eppla 5 1 1
+flaat 2 5 0
+lafty 3 5 1

@@ -1,0 +1,5 @@
+7 9 frequency
+excel 1 1 0
+lilac 5 1 1
+kebab 2 4 0
+elide 3 4 1

@@ -1,0 +1,5 @@
+7 9
+ridge 6 1 1
+happy 4 4 1
+shale 2 5 0
+erupt 1 7 0

@@ -1,0 +1,5 @@
+6 10
+fleet 1 1 1
+think 1 5 0
+heron 2 5 1
+grass 1 7 0

@@ -1,0 +1,6 @@
+6 9 island
+lasso 5 1 1
+abyss 1 4 0
+blade 2 4 1
+edict 1 7 0
+!island 22 211 2111 311

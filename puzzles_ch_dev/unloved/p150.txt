@@ -1,0 +1,5 @@
+6 9 unloved
+slurp 1 1 1
+snarl 1 1 0
+rarer 1 4 0
+riper 3 4 1

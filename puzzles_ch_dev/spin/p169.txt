@@ -1,0 +1,5 @@
+7 10 spin
+child 2 1 1
+udder 1 5 0
+rival 5 5 1
+cream 2 8 0

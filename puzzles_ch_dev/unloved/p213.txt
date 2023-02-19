@@ -1,0 +1,5 @@
+7 10 unloved
+bosom 3 1 1
+ombre 2 5 0
+offal 2 5 1
+slimy 1 9 0

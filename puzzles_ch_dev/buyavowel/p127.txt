@@ -1,0 +1,5 @@
+7 9 buyavowel
+roach 2 1 0
+creme 5 1 1
+broom 1 4 0
+bushy 1 4 1

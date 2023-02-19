@@ -1,0 +1,6 @@
+7 10 drop
+snout 5 1 1
+afoot 2 3 1
+fugue 2 4 0
+steak 1 7 0
+sauce 1 9 0

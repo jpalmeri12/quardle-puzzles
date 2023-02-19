@@ -1,0 +1,6 @@
+7 10 five
+bused 1 1 0
+usurp 2 1 1
+pecan 2 5 0
+alpha 5 5 1
+erupt 2 7 0

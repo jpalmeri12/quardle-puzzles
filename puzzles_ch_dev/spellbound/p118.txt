@@ -1,0 +1,9 @@
+7 10 spellbound
+sushi 5 1 1
+comic 2 5 0
+cabin 2 5 1
+liver 1 8 0
+!spellbound 0 2 0
+!spellbound 1 4 2
+!spellbound 2 2 1
+!spellbound 3 0 4

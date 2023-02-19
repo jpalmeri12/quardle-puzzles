@@ -1,0 +1,5 @@
+6 7 spin
+mocha 5 1 1
+study 3 2 1
+antic 1 3 0
+media 1 5 0

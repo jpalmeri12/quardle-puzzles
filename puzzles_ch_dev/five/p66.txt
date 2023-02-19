@@ -1,0 +1,6 @@
+6 12 five
+march 5 1 1
+toxic 1 4 0
+order 2 4 1
+tepee 5 7 1
+erase 1 8 0

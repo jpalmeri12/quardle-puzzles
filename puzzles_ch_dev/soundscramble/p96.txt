@@ -1,0 +1,5 @@
+7 9 soundscramble
+perar 5 1 1
+morel 2 2 0
+aluda 1 4 0
+usurp 3 4 1

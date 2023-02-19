@@ -1,0 +1,5 @@
+7 9 fourscore
+penal 2 1 1
+puffy 2 1 0
+whole 4 4 1
+alpha 1 5 0

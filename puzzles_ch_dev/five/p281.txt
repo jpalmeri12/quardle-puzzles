@@ -1,0 +1,6 @@
+6 10 five
+zebra 4 1 1
+metal 1 5 0
+edify 2 5 1
+lilac 5 5 1
+libel 1 7 0

@@ -1,0 +1,5 @@
+6 6 unloved
+elbow 1 1 0
+ethic 1 1 1
+while 5 1 1
+chase 1 5 0

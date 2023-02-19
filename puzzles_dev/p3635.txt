@@ -1,0 +1,5 @@
+7 10
+wager 3 1 1
+fanny 2 2 0
+feral 1 5 0
+lunar 5 5 1

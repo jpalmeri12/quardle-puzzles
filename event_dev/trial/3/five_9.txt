@@ -1,0 +1,6 @@
+7 11 five
+brash 1 1 1
+sissy 1 4 0
+smack 3 4 1
+candy 2 6 0
+dusty 5 6 1

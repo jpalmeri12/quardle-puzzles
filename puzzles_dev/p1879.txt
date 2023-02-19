@@ -1,0 +1,5 @@
+6 9
+medal 4 1 1
+onset 1 2 0
+ahead 1 4 0
+admit 1 4 1

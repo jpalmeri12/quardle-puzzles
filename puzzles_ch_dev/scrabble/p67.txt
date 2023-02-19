@@ -1,0 +1,5 @@
+7 8 scrabble
+liner 6 3 1
+shall 2 3 0
+right 1 1 0
+heath 4 1 1

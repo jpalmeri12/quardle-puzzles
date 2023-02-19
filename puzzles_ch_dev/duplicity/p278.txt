@@ -1,0 +1,5 @@
+7 9 duplicity
+aside 1 1 1
+dross 1 4 0
+spire 5 4 1
+opera 2 7 0

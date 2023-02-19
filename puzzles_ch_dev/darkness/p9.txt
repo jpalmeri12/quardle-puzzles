@@ -1,0 +1,5 @@
+7 8 darkness
+jazzy 2 4 0
+slunk 1 6 0
+vinyl 6 1 1
+ozone 4 3 1

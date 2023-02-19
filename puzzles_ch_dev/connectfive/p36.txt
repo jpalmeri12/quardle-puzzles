@@ -1,0 +1,6 @@
+7 10 connectfive
+right 2 1 1
+rehab 2 1 0
+tweak 2 5 0
+awful 5 5 1
+stiff 1 7 0

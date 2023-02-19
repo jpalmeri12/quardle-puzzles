@@ -1,0 +1,9 @@
+6 7 spellbound
+leant 2 1 1
+nymph 5 2 1
+sappy 1 3 0
+stomp 1 5 0
+!spellbound 0 0 3
+!spellbound 1 0 4
+!spellbound 2 2 3
+!spellbound 3 3 2

@@ -1,0 +1,5 @@
+7 7 hardmode
+vigil 4 1 1
+prism 2 2 0
+pecan 2 2 1
+eagle 1 5 0

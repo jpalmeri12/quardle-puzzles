@@ -1,0 +1,5 @@
+7 9
+gumbo 4 1 1
+spurt 2 2 0
+vaunt 1 4 1
+actor 1 5 0

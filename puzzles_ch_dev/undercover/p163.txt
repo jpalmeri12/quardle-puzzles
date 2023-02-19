@@ -1,0 +1,6 @@
+7 11 undercover
+dried 6 1 1
+agree 2 4 0
+grown 3 4 1
+floor 1 6 0
+hutch 1 10 0

@@ -1,0 +1,6 @@
+6 8 squaredance
+flash 1 1 1
+haute 5 1 1
+fresh 1 1 0
+house 1 5 0
+slurp 1 7 0

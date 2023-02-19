@@ -1,0 +1,7 @@
+7 11 secretdistance
+visor 5 1 1
+swell 3 4 1
+tower 1 5 0
+alert 2 7 0
+aisle 1 10 0
+!sdpos 1 2 1 1

@@ -1,0 +1,6 @@
+7 11 connectfive
+quark 5 1 1
+shirk 1 5 0
+raise 4 5 1
+trend 6 6 1
+paste 2 8 0

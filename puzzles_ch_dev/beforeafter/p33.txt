@@ -1,0 +1,9 @@
+7 10 beforeafter
+bayou 5 1 1
+flout 2 5 0
+lousy 3 5 1
+churn 1 7 0
+!beforeafter 1 m
+!beforeafter 1 m
+!beforeafter 1 r
+!beforeafter 1 i

@@ -1,0 +1,5 @@
+7 10
+quill 1 1 0
+lousy 4 1 1
+wryly 2 5 0
+riser 3 5 1

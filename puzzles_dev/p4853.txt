@@ -1,0 +1,5 @@
+7 9
+amass 2 1 1
+smoke 1 2 0
+trove 5 4 1
+shirk 2 5 0

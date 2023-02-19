@@ -1,0 +1,5 @@
+7 7
+heard 5 1 1
+vogue 1 2 0
+gooey 3 2 1
+sorry 2 4 0

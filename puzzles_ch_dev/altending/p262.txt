@@ -1,0 +1,5 @@
+6 9 altending
+graph 1 1 0
+moron 1 3 0
+salve 1 5 0
+least 1 7 0

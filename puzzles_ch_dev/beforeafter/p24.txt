@@ -1,0 +1,9 @@
+6 10 beforeafter
+ovoid 1 1 0
+voila 2 1 1
+baron 1 5 0
+baton 1 5 1
+!beforeafter 2 m
+!beforeafter 1 n
+!beforeafter 1 j
+!beforeafter 1 i

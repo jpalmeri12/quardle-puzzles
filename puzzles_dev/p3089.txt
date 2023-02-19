@@ -1,0 +1,5 @@
+7 10
+rumba 2 1 1
+unify 2 2 0
+badge 1 5 0
+depth 3 5 1

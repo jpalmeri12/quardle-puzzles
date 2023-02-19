@@ -1,0 +1,5 @@
+7 9
+siren 2 1 0
+elegy 5 1 1
+bagel 3 4 1
+meaty 1 5 0

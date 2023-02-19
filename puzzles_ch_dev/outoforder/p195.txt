@@ -1,0 +1,5 @@
+7 10 outoforder
+lance 4 1 1
+tenet 1 5 0
+tying 5 5 1
+antic 2 7 0

@@ -1,0 +1,5 @@
+7 9
+shown 3 1 1
+ghoul 5 4 1
+bunch 1 5 0
+demur 2 7 0

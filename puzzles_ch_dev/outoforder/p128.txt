@@ -1,0 +1,5 @@
+7 10 outoforder
+serif 5 1 1
+grief 2 2 0
+thief 1 5 0
+theft 1 5 1

@@ -1,0 +1,9 @@
+6 9 beforeafter
+gamut 2 1 1
+sumac 1 4 0
+aglow 4 4 1
+favor 1 7 0
+!beforeafter 2 o
+!beforeafter 2 l
+!beforeafter 2 m
+!beforeafter 1 j

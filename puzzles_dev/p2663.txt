@@ -1,0 +1,5 @@
+7 10
+sheen 5 1 1
+salve 1 3 0
+foyer 2 5 1
+flank 2 5 0

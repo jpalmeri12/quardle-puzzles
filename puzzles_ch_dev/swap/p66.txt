@@ -1,0 +1,5 @@
+7 9 swap
+uplpy 5 1 1
+daorn 3 4 1
+rgavy 1 5 0
+encat 2 8 0

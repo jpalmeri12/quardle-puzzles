@@ -1,0 +1,5 @@
+7 9
+greet 6 1 1
+midge 2 4 1
+mange 2 4 0
+ideal 1 6 0

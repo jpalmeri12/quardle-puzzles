@@ -1,0 +1,5 @@
+7 10
+fling 5 1 1
+being 1 5 0
+ethos 2 5 1
+hover 2 7 0

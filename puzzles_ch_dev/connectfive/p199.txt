@@ -1,0 +1,6 @@
+7 10 connectfive
+given 6 1 1
+olden 2 5 0
+eject 5 5 1
+skate 1 7 0
+smote 2 9 0

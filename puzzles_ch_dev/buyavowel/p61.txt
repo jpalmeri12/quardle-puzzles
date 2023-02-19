@@ -1,0 +1,5 @@
+6 6 buyavowel
+chard 2 1 1
+front 5 1 1
+choir 1 2 0
+adapt 1 5 0

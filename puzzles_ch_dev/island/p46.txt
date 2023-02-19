@@ -1,0 +1,6 @@
+6 9 island
+throb 1 1 1
+ovoid 1 4 0
+droit 5 4 1
+cacti 1 7 0
+!island 221 211 32 1111

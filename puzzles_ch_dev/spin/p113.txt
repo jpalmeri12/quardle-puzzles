@@ -1,0 +1,5 @@
+7 8 spin
+flung 2 1 1
+fraud 2 1 0
+puppy 1 3 0
+plump 4 3 1

@@ -1,0 +1,5 @@
+7 7
+decay 2 1 1
+serve 1 2 0
+equal 5 2 1
+argue 2 4 0

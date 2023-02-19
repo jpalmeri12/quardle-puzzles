@@ -1,0 +1,5 @@
+7 10 skyscrapers
+rajah 1 5 0
+juice 3 5 1
+icily 2 8 0
+china 4 1 1

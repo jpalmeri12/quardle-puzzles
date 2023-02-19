@@ -1,0 +1,5 @@
+6 8
+float 1 1 0
+abled 4 1 1
+manly 2 3 1
+water 1 4 0

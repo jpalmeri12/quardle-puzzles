@@ -1,0 +1,5 @@
+7 10
+shalt 2 1 1
+twang 2 5 0
+windy 3 5 1
+pedal 1 8 0

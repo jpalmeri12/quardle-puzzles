@@ -1,0 +1,5 @@
+7 8
+paste 6 1 1
+taboo 2 3 1
+adult 2 4 0
+goner 1 6 0

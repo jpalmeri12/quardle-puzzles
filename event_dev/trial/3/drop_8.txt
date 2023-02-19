@@ -1,0 +1,6 @@
+6 12 drop
+chirp 4 1 1
+cache 1 2 0
+agape 1 5 0
+erase 5 5 1
+carry 1 11 0

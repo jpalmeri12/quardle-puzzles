@@ -1,0 +1,5 @@
+7 10 spin
+larva 5 1 1
+guava 1 2 0
+strap 2 5 0
+taker 3 5 1

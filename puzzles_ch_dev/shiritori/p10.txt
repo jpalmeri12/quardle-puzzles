@@ -1,0 +1,5 @@
+7 7 shiritori
+bacon 1 1 1
+gloom 4 2 1
+coyly 1 3 0
+gumbo 2 6 0

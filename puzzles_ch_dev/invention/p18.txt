@@ -1,0 +1,5 @@
+7 7 invention
+boule 3 1 1
+cloud 1 2 0
+disco 5 2 1
+plush 2 4 0

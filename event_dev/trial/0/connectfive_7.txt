@@ -1,0 +1,6 @@
+7 9 connectfive
+mango 6 1 1
+junta 2 2 0
+infer 4 4 1
+lingo 2 5 0
+kneed 1 7 0

@@ -1,0 +1,5 @@
+7 9
+octal 2 1 1
+olden 2 1 0
+rabid 1 4 0
+ivory 4 4 1

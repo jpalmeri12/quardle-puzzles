@@ -1,0 +1,9 @@
+7 7 beforeafter
+tunic 4 1 1
+incur 1 2 0
+noble 2 2 1
+lucid 2 5 0
+!beforeafter 1 p
+!beforeafter 2 o
+!beforeafter 1 m
+!beforeafter 1 j

@@ -1,0 +1,5 @@
+7 8
+knoll 6 1 1
+shade 2 3 1
+hovel 2 4 0
+zesty 1 7 0

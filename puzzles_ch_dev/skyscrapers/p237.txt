@@ -1,0 +1,5 @@
+7 10 skyscrapers
+virus 5 1 1
+obese 2 5 0
+elder 4 5 1
+filer 1 3 0

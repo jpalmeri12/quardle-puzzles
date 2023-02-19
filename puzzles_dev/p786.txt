@@ -1,0 +1,5 @@
+7 8
+sheik 1 1 0
+kebab 5 1 1
+inlet 2 3 1
+limbo 2 5 0

@@ -1,0 +1,5 @@
+7 9
+blitz 1 1 0
+taper 4 1 1
+tweak 2 4 0
+khaki 6 4 1

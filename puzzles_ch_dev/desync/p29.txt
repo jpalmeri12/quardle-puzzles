@@ -1,0 +1,5 @@
+7 8 desync
+dicey 6 1 1
+spook 2 3 1
+piece 2 4 0
+skier 1 7 0

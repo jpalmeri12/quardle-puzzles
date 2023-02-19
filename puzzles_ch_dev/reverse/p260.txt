@@ -1,0 +1,5 @@
+7 9 reverse
+cinyc 3 1 1
+satin 5 4 1
+cocoa 1 5 0
+eltit 2 7 0

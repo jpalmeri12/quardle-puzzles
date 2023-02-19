@@ -1,0 +1,6 @@
+6 9 commonsecret
+speak 1 1 0
+paler 2 1 1
+teary 1 4 0
+yacht 5 4 1
+!secret a

@@ -1,0 +1,6 @@
+6 8 squaredance
+sooth 1 1 1
+knead 5 1 1
+spunk 1 1 0
+hoard 1 5 0
+elect 1 7 0

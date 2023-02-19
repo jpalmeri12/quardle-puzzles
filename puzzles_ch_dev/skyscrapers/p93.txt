@@ -1,0 +1,5 @@
+7 7 skyscrapers
+rigor 2 5 0
+briar 2 1 1
+froze 1 2 0
+envoy 5 2 1

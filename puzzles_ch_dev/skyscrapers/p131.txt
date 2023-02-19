@@ -1,0 +1,5 @@
+7 10 skyscrapers
+snoop 2 7 0
+scout 4 5 1
+harsh 1 5 0
+forth 1 1 1

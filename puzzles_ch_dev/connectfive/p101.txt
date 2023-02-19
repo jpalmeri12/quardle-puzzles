@@ -1,0 +1,6 @@
+6 10 connectfive
+viola 2 1 1
+ninja 1 2 0
+khaki 4 4 1
+macho 1 5 0
+mania 1 5 1

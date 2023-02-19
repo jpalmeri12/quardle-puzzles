@@ -1,0 +1,6 @@
+7 9 commonsecret
+abhor 1 1 0
+brawn 2 1 1
+waist 2 4 0
+tweak 6 4 1
+!secret a

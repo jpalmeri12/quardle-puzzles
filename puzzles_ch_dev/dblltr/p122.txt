@@ -1,0 +1,5 @@
+6 9 dblltr
+beefy 5 1 1
+tulle 2 4 1
+funny 1 5 0
+hence 1 8 0

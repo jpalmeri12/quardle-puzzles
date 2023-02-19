@@ -1,0 +1,5 @@
+7 7 duplicity
+using 5 1 1
+sense 2 2 0
+suite 2 2 1
+stung 1 5 0

@@ -1,0 +1,6 @@
+6 11 drop
+shorn 5 1 1
+covet 2 4 1
+coven 1 5 0
+stark 1 8 0
+stunk 1 10 0

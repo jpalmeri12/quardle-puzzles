@@ -1,0 +1,6 @@
+6 10 five
+icing 1 1 1
+cacao 1 2 0
+abase 4 2 1
+gypsy 1 5 0
+yield 2 5 1

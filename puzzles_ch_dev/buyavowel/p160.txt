@@ -1,0 +1,5 @@
+7 9 buyavowel
+groom 6 1 1
+using 2 4 1
+spasm 2 5 0
+egret 1 8 0

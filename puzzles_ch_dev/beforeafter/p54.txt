@@ -1,0 +1,9 @@
+7 8 beforeafter
+squib 1 1 0
+boozy 5 1 1
+daunt 3 3 1
+jazzy 2 4 0
+!beforeafter 2 p
+!beforeafter 2 r
+!beforeafter 1 i
+!beforeafter 1 l

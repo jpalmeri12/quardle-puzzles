@@ -1,0 +1,5 @@
+6 9
+gripe 5 1 1
+odder 1 2 0
+trump 1 4 0
+taker 1 4 1

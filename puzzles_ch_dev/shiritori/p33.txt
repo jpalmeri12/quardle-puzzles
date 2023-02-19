@@ -1,0 +1,5 @@
+7 10 shiritori
+eject 5 1 1
+asset 1 5 0
+swore 2 5 1
+ethic 2 9 0

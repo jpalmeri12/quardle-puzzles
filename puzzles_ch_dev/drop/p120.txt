@@ -1,0 +1,6 @@
+6 11 drop
+early 1 1 1
+lathe 1 4 0
+trash 3 4 1
+vista 1 7 0
+hasty 1 10 0

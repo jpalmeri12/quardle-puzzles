@@ -1,0 +1,6 @@
+6 10 connectfive
+sushi 2 1 1
+cutie 1 2 0
+gawky 5 4 1
+ninja 1 5 0
+nudge 3 5 1

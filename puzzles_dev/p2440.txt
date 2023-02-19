@@ -1,0 +1,5 @@
+7 9
+axion 5 1 1
+rajah 3 4 1
+tawny 2 5 0
+soapy 1 7 0

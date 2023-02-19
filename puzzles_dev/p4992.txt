@@ -1,0 +1,5 @@
+6 10
+topic 3 1 1
+morph 1 5 1
+mecca 1 5 0
+paste 1 8 0

@@ -1,0 +1,9 @@
+6 6 beforeafter
+bigot 1 1 0
+idiot 2 1 1
+tweak 5 1 1
+vodka 1 4 0
+!beforeafter 2 m
+!beforeafter 2 n
+!beforeafter 1 l
+!beforeafter 1 n

@@ -1,0 +1,5 @@
+7 9
+rouse 3 1 1
+leper 5 4 1
+newer 2 5 0
+razor 1 8 0

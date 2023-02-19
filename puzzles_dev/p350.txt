@@ -1,0 +1,5 @@
+6 7
+thong 4 1 1
+bathe 1 2 0
+blaze 1 2 1
+aping 1 4 0

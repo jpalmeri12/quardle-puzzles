@@ -1,0 +1,5 @@
+7 9 skyscrapers
+niche 1 1 1
+humph 1 4 0
+hurry 5 4 1
+fjord 2 6 0

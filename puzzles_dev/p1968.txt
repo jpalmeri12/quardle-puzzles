@@ -1,0 +1,5 @@
+7 9
+brink 1 1 0
+knead 5 1 1
+creak 2 4 0
+rainy 3 4 1

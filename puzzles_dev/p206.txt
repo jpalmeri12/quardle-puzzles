@@ -1,0 +1,5 @@
+7 8
+brick 6 1 1
+quasi 2 3 0
+amuse 4 3 1
+given 1 7 0

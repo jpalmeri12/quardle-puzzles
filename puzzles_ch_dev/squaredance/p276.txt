@@ -1,0 +1,6 @@
+6 8 squaredance
+shirk 1 1 1
+knead 5 1 1
+stick 1 1 0
+kneed 1 5 0
+ramen 1 7 0

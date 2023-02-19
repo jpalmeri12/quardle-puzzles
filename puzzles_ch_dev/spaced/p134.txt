@@ -1,0 +1,5 @@
+7 9 spaced
+spawn 6 1 1
+aglow 2 4 0
+lurid 4 4 1
+relic 1 7 0

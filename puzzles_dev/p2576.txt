@@ -1,0 +1,5 @@
+7 9
+close 5 1 1
+vinyl 1 2 0
+marsh 2 4 0
+about 3 4 1

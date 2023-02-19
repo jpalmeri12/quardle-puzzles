@@ -1,0 +1,5 @@
+7 10 fourscore
+adore 4 1 1
+asset 1 5 0
+tawny 5 5 1
+satyr 2 9 0

@@ -1,0 +1,5 @@
+7 9
+brunt 6 1 1
+given 2 4 0
+vocal 4 4 1
+local 1 7 0

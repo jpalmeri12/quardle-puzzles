@@ -1,0 +1,5 @@
+7 9 outoforder
+tower 6 1 1
+udder 2 4 1
+deter 2 5 0
+debar 1 7 0

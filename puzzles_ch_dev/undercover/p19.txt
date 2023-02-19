@@ -1,0 +1,6 @@
+7 10 undercover
+widow 5 1 1
+raspy 2 3 1
+abbot 2 4 0
+hyena 1 7 0
+cluck 1 9 0

@@ -1,0 +1,5 @@
+7 10 spaced
+omega 5 1 1
+vegan 2 5 0
+vodka 2 5 1
+eking 1 8 0

@@ -1,0 +1,5 @@
+7 7 soundscramble
+lerga 5 1 1
+kneck 3 2 1
+honor 1 3 0
+scraw 2 5 0

@@ -1,0 +1,5 @@
+7 7 sweeper
+filet 4 1 1
+offal 2 2 1
+fella 2 3 0
+caste 1 5 0

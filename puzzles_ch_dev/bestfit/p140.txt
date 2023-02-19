@@ -1,0 +1,5 @@
+7 7 bestfit
+amber 2 1 1
+motel 2 2 0
+teeth 4 2 1
+leper 1 4 0

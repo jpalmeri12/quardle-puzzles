@@ -1,0 +1,5 @@
+7 9
+grail 1 1 1
+sniff 4 4 1
+lying 1 5 0
+jiffy 2 7 0

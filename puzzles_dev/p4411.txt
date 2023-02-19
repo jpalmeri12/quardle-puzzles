@@ -1,0 +1,5 @@
+7 10
+shaky 1 1 0
+kinky 4 1 1
+payee 2 5 0
+puppy 2 5 1

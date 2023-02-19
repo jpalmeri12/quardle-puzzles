@@ -1,0 +1,5 @@
+7 10 sweeper
+taboo 2 1 0
+bleep 4 1 1
+grape 1 5 0
+ester 5 5 1

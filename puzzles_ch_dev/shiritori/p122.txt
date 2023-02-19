@@ -1,0 +1,5 @@
+7 10 shiritori
+stoic 1 1 1
+crepe 1 5 0
+piety 4 5 1
+quest 2 7 0

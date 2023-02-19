@@ -1,0 +1,5 @@
+7 10 frequency
+chili 5 1 1
+swami 1 3 0
+rapid 2 5 0
+drive 6 5 1

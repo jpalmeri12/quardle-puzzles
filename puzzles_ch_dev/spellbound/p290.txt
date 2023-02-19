@@ -1,0 +1,9 @@
+7 7 spellbound
+sedan 2 1 1
+again 5 2 1
+dodge 2 3 0
+ennui 1 5 0
+!spellbound 0 1 0
+!spellbound 1 0 4
+!spellbound 2 2 1
+!spellbound 3 3 2

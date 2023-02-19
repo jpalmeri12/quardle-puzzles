@@ -1,0 +1,5 @@
+7 8 scrabble
+uncle 2 1 1
+creak 2 3 0
+knife 6 3 1
+puffy 1 1 0

@@ -1,0 +1,6 @@
+6 10 wordcolumn
+rebus 1 1 1
+ought 4 2 1
+bonus 1 3 0
+sushi 1 5 0
+using 2 5 1

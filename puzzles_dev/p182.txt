@@ -1,0 +1,5 @@
+7 9
+forte 2 1 1
+stilt 1 4 0
+timid 5 4 1
+handy 2 8 0

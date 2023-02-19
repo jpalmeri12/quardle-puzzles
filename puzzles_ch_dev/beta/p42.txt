@@ -1,0 +1,5 @@
+7 7 beta
+rouse 1 1 1
+thyme 5 2 1
+salty 1 4 0
+onset 2 6 0

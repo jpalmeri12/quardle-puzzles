@@ -1,0 +1,6 @@
+7 11 undercover
+drink 4 1 1
+smirk 1 2 0
+mania 2 4 0
+anger 6 4 1
+bluff 1 10 0

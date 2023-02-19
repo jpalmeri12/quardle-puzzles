@@ -1,0 +1,5 @@
+7 8 darkness
+freak 2 4 0
+eking 6 3 1
+inert 1 1 0
+rider 4 1 1

@@ -1,0 +1,5 @@
+7 10
+flame 2 1 1
+etude 2 5 0
+totem 3 5 1
+siege 1 8 0

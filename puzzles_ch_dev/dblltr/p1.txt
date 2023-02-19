@@ -1,0 +1,5 @@
+7 9 dblltr
+frill 4 1 1
+rarer 2 2 0
+erase 1 4 1
+rally 1 5 0

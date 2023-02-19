@@ -1,0 +1,5 @@
+7 9 spaced
+olive 1 1 1
+voila 1 4 0
+lunch 4 4 1
+other 2 8 0

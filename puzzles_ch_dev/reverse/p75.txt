@@ -1,0 +1,5 @@
+7 8 reverse
+enota 3 1 1
+scamp 5 3 1
+etaga 1 5 0
+morph 2 7 0

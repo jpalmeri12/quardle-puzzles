@@ -1,0 +1,5 @@
+7 9
+acrid 5 1 1
+rigor 3 4 1
+windy 2 5 0
+moody 1 7 0

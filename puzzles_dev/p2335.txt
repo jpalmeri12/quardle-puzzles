@@ -1,0 +1,5 @@
+7 10
+sumac 2 1 1
+snipe 2 1 0
+scorn 1 5 0
+olive 3 5 1

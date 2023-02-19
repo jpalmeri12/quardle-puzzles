@@ -1,0 +1,5 @@
+6 6 desync
+skate 1 1 1
+spook 3 1 1
+kappa 1 2 0
+tooth 1 4 0

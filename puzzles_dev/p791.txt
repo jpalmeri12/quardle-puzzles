@@ -1,0 +1,5 @@
+6 10
+watch 1 1 1
+hasty 1 5 0
+there 4 5 1
+mover 1 9 0

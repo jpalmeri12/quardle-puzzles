@@ -1,0 +1,9 @@
+6 9 beforeafter
+afoot 3 1 1
+amity 1 4 1
+acorn 1 4 0
+tulle 1 7 0
+!beforeafter 1 i
+!beforeafter 2 o
+!beforeafter 1 l
+!beforeafter 1 q

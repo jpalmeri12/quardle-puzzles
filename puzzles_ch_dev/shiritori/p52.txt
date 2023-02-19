@@ -1,0 +1,5 @@
+7 8 shiritori
+hefty 2 1 0
+foist 4 1 1
+grade 2 3 1
+dress 1 4 0

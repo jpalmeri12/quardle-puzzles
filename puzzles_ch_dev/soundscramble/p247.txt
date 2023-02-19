@@ -1,0 +1,5 @@
+6 10 soundscramble
+ranse 4 1 1
+tabai 1 2 0
+eiter 1 5 0
+rijih 5 5 1

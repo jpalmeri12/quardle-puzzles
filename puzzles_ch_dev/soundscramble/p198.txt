@@ -1,0 +1,5 @@
+7 10 soundscramble
+poani 1 1 1
+itter 1 5 0
+toght 3 5 1
+agate 2 7 0

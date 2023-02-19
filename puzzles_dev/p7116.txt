@@ -1,0 +1,5 @@
+6 8
+blurt 1 1 0
+lorry 2 1 1
+choke 4 3 1
+synod 1 5 0

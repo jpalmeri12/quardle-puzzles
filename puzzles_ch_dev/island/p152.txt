@@ -1,0 +1,6 @@
+7 9 island
+overt 4 1 1
+smite 2 4 1
+smith 1 5 0
+thing 2 7 0
+!island 311 2111 11111 41

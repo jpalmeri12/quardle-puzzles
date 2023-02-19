@@ -1,0 +1,5 @@
+6 7 hardmode
+sewer 1 1 1
+recut 4 2 1
+widen 1 3 0
+rebut 1 5 0

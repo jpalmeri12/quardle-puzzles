@@ -1,0 +1,6 @@
+6 9 commonsecret
+palsy 4 1 1
+gassy 1 4 0
+apply 2 4 1
+alley 1 7 0
+!secret y

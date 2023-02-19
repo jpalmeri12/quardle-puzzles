@@ -1,0 +1,5 @@
+6 8 buyavowel
+taunt 1 1 1
+ideal 5 3 1
+nomad 1 4 0
+mogul 1 7 0

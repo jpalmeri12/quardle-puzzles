@@ -1,0 +1,5 @@
+6 9
+recap 1 1 1
+exile 1 2 0
+aping 1 4 0
+image 3 4 1

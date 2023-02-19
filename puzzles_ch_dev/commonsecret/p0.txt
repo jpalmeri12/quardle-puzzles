@@ -1,0 +1,6 @@
+7 9 commonsecret
+epoch 2 1 0
+credo 5 1 1
+chord 1 4 0
+holly 2 4 1
+!secret o

@@ -1,0 +1,5 @@
+7 10
+twine 1 1 1
+elope 1 5 0
+erect 5 5 1
+faith 2 9 0

@@ -1,0 +1,5 @@
+7 9 clockdown
+smite 5 1 1
+spilt 1 4 0
+pouch 2 4 1
+cress 2 7 0

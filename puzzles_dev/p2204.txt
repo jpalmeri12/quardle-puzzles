@@ -1,0 +1,5 @@
+6 7
+sauce 5 1 1
+vodka 1 2 0
+debug 3 2 1
+cubic 1 4 0

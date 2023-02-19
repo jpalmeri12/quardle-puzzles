@@ -1,0 +1,5 @@
+7 9
+mecca 6 1 1
+anger 3 4 1
+enema 2 5 0
+torso 1 8 0

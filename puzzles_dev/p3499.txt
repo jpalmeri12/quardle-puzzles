@@ -1,0 +1,5 @@
+7 10
+dirge 2 1 1
+fiber 1 2 0
+evoke 2 5 0
+organ 4 5 1

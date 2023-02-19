@@ -1,0 +1,5 @@
+6 7
+seedy 3 1 1
+steer 1 2 0
+stark 1 2 1
+rhyme 1 5 0

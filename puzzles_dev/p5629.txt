@@ -1,0 +1,5 @@
+7 9
+smith 4 1 1
+mummy 2 2 0
+junta 1 4 0
+under 2 4 1

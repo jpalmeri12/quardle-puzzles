@@ -1,0 +1,9 @@
+6 10 beforeafter
+charm 1 1 0
+mulch 5 1 1
+toxic 1 5 1
+tough 1 5 0
+!beforeafter 2 k
+!beforeafter 2 k
+!beforeafter 2 m
+!beforeafter 2 j

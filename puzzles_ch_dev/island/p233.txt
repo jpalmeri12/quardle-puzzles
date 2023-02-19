@@ -1,0 +1,6 @@
+6 9 island
+avail 1 1 0
+vista 2 1 1
+dopey 4 4 1
+tarot 1 5 0
+!island 1111 2111 221 211

@@ -1,0 +1,5 @@
+7 9 spin
+quite 4 1 1
+lousy 2 2 0
+exalt 2 4 1
+expel 1 5 0

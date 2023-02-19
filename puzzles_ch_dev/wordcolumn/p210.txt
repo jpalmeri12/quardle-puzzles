@@ -1,0 +1,6 @@
+7 8 wordcolumn
+foray 1 1 1
+rivet 5 1 1
+homer 3 3 1
+adore 1 4 0
+truss 2 7 0

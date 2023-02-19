@@ -1,0 +1,5 @@
+7 8 scrabble
+cairn 1 4 0
+worst 2 1 0
+ovoid 3 1 1
+annex 5 3 1

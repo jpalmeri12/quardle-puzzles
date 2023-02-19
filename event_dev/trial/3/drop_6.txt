@@ -1,0 +1,6 @@
+6 11 drop
+harem 1 1 1
+ripen 4 4 1
+movie 1 5 0
+tiger 1 7 0
+feign 1 10 0

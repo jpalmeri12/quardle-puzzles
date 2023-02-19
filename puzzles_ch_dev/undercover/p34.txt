@@ -1,0 +1,6 @@
+6 9 undercover
+spelt 5 1 1
+gauge 3 2 1
+shame 1 3 0
+ought 1 5 0
+briny 1 8 0

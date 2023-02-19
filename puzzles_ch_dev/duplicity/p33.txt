@@ -1,0 +1,5 @@
+7 8 duplicity
+latte 1 1 0
+apple 2 1 1
+pixie 2 3 0
+exalt 6 3 1

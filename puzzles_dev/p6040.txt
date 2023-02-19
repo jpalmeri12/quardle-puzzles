@@ -1,0 +1,5 @@
+7 7
+frame 2 1 1
+freak 1 2 0
+amity 4 2 1
+moist 2 4 0

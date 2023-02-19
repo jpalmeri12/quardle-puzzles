@@ -1,0 +1,5 @@
+7 10
+flush 5 1 1
+bayou 1 3 0
+fishy 2 5 0
+spray 4 5 1

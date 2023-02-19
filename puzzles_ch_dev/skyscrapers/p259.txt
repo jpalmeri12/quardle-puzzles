@@ -1,0 +1,5 @@
+6 8 skyscrapers
+udder 5 3 1
+sword 1 4 0
+prowl 2 1 1
+finer 1 7 0

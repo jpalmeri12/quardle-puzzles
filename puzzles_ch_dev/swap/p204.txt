@@ -1,0 +1,5 @@
+7 10 swap
+ubrst 1 1 0
+seewr 4 1 1
+aprka 2 5 0
+ankel 6 5 1

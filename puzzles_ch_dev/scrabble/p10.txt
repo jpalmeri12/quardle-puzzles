@@ -1,0 +1,5 @@
+6 6 scrabble
+unlit 1 1 1
+undid 1 1 0
+lousy 1 3 0
+dryly 5 1 1

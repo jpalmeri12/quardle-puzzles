@@ -1,0 +1,5 @@
+7 9
+cargo 2 1 1
+block 5 4 1
+vowel 1 5 0
+wince 2 7 0

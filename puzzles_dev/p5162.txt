@@ -1,0 +1,5 @@
+6 7
+choke 4 1 1
+cache 1 2 0
+ahead 2 2 1
+leaky 1 4 0

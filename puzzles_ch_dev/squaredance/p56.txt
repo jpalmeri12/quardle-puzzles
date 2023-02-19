@@ -1,0 +1,6 @@
+6 8 squaredance
+croak 1 1 1
+kneed 5 1 1
+clink 1 1 0
+knead 1 5 0
+place 1 7 0

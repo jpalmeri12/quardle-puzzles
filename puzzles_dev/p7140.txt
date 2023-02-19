@@ -1,0 +1,5 @@
+7 10
+piety 3 1 1
+teary 2 3 0
+idyll 1 5 0
+lyric 5 5 1

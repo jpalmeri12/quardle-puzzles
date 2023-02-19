@@ -1,0 +1,5 @@
+6 9 invention
+plate 1 1 0
+theft 4 1 1
+knife 1 4 0
+notch 2 4 1

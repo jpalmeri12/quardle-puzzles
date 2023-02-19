@@ -1,0 +1,5 @@
+7 10 bestfit
+gumbo 4 1 1
+stove 2 5 0
+talon 3 5 1
+diner 1 9 0

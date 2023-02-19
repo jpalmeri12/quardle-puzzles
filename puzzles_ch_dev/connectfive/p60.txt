@@ -1,0 +1,6 @@
+6 10 connectfive
+anger 2 1 1
+ethos 4 1 1
+unite 1 2 0
+fresh 1 5 0
+elfin 3 5 1

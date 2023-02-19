@@ -1,0 +1,5 @@
+7 10 soundscramble
+ebeta 5 1 1
+possa 1 5 0
+senar 3 5 1
+gnoma 2 7 0

@@ -1,0 +1,5 @@
+6 8 darkness
+arbor 1 1 0
+bleak 3 1 1
+leafy 5 3 1
+space 1 4 0

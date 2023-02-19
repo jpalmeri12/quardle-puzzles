@@ -1,0 +1,5 @@
+7 9 bestfit
+plump 2 1 1
+guppy 1 3 0
+vying 6 4 1
+picky 2 5 0

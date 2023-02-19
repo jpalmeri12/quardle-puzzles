@@ -1,0 +1,5 @@
+7 10
+madly 3 1 1
+layer 1 5 0
+eight 4 5 1
+digit 2 7 0

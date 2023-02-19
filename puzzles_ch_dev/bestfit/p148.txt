@@ -1,0 +1,5 @@
+7 8 bestfit
+steep 2 1 1
+stock 2 1 0
+needy 4 3 1
+speed 1 5 0

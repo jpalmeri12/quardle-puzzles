@@ -1,0 +1,6 @@
+7 10 five
+spade 5 1 1
+crepe 2 2 0
+rhino 3 2 1
+tense 1 5 0
+tapir 1 5 1

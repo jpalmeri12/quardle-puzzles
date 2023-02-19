@@ -1,0 +1,5 @@
+7 10
+stuck 4 1 1
+voter 2 2 0
+dusky 1 5 0
+swore 3 5 1

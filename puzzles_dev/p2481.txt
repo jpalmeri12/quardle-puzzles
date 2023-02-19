@@ -1,0 +1,5 @@
+7 9
+bonus 2 1 1
+booth 1 2 0
+halve 4 4 1
+shame 2 5 0

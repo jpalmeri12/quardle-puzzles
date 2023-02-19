@@ -1,0 +1,5 @@
+7 10 unloved
+abhor 2 1 1
+wrong 1 5 0
+gaudy 5 5 1
+scrum 2 7 0

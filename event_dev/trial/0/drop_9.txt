@@ -1,0 +1,6 @@
+6 12 drop
+leach 2 1 1
+china 1 5 0
+awake 5 5 1
+fibre 1 9 0
+blank 1 11 0

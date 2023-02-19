@@ -1,0 +1,5 @@
+7 10
+reach 2 1 1
+phase 1 5 0
+shirk 4 5 1
+poker 2 9 0

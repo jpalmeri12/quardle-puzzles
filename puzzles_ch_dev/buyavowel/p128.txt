@@ -1,0 +1,5 @@
+7 9 buyavowel
+admin 2 1 0
+debit 3 1 1
+pried 1 4 0
+drunk 5 4 1

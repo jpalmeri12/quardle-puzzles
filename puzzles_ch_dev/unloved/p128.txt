@@ -1,0 +1,5 @@
+7 10 unloved
+stair 3 1 1
+prime 2 5 0
+month 5 5 1
+learn 1 7 0

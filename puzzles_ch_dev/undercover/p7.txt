@@ -1,0 +1,6 @@
+7 12 undercover
+clamp 2 1 1
+farce 1 3 0
+proof 2 5 0
+olden 4 5 1
+buggy 1 11 0

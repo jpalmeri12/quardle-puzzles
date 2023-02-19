@@ -1,0 +1,6 @@
+7 9 wordcolumn
+rhyme 2 1 1
+shell 1 2 0
+large 4 2 1
+march 2 4 0
+hunky 6 4 1

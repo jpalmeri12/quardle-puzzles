@@ -1,0 +1,6 @@
+6 8 squaredance
+valid 1 1 1
+arise 5 1 1
+viola 1 1 0
+drape 1 5 0
+polka 1 7 0

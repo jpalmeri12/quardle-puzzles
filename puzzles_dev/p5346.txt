@@ -1,0 +1,5 @@
+7 9
+haste 5 1 1
+llama 1 2 0
+swath 2 4 0
+wager 3 4 1

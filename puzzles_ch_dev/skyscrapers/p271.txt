@@ -1,0 +1,5 @@
+7 10 skyscrapers
+upset 6 1 1
+facet 2 5 0
+coral 4 5 1
+bloat 1 8 0

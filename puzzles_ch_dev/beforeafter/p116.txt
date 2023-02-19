@@ -1,0 +1,9 @@
+7 8 beforeafter
+labor 1 1 1
+bacon 1 3 0
+cairn 3 3 1
+troll 2 6 0
+!beforeafter 2 m
+!beforeafter 2 m
+!beforeafter 2 k
+!beforeafter 1 q

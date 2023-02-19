@@ -1,0 +1,5 @@
+7 9
+press 6 1 1
+truss 2 4 0
+undid 4 4 1
+howdy 1 8 0

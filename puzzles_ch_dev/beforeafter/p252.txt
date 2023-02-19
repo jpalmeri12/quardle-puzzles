@@ -1,0 +1,9 @@
+6 8 beforeafter
+icily 1 1 0
+cairn 2 1 1
+happy 4 3 1
+inept 1 5 0
+!beforeafter 2 k
+!beforeafter 2 l
+!beforeafter 1 n
+!beforeafter 2 o

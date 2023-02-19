@@ -1,0 +1,5 @@
+6 9 reverse
+human 4 1 1
+ybbat 1 4 0
+bmuht 2 4 1
+utile 1 8 0

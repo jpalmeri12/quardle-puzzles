@@ -1,0 +1,5 @@
+7 10
+suing 1 1 1
+gloat 1 5 0
+twang 5 5 1
+baggy 2 9 0

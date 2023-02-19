@@ -1,0 +1,5 @@
+7 9 scrabble
+logic 2 4 0
+icily 2 1 1
+ivory 5 4 1
+piggy 1 1 0

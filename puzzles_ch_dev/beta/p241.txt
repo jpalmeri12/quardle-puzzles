@@ -1,0 +1,5 @@
+7 8 beta
+flair 1 1 0
+rivet 5 1 1
+valve 2 3 0
+vinyl 2 3 1

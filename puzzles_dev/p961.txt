@@ -1,0 +1,5 @@
+6 9
+deter 5 1 1
+space 1 4 0
+poker 2 4 1
+hello 1 7 0

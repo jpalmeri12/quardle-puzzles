@@ -1,0 +1,5 @@
+7 9
+motif 2 1 1
+mower 1 2 0
+early 6 4 1
+fella 2 5 0

@@ -1,0 +1,6 @@
+7 7 wordcolumn
+scowl 1 1 1
+comic 1 2 0
+match 3 2 1
+witty 1 4 0
+which 2 6 0

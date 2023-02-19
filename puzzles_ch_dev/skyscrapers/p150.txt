@@ -1,0 +1,5 @@
+6 7 skyscrapers
+theta 1 2 0
+ashen 5 2 1
+crush 1 4 0
+begun 3 1 1

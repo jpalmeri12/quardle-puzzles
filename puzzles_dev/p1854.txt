@@ -1,0 +1,5 @@
+7 10
+flesh 2 1 1
+hello 2 5 0
+equip 3 5 1
+plied 1 8 0

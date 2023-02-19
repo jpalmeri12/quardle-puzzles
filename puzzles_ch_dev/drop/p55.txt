@@ -1,0 +1,6 @@
+7 12 drop
+skirt 5 1 1
+ascot 1 5 0
+steed 2 5 1
+decal 2 9 0
+scare 1 11 0

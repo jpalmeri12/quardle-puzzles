@@ -1,0 +1,5 @@
+6 8 spin
+bless 2 1 1
+proxy 4 3 1
+ascot 1 5 0
+polyp 1 7 0

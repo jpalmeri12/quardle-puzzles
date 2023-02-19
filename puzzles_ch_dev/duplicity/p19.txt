@@ -1,0 +1,5 @@
+7 9 duplicity
+manga 2 1 1
+rearm 4 4 1
+eager 1 5 0
+ramen 2 8 0

@@ -1,0 +1,9 @@
+6 9 spellbound
+lymph 1 1 0
+mason 3 1 1
+trout 1 4 0
+theme 5 4 1
+!spellbound 0 4 1
+!spellbound 1 4 1
+!spellbound 2 0 1
+!spellbound 3 2 3

@@ -1,0 +1,5 @@
+6 8
+pound 1 1 1
+pithy 1 1 0
+whirl 5 3 1
+ninth 1 4 0

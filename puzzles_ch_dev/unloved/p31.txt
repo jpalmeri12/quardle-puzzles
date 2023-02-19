@@ -1,0 +1,5 @@
+7 7 unloved
+whack 6 1 1
+heavy 3 2 1
+magic 2 4 0
+dryly 1 6 0

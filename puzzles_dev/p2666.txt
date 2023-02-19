@@ -1,0 +1,5 @@
+7 10
+banal 6 1 1
+spill 2 5 0
+pleat 3 5 1
+tread 1 7 0

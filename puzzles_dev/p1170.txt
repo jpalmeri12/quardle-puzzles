@@ -1,0 +1,5 @@
+7 10
+grate 5 1 1
+scram 2 3 0
+forge 1 5 0
+ounce 2 5 1

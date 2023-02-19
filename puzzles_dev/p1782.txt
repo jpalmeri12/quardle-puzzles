@@ -1,0 +1,5 @@
+7 9
+saner 2 1 1
+hairy 1 2 0
+exact 2 4 0
+tapir 6 4 1

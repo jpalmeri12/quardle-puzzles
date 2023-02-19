@@ -1,0 +1,5 @@
+7 8 hardmode
+ghost 2 1 1
+ulcer 4 3 1
+stuck 1 5 0
+parka 2 7 0

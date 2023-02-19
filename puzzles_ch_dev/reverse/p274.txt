@@ -1,0 +1,5 @@
+6 9 reverse
+friar 1 1 1
+retla 1 2 0
+kceps 4 4 1
+retch 1 5 0

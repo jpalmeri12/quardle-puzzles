@@ -1,0 +1,5 @@
+7 10
+posit 6 1 1
+twixt 2 5 0
+idiot 4 5 1
+grain 1 7 0

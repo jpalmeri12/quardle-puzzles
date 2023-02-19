@@ -1,0 +1,5 @@
+7 9 scrabble
+inter 5 1 1
+agent 1 4 1
+aware 1 4 0
+affix 2 1 0

@@ -1,0 +1,5 @@
+7 10 dblltr
+troll 4 1 1
+carry 2 2 0
+apple 1 5 0
+petty 2 5 1

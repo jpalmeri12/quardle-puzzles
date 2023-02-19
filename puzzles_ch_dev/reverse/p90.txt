@@ -1,0 +1,5 @@
+6 8 reverse
+nroda 1 1 1
+agnot 4 3 1
+dirge 1 4 0
+dusty 1 7 0

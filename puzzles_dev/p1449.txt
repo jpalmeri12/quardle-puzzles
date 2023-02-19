@@ -1,0 +1,5 @@
+7 10
+broil 5 1 1
+fecal 1 5 0
+atoll 4 5 1
+below 2 8 0

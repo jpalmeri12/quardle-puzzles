@@ -1,0 +1,5 @@
+6 7
+demon 5 1 1
+nurse 1 2 1
+naive 1 2 0
+scion 1 5 0

@@ -1,0 +1,5 @@
+7 10
+sword 5 1 1
+abode 2 5 0
+owner 4 5 1
+inter 1 8 0

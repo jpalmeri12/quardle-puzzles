@@ -1,0 +1,5 @@
+6 7 fourscore
+occur 2 1 1
+scout 1 2 0
+tacky 5 2 1
+cubic 1 4 0

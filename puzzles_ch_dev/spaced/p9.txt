@@ -1,0 +1,5 @@
+7 10 spaced
+froth 5 1 1
+wench 1 5 0
+newly 3 5 1
+dwarf 2 7 0

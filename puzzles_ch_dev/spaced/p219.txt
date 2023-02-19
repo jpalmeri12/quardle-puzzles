@@ -1,0 +1,5 @@
+7 10 spaced
+dwarf 2 1 1
+fjord 2 5 0
+jumbo 3 5 1
+imbue 1 8 0

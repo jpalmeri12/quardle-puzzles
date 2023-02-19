@@ -1,0 +1,8 @@
+6 8 twins
+harry 1 1 0
+spoon 1 3 0
+until 1 5 0
+spiky 1 7 0
+!twins 2 3
+!twins 0 1
+!twins 0 1

@@ -1,0 +1,5 @@
+7 7 beta
+known 6 1 1
+basal 3 2 1
+askew 2 4 0
+golly 1 6 0

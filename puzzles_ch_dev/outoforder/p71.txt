@@ -1,0 +1,5 @@
+6 9 outoforder
+hasty 1 1 0
+stare 3 1 1
+lorry 1 4 0
+lever 1 4 1

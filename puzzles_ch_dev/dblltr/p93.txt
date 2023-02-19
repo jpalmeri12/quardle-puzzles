@@ -1,0 +1,5 @@
+7 9 dblltr
+freer 6 1 1
+evade 2 4 0
+ensue 2 4 1
+nerve 1 8 0

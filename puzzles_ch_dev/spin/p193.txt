@@ -1,0 +1,5 @@
+7 10 spin
+urine 1 1 0
+north 4 1 1
+ether 2 5 0
+retry 6 5 1

@@ -1,0 +1,5 @@
+7 10
+tulle 4 1 1
+greet 2 5 0
+rainy 3 5 1
+clink 1 7 0

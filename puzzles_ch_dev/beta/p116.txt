@@ -1,0 +1,5 @@
+7 10 beta
+sharp 6 1 1
+sweep 2 5 0
+wacky 3 5 1
+taken 1 8 0

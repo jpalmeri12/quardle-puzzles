@@ -1,0 +1,6 @@
+7 12 connectfive
+truly 4 1 1
+stand 2 4 1
+thyme 2 5 0
+stool 5 7 1
+adopt 1 8 0

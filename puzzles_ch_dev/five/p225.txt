@@ -1,0 +1,6 @@
+7 9 five
+upset 5 1 1
+coupe 2 2 0
+drier 2 4 0
+digit 2 4 1
+midge 1 7 0

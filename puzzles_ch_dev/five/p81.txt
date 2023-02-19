@@ -1,0 +1,6 @@
+7 10 five
+booth 3 1 1
+brook 1 2 0
+thing 2 5 0
+night 5 5 1
+mocha 2 8 0

@@ -1,0 +1,6 @@
+6 10 five
+taunt 5 1 1
+rumba 1 2 0
+ultra 2 2 1
+erect 1 5 0
+caput 4 5 1

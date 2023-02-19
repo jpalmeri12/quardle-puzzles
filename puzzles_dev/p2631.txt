@@ -1,0 +1,5 @@
+7 9
+slash 5 1 1
+whale 2 2 0
+rapid 3 4 1
+graph 1 5 0

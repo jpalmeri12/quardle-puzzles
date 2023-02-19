@@ -1,0 +1,5 @@
+6 7 shiritori
+quick 3 1 1
+gaunt 1 2 0
+troll 5 2 1
+micro 1 4 0

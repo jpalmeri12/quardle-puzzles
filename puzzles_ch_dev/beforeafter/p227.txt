@@ -1,0 +1,9 @@
+6 9 beforeafter
+deity 1 1 0
+torch 4 1 1
+porch 1 4 0
+oxide 2 4 1
+!beforeafter 2 l
+!beforeafter 2 k
+!beforeafter 2 n
+!beforeafter 1 m

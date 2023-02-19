@@ -1,0 +1,6 @@
+7 10 undercover
+climb 2 1 1
+clock 2 1 0
+oddly 5 3 1
+embed 1 4 0
+twang 1 9 0

@@ -1,0 +1,9 @@
+6 9 beforeafter
+trunk 5 1 1
+flour 1 2 0
+minus 3 4 1
+stink 1 5 0
+!beforeafter 2 o
+!beforeafter 1 m
+!beforeafter 2 r
+!beforeafter 1 r

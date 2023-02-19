@@ -1,0 +1,6 @@
+7 9 commonsecret
+suite 6 1 1
+vault 2 4 0
+atoll 3 4 1
+talon 1 7 0
+!secret t

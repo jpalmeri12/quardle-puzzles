@@ -1,0 +1,6 @@
+6 8 squaredance
+grace 1 1 1
+shaft 5 1 1
+gross 1 1 0
+exact 1 5 0
+daily 1 7 0

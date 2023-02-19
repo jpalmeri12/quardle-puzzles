@@ -1,0 +1,5 @@
+7 9 fourscore
+udder 6 1 1
+saute 2 4 0
+unfit 4 4 1
+basic 1 7 0

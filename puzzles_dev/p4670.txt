@@ -1,0 +1,5 @@
+7 9
+prune 5 1 1
+board 2 2 0
+swoon 1 4 0
+organ 3 4 1

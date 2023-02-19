@@ -1,0 +1,5 @@
+7 10
+among 6 1 1
+along 2 5 0
+nobly 5 5 1
+squib 1 7 0

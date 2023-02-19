@@ -1,0 +1,5 @@
+7 8 frequency
+rupee 2 1 1
+retry 2 1 0
+abhor 5 3 1
+belch 1 5 0

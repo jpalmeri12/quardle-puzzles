@@ -1,0 +1,5 @@
+6 10 scrabble
+stout 1 5 0
+upset 4 5 1
+spasm 1 7 0
+fight 2 1 1

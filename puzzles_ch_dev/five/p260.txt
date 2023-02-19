@@ -1,0 +1,6 @@
+7 10 five
+defer 1 1 1
+smelt 5 4 1
+realm 1 5 0
+abyss 3 5 1
+cycle 2 7 0

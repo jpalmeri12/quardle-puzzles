@@ -1,0 +1,5 @@
+7 9 outoforder
+ought 1 1 0
+trump 5 1 1
+shame 2 4 0
+smash 2 4 1

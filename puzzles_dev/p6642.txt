@@ -1,0 +1,5 @@
+7 7
+relic 1 1 0
+elbow 2 1 1
+large 6 2 1
+order 2 4 0

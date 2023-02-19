@@ -1,0 +1,6 @@
+6 9 island
+grope 5 1 1
+rarer 1 2 0
+stomp 1 4 0
+spiny 1 4 1
+!island 221 21 2111 11111

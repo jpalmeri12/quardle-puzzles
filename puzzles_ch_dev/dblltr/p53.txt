@@ -1,0 +1,5 @@
+7 8 dblltr
+renew 6 1 1
+preen 2 3 0
+ratty 3 3 1
+gayly 1 7 0

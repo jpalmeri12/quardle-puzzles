@@ -1,0 +1,6 @@
+7 12 drop
+cello 4 1 1
+tried 1 2 0
+sloop 2 5 0
+prank 6 5 1
+droop 1 11 0

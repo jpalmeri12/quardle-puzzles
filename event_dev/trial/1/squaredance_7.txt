@@ -1,0 +1,6 @@
+6 8 squaredance
+spend 1 1 1
+elect 5 1 1
+store 1 1 0
+debut 1 5 0
+inter 1 7 0

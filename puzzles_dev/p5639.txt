@@ -1,0 +1,5 @@
+7 7
+clash 5 1 1
+pixie 3 2 1
+vital 2 3 0
+neigh 1 5 0

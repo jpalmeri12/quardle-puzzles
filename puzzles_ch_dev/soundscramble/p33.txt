@@ -1,0 +1,5 @@
+7 9 soundscramble
+rubes 5 1 1
+luavu 1 2 0
+agatu 2 4 1
+geust 2 5 0

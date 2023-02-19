@@ -1,0 +1,6 @@
+7 12 undercover
+ascot 2 1 1
+askew 1 2 0
+truss 2 5 0
+racer 3 5 1
+idyll 1 11 0

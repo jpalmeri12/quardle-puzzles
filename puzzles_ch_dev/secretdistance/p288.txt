@@ -1,0 +1,7 @@
+7 11 secretdistance
+croak 5 1 1
+drove 2 4 1
+brink 1 5 0
+ester 2 8 0
+porch 1 10 0
+!sdpos 0 1 2 1

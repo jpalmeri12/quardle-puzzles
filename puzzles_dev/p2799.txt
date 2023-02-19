@@ -1,0 +1,5 @@
+7 8
+mouth 2 1 0
+oxide 3 1 1
+total 5 3 1
+spent 1 5 0

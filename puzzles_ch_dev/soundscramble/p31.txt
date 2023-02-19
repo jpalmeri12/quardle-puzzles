@@ -1,0 +1,5 @@
+6 9 soundscramble
+aveda 1 1 0
+vepor 2 1 1
+modal 1 4 0
+letar 5 4 1

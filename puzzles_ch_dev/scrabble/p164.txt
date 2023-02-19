@@ -1,0 +1,5 @@
+7 8 scrabble
+aging 2 3 0
+naive 4 1 1
+brink 1 1 0
+affix 2 3 1

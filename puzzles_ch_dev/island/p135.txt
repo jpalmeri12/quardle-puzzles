@@ -1,0 +1,6 @@
+6 10 island
+fungi 4 1 1
+pubic 1 5 0
+cargo 5 5 1
+primo 1 9 0
+!island 221 2111 11111 311

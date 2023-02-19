@@ -1,0 +1,6 @@
+6 8 drop
+acorn 1 1 1
+pluck 4 1 1
+could 1 2 0
+retch 1 4 0
+mural 1 7 0

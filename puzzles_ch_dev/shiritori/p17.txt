@@ -1,0 +1,5 @@
+7 8 shiritori
+dress 1 1 1
+cameo 4 3 1
+slimy 1 5 0
+frock 2 7 0

@@ -1,0 +1,6 @@
+7 10 wordcolumn
+rebel 2 1 1
+viral 6 1 1
+level 2 5 0
+enjoy 5 5 1
+lusty 1 9 0

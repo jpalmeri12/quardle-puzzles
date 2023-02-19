@@ -1,0 +1,5 @@
+7 10 invention
+panic 4 1 1
+torch 1 5 0
+humor 5 5 1
+stood 2 8 0

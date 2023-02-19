@@ -1,0 +1,6 @@
+6 11 drop
+thing 4 1 1
+usage 1 4 1
+stage 1 5 0
+elite 1 8 0
+chute 1 10 0

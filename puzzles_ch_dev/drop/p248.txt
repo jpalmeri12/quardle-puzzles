@@ -1,0 +1,6 @@
+7 12 drop
+basis 2 1 1
+shame 2 5 0
+maxim 5 5 1
+swami 1 8 0
+pixie 1 11 0

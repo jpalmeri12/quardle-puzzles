@@ -1,0 +1,5 @@
+7 10 outoforder
+shark 2 1 1
+abled 2 3 0
+skunk 1 5 0
+khaki 5 5 1

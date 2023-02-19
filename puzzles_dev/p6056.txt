@@ -1,0 +1,5 @@
+6 8
+arose 5 1 1
+leper 2 3 1
+fetus 1 4 0
+trout 1 7 0

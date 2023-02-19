@@ -1,0 +1,5 @@
+7 8
+scald 5 1 1
+wooly 2 3 1
+wreak 2 3 0
+nomad 1 5 0

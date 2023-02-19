@@ -1,0 +1,5 @@
+7 8
+mucky 6 1 1
+smote 3 3 1
+smack 2 4 0
+patch 1 6 0

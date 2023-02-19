@@ -1,0 +1,6 @@
+7 10 commonsecret
+stomp 1 1 0
+topaz 2 1 1
+zonal 2 5 0
+labor 6 5 1
+!secret o

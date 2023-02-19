@@ -1,0 +1,5 @@
+7 9 outoforder
+hyena 4 1 1
+cumin 2 4 1
+rural 1 5 0
+niece 2 8 0

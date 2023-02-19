@@ -1,0 +1,5 @@
+6 9
+aider 3 1 1
+chief 1 2 0
+greet 1 4 0
+guest 1 4 1

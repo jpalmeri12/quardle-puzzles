@@ -1,0 +1,5 @@
+7 7 outoforder
+hedge 4 1 1
+geese 2 2 0
+golem 2 2 1
+tenet 1 5 0

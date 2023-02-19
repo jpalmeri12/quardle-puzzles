@@ -1,0 +1,5 @@
+7 10 frequency
+ivory 5 1 1
+slave 2 2 0
+essay 1 5 0
+eying 1 5 1

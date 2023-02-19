@@ -1,0 +1,6 @@
+6 8 undercover
+scion 1 1 1
+greet 4 1 1
+chord 1 2 0
+owner 1 4 0
+allay 1 7 0

@@ -1,0 +1,5 @@
+7 9 bestfit
+civic 2 1 1
+lipid 1 2 0
+wrong 6 4 1
+cater 2 5 0

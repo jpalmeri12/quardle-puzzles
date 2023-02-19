@@ -1,0 +1,5 @@
+7 9 frequency
+booth 4 1 1
+horde 2 4 1
+hotly 2 4 0
+idler 1 7 0

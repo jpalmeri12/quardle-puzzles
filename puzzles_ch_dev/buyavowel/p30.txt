@@ -1,0 +1,5 @@
+7 10 buyavowel
+timer 2 1 1
+regal 2 5 0
+gecko 4 5 1
+parka 1 8 0

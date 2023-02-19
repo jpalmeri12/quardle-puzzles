@@ -1,0 +1,5 @@
+6 9 duplicity
+creed 5 1 1
+mecca 3 4 1
+dread 1 5 0
+rearm 1 8 0

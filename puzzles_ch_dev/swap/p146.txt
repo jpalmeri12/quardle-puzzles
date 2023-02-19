@@ -1,0 +1,5 @@
+7 10 swap
+elied 4 1 1
+olvie 1 3 0
+chdie 2 5 0
+cvoey 2 5 1

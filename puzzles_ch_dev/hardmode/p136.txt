@@ -1,0 +1,5 @@
+7 10 hardmode
+began 1 1 0
+gulch 3 1 1
+where 2 5 0
+erase 4 5 1

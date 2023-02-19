@@ -1,0 +1,5 @@
+6 7
+crimp 2 1 1
+pride 1 2 0
+ditto 4 2 1
+spite 1 5 0

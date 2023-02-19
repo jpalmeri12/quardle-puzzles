@@ -1,0 +1,5 @@
+6 9 beta
+basin 3 1 1
+glade 1 2 0
+guild 1 4 0
+genre 1 4 1

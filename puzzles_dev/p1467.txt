@@ -1,0 +1,5 @@
+7 9
+fungi 4 1 1
+rouge 1 4 0
+outer 2 4 1
+elite 2 7 0

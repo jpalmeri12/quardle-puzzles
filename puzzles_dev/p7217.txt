@@ -1,0 +1,5 @@
+6 6
+morph 1 1 1
+ledge 4 1 1
+owner 1 2 0
+pudgy 1 4 0

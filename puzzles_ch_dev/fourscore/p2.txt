@@ -1,0 +1,5 @@
+6 7 fourscore
+tepee 5 1 1
+agate 1 2 0
+abbey 3 2 1
+these 1 5 0

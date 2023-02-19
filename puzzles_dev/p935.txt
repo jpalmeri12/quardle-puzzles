@@ -1,0 +1,5 @@
+7 10
+unlit 1 1 0
+night 2 1 1
+troll 2 5 0
+lever 6 5 1

@@ -1,0 +1,5 @@
+7 9 scrabble
+lemon 1 1 1
+admit 2 7 0
+needy 1 5 0
+beady 3 4 1

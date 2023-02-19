@@ -1,0 +1,5 @@
+6 8 outoforder
+biddy 2 1 1
+filmy 4 3 1
+admit 1 4 0
+vinyl 1 7 0

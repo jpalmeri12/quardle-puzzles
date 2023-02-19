@@ -1,0 +1,5 @@
+7 9 dblltr
+tarot 1 1 0
+roomy 3 1 1
+amiss 2 4 0
+sushi 5 4 1

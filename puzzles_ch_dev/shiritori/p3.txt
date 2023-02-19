@@ -1,0 +1,5 @@
+6 9 shiritori
+munch 1 1 1
+click 1 4 0
+clang 4 4 1
+wring 1 7 0

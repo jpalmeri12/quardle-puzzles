@@ -1,0 +1,5 @@
+6 7 fourscore
+paler 5 1 1
+gamma 1 2 0
+maxim 3 2 1
+pixie 1 4 0

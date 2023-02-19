@@ -1,0 +1,5 @@
+7 7
+tardy 3 1 1
+patch 2 2 0
+cairn 5 2 1
+radii 1 4 0

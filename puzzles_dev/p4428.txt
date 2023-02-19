@@ -1,0 +1,5 @@
+7 10
+grass 6 1 1
+focus 2 5 0
+cleft 4 5 1
+inter 1 7 0

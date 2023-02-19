@@ -1,0 +1,6 @@
+6 9 commonsecret
+alibi 1 1 0
+bland 4 1 1
+borne 1 4 0
+obese 2 4 1
+!secret b

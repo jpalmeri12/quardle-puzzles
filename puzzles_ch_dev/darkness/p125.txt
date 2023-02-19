@@ -1,0 +1,5 @@
+7 8 darkness
+aphid 3 1 1
+scarf 1 7 0
+wimpy 2 4 0
+spoof 5 3 1

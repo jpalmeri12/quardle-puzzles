@@ -1,0 +1,5 @@
+6 10 beta
+chili 2 1 1
+eight 1 5 0
+horde 4 5 1
+greed 1 9 0

@@ -1,0 +1,5 @@
+7 10
+stead 5 1 1
+sober 2 3 0
+cloud 1 5 0
+craft 1 5 1

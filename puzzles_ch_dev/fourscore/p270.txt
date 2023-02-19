@@ -1,0 +1,5 @@
+6 9 fourscore
+birch 2 1 1
+octal 1 4 0
+anvil 4 4 1
+helix 1 7 0

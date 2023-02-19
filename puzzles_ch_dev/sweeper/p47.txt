@@ -1,0 +1,5 @@
+7 10 sweeper
+toxic 5 1 1
+ditto 1 2 0
+epoch 2 5 0
+howdy 6 5 1

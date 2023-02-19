@@ -1,0 +1,5 @@
+7 7 sweeper
+queer 6 1 1
+razor 2 2 1
+above 2 3 0
+prize 1 6 0

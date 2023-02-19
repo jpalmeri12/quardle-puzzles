@@ -1,0 +1,9 @@
+6 9 beforeafter
+preen 5 1 1
+spade 1 4 0
+place 2 4 1
+actor 1 7 0
+!beforeafter 1 o
+!beforeafter 1 l
+!beforeafter 1 j
+!beforeafter 1 j

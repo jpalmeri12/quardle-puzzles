@@ -1,0 +1,5 @@
+7 10
+sixth 1 1 0
+idyll 2 1 1
+lumpy 2 5 0
+prowl 5 5 1

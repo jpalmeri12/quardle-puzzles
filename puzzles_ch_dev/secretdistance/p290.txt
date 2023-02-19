@@ -1,0 +1,7 @@
+6 12 secretdistance
+cargo 5 1 1
+meter 1 3 0
+hello 1 5 0
+ethic 2 5 1
+wharf 1 11 0
+!sdpos 1 1 1 1

@@ -1,0 +1,5 @@
+7 9 soundscramble
+octit 2 1 0
+choer 3 1 1
+waevi 1 4 0
+widgi 1 4 1

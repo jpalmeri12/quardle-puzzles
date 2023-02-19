@@ -1,0 +1,6 @@
+6 7 commonsecret
+hence 5 1 1
+admin 1 2 1
+atone 1 2 0
+manic 1 4 0
+!secret n

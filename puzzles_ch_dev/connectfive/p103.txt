@@ -1,0 +1,6 @@
+7 10 connectfive
+untie 4 1 1
+goofy 2 4 1
+boxer 1 5 0
+right 5 5 1
+foggy 2 7 0

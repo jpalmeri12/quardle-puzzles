@@ -1,0 +1,5 @@
+7 8
+cluck 1 1 0
+livid 2 1 1
+idiom 5 3 1
+devil 2 5 0

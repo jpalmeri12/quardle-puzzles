@@ -1,0 +1,6 @@
+6 9 undercover
+again 3 1 1
+paste 1 2 1
+pygmy 1 2 0
+spill 1 4 0
+brood 1 8 0

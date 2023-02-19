@@ -1,0 +1,5 @@
+6 8
+guest 1 1 1
+truce 3 3 1
+trunk 1 5 0
+creek 1 7 0

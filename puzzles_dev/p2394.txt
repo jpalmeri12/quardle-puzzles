@@ -1,0 +1,5 @@
+7 9
+fungi 4 1 1
+bingo 1 4 0
+incur 2 4 1
+risky 2 8 0

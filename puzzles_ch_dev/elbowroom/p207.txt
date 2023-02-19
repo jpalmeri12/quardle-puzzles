@@ -1,0 +1,5 @@
+7 8 elbowroom
+bully 5 1 1
+ounce 2 3 1
+oddly 2 3 0
+annoy 1 5 0

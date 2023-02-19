@@ -1,0 +1,5 @@
+7 10
+whiny 4 1 1
+buyer 2 5 0
+eclat 5 5 1
+circa 1 8 0

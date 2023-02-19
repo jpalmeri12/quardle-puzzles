@@ -1,0 +1,5 @@
+7 10 invention
+vivid 5 1 1
+curvy 2 3 0
+grand 1 5 0
+robot 2 5 1

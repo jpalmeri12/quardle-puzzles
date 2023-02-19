@@ -1,0 +1,5 @@
+7 8
+rabbi 1 1 0
+bluer 3 1 1
+buxom 5 3 1
+debut 2 4 0

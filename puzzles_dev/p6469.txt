@@ -1,0 +1,5 @@
+6 9
+cheer 5 1 1
+alike 1 4 0
+icily 3 4 1
+melee 1 7 0

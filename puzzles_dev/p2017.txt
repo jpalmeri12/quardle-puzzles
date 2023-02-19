@@ -1,0 +1,5 @@
+7 9
+stomp 4 1 1
+kitty 2 2 0
+stamp 1 4 0
+thump 2 4 1

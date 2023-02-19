@@ -1,0 +1,5 @@
+7 10
+frail 1 1 1
+leapt 1 5 0
+photo 4 5 1
+later 2 8 0

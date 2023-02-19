@@ -1,0 +1,5 @@
+7 10 soundscramble
+iphad 1 1 0
+andex 4 1 1
+mixam 2 5 0
+maner 6 5 1

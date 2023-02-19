@@ -1,0 +1,5 @@
+7 8
+fluke 1 1 0
+usual 3 1 1
+rogue 5 3 1
+talon 2 4 0

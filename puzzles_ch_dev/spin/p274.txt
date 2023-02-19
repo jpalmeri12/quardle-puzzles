@@ -1,0 +1,5 @@
+7 10 spin
+raven 4 1 1
+octal 1 2 0
+renal 2 5 0
+erect 3 5 1

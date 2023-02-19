@@ -1,0 +1,5 @@
+7 9
+wrung 5 1 1
+recur 3 4 1
+wedge 2 5 0
+purge 1 8 0

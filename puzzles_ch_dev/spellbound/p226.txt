@@ -1,0 +1,9 @@
+7 9 spellbound
+fifth 6 1 1
+abbot 2 4 0
+bayou 3 4 1
+blush 1 8 0
+!spellbound 0 4 2
+!spellbound 1 3 2
+!spellbound 2 2 1
+!spellbound 3 1 4

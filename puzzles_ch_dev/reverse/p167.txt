@@ -1,0 +1,5 @@
+7 10 reverse
+buddy 3 1 1
+knuts 1 2 0
+lyniv 2 5 0
+vogue 6 5 1

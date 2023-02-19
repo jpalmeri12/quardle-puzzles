@@ -1,0 +1,5 @@
+6 9 altending
+moult 1 1 0
+share 1 3 0
+stomp 1 5 0
+swami 1 7 0

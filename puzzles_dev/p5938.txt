@@ -1,0 +1,5 @@
+6 7
+bleak 3 1 1
+sissy 1 2 1
+silky 1 2 0
+stain 1 4 0

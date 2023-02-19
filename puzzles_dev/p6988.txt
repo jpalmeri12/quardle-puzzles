@@ -1,0 +1,5 @@
+7 8
+dowel 2 1 0
+ester 5 1 1
+hoist 1 3 0
+owing 2 3 1

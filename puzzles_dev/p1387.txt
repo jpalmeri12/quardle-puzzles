@@ -1,0 +1,5 @@
+7 9
+satin 2 1 1
+sieve 1 4 0
+vivid 4 4 1
+swift 2 7 0

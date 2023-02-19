@@ -1,0 +1,5 @@
+7 7 reverse
+quota 5 1 1
+ymmum 2 2 0
+yeast 2 2 1
+natit 1 4 0

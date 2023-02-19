@@ -1,0 +1,7 @@
+7 9 secretdistance
+showy 2 1 1
+droop 5 2 1
+opera 2 3 0
+hydro 1 5 0
+honor 1 8 0
+!sdpos 1 3 0 3

@@ -1,0 +1,5 @@
+6 8
+rouge 5 1 1
+condo 3 3 1
+prong 1 4 0
+quota 1 7 0

@@ -1,0 +1,5 @@
+6 8
+havoc 4 1 1
+foamy 2 3 1
+catch 1 5 0
+hydro 1 7 0

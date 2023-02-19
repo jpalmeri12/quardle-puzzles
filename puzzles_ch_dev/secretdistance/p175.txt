@@ -1,0 +1,7 @@
+7 11 secretdistance
+ought 4 1 1
+found 2 2 0
+fishy 1 4 0
+irate 2 4 1
+drake 1 10 0
+!sdpos 1 1 1 1

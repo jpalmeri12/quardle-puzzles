@@ -1,0 +1,5 @@
+7 9 swap
+lesat 2 1 1
+leeyr 1 2 0
+allyo 2 4 0
+lucer 4 4 1

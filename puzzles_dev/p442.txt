@@ -1,0 +1,5 @@
+7 10
+batch 5 1 1
+circa 1 2 0
+rebus 2 5 1
+right 2 5 0

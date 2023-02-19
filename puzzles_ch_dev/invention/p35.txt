@@ -1,0 +1,5 @@
+6 8 invention
+gross 1 1 0
+sting 4 1 1
+bleep 2 3 1
+blunt 1 4 0

@@ -1,0 +1,6 @@
+7 8 commonsecret
+ethic 1 1 0
+chirp 5 1 1
+satin 2 3 0
+acrid 3 3 1
+!secret i

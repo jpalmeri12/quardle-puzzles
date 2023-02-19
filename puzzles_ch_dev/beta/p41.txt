@@ -1,0 +1,5 @@
+7 10 beta
+liver 1 1 1
+robin 1 5 0
+north 5 5 1
+hairy 2 7 0

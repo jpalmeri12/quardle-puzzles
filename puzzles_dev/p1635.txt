@@ -1,0 +1,5 @@
+7 10
+viral 2 1 0
+rouse 4 1 1
+bevel 1 5 0
+basic 1 5 1

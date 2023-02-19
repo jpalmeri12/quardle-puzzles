@@ -1,0 +1,5 @@
+7 9 fourscore
+fungi 1 1 0
+inane 5 1 1
+whiny 3 4 1
+sheer 2 5 0

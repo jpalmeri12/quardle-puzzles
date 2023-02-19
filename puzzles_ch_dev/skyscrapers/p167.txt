@@ -1,0 +1,5 @@
+7 10 skyscrapers
+spade 1 5 0
+brood 4 1 1
+carve 2 2 0
+proxy 2 5 1

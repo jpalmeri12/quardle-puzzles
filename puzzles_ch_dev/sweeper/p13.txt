@@ -1,0 +1,5 @@
+7 7 sweeper
+guess 2 1 1
+lurch 1 2 0
+couch 4 2 1
+stung 2 4 0

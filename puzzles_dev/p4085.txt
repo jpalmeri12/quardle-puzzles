@@ -1,0 +1,5 @@
+6 10
+stung 5 1 1
+flung 1 5 0
+flair 1 5 1
+radii 1 9 0

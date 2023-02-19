@@ -1,0 +1,6 @@
+7 9 wordcolumn
+spurt 3 1 1
+ditto 5 1 1
+spoil 2 2 0
+tarot 1 4 0
+tenet 1 4 1

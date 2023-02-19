@@ -1,0 +1,5 @@
+7 9 bestfit
+shear 6 1 1
+ardor 3 4 1
+drier 2 5 0
+strap 1 8 0

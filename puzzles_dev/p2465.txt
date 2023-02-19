@@ -1,0 +1,5 @@
+7 10
+brace 4 1 1
+dirge 2 2 0
+caper 1 5 0
+pedal 3 5 1

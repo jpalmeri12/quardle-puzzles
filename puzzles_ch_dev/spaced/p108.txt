@@ -1,0 +1,5 @@
+7 9 spaced
+chase 5 1 1
+leash 2 4 0
+eying 3 4 1
+tangy 1 7 0

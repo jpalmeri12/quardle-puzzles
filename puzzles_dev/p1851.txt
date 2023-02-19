@@ -1,0 +1,5 @@
+7 10
+chant 5 1 1
+girth 1 2 0
+latte 2 5 0
+twixt 4 5 1

@@ -1,0 +1,5 @@
+7 9
+cable 4 1 1
+cheap 1 2 0
+color 2 4 0
+recur 6 4 1

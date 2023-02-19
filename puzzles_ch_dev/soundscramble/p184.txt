@@ -1,0 +1,5 @@
+7 10 soundscramble
+laest 4 1 1
+drass 2 2 0
+putty 1 5 0
+yecht 5 5 1

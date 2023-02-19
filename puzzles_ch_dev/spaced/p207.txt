@@ -1,0 +1,5 @@
+7 9 spaced
+alien 2 1 0
+argue 2 1 1
+plait 4 4 1
+reply 1 5 0

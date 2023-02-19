@@ -1,0 +1,5 @@
+6 9 frequency
+curly 1 1 1
+libel 1 4 0
+binge 3 4 1
+argue 1 7 0

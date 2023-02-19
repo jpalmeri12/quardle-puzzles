@@ -1,0 +1,5 @@
+7 10
+queer 1 1 1
+regal 1 5 0
+abode 4 5 1
+probe 2 7 0

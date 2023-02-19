@@ -1,0 +1,5 @@
+6 6 dblltr
+mammy 1 1 0
+mambo 1 1 1
+moose 3 1 1
+beset 1 4 0

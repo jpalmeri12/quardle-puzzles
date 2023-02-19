@@ -1,0 +1,6 @@
+7 10 connectfive
+sushi 4 1 1
+snuff 2 2 0
+peril 1 5 0
+elegy 2 5 1
+expel 2 7 0

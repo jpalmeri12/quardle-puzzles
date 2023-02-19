@@ -1,0 +1,5 @@
+7 9
+tried 5 1 1
+jewel 3 4 1
+bread 1 5 0
+berry 2 7 0

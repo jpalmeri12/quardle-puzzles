@@ -1,0 +1,5 @@
+7 8
+novel 1 1 1
+lease 4 3 1
+eaten 1 4 0
+lusty 2 6 0

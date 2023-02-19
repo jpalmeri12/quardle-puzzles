@@ -1,0 +1,5 @@
+7 10
+unify 5 1 1
+genie 2 3 0
+ready 1 5 0
+raise 1 5 1

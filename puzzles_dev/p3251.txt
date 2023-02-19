@@ -1,0 +1,5 @@
+7 7
+mushy 3 1 1
+crumb 1 2 0
+bicep 5 2 1
+hyper 2 5 0

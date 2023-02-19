@@ -1,0 +1,9 @@
+7 9 spellbound
+churn 4 1 1
+aloft 2 4 1
+along 1 5 0
+fussy 2 7 0
+!spellbound 0 1 3
+!spellbound 1 2 4
+!spellbound 2 2 4
+!spellbound 3 3 1

@@ -1,0 +1,6 @@
+7 9 connectfive
+savoy 3 1 1
+gawky 2 2 0
+rouse 2 4 0
+sixty 5 4 1
+dryly 1 8 0

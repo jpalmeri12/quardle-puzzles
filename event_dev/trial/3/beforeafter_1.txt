@@ -1,0 +1,9 @@
+7 9 beforeafter
+catty 3 1 1
+strip 2 4 0
+icily 5 4 1
+nasty 1 8 0
+!beforeafter 1 q
+!beforeafter 2 q
+!beforeafter 2 k
+!beforeafter 1 o

@@ -1,0 +1,6 @@
+7 10 drop
+start 1 1 0
+tonga 2 1 1
+solid 4 3 1
+abled 2 5 0
+donut 1 9 0

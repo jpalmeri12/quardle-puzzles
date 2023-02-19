@@ -1,0 +1,5 @@
+7 9
+torus 1 1 0
+setup 5 1 1
+guise 3 4 1
+humph 2 5 0

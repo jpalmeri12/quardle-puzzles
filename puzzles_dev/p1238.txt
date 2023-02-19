@@ -1,0 +1,5 @@
+7 9
+plumb 6 1 1
+modem 2 4 0
+opium 3 4 1
+shirt 1 6 0

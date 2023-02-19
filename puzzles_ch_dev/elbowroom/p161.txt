@@ -1,0 +1,5 @@
+7 9 elbowroom
+endow 2 1 1
+fable 4 4 1
+wrath 2 5 0
+field 1 7 0

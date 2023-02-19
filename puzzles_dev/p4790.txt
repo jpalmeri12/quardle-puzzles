@@ -1,0 +1,5 @@
+7 9
+jaunt 5 1 1
+steal 2 2 0
+adorn 1 4 0
+amaze 1 4 1

@@ -1,0 +1,5 @@
+7 9 scrabble
+unmet 4 4 1
+voter 1 7 0
+draft 6 1 1
+fluff 2 4 0

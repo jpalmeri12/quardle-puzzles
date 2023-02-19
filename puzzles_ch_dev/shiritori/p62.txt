@@ -1,0 +1,5 @@
+7 8 shiritori
+upset 1 1 0
+snipe 3 1 1
+bossy 5 3 1
+verse 2 5 0

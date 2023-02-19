@@ -1,0 +1,9 @@
+6 9 beforeafter
+gecko 2 1 1
+decor 1 2 0
+stomp 5 4 1
+joust 1 5 0
+!beforeafter 2 i
+!beforeafter 2 j
+!beforeafter 1 q
+!beforeafter 1 r

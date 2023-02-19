@@ -1,0 +1,5 @@
+7 10 scrabble
+sleet 1 5 0
+creed 2 2 0
+scowl 2 1 1
+spike 1 5 1

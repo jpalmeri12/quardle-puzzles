@@ -1,0 +1,6 @@
+7 11 undercover
+amity 4 1 1
+dimly 2 2 0
+ninth 1 4 0
+newer 1 4 1
+focus 1 10 0

@@ -1,0 +1,5 @@
+7 8 beta
+stone 1 1 1
+onset 3 3 1
+ninth 1 4 0
+begat 2 6 0

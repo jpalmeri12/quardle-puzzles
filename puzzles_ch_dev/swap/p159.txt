@@ -1,0 +1,5 @@
+6 9 swap
+ecalt 1 1 0
+topci 5 1 1
+belhc 1 4 0
+ersae 2 4 1

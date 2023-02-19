@@ -1,0 +1,5 @@
+7 10 beta
+arena 4 1 1
+essay 1 5 0
+sword 2 5 1
+radio 2 8 0

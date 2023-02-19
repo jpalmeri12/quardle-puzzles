@@ -1,0 +1,5 @@
+6 9
+crust 4 1 1
+thorn 1 2 0
+snowy 2 4 1
+unite 1 5 0

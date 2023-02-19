@@ -1,0 +1,5 @@
+7 10 invention
+chief 5 1 1
+sniff 2 5 0
+spurt 2 5 1
+quasi 1 7 0

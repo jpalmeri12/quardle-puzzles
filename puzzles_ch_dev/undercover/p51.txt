@@ -1,0 +1,6 @@
+7 12 undercover
+khaki 3 1 1
+throb 2 2 0
+sniff 1 5 0
+nomad 2 5 1
+leggy 1 11 0

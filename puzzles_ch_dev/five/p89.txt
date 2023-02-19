@@ -1,0 +1,6 @@
+7 8 five
+stout 1 1 1
+sieve 1 1 0
+titan 4 3 1
+undid 1 4 0
+dingo 2 7 0

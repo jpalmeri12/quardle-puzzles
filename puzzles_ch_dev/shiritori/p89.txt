@@ -1,0 +1,5 @@
+7 8 shiritori
+valve 1 1 0
+essay 5 1 1
+gloss 2 3 0
+golly 2 3 1

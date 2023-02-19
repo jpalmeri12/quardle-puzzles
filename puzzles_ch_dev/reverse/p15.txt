@@ -1,0 +1,5 @@
+7 8 reverse
+elims 1 1 1
+novel 4 3 1
+moron 1 4 0
+peews 2 6 0

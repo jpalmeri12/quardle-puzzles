@@ -1,0 +1,6 @@
+6 10 connectfive
+abled 2 1 1
+afoot 5 1 1
+adopt 1 5 0
+occur 3 5 1
+decoy 1 7 0

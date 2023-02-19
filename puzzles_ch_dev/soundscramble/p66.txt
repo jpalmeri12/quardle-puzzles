@@ -1,0 +1,5 @@
+7 8 soundscramble
+tiere 1 1 0
+routa 4 1 1
+blurb 2 3 0
+bilga 2 3 1

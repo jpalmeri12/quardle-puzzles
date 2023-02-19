@@ -1,0 +1,6 @@
+6 10 island
+credo 4 1 1
+labor 1 5 0
+beget 3 5 1
+fiend 1 8 0
+!island 41 2111 31 311

@@ -1,0 +1,6 @@
+7 10 wordcolumn
+turbo 2 1 1
+polyp 5 2 1
+razor 2 3 0
+lobby 1 5 0
+batty 3 5 1

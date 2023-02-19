@@ -1,0 +1,5 @@
+7 10
+comet 1 1 1
+toddy 1 5 0
+deign 3 5 1
+agape 2 8 0

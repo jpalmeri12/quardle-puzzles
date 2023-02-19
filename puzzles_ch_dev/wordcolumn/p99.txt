@@ -1,0 +1,6 @@
+6 10 wordcolumn
+mania 3 1 1
+stale 1 2 0
+grate 1 5 0
+ridge 2 5 1
+adapt 1 7 0

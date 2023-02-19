@@ -1,0 +1,5 @@
+7 9 skyscrapers
+tooth 1 5 0
+stoop 4 4 1
+puppy 2 8 0
+beget 1 1 1

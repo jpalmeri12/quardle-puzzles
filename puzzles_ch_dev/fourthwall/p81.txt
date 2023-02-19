@@ -1,0 +1,7 @@
+6 6 fourthwall
+purge 1 1 0
+plied 1 1 1
+input 1 3 0
+reply 3 1 1
+dryly 1 5 0
+entry 5 1 1

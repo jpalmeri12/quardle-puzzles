@@ -1,0 +1,5 @@
+7 8
+grape 2 1 0
+gayer 2 1 1
+rebut 4 3 1
+tribe 1 5 0

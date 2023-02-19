@@ -1,0 +1,5 @@
+7 9
+anger 1 1 0
+gruel 3 1 1
+begat 5 4 1
+sleet 2 5 0

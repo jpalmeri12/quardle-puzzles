@@ -1,0 +1,5 @@
+6 9
+balmy 5 1 1
+comma 1 2 0
+thing 2 4 1
+shyly 1 5 0

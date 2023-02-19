@@ -1,0 +1,5 @@
+7 10 spaced
+leash 3 1 1
+threw 2 5 0
+twang 2 5 1
+agent 1 9 0

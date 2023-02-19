@@ -1,0 +1,5 @@
+7 9 spaced
+locus 1 1 1
+perch 3 4 1
+sneak 1 5 0
+scaly 2 7 0

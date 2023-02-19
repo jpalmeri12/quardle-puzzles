@@ -1,0 +1,5 @@
+7 9 scrabble
+angle 2 1 0
+await 2 1 1
+biome 1 4 0
+exist 5 4 1

@@ -1,0 +1,5 @@
+7 7
+drool 5 1 1
+enter 1 2 0
+nasty 2 2 1
+title 2 5 0

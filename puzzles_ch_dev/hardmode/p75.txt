@@ -1,0 +1,5 @@
+7 10 hardmode
+primo 1 1 1
+offal 1 5 0
+femme 2 5 1
+ensue 2 9 0

@@ -1,0 +1,5 @@
+7 10 spin
+ovary 2 1 1
+young 2 5 0
+naval 5 5 1
+feral 1 9 0

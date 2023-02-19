@@ -1,0 +1,5 @@
+7 10 fourscore
+dread 2 1 1
+adept 1 5 0
+trunk 5 5 1
+drunk 2 8 0

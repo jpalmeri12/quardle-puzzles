@@ -1,0 +1,5 @@
+6 6 clockdown
+tonic 2 1 1
+scour 4 1 1
+roach 1 2 0
+minus 1 4 0

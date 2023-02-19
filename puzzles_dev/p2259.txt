@@ -1,0 +1,5 @@
+6 10
+bezel 4 1 1
+ember 1 2 0
+curly 1 5 0
+rugby 3 5 1

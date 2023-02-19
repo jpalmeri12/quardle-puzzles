@@ -1,0 +1,5 @@
+6 7 invention
+staid 3 1 1
+attic 1 2 0
+ahead 1 2 1
+edify 1 4 0

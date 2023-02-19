@@ -1,0 +1,5 @@
+7 10 hardmode
+rabbi 3 1 1
+risen 2 5 0
+snuck 4 5 1
+snaky 1 9 0

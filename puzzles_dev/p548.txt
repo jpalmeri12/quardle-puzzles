@@ -1,0 +1,5 @@
+7 9
+shark 5 1 1
+angel 2 4 1
+knock 1 5 0
+liken 2 8 0

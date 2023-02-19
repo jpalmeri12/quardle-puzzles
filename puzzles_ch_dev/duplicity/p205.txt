@@ -1,0 +1,5 @@
+7 8 duplicity
+shrub 5 1 1
+ethos 2 3 1
+throb 1 5 0
+surer 2 7 0

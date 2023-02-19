@@ -1,0 +1,5 @@
+7 9 reverse
+ymlif 4 1 1
+pygmy 1 2 0
+etile 2 4 0
+ester 2 4 1

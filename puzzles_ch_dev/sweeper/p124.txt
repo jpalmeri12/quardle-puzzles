@@ -1,0 +1,5 @@
+6 9 sweeper
+sauce 1 1 0
+alloy 2 1 1
+hound 1 4 0
+nosey 4 4 1

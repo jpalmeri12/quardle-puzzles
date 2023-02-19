@@ -1,0 +1,6 @@
+6 10 connectfive
+linen 5 1 1
+lupus 1 5 1
+lumen 1 5 0
+epoxy 4 5 1
+pilot 1 7 0

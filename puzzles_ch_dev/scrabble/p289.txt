@@ -1,0 +1,5 @@
+7 10 scrabble
+issue 2 5 1
+sauce 2 7 0
+fight 1 5 0
+quoth 4 1 1

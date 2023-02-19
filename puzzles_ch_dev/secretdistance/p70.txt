@@ -1,0 +1,7 @@
+6 12 secretdistance
+bonus 3 1 1
+miner 1 3 0
+mossy 1 5 0
+smite 4 5 1
+bosom 1 11 0
+!sdpos 0 0 0 1

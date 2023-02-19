@@ -1,0 +1,5 @@
+7 10 elbowroom
+cacti 4 1 1
+cocoa 2 3 0
+tapir 1 5 0
+align 2 5 1

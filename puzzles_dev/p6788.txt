@@ -1,0 +1,5 @@
+7 10
+bathe 4 1 1
+amend 2 5 0
+mirth 3 5 1
+ethos 1 9 0

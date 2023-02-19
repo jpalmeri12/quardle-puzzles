@@ -1,0 +1,7 @@
+7 11 secretdistance
+proud 2 1 1
+grunt 1 2 0
+piney 4 4 1
+dying 2 5 0
+vaunt 1 10 0
+!sdpos 2 2 3 0

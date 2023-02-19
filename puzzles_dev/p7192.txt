@@ -1,0 +1,5 @@
+7 9
+flown 2 1 0
+faint 2 1 1
+knack 1 4 0
+cacao 4 4 1

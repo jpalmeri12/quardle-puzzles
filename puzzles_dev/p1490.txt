@@ -1,0 +1,5 @@
+6 10
+snore 1 1 0
+ester 5 1 1
+visor 1 5 0
+spoof 3 5 1

@@ -1,0 +1,5 @@
+7 9 skyscrapers
+plaid 2 4 1
+lance 2 5 0
+civic 5 1 1
+admit 1 8 0

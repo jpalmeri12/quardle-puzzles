@@ -1,0 +1,6 @@
+7 8 island
+shack 1 1 0
+aglow 3 1 1
+adage 6 3 1
+gonad 2 4 0
+!island 2111 221 211 11111

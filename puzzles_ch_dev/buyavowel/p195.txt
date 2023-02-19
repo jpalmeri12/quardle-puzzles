@@ -1,0 +1,5 @@
+6 9 buyavowel
+caulk 4 1 1
+focal 1 2 0
+scaly 1 4 0
+cabby 2 4 1

@@ -1,0 +1,6 @@
+7 10 drop
+hoist 1 1 1
+fully 4 3 1
+shout 1 4 0
+dryer 2 7 0
+roomy 1 9 0

@@ -1,0 +1,5 @@
+6 9 spin
+eerie 5 1 1
+chili 1 4 0
+harem 2 4 1
+serum 1 7 0

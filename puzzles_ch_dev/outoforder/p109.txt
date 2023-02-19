@@ -1,0 +1,5 @@
+6 7 outoforder
+bathe 5 1 1
+chain 1 2 1
+heist 1 3 0
+irate 1 5 0

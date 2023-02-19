@@ -1,0 +1,5 @@
+7 10
+petty 2 1 1
+tenth 2 3 0
+hyena 1 5 0
+enact 3 5 1

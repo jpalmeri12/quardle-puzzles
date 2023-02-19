@@ -1,0 +1,6 @@
+6 10 connectfive
+basic 4 1 1
+naval 1 2 0
+birch 2 4 1
+pitch 1 5 0
+haunt 5 5 1

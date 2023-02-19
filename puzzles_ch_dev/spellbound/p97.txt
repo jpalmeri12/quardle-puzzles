@@ -1,0 +1,9 @@
+6 9 spellbound
+sally 2 1 1
+fling 1 4 0
+navel 4 4 1
+dryly 1 8 0
+!spellbound 0 4 2
+!spellbound 1 2 0
+!spellbound 2 1 3
+!spellbound 3 0 4

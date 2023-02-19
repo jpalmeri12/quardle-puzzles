@@ -1,0 +1,5 @@
+7 8
+borax 6 1 1
+decal 3 3 1
+media 2 4 0
+black 1 6 0

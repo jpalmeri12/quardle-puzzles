@@ -1,0 +1,5 @@
+7 9
+slain 1 1 0
+lasso 2 1 1
+snarl 2 4 0
+resin 5 4 1

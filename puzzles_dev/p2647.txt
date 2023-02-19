@@ -1,0 +1,5 @@
+7 10
+coupe 6 1 1
+paste 2 5 0
+aorta 3 5 1
+spawn 1 9 0

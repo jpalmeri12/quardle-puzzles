@@ -1,0 +1,5 @@
+7 8
+flown 6 1 1
+mango 2 3 0
+about 3 3 1
+patty 1 7 0

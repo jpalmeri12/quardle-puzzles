@@ -1,0 +1,5 @@
+6 10
+agony 1 1 1
+aptly 1 1 0
+youth 1 5 0
+unity 3 5 1

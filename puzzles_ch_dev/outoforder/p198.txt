@@ -1,0 +1,5 @@
+7 7 outoforder
+cycle 5 1 1
+lanky 1 2 0
+abase 2 2 1
+ample 2 4 0

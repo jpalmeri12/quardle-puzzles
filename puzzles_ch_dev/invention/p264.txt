@@ -1,0 +1,5 @@
+7 10 invention
+canal 5 1 1
+filly 2 5 0
+lever 4 5 1
+prove 1 7 0

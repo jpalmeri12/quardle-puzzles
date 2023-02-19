@@ -1,0 +1,5 @@
+7 9 bestfit
+lilac 5 1 1
+obese 2 4 1
+batch 2 5 0
+asset 1 7 0

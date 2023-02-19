@@ -1,0 +1,5 @@
+6 9
+blend 2 1 1
+snore 1 4 0
+rhyme 4 4 1
+viper 1 8 0

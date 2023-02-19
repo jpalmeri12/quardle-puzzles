@@ -1,0 +1,5 @@
+7 10 swap
+minsu 3 1 1
+qaush 1 5 0
+apuse 2 5 1
+eerct 2 9 0

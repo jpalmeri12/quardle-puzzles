@@ -1,0 +1,7 @@
+8 8 sixbox
+knife 3 1 1
+prior 5 1 1
+alibi 1 3 0
+brawl 4 3 1
+frond 3 4 0
+spear 1 5 0

@@ -1,0 +1,5 @@
+7 8 invention
+print 5 1 1
+couch 2 3 1
+opine 2 4 0
+chaos 1 7 0

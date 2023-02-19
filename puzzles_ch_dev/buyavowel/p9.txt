@@ -1,0 +1,5 @@
+7 8 buyavowel
+facet 3 1 1
+islet 5 3 1
+dense 2 4 0
+recut 1 7 0

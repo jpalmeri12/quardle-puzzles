@@ -1,0 +1,5 @@
+7 10
+apron 3 1 1
+donor 1 5 0
+ovoid 4 5 1
+exist 2 8 0

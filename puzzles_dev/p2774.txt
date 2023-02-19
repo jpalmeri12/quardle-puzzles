@@ -1,0 +1,5 @@
+7 8
+exult 2 1 0
+lodge 5 1 1
+boule 2 3 1
+doing 1 4 0

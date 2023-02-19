@@ -1,0 +1,9 @@
+6 9 beforeafter
+lucid 5 1 1
+sushi 1 4 0
+squib 3 4 1
+hoist 1 7 0
+!beforeafter 1 k
+!beforeafter 2 k
+!beforeafter 2 n
+!beforeafter 2 p

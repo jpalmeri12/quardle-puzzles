@@ -1,0 +1,5 @@
+6 7
+video 1 1 1
+irate 1 2 0
+amply 3 2 1
+empty 1 4 0

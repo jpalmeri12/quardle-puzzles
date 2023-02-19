@@ -1,0 +1,6 @@
+6 8 squaredance
+leech 1 1 1
+refit 5 1 1
+liner 1 1 0
+hoist 1 5 0
+mauve 1 7 0

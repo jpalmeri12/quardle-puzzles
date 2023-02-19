@@ -1,0 +1,6 @@
+7 9 drop
+wider 4 1 1
+scary 2 2 1
+smite 2 2 0
+waver 1 4 0
+merry 1 8 0

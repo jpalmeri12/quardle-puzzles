@@ -1,0 +1,5 @@
+7 9
+chirp 4 1 1
+rehab 2 2 0
+teary 1 4 0
+elfin 2 4 1

@@ -1,0 +1,5 @@
+7 10
+dully 2 1 1
+cyber 1 5 0
+essay 4 5 1
+gayly 2 9 0

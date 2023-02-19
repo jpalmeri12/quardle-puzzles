@@ -1,0 +1,5 @@
+7 9 hardmode
+stork 2 1 0
+rehab 5 1 1
+pause 1 4 1
+polka 1 4 0

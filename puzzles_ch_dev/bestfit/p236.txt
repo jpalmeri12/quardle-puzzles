@@ -1,0 +1,5 @@
+7 7 bestfit
+scone 5 1 1
+nerdy 2 2 1
+notch 2 2 0
+urban 1 4 0

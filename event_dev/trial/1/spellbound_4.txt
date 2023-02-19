@@ -1,0 +1,9 @@
+6 10 spellbound
+pound 1 1 1
+dense 1 5 0
+spear 4 5 1
+avian 1 8 0
+!spellbound 0 0 1
+!spellbound 1 1 2
+!spellbound 2 1 4
+!spellbound 3 2 4

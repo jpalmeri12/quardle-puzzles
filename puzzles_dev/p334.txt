@@ -1,0 +1,5 @@
+7 10
+wacky 4 1 1
+fatal 1 2 0
+foyer 2 5 0
+force 2 5 1

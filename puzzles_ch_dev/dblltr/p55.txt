@@ -1,0 +1,5 @@
+7 7 dblltr
+kneel 5 1 1
+harry 2 2 1
+asset 2 3 0
+drill 1 5 0

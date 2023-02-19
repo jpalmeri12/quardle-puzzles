@@ -1,0 +1,6 @@
+7 10 wordcolumn
+geese 2 1 1
+intro 5 4 1
+yearn 1 5 0
+aunty 3 5 1
+snort 2 7 0

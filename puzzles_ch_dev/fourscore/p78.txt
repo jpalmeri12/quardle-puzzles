@@ -1,0 +1,5 @@
+7 9 fourscore
+smock 1 1 1
+cynic 1 4 0
+impel 4 4 1
+smear 2 7 0

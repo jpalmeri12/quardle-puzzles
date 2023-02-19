@@ -1,0 +1,5 @@
+7 8
+quash 1 1 0
+ultra 2 1 1
+torso 2 3 0
+rough 4 3 1

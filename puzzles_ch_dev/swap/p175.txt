@@ -1,0 +1,5 @@
+7 10 swap
+setal 1 1 0
+anvel 4 1 1
+swlel 2 5 0
+ernal 5 5 1

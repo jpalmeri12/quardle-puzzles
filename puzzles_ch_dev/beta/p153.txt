@@ -1,0 +1,5 @@
+7 8 beta
+tithe 6 1 1
+issue 2 3 1
+stash 2 4 0
+dealt 1 7 0

@@ -1,0 +1,5 @@
+7 10
+sworn 1 1 1
+notch 1 5 0
+hedge 5 5 1
+matey 2 9 0

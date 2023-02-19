@@ -1,0 +1,6 @@
+6 9 undercover
+layer 5 1 1
+agate 1 2 1
+gusty 1 3 0
+truer 1 5 0
+chick 1 8 0

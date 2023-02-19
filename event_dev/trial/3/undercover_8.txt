@@ -1,0 +1,6 @@
+6 11 undercover
+haste 1 1 1
+ample 1 2 0
+tense 1 4 0
+eager 5 4 1
+cubic 1 10 0

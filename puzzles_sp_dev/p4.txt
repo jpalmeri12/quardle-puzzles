@@ -1,0 +1,5 @@
+6 8 spin
+zesty 5 1 1
+nudge 1 3 1
+decoy 1 5 0
+ensue 1 7 0

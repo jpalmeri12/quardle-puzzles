@@ -1,0 +1,5 @@
+7 9 buyavowel
+right 2 1 1
+shrew 1 4 0
+whelp 5 4 1
+scope 2 8 0

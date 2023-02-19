@@ -1,0 +1,5 @@
+7 9
+jumbo 6 1 1
+canny 3 4 1
+ratio 2 5 0
+tonal 1 7 0

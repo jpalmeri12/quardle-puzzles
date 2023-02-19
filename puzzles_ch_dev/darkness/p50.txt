@@ -1,0 +1,5 @@
+7 8 darkness
+torus 2 1 1
+skulk 2 5 0
+stick 1 1 0
+woken 6 3 1

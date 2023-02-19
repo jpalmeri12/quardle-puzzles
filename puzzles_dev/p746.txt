@@ -1,0 +1,5 @@
+7 8
+scald 1 1 0
+coral 2 1 1
+ripen 2 3 0
+noisy 6 3 1

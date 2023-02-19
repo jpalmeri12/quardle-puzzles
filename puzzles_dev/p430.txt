@@ -1,0 +1,5 @@
+7 9
+flirt 6 1 1
+union 2 4 1
+night 2 5 0
+anime 1 8 0

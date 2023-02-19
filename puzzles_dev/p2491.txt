@@ -1,0 +1,5 @@
+7 8
+minus 6 1 1
+churn 2 3 0
+heavy 3 3 1
+savvy 1 6 0

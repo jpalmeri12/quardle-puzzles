@@ -1,0 +1,7 @@
+7 11 secretdistance
+chain 4 1 1
+ought 1 2 0
+child 2 4 0
+chick 2 4 1
+smelt 1 10 0
+!sdpos 1 0 3 3

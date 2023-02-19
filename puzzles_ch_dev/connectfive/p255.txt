@@ -1,0 +1,6 @@
+7 10 connectfive
+lucid 3 1 1
+tubal 2 2 0
+hedge 1 5 0
+heavy 1 5 1
+yield 1 9 0

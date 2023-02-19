@@ -1,0 +1,5 @@
+7 8 duplicity
+hatch 2 1 1
+caper 5 3 1
+sharp 1 5 0
+stare 2 7 0

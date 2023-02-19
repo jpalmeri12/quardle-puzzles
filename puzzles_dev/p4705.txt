@@ -1,0 +1,5 @@
+6 9
+tread 4 1 1
+shard 1 2 0
+canal 1 4 0
+avail 2 4 1

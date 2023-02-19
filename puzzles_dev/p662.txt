@@ -1,0 +1,5 @@
+7 10
+flora 5 1 1
+ninja 1 5 0
+juror 4 5 1
+verso 2 9 0

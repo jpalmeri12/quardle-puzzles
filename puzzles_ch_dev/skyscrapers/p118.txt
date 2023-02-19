@@ -1,0 +1,5 @@
+7 9 skyscrapers
+scion 1 7 0
+flail 3 4 1
+flask 2 5 0
+chaos 5 1 1

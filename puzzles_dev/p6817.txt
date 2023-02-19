@@ -1,0 +1,5 @@
+7 10
+knead 5 1 1
+beady 2 5 0
+exert 3 5 1
+carat 1 8 0

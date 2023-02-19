@@ -1,0 +1,5 @@
+6 10 reverse
+driht 1 1 1
+inept 1 3 0
+trail 1 5 0
+lezah 5 5 1

@@ -1,0 +1,5 @@
+7 8 sweeper
+fungi 1 1 1
+skill 4 3 1
+gecko 1 4 0
+hello 2 7 0

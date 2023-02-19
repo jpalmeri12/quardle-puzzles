@@ -1,0 +1,6 @@
+6 8 connectfive
+virus 1 1 1
+verso 1 1 0
+route 1 3 0
+every 5 3 1
+curvy 1 7 0

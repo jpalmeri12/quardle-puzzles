@@ -1,0 +1,5 @@
+6 7 bestfit
+snowy 2 1 1
+sniff 1 2 0
+flirt 4 2 1
+await 1 4 0

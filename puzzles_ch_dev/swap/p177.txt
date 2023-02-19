@@ -1,0 +1,5 @@
+7 8 swap
+womna 1 1 0
+aawke 5 1 1
+rcowd 2 3 0
+cirme 3 3 1

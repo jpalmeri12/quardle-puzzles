@@ -1,0 +1,5 @@
+7 9
+white 2 1 1
+homer 2 2 0
+niche 4 4 1
+befit 1 5 0

@@ -1,0 +1,5 @@
+7 9 frequency
+leper 4 1 1
+omega 2 4 1
+marsh 2 5 0
+agony 1 7 0

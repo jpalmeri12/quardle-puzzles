@@ -1,0 +1,5 @@
+6 6 beta
+bongo 1 1 0
+occur 2 1 1
+guilt 4 1 1
+curly 1 4 0

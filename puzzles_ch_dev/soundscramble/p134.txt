@@ -1,0 +1,5 @@
+6 6 soundscramble
+swift 1 1 0
+wraek 2 1 1
+ferca 4 1 1
+denca 1 4 0

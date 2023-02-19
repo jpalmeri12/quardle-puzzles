@@ -1,0 +1,5 @@
+6 7
+paper 5 1 1
+salsa 1 2 0
+least 3 2 1
+place 1 4 0

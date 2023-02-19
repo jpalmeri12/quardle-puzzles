@@ -1,0 +1,7 @@
+7 11 secretdistance
+anger 2 1 1
+nylon 2 2 0
+speck 5 4 1
+crump 1 5 0
+golem 1 10 0
+!sdpos 1 2 3 2

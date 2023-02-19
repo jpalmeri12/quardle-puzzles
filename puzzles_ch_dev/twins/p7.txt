@@ -1,0 +1,8 @@
+6 8 twins
+grill 1 1 0
+novel 1 3 0
+egret 1 5 0
+reedy 1 7 0
+!twins 0 3
+!twins 1 4
+!twins 0 2

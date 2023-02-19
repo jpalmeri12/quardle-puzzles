@@ -1,0 +1,5 @@
+7 8 duplicity
+mecca 4 1 1
+offer 2 3 1
+frame 2 5 0
+armor 1 7 0

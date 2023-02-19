@@ -1,0 +1,5 @@
+7 7 reverse
+slunk 3 1 1
+femur 5 2 1
+tluxe 1 3 0
+yknuf 2 5 0

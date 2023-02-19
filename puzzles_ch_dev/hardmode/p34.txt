@@ -1,0 +1,5 @@
+6 9 hardmode
+chirp 1 1 1
+brown 3 4 1
+parka 1 5 0
+mango 1 8 0

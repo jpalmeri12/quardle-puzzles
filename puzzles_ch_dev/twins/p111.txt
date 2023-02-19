@@ -1,0 +1,8 @@
+6 8 twins
+swoon 1 1 0
+stick 1 3 0
+staid 1 5 0
+delve 1 7 0
+!twins 1 4
+!twins 0 1
+!twins 0 1

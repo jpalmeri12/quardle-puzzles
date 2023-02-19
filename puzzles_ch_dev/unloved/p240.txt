@@ -1,0 +1,5 @@
+6 9 unloved
+naval 1 1 1
+naive 1 1 0
+anime 1 4 0
+idler 3 4 1

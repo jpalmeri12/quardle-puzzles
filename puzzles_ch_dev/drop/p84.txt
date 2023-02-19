@@ -1,0 +1,6 @@
+7 11 drop
+guard 4 1 1
+fluke 2 2 0
+anode 2 4 1
+snide 1 5 0
+drank 1 10 0

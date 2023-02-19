@@ -1,0 +1,5 @@
+7 10
+wrest 4 1 1
+mouth 1 5 0
+hedge 5 5 1
+verge 2 8 0

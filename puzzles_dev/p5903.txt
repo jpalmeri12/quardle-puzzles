@@ -1,0 +1,5 @@
+7 9
+entry 4 1 1
+ranch 2 2 0
+fairy 1 4 0
+ankle 2 4 1

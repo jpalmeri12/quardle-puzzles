@@ -1,0 +1,5 @@
+6 9
+watch 5 1 1
+sauna 1 2 0
+sumac 1 4 0
+using 2 4 1

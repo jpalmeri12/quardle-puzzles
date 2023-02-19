@@ -1,0 +1,5 @@
+7 8
+matey 1 1 0
+tithe 3 1 1
+manly 5 3 1
+being 2 5 0

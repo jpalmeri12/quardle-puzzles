@@ -1,0 +1,5 @@
+7 8
+offer 1 1 0
+rajah 5 1 1
+banjo 2 3 0
+adorn 3 3 1

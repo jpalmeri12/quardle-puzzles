@@ -1,0 +1,5 @@
+7 7 shiritori
+afire 1 1 0
+fatal 2 1 1
+magic 6 2 1
+among 2 4 0

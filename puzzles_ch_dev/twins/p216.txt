@@ -1,0 +1,8 @@
+6 8 twins
+moldy 1 1 0
+plumb 1 3 0
+valve 1 5 0
+swine 1 7 0
+!twins 0 1
+!twins 2 3
+!twins 0 2

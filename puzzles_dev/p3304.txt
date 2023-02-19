@@ -1,0 +1,5 @@
+7 10
+chest 2 1 1
+cloth 2 1 0
+strut 1 5 0
+utter 4 5 1

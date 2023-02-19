@@ -1,0 +1,5 @@
+6 7 darkness
+imbue 1 2 1
+islet 1 2 0
+verse 4 1 1
+brush 1 4 0

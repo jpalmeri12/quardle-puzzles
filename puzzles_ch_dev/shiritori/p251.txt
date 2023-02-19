@@ -1,0 +1,5 @@
+7 10 shiritori
+court 5 1 1
+bayou 1 3 0
+delta 2 5 0
+adopt 6 5 1

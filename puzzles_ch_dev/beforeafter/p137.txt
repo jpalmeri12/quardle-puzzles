@@ -1,0 +1,9 @@
+6 9 beforeafter
+stoic 4 1 1
+allot 1 4 1
+lynch 1 5 0
+tonga 1 8 0
+!beforeafter 2 n
+!beforeafter 2 m
+!beforeafter 2 k
+!beforeafter 2 k

@@ -1,0 +1,5 @@
+7 9
+swill 4 1 1
+bowel 2 2 0
+world 1 4 0
+onion 2 4 1

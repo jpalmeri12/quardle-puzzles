@@ -1,0 +1,5 @@
+7 9
+ditto 4 1 1
+rabid 1 2 0
+petal 2 4 0
+lofty 6 4 1

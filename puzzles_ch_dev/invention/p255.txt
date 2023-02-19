@@ -1,0 +1,5 @@
+7 10 invention
+boost 2 1 1
+towel 2 5 0
+wimpy 4 5 1
+primo 1 7 0

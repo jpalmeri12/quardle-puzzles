@@ -1,0 +1,5 @@
+7 9
+decoy 4 1 1
+basic 2 4 1
+abyss 2 5 0
+titan 1 7 0

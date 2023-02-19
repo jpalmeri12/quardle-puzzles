@@ -1,0 +1,5 @@
+6 9
+slunk 2 1 1
+knave 1 4 0
+vocal 4 4 1
+spray 1 7 0

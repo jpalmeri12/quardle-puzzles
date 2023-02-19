@@ -1,0 +1,5 @@
+7 7 duplicity
+snoop 1 1 1
+since 3 2 1
+opine 1 3 0
+pence 2 6 0

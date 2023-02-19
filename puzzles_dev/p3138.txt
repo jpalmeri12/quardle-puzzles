@@ -1,0 +1,5 @@
+7 9
+spout 4 1 1
+glyph 1 2 0
+frank 2 4 1
+ratio 2 5 0

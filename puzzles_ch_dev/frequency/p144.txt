@@ -1,0 +1,5 @@
+7 9 frequency
+admit 1 1 0
+dowry 2 1 1
+rebut 2 4 0
+bland 4 4 1

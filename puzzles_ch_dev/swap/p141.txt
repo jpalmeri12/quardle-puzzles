@@ -1,0 +1,5 @@
+7 10 swap
+seher 3 1 1
+qurik 1 5 0
+knlol 5 5 1
+fimly 2 7 0

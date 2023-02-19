@@ -1,0 +1,5 @@
+7 8
+draft 2 1 0
+flour 5 1 1
+retro 1 3 0
+tacky 3 3 1

@@ -1,0 +1,5 @@
+7 10
+basic 2 1 1
+ocean 1 5 0
+algae 4 5 1
+wight 2 7 0

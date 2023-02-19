@@ -1,0 +1,5 @@
+7 8 scrabble
+siren 2 4 0
+angry 6 3 1
+chord 4 1 1
+cache 1 2 0

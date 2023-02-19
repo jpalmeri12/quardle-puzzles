@@ -1,0 +1,6 @@
+7 11 drop
+primo 5 1 1
+shard 2 2 0
+matey 2 4 1
+cameo 1 5 0
+sooty 1 10 0

@@ -1,0 +1,5 @@
+7 9 scrabble
+spill 1 4 1
+demon 4 1 1
+cream 2 2 0
+phony 1 5 0

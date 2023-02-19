@@ -1,0 +1,6 @@
+7 10 wordcolumn
+lathe 1 1 0
+haute 4 1 1
+treat 2 5 0
+rhyme 3 5 1
+nylon 2 7 0

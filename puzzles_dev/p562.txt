@@ -1,0 +1,5 @@
+7 10
+large 3 1 1
+sworn 2 5 1
+sever 2 5 0
+antic 1 9 0

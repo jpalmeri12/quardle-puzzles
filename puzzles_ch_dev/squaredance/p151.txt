@@ -1,0 +1,6 @@
+6 8 squaredance
+punch 1 1 1
+knead 5 1 1
+prank 1 1 0
+heard 1 5 0
+olive 1 7 0

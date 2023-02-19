@@ -1,0 +1,5 @@
+7 10 swap
+ahlve 3 1 1
+lpeer 1 5 0
+erarm 4 5 1
+csant 2 7 0

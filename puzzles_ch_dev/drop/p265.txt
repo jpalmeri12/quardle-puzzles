@@ -1,0 +1,6 @@
+7 12 drop
+tract 6 1 1
+finch 2 5 1
+facet 2 5 0
+snail 1 7 0
+serif 1 11 0

@@ -1,0 +1,5 @@
+7 9 scrabble
+motor 6 1 1
+rally 1 6 0
+brawl 2 4 1
+banjo 2 4 0

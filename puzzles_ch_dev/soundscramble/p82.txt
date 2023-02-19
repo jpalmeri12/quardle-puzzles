@@ -1,0 +1,5 @@
+6 7 soundscramble
+bacin 1 1 1
+anvol 1 2 0
+votal 3 2 1
+iften 1 4 0

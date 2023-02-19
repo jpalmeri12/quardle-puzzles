@@ -1,0 +1,5 @@
+7 8
+bunny 1 1 0
+nudge 4 1 1
+badge 2 3 0
+excel 6 3 1

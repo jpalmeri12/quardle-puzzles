@@ -1,0 +1,5 @@
+7 9 unloved
+flout 5 1 1
+swill 1 2 0
+amply 3 4 1
+empty 2 5 0

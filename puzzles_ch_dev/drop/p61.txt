@@ -1,0 +1,6 @@
+7 11 drop
+tuber 2 1 1
+unlit 2 2 0
+fever 1 4 0
+easel 4 4 1
+frill 1 10 0

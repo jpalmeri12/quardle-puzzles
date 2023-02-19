@@ -1,0 +1,8 @@
+6 8 twins
+scrub 1 1 0
+tepee 1 3 0
+spear 1 5 0
+farce 1 7 0
+!twins 1 2
+!twins 1 2
+!twins 0 2

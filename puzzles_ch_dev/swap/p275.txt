@@ -1,0 +1,5 @@
+7 9 swap
+lilca 5 1 1
+sprgi 1 2 0
+xeact 2 4 0
+xaiom 2 4 1

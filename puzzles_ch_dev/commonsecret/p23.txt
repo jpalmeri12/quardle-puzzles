@@ -1,0 +1,6 @@
+6 10 commonsecret
+inner 2 1 1
+tribe 1 5 0
+blink 4 5 1
+orbit 1 7 0
+!secret i

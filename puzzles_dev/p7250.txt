@@ -1,0 +1,5 @@
+7 9
+cable 1 1 0
+badly 3 1 1
+drain 6 4 1
+hyper 2 5 0

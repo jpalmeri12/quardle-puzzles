@@ -1,0 +1,5 @@
+7 7 hardmode
+night 3 1 1
+climb 1 2 0
+belle 5 2 1
+stalk 2 5 0

@@ -1,0 +1,5 @@
+7 10 shiritori
+widow 1 1 0
+whack 5 1 1
+choke 2 5 0
+owner 4 5 1

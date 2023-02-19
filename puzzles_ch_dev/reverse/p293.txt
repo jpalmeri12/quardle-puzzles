@@ -1,0 +1,5 @@
+7 9 reverse
+tceje 4 1 1
+locus 2 2 0
+drojf 1 4 0
+droit 1 4 1

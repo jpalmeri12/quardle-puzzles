@@ -1,0 +1,5 @@
+7 10
+carve 2 1 1
+rocky 2 3 0
+seize 1 5 0
+elder 5 5 1

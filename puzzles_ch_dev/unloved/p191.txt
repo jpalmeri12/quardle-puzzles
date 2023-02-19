@@ -1,0 +1,5 @@
+7 8 unloved
+taboo 1 1 0
+outdo 5 1 1
+scald 3 3 1
+vapor 2 5 0

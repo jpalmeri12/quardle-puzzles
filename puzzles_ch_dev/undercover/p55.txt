@@ -1,0 +1,6 @@
+6 11 undercover
+scrum 2 1 1
+scale 1 2 0
+sunny 1 4 0
+nosey 4 4 1
+digit 1 10 0

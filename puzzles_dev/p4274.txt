@@ -1,0 +1,5 @@
+7 9
+gavel 1 1 1
+satin 3 4 1
+leave 1 5 0
+snuff 2 8 0

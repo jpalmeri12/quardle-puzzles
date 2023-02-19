@@ -1,0 +1,5 @@
+7 10 scrabble
+inter 5 5 1
+guilt 6 1 1
+tacit 2 5 0
+stake 1 8 0

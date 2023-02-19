@@ -1,0 +1,9 @@
+6 9 spellbound
+rehab 1 1 1
+expel 1 2 0
+churn 5 4 1
+bench 1 5 0
+!spellbound 0 2 3
+!spellbound 1 3 1
+!spellbound 2 0 2
+!spellbound 3 2 3

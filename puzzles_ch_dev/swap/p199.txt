@@ -1,0 +1,5 @@
+6 9 swap
+sepll 1 1 1
+cnaon 3 4 1
+lunra 1 5 0
+agoyn 1 7 0

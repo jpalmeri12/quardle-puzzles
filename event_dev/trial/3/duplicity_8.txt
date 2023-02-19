@@ -1,0 +1,5 @@
+7 8 duplicity
+rerun 3 1 1
+truss 2 3 0
+sneer 5 3 1
+utter 1 7 0

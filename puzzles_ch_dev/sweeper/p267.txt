@@ -1,0 +1,5 @@
+6 9 sweeper
+ratty 3 1 1
+wrist 1 4 1
+witch 1 4 0
+smote 1 7 0

@@ -1,0 +1,6 @@
+7 9 drop
+creek 5 1 1
+afire 2 2 0
+flank 3 2 1
+flake 1 4 0
+chalk 1 8 0

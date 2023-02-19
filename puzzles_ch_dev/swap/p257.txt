@@ -1,0 +1,5 @@
+7 9 swap
+idelr 4 1 1
+fetdi 1 2 0
+legyg 6 4 1
+garce 2 5 0

@@ -1,0 +1,5 @@
+6 8 shiritori
+lusty 1 1 1
+liken 1 1 0
+idler 4 3 1
+tardy 1 4 0

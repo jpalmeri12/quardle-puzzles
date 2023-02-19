@@ -1,0 +1,6 @@
+6 8 squaredance
+allow 1 1 1
+elate 5 1 1
+awoke 1 1 0
+whose 1 5 0
+grail 1 7 0

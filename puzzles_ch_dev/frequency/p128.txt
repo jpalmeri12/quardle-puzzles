@@ -1,0 +1,5 @@
+7 9 frequency
+epoxy 6 1 1
+affix 2 4 0
+flour 4 4 1
+debut 1 7 0

@@ -1,0 +1,5 @@
+7 9 spaced
+flora 4 1 1
+spice 2 4 1
+plain 2 5 0
+scamp 1 7 0

@@ -1,0 +1,5 @@
+7 10
+mouse 4 1 1
+adept 2 5 0
+pouch 5 5 1
+optic 1 8 0

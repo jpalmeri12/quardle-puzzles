@@ -1,0 +1,5 @@
+6 7 frequency
+alibi 2 1 1
+slant 1 2 0
+treat 5 2 1
+abide 1 4 0

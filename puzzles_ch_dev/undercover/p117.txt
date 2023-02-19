@@ -1,0 +1,6 @@
+7 11 undercover
+avian 3 1 1
+ovine 2 2 0
+acrid 1 4 1
+canal 1 5 0
+mushy 1 10 0

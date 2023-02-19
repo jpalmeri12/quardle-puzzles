@@ -1,0 +1,5 @@
+7 10 soundscramble
+foest 5 1 1
+dipot 1 5 0
+ileti 2 5 1
+eonec 2 7 0

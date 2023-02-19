@@ -1,0 +1,5 @@
+6 7 outoforder
+fishy 2 1 1
+minus 1 2 0
+spine 5 2 1
+khaki 1 4 0

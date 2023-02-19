@@ -1,0 +1,5 @@
+7 9
+habit 5 1 1
+burst 3 4 1
+blurt 1 5 0
+stalk 2 8 0

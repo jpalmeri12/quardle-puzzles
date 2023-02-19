@@ -1,0 +1,5 @@
+7 9
+start 6 1 1
+rebar 2 4 0
+brake 4 4 1
+stray 1 6 0

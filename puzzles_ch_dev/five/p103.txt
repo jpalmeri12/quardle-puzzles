@@ -1,0 +1,6 @@
+7 12 five
+amaze 2 1 1
+index 5 4 1
+eying 2 5 0
+store 3 7 1
+detox 1 8 0

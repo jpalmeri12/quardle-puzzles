@@ -1,0 +1,6 @@
+6 8 squaredance
+chart 1 1 1
+there 5 1 1
+crust 1 1 0
+tripe 1 5 0
+stein 1 7 0

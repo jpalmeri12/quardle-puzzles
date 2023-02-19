@@ -1,0 +1,5 @@
+6 9 duplicity
+leave 3 1 1
+glean 1 2 0
+giver 1 4 0
+grain 1 4 1

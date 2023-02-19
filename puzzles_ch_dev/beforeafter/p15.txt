@@ -1,0 +1,9 @@
+7 9 beforeafter
+trump 1 1 0
+motif 4 1 1
+tying 6 4 1
+lefty 2 5 0
+!beforeafter 2 q
+!beforeafter 2 l
+!beforeafter 1 p
+!beforeafter 2 q

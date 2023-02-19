@@ -1,0 +1,5 @@
+7 8
+lousy 6 1 1
+coupe 4 3 1
+cross 2 4 0
+piper 1 7 0

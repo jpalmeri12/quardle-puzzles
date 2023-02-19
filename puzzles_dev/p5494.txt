@@ -1,0 +1,5 @@
+7 9
+livid 2 1 1
+lumpy 2 1 0
+worry 4 4 1
+idiom 1 5 0

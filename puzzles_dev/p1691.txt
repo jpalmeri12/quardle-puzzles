@@ -1,0 +1,5 @@
+7 10
+booth 6 1 1
+soapy 2 5 1
+south 2 5 0
+valve 1 7 0

@@ -1,0 +1,5 @@
+6 10 swap
+seevr 2 1 1
+crued 1 5 0
+cbain 1 5 1
+iweld 1 8 0

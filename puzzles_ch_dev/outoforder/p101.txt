@@ -1,0 +1,5 @@
+7 8 outoforder
+gaffe 1 1 0
+forty 4 1 1
+shrub 2 3 0
+stilt 2 3 1

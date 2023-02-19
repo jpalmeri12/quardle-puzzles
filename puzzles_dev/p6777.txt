@@ -1,0 +1,5 @@
+7 7
+suite 5 1 1
+annul 2 2 0
+nasty 3 2 1
+visit 1 4 0

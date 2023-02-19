@@ -1,0 +1,5 @@
+7 10
+milky 5 1 1
+billy 1 5 0
+lucky 3 5 1
+score 2 7 0

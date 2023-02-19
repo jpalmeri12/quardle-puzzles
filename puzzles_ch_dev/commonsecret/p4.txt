@@ -1,0 +1,6 @@
+7 8 commonsecret
+froth 6 1 1
+nobly 3 3 1
+vomit 2 4 0
+aglow 1 6 0
+!secret o

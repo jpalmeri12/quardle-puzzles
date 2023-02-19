@@ -1,0 +1,5 @@
+6 9
+mangy 2 1 1
+savvy 1 2 0
+agent 1 4 0
+niche 4 4 1

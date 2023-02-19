@@ -1,0 +1,5 @@
+7 9 spin
+sappy 2 1 1
+spoon 2 1 0
+roger 5 4 1
+hydro 1 5 0

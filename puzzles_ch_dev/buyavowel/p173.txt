@@ -1,0 +1,5 @@
+7 9 buyavowel
+trust 5 1 1
+erase 2 4 0
+erect 2 4 1
+octet 1 7 0

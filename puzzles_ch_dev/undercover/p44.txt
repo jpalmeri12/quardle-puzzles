@@ -1,0 +1,6 @@
+7 9 undercover
+medic 5 1 1
+afire 1 2 0
+frown 2 2 1
+optic 2 4 0
+bulky 1 8 0

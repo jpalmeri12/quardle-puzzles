@@ -1,0 +1,5 @@
+6 10 frequency
+cling 1 1 1
+crane 1 1 0
+gavel 1 5 0
+leafy 5 5 1

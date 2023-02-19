@@ -1,0 +1,5 @@
+7 10 scrabble
+debar 4 1 1
+diary 5 5 1
+hardy 2 5 0
+chief 1 2 0

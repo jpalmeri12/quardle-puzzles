@@ -1,0 +1,6 @@
+6 12 drop
+tying 4 1 1
+polyp 1 2 0
+omega 1 5 0
+ovary 1 5 1
+loopy 1 11 0

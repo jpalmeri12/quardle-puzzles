@@ -1,0 +1,5 @@
+7 9
+birch 2 1 1
+index 2 2 0
+alarm 4 4 1
+shell 1 5 0

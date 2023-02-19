@@ -1,0 +1,5 @@
+7 8
+jiffy 1 1 0
+fresh 4 1 1
+spend 2 3 0
+dread 6 3 1

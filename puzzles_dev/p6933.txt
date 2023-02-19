@@ -1,0 +1,5 @@
+7 9
+quark 1 1 0
+above 3 1 1
+trump 6 4 1
+recur 2 5 0

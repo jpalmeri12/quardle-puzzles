@@ -1,0 +1,5 @@
+6 10 sweeper
+lyric 4 1 1
+vinyl 1 2 0
+ounce 1 5 0
+nasal 3 5 1

@@ -1,0 +1,5 @@
+7 9 shiritori
+downy 6 1 1
+flask 4 4 1
+filmy 2 5 0
+quake 1 8 0

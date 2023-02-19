@@ -1,0 +1,5 @@
+7 10
+board 4 1 1
+spade 1 5 0
+parry 2 5 1
+roach 2 7 0

@@ -1,0 +1,5 @@
+7 9 frequency
+ombre 5 1 1
+miser 1 4 0
+stead 3 4 1
+harem 2 7 0

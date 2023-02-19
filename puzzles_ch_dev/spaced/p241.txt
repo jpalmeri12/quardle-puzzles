@@ -1,0 +1,5 @@
+7 10 spaced
+creak 6 1 1
+spunk 2 5 0
+plush 3 5 1
+husky 1 8 0

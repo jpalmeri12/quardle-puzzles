@@ -1,0 +1,5 @@
+7 10 shiritori
+month 2 1 1
+nicer 2 3 0
+shear 1 5 0
+relax 5 5 1

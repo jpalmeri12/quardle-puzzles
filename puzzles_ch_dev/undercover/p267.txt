@@ -1,0 +1,6 @@
+7 12 undercover
+stiff 2 1 1
+filer 2 5 0
+leach 4 5 1
+wight 1 9 0
+booby 1 11 0

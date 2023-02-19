@@ -1,0 +1,5 @@
+6 9 hardmode
+chafe 1 1 0
+froze 4 1 1
+plaza 1 4 0
+patty 1 4 1

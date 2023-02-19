@@ -1,0 +1,5 @@
+7 8
+could 6 1 1
+total 2 3 1
+timid 2 5 0
+close 1 7 0

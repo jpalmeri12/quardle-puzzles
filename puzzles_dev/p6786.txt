@@ -1,0 +1,5 @@
+7 10
+boney 4 1 1
+sunny 2 3 0
+vinyl 1 5 0
+loyal 5 5 1

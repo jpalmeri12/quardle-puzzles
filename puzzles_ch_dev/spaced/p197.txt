@@ -1,0 +1,5 @@
+7 9 spaced
+giant 5 1 1
+agent 2 4 0
+grape 3 4 1
+taper 1 7 0

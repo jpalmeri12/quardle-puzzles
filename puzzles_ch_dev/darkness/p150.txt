@@ -1,0 +1,5 @@
+7 8 darkness
+frown 1 3 0
+furry 2 1 0
+rowdy 4 1 1
+flair 1 3 1

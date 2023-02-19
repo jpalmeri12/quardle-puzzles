@@ -1,0 +1,5 @@
+7 8 swap
+suryl 6 1 1
+awrae 3 3 1
+gwaky 2 4 0
+nsail 1 6 0

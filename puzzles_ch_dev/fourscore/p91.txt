@@ -1,0 +1,5 @@
+7 9 fourscore
+chard 4 1 1
+pithy 1 2 0
+curse 2 4 0
+evade 6 4 1

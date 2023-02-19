@@ -1,0 +1,5 @@
+7 10 unloved
+elegy 4 1 1
+impel 1 3 0
+buyer 2 5 0
+blitz 2 5 1

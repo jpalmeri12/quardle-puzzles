@@ -1,0 +1,5 @@
+7 7
+shalt 2 1 1
+round 5 2 1
+axiom 2 3 0
+stain 1 5 0

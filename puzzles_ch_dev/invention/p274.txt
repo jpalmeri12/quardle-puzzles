@@ -1,0 +1,5 @@
+7 10 invention
+whiny 5 1 1
+tonic 2 3 0
+woody 1 5 0
+wooly 1 5 1

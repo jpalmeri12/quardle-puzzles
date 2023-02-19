@@ -1,0 +1,6 @@
+7 7 commonsecret
+turbo 2 1 1
+quoth 1 2 0
+toxic 4 2 1
+opine 2 5 0
+!secret o

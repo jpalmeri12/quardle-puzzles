@@ -1,0 +1,5 @@
+6 9 dblltr
+axial 1 1 1
+known 3 4 1
+linen 1 5 0
+jewel 1 7 0

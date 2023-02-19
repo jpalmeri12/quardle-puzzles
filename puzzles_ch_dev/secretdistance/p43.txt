@@ -1,0 +1,7 @@
+7 12 secretdistance
+class 1 1 0
+sushi 4 1 1
+print 2 5 0
+phase 2 5 1
+glass 1 11 0
+!sdpos 3 2 2 2

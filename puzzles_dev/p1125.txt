@@ -1,0 +1,5 @@
+7 9
+halve 5 1 1
+clear 2 2 0
+peach 3 4 1
+obese 1 5 0

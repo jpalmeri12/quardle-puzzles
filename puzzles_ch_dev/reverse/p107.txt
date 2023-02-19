@@ -1,0 +1,5 @@
+7 7 reverse
+think 2 1 1
+hazel 2 2 0
+esoht 5 2 1
+enipo 1 4 0

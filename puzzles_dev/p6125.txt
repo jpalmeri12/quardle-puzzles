@@ -1,0 +1,5 @@
+6 9
+sooty 3 1 1
+ridge 1 4 1
+rotor 1 4 0
+grade 1 7 0

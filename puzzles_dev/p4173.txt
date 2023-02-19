@@ -1,0 +1,5 @@
+7 8
+cling 1 1 0
+girly 5 1 1
+cloud 2 3 1
+lowly 2 4 0

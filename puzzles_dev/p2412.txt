@@ -1,0 +1,5 @@
+7 9
+reuse 2 1 1
+civic 4 4 1
+elide 2 5 0
+posit 1 7 0

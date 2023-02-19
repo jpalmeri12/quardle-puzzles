@@ -1,0 +1,5 @@
+7 8
+sniff 5 1 1
+track 3 3 1
+chaff 1 5 0
+skulk 2 7 0

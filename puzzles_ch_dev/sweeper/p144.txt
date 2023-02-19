@@ -1,0 +1,5 @@
+6 10 sweeper
+bayou 4 1 1
+vinyl 1 3 0
+rebus 1 5 0
+smear 5 5 1

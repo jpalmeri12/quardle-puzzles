@@ -1,0 +1,9 @@
+7 8 beforeafter
+harpy 5 1 1
+adept 3 3 1
+adapt 2 4 0
+jetty 1 7 0
+!beforeafter 1 l
+!beforeafter 2 j
+!beforeafter 2 n
+!beforeafter 1 l

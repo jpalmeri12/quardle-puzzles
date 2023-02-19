@@ -1,0 +1,5 @@
+7 10
+betel 5 1 1
+shall 2 5 0
+holly 3 5 1
+filth 1 8 0

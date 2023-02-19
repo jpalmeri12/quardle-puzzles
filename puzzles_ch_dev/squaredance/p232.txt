@@ -1,0 +1,6 @@
+6 8 squaredance
+libel 1 1 1
+lefty 5 1 1
+local 1 1 0
+leaky 1 5 0
+foamy 1 7 0

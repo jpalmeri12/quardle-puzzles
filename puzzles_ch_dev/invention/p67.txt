@@ -1,0 +1,5 @@
+7 10 invention
+hippo 2 1 1
+offal 2 5 0
+filth 3 5 1
+bathe 1 8 0

@@ -1,0 +1,5 @@
+6 9
+heard 1 1 1
+ruder 1 4 0
+debar 3 4 1
+frank 1 7 0

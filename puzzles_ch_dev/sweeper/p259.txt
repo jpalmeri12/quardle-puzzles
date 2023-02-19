@@ -1,0 +1,5 @@
+6 9 sweeper
+kebab 3 1 1
+smell 1 2 0
+hymen 5 4 1
+lobby 1 5 0

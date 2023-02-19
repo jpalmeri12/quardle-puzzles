@@ -1,0 +1,5 @@
+7 9 darkness
+ulcer 2 4 1
+urine 2 4 0
+scale 1 6 0
+honey 6 1 1

@@ -1,0 +1,5 @@
+7 10
+wound 2 1 1
+delta 2 5 0
+tonic 5 5 1
+grown 1 7 0

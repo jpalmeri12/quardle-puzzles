@@ -1,0 +1,5 @@
+7 9
+chasm 5 1 1
+poppy 3 4 1
+broom 1 5 0
+apple 2 7 0

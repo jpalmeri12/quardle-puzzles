@@ -1,0 +1,6 @@
+7 10 five
+crump 5 1 1
+sweep 1 5 0
+whelp 2 5 1
+eking 4 5 1
+liner 2 8 0

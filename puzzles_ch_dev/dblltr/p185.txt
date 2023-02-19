@@ -1,0 +1,5 @@
+6 10 dblltr
+freer 5 1 1
+sewer 1 5 0
+woozy 3 5 1
+razor 1 8 0

@@ -1,0 +1,5 @@
+6 7
+abhor 5 1 1
+rehab 1 2 0
+hussy 3 2 1
+visor 1 5 0

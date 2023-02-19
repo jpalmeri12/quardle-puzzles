@@ -1,0 +1,5 @@
+6 9
+focus 4 1 1
+aglow 1 2 0
+mucus 1 4 0
+unwed 2 4 1

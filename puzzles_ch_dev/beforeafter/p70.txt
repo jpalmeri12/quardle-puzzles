@@ -1,0 +1,9 @@
+6 10 beforeafter
+untie 1 1 0
+topic 3 1 1
+micro 1 5 0
+rumba 4 5 1
+!beforeafter 2 k
+!beforeafter 2 m
+!beforeafter 2 n
+!beforeafter 1 q

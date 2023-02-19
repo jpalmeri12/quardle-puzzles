@@ -1,0 +1,5 @@
+7 8
+moose 1 1 1
+hazel 3 3 1
+staid 1 4 0
+detox 2 6 0

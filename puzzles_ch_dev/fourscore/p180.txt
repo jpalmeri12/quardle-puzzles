@@ -1,0 +1,5 @@
+7 9 fourscore
+spent 6 1 1
+adorn 2 4 0
+dicey 3 4 1
+bacon 1 6 0

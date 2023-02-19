@@ -1,0 +1,5 @@
+7 8 skyscrapers
+trait 1 5 0
+baton 5 3 1
+tawny 2 7 0
+demur 2 1 1

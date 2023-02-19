@@ -1,0 +1,5 @@
+7 8
+store 4 1 1
+plank 2 3 1
+proof 2 3 0
+racer 1 5 0

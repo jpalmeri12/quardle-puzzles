@@ -1,0 +1,5 @@
+7 9 reverse
+space 2 1 1
+epoxy 1 2 0
+tirem 6 4 1
+eubmi 2 5 0

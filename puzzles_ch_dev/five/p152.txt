@@ -1,0 +1,6 @@
+6 9 five
+quasi 1 1 1
+snare 1 4 0
+aorta 3 4 1
+elide 5 4 1
+graze 1 8 0

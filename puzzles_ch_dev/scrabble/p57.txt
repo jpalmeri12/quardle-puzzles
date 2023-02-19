@@ -1,0 +1,5 @@
+6 7 scrabble
+louse 4 2 1
+droll 1 2 0
+uncut 1 4 0
+briny 2 1 1

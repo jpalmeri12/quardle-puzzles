@@ -1,0 +1,5 @@
+7 7 shiritori
+slyly 2 1 1
+clamp 1 2 0
+prize 5 2 1
+lipid 2 4 0

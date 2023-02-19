@@ -1,0 +1,6 @@
+6 12 drop
+relay 5 1 1
+dopey 1 5 0
+psalm 3 5 1
+polka 1 8 0
+assay 1 11 0

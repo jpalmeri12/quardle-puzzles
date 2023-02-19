@@ -1,0 +1,5 @@
+6 6
+fifth 1 1 1
+honor 3 1 1
+fanny 1 3 0
+harem 1 5 0

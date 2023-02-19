@@ -1,0 +1,5 @@
+7 7 soundscramble
+queit 2 1 1
+unsit 2 2 0
+snedi 4 2 1
+bilei 1 4 0

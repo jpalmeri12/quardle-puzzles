@@ -1,0 +1,5 @@
+7 10 elbowroom
+dogma 1 1 0
+afoul 5 1 1
+wryly 2 5 0
+yearn 6 5 1

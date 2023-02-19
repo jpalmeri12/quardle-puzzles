@@ -1,0 +1,5 @@
+6 8
+cloak 4 1 1
+allow 1 3 0
+limbo 2 3 1
+smoky 1 5 0

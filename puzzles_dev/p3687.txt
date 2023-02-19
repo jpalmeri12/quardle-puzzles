@@ -1,0 +1,5 @@
+7 10
+acute 1 1 1
+exalt 1 5 0
+track 5 5 1
+total 2 7 0

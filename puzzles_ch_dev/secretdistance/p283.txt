@@ -1,0 +1,7 @@
+6 11 secretdistance
+bluff 1 1 0
+ferry 5 1 1
+flirt 3 4 1
+palsy 1 5 0
+hound 1 10 0
+!sdpos 0 3 0 2

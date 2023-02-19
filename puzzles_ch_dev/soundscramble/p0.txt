@@ -1,0 +1,5 @@
+6 9 soundscramble
+curny 1 1 0
+nurth 4 1 1
+suoth 1 4 0
+uoter 2 4 1

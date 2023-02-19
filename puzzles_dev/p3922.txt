@@ -1,0 +1,5 @@
+7 10
+dowdy 3 1 1
+hyena 2 5 0
+earth 4 5 1
+short 1 7 0

@@ -1,0 +1,8 @@
+6 8 twins
+wafer 1 1 0
+azure 1 3 0
+rarer 1 5 0
+fetch 1 7 0
+!twins 3 4
+!twins 3 4
+!twins 2 3

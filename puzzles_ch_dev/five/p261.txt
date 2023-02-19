@@ -1,0 +1,6 @@
+6 10 five
+patsy 1 1 1
+wound 4 2 1
+tutor 1 3 0
+young 1 5 0
+ounce 2 5 1

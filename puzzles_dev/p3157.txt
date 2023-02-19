@@ -1,0 +1,5 @@
+7 9
+favor 6 1 1
+shore 3 4 1
+cheer 2 5 0
+blend 1 8 0

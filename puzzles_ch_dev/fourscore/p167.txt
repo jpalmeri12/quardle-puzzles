@@ -1,0 +1,5 @@
+7 10 fourscore
+basal 4 1 1
+spray 1 2 0
+filmy 2 5 0
+islet 3 5 1

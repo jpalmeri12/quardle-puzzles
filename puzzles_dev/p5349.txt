@@ -1,0 +1,5 @@
+6 6
+truer 2 1 1
+tilde 4 1 1
+druid 1 2 0
+seedy 1 4 0

@@ -1,0 +1,5 @@
+7 8 frequency
+rogue 2 1 0
+gully 4 1 1
+shale 1 3 0
+hunch 2 3 1

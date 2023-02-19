@@ -1,0 +1,5 @@
+7 10
+wharf 5 1 1
+drift 2 5 0
+drawn 2 5 1
+twang 1 8 0

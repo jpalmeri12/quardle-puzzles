@@ -1,0 +1,5 @@
+7 9
+foggy 2 1 1
+goner 1 2 0
+grunt 2 4 0
+utile 4 4 1

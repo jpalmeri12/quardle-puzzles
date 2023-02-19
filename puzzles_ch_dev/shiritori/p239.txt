@@ -1,0 +1,5 @@
+6 10 shiritori
+drown 1 1 1
+novel 1 5 0
+oddly 2 5 1
+udder 1 7 0

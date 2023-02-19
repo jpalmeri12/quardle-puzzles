@@ -1,0 +1,5 @@
+7 9
+funny 6 1 1
+smock 3 4 1
+smoky 2 5 0
+cacao 1 7 0

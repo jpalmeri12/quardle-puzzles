@@ -1,0 +1,5 @@
+6 10 duplicity
+terse 3 1 1
+splat 1 5 1
+spear 1 5 0
+latte 1 7 0

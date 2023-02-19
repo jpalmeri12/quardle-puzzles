@@ -1,0 +1,5 @@
+6 7 sweeper
+turbo 3 1 1
+truss 1 2 0
+slate 5 2 1
+stout 1 5 0

@@ -1,0 +1,5 @@
+7 8 swap
+raneg 1 1 0
+aletr 2 1 1
+edcoy 2 3 0
+ototh 5 3 1

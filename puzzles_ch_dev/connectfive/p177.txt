@@ -1,0 +1,6 @@
+7 10 connectfive
+butte 5 1 1
+pique 2 2 0
+apple 1 5 0
+loser 4 5 1
+marsh 1 7 0

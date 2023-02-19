@@ -1,0 +1,5 @@
+6 8
+sperm 1 1 0
+plaid 2 1 1
+spicy 5 3 1
+bicep 1 4 0

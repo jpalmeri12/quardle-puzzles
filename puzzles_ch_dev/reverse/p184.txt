@@ -1,0 +1,5 @@
+7 8 reverse
+virus 2 1 1
+recut 2 3 0
+uoyab 5 3 1
+tsaey 1 5 0

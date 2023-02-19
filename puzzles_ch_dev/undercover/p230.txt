@@ -1,0 +1,6 @@
+6 12 undercover
+gaffe 5 1 1
+deuce 1 5 0
+event 2 5 1
+onion 1 8 0
+wryly 1 11 0

@@ -1,0 +1,6 @@
+7 12 undercover
+optic 5 1 1
+pouch 2 5 0
+proof 2 5 1
+afoot 1 9 0
+jewel 1 11 0

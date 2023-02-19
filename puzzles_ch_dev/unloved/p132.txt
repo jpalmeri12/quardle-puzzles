@@ -1,0 +1,5 @@
+7 9 unloved
+hasty 4 1 1
+smith 1 4 0
+manga 2 4 1
+axial 2 8 0

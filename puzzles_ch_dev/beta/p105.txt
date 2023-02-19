@@ -1,0 +1,5 @@
+6 9 beta
+manic 2 1 1
+hippy 1 4 0
+paddy 4 4 1
+satyr 1 8 0

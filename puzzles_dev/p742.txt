@@ -1,0 +1,5 @@
+7 7
+caste 5 1 1
+crest 3 2 1
+torus 1 3 0
+usher 2 5 0

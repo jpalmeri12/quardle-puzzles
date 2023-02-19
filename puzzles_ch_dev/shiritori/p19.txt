@@ -1,0 +1,5 @@
+7 10 shiritori
+grail 5 1 1
+wider 1 2 0
+billy 2 5 0
+inlet 3 5 1

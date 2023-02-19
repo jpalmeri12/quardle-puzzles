@@ -1,0 +1,5 @@
+7 10 unloved
+mammy 1 1 0
+metro 3 1 1
+moldy 2 5 0
+young 6 5 1

@@ -1,0 +1,5 @@
+6 9 scrabble
+stunt 1 4 1
+robot 3 1 1
+shown 1 4 0
+think 1 8 0

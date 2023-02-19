@@ -1,0 +1,7 @@
+8 8 sixbox
+their 3 1 1
+audit 5 1 1
+breed 1 3 0
+edict 4 3 1
+idiom 3 4 0
+merit 1 5 0

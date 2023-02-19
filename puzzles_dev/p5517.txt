@@ -1,0 +1,5 @@
+7 10
+widen 4 1 1
+using 1 5 0
+grimy 5 5 1
+gnome 2 8 0

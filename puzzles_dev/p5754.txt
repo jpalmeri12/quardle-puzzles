@@ -1,0 +1,5 @@
+6 6
+guise 2 1 1
+large 4 1 1
+diary 1 3 0
+seven 1 5 0

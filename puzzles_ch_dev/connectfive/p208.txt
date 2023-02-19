@@ -1,0 +1,6 @@
+6 10 connectfive
+minim 5 1 1
+golem 1 5 0
+gummy 1 5 1
+loopy 3 5 1
+maple 1 8 0

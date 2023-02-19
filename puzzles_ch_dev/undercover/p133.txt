@@ -1,0 +1,6 @@
+7 11 undercover
+every 2 1 1
+rugby 2 4 0
+begin 5 4 1
+ennui 1 7 0
+coach 1 10 0

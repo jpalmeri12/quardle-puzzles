@@ -1,0 +1,5 @@
+7 9 skyscrapers
+plied 4 1 1
+paper 1 4 0
+posit 1 4 1
+filly 2 2 0

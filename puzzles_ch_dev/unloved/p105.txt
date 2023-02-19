@@ -1,0 +1,5 @@
+7 9 unloved
+scrub 2 1 1
+eclat 4 4 1
+aback 1 5 0
+beard 2 7 0

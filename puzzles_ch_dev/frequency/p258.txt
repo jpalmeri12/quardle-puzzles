@@ -1,0 +1,5 @@
+7 8 frequency
+puppy 2 1 0
+panic 5 1 1
+vouch 2 3 1
+tunic 1 5 0

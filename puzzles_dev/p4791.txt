@@ -1,0 +1,5 @@
+7 10
+nurse 5 1 1
+bayou 1 2 0
+loser 2 5 0
+ovate 3 5 1

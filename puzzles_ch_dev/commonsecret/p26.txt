@@ -1,0 +1,6 @@
+7 7 commonsecret
+micro 1 1 1
+crept 3 2 1
+curvy 1 3 0
+ether 2 6 0
+!secret r

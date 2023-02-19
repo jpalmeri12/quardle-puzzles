@@ -1,0 +1,9 @@
+6 10 spellbound
+thumb 1 1 1
+bliss 1 5 0
+stump 5 5 1
+bayou 1 7 0
+!spellbound 0 0 3
+!spellbound 1 2 3
+!spellbound 2 4 3
+!spellbound 3 0 1

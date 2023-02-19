@@ -1,0 +1,5 @@
+7 10
+chili 2 1 0
+ladle 5 1 1
+argue 1 5 0
+roger 2 5 1

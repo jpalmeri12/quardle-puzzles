@@ -1,0 +1,5 @@
+7 8 frequency
+dingo 1 1 1
+speck 4 3 1
+order 1 5 0
+ankle 2 7 0

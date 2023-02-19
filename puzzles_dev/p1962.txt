@@ -1,0 +1,5 @@
+7 10
+swill 6 1 1
+frill 2 5 0
+ridge 3 5 1
+index 1 7 0

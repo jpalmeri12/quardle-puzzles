@@ -1,0 +1,6 @@
+6 10 five
+awash 4 1 1
+itchy 1 5 0
+truth 2 5 1
+yearn 5 5 1
+utter 1 8 0

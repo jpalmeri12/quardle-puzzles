@@ -1,0 +1,5 @@
+7 10
+rinse 5 1 1
+coven 1 3 0
+saner 2 5 0
+sewer 2 5 1

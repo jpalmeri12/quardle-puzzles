@@ -1,0 +1,6 @@
+7 10 wordcolumn
+climb 2 1 1
+blimp 1 2 0
+baton 2 5 0
+outgo 5 5 1
+berth 2 7 0

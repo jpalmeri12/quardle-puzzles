@@ -1,0 +1,5 @@
+7 10
+haunt 2 1 1
+style 1 5 0
+login 4 5 1
+might 2 7 0

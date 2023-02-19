@@ -1,0 +1,7 @@
+8 8 sixbox
+sauce 3 1 1
+liken 5 1 1
+cluck 1 3 0
+crazy 4 3 1
+creek 3 4 0
+glean 1 5 0

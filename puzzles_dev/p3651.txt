@@ -1,0 +1,5 @@
+6 9
+strut 1 1 1
+trend 1 2 0
+udder 1 4 0
+eater 4 4 1

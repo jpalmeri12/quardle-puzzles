@@ -1,0 +1,6 @@
+7 8 wordcolumn
+fetid 1 1 0
+debit 5 1 1
+cabby 2 3 0
+carve 2 3 1
+hedge 1 7 0

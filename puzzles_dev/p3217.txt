@@ -1,0 +1,5 @@
+7 10
+vying 6 1 1
+thong 2 5 0
+ovoid 4 5 1
+chaos 1 7 0

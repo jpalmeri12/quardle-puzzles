@@ -1,0 +1,6 @@
+7 8 island
+shrew 1 1 0
+rouse 3 1 1
+quasi 2 3 0
+sixth 5 3 1
+!island 41 311 32 2111

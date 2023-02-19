@@ -1,0 +1,5 @@
+7 10 desync
+group 1 1 1
+proud 1 5 0
+overt 3 5 1
+stole 2 9 0

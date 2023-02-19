@@ -1,0 +1,5 @@
+7 10 buyavowel
+climb 2 1 1
+inlay 2 3 0
+abort 1 5 0
+teach 5 5 1

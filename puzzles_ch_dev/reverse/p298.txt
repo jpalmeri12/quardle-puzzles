@@ -1,0 +1,5 @@
+7 10 reverse
+elgna 4 1 1
+forge 1 3 0
+kcaba 2 5 0
+cyber 3 5 1

@@ -1,0 +1,5 @@
+7 10 swap
+sakte 3 1 1
+okaen 1 2 0
+begnu 2 5 0
+gonme 4 5 1

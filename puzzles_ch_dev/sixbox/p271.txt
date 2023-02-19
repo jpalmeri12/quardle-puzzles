@@ -1,0 +1,7 @@
+8 8 sixbox
+slept 3 1 1
+miser 5 1 1
+bless 1 3 0
+siege 4 3 1
+piety 3 4 0
+enter 1 5 0

@@ -1,0 +1,5 @@
+7 9 skyscrapers
+rodeo 1 5 0
+pouch 5 4 1
+fancy 2 7 0
+manor 1 1 1

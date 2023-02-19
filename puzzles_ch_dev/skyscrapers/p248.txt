@@ -1,0 +1,5 @@
+7 7 skyscrapers
+plaid 2 5 0
+kappa 4 1 1
+pesky 1 1 0
+howdy 6 2 1

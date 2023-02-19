@@ -1,0 +1,5 @@
+7 10
+rebel 2 1 0
+botch 4 1 1
+bushy 1 5 0
+sassy 3 5 1

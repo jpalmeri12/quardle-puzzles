@@ -1,0 +1,5 @@
+7 7 reverse
+etuca 4 1 1
+slush 2 2 1
+sutef 2 2 0
+usual 1 5 0

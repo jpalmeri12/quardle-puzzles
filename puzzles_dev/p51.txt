@@ -1,0 +1,5 @@
+7 8
+strap 3 1 1
+olive 5 3 1
+avail 1 4 0
+giver 2 7 0

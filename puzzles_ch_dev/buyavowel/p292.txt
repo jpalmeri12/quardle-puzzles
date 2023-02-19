@@ -1,0 +1,5 @@
+6 8 buyavowel
+black 1 1 1
+scuba 4 3 1
+crick 1 4 0
+straw 1 7 0

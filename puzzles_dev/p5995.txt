@@ -1,0 +1,5 @@
+7 8
+handy 2 1 1
+nomad 2 3 0
+aunty 5 3 1
+hymen 1 5 0

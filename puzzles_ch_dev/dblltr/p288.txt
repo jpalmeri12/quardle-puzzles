@@ -1,0 +1,5 @@
+7 10 dblltr
+slash 4 1 1
+dolly 2 2 0
+tight 1 5 0
+inner 2 5 1

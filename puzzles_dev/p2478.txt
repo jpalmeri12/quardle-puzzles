@@ -1,0 +1,5 @@
+7 10
+crony 6 1 1
+dummy 2 5 1
+downy 2 5 0
+syrup 1 9 0

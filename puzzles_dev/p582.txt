@@ -1,0 +1,5 @@
+7 10
+chart 5 1 1
+would 2 5 1
+wrath 2 5 0
+place 1 8 0

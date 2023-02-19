@@ -1,0 +1,7 @@
+7 11 secretdistance
+visit 1 1 0
+savor 3 1 1
+heath 5 4 1
+breed 2 5 0
+corer 1 10 0
+!sdpos 0 3 3 1

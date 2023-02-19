@@ -1,0 +1,5 @@
+7 8
+bring 2 1 0
+rebar 3 1 1
+table 1 3 0
+troll 1 3 1

@@ -1,0 +1,6 @@
+7 10 commonsecret
+ninth 5 1 1
+cinch 1 5 0
+cabin 4 5 1
+imbue 2 7 0
+!secret i

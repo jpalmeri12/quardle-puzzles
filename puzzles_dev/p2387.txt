@@ -1,0 +1,5 @@
+7 10
+stave 3 1 1
+login 2 5 1
+ledge 2 5 0
+wield 1 8 0

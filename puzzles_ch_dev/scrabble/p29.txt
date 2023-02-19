@@ -1,0 +1,5 @@
+7 8 scrabble
+reuse 1 1 0
+scuba 4 1 1
+femur 2 3 1
+flush 2 3 0

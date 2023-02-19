@@ -1,0 +1,5 @@
+7 10 duplicity
+snoop 2 1 1
+siren 2 1 0
+spend 1 5 0
+dried 5 5 1

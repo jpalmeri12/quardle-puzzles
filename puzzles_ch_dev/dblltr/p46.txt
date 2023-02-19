@@ -1,0 +1,5 @@
+7 8 dblltr
+quill 5 1 1
+abate 3 3 1
+flail 1 5 0
+pence 2 7 0

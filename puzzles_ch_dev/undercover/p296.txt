@@ -1,0 +1,6 @@
+7 10 undercover
+dandy 4 1 1
+regal 1 2 0
+plate 6 3 1
+modal 2 4 0
+quick 1 9 0

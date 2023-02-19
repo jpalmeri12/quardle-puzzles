@@ -1,0 +1,7 @@
+6 6 fourthwall
+other 1 1 0
+omega 1 1 1
+extol 1 3 0
+hitch 3 1 1
+abhor 1 5 0
+ruler 5 1 1

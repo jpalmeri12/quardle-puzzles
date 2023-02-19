@@ -1,0 +1,9 @@
+7 7 beforeafter
+cello 4 1 1
+catty 2 2 1
+caulk 1 3 0
+troop 2 5 0
+!beforeafter 1 k
+!beforeafter 1 i
+!beforeafter 1 j
+!beforeafter 1 q

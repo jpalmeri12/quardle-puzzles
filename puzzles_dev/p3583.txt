@@ -1,0 +1,5 @@
+7 10
+drawn 3 1 1
+sniff 2 5 0
+fuzzy 5 5 1
+blitz 1 7 0

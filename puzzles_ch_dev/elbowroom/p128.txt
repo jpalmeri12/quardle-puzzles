@@ -1,0 +1,5 @@
+7 10 elbowroom
+crump 4 1 1
+worry 2 2 0
+hippy 1 5 0
+pique 3 5 1

@@ -1,0 +1,5 @@
+7 10 spaced
+croak 6 1 1
+speak 2 5 0
+pearl 3 5 1
+curio 1 8 0

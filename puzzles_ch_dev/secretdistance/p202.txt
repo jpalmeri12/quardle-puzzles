@@ -1,0 +1,7 @@
+7 9 secretdistance
+posse 1 1 0
+shrub 4 1 1
+beget 6 2 1
+cable 2 5 0
+model 1 8 0
+!sdpos 0 0 1 3

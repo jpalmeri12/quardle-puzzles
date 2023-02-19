@@ -1,0 +1,5 @@
+6 9
+grimy 3 1 1
+woman 1 4 0
+noble 5 4 1
+bowel 1 7 0

@@ -1,0 +1,5 @@
+7 10 hardmode
+rabbi 1 1 1
+itchy 1 5 0
+cheer 3 5 1
+trope 2 9 0

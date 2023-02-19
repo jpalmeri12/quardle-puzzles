@@ -1,0 +1,7 @@
+6 6 fourthwall
+cache 1 1 0
+clear 1 1 1
+erect 1 3 0
+cheap 3 1 1
+repel 1 5 0
+extol 5 1 1

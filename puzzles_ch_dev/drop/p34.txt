@@ -1,0 +1,6 @@
+7 9 drop
+amuse 2 1 1
+amass 1 2 0
+silky 4 2 1
+sally 2 4 0
+assay 1 8 0

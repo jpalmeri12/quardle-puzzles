@@ -1,0 +1,9 @@
+7 10 beforeafter
+sushi 3 1 1
+trunk 1 2 0
+hippo 2 5 0
+haunt 2 5 1
+!beforeafter 2 n
+!beforeafter 2 p
+!beforeafter 1 j
+!beforeafter 1 j

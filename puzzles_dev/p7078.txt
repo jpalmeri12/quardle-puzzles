@@ -1,0 +1,5 @@
+6 7
+terse 2 1 1
+refit 1 2 0
+testy 5 2 1
+recut 1 5 0

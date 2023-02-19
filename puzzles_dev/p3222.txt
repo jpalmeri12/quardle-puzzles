@@ -1,0 +1,5 @@
+7 9
+pence 1 1 0
+naive 3 1 1
+evoke 2 4 0
+elfin 6 4 1

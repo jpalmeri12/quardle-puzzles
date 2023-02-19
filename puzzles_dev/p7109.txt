@@ -1,0 +1,5 @@
+6 7
+mambo 2 1 1
+gaffe 1 2 0
+flume 4 2 1
+about 1 4 0

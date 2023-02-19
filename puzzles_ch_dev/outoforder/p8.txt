@@ -1,0 +1,5 @@
+6 9 outoforder
+sever 5 1 1
+gorge 1 2 0
+admit 3 4 1
+cider 1 5 0

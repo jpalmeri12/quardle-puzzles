@@ -1,0 +1,9 @@
+7 9 beforeafter
+rumba 2 1 1
+skiff 4 4 1
+gawky 1 5 0
+lefty 2 8 0
+!beforeafter 2 i
+!beforeafter 1 j
+!beforeafter 1 i
+!beforeafter 2 o

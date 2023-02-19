@@ -1,0 +1,5 @@
+6 6
+login 1 1 0
+onset 2 1 1
+newer 5 1 1
+other 1 5 0

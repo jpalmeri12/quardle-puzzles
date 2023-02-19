@@ -1,0 +1,6 @@
+6 10 wordcolumn
+patch 1 1 1
+prism 1 1 0
+sonic 4 1 1
+hence 1 5 0
+elbow 2 5 1

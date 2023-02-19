@@ -1,0 +1,5 @@
+7 9 soundscramble
+wurdy 6 1 1
+sculd 2 4 0
+corry 3 4 1
+syrop 1 6 0

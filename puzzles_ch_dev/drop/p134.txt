@@ -1,0 +1,6 @@
+7 11 drop
+rinse 5 1 1
+swami 1 2 0
+pearl 2 4 1
+prism 2 4 0
+snipe 1 10 0

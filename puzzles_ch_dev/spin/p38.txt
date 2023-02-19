@@ -1,0 +1,5 @@
+7 10 spin
+mourn 3 1 1
+fancy 1 5 0
+crazy 4 5 1
+dryly 2 9 0

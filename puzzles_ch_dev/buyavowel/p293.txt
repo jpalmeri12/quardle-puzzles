@@ -1,0 +1,5 @@
+7 7 buyavowel
+align 5 1 1
+label 1 2 0
+biome 3 2 1
+dodgy 2 4 0

@@ -1,0 +1,6 @@
+7 9 five
+snake 4 1 1
+opine 1 2 0
+carve 6 4 1
+hyena 2 5 0
+drake 2 8 0

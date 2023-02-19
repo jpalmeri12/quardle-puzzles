@@ -1,0 +1,5 @@
+6 6
+plane 1 1 1
+plumb 1 1 0
+unzip 3 1 1
+expel 1 5 0

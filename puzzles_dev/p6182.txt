@@ -1,0 +1,5 @@
+7 10
+worst 5 1 1
+bloom 2 2 0
+right 1 5 0
+guava 3 5 1

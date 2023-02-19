@@ -1,0 +1,5 @@
+7 7
+broke 2 1 1
+brand 1 2 0
+drool 5 2 1
+extol 2 5 0

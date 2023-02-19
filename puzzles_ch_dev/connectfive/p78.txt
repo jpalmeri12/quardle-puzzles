@@ -1,0 +1,6 @@
+7 10 connectfive
+femur 1 1 1
+enjoy 5 1 1
+rally 1 5 0
+liken 3 5 1
+skimp 2 7 0

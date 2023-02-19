@@ -1,0 +1,6 @@
+7 9 wordcolumn
+hippo 1 1 1
+howdy 1 1 0
+pouch 1 4 0
+unfed 3 4 1
+devil 2 7 0

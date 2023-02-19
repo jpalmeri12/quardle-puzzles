@@ -1,0 +1,6 @@
+7 9 island
+trite 1 1 0
+rugby 2 1 1
+brawl 2 4 0
+array 4 4 1
+!island 31 41 2111 111

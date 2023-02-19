@@ -1,0 +1,5 @@
+7 9 reverse
+ydnah 4 1 1
+egduj 2 2 0
+clean 1 4 0
+croup 1 4 1

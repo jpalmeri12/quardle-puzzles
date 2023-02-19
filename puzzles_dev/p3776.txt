@@ -1,0 +1,5 @@
+7 8
+local 5 1 1
+slosh 2 3 1
+mogul 1 5 0
+humus 2 7 0

@@ -1,0 +1,5 @@
+7 10 hardmode
+clamp 2 1 0
+mangy 5 1 1
+retry 1 5 0
+tangy 3 5 1

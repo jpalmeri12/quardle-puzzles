@@ -1,0 +1,5 @@
+7 9 soundscramble
+weuve 1 1 0
+eqaul 2 1 1
+uffix 2 4 0
+foand 4 4 1

@@ -1,0 +1,5 @@
+7 9
+wince 5 1 1
+funky 3 4 1
+pause 1 5 0
+pygmy 2 8 0

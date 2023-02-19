@@ -1,0 +1,5 @@
+7 9 desync
+chide 1 1 1
+diode 1 4 0
+dwell 4 4 1
+kneed 2 6 0

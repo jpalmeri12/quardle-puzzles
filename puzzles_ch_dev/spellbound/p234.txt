@@ -1,0 +1,9 @@
+7 10 spellbound
+briar 6 1 1
+sewer 2 5 0
+warty 4 5 1
+gusto 1 8 0
+!spellbound 0 0 2
+!spellbound 1 3 1
+!spellbound 2 1 2
+!spellbound 3 0 4

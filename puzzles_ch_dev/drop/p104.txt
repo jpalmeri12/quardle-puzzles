@@ -1,0 +1,6 @@
+6 11 drop
+sheer 2 1 1
+chain 1 2 0
+skill 4 4 1
+brake 1 5 0
+shark 1 10 0

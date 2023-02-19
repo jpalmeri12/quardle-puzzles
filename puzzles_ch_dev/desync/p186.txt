@@ -1,0 +1,5 @@
+7 10 desync
+route 5 1 1
+album 2 3 0
+etude 1 5 0
+empty 1 5 1

@@ -1,0 +1,7 @@
+6 11 secretdistance
+afoul 1 1 0
+fungi 2 1 1
+skimp 4 4 1
+risky 1 5 0
+prior 1 10 0
+!sdpos 2 3 3 0

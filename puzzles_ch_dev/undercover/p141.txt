@@ -1,0 +1,6 @@
+6 11 undercover
+mummy 5 1 1
+bayou 1 2 0
+alarm 1 4 0
+label 2 4 1
+winch 1 10 0

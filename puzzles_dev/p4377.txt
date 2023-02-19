@@ -1,0 +1,5 @@
+7 10
+twice 1 1 1
+eater 1 5 0
+ramen 5 5 1
+preen 2 8 0

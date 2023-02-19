@@ -1,0 +1,8 @@
+6 8 twins
+rouge 1 1 0
+fanny 1 3 0
+purse 1 5 0
+brash 1 7 0
+!twins 2 3
+!twins 1 4
+!twins 1 4

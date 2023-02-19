@@ -1,0 +1,5 @@
+7 8 hardmode
+crate 6 1 1
+porch 4 3 1
+flout 2 4 0
+lynch 1 6 0

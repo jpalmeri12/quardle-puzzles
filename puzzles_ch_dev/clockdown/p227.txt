@@ -1,0 +1,5 @@
+7 8 clockdown
+seedy 2 1 1
+agent 5 3 1
+dingo 2 4 0
+inept 1 7 0

@@ -1,0 +1,5 @@
+7 10
+staid 5 1 1
+ahead 1 5 0
+eater 3 5 1
+tripe 2 9 0

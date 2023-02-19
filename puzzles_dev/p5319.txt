@@ -1,0 +1,5 @@
+7 8
+shear 4 1 1
+shack 2 3 1
+fairy 1 5 0
+karma 2 7 0

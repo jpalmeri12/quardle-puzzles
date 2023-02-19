@@ -1,0 +1,5 @@
+7 7 bestfit
+stove 5 1 1
+write 2 2 0
+ridge 3 2 1
+bugle 1 5 0

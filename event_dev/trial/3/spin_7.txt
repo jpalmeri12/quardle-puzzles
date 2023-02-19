@@ -1,0 +1,5 @@
+7 9 spin
+octet 1 1 0
+curse 2 1 1
+smote 2 4 0
+exact 6 4 1

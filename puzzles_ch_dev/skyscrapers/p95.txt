@@ -1,0 +1,5 @@
+7 10 skyscrapers
+think 2 5 0
+trunk 2 5 1
+juicy 1 7 0
+chili 4 1 1

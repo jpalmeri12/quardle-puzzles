@@ -1,0 +1,6 @@
+7 9 commonsecret
+tango 2 1 1
+gnash 1 3 0
+knead 6 4 1
+oaken 2 5 0
+!secret a

@@ -1,0 +1,5 @@
+6 7 reverse
+fable 4 1 1
+yllar 1 2 0
+luohg 2 2 1
+threw 1 5 0

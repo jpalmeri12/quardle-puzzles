@@ -1,0 +1,5 @@
+7 9 elbowroom
+uncle 5 1 1
+agent 2 2 0
+mammy 3 4 1
+chafe 1 5 0

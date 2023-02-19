@@ -1,0 +1,5 @@
+7 10 scrabble
+satyr 2 9 0
+harry 4 1 1
+polyp 1 5 0
+pushy 5 5 1

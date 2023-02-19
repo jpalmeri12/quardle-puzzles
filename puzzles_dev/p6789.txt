@@ -1,0 +1,5 @@
+7 7
+grate 4 1 1
+shaky 2 2 1
+heart 2 3 0
+skier 1 5 0

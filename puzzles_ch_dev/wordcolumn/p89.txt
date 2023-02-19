@@ -1,0 +1,6 @@
+7 10 wordcolumn
+radii 2 1 1
+brute 5 1 1
+aware 2 2 0
+midge 1 5 0
+gonad 4 5 1

@@ -1,0 +1,6 @@
+6 6 commonsecret
+scrub 1 1 0
+scuba 1 1 1
+blitz 5 1 1
+bloat 1 4 0
+!secret b

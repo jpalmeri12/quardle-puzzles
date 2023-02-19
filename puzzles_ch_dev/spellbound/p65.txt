@@ -1,0 +1,9 @@
+6 10 spellbound
+shoot 1 1 1
+thyme 1 5 0
+march 4 5 1
+knock 1 8 0
+!spellbound 0 1 2
+!spellbound 1 1 2
+!spellbound 2 2 1
+!spellbound 3 4 2

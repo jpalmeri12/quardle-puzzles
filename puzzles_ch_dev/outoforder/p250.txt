@@ -1,0 +1,5 @@
+7 10 outoforder
+torus 1 1 0
+satin 5 1 1
+going 2 5 0
+ovary 3 5 1

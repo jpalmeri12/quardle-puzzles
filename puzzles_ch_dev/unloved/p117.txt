@@ -1,0 +1,5 @@
+7 8 unloved
+chute 4 1 1
+crack 2 3 1
+crude 2 3 0
+gavel 1 5 0

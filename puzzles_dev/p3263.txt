@@ -1,0 +1,5 @@
+6 10
+sappy 2 1 1
+lynch 1 5 0
+lanky 1 5 1
+knelt 1 8 0

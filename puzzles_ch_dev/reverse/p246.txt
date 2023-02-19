@@ -1,0 +1,5 @@
+7 10 reverse
+opine 6 1 1
+gnike 2 5 0
+niart 3 5 1
+horde 1 8 0

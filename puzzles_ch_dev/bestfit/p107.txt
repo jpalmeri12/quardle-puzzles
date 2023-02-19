@@ -1,0 +1,5 @@
+7 9 bestfit
+lucky 6 1 1
+rarer 2 4 1
+apply 2 5 0
+delay 1 7 0

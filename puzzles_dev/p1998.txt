@@ -1,0 +1,5 @@
+6 9
+goody 2 1 1
+rogue 1 2 0
+adage 1 4 0
+graph 4 4 1

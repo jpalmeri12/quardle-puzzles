@@ -1,0 +1,7 @@
+6 12 secretdistance
+dress 1 1 1
+daunt 1 1 0
+slope 1 5 0
+eject 5 5 1
+chant 1 11 0
+!sdpos 1 3 0 0

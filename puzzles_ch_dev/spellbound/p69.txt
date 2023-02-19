@@ -1,0 +1,9 @@
+7 9 spellbound
+sloop 2 1 1
+still 2 1 0
+cough 1 4 0
+glove 4 4 1
+!spellbound 0 2 1
+!spellbound 1 2 3
+!spellbound 2 0 2
+!spellbound 3 3 1

@@ -1,0 +1,5 @@
+7 8 sweeper
+dummy 2 1 1
+agora 5 3 1
+among 1 4 0
+molar 2 7 0

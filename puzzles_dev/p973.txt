@@ -1,0 +1,5 @@
+6 9
+blimp 5 1 1
+golem 1 4 0
+locus 3 4 1
+saucy 1 7 0

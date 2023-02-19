@@ -1,0 +1,5 @@
+7 9 clockdown
+hippy 5 1 1
+scope 2 4 0
+crier 3 4 1
+breed 1 7 0

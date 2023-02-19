@@ -1,0 +1,6 @@
+7 9 drop
+beset 5 1 1
+ascot 2 2 1
+shush 2 3 0
+comet 1 5 0
+stash 1 8 0

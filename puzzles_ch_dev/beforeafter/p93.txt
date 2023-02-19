@@ -1,0 +1,9 @@
+7 9 beforeafter
+minus 1 1 0
+swoon 5 1 1
+agony 2 4 1
+giant 2 5 0
+!beforeafter 2 r
+!beforeafter 1 q
+!beforeafter 1 l
+!beforeafter 2 k

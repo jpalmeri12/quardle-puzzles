@@ -1,0 +1,5 @@
+7 10
+prose 5 1 1
+spore 2 2 0
+spool 1 5 1
+spine 1 5 0

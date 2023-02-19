@@ -1,0 +1,5 @@
+6 9 elbowroom
+alibi 1 1 0
+inept 5 1 1
+blimp 1 4 0
+incur 3 4 1

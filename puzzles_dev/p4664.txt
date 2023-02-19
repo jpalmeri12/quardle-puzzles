@@ -1,0 +1,5 @@
+6 7
+sandy 3 1 1
+spank 1 2 0
+kayak 5 2 1
+daddy 1 4 0

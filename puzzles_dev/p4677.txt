@@ -1,0 +1,5 @@
+6 7
+pride 3 1 1
+myrrh 1 2 0
+humor 5 2 1
+modem 1 4 0

@@ -1,0 +1,5 @@
+6 10 sweeper
+macro 2 1 1
+maxim 1 2 0
+cower 1 5 0
+crude 1 5 1

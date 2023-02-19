@@ -1,0 +1,5 @@
+7 9 reverse
+sleep 3 1 1
+clout 2 2 0
+rytas 1 4 1
+yppih 1 5 0

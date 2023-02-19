@@ -1,0 +1,5 @@
+7 10
+abbot 5 1 1
+worst 1 5 0
+olive 2 5 1
+inlay 2 7 0

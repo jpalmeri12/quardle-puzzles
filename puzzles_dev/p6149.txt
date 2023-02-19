@@ -1,0 +1,5 @@
+7 10
+smack 1 1 1
+kneed 1 5 0
+nutty 2 5 1
+trove 2 7 0

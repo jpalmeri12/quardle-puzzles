@@ -1,0 +1,5 @@
+6 8
+poser 5 1 1
+mucus 1 3 0
+using 2 3 1
+river 1 5 0

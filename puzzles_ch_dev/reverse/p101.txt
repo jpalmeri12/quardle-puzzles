@@ -1,0 +1,5 @@
+6 9 reverse
+deign 1 1 1
+epirt 1 2 0
+livac 4 4 1
+nadir 1 5 0

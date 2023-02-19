@@ -1,0 +1,5 @@
+6 9 duplicity
+reign 4 1 1
+agree 1 2 0
+barge 1 4 0
+brine 1 4 1

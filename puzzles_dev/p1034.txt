@@ -1,0 +1,5 @@
+7 9
+pecan 1 1 0
+agent 4 1 1
+minim 2 4 0
+musky 6 4 1

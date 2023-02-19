@@ -1,0 +1,7 @@
+7 11 secretdistance
+aping 4 1 1
+crypt 1 2 0
+month 2 4 0
+minus 2 4 1
+eagle 1 10 0
+!sdpos 2 1 2 0

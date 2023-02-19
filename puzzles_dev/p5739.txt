@@ -1,0 +1,5 @@
+6 9
+prong 1 1 1
+plied 1 1 0
+harry 4 4 1
+great 1 5 0

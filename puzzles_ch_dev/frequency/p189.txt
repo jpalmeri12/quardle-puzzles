@@ -1,0 +1,5 @@
+7 7 frequency
+datum 2 1 1
+macho 1 2 0
+hasty 4 2 1
+upset 2 4 0

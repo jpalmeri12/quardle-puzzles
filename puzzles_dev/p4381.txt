@@ -1,0 +1,5 @@
+7 8
+patio 5 1 1
+wager 2 3 1
+gloom 2 5 0
+prude 1 7 0

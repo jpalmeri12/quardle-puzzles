@@ -1,0 +1,5 @@
+6 10 fourscore
+spill 1 1 1
+leggy 1 5 0
+gnash 4 5 1
+gipsy 1 8 0

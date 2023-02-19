@@ -1,0 +1,6 @@
+7 10 island
+evict 5 1 1
+react 1 5 0
+cacao 4 5 1
+lucky 2 7 0
+!island 2111 311 111 221

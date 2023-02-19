@@ -1,0 +1,5 @@
+7 7 dblltr
+ditty 5 1 1
+mafia 2 2 0
+mecca 2 2 1
+octet 1 4 0

@@ -1,0 +1,5 @@
+7 10
+molar 1 1 0
+larva 3 1 1
+tango 2 5 0
+gruff 5 5 1

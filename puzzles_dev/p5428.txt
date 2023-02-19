@@ -1,0 +1,5 @@
+7 8
+quoth 2 1 1
+staid 4 3 1
+tatty 2 4 0
+randy 1 7 0

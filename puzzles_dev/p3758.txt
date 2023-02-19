@@ -1,0 +1,5 @@
+7 7
+showy 1 1 1
+crane 3 2 1
+wrack 1 4 0
+helix 2 6 0

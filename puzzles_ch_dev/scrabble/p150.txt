@@ -1,0 +1,5 @@
+7 10 scrabble
+scene 5 1 1
+inlay 4 5 1
+shied 2 5 0
+polyp 1 9 0

@@ -1,0 +1,9 @@
+7 8 beforeafter
+adept 6 1 1
+tonal 4 3 1
+troop 2 4 0
+rural 1 6 0
+!beforeafter 2 o
+!beforeafter 2 m
+!beforeafter 1 q
+!beforeafter 2 q

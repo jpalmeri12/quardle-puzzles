@@ -1,0 +1,5 @@
+7 9
+qualm 4 1 1
+relay 1 3 0
+south 6 4 1
+mambo 2 5 0

@@ -1,0 +1,5 @@
+6 9
+dozen 5 1 1
+lingo 1 2 0
+reuse 1 4 0
+unfed 3 4 1

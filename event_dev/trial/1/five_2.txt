@@ -1,0 +1,6 @@
+7 10 five
+serum 4 1 1
+humus 2 5 0
+uncut 3 5 1
+usage 5 5 1
+swung 1 8 0

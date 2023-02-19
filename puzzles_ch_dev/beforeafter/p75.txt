@@ -1,0 +1,9 @@
+6 8 beforeafter
+steal 2 1 1
+hefty 1 3 0
+towel 4 3 1
+clown 1 5 0
+!beforeafter 1 m
+!beforeafter 2 l
+!beforeafter 2 m
+!beforeafter 1 m

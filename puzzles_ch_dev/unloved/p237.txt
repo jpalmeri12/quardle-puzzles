@@ -1,0 +1,5 @@
+6 9 unloved
+known 1 1 1
+ninja 1 2 0
+wispy 1 4 0
+smelt 3 4 1

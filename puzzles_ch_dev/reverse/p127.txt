@@ -1,0 +1,5 @@
+7 9 reverse
+lugom 5 1 1
+folio 1 4 0
+lepal 3 4 1
+haste 2 7 0

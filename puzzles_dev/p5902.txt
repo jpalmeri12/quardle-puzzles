@@ -1,0 +1,5 @@
+6 7
+verge 1 1 1
+elude 1 2 0
+usurp 3 2 1
+earth 1 5 0

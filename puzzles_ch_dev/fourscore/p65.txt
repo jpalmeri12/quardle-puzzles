@@ -1,0 +1,5 @@
+7 9 fourscore
+swami 4 1 1
+slung 2 4 1
+lying 2 5 0
+snack 1 7 0

@@ -1,0 +1,5 @@
+6 6 darkness
+plume 2 1 1
+egret 5 1 1
+cling 1 2 0
+emcee 1 4 0

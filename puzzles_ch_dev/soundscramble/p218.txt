@@ -1,0 +1,5 @@
+7 10 soundscramble
+cobru 4 1 1
+shume 2 5 0
+moath 5 5 1
+plash 1 9 0

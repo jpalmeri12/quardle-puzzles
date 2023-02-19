@@ -1,0 +1,5 @@
+7 9 invention
+reach 4 1 1
+wheat 2 2 0
+which 1 4 0
+horny 2 4 1

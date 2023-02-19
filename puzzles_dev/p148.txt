@@ -1,0 +1,5 @@
+7 10
+froth 1 1 0
+trout 4 1 1
+notch 2 5 0
+caste 5 5 1

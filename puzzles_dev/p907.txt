@@ -1,0 +1,5 @@
+7 9
+biome 1 1 0
+omega 3 1 1
+salad 6 4 1
+larva 2 5 0

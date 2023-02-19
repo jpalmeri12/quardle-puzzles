@@ -1,0 +1,5 @@
+7 9 buyavowel
+satyr 6 1 1
+caddy 2 4 0
+cacti 2 4 1
+stave 1 7 0

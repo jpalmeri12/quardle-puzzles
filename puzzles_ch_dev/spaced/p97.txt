@@ -1,0 +1,5 @@
+7 9 spaced
+forty 6 1 1
+scalp 4 4 1
+picky 2 5 0
+burly 1 7 0

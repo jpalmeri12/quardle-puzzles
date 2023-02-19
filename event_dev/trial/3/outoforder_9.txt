@@ -1,0 +1,5 @@
+7 10 outoforder
+poser 4 1 1
+gnome 2 2 0
+hydro 1 5 0
+dying 3 5 1

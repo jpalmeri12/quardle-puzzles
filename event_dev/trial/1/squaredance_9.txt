@@ -1,0 +1,6 @@
+6 8 squaredance
+brash 1 1 1
+ninny 5 1 1
+bacon 1 1 0
+hilly 1 5 0
+quota 1 7 0

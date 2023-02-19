@@ -1,0 +1,5 @@
+7 9 hardmode
+glean 4 1 1
+islet 2 2 0
+aside 1 4 1
+stint 1 5 0

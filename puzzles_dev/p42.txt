@@ -1,0 +1,5 @@
+7 9
+filth 4 1 1
+spite 2 2 0
+sixth 1 4 0
+idiom 2 4 1

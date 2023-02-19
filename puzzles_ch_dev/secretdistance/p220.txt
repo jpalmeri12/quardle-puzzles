@@ -1,0 +1,7 @@
+6 10 secretdistance
+pulpy 3 1 1
+bloat 1 3 1
+bulge 1 3 0
+trial 1 7 0
+meaty 1 9 0
+!sdpos 2 3 2 2

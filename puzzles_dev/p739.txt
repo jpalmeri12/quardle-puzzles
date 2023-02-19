@@ -1,0 +1,5 @@
+7 9
+whirl 2 1 1
+rinse 1 3 0
+early 6 4 1
+llama 2 5 0

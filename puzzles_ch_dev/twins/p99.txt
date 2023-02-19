@@ -1,0 +1,8 @@
+6 8 twins
+naive 1 1 0
+oxide 1 3 0
+furor 1 5 0
+gusto 1 7 0
+!twins 2 4
+!twins 0 2
+!twins 0 2

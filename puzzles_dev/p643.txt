@@ -1,0 +1,5 @@
+6 6
+clamp 1 1 0
+chuck 1 1 1
+mucky 4 1 1
+choke 1 4 0

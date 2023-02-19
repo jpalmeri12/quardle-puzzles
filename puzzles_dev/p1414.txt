@@ -1,0 +1,5 @@
+6 10
+thick 2 1 1
+skate 1 5 0
+envoy 5 5 1
+goofy 1 9 0

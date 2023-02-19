@@ -1,0 +1,5 @@
+6 9 darkness
+idler 4 4 1
+fauna 2 1 1
+dandy 1 5 0
+cobra 1 8 0

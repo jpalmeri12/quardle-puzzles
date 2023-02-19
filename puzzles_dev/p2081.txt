@@ -1,0 +1,5 @@
+7 10
+lefty 3 1 1
+foyer 1 5 0
+revel 5 5 1
+suave 2 7 0

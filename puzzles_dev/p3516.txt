@@ -1,0 +1,5 @@
+7 8
+gulch 5 1 1
+exalt 3 3 1
+swash 1 5 0
+stork 2 7 0

@@ -1,0 +1,5 @@
+7 10 invention
+poser 4 1 1
+spook 1 2 0
+parry 2 5 0
+awoke 3 5 1

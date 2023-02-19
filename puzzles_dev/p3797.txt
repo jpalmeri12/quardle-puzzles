@@ -1,0 +1,5 @@
+6 8
+covet 5 1 1
+hussy 3 3 1
+posit 1 5 0
+wryly 1 7 0

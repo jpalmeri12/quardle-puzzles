@@ -1,0 +1,6 @@
+6 9 island
+gross 1 1 0
+shone 5 1 1
+naive 3 4 1
+place 1 5 0
+!island 1111 221 11111 2111

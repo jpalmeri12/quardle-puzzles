@@ -1,0 +1,5 @@
+6 7
+waive 2 1 1
+valet 1 2 0
+elide 4 2 1
+avail 1 4 0

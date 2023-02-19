@@ -1,0 +1,5 @@
+7 8
+print 2 1 1
+poppy 2 1 0
+wiser 1 3 0
+exult 4 3 1

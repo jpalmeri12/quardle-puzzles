@@ -1,0 +1,9 @@
+7 9 beforeafter
+staff 1 1 1
+vying 5 4 1
+fiery 1 5 0
+judge 2 8 0
+!beforeafter 1 r
+!beforeafter 1 o
+!beforeafter 2 p
+!beforeafter 1 i

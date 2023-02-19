@@ -1,0 +1,5 @@
+7 9
+plume 5 1 1
+stoop 3 4 1
+lathe 1 5 0
+speck 2 8 0

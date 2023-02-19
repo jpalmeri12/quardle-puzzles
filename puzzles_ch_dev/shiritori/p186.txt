@@ -1,0 +1,5 @@
+7 9 shiritori
+basis 5 1 1
+salsa 1 2 0
+logic 2 4 0
+leery 2 4 1

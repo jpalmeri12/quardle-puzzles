@@ -1,0 +1,5 @@
+7 10 swap
+aolne 1 1 0
+lumyp 3 1 1
+ogdly 2 5 1
+opser 2 5 0

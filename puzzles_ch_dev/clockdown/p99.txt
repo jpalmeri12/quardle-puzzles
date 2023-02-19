@@ -1,0 +1,5 @@
+7 9 clockdown
+forty 6 1 1
+ascot 2 4 0
+shawl 3 4 1
+trail 1 6 0

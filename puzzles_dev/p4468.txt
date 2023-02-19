@@ -1,0 +1,5 @@
+7 10
+posse 4 1 1
+tepee 1 5 0
+poesy 3 5 1
+aside 2 8 0

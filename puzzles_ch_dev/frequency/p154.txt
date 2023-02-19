@@ -1,0 +1,5 @@
+7 9 frequency
+joust 1 1 1
+shrug 1 4 0
+gusty 5 4 1
+sixth 2 7 0

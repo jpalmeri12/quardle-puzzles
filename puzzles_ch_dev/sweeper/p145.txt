@@ -1,0 +1,5 @@
+6 7 sweeper
+began 2 1 1
+feral 1 2 0
+lilac 5 2 1
+fatal 1 4 0

@@ -1,0 +1,5 @@
+7 9 fourscore
+unset 4 1 1
+dense 2 2 0
+brain 2 4 1
+froth 1 5 0

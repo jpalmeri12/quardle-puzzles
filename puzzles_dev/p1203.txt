@@ -1,0 +1,5 @@
+6 9
+fibre 2 1 1
+brisk 1 4 0
+shalt 4 4 1
+worth 1 8 0

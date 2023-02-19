@@ -1,0 +1,5 @@
+7 10 soundscramble
+blend 5 1 1
+unwid 1 5 0
+wheti 3 5 1
+sirvi 2 9 0

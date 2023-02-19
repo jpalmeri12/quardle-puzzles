@@ -1,0 +1,5 @@
+7 8
+frond 1 1 0
+raspy 2 1 1
+foggy 4 3 1
+prove 2 4 0

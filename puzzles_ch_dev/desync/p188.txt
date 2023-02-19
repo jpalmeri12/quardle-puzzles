@@ -1,0 +1,5 @@
+7 8 desync
+uncut 2 1 1
+usher 2 1 0
+scold 1 3 0
+loyal 4 3 1

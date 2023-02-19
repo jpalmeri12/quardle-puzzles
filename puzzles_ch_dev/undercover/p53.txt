@@ -1,0 +1,6 @@
+6 9 undercover
+cyber 5 1 1
+fishy 1 2 0
+sworn 3 2 1
+close 1 4 0
+guava 1 8 0

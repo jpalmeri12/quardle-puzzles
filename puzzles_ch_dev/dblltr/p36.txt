@@ -1,0 +1,5 @@
+7 10 dblltr
+every 4 1 1
+drama 2 5 1
+dryly 2 5 0
+caddy 1 7 0

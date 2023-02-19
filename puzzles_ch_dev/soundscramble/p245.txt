@@ -1,0 +1,5 @@
+7 9 soundscramble
+lavar 2 1 1
+circe 5 4 1
+rebid 2 5 0
+egore 1 8 0

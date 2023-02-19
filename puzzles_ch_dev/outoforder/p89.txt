@@ -1,0 +1,5 @@
+7 10 outoforder
+mecca 2 1 1
+chock 2 3 0
+lapse 1 5 0
+lithe 1 5 1

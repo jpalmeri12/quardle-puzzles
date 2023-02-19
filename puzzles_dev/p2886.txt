@@ -1,0 +1,5 @@
+7 9
+beefy 4 1 1
+gleam 2 2 0
+drift 1 4 0
+dumpy 1 4 1

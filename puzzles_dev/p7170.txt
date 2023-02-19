@@ -1,0 +1,5 @@
+7 10
+stole 5 1 1
+trade 1 5 0
+among 3 5 1
+rotor 2 7 0

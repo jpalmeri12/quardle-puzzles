@@ -1,0 +1,6 @@
+7 9 commonsecret
+cairn 5 1 1
+actor 1 4 0
+cleat 2 4 1
+antic 2 7 0
+!secret c

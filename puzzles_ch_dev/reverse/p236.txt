@@ -1,0 +1,5 @@
+6 7 reverse
+moidi 1 1 1
+ocean 1 2 0
+edins 3 2 1
+ionic 1 5 0

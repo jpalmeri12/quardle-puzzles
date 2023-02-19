@@ -1,0 +1,5 @@
+7 10
+hazel 2 1 1
+hotly 2 1 0
+clear 1 5 0
+carve 1 5 1

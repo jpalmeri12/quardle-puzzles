@@ -1,0 +1,5 @@
+7 10
+below 2 1 1
+genie 1 2 0
+whale 2 5 0
+humid 3 5 1

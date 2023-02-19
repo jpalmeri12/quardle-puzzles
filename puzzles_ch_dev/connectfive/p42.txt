@@ -1,0 +1,6 @@
+7 10 connectfive
+agate 6 1 1
+debug 3 2 1
+judge 2 5 0
+guest 5 5 1
+yacht 1 9 0

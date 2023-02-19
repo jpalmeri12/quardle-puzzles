@@ -1,0 +1,5 @@
+6 10 darkness
+papal 1 5 0
+rumba 1 7 0
+leapt 5 5 1
+chirp 3 1 1

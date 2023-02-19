@@ -1,0 +1,5 @@
+6 9 beta
+flush 1 1 1
+flank 1 1 0
+sower 1 4 0
+entry 4 4 1

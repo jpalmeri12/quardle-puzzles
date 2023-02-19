@@ -1,0 +1,5 @@
+7 10
+raspy 5 1 1
+vinyl 2 5 0
+natal 4 5 1
+spill 1 9 0

@@ -1,0 +1,5 @@
+7 10
+leant 4 1 1
+fifth 1 5 0
+ionic 2 5 1
+nicer 2 7 0

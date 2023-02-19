@@ -1,0 +1,6 @@
+6 12 five
+ranch 5 1 1
+droit 1 5 1
+death 1 5 0
+sound 4 7 1
+trout 1 9 0

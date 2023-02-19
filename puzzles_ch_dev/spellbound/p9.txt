@@ -1,0 +1,9 @@
+7 10 spellbound
+bicep 2 1 1
+apart 1 5 0
+today 5 5 1
+cacao 2 8 0
+!spellbound 0 0 2
+!spellbound 1 2 0
+!spellbound 2 2 4
+!spellbound 3 4 1

@@ -1,0 +1,6 @@
+7 11 undercover
+adobe 1 1 1
+bowel 1 4 0
+worse 3 4 1
+grace 2 6 0
+fifty 1 10 0

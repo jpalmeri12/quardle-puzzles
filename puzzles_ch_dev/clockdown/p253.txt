@@ -1,0 +1,5 @@
+6 7 clockdown
+aroma 2 1 1
+arise 1 2 0
+shank 4 2 1
+paint 1 5 0

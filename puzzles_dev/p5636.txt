@@ -1,0 +1,5 @@
+6 10
+ozone 2 1 1
+pecan 1 5 0
+plier 1 5 1
+robot 1 9 0

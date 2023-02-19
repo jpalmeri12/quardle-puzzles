@@ -1,0 +1,8 @@
+6 8 twins
+wheat 1 1 0
+smite 1 3 0
+crone 1 5 0
+timer 1 7 0
+!twins 0 2
+!twins 2 3
+!twins 1 3

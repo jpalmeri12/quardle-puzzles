@@ -1,0 +1,6 @@
+6 9 five
+twice 4 1 1
+brawn 1 2 0
+reach 1 4 0
+erect 2 4 1
+stank 1 8 0

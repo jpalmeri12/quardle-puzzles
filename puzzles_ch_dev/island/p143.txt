@@ -1,0 +1,6 @@
+7 10 island
+gazer 5 1 1
+waltz 1 3 0
+tiara 2 5 0
+abate 4 5 1
+!island 221 311 211 1111

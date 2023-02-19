@@ -1,0 +1,5 @@
+7 10
+mushy 2 1 0
+meter 2 1 1
+frisk 1 5 0
+surer 4 5 1

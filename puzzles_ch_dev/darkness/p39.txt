@@ -1,0 +1,5 @@
+7 10 darkness
+slosh 4 5 1
+reuse 5 1 1
+owner 2 2 0
+dense 1 5 0

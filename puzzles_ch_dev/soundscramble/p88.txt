@@ -1,0 +1,5 @@
+7 9 soundscramble
+hibat 5 1 1
+omegi 1 2 0
+thear 2 4 0
+hirem 3 4 1

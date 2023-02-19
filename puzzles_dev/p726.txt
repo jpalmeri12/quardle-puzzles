@@ -1,0 +1,5 @@
+7 9
+skunk 5 1 1
+phony 3 4 1
+shake 2 5 0
+slyly 1 8 0

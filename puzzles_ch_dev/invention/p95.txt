@@ -1,0 +1,5 @@
+6 8 invention
+quasi 2 1 1
+layer 5 3 1
+silky 1 5 0
+polar 1 7 0

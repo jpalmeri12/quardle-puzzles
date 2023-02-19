@@ -1,0 +1,5 @@
+7 9
+groin 6 1 1
+quasi 2 4 0
+aglow 4 4 1
+amply 1 6 0

@@ -1,0 +1,5 @@
+7 7 unloved
+edify 5 1 1
+aside 2 2 0
+soggy 3 2 1
+cagey 1 5 0

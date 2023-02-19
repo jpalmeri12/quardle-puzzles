@@ -1,0 +1,7 @@
+6 6 fourthwall
+alpha 1 1 0
+alter 1 1 1
+tiger 1 3 0
+piggy 3 1 1
+rhyme 1 5 0
+agree 5 1 1

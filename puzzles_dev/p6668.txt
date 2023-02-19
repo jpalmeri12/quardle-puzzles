@@ -1,0 +1,5 @@
+7 10
+clump 2 1 1
+judge 1 3 0
+paste 2 5 0
+tight 5 5 1

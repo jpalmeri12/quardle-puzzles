@@ -1,0 +1,5 @@
+6 9 unloved
+clerk 4 1 1
+shalt 1 2 0
+diary 1 4 0
+ingot 2 4 1

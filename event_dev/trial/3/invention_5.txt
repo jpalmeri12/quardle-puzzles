@@ -1,0 +1,5 @@
+7 10 invention
+crump 4 1 1
+druid 2 3 0
+lumpy 1 5 0
+lever 1 5 1

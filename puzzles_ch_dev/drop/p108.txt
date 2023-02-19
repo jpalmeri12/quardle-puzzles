@@ -1,0 +1,6 @@
+6 11 drop
+black 4 1 1
+shell 1 2 0
+stack 1 4 0
+twine 2 4 1
+hotel 1 10 0

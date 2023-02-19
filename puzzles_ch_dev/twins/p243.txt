@@ -1,0 +1,8 @@
+6 8 twins
+comma 1 1 0
+beach 1 3 0
+knock 1 5 0
+demur 1 7 0
+!twins 1 3
+!twins 0 1
+!twins 0 4

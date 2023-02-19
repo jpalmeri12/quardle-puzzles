@@ -1,0 +1,5 @@
+6 8
+super 1 1 0
+rifle 5 1 1
+minus 3 3 1
+skill 1 4 0

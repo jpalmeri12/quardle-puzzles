@@ -1,0 +1,6 @@
+6 10 undercover
+blond 1 1 0
+dying 5 1 1
+anime 3 3 1
+sling 1 5 0
+chuck 1 9 0

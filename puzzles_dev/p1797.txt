@@ -1,0 +1,5 @@
+7 7
+shore 1 1 0
+haute 2 1 1
+gully 6 2 1
+trawl 2 4 0

@@ -1,0 +1,5 @@
+7 9 sweeper
+gamut 6 1 1
+waxen 4 4 1
+react 2 5 0
+elder 1 7 0

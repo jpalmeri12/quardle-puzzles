@@ -1,0 +1,6 @@
+6 6 commonsecret
+color 2 1 1
+prowl 4 1 1
+floor 1 3 0
+grill 1 5 0
+!secret r

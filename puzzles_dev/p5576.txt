@@ -1,0 +1,5 @@
+7 10
+beady 4 1 1
+loyal 2 5 0
+ovate 3 5 1
+beach 1 7 0

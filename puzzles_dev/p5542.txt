@@ -1,0 +1,5 @@
+7 10
+kneel 1 1 1
+local 1 5 0
+odder 2 5 1
+dough 2 7 0

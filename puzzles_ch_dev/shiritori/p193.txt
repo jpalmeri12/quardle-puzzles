@@ -1,0 +1,5 @@
+7 9 shiritori
+quota 1 1 0
+treat 4 1 1
+grain 2 4 0
+ninth 6 4 1

@@ -1,0 +1,5 @@
+7 9 elbowroom
+shelf 1 1 1
+stout 4 4 1
+faith 1 5 0
+patch 2 8 0

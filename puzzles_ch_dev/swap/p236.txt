@@ -1,0 +1,5 @@
+7 10 swap
+awkae 5 1 1
+tewed 2 5 0
+wrnig 4 5 1
+cmuin 1 8 0

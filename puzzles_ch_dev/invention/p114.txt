@@ -1,0 +1,5 @@
+7 9 invention
+pleat 1 1 0
+laugh 2 1 1
+girly 2 4 0
+reuse 4 4 1

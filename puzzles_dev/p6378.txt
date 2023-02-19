@@ -1,0 +1,5 @@
+7 10
+binge 2 1 0
+gauze 5 1 1
+aisle 1 5 0
+lemon 4 5 1

@@ -1,0 +1,5 @@
+7 9
+stair 6 1 1
+ennui 2 4 0
+extol 2 4 1
+morph 1 7 0

@@ -1,0 +1,5 @@
+6 10 dblltr
+lease 1 1 0
+sense 4 1 1
+egret 1 5 0
+groom 2 5 1

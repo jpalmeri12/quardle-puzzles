@@ -1,0 +1,5 @@
+7 9 hardmode
+minim 4 1 1
+given 2 4 1
+sigma 1 5 0
+nudge 2 8 0

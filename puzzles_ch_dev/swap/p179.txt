@@ -1,0 +1,5 @@
+6 7 swap
+atlly 5 1 1
+lusyt 1 2 0
+silet 3 2 1
+stlal 1 4 0

@@ -1,0 +1,5 @@
+7 10 desync
+logic 4 1 1
+dicey 2 5 0
+idler 3 5 1
+rally 1 7 0

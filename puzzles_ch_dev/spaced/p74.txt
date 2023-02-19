@@ -1,0 +1,5 @@
+7 9 spaced
+quasi 4 1 1
+focus 1 2 0
+leant 6 4 1
+slice 2 5 0

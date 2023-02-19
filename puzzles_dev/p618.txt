@@ -1,0 +1,5 @@
+7 9
+vouch 2 1 0
+ulcer 4 1 1
+video 1 4 0
+index 2 4 1

@@ -1,0 +1,5 @@
+6 7
+fella 5 1 1
+false 1 2 0
+loamy 3 2 1
+mamma 1 5 0

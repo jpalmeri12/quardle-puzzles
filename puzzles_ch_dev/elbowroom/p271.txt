@@ -1,0 +1,5 @@
+6 8 elbowroom
+unzip 1 1 0
+nomad 2 1 1
+lynch 5 3 1
+early 1 4 0

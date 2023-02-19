@@ -1,0 +1,5 @@
+7 9 soundscramble
+cevoy 5 1 1
+ashon 2 4 1
+ossay 1 5 0
+olepo 2 7 0

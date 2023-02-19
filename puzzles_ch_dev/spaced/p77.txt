@@ -1,0 +1,5 @@
+7 10 spaced
+paler 3 1 1
+crypt 2 5 1
+cream 2 5 0
+lyric 1 7 0

@@ -1,0 +1,5 @@
+7 10 outoforder
+theta 4 1 1
+amass 2 5 0
+midst 3 5 1
+raspy 1 8 0

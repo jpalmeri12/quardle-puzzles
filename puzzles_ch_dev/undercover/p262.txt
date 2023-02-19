@@ -1,0 +1,6 @@
+7 12 undercover
+ashen 1 1 0
+shelf 2 1 1
+frock 2 5 0
+react 3 5 1
+pudgy 1 11 0

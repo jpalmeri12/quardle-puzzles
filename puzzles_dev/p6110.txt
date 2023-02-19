@@ -1,0 +1,5 @@
+7 9
+abate 5 1 1
+jumbo 2 2 0
+aloof 2 4 1
+blare 1 5 0

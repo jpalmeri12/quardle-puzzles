@@ -1,0 +1,6 @@
+6 10 connectfive
+forge 2 1 1
+gamer 5 2 1
+hedge 1 5 0
+doubt 3 5 1
+ember 1 8 0

@@ -1,0 +1,5 @@
+7 7 swap
+ivoyr 5 1 1
+iseve 2 2 0
+sclad 3 2 1
+goldy 1 4 0

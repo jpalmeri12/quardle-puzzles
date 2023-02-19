@@ -1,0 +1,5 @@
+7 10
+globe 3 1 1
+bulky 1 2 0
+seize 2 5 0
+zebra 5 5 1

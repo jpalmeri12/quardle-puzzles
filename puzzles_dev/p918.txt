@@ -1,0 +1,5 @@
+7 7
+scree 2 1 1
+scour 1 2 0
+rider 5 2 1
+ester 2 5 0

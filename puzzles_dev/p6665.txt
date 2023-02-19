@@ -1,0 +1,5 @@
+7 8
+parry 5 1 1
+smart 2 3 0
+mummy 3 3 1
+jumpy 1 5 0

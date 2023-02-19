@@ -1,0 +1,5 @@
+6 7 fourscore
+dogma 1 1 1
+shirt 5 2 1
+glyph 1 3 0
+arbor 1 5 0

@@ -1,0 +1,5 @@
+6 8
+sewer 3 1 1
+power 1 3 0
+rainy 5 3 1
+crazy 1 7 0

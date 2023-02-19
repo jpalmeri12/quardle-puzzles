@@ -1,0 +1,5 @@
+6 9
+gazer 1 1 0
+rivet 5 1 1
+heave 1 4 0
+aback 3 4 1

@@ -1,0 +1,5 @@
+7 10 soundscramble
+cebic 2 1 1
+geust 1 2 0
+chant 2 5 0
+nurvu 5 5 1

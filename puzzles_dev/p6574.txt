@@ -1,0 +1,5 @@
+7 8
+alive 5 1 1
+snuck 3 3 1
+abuse 1 5 0
+skirt 2 7 0

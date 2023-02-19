@@ -1,0 +1,5 @@
+7 10
+psalm 5 1 1
+squat 2 3 0
+cream 1 5 0
+coral 1 5 1

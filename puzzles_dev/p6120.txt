@@ -1,0 +1,5 @@
+6 9
+feral 5 1 1
+fibre 3 4 1
+grill 1 5 0
+farce 1 7 0

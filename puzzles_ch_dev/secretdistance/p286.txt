@@ -1,0 +1,7 @@
+7 11 secretdistance
+inbox 1 1 0
+outgo 4 1 1
+islet 2 4 1
+shout 2 5 0
+flung 1 10 0
+!sdpos 3 0 1 1

@@ -1,0 +1,5 @@
+7 10 duplicity
+rabbi 4 1 1
+debar 1 2 0
+abide 2 5 0
+dress 5 5 1

@@ -1,0 +1,5 @@
+6 9 sweeper
+decoy 1 1 0
+cream 3 1 1
+dealt 1 4 0
+titan 5 4 1

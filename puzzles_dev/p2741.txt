@@ -1,0 +1,5 @@
+7 10
+crazy 2 1 0
+cynic 2 1 1
+score 1 5 0
+owing 3 5 1

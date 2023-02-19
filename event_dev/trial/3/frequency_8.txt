@@ -1,0 +1,5 @@
+7 7 frequency
+talon 5 1 1
+jumpy 3 2 1
+quilt 2 3 0
+ripen 1 5 0

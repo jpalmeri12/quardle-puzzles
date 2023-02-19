@@ -1,0 +1,5 @@
+7 9 skyscrapers
+skier 2 5 0
+stank 3 1 1
+petty 1 2 0
+crest 6 4 1

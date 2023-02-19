@@ -1,0 +1,5 @@
+6 7
+slosh 4 1 1
+scold 1 2 0
+stash 1 2 1
+sight 1 5 0

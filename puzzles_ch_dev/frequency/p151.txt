@@ -1,0 +1,5 @@
+7 7 frequency
+amble 6 1 1
+seven 4 2 1
+gavel 2 4 0
+trunk 1 6 0

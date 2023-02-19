@@ -1,0 +1,9 @@
+7 10 beforeafter
+voila 3 1 1
+amass 1 5 0
+mossy 2 5 1
+stoke 2 8 0
+!beforeafter 1 m
+!beforeafter 2 q
+!beforeafter 1 q
+!beforeafter 1 q

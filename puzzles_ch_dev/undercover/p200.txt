@@ -1,0 +1,6 @@
+6 9 undercover
+infer 5 1 1
+chase 1 2 1
+chain 1 2 0
+anode 1 4 0
+pygmy 1 8 0

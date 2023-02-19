@@ -1,0 +1,5 @@
+6 6
+fable 1 1 0
+aglow 2 1 1
+expel 5 1 1
+dwell 1 5 0

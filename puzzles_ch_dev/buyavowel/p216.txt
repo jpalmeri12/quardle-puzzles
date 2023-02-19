@@ -1,0 +1,5 @@
+7 10 buyavowel
+safer 3 1 1
+chair 1 2 0
+crisp 2 5 0
+shady 5 5 1

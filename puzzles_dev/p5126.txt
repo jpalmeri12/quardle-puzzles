@@ -1,0 +1,5 @@
+7 10
+abate 2 1 1
+recur 1 5 0
+cabby 3 5 1
+abase 2 7 0

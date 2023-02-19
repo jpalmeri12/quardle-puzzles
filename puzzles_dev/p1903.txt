@@ -1,0 +1,5 @@
+7 9
+labor 3 1 1
+manic 2 2 0
+swoop 1 4 0
+purer 5 4 1

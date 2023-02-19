@@ -1,0 +1,5 @@
+7 8
+strap 5 1 1
+sober 1 3 0
+ought 2 3 1
+tramp 2 7 0

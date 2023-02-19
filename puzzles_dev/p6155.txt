@@ -1,0 +1,5 @@
+7 8
+spiel 6 1 1
+spoof 4 3 1
+ghoul 2 5 0
+beefy 1 7 0

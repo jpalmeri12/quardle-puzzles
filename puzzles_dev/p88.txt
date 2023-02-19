@@ -1,0 +1,5 @@
+6 9
+chess 3 1 1
+ether 1 2 0
+beset 1 4 0
+tarot 5 4 1

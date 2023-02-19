@@ -1,0 +1,5 @@
+7 9
+elude 6 1 1
+breed 2 4 0
+buxom 2 4 1
+extra 1 6 0

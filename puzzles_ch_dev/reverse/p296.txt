@@ -1,0 +1,5 @@
+7 9 reverse
+eaten 2 1 1
+yaled 1 2 0
+retaw 5 4 1
+nosey 2 5 0

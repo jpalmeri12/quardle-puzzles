@@ -1,0 +1,5 @@
+6 7 darkness
+ester 1 2 0
+snaky 2 2 1
+verve 4 1 1
+salvo 1 4 0

@@ -1,0 +1,5 @@
+6 7 outoforder
+slyly 3 1 1
+delta 1 2 0
+dying 1 2 1
+igloo 1 4 0

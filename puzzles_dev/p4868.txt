@@ -1,0 +1,5 @@
+7 9
+email 4 1 1
+crump 1 2 0
+sniff 2 4 0
+stood 2 4 1

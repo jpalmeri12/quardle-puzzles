@@ -1,0 +1,5 @@
+6 9
+moody 3 1 1
+blood 1 2 0
+dodgy 1 4 0
+dogma 1 4 1

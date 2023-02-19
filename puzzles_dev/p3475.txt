@@ -1,0 +1,5 @@
+7 10
+forge 2 1 1
+radio 2 3 0
+realm 1 5 0
+ruler 1 5 1

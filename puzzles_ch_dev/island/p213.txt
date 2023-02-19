@@ -1,0 +1,6 @@
+7 10 island
+stake 2 1 1
+tower 2 2 0
+feast 1 5 0
+audit 3 5 1
+!island 311 41 32 2111

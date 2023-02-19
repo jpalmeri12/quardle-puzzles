@@ -1,0 +1,5 @@
+7 9 outoforder
+trove 5 1 1
+retry 2 2 0
+abase 2 4 1
+abode 1 5 0

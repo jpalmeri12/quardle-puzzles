@@ -1,0 +1,5 @@
+6 9 bestfit
+maple 3 1 1
+aback 1 2 0
+colon 1 4 0
+crane 1 4 1

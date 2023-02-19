@@ -1,0 +1,5 @@
+7 8
+filth 6 1 1
+timer 4 3 1
+stint 2 4 0
+cover 1 6 0

@@ -1,0 +1,5 @@
+6 9
+stool 2 1 1
+pooch 1 4 0
+chute 4 4 1
+fleet 1 8 0

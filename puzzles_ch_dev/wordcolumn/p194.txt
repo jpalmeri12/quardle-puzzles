@@ -1,0 +1,6 @@
+7 9 wordcolumn
+annul 4 1 1
+stung 1 3 0
+tabby 2 3 1
+swami 6 4 1
+bylaw 2 5 0

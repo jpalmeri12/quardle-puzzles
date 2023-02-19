@@ -1,0 +1,5 @@
+7 9 reverse
+inert 2 1 1
+knuhc 1 2 0
+revel 2 4 0
+llirk 6 4 1

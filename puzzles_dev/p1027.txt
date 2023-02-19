@@ -1,0 +1,5 @@
+7 9
+setup 6 1 1
+probe 4 4 1
+scrap 2 5 0
+lobby 1 7 0

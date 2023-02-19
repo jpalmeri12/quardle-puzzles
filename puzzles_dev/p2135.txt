@@ -1,0 +1,5 @@
+6 9
+troop 3 1 1
+chore 1 4 0
+climb 1 4 1
+mania 1 7 0

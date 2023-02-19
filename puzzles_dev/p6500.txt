@@ -1,0 +1,5 @@
+7 10
+grade 5 1 1
+wedge 1 5 0
+great 4 5 1
+soapy 2 8 0

@@ -1,0 +1,5 @@
+7 10 frequency
+plumb 5 1 1
+ficus 2 3 0
+blurb 1 5 0
+udder 3 5 1

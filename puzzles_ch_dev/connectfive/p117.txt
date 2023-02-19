@@ -1,0 +1,6 @@
+7 10 connectfive
+mafia 5 1 1
+algae 2 2 0
+rehab 2 5 0
+rapid 2 5 1
+optic 1 7 0

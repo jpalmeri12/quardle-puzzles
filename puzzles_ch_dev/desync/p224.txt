@@ -1,0 +1,5 @@
+7 10 desync
+stork 6 1 1
+prank 2 5 0
+align 4 5 1
+livid 1 7 0

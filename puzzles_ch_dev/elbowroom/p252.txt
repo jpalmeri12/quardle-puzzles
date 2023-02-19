@@ -1,0 +1,5 @@
+7 10 elbowroom
+facet 3 1 1
+scamp 1 2 0
+stilt 2 5 0
+surge 2 5 1

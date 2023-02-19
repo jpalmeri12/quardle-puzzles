@@ -1,0 +1,5 @@
+7 9
+brave 4 1 1
+story 1 2 0
+pesky 2 4 1
+elect 2 5 0

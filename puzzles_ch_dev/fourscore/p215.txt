@@ -1,0 +1,5 @@
+7 9 fourscore
+noisy 1 1 0
+iliac 3 1 1
+cache 2 4 0
+envoy 6 4 1

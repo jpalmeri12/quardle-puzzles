@@ -1,0 +1,6 @@
+7 10 undercover
+infer 1 1 0
+filly 3 1 1
+video 5 3 1
+claim 2 4 0
+shush 1 9 0

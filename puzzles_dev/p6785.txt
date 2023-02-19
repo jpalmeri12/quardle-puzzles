@@ -1,0 +1,5 @@
+7 9
+dodge 6 1 1
+medal 4 4 1
+crepe 2 5 0
+pagan 1 7 0

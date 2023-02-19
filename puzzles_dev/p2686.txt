@@ -1,0 +1,5 @@
+7 9
+drive 1 1 0
+relic 2 1 1
+spore 5 4 1
+crypt 2 5 0

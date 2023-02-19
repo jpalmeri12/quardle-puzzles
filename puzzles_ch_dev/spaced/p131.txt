@@ -1,0 +1,5 @@
+6 8 spaced
+evict 1 1 0
+vicar 2 1 1
+alive 5 3 1
+panel 1 4 0

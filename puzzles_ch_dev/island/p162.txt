@@ -1,0 +1,6 @@
+6 9 island
+forgo 1 1 0
+radii 3 1 1
+aglow 5 4 1
+suing 1 5 0
+!island 31 211 221 2111

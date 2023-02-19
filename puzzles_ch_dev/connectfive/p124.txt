@@ -1,0 +1,6 @@
+7 10 connectfive
+deter 2 1 0
+revue 6 1 1
+reuse 2 5 0
+sassy 5 5 1
+worry 1 9 0

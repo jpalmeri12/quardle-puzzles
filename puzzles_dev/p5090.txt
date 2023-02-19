@@ -1,0 +1,5 @@
+7 10
+lobby 3 1 1
+bylaw 2 5 0
+lymph 4 5 1
+stomp 1 7 0

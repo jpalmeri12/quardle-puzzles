@@ -1,0 +1,9 @@
+6 9 spellbound
+crude 5 1 1
+bused 1 4 0
+snowy 3 4 1
+wryly 1 8 0
+!spellbound 0 0 2
+!spellbound 1 0 3
+!spellbound 2 3 1
+!spellbound 3 3 0

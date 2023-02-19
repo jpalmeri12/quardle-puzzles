@@ -1,0 +1,5 @@
+6 10
+above 2 1 1
+abbot 1 2 0
+reuse 1 5 0
+usher 3 5 1

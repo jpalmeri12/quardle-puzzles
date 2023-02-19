@@ -1,0 +1,5 @@
+6 10 buyavowel
+sonar 5 1 1
+grown 1 3 0
+diver 1 5 0
+infer 2 5 1

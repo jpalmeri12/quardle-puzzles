@@ -1,0 +1,5 @@
+7 10
+salsa 4 1 1
+dolly 2 3 0
+altar 1 5 0
+arose 1 5 1

@@ -1,0 +1,5 @@
+6 9 soundscramble
+aceon 1 1 0
+conae 2 1 1
+sanor 1 4 0
+ofter 4 4 1

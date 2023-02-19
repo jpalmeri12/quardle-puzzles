@@ -1,0 +1,5 @@
+7 10
+couch 2 1 1
+olive 2 2 0
+shorn 1 5 0
+sumac 1 5 1

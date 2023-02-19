@@ -1,0 +1,5 @@
+6 9
+hurry 4 1 1
+segue 1 2 0
+award 1 4 0
+warty 2 4 1

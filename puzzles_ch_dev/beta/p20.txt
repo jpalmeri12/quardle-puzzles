@@ -1,0 +1,5 @@
+6 8 beta
+throb 3 1 1
+greed 5 3 1
+fibre 1 5 0
+lucid 1 7 0

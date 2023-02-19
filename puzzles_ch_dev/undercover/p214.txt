@@ -1,0 +1,6 @@
+7 10 undercover
+coast 4 1 1
+quail 2 3 0
+quell 2 3 1
+glove 1 7 0
+myrrh 1 9 0

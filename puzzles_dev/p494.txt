@@ -1,0 +1,5 @@
+7 10
+trump 4 1 1
+screw 2 2 0
+wimpy 1 5 0
+widow 1 5 1

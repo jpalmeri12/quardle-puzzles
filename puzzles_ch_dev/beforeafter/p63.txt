@@ -1,0 +1,9 @@
+7 9 beforeafter
+pansy 6 1 1
+swung 4 4 1
+gawky 2 5 0
+purge 1 8 0
+!beforeafter 2 r
+!beforeafter 2 p
+!beforeafter 1 j
+!beforeafter 2 j

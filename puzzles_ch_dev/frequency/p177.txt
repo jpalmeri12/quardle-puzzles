@@ -1,0 +1,5 @@
+7 10 frequency
+class 4 1 1
+apply 1 2 0
+posse 2 5 0
+exalt 6 5 1

@@ -1,0 +1,5 @@
+6 6 invention
+surge 2 1 1
+nylon 5 1 1
+burly 1 2 0
+igloo 1 4 0

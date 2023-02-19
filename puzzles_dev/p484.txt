@@ -1,0 +1,5 @@
+7 9
+pudgy 1 1 0
+dilly 3 1 1
+slung 2 4 0
+nosey 5 4 1

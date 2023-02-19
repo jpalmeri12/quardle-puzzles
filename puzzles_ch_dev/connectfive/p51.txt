@@ -1,0 +1,6 @@
+6 10 connectfive
+smell 1 1 0
+skate 1 1 1
+elate 3 1 1
+eject 1 5 0
+cider 4 5 1

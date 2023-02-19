@@ -1,0 +1,5 @@
+6 8 unloved
+crawl 1 1 1
+skunk 3 3 1
+woken 1 4 0
+baker 1 7 0

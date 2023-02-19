@@ -1,0 +1,5 @@
+7 10
+droit 4 1 1
+talon 1 3 0
+batty 2 5 0
+belle 2 5 1

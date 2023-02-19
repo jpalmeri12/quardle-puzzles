@@ -1,0 +1,5 @@
+7 10 beta
+squib 1 1 1
+baggy 1 5 0
+goner 4 5 1
+lurch 2 9 0

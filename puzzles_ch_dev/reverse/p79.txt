@@ -1,0 +1,5 @@
+7 10 reverse
+basic 3 1 1
+yoced 1 5 0
+exalt 4 5 1
+ralom 2 8 0

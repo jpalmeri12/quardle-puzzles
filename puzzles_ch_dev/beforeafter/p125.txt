@@ -1,0 +1,9 @@
+7 9 beforeafter
+slice 1 1 1
+chalk 1 4 0
+actor 3 4 1
+boast 2 7 0
+!beforeafter 1 k
+!beforeafter 2 i
+!beforeafter 1 j
+!beforeafter 2 q

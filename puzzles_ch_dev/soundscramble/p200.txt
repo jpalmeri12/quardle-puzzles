@@ -1,0 +1,5 @@
+6 7 soundscramble
+isirp 4 1 1
+triss 1 2 0
+tacut 1 2 1
+churp 1 4 0

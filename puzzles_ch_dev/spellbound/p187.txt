@@ -1,0 +1,9 @@
+7 9 spellbound
+bravo 1 1 1
+ingot 5 4 1
+organ 1 5 0
+groom 2 7 0
+!spellbound 0 2 3
+!spellbound 1 2 0
+!spellbound 2 2 1
+!spellbound 3 0 4

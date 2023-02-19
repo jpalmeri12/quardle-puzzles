@@ -1,0 +1,5 @@
+6 8 spin
+boozy 5 1 1
+cease 2 3 1
+sally 1 5 0
+hefty 1 7 0

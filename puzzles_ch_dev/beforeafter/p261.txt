@@ -1,0 +1,9 @@
+7 9 beforeafter
+lousy 2 1 1
+speak 2 4 0
+entry 4 4 1
+inert 1 7 0
+!beforeafter 1 q
+!beforeafter 1 o
+!beforeafter 1 p
+!beforeafter 2 o

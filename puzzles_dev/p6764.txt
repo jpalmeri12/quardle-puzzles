@@ -1,0 +1,5 @@
+7 10
+filmy 4 1 1
+royal 2 5 0
+outer 3 5 1
+attic 1 7 0

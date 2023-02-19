@@ -1,0 +1,6 @@
+7 10 five
+haste 1 1 1
+taffy 1 4 0
+fjord 3 4 1
+aroma 6 5 1
+sower 2 6 0

@@ -1,0 +1,5 @@
+7 7
+unzip 2 1 1
+nerve 2 2 0
+rabbi 4 2 1
+limbo 1 4 0

@@ -1,0 +1,5 @@
+6 10 elbowroom
+dummy 1 1 0
+moron 4 1 1
+round 1 5 0
+daisy 5 5 1

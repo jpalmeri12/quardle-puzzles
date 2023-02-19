@@ -1,0 +1,6 @@
+7 8 wordcolumn
+mercy 1 1 1
+mange 1 1 0
+token 5 3 1
+cacao 1 4 0
+plank 2 7 0

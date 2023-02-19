@@ -1,0 +1,5 @@
+6 7
+lumen 1 1 1
+unzip 1 2 0
+zonal 3 2 1
+ennui 1 4 0

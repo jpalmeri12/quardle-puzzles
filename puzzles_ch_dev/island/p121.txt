@@ -1,0 +1,6 @@
+7 9 island
+lithe 6 1 1
+nymph 2 4 0
+moody 4 4 1
+honor 1 6 0
+!island 11111 41 1111 211

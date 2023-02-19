@@ -1,0 +1,5 @@
+7 10 scrabble
+rearm 2 1 1
+satyr 2 7 0
+smock 1 5 0
+kayak 5 5 1

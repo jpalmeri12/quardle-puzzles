@@ -1,0 +1,5 @@
+7 8
+gavel 1 1 0
+valet 3 1 1
+waltz 6 3 1
+media 2 4 0

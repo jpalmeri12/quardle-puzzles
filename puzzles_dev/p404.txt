@@ -1,0 +1,5 @@
+7 9
+booze 6 1 1
+sooth 2 4 1
+ozone 2 5 0
+utile 1 7 0

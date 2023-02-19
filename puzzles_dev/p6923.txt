@@ -1,0 +1,5 @@
+7 10
+flack 4 1 1
+rural 1 3 0
+taker 2 5 0
+aloft 3 5 1

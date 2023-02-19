@@ -1,0 +1,6 @@
+7 11 drop
+crime 1 1 1
+match 1 4 0
+crown 4 4 1
+float 2 6 0
+conch 1 10 0

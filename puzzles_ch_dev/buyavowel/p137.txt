@@ -1,0 +1,5 @@
+7 9 buyavowel
+seedy 1 1 1
+drawl 1 4 0
+women 4 4 1
+siege 2 7 0

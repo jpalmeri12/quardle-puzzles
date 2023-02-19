@@ -1,0 +1,5 @@
+7 10
+batch 5 1 1
+forth 1 5 0
+torso 4 5 1
+thorn 2 9 0

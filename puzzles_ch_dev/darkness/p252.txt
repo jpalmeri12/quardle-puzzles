@@ -1,0 +1,5 @@
+7 8 darkness
+skunk 2 7 0
+showy 1 5 0
+shock 3 3 1
+cross 1 1 1

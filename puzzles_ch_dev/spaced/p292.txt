@@ -1,0 +1,5 @@
+7 8 spaced
+salve 6 1 1
+orbit 2 3 1
+octal 2 3 0
+singe 1 6 0

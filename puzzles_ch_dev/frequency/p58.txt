@@ -1,0 +1,5 @@
+7 8 frequency
+mucky 1 1 0
+cabin 3 1 1
+drake 6 3 1
+fiber 2 4 0

@@ -1,0 +1,5 @@
+7 9 duplicity
+lupus 4 1 1
+stalk 2 4 1
+stuck 2 4 0
+clasp 1 7 0

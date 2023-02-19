@@ -1,0 +1,6 @@
+7 12 undercover
+crawl 2 1 1
+recap 2 2 0
+glyph 1 5 0
+glory 1 5 1
+snuff 1 11 0

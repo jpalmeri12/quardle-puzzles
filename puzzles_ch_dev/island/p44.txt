@@ -1,0 +1,6 @@
+7 10 island
+lager 2 1 0
+great 4 1 1
+birth 1 5 0
+inter 2 5 1
+!island 2111 41 221 311

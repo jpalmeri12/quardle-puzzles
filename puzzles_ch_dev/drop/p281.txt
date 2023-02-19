@@ -1,0 +1,6 @@
+7 10 drop
+sandy 5 1 1
+blind 2 3 0
+brand 2 3 1
+ideal 1 7 0
+rally 1 9 0

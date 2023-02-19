@@ -1,0 +1,5 @@
+6 6 sweeper
+flesh 1 1 0
+lilac 2 1 1
+scamp 4 1 1
+clear 1 3 0

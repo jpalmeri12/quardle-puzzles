@@ -1,0 +1,9 @@
+6 10 beforeafter
+logic 3 1 1
+angst 1 3 0
+occur 1 5 0
+oxide 1 5 1
+!beforeafter 1 j
+!beforeafter 2 q
+!beforeafter 2 q
+!beforeafter 1 k

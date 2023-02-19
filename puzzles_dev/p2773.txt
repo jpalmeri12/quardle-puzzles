@@ -1,0 +1,5 @@
+7 9
+vomit 3 1 1
+proud 1 2 0
+bongo 5 4 1
+stool 2 5 0

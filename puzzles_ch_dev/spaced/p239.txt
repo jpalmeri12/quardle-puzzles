@@ -1,0 +1,5 @@
+7 9 spaced
+shawl 4 1 1
+rowdy 2 4 0
+relax 2 4 1
+waltz 1 7 0

@@ -1,0 +1,5 @@
+7 8 beta
+burst 1 1 0
+salon 4 1 1
+detox 6 3 1
+adore 2 4 0

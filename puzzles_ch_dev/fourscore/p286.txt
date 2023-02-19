@@ -1,0 +1,5 @@
+7 10 fourscore
+lemon 5 1 1
+giver 2 2 0
+elfin 1 5 0
+lunge 2 5 1

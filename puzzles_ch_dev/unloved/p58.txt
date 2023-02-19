@@ -1,0 +1,5 @@
+7 7 unloved
+prowl 5 1 1
+cheat 3 2 1
+throb 2 3 0
+trawl 1 5 0

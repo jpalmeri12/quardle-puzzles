@@ -1,0 +1,5 @@
+7 8 reverse
+nrows 6 1 1
+lurch 3 3 1
+lriws 2 5 0
+usher 1 7 0

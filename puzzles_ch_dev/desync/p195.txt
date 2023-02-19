@@ -1,0 +1,5 @@
+6 7 desync
+inane 3 1 1
+minim 1 2 0
+moist 5 2 1
+ennui 1 4 0

@@ -1,0 +1,5 @@
+7 8
+opium 4 1 1
+major 2 3 1
+acute 2 4 0
+prior 1 7 0

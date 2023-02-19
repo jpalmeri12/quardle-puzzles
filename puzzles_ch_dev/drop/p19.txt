@@ -1,0 +1,6 @@
+7 10 drop
+small 6 1 1
+rapid 3 3 1
+spool 2 5 0
+aider 1 7 0
+press 1 9 0

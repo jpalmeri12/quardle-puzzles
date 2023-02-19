@@ -1,0 +1,5 @@
+7 9
+swine 5 1 1
+brawn 2 2 0
+learn 1 4 0
+arena 3 4 1

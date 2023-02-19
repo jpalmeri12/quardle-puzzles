@@ -1,0 +1,5 @@
+7 10
+bacon 2 1 1
+annoy 1 5 0
+nanny 3 5 1
+inbox 2 7 0

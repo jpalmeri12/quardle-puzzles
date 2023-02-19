@@ -1,0 +1,5 @@
+7 8
+cloak 2 1 0
+lemon 3 1 1
+unlit 5 3 1
+brown 1 4 0

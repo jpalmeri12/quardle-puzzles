@@ -1,0 +1,5 @@
+7 10 swap
+slete 3 1 1
+coemt 1 5 0
+mdeia 4 5 1
+msase 2 9 0

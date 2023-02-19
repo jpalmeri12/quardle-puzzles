@@ -1,0 +1,7 @@
+6 6 fourthwall
+stiff 1 1 0
+shied 1 1 1
+icing 1 3 0
+icily 3 1 1
+dryly 1 5 0
+foggy 5 1 1

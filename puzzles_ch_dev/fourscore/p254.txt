@@ -1,0 +1,5 @@
+7 9 fourscore
+octal 2 1 1
+cloth 2 2 0
+eager 1 4 0
+eject 4 4 1

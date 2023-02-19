@@ -1,0 +1,5 @@
+7 10 frequency
+dingy 1 1 0
+given 4 1 1
+conch 2 5 0
+crack 5 5 1

@@ -1,0 +1,5 @@
+6 10
+debut 2 1 1
+attic 1 5 0
+tatty 3 5 1
+petal 1 8 0

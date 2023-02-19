@@ -1,0 +1,6 @@
+6 10 wordcolumn
+hyena 2 1 1
+lynch 1 2 0
+safer 1 5 0
+exult 4 5 1
+moult 1 8 0

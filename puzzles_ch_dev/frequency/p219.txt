@@ -1,0 +1,5 @@
+7 10 frequency
+elbow 4 1 1
+honor 2 5 1
+howdy 2 5 0
+ensue 1 7 0

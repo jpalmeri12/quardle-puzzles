@@ -1,0 +1,5 @@
+7 8
+crime 2 1 0
+macro 5 1 1
+panic 1 3 0
+newly 3 3 1

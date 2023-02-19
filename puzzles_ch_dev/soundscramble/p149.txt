@@ -1,0 +1,5 @@
+7 10 soundscramble
+embui 4 1 1
+menir 1 5 0
+etchy 2 5 1
+hymin 2 8 0

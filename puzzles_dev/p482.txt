@@ -1,0 +1,5 @@
+7 10
+stuff 3 1 1
+stuck 2 2 0
+befit 1 5 0
+thump 5 5 1

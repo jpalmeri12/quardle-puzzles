@@ -1,0 +1,5 @@
+7 10 duplicity
+bleep 2 1 1
+rebel 1 3 0
+plied 2 5 0
+dried 6 5 1

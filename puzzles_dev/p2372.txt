@@ -1,0 +1,5 @@
+7 9
+sooth 4 1 1
+scour 2 2 0
+quoth 1 4 0
+quilt 1 4 1

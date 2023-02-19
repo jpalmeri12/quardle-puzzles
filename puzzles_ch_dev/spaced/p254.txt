@@ -1,0 +1,5 @@
+7 10 spaced
+scowl 2 1 1
+cargo 2 2 0
+bluer 1 5 0
+rainy 5 5 1

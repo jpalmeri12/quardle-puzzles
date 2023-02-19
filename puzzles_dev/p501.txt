@@ -1,0 +1,5 @@
+7 9
+being 3 1 1
+steed 1 2 0
+drake 5 4 1
+agora 2 5 0

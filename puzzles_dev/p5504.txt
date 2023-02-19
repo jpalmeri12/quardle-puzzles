@@ -1,0 +1,5 @@
+7 10
+stoop 4 1 1
+sooth 2 3 0
+agape 1 5 0
+allow 1 5 1

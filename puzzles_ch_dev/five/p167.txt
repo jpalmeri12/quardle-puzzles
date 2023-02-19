@@ -1,0 +1,6 @@
+6 9 five
+pasta 1 1 1
+algae 1 2 0
+theft 1 4 0
+forte 4 4 1
+homer 1 8 0

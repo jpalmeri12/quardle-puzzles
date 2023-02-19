@@ -1,0 +1,5 @@
+7 9 scrabble
+lease 2 5 0
+snoop 1 7 0
+clung 2 4 1
+brake 6 1 1

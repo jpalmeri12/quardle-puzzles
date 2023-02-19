@@ -1,0 +1,5 @@
+7 9 frequency
+bleed 2 1 1
+lodge 2 2 0
+decor 1 4 0
+revue 5 4 1

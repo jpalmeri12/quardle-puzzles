@@ -1,0 +1,5 @@
+7 10 dblltr
+bevel 6 1 1
+papal 2 5 0
+allay 3 5 1
+slash 1 8 0

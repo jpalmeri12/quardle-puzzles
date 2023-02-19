@@ -1,0 +1,5 @@
+7 9 soundscramble
+putio 5 1 1
+snack 3 4 1
+unnoy 2 5 0
+alcer 1 7 0

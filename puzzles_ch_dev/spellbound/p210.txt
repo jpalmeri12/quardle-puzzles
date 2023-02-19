@@ -1,0 +1,9 @@
+6 9 spellbound
+rabbi 2 1 1
+magic 1 2 0
+climb 4 4 1
+villa 1 5 0
+!spellbound 0 2 0
+!spellbound 1 2 4
+!spellbound 2 3 0
+!spellbound 3 0 2

@@ -1,0 +1,5 @@
+7 10 soundscramble
+thumb 4 1 1
+letha 1 2 0
+zabre 2 5 0
+rabut 5 5 1

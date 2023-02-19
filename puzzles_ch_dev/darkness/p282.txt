@@ -1,0 +1,5 @@
+6 7 darkness
+foamy 2 2 1
+afoot 1 2 0
+layer 1 4 0
+start 5 1 1

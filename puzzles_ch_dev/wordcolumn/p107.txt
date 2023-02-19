@@ -1,0 +1,6 @@
+7 10 wordcolumn
+avoid 5 1 1
+idiot 2 3 0
+dumpy 3 3 1
+timid 1 5 0
+today 1 5 1

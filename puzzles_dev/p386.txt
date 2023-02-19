@@ -1,0 +1,5 @@
+6 7
+baton 2 1 1
+mafia 1 2 0
+ideal 4 2 1
+inlay 1 5 0

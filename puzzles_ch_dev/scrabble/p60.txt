@@ -1,0 +1,5 @@
+7 10 scrabble
+share 5 1 1
+brush 2 1 0
+queue 1 5 0
+qualm 1 5 1

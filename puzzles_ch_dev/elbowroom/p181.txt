@@ -1,0 +1,5 @@
+7 8 elbowroom
+filth 1 1 1
+lupus 1 3 0
+stint 5 3 1
+pinto 2 7 0

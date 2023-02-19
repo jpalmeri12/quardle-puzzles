@@ -1,0 +1,5 @@
+7 8 elbowroom
+gulch 2 1 1
+clump 1 3 0
+parka 5 3 1
+hairy 2 5 0

@@ -1,0 +1,5 @@
+7 8 shiritori
+mange 3 1 1
+ennui 1 3 0
+incur 5 3 1
+court 2 7 0

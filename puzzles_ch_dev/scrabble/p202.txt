@@ -1,0 +1,5 @@
+7 10 scrabble
+bleat 2 1 1
+flair 1 2 0
+frame 5 5 1
+theft 2 5 0

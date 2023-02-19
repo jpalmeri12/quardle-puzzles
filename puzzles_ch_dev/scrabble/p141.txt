@@ -1,0 +1,5 @@
+7 9 scrabble
+state 2 2 0
+stoop 3 1 1
+bread 5 4 1
+piper 1 5 0

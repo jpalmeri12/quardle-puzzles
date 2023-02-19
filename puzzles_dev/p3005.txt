@@ -1,0 +1,5 @@
+7 10
+anger 2 1 1
+novel 2 2 0
+wrung 1 5 0
+neigh 4 5 1

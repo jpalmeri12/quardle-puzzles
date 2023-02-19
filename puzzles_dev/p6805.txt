@@ -1,0 +1,5 @@
+6 9
+clung 1 1 0
+gripe 5 1 1
+while 1 4 1
+hence 1 5 0

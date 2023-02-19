@@ -1,0 +1,6 @@
+6 9 five
+entry 2 1 1
+anode 1 2 0
+prune 1 4 0
+ether 5 4 1
+style 1 7 0

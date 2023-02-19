@@ -1,0 +1,5 @@
+6 6
+slush 1 1 1
+nobly 4 1 1
+lemon 1 2 0
+sully 1 4 0

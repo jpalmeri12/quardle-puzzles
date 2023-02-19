@@ -1,0 +1,7 @@
+6 11 secretdistance
+salsa 1 1 1
+scarf 1 4 0
+ferry 5 4 1
+cheer 1 7 0
+rally 1 10 0
+!sdpos 1 2 1 2

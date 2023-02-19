@@ -1,0 +1,7 @@
+7 10 secretdistance
+hussy 2 1 1
+forte 4 3 1
+stool 2 4 0
+bused 1 7 0
+order 1 9 0
+!sdpos 0 1 0 2

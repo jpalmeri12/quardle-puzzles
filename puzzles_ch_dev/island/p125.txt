@@ -1,0 +1,6 @@
+6 10 island
+brood 4 1 1
+fibre 1 2 0
+anode 1 5 0
+otter 3 5 1
+!island 211 311 2111 31

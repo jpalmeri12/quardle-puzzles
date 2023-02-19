@@ -1,0 +1,5 @@
+7 9 soundscramble
+briba 4 1 1
+claen 2 4 1
+cebla 2 4 0
+ceput 1 7 0

@@ -1,0 +1,5 @@
+6 9 unloved
+noisy 1 1 0
+smear 4 1 1
+delay 1 4 0
+elect 2 4 1

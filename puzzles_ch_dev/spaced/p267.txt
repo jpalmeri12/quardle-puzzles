@@ -1,0 +1,5 @@
+6 6 spaced
+motif 2 1 1
+flint 4 1 1
+godly 1 2 0
+giant 1 4 0

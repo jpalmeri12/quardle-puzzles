@@ -1,0 +1,5 @@
+7 8
+manga 5 1 1
+force 3 3 1
+bongo 2 4 0
+spent 1 7 0

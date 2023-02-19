@@ -1,0 +1,5 @@
+7 10 spin
+stake 6 1 1
+fibre 2 5 0
+iliac 3 5 1
+death 1 8 0

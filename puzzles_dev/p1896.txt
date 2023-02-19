@@ -1,0 +1,5 @@
+7 7
+gnome 1 1 0
+mango 4 1 1
+quota 6 2 1
+spout 2 5 0

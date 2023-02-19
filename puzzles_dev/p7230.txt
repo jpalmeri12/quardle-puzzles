@@ -1,0 +1,5 @@
+7 9
+junta 2 1 1
+bluer 4 4 1
+alley 2 5 0
+alert 1 8 0

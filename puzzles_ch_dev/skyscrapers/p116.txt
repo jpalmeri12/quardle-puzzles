@@ -1,0 +1,5 @@
+6 9 skyscrapers
+sense 1 1 1
+sweep 1 4 0
+edict 3 4 1
+entry 1 2 0

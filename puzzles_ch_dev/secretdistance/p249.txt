@@ -1,0 +1,7 @@
+6 12 secretdistance
+joist 1 1 1
+toddy 1 5 0
+drake 4 5 1
+ocean 1 7 0
+swish 1 11 0
+!sdpos 2 1 0 2

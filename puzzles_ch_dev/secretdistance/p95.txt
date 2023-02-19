@@ -1,0 +1,7 @@
+6 11 secretdistance
+cruel 3 1 1
+borne 1 2 0
+serif 5 4 1
+false 1 5 0
+cheap 1 10 0
+!sdpos 0 2 3 0

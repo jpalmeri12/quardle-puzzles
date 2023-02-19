@@ -1,0 +1,5 @@
+7 10 shiritori
+frond 2 1 1
+prism 1 2 0
+dress 2 5 0
+endow 4 5 1

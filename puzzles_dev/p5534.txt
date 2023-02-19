@@ -1,0 +1,5 @@
+7 9
+foray 6 1 1
+payee 3 4 1
+gaudy 2 5 0
+flesh 1 7 0

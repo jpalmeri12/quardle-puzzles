@@ -1,0 +1,5 @@
+7 7 sweeper
+rabbi 3 1 1
+parse 2 2 0
+shank 5 2 1
+tibia 1 4 0

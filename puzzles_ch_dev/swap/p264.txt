@@ -1,0 +1,5 @@
+7 8 swap
+buogh 1 1 1
+cbain 3 3 1
+hbait 1 5 0
+tneor 2 7 0

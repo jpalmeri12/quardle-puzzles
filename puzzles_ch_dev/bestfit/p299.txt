@@ -1,0 +1,5 @@
+6 10 bestfit
+first 2 1 1
+tibia 1 2 0
+still 1 5 0
+salad 1 5 1

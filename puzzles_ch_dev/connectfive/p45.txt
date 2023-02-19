@@ -1,0 +1,6 @@
+6 9 connectfive
+spite 5 1 1
+smell 3 2 1
+sleet 1 4 0
+solve 1 4 1
+enema 1 8 0

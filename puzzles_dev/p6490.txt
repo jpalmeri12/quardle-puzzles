@@ -1,0 +1,5 @@
+7 10
+titan 3 1 1
+snowy 2 5 0
+occur 4 5 1
+dairy 1 9 0

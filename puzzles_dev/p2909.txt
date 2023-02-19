@@ -1,0 +1,5 @@
+6 9
+spoke 4 1 1
+roomy 1 4 1
+risky 1 4 0
+meter 1 7 0

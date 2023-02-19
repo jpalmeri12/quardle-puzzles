@@ -1,0 +1,5 @@
+6 7
+sling 3 1 1
+forth 5 2 1
+rhino 1 3 0
+wight 1 5 0

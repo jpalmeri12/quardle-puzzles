@@ -1,0 +1,5 @@
+7 9
+milky 2 1 1
+incur 2 2 0
+reset 5 4 1
+cycle 1 5 0

@@ -1,0 +1,5 @@
+7 9 reverse
+emihc 1 1 0
+modem 2 1 1
+egdab 2 4 0
+dance 4 4 1

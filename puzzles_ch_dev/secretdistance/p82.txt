@@ -1,0 +1,7 @@
+7 11 secretdistance
+smile 2 1 1
+fjord 4 4 1
+enjoy 2 5 0
+snarl 1 7 0
+miner 1 10 0
+!sdpos 1 1 0 1

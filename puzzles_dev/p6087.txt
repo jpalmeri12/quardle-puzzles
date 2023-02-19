@@ -1,0 +1,5 @@
+6 6
+dandy 1 1 1
+dutch 1 1 0
+hurry 5 1 1
+demur 1 4 0

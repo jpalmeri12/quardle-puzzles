@@ -1,0 +1,5 @@
+7 10 darkness
+dwell 2 8 0
+grass 1 5 0
+steed 4 5 1
+flung 1 1 1

@@ -1,0 +1,5 @@
+7 8 skyscrapers
+sepia 4 3 1
+nymph 1 5 0
+boney 2 1 1
+nosey 2 3 0

@@ -1,0 +1,5 @@
+7 7 swap
+lsung 5 1 1
+pnasy 2 2 0
+psook 2 2 1
+aolng 1 5 0
