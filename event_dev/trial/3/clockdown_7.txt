@@ -1,5 +1,5 @@
 7 10 clockdown
-swami 3 1 1
-twirl 2 2 0
-poise 1 5 0
-elect 5 5 1
+medic 4 1 1
+lodge 2 3 0
+fetch 1 5 0
+tweed 3 5 1

@@ -1,5 +1,5 @@
 7 10 clockdown
-stoic 3 1 1
-stout 2 2 0
-wacky 1 5 0
-yearn 5 5 1
+kebab 2 1 0
+bylaw 4 1 1
+drown 1 5 0
+odder 3 5 1

@@ -1,5 +1,5 @@
-7 8 frequency
-purge 1 1 0
-guard 4 1 1
-amass 2 3 0
-aback 2 3 1
+7 9 frequency
+saute 2 1 1
+taffy 2 4 0
+fraud 5 4 1
+tweed 1 8 0

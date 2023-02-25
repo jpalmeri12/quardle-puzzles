@@ -1,9 +1,0 @@
-7 7 beforeafter
-sushi 2 1 1
-midst 5 2 1
-strip 2 3 0
-minus 1 5 0
-!beforeafter 2 q
-!beforeafter 2 o
-!beforeafter 2 q
-!beforeafter 2 r

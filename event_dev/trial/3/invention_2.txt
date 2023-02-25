@@ -1,5 +1,5 @@
-6 8 invention
-brass 5 1 1
-ebony 2 3 1
-abyss 1 4 0
-nymph 1 7 0
+7 7 invention
+shale 1 1 0
+arbor 3 1 1
+usher 6 2 1
+sooth 2 4 0

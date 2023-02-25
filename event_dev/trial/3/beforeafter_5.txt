@@ -1,9 +1,0 @@
-6 9 beforeafter
-fifty 2 1 1
-filly 1 2 0
-stank 1 4 0
-kitty 5 4 1
-!beforeafter 2 r
-!beforeafter 1 k
-!beforeafter 1 p
-!beforeafter 1 q

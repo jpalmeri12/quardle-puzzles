@@ -1,0 +1,5 @@
+6 10 bestfit
+widow 2 1 1
+tidal 1 2 0
+tweet 1 5 0
+tasty 5 5 1

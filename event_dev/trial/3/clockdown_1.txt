@@ -1,5 +1,5 @@
-7 9 clockdown
-stain 3 1 1
-start 2 2 0
-quilt 1 4 0
-quoth 1 4 1
+7 10 clockdown
+bayou 5 1 1
+kappa 1 2 0
+opium 2 5 0
+meter 6 5 1

@@ -1,0 +1,6 @@
+7 10 island
+koala 4 1 1
+stead 1 3 0
+chafe 2 5 0
+heady 3 5 1
+!island 31 41 2111 221

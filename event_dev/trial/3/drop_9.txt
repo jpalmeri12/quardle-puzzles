@@ -1,6 +1,0 @@
-6 12 drop
-metal 2 1 1
-fever 1 2 0
-flame 1 5 0
-equip 5 5 1
-lefty 1 11 0

@@ -1,6 +1,6 @@
-7 12 undercover
-ascot 2 1 1
-askew 1 2 0
-truss 2 5 0
-racer 3 5 1
-idyll 1 11 0
+6 11 undercover
+fjord 1 1 0
+froze 1 1 1
+zebra 1 4 0
+billy 3 4 1
+skunk 1 10 0

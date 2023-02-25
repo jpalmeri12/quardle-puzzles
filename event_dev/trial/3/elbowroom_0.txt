@@ -1,5 +1,0 @@
-6 9 elbowroom
-slime 4 1 1
-slain 2 4 1
-sleek 1 5 0
-filmy 1 7 0

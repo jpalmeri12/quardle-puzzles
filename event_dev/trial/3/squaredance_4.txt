@@ -1,6 +1,6 @@
 6 8 squaredance
-chasm 1 1 1
-prone 5 1 1
-clasp 1 1 0
-mouse 1 5 0
-ombre 1 7 0
+caper 1 1 1
+knead 5 1 1
+cloak 1 1 0
+rapid 1 5 0
+beret 1 7 0

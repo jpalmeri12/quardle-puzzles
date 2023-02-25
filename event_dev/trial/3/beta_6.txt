@@ -1,5 +1,5 @@
-7 9 beta
-human 1 1 0
-medic 3 1 1
-midge 2 4 0
-gruel 5 4 1
+6 9 beta
+badly 4 1 1
+sneak 1 2 0
+scale 1 4 0
+chase 2 4 1

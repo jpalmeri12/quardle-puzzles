@@ -1,0 +1,5 @@
+7 9 reverse
+nolem 2 1 1
+setup 1 4 0
+pmuht 5 4 1
+lithe 2 7 0

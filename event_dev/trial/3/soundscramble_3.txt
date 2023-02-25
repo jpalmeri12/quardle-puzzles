@@ -1,5 +1,5 @@
 7 8 soundscramble
-rafar 6 1 1
-faest 2 3 1
-aresa 2 4 0
-eskaw 1 6 0
+clewn 1 1 0
+werry 4 1 1
+werso 2 3 0
+oight 6 3 1

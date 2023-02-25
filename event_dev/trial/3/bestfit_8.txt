@@ -1,0 +1,5 @@
+7 9 bestfit
+weave 2 1 0
+vinyl 5 1 1
+boozy 1 4 0
+bayou 1 4 1

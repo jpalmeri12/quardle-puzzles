@@ -1,5 +1,0 @@
-7 10 elbowroom
-primo 2 1 1
-rainy 2 2 0
-couch 1 5 0
-harsh 5 5 1

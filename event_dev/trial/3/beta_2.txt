@@ -1,5 +1,5 @@
 7 10 beta
-medic 2 1 1
-heave 1 2 0
-coast 2 5 0
-stoke 5 5 1
+puree 5 1 1
+bayou 1 2 0
+cameo 2 5 0
+cobra 2 5 1

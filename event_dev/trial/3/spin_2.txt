@@ -1,5 +1,5 @@
-7 9 spin
-piety 2 1 1
-inlay 2 2 0
-study 1 4 0
-donor 4 4 1
+7 8 spin
+demon 2 1 1
+mealy 2 3 0
+loath 5 3 1
+youth 1 7 0

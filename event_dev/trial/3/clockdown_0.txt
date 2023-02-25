@@ -1,5 +1,5 @@
-7 10 clockdown
-khaki 4 1 1
-aphid 1 5 0
-polyp 2 5 1
-lingo 2 7 0
+6 9 clockdown
+shied 1 1 0
+scowl 1 1 1
+worry 1 4 0
+yearn 5 4 1

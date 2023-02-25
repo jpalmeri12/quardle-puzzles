@@ -1,5 +1,0 @@
-7 9 darkness
-tumor 2 7 0
-belch 1 1 1
-balmy 4 4 1
-cabby 1 4 0

@@ -1,0 +1,5 @@
+7 9 bestfit
+mucky 6 1 1
+speak 4 4 1
+gypsy 2 5 0
+dread 1 7 0

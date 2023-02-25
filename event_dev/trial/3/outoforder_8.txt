@@ -1,5 +1,5 @@
-6 7 outoforder
-knead 3 1 1
-bonus 1 2 0
-beset 1 2 1
-snaky 1 4 0
+6 9 outoforder
+bayou 3 1 1
+basal 1 4 1
+acute 1 5 0
+annul 1 7 0

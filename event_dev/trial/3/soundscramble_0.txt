@@ -1,5 +1,5 @@
-7 10 soundscramble
-madel 4 1 1
-radea 2 3 0
-stole 1 5 0
-omple 3 5 1
+6 8 soundscramble
+feune 1 1 0
+unfad 3 1 1
+essey 1 3 1
+siava 1 4 0

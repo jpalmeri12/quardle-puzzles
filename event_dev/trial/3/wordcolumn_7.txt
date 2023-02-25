@@ -1,6 +1,0 @@
-6 8 wordcolumn
-midst 1 1 1
-cobra 3 1 1
-lynch 5 3 1
-sorry 1 4 0
-fifth 1 7 0

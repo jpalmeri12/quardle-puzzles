@@ -1,0 +1,5 @@
+7 9 hardmode
+shook 4 1 1
+atoll 2 4 0
+arise 2 4 1
+sewer 1 8 0

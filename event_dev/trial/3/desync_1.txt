@@ -1,5 +1,0 @@
-7 10 desync
-tubal 4 1 1
-fugue 1 2 0
-bulge 2 5 0
-ether 6 5 1

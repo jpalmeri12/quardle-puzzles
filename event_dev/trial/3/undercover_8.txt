@@ -1,6 +1,6 @@
-6 11 undercover
-haste 1 1 1
-ample 1 2 0
-tense 1 4 0
-eager 5 4 1
-cubic 1 10 0
+7 11 undercover
+pleat 2 1 1
+blurt 1 2 0
+easel 4 4 1
+trail 2 5 0
+woody 1 10 0

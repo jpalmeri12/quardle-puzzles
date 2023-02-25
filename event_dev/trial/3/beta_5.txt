@@ -1,5 +1,5 @@
-7 9 beta
-whoop 2 1 0
-owing 5 1 1
-crown 1 4 0
-opera 3 4 1
+7 10 beta
+crypt 3 1 1
+armor 2 2 0
+dutch 1 5 0
+coven 4 5 1

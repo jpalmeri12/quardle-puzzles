@@ -1,5 +1,0 @@
-7 10 elbowroom
-umbra 2 1 1
-moron 2 2 0
-taken 1 5 0
-equal 4 5 1

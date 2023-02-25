@@ -1,5 +1,5 @@
 6 9 clockdown
-onion 4 1 1
-swoon 1 4 0
-write 2 4 1
-merit 1 8 0
+saute 3 1 1
+swami 1 2 0
+attic 1 4 0
+aider 1 4 1

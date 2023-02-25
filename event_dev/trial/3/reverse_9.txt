@@ -1,0 +1,5 @@
+7 10 reverse
+atone 5 1 1
+exalt 1 2 0
+htped 2 5 0
+hctap 2 5 1

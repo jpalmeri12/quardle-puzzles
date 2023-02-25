@@ -1,5 +1,5 @@
-6 9 invention
-fluff 1 1 1
-flash 1 4 0
-squib 4 4 1
-grain 1 7 0
+7 10 invention
+lance 4 1 1
+waver 1 5 0
+acute 2 5 1
+usurp 2 7 0

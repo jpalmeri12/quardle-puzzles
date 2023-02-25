@@ -1,5 +1,0 @@
-7 10 elbowroom
-sigma 1 1 0
-agate 5 1 1
-bagel 2 5 0
-grave 4 5 1

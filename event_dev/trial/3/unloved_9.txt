@@ -1,0 +1,5 @@
+7 9 unloved
+hydro 6 1 1
+ester 2 4 0
+saint 3 4 1
+alter 1 8 0

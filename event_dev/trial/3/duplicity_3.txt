@@ -1,5 +1,5 @@
-6 10 duplicity
-sixty 5 1 1
-sissy 1 5 0
-stoic 4 5 1
-toxic 1 8 0
+6 7 duplicity
+diode 4 1 1
+rabid 1 2 0
+adore 2 2 1
+breed 1 5 0

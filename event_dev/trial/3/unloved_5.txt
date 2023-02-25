@@ -1,0 +1,5 @@
+7 8 unloved
+fifty 1 1 0
+title 4 1 1
+eying 6 3 1
+bully 2 4 0

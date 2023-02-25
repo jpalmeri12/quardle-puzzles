@@ -1,6 +1,0 @@
-7 11 drop
-hazel 2 1 1
-hello 5 4 1
-liner 2 5 0
-afoul 1 7 0
-valor 1 10 0

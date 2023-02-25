@@ -1,6 +1,6 @@
-6 11 undercover
-vouch 5 1 1
-hurry 2 4 1
-bunch 1 5 0
-nylon 1 8 0
-stamp 1 10 0
+7 11 undercover
+offal 2 1 1
+amply 2 4 0
+picky 4 4 1
+snake 1 7 0
+truth 1 10 0

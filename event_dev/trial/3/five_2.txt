@@ -1,6 +1,0 @@
-7 8 five
-skier 1 1 0
-rabbi 5 1 1
-gipsy 2 3 1
-globe 2 3 0
-pixie 2 5 0

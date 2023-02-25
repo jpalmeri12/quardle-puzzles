@@ -1,6 +1,0 @@
-7 10 drop
-stool 1 1 0
-loser 5 1 1
-trend 2 3 1
-ripen 2 4 0
-stern 1 9 0

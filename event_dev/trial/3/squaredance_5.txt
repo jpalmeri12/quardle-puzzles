@@ -1,6 +1,6 @@
 6 8 squaredance
-stunk 1 1 1
-hoard 5 1 1
-slosh 1 1 0
-knead 1 5 0
-steel 1 7 0
+macro 1 1 1
+other 5 1 1
+micro 1 1 0
+otter 1 5 0
+faith 1 7 0

@@ -1,9 +1,0 @@
-6 8 beforeafter
-decry 3 1 1
-spine 5 3 1
-strap 1 4 0
-stoke 1 7 0
-!beforeafter 2 k
-!beforeafter 1 o
-!beforeafter 2 q
-!beforeafter 1 q

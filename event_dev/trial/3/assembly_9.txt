@@ -1,0 +1,5 @@
+6 10 assembly
+shank 1 3 1
+final 5 3 1
+habit 1 1 0
+knelt 1 9 0

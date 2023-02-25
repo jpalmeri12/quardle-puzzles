@@ -1,5 +1,5 @@
-7 8 frequency
-ethos 2 1 1
-chess 1 3 0
-sperm 5 3 1
-sheen 2 5 0
+6 9 frequency
+mogul 2 1 1
+umbra 4 4 1
+slime 1 5 0
+alarm 1 7 0

@@ -1,0 +1,6 @@
+7 10 connectfive
+chock 1 1 1
+cadet 1 4 0
+doubt 3 4 1
+beefy 6 5 1
+abode 2 7 0

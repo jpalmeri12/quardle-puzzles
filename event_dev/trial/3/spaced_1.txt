@@ -1,5 +1,5 @@
-7 7 spaced
-heavy 4 1 1
-liner 1 2 0
-irate 2 2 1
-anvil 2 4 0
+7 10 spaced
+usage 1 1 0
+given 4 1 1
+lunge 2 5 0
+enact 6 5 1

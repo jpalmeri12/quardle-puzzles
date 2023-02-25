@@ -1,5 +1,5 @@
-6 6 soundscramble
-wrack 1 1 0
-rhyma 2 1 1
-cherm 4 1 1
-umbre 1 4 0
+7 8 soundscramble
+obart 1 1 0
+rivol 4 1 1
+scane 2 3 1
+crote 2 4 0

@@ -1,0 +1,5 @@
+7 10 reverse
+cloud 2 1 1
+idyll 1 5 0
+ynots 3 5 1
+etsaw 2 8 0

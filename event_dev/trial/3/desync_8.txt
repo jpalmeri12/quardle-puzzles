@@ -1,5 +1,0 @@
-7 8 desync
-eject 1 1 0
-joist 2 1 1
-clang 5 3 1
-shyly 2 4 0

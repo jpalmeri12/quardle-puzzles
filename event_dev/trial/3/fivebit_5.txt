@@ -1,7 +1,7 @@
-6 10 fivebit
-merge 2 1 1
-sissy 5 1 1
-press 1 3 0
-nerdy 1 5 0
-downy 4 5 1
-!fivebit 0,1,27 0,0,13 1,1,14 1,0,19 2,3,7 2,0,2 3,2,18 3,0,9 4,1,16 4,3,22
+6 9 fivebit
+alter 3 1 1
+chafe 1 4 1
+tying 5 4 1
+hurry 1 5 0
+flown 1 7 0
+!fivebit 0,0,14 0,1,18 1,2,19 1,0,31 2,2,7 2,0,16 3,3,2 3,1,25 4,2,8 4,1,22

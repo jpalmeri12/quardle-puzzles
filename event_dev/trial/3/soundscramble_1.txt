@@ -1,5 +1,5 @@
 7 8 soundscramble
-swemi 4 1 1
-staed 1 3 0
-titla 2 3 1
-third 2 5 0
+bayuo 3 1 1
+peace 1 2 0
+furge 6 3 1
+roder 2 5 0

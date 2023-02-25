@@ -1,5 +1,5 @@
-6 6 invention
-facet 3 1 1
-adorn 5 1 1
-hoard 1 2 0
-eaten 1 5 0
+7 8 invention
+riper 1 1 0
+imply 2 1 1
+phase 2 3 0
+adopt 4 3 1

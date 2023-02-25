@@ -1,6 +1,6 @@
 7 10 undercover
-ascot 2 1 0
-swoon 3 1 1
-dally 5 3 1
-zonal 1 5 0
-eerie 1 9 0
+issue 1 1 0
+skimp 2 1 1
+usher 4 3 1
+mushy 2 4 0
+cabal 1 9 0

@@ -1,5 +1,0 @@
-6 6 elbowroom
-inlay 2 1 1
-broth 4 1 1
-snarl 1 2 0
-cacti 1 4 0

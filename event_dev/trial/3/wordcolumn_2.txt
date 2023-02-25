@@ -1,6 +1,0 @@
-7 9 wordcolumn
-crest 1 1 1
-adopt 3 4 1
-tying 5 4 1
-today 1 5 0
-spine 2 7 0

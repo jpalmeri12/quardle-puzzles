@@ -1,9 +1,0 @@
-6 10 beforeafter
-fetus 5 1 1
-chant 1 3 0
-amass 1 5 0
-mayor 2 5 1
-!beforeafter 1 n
-!beforeafter 2 k
-!beforeafter 2 n
-!beforeafter 1 n

@@ -1,5 +1,5 @@
-6 7 frequency
-knack 5 1 1
-often 1 2 0
-fiend 2 2 1
-sneak 1 5 0
+6 9 frequency
+opera 2 1 1
+hobby 5 4 1
+banjo 1 5 0
+leafy 1 8 0

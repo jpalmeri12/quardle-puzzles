@@ -1,5 +1,5 @@
-7 7 spin
-abate 2 1 1
-baker 2 2 0
-krill 4 2 1
-attic 1 4 0
+7 10 spin
+chill 4 1 1
+slick 2 3 0
+hello 1 5 0
+ethos 2 5 1

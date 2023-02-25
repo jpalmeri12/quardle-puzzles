@@ -1,5 +1,5 @@
-7 9 beta
-utile 5 1 1
-femur 3 4 1
-renew 2 5 0
-worst 1 8 0
+6 9 beta
+caste 1 1 0
+snarl 3 1 1
+shrub 1 4 0
+scree 1 4 1

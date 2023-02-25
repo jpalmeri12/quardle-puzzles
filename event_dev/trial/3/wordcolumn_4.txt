@@ -1,6 +1,0 @@
-7 8 wordcolumn
-moody 1 1 0
-dowel 4 1 1
-fewer 2 3 0
-flock 2 3 1
-rally 6 3 1
