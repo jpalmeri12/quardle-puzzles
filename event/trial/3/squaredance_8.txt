@@ -1,0 +1,6 @@
+6 8 squaredance
+short 1 1 1
+knead 5 1 1
+shook 1 1 0
+tried 1 5 0
+cameo 1 7 0

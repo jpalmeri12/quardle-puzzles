@@ -1,0 +1,5 @@
+7 9 spaced
+daily 6 1 1
+bowel 2 4 0
+octal 3 4 1
+fraud 1 7 0

@@ -1,0 +1,5 @@
+6 7 bestfit
+champ 1 1 1
+humus 1 2 0
+sooth 5 2 1
+mango 1 4 0

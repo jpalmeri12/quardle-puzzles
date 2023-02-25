@@ -1,0 +1,5 @@
+7 9 desync
+ramen 6 1 1
+creed 3 4 1
+train 2 5 0
+geeky 1 7 0

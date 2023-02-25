@@ -1,0 +1,5 @@
+7 7 shiritori
+scarf 2 1 1
+drool 5 2 1
+tamer 1 3 0
+favor 2 5 0

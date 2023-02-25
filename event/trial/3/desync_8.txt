@@ -1,0 +1,5 @@
+7 7 desync
+badge 1 1 0
+axiom 2 1 1
+agent 6 2 1
+ozone 2 4 0

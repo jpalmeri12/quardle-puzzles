@@ -1,0 +1,5 @@
+6 9 bestfit
+risky 5 1 1
+wreck 1 4 0
+epoxy 3 4 1
+vixen 1 7 0

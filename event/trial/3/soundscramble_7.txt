@@ -1,0 +1,5 @@
+7 9 soundscramble
+bongi 3 1 1
+vocar 2 2 0
+spiil 5 4 1
+stimp 1 5 0

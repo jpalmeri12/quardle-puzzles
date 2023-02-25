@@ -1,0 +1,5 @@
+7 7 dblltr
+stash 2 1 1
+taboo 2 2 0
+order 5 2 1
+three 1 5 0

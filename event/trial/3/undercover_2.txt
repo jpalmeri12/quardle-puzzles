@@ -1,0 +1,6 @@
+7 11 undercover
+plaza 2 1 1
+fizzy 4 4 1
+anime 2 5 0
+vinyl 1 8 0
+scour 1 10 0

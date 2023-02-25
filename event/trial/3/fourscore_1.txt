@@ -1,0 +1,5 @@
+7 9 fourscore
+slunk 5 1 1
+gayly 2 2 0
+corny 3 4 1
+cloak 1 5 0

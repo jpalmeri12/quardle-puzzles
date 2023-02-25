@@ -1,0 +1,6 @@
+7 10 undercover
+after 1 1 0
+forty 2 1 1
+enact 4 3 1
+tangy 2 4 0
+skimp 1 9 0

@@ -1,0 +1,6 @@
+7 10 island
+drawl 1 1 0
+would 4 1 1
+ledge 2 5 0
+eject 3 5 1
+!island 221 2111 211 1111

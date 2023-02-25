@@ -1,0 +1,5 @@
+7 9 shiritori
+scalp 2 1 1
+ennui 5 4 1
+prune 2 5 0
+quasi 1 8 0

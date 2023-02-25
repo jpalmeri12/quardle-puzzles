@@ -1,0 +1,5 @@
+7 8 spaced
+prune 4 1 1
+afoul 1 3 0
+focus 2 3 1
+cream 2 5 0

@@ -1,0 +1,5 @@
+7 8 hardmode
+first 2 1 1
+filth 2 1 0
+bring 1 3 0
+guile 5 3 1

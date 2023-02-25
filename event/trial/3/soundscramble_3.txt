@@ -1,0 +1,5 @@
+6 7 soundscramble
+varga 4 1 1
+whisk 1 2 1
+wexan 1 2 0
+imega 1 4 0

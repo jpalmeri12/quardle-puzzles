@@ -1,0 +1,5 @@
+7 10 dblltr
+abbey 1 1 0
+blurb 2 1 1
+bible 2 5 0
+lasso 5 5 1

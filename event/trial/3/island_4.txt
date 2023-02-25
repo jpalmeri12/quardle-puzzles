@@ -1,0 +1,6 @@
+7 9 island
+lapel 2 1 1
+loose 2 1 0
+pedal 5 4 1
+slope 1 5 0
+!island 211 22 221 32

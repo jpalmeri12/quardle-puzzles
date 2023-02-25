@@ -1,0 +1,5 @@
+7 10 bestfit
+leaky 5 1 1
+green 2 2 0
+sooty 1 5 0
+oaken 2 5 1

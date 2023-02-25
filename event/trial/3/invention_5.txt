@@ -1,0 +1,5 @@
+7 9 invention
+scram 1 1 0
+crank 2 1 1
+panic 5 4 1
+kebab 2 5 0

@@ -1,0 +1,5 @@
+7 7 dblltr
+iliac 2 1 1
+gloss 1 2 0
+stilt 5 2 1
+coyly 2 5 0

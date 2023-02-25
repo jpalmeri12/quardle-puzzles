@@ -1,0 +1,5 @@
+6 9 clockdown
+towel 4 1 1
+pilot 1 2 0
+islet 1 4 0
+icily 1 4 1

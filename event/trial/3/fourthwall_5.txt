@@ -1,0 +1,7 @@
+6 6 fourthwall
+miser 1 1 0
+magma 1 1 1
+gouge 1 3 0
+skull 3 1 1
+alley 1 5 0
+reedy 5 1 1

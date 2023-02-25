@@ -1,0 +1,6 @@
+7 11 undercover
+kebab 2 1 1
+waver 5 4 1
+bleat 2 5 0
+curve 1 7 0
+synod 1 10 0

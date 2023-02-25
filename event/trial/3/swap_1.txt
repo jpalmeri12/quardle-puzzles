@@ -1,0 +1,5 @@
+7 10 swap
+otxic 2 1 1
+chunr 2 5 0
+hsunt 3 5 1
+sunck 1 8 0

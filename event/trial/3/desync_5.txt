@@ -1,0 +1,5 @@
+6 8 desync
+locus 1 1 1
+joker 5 3 1
+stick 1 5 0
+error 1 7 0

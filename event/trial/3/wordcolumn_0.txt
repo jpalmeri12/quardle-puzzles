@@ -1,0 +1,6 @@
+7 10 wordcolumn
+vying 3 1 1
+pique 2 3 0
+until 5 3 1
+ingot 1 5 0
+noisy 2 5 1

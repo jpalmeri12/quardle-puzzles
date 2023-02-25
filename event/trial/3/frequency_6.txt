@@ -1,0 +1,5 @@
+7 9 frequency
+spied 3 1 1
+vapor 1 2 0
+heath 2 4 0
+hurry 6 4 1

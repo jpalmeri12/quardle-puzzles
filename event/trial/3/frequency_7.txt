@@ -1,0 +1,5 @@
+7 9 frequency
+smock 2 1 0
+macaw 3 1 1
+heath 1 4 0
+hoist 1 4 1

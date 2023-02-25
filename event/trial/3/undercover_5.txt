@@ -1,0 +1,6 @@
+7 12 undercover
+spire 5 1 1
+chief 2 5 0
+cameo 2 5 1
+reach 1 8 0
+nutty 1 11 0

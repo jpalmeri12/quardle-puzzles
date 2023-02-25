@@ -1,0 +1,5 @@
+7 10 swap
+srcub 3 1 1
+picnh 1 3 0
+abggy 2 5 0
+acuse 2 5 1

@@ -1,0 +1,5 @@
+6 9 spin
+tiara 5 1 1
+swami 1 2 0
+eager 1 4 0
+ether 1 4 1

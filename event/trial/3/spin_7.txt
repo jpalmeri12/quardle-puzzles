@@ -1,0 +1,5 @@
+7 9 spin
+night 5 1 1
+dutch 1 4 0
+tough 3 4 1
+agate 2 7 0

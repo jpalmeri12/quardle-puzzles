@@ -1,0 +1,5 @@
+6 9 clockdown
+putty 1 1 1
+usurp 1 2 0
+tepid 1 4 0
+decal 5 4 1

@@ -1,0 +1,5 @@
+6 7 swap
+lbind 1 1 1
+babot 1 2 0
+belep 3 2 1
+nilet 1 4 0

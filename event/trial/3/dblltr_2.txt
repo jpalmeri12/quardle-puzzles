@@ -1,0 +1,5 @@
+7 9 dblltr
+ionic 1 1 1
+skunk 5 4 1
+crick 1 5 0
+khaki 2 8 0

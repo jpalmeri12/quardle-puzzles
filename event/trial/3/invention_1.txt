@@ -1,0 +1,5 @@
+7 10 invention
+sushi 3 1 1
+squat 1 2 0
+minty 2 5 0
+ninny 4 5 1

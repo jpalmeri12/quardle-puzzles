@@ -1,0 +1,5 @@
+7 10 fourscore
+fifth 2 1 1
+fresh 2 3 0
+ahead 1 5 0
+angst 4 5 1

@@ -1,0 +1,6 @@
+6 8 squaredance
+betel 1 1 1
+nanny 5 1 1
+begun 1 1 0
+lofty 1 5 0
+maize 1 7 0

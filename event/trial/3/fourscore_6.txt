@@ -1,0 +1,5 @@
+7 10 fourscore
+brain 4 1 1
+snore 1 2 0
+manic 2 5 0
+above 3 5 1

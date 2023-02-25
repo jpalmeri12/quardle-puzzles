@@ -1,0 +1,5 @@
+6 8 spin
+askew 1 1 0
+shape 2 1 1
+skiff 4 3 1
+spiky 1 4 0

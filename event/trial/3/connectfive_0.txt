@@ -1,0 +1,6 @@
+7 10 connectfive
+purge 4 1 1
+vouch 2 2 0
+upset 1 5 0
+stiff 3 5 1
+tilde 2 7 0

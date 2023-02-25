@@ -1,0 +1,5 @@
+7 8 reverse
+topic 5 1 1
+linen 3 3 1
+enecs 2 5 0
+lyniv 1 7 0

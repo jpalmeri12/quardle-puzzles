@@ -1,0 +1,5 @@
+7 7 hardmode
+hovel 5 1 1
+savoy 2 2 0
+spiny 2 2 1
+snarl 1 5 0

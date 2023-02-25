@@ -1,0 +1,5 @@
+7 10 shiritori
+iliac 4 1 1
+modal 2 5 1
+macho 2 5 0
+facet 1 8 0

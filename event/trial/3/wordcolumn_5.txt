@@ -1,0 +1,6 @@
+6 10 wordcolumn
+comma 1 1 1
+chime 1 1 0
+agent 4 4 1
+adage 1 5 0
+death 2 5 1

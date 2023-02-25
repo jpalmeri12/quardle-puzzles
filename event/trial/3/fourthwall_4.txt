@@ -1,0 +1,7 @@
+6 6 fourthwall
+sumac 1 1 0
+sight 1 1 1
+gassy 1 3 0
+mossy 3 1 1
+tryst 1 5 0
+crypt 5 1 1

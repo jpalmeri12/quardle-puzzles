@@ -1,0 +1,7 @@
+6 6 fourthwall
+vague 1 1 0
+vigil 1 1 1
+gouge 1 3 0
+gruff 3 1 1
+lefty 1 5 0
+enemy 5 1 1

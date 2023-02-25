@@ -1,0 +1,9 @@
+6 6 spellbound
+sling 1 1 0
+lemon 2 1 1
+gaunt 5 1 1
+woman 1 4 0
+!spellbound 0 2 3
+!spellbound 1 1 4
+!spellbound 2 4 1
+!spellbound 3 0 3

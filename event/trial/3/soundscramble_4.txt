@@ -1,0 +1,5 @@
+6 7 soundscramble
+obhar 1 1 1
+babby 1 2 0
+berth 3 2 1
+rotia 1 5 0

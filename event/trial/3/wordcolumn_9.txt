@@ -1,0 +1,6 @@
+7 10 wordcolumn
+canon 3 1 1
+gnash 2 3 0
+stage 5 3 1
+mania 1 5 0
+adult 2 5 1

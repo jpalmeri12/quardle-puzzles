@@ -1,0 +1,6 @@
+7 12 connectfive
+slush 1 1 1
+slang 1 4 0
+aloof 3 4 1
+force 2 7 0
+embed 6 7 1

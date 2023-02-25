@@ -1,0 +1,5 @@
+7 8 swap
+parak 5 1 1
+chari 2 3 0
+hrury 3 3 1
+hsuck 1 5 0

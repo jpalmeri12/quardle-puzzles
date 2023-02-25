@@ -1,0 +1,5 @@
+7 10 invention
+close 4 1 1
+swear 2 5 0
+waxen 3 5 1
+pixel 1 7 0

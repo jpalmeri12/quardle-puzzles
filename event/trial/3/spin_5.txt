@@ -1,0 +1,5 @@
+7 9 spin
+sower 2 1 0
+ester 5 1 1
+loopy 2 4 1
+power 1 5 0

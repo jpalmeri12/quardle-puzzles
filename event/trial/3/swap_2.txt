@@ -1,0 +1,5 @@
+7 8 swap
+vapdi 1 1 0
+dithc 4 1 1
+lsain 2 3 1
+accti 2 5 0

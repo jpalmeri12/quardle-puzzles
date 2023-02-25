@@ -1,0 +1,5 @@
+7 8 spaced
+homer 2 1 1
+match 2 3 0
+tawny 4 3 1
+drawn 1 5 0

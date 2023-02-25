@@ -1,0 +1,5 @@
+7 10 hardmode
+tuber 6 1 1
+tapir 2 5 0
+panel 4 5 1
+blank 1 7 0

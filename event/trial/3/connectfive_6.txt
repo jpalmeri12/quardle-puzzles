@@ -1,0 +1,6 @@
+7 10 connectfive
+whine 4 1 1
+enjoy 1 2 1
+oaken 1 5 0
+nomad 5 5 1
+bylaw 2 8 0

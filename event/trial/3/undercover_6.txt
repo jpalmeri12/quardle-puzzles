@@ -1,0 +1,6 @@
+7 9 undercover
+dally 1 1 1
+marry 5 2 1
+lower 1 4 0
+vinyl 2 6 0
+stuff 1 8 0

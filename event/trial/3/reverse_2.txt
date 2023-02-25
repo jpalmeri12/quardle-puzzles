@@ -1,0 +1,5 @@
+7 10 reverse
+llams 1 1 1
+siege 1 5 0
+gruel 4 5 1
+tsurc 2 7 0

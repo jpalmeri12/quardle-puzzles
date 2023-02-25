@@ -1,0 +1,5 @@
+7 10 invention
+gloss 2 1 1
+sooty 1 3 0
+salve 2 5 0
+amuse 3 5 1

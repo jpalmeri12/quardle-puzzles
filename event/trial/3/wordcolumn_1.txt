@@ -1,0 +1,6 @@
+7 8 wordcolumn
+ester 1 1 0
+sling 2 1 1
+islet 2 3 0
+elbow 5 3 1
+gumbo 2 5 0

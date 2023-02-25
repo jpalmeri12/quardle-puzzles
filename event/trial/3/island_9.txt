@@ -1,0 +1,6 @@
+7 8 island
+cheat 4 1 1
+bobby 2 3 1
+bless 2 3 0
+abate 1 5 0
+!island 11111 111 211 1111

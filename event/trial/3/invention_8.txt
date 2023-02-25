@@ -1,0 +1,5 @@
+7 8 invention
+dirty 2 1 0
+doubt 2 1 1
+hunky 1 3 0
+koala 4 3 1

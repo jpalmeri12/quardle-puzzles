@@ -1,0 +1,5 @@
+7 8 frequency
+manly 4 1 1
+urine 1 3 0
+rebut 2 3 1
+trace 2 7 0

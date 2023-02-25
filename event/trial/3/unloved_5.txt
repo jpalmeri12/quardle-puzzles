@@ -1,0 +1,5 @@
+7 9 unloved
+salty 5 1 1
+taker 3 4 1
+heavy 1 5 0
+truss 2 8 0

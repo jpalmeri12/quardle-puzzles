@@ -1,0 +1,5 @@
+7 9 unloved
+cacti 2 1 1
+aptly 2 2 0
+ester 4 4 1
+gipsy 1 5 0

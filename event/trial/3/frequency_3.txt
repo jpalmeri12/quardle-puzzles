@@ -1,0 +1,5 @@
+7 10 frequency
+locus 3 1 1
+issue 2 5 0
+idiom 2 5 1
+sissy 1 7 0

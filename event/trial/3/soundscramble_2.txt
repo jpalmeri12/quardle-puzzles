@@ -1,0 +1,5 @@
+6 8 soundscramble
+pipul 1 1 1
+paunt 1 1 0
+pagan 1 3 0
+griel 3 3 1

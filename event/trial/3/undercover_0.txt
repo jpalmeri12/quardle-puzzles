@@ -1,0 +1,6 @@
+7 10 undercover
+patch 1 1 0
+cling 4 1 1
+waist 2 3 0
+table 6 3 1
+muddy 1 9 0

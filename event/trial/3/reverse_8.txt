@@ -1,0 +1,5 @@
+7 7 reverse
+triks 4 1 1
+wordy 2 2 0
+windy 2 2 1
+gnike 1 4 0

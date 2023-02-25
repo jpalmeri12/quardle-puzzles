@@ -1,0 +1,6 @@
+7 10 island
+whelp 1 1 0
+prawn 5 1 1
+fiend 2 5 0
+icily 3 5 1
+!island 221 2111 311 1111

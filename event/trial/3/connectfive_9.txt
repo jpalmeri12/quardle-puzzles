@@ -1,0 +1,6 @@
+7 11 connectfive
+dowel 1 1 1
+edict 1 4 0
+cycle 4 4 1
+bylaw 6 6 1
+alley 2 7 0

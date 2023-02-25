@@ -1,0 +1,5 @@
+7 8 soundscramble
+panca 1 1 0
+cader 4 1 1
+redii 2 3 0
+icily 6 3 1
