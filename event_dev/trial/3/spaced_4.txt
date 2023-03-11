@@ -1,5 +1,0 @@
-7 8 spaced
-welsh 1 1 0
-heavy 5 1 1
-equal 2 3 0
-eclat 2 3 1

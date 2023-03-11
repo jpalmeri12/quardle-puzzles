@@ -1,5 +1,0 @@
-6 7 reverse
-ynwat 1 1 1
-nixot 1 2 0
-turbo 5 2 1
-actor 1 4 0

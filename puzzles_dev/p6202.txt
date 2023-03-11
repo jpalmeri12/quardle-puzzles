@@ -1,5 +1,0 @@
-7 10
-flirt 6 1 1
-crier 2 5 1
-chant 2 5 0
-grass 1 9 0

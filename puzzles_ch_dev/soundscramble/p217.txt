@@ -1,5 +1,0 @@
-6 10 soundscramble
-gumba 2 1 1
-umbro 1 3 0
-dagmo 1 5 0
-onkle 5 5 1

@@ -1,5 +1,0 @@
-7 9 buyavowel
-reign 2 1 1
-wench 1 2 0
-guilt 2 4 0
-tarot 6 4 1

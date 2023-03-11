@@ -1,5 +1,0 @@
-7 9 darkness
-arena 2 4 1
-aside 1 1 0
-debit 4 1 1
-alike 2 4 0

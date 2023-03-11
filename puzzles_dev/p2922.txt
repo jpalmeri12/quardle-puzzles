@@ -1,5 +1,0 @@
-7 8
-lobby 1 1 0
-baker 4 1 1
-joker 2 3 0
-jewel 2 3 1

@@ -1,5 +1,0 @@
-7 9
-quell 5 1 1
-venue 2 2 0
-shelf 1 4 1
-hazel 1 5 0

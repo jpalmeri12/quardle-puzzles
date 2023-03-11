@@ -1,5 +1,0 @@
-6 9 scrabble
-trend 1 1 0
-deity 1 4 1
-ebony 1 5 0
-dodgy 5 1 1

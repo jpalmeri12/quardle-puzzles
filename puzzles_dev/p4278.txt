@@ -1,5 +1,0 @@
-6 10
-cedar 4 1 1
-parry 1 5 0
-abate 2 5 1
-patsy 1 7 0

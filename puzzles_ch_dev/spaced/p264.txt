@@ -1,5 +1,0 @@
-7 8 spaced
-usage 4 1 1
-prank 2 3 1
-cameo 1 5 0
-knave 2 7 0

@@ -1,5 +1,0 @@
-6 6 dblltr
-drool 2 1 1
-ferry 5 1 1
-bribe 1 2 0
-rover 1 4 0

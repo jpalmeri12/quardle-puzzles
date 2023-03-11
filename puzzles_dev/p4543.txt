@@ -1,5 +1,0 @@
-6 9
-marsh 5 1 1
-olden 2 4 1
-sloth 1 5 0
-knave 1 8 0

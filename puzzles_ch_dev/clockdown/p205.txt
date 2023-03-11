@@ -1,5 +1,0 @@
-7 10 clockdown
-carry 5 1 1
-spicy 1 5 0
-piety 2 5 1
-eagle 2 7 0

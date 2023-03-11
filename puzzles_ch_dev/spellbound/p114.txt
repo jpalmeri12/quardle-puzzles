@@ -1,9 +1,0 @@
-6 10 spellbound
-usher 4 1 1
-ultra 1 5 0
-trace 3 5 1
-brace 1 7 0
-!spellbound 0 1 2
-!spellbound 1 0 4
-!spellbound 2 1 3
-!spellbound 3 1 4

@@ -1,9 +1,0 @@
-6 9 beforeafter
-trope 4 1 1
-adopt 1 4 0
-debut 2 4 1
-surge 1 7 0
-!beforeafter 1 q
-!beforeafter 1 l
-!beforeafter 2 q
-!beforeafter 2 m

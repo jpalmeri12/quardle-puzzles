@@ -1,5 +1,0 @@
-6 8 fourscore
-spasm 5 1 1
-pique 3 3 1
-bliss 1 4 0
-enemy 1 7 0

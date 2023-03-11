@@ -1,6 +1,0 @@
-6 10 connectfive
-humus 1 1 1
-vapor 4 2 1
-molar 1 3 0
-scoop 1 5 0
-canon 2 5 1

@@ -1,5 +1,0 @@
-7 10
-cleat 4 1 1
-hilly 1 2 0
-petty 2 5 0
-poker 2 5 1

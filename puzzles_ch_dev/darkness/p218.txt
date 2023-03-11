@@ -1,5 +1,0 @@
-7 10 darkness
-knelt 5 5 1
-truly 2 3 0
-utter 2 1 1
-creak 1 5 0

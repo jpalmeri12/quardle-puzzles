@@ -1,5 +1,0 @@
-7 9
-vowel 2 1 1
-ovoid 2 2 0
-hedge 1 4 0
-gamer 4 4 1

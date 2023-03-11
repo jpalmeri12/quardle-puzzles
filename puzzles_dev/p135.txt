@@ -1,5 +1,0 @@
-7 10
-tibia 3 1 1
-quash 1 5 0
-slept 4 5 1
-hutch 2 9 0

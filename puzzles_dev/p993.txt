@@ -1,5 +1,0 @@
-6 10
-power 1 1 0
-retry 5 1 1
-goody 1 5 0
-occur 3 5 1

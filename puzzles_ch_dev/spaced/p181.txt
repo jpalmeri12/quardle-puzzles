@@ -1,5 +1,0 @@
-7 10 spaced
-ombre 5 1 1
-askew 2 5 0
-sneak 3 5 1
-react 1 8 0

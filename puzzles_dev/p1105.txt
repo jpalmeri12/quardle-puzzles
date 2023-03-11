@@ -1,5 +1,0 @@
-7 7
-daisy 5 1 1
-shoal 2 2 0
-stalk 2 2 1
-basis 1 4 0

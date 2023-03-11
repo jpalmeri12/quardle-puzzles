@@ -1,5 +1,0 @@
-7 9 desync
-floor 5 1 1
-gusto 1 4 0
-shone 3 4 1
-unset 2 7 0

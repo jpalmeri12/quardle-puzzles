@@ -1,5 +1,0 @@
-7 10
-pizza 4 1 1
-bleat 1 5 0
-lurid 2 5 1
-route 2 7 0

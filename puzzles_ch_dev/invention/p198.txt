@@ -1,5 +1,0 @@
-6 8 invention
-stalk 1 1 0
-lasso 4 1 1
-patsy 1 3 0
-pesky 1 3 1

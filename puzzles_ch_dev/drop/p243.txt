@@ -1,6 +1,0 @@
-7 12 drop
-abode 1 1 0
-bless 2 1 1
-slink 2 5 0
-niche 5 5 1
-brash 1 11 0

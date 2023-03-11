@@ -1,5 +1,0 @@
-6 9 swap
-plupm 4 1 1
-scapm 1 4 0
-ccaao 2 4 1
-fabel 1 7 0

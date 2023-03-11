@@ -1,5 +1,0 @@
-7 10
-outdo 5 1 1
-bluer 2 5 1
-broom 2 5 0
-bevel 1 8 0

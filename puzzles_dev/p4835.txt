@@ -1,5 +1,0 @@
-7 10
-snuck 5 1 1
-scant 2 2 0
-creak 1 5 0
-craze 1 5 1

@@ -1,5 +1,0 @@
-7 10
-cover 2 1 0
-email 5 1 1
-pearl 1 5 0
-ember 2 5 1

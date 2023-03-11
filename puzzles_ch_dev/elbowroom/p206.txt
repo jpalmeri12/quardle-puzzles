@@ -1,5 +1,0 @@
-6 8 elbowroom
-panic 1 1 0
-child 5 1 1
-vapid 3 3 1
-lipid 1 5 0

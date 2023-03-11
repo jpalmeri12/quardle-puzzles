@@ -1,5 +1,0 @@
-7 9
-fecal 3 1 1
-stomp 5 4 1
-slate 2 5 0
-tramp 1 8 0

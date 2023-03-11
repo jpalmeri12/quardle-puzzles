@@ -1,5 +1,0 @@
-7 10 duplicity
-tacit 5 1 1
-niece 2 3 0
-elect 1 5 0
-canal 4 5 1

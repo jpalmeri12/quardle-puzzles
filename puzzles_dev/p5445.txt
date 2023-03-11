@@ -1,5 +1,0 @@
-7 9
-bless 5 1 1
-bully 2 2 0
-scant 3 4 1
-ficus 1 5 0

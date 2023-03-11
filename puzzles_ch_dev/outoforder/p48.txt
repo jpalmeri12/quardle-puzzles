@@ -1,5 +1,0 @@
-7 8 outoforder
-mafia 3 1 1
-solid 5 3 1
-gayly 2 5 0
-proud 1 7 0

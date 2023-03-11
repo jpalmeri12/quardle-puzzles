@@ -1,5 +1,0 @@
-6 8 sweeper
-older 1 1 1
-stake 5 3 1
-exult 1 4 0
-aisle 1 7 0

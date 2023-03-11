@@ -1,7 +1,0 @@
-7 12 secretdistance
-bless 4 1 1
-abyss 1 5 0
-swoon 5 5 1
-furor 2 7 0
-fleet 1 11 0
-!sdpos 1 2 2 0

@@ -1,5 +1,0 @@
-7 9
-skirt 2 1 0
-incur 4 1 1
-scout 1 4 0
-crimp 2 4 1

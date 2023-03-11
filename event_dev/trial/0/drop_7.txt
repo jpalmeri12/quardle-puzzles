@@ -1,6 +1,0 @@
-6 10 drop
-aside 5 1 1
-magma 3 3 1
-gland 1 4 0
-leaky 1 7 0
-baggy 1 9 0

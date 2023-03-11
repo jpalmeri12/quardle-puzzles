@@ -1,5 +1,0 @@
-6 9
-paint 5 1 1
-fraud 3 4 1
-tarot 1 5 0
-gourd 1 7 0

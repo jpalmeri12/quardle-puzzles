@@ -1,6 +1,0 @@
-6 10 wordcolumn
-ethos 1 1 1
-amaze 4 3 1
-sedan 1 5 0
-elegy 2 5 1
-syrup 1 9 0

@@ -1,5 +1,0 @@
-7 9 bestfit
-sully 5 1 1
-scrub 2 2 0
-grill 1 4 0
-radii 2 4 1

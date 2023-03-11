@@ -1,5 +1,0 @@
-7 10
-diner 4 1 1
-burnt 1 3 0
-corny 2 5 0
-nutty 5 5 1

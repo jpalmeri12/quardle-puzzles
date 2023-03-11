@@ -1,5 +1,0 @@
-7 9
-bulge 4 1 1
-proud 1 2 0
-stein 6 4 1
-sweet 2 5 0

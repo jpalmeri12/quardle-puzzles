@@ -1,7 +1,0 @@
-8 8 sixbox
-condo 3 1 1
-dread 5 1 1
-pence 1 3 0
-crumb 4 3 1
-drawl 3 4 0
-cloud 1 5 0

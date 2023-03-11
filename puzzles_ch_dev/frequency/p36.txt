@@ -1,5 +1,0 @@
-6 9 frequency
-rally 5 1 1
-scalp 3 4 1
-picky 1 5 0
-holly 1 7 0

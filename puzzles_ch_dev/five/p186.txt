@@ -1,6 +1,0 @@
-7 9 five
-acrid 1 1 0
-inept 4 1 1
-camel 1 3 0
-tooth 6 4 1
-motto 2 5 0

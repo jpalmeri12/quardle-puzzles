@@ -1,5 +1,0 @@
-7 8 soundscramble
-anemi 5 1 1
-strep 2 3 0
-torch 3 3 1
-ithir 1 7 0

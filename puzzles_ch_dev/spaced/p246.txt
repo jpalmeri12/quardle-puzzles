@@ -1,5 +1,0 @@
-6 8 spaced
-jumbo 1 1 0
-mocha 3 1 1
-royal 5 3 1
-teary 1 5 0

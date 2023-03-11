@@ -1,5 +1,0 @@
-6 8
-forge 2 1 1
-frown 1 3 0
-wreak 4 3 1
-picky 1 7 0

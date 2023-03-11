@@ -1,5 +1,0 @@
-6 7
-stink 4 1 1
-venue 1 2 1
-vista 1 2 0
-nanny 1 4 0

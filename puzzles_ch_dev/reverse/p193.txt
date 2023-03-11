@@ -1,5 +1,0 @@
-7 7 reverse
-alarm 3 1 1
-yllad 1 2 0
-dworc 5 2 1
-brook 2 4 0

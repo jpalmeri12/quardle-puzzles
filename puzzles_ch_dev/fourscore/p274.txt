@@ -1,5 +1,0 @@
-6 7 fourscore
-rivet 1 1 1
-ingot 1 2 0
-guava 3 2 1
-email 1 4 0

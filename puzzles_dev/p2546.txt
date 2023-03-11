@@ -1,5 +1,0 @@
-7 9
-slant 5 1 1
-stank 2 4 0
-toast 3 4 1
-witch 1 8 0

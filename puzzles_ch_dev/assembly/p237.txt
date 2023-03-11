@@ -1,5 +1,0 @@
-6 10 assembly
-older 1 3 1
-trust 5 3 1
-booth 1 1 0
-fritz 1 9 0

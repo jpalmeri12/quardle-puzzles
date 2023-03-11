@@ -1,5 +1,0 @@
-7 10
-bosom 5 1 1
-humor 2 2 0
-denim 1 5 0
-itchy 4 5 1

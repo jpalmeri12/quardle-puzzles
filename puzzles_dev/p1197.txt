@@ -1,5 +1,0 @@
-7 8
-using 2 1 1
-usual 2 1 0
-width 1 3 0
-hyena 5 3 1

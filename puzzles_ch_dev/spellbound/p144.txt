@@ -1,9 +1,0 @@
-7 7 spellbound
-rigid 3 1 1
-needy 5 2 1
-egret 2 3 0
-undid 1 5 0
-!spellbound 0 3 1
-!spellbound 1 4 2
-!spellbound 2 2 4
-!spellbound 3 3 1

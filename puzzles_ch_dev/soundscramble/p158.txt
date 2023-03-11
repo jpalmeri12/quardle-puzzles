@@ -1,5 +1,0 @@
-7 9 soundscramble
-criar 2 1 1
-brush 1 2 0
-ceirn 5 4 1
-raheb 2 5 0

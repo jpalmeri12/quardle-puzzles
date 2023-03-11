@@ -1,5 +1,0 @@
-6 7 reverse
-enohp 4 1 1
-condo 1 2 1
-ognob 1 3 0
-drape 1 5 0

@@ -1,5 +1,0 @@
-7 8 beta
-virus 2 1 1
-synod 5 3 1
-fussy 1 4 0
-ruddy 2 7 0

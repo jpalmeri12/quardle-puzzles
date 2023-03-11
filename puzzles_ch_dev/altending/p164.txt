@@ -1,5 +1,0 @@
-6 9 altending
-frill 1 1 0
-dried 1 3 0
-plier 1 5 0
-lingo 1 7 0

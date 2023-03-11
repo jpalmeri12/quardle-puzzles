@@ -1,6 +1,0 @@
-7 9 five
-binge 1 1 1
-inlay 1 2 0
-large 3 2 1
-mummy 5 4 1
-femme 2 6 0

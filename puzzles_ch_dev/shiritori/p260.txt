@@ -1,5 +1,0 @@
-6 9 shiritori
-trust 1 1 1
-reedy 1 2 0
-salad 1 4 0
-leafy 3 4 1

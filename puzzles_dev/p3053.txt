@@ -1,5 +1,0 @@
-7 9
-speak 5 1 1
-sloop 1 2 0
-broke 3 4 1
-drake 2 5 0

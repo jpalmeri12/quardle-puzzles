@@ -1,5 +1,0 @@
-7 9 shiritori
-golem 6 1 1
-joint 3 4 1
-totem 2 5 0
-diner 1 7 0

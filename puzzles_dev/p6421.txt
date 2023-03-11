@@ -1,5 +1,0 @@
-6 9
-plead 1 1 1
-anode 1 4 0
-opine 3 4 1
-bingo 1 7 0

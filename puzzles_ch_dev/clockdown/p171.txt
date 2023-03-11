@@ -1,5 +1,0 @@
-7 8 clockdown
-fugue 5 1 1
-align 2 3 0
-adore 2 3 1
-posse 1 5 0

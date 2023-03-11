@@ -1,5 +1,0 @@
-6 10
-crass 4 1 1
-chasm 1 5 0
-hotly 2 5 1
-hyper 1 9 0

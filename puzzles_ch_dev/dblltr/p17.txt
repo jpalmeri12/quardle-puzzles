@@ -1,5 +1,0 @@
-7 8 dblltr
-genre 1 1 0
-evade 2 1 1
-alley 2 3 0
-elope 5 3 1

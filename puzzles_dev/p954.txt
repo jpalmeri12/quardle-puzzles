@@ -1,5 +1,0 @@
-7 9
-smile 6 1 1
-ideal 2 4 0
-dozen 3 4 1
-mange 1 8 0

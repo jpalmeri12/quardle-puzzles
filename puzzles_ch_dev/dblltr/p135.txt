@@ -1,5 +1,0 @@
-6 8 dblltr
-fence 1 1 0
-clock 4 1 1
-stool 1 3 0
-stall 1 3 1

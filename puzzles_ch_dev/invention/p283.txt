@@ -1,5 +1,0 @@
-7 9 invention
-blurb 2 1 1
-gawky 4 4 1
-beast 2 5 0
-murky 1 7 0

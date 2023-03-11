@@ -1,5 +1,0 @@
-6 6 dblltr
-taboo 1 1 0
-alpha 2 1 1
-order 5 1 1
-speed 1 3 0

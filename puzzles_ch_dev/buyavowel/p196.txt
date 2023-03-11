@@ -1,5 +1,0 @@
-6 6 buyavowel
-slime 1 1 0
-sense 1 1 1
-iliac 3 1 1
-shard 1 4 0

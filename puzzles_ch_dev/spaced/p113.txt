@@ -1,5 +1,0 @@
-7 9 spaced
-plain 2 1 1
-lapse 2 2 0
-hyena 5 4 1
-unify 1 5 0

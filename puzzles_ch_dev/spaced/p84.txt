@@ -1,5 +1,0 @@
-6 8 spaced
-twang 1 1 0
-gayer 5 1 1
-lousy 1 3 0
-urine 3 3 1

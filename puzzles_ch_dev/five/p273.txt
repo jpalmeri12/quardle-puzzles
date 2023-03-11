@@ -1,6 +1,0 @@
-6 11 five
-elite 5 1 1
-topic 3 3 1
-float 1 4 0
-fritz 1 6 1
-recur 1 7 0

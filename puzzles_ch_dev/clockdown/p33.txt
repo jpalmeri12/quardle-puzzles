@@ -1,5 +1,0 @@
-7 9 clockdown
-scald 1 1 0
-cairn 2 1 1
-robot 2 4 0
-triad 6 4 1

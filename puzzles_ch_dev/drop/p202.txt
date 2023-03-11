@@ -1,6 +1,0 @@
-6 11 drop
-shell 1 1 0
-envoy 3 1 1
-snowy 1 4 0
-slink 1 4 1
-mossy 1 10 0

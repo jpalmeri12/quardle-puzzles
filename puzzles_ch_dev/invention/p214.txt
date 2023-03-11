@@ -1,5 +1,0 @@
-6 7 invention
-valet 2 1 1
-vaunt 1 2 0
-naval 4 2 1
-verve 1 4 0

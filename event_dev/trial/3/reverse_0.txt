@@ -1,5 +1,0 @@
-7 10 reverse
-druid 4 1 1
-ylddo 2 5 0
-doubt 5 5 1
-kaerb 1 8 0

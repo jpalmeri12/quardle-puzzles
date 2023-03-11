@@ -1,5 +1,0 @@
-7 10 beta
-ascot 2 1 0
-salon 3 1 1
-rinse 1 5 0
-reply 1 5 1

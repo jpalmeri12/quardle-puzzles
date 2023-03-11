@@ -1,5 +1,0 @@
-7 9 beta
-grain 3 1 1
-first 1 2 0
-binge 2 4 0
-gripe 5 4 1

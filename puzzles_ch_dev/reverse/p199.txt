@@ -1,5 +1,0 @@
-7 10 reverse
-levon 1 1 0
-nosra 5 1 1
-float 2 5 0
-fever 2 5 1

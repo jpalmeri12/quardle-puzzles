@@ -1,5 +1,0 @@
-7 9 unloved
-sting 2 1 1
-datum 5 4 1
-gonad 2 5 0
-psalm 1 8 0

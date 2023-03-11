@@ -1,6 +1,0 @@
-7 9 island
-green 6 1 1
-ovary 4 4 1
-coven 2 5 0
-spire 1 7 0
-!island 211 11111 2111 311

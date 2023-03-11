@@ -1,8 +1,0 @@
-6 8 twins
-alien 1 1 0
-dicey 1 3 0
-ensue 1 5 0
-drama 1 7 0
-!twins 0 1
-!twins 2 3
-!twins 1 4

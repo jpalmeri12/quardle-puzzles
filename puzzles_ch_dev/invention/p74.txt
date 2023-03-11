@@ -1,5 +1,0 @@
-6 9 invention
-swami 2 1 1
-swirl 1 2 0
-smash 1 4 0
-sleep 4 4 1

@@ -1,9 +1,0 @@
-7 10 spellbound
-cello 4 1 1
-detox 1 5 0
-tipsy 3 5 1
-spawn 2 7 0
-!spellbound 0 0 2
-!spellbound 1 1 4
-!spellbound 2 1 4
-!spellbound 3 0 4

@@ -1,5 +1,0 @@
-7 10
-shore 4 1 1
-other 2 2 0
-creek 1 5 0
-coach 1 5 1

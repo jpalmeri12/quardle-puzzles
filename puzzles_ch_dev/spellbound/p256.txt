@@ -1,9 +1,0 @@
-7 9 spellbound
-proxy 3 1 1
-sixth 1 4 0
-hotel 5 4 1
-ulcer 2 7 0
-!spellbound 0 0 4
-!spellbound 1 0 1
-!spellbound 2 4 1
-!spellbound 3 0 1

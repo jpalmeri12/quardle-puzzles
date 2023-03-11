@@ -1,5 +1,0 @@
-7 8
-stoke 6 1 1
-moist 4 3 1
-kiosk 2 4 0
-fatty 1 7 0

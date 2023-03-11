@@ -1,5 +1,0 @@
-6 9
-facet 4 1 1
-gayly 2 4 1
-party 1 5 0
-myrrh 1 8 0

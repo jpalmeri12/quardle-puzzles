@@ -1,5 +1,0 @@
-7 8 darkness
-minus 2 1 1
-alike 4 3 1
-inlay 1 3 0
-swift 2 5 0

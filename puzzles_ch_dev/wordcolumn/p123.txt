@@ -1,6 +1,0 @@
-7 11 wordcolumn
-amply 1 1 1
-mound 1 2 0
-nosey 4 2 1
-royal 2 6 0
-organ 3 6 1

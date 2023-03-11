@@ -1,6 +1,0 @@
-7 10 five
-quiet 4 1 1
-scene 2 2 1
-acrid 1 3 0
-natal 2 5 0
-actor 5 5 1

@@ -1,6 +1,0 @@
-7 10 five
-ghost 2 1 1
-truce 4 3 1
-usurp 1 4 0
-flour 6 5 1
-credo 2 7 0

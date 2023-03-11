@@ -1,5 +1,0 @@
-7 9
-gonad 1 1 0
-downy 5 1 1
-think 2 4 0
-horny 3 4 1

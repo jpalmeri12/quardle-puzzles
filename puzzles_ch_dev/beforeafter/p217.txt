@@ -1,9 +1,0 @@
-7 9 beforeafter
-chest 1 1 0
-squib 4 1 1
-sniff 2 4 0
-spice 2 4 1
-!beforeafter 2 k
-!beforeafter 2 l
-!beforeafter 1 m
-!beforeafter 1 j

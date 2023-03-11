@@ -1,6 +1,0 @@
-7 10 connectfive
-revue 5 1 1
-untie 1 2 0
-tower 2 5 0
-wiser 4 5 1
-shush 1 7 0

@@ -1,9 +1,0 @@
-7 9 spellbound
-cargo 4 1 1
-shack 2 2 0
-epoch 2 4 1
-spoon 1 5 0
-!spellbound 0 3 0
-!spellbound 1 1 0
-!spellbound 2 3 0
-!spellbound 3 0 2

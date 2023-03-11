@@ -1,6 +1,0 @@
-6 8 island
-pudgy 2 1 1
-mouse 5 3 1
-igloo 1 4 0
-siege 1 7 0
-!island 311 2111 31 211

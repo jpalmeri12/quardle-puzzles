@@ -1,5 +1,0 @@
-7 10 bestfit
-comic 4 1 1
-tumor 2 3 0
-ranch 1 5 0
-homer 5 5 1

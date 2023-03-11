@@ -1,5 +1,0 @@
-6 9 outoforder
-sperm 1 1 1
-tango 4 4 1
-moral 1 5 0
-manga 1 7 0

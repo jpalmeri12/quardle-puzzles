@@ -1,5 +1,0 @@
-7 10 spaced
-valor 2 1 1
-clove 1 3 0
-ripen 2 5 0
-inter 3 5 1

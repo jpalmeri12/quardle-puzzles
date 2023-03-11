@@ -1,6 +1,0 @@
-7 8 wordcolumn
-broom 2 1 0
-ozone 4 1 1
-sonar 2 3 1
-mount 1 4 0
-randy 2 7 0

@@ -1,5 +1,0 @@
-6 8 skyscrapers
-spool 1 4 0
-grape 2 1 1
-agree 1 1 0
-booty 4 3 1

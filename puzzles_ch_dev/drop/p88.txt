@@ -1,6 +1,0 @@
-7 11 drop
-stash 1 1 1
-sloth 1 4 0
-hoist 5 4 1
-booty 2 8 0
-pithy 1 10 0

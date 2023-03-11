@@ -1,5 +1,0 @@
-7 8 frequency
-geeky 2 1 0
-grunt 2 1 1
-curly 1 3 0
-lilac 4 3 1

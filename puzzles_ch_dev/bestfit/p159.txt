@@ -1,5 +1,0 @@
-7 10 bestfit
-swarm 2 1 1
-twixt 1 2 0
-masse 2 5 0
-smash 5 5 1

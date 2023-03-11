@@ -1,5 +1,0 @@
-6 9
-crowd 4 1 1
-spark 1 2 0
-front 1 4 1
-reedy 1 5 0

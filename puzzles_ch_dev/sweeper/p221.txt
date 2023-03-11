@@ -1,5 +1,0 @@
-7 9 sweeper
-lucky 4 1 1
-stake 1 4 0
-thump 2 4 1
-proxy 2 8 0

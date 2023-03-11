@@ -1,5 +1,0 @@
-7 10
-remit 6 1 1
-worst 2 5 0
-revel 4 5 1
-ashen 1 8 0

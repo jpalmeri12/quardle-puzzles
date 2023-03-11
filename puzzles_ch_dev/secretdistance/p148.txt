@@ -1,7 +1,0 @@
-7 12 secretdistance
-aorta 4 1 1
-vapor 1 2 0
-weary 2 5 0
-egret 3 5 1
-stash 1 11 0
-!sdpos 3 2 0 1

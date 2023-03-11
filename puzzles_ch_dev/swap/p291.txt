@@ -1,5 +1,0 @@
-6 7 swap
-colwn 2 1 1
-prwol 5 2 1
-slupr 1 3 0
-inbxo 1 5 0

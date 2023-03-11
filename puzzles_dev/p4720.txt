@@ -1,5 +1,0 @@
-6 10
-trope 1 1 0
-owing 3 1 1
-begun 1 5 0
-nerve 5 5 1

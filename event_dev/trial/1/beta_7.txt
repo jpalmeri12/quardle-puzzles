@@ -1,5 +1,0 @@
-7 8 beta
-manga 4 1 1
-sandy 2 3 0
-syrup 2 3 1
-dread 1 5 0

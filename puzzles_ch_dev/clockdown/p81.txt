@@ -1,5 +1,0 @@
-7 8 clockdown
-gayer 6 1 1
-fizzy 2 3 0
-feign 2 3 1
-snare 1 7 0

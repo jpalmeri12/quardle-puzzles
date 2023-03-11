@@ -1,5 +1,0 @@
-7 10 swap
-ihtch 5 1 1
-gluch 1 5 0
-croko 4 5 1
-ploar 2 9 0

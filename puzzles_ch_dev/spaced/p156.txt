@@ -1,5 +1,0 @@
-6 6 spaced
-avoid 1 1 1
-lover 4 1 1
-vigor 1 2 0
-diary 1 5 0

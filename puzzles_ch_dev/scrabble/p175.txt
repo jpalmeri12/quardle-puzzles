@@ -1,5 +1,0 @@
-7 8 scrabble
-reuse 3 1 1
-court 1 3 0
-timid 5 3 1
-brawl 2 1 0

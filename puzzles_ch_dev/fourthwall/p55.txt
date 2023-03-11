@@ -1,7 +1,0 @@
-6 6 fourthwall
-throw 1 1 0
-topic 1 1 1
-penal 1 3 0
-randy 3 1 1
-coyly 1 5 0
-willy 5 1 1

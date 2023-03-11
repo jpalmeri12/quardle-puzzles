@@ -1,5 +1,0 @@
-6 7
-field 3 1 1
-storm 1 2 1
-tweed 1 3 0
-ridge 1 5 0

@@ -1,5 +1,0 @@
-7 10
-trade 1 1 1
-exist 1 5 0
-titan 5 5 1
-meaty 2 7 0

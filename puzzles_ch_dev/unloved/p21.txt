@@ -1,5 +1,0 @@
-7 10 unloved
-serve 5 1 1
-adore 1 5 0
-druid 2 5 1
-decoy 2 9 0

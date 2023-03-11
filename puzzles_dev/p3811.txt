@@ -1,5 +1,0 @@
-6 7
-bleed 5 1 1
-basal 1 2 0
-abbot 2 2 1
-pound 1 5 0

@@ -1,5 +1,0 @@
-7 10 duplicity
-enact 1 1 0
-arena 3 1 1
-eaten 2 5 0
-tract 4 5 1

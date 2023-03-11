@@ -1,5 +1,0 @@
-7 9 sweeper
-guess 2 1 1
-quark 1 2 0
-raven 4 4 1
-smart 2 5 0

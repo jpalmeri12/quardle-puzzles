@@ -1,5 +1,0 @@
-7 9 beta
-oxide 3 1 1
-exact 2 2 0
-tidal 1 4 0
-loath 5 4 1

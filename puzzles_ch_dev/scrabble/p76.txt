@@ -1,5 +1,0 @@
-7 8 scrabble
-route 1 1 0
-ocean 2 1 1
-awful 2 4 0
-quash 5 3 1

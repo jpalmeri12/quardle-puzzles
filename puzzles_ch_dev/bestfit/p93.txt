@@ -1,5 +1,0 @@
-7 8 bestfit
-puppy 1 1 0
-pasta 4 1 1
-cocoa 2 3 1
-craft 2 5 0

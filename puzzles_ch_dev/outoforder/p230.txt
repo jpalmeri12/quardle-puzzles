@@ -1,5 +1,0 @@
-6 7 outoforder
-visor 3 1 1
-assay 1 2 1
-sissy 1 3 0
-aorta 1 5 0

@@ -1,5 +1,0 @@
-7 10 shiritori
-cloud 5 1 1
-smile 2 2 0
-creed 1 5 0
-carol 1 5 1

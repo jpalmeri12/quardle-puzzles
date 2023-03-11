@@ -1,5 +1,0 @@
-6 6 shiritori
-spicy 2 1 1
-askew 4 1 1
-spasm 1 2 0
-octet 1 4 0

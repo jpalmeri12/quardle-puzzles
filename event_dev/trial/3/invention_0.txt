@@ -1,5 +1,0 @@
-7 10 invention
-label 5 1 1
-usual 1 5 0
-steal 2 5 1
-envoy 2 7 0

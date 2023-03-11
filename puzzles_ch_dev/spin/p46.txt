@@ -1,5 +1,0 @@
-6 10 spin
-organ 5 1 1
-clung 1 3 0
-widen 1 5 0
-idiom 2 5 1

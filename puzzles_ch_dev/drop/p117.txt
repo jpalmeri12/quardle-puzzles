@@ -1,6 +1,0 @@
-6 8 drop
-jumpy 2 1 1
-stilt 5 1 1
-quiet 1 2 0
-spill 1 4 0
-style 1 7 0

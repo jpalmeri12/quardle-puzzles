@@ -1,5 +1,0 @@
-7 10
-abuse 3 1 1
-hobby 1 2 0
-beast 2 5 0
-spout 5 5 1

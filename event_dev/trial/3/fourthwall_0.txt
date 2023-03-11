@@ -1,7 +1,0 @@
-6 6 fourthwall
-pique 1 1 0
-posit 1 1 1
-swath 1 3 0
-quart 3 1 1
-tutor 1 5 0
-ether 5 1 1

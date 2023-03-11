@@ -1,5 +1,0 @@
-7 9 invention
-pithy 6 1 1
-nymph 2 4 0
-medic 4 4 1
-caddy 1 6 0

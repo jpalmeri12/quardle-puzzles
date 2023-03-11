@@ -1,5 +1,0 @@
-6 7 fourscore
-chute 5 1 1
-batch 1 2 0
-agate 2 2 1
-haunt 1 4 0

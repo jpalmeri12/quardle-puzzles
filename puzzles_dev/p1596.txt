@@ -1,5 +1,0 @@
-6 7
-voice 4 1 1
-brook 1 2 0
-ridge 2 2 1
-edict 1 4 0

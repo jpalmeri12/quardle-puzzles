@@ -1,9 +1,0 @@
-7 7 spellbound
-husky 2 1 1
-plead 5 2 1
-skill 2 3 0
-hyena 1 5 0
-!spellbound 0 1 3
-!spellbound 1 0 2
-!spellbound 2 4 1
-!spellbound 3 0 3

@@ -1,5 +1,0 @@
-7 10 reverse
-ecaep 4 1 1
-ecaps 1 5 0
-civil 2 5 1
-vaunt 2 7 0

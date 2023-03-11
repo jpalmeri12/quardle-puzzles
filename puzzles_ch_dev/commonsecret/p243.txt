@@ -1,6 +1,0 @@
-6 7 commonsecret
-edict 3 1 1
-medic 1 2 0
-cutie 5 2 1
-recut 1 4 0
-!secret e

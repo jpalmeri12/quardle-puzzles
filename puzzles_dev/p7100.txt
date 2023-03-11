@@ -1,5 +1,0 @@
-6 7
-space 1 1 1
-probe 1 2 0
-belly 4 2 1
-exult 1 5 0

@@ -1,5 +1,0 @@
-7 10 desync
-rural 1 1 0
-afoul 4 1 1
-alley 2 5 0
-level 3 5 1

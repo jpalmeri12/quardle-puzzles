@@ -1,5 +1,0 @@
-7 9 sweeper
-shift 1 1 1
-fiber 1 4 0
-broth 3 4 1
-coral 2 6 0

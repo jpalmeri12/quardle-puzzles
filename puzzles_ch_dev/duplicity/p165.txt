@@ -1,5 +1,0 @@
-7 9 duplicity
-teeth 5 1 1
-inlet 2 2 0
-islet 1 4 0
-shine 2 4 1

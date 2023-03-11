@@ -1,5 +1,0 @@
-7 10
-trump 5 1 1
-slurp 1 5 0
-refer 4 5 1
-bleep 2 8 0

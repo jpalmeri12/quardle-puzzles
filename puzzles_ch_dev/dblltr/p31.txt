@@ -1,5 +1,0 @@
-7 7 dblltr
-fever 2 1 1
-heath 1 2 0
-thigh 4 2 1
-elide 2 4 0

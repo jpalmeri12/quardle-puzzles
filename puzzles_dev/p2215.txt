@@ -1,5 +1,0 @@
-6 10
-pearl 1 1 1
-evoke 1 2 0
-lease 1 5 0
-await 3 5 1

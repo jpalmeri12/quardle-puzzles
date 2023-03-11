@@ -1,6 +1,0 @@
-7 8 connectfive
-plaza 3 1 1
-polyp 1 2 0
-proxy 6 3 1
-salvo 2 5 0
-snowy 2 7 0

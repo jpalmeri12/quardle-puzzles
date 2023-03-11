@@ -1,5 +1,0 @@
-6 6
-waist 2 1 1
-freak 4 1 1
-dairy 1 2 0
-stake 1 5 0

@@ -1,6 +1,0 @@
-7 11 undercover
-hasty 2 1 0
-syrup 4 1 1
-croup 1 4 0
-rotor 2 4 1
-feign 1 10 0

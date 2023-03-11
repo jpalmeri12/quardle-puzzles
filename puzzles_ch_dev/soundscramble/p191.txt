@@ -1,5 +1,0 @@
-6 8 soundscramble
-frood 4 1 1
-ombor 1 3 0
-mache 2 3 1
-peech 1 7 0

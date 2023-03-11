@@ -1,5 +1,0 @@
-7 8 frequency
-ethic 2 1 1
-extra 2 1 0
-sheik 1 3 0
-imply 4 3 1

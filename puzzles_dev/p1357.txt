@@ -1,5 +1,0 @@
-7 9
-borax 1 1 0
-oxide 2 1 1
-dress 2 4 0
-spank 5 4 1

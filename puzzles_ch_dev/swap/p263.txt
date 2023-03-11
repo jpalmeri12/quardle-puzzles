@@ -1,5 +1,0 @@
-7 8 swap
-priez 6 1 1
-valdi 3 3 1
-aamze 2 4 0
-nuder 1 6 0

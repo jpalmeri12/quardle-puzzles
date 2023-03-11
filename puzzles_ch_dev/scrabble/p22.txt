@@ -1,5 +1,0 @@
-7 8 scrabble
-otter 2 1 1
-downy 1 1 0
-thick 2 3 0
-khaki 6 3 1

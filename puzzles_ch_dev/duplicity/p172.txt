@@ -1,5 +1,0 @@
-7 7 duplicity
-snowy 6 1 1
-shyly 2 2 1
-shown 2 2 0
-nylon 1 6 0

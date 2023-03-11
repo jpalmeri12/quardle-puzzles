@@ -1,5 +1,0 @@
-6 10 assembly
-friar 1 3 1
-olive 5 3 1
-floor 1 1 0
-above 1 9 0

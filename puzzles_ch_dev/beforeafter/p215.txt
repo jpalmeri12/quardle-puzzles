@@ -1,9 +1,0 @@
-7 7 beforeafter
-spell 5 1 1
-torch 2 2 1
-trope 2 2 0
-trial 1 4 0
-!beforeafter 1 n
-!beforeafter 2 n
-!beforeafter 1 q
-!beforeafter 1 p

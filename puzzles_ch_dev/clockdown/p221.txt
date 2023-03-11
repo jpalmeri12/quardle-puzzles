@@ -1,5 +1,0 @@
-6 10 clockdown
-swept 1 1 0
-wrath 2 1 1
-chaff 1 5 0
-amaze 3 5 1

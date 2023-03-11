@@ -1,5 +1,0 @@
-7 8 unloved
-derby 1 1 0
-bayou 4 1 1
-bossy 2 3 1
-shuck 2 5 0

@@ -1,5 +1,0 @@
-6 6
-grail 1 1 1
-chart 5 1 1
-retch 1 2 0
-leapt 1 5 0

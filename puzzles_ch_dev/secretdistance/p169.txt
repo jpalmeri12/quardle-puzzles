@@ -1,7 +1,0 @@
-7 11 secretdistance
-quake 6 1 1
-quark 2 4 0
-agile 4 4 1
-idyll 1 7 0
-gaudy 1 10 0
-!sdpos 1 2 0 1

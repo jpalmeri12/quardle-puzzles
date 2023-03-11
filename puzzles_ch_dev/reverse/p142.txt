@@ -1,5 +1,0 @@
-7 8 reverse
-merge 1 1 0
-gnuws 4 1 1
-dauqs 2 3 0
-speak 6 3 1

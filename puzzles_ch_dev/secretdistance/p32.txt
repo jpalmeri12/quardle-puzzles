@@ -1,7 +1,0 @@
-6 11 secretdistance
-batch 1 1 0
-crave 4 1 1
-drive 1 4 0
-dully 1 4 1
-steer 1 10 0
-!sdpos 0 0 2 2

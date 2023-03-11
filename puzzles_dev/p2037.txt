@@ -1,5 +1,0 @@
-7 10
-cliff 1 1 1
-fruit 1 5 0
-inlay 4 5 1
-pilot 2 7 0

@@ -1,5 +1,0 @@
-7 9 hardmode
-pride 1 1 1
-dandy 1 4 0
-drool 4 4 1
-adobe 2 7 0

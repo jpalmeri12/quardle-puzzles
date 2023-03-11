@@ -1,5 +1,0 @@
-6 9
-aloft 2 1 1
-bloat 4 4 1
-stall 1 5 0
-quoth 1 8 0

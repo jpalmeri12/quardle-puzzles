@@ -1,5 +1,0 @@
-7 8 invention
-woody 5 1 1
-maple 3 3 1
-beard 1 4 0
-debit 2 7 0

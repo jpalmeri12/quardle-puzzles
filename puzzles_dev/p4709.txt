@@ -1,5 +1,0 @@
-7 10
-diver 2 1 1
-vixen 2 3 0
-trunk 1 5 0
-nanny 4 5 1

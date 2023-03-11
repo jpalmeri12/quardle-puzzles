@@ -1,5 +1,0 @@
-7 9 desync
-smite 5 1 1
-scamp 2 2 0
-salsa 1 4 1
-argue 1 5 0

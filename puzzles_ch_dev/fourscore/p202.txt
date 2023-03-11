@@ -1,5 +1,0 @@
-7 10 fourscore
-verso 2 1 1
-soapy 1 5 0
-young 5 5 1
-input 2 7 0

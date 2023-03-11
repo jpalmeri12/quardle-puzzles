@@ -1,5 +1,0 @@
-7 10
-saner 4 1 1
-cramp 2 2 0
-thorn 1 5 0
-theme 1 5 1

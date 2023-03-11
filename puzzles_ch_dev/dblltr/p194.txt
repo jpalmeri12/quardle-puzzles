@@ -1,5 +1,0 @@
-7 9 dblltr
-which 5 1 1
-lilac 1 4 0
-lowly 3 4 1
-floss 2 7 0

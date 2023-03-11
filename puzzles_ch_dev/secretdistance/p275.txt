@@ -1,7 +1,0 @@
-6 10 secretdistance
-happy 1 1 0
-pygmy 3 1 1
-first 1 3 1
-royal 1 5 0
-spoof 1 9 0
-!sdpos 2 0 2 0

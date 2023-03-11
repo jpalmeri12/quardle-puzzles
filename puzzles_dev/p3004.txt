@@ -1,5 +1,0 @@
-7 10
-catch 1 1 1
-homer 1 5 0
-rally 5 5 1
-satyr 2 9 0

@@ -1,5 +1,0 @@
-7 9
-micro 2 1 0
-intro 3 1 1
-shunt 5 4 1
-cloth 1 5 0

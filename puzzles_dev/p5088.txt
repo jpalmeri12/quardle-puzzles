@@ -1,5 +1,0 @@
-7 9
-stork 5 1 1
-blitz 2 2 0
-choir 1 4 0
-canal 1 4 1

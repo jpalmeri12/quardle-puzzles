@@ -1,6 +1,0 @@
-6 11 undercover
-pixie 2 1 1
-jiffy 1 4 0
-facet 4 4 1
-covet 1 7 0
-wrung 1 10 0

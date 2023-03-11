@@ -1,5 +1,0 @@
-6 9 hardmode
-crepe 1 1 1
-risen 1 2 0
-plain 1 4 0
-ninja 5 4 1

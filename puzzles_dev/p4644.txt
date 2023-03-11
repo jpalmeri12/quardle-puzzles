@@ -1,5 +1,0 @@
-6 8
-flint 5 1 1
-stung 2 3 1
-stein 1 4 0
-agent 1 7 0

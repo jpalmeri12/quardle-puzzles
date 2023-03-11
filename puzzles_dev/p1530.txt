@@ -1,5 +1,0 @@
-7 9
-joker 2 1 1
-skier 1 3 0
-rigid 6 4 1
-rabbi 2 5 0

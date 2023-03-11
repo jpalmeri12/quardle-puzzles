@@ -1,5 +1,0 @@
-6 8 reverse
-deuce 4 1 1
-namuh 1 3 0
-amrak 2 3 1
-drier 1 5 0

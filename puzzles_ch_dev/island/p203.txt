@@ -1,6 +1,0 @@
-7 9 island
-prick 6 1 1
-sepia 4 4 1
-sleek 2 5 0
-civic 1 7 0
-!island 2111 311 22 21

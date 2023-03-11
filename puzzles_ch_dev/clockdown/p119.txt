@@ -1,5 +1,0 @@
-7 8 clockdown
-zesty 5 1 1
-abase 2 3 0
-brave 3 3 1
-amend 1 7 0

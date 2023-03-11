@@ -1,5 +1,0 @@
-6 7
-parse 5 1 1
-claim 2 2 1
-floor 1 3 0
-since 1 5 0

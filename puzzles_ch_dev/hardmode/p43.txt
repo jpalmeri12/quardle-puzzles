@@ -1,5 +1,0 @@
-7 8 hardmode
-drove 4 1 1
-trout 2 3 0
-thigh 2 3 1
-piney 1 5 0

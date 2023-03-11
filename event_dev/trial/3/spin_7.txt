@@ -1,5 +1,0 @@
-7 10 spin
-crisp 2 1 1
-ripen 2 2 0
-spell 1 5 0
-laden 5 5 1

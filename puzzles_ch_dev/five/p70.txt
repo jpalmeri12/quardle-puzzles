@@ -1,6 +1,0 @@
-7 10 five
-rarer 1 1 0
-apply 2 1 1
-racer 5 1 1
-yearn 2 5 0
-aloof 4 5 1

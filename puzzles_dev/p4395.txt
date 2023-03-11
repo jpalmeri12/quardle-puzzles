@@ -1,5 +1,0 @@
-7 10
-radar 6 1 1
-ester 2 5 0
-teeth 4 5 1
-fight 1 9 0

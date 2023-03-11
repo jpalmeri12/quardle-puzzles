@@ -1,9 +1,0 @@
-6 10 beforeafter
-pasty 1 1 0
-swami 3 1 1
-vocal 1 5 1
-vying 1 5 0
-!beforeafter 1 r
-!beforeafter 1 o
-!beforeafter 1 n
-!beforeafter 1 r

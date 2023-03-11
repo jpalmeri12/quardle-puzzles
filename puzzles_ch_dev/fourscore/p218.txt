@@ -1,5 +1,0 @@
-7 7 fourscore
-maker 6 1 1
-quite 3 2 1
-wince 2 4 0
-wrest 1 6 0

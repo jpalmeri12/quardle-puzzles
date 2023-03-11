@@ -1,5 +1,0 @@
-6 10 sweeper
-rigor 2 1 1
-grill 1 5 0
-giver 1 5 1
-rigid 1 9 0

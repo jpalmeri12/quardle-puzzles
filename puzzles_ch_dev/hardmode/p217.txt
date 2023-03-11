@@ -1,5 +1,0 @@
-7 9 hardmode
-motel 3 1 1
-crawl 5 4 1
-blurt 2 5 0
-pupal 1 8 0

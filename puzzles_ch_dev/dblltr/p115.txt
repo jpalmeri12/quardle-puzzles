@@ -1,5 +1,0 @@
-7 9 dblltr
-terra 2 1 1
-cross 1 4 0
-seven 4 4 1
-linen 2 8 0

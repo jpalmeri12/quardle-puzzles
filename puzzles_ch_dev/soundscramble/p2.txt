@@ -1,5 +1,0 @@
-6 8 soundscramble
-croik 1 1 0
-ridaa 2 1 1
-ingel 4 3 1
-bange 1 5 0

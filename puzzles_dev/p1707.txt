@@ -1,5 +1,0 @@
-6 7
-claim 2 1 1
-blind 1 2 0
-noose 4 2 1
-pivot 1 4 0

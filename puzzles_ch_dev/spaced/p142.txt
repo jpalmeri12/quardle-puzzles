@@ -1,5 +1,0 @@
-7 9 spaced
-spunk 4 1 1
-using 1 4 0
-shake 2 4 1
-knave 2 7 0

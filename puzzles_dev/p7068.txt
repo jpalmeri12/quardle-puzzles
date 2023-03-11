@@ -1,5 +1,0 @@
-7 9
-crust 5 1 1
-butte 2 4 1
-unite 2 5 0
-melon 1 8 0

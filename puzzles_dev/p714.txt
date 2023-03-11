@@ -1,5 +1,0 @@
-6 9
-revue 2 1 1
-decal 1 2 0
-gourd 4 4 1
-melon 1 5 0

@@ -1,5 +1,0 @@
-7 10 darkness
-video 2 1 1
-retry 2 8 0
-mover 1 5 0
-vowel 3 5 1

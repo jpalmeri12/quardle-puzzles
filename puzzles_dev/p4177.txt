@@ -1,5 +1,0 @@
-7 8
-cough 1 1 0
-oxide 2 1 1
-inlay 2 3 0
-ascot 5 3 1

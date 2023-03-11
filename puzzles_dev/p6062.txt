@@ -1,5 +1,0 @@
-6 9
-raise 1 1 1
-awful 1 2 0
-swept 1 4 0
-poesy 4 4 1

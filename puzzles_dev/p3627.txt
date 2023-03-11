@@ -1,5 +1,0 @@
-7 9
-erect 5 1 1
-civic 1 4 0
-viral 3 4 1
-blimp 2 8 0

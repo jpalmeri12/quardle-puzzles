@@ -1,5 +1,0 @@
-7 10
-width 4 1 1
-sushi 1 5 0
-usual 2 5 1
-lingo 2 9 0

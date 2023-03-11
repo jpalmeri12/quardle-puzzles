@@ -1,5 +1,0 @@
-7 9
-amply 2 1 0
-loopy 5 1 1
-scrap 1 4 0
-caper 2 4 1

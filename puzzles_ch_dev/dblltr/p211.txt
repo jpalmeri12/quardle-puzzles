@@ -1,5 +1,0 @@
-6 10 dblltr
-truth 3 1 1
-skull 1 3 0
-eater 1 5 1
-ether 1 5 0

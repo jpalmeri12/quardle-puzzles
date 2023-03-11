@@ -1,6 +1,0 @@
-6 11 drop
-frail 2 1 1
-brand 1 2 0
-stilt 4 4 1
-slate 1 5 0
-forte 1 10 0

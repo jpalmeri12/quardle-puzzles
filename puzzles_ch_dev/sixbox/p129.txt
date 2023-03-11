@@ -1,7 +1,0 @@
-8 8 sixbox
-beget 3 1 1
-layer 5 1 1
-leggy 1 3 0
-globe 4 3 1
-elect 3 4 0
-rotor 1 5 0

@@ -1,5 +1,0 @@
-6 10 duplicity
-venue 4 1 1
-duvet 1 5 0
-vaunt 3 5 1
-daunt 1 7 0

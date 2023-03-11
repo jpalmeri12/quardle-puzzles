@@ -1,5 +1,0 @@
-7 9
-fugue 4 1 1
-cigar 2 4 1
-cider 1 5 0
-azure 2 7 0

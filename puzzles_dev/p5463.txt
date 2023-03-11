@@ -1,5 +1,0 @@
-7 9
-shone 2 1 1
-gross 5 4 1
-sever 1 5 0
-kiosk 2 8 0

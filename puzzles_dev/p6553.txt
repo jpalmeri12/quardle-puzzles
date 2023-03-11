@@ -1,5 +1,0 @@
-7 9
-briar 3 1 1
-worry 1 2 0
-manga 2 4 0
-avoid 6 4 1

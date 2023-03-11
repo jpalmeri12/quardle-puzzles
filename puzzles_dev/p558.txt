@@ -1,5 +1,0 @@
-6 7
-shorn 5 1 1
-punch 1 2 0
-ultra 2 2 1
-stair 1 4 0

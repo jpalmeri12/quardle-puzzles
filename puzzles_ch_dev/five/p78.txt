@@ -1,6 +1,0 @@
-6 12 five
-usher 5 1 1
-gazer 1 5 0
-agate 2 5 1
-habit 1 7 0
-inert 4 7 1

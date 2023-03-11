@@ -1,5 +1,0 @@
-7 8 shiritori
-zesty 2 1 0
-taker 5 1 1
-cloak 1 3 0
-coyly 1 3 1

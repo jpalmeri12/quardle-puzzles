@@ -1,5 +1,0 @@
-7 8 frequency
-sulky 1 1 1
-hydro 3 3 1
-kayak 1 4 0
-moist 2 7 0

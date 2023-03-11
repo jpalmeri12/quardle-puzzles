@@ -1,5 +1,0 @@
-7 10
-shank 2 1 0
-adore 4 1 1
-wagon 1 5 1
-woven 1 5 0

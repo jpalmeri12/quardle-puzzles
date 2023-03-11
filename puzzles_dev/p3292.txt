@@ -1,5 +1,0 @@
-7 10
-toxic 6 1 1
-hasty 2 5 1
-havoc 2 5 0
-assay 1 7 0

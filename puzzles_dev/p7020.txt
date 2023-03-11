@@ -1,5 +1,0 @@
-7 9
-metro 1 1 0
-rower 4 1 1
-shear 2 4 0
-shook 2 4 1

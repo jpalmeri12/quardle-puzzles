@@ -1,6 +1,0 @@
-7 11 undercover
-latte 4 1 1
-smote 1 4 0
-media 2 4 1
-adobe 2 8 0
-gruff 1 10 0

@@ -1,5 +1,0 @@
-6 10 invention
-flake 1 1 0
-lingo 2 1 1
-roast 1 5 0
-adage 3 5 1

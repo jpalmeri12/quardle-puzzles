@@ -1,5 +1,0 @@
-7 9
-goose 5 1 1
-mambo 1 2 0
-gipsy 2 4 0
-idler 3 4 1

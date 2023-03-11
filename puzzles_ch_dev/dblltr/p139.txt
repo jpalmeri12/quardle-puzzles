@@ -1,5 +1,0 @@
-6 6 dblltr
-aback 1 1 1
-tenth 3 1 1
-beefy 1 2 0
-catty 1 4 0

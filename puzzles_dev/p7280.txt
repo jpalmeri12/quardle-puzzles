@@ -1,5 +1,0 @@
-7 10
-dross 3 1 1
-assay 2 5 0
-sonar 4 5 1
-short 1 9 0

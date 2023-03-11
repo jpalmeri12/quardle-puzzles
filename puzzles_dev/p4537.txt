@@ -1,5 +1,0 @@
-7 8
-teddy 1 1 1
-flame 3 3 1
-dally 1 4 0
-denim 2 7 0

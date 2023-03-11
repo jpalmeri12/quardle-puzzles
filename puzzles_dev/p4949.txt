@@ -1,5 +1,0 @@
-7 10
-alike 1 1 0
-ebony 5 1 1
-polyp 2 5 0
-olden 3 5 1

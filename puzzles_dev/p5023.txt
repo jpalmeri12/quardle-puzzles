@@ -1,5 +1,0 @@
-6 7
-shone 1 1 1
-hunch 1 2 0
-nasal 3 2 1
-evade 1 5 0

@@ -1,5 +1,0 @@
-6 8 spaced
-wager 2 1 1
-pleat 5 3 1
-petal 1 4 0
-enact 1 7 0

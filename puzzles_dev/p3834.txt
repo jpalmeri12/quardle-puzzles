@@ -1,5 +1,0 @@
-7 9
-spoil 1 1 1
-itchy 1 4 0
-heart 4 4 1
-surly 2 7 0

@@ -1,6 +1,0 @@
-7 10 commonsecret
-blurt 5 1 1
-flute 2 5 0
-lipid 3 5 1
-guild 1 8 0
-!secret l

@@ -1,6 +1,0 @@
-7 9 undercover
-bezel 4 1 1
-baker 1 2 0
-aside 2 2 1
-inert 2 4 0
-puffy 1 8 0

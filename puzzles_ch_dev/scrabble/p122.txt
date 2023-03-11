@@ -1,5 +1,0 @@
-6 6 scrabble
-eater 4 1 1
-fatal 2 1 1
-harem 1 4 0
-offer 1 1 0

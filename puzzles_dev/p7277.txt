@@ -1,5 +1,0 @@
-7 8
-honor 2 1 1
-homer 2 1 0
-devil 4 3 1
-money 1 4 0

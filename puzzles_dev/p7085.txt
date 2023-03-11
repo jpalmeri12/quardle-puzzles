@@ -1,5 +1,0 @@
-7 10
-razor 2 1 1
-rebel 2 5 0
-exert 5 5 1
-stair 1 8 0

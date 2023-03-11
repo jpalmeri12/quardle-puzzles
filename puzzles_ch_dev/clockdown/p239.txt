@@ -1,5 +1,0 @@
-7 9 clockdown
-spied 6 1 1
-craze 2 4 1
-crude 2 4 0
-camel 1 6 0

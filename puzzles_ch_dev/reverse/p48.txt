@@ -1,5 +1,0 @@
-7 9 reverse
-drahc 5 1 1
-comfy 2 4 1
-ounce 2 5 0
-tfird 1 7 0

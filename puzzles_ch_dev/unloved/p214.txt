@@ -1,5 +1,0 @@
-6 7 unloved
-tulip 3 1 1
-plush 1 2 0
-heart 5 2 1
-tapir 1 5 0

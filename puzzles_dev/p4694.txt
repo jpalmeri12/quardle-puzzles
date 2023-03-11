@@ -1,5 +1,0 @@
-7 9
-judge 1 1 1
-graze 1 4 0
-zesty 4 4 1
-pitch 2 7 0

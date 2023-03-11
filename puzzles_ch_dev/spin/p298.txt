@@ -1,5 +1,0 @@
-7 9 spin
-sappy 5 1 1
-relay 2 2 0
-sharp 1 4 0
-satin 1 4 1

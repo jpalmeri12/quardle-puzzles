@@ -1,5 +1,0 @@
-7 9 invention
-ninja 2 1 0
-jerky 5 1 1
-think 1 4 0
-hello 2 4 1

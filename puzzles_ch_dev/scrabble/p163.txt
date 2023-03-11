@@ -1,5 +1,0 @@
-6 10 scrabble
-inlet 1 5 0
-mania 1 2 0
-waist 5 1 1
-night 2 5 1

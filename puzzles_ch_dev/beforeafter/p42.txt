@@ -1,9 +1,0 @@
-6 10 beforeafter
-abort 1 1 0
-bayou 2 1 1
-ounce 1 5 0
-noble 3 5 1
-!beforeafter 1 l
-!beforeafter 1 l
-!beforeafter 2 i
-!beforeafter 1 m

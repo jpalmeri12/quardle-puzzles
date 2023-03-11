@@ -1,5 +1,0 @@
-7 10
-vague 5 1 1
-slave 1 5 0
-larva 2 5 1
-vouch 2 8 0

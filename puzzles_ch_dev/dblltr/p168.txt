@@ -1,5 +1,0 @@
-7 10 dblltr
-crass 2 1 0
-stash 5 1 1
-heath 1 5 0
-taint 4 5 1

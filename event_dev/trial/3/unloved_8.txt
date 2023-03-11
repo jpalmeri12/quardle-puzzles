@@ -1,5 +1,0 @@
-7 10 unloved
-deter 1 1 0
-tango 3 1 1
-coven 2 5 0
-crept 2 5 1

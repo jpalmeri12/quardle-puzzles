@@ -1,5 +1,0 @@
-7 7 soundscramble
-frall 2 1 1
-graef 1 2 0
-fiuni 5 2 1
-lemur 2 4 0

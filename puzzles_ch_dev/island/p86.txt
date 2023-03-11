@@ -1,6 +1,0 @@
-7 7 island
-yacht 6 1 1
-meaty 4 2 1
-leach 2 4 0
-polyp 1 6 0
-!island 311 2111 11111 31

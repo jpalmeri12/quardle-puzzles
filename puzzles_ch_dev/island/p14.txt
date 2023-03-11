@@ -1,6 +1,0 @@
-6 7 island
-cheap 5 1 1
-fjord 1 2 1
-judge 1 3 0
-recap 1 5 0
-!island 11111 311 221 2111

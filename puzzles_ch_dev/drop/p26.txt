@@ -1,6 +1,0 @@
-7 10 drop
-swami 2 1 1
-dryer 5 3 1
-windy 1 5 0
-pearl 2 7 0
-lyric 1 9 0

@@ -1,5 +1,0 @@
-6 7 invention
-tenor 2 1 1
-berth 1 2 0
-thank 4 2 1
-royal 1 4 0

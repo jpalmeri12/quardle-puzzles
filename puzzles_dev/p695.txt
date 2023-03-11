@@ -1,5 +1,0 @@
-7 9
-novel 5 1 1
-grade 1 4 0
-afoul 3 4 1
-flack 2 8 0

@@ -1,6 +1,0 @@
-6 8 squaredance
-float 1 1 1
-knead 5 1 1
-flask 1 1 0
-trend 1 5 0
-acute 1 7 0

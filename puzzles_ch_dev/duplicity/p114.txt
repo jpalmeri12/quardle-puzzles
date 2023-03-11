@@ -1,5 +1,0 @@
-6 10 duplicity
-fella 1 1 1
-arrow 1 5 0
-wafer 5 5 1
-aloof 1 7 0

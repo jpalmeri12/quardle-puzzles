@@ -1,5 +1,0 @@
-7 10 elbowroom
-whale 6 1 1
-issue 2 5 0
-scour 3 5 1
-forgo 1 9 0

@@ -1,5 +1,0 @@
-6 8
-watch 1 1 0
-abide 2 1 1
-booty 4 3 1
-decoy 1 5 0

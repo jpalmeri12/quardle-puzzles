@@ -1,5 +1,0 @@
-7 10
-stork 5 1 1
-tweak 1 5 0
-wring 2 5 1
-inter 2 7 0

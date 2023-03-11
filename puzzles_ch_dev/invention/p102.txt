@@ -1,5 +1,0 @@
-7 10 invention
-ombre 2 1 0
-bayou 4 1 1
-scour 1 5 0
-carve 2 5 1

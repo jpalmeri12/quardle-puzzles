@@ -1,9 +1,0 @@
-6 7 beforeafter
-psalm 1 1 1
-staff 1 2 0
-foist 4 2 1
-mossy 1 5 0
-!beforeafter 1 n
-!beforeafter 1 r
-!beforeafter 2 r
-!beforeafter 1 p

@@ -1,5 +1,0 @@
-7 10
-album 1 1 1
-murky 1 5 0
-kiosk 4 5 1
-broil 2 7 0

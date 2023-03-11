@@ -1,5 +1,0 @@
-6 6 soundscramble
-ablod 1 1 1
-ditte 3 1 1
-blitz 1 2 0
-drevo 1 5 0

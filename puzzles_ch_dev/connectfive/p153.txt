@@ -1,6 +1,0 @@
-7 9 connectfive
-amber 5 1 1
-champ 2 2 0
-easel 2 4 1
-baker 1 5 0
-deign 1 7 0

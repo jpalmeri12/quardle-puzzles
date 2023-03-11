@@ -1,5 +1,0 @@
-6 7 buyavowel
-heart 2 1 1
-cease 1 2 0
-stilt 4 2 1
-brain 1 4 0

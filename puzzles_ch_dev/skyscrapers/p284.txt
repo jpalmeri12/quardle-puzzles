@@ -1,5 +1,0 @@
-7 9 skyscrapers
-mecca 1 4 0
-petal 5 1 1
-harpy 2 1 0
-minty 1 4 1

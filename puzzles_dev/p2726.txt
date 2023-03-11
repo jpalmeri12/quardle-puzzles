@@ -1,5 +1,0 @@
-7 9
-reply 6 1 1
-trash 4 4 1
-curry 2 5 0
-macho 1 8 0

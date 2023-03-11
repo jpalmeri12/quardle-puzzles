@@ -1,5 +1,0 @@
-7 9
-bitty 2 1 1
-igloo 2 2 0
-pesky 4 4 1
-cyber 1 5 0

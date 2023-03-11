@@ -1,5 +1,0 @@
-7 10
-voter 2 1 1
-straw 1 3 0
-ratty 2 5 0
-agape 3 5 1

@@ -1,6 +1,0 @@
-7 10 connectfive
-rabid 1 1 1
-drake 1 5 0
-reedy 2 5 1
-elder 5 5 1
-dicey 2 8 0

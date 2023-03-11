@@ -1,5 +1,0 @@
-6 9
-loyal 1 1 0
-argue 4 1 1
-uncut 1 4 0
-nutty 2 4 1

@@ -1,5 +1,0 @@
-6 9
-basal 2 1 1
-owing 5 4 1
-elbow 1 5 0
-along 1 8 0

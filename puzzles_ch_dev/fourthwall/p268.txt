@@ -1,7 +1,0 @@
-6 6 fourthwall
-burst 1 1 0
-boast 1 1 1
-argue 1 3 0
-rugby 3 1 1
-thyme 1 5 0
-theme 5 1 1

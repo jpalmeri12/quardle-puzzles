@@ -1,5 +1,0 @@
-7 9
-fruit 1 1 0
-tiger 5 1 1
-belly 3 4 1
-genre 2 5 0

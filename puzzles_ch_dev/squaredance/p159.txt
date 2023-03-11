@@ -1,6 +1,0 @@
-6 8 squaredance
-lever 1 1 1
-loose 5 1 1
-libel 1 1 0
-rouse 1 5 0
-about 1 7 0

@@ -1,5 +1,0 @@
-7 9
-frisk 6 1 1
-brisk 3 4 1
-wrack 2 5 0
-taken 1 8 0

@@ -1,6 +1,0 @@
-6 12 wordcolumn
-lupus 1 1 1
-stack 1 5 0
-could 4 5 1
-table 1 7 1
-ankle 1 8 0

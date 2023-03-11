@@ -1,8 +1,0 @@
-6 8 twins
-tilde 1 1 0
-whack 1 3 0
-essay 1 5 0
-dread 1 7 0
-!twins 1 3
-!twins 0 2
-!twins 0 1

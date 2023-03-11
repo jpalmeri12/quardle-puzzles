@@ -1,5 +1,0 @@
-6 10 desync
-comet 5 1 1
-ulcer 1 5 1
-unlit 1 5 0
-ready 1 9 0

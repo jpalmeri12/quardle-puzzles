@@ -1,5 +1,0 @@
-7 10 skyscrapers
-scare 2 7 0
-macro 3 5 1
-gummy 1 5 0
-forum 4 1 1

@@ -1,5 +1,0 @@
-7 8 elbowroom
-rumba 1 1 1
-again 3 3 1
-bagel 1 4 0
-digit 2 6 0

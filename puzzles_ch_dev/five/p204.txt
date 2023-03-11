@@ -1,6 +1,0 @@
-6 12 five
-heave 5 1 1
-couch 2 3 1
-guise 1 5 0
-thief 1 7 0
-tenor 1 7 1

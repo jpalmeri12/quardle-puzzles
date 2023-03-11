@@ -1,6 +1,0 @@
-7 12 connectfive
-dimly 5 1 1
-gnome 2 3 0
-ninja 3 3 1
-quake 1 7 0
-quail 1 7 1

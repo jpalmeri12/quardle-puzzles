@@ -1,6 +1,0 @@
-7 11 drop
-suing 2 1 1
-snake 4 4 1
-genie 2 5 0
-honey 1 8 0
-unify 1 10 0

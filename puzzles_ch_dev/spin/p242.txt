@@ -1,5 +1,0 @@
-7 9 spin
-sixty 1 1 1
-tiger 1 4 0
-embed 4 4 1
-enemy 2 7 0

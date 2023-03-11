@@ -1,6 +1,0 @@
-7 10 connectfive
-latte 5 1 1
-aback 2 2 1
-berth 2 3 0
-scree 1 5 0
-edict 4 5 1

@@ -1,9 +1,0 @@
-7 10 spellbound
-cloud 5 1 1
-micro 1 3 0
-diode 2 5 0
-itchy 3 5 1
-!spellbound 0 1 0
-!spellbound 1 1 3
-!spellbound 2 4 0
-!spellbound 3 4 3

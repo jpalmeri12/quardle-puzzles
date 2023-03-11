@@ -1,5 +1,0 @@
-7 10
-stock 5 1 1
-stoop 2 3 0
-sheik 1 5 0
-swill 1 5 1

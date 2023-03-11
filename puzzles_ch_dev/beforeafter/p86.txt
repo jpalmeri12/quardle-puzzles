@@ -1,9 +1,0 @@
-7 10 beforeafter
-afoul 1 1 0
-lyric 5 1 1
-ounce 2 5 0
-untie 3 5 1
-!beforeafter 1 k
-!beforeafter 2 k
-!beforeafter 2 l
-!beforeafter 2 j

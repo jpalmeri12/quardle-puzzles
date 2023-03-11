@@ -1,5 +1,0 @@
-7 10 skyscrapers
-lilac 6 5 1
-stool 2 5 0
-lingo 5 1 1
-chili 1 2 0

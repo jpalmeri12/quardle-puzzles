@@ -1,6 +1,0 @@
-6 11 undercover
-fjord 1 1 0
-froze 1 1 1
-zebra 1 4 0
-billy 3 4 1
-skunk 1 10 0

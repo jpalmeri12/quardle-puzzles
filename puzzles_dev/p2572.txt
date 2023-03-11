@@ -1,5 +1,0 @@
-7 8
-stick 2 1 0
-tulip 3 1 1
-shush 5 3 1
-neigh 1 4 0

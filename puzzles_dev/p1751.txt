@@ -1,5 +1,0 @@
-7 10
-waver 2 1 1
-arbor 2 2 0
-truck 1 5 0
-kappa 5 5 1

@@ -1,5 +1,0 @@
-7 7 hardmode
-inlet 6 1 1
-piper 3 2 1
-opine 2 4 0
-earth 1 6 0

@@ -1,5 +1,0 @@
-6 7 duplicity
-rarer 4 1 1
-dread 1 2 0
-dally 1 2 1
-layer 1 4 0

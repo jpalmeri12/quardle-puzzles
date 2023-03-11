@@ -1,5 +1,0 @@
-6 8 soundscramble
-pruod 1 1 1
-podgy 1 1 0
-uonce 1 3 0
-cycle 4 3 1

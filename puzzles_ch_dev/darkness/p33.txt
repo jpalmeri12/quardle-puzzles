@@ -1,5 +1,0 @@
-6 9 darkness
-ascot 1 4 0
-wrote 5 1 1
-angel 1 4 1
-leash 1 8 0

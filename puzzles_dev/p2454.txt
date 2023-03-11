@@ -1,5 +1,0 @@
-6 8
-rouge 1 1 1
-raise 1 1 0
-unmet 1 3 0
-epoxy 4 3 1

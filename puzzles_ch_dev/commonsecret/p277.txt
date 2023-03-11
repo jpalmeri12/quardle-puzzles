@@ -1,6 +1,0 @@
-7 9 commonsecret
-sheik 4 1 1
-spent 2 4 1
-poker 2 5 0
-angel 1 7 0
-!secret e

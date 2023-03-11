@@ -1,5 +1,0 @@
-7 10
-taker 4 1 1
-foray 1 2 0
-large 2 5 0
-lying 2 5 1

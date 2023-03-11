@@ -1,5 +1,0 @@
-7 10 dblltr
-linen 2 1 1
-nanny 2 5 0
-alloy 3 5 1
-jelly 1 7 0

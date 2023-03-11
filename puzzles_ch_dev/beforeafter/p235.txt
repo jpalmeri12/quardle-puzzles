@@ -1,9 +1,0 @@
-7 9 beforeafter
-hippo 2 1 1
-lyric 5 4 1
-noisy 1 5 0
-place 2 8 0
-!beforeafter 1 l
-!beforeafter 2 k
-!beforeafter 2 r
-!beforeafter 1 j

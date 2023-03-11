@@ -1,5 +1,0 @@
-7 9 fourscore
-outdo 5 1 1
-stone 3 4 1
-ethos 2 5 0
-lance 1 7 0

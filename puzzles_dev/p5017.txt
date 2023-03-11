@@ -1,5 +1,0 @@
-6 10
-foggy 1 1 0
-oxide 2 1 1
-heavy 1 5 0
-acorn 3 5 1

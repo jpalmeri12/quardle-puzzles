@@ -1,5 +1,0 @@
-7 10 fourscore
-older 1 1 1
-reply 1 5 0
-erect 2 5 1
-thank 2 9 0

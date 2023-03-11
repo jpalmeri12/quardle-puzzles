@@ -1,5 +1,0 @@
-7 9 clockdown
-ficus 5 1 1
-alibi 1 2 0
-clown 2 4 1
-lousy 2 5 0

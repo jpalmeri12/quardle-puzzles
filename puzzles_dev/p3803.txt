@@ -1,5 +1,0 @@
-7 9
-hutch 5 1 1
-setup 2 4 1
-slick 2 4 0
-augur 1 7 0

@@ -1,5 +1,0 @@
-7 10
-print 5 1 1
-paste 2 5 0
-pleat 2 5 1
-depth 1 7 0

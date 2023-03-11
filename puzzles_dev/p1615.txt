@@ -1,5 +1,0 @@
-6 6
-sieve 1 1 0
-enter 3 1 1
-edify 5 1 1
-corny 1 5 0

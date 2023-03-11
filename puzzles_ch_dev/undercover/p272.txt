@@ -1,6 +1,0 @@
-7 12 undercover
-agate 2 1 1
-grave 2 2 0
-rehab 1 5 0
-raspy 1 5 1
-click 1 11 0

@@ -1,5 +1,0 @@
-7 7 reverse
-unfed 5 1 1
-rerun 1 2 0
-evolc 2 2 1
-laedi 2 5 0

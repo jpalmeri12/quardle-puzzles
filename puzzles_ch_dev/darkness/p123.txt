@@ -1,5 +1,0 @@
-6 7 darkness
-bilge 4 1 1
-peach 2 2 1
-octet 1 5 0
-fella 1 3 0

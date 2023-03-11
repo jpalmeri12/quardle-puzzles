@@ -1,5 +1,0 @@
-6 7 darkness
-utile 1 2 0
-tease 2 2 1
-penne 5 1 1
-issue 1 5 0

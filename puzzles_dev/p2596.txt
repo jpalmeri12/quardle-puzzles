@@ -1,5 +1,0 @@
-7 9
-plaid 1 1 1
-rinse 3 4 1
-deity 1 5 0
-ascot 2 7 0

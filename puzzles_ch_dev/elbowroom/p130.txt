@@ -1,5 +1,0 @@
-7 9 elbowroom
-icing 6 1 1
-clump 3 4 1
-sling 2 5 0
-limbo 1 7 0

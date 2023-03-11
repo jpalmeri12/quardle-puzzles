@@ -1,5 +1,0 @@
-6 9
-ankle 4 1 1
-truly 1 4 0
-ruler 2 4 1
-cedar 1 7 0

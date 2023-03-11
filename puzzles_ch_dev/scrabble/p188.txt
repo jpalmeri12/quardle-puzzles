@@ -1,5 +1,0 @@
-7 9 scrabble
-lupus 6 1 1
-young 4 4 1
-bayou 2 4 0
-plunk 1 7 0

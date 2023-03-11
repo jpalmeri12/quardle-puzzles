@@ -1,5 +1,0 @@
-7 9
-foamy 4 1 1
-diode 2 2 0
-mummy 1 4 0
-ultra 2 4 1

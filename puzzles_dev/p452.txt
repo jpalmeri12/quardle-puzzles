@@ -1,5 +1,0 @@
-7 10
-soapy 5 1 1
-creak 2 3 0
-spray 1 5 0
-roger 3 5 1

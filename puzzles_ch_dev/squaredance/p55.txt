@@ -1,6 +1,0 @@
-6 8 squaredance
-awoke 1 1 1
-tense 5 1 1
-abort 1 1 0
-elide 1 5 0
-augur 1 7 0

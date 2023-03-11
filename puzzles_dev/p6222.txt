@@ -1,5 +1,0 @@
-6 7
-lumen 4 1 1
-uncut 1 2 0
-north 2 2 1
-greet 1 4 0

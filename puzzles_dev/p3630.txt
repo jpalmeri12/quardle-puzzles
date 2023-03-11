@@ -1,5 +1,0 @@
-7 10
-hobby 1 1 0
-baste 4 1 1
-sneak 2 5 0
-abort 5 5 1

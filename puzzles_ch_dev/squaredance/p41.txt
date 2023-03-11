@@ -1,6 +1,0 @@
-6 8 squaredance
-upset 1 1 1
-dunce 5 1 1
-unfed 1 1 0
-those 1 5 0
-waxen 1 7 0

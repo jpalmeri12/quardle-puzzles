@@ -1,6 +1,0 @@
-7 9 connectfive
-plait 2 1 1
-alpha 1 2 0
-outgo 6 3 1
-leper 4 4 1
-theft 2 5 0

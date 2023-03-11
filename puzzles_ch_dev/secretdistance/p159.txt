@@ -1,7 +1,0 @@
-7 10 secretdistance
-boozy 2 1 1
-doubt 1 3 0
-boney 4 3 1
-loyal 2 7 0
-dopey 1 9 0
-!sdpos 3 0 3 3

@@ -1,5 +1,0 @@
-7 10 clockdown
-phone 5 1 1
-armor 2 3 0
-alone 1 5 0
-octal 3 5 1

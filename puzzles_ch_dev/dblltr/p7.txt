@@ -1,5 +1,0 @@
-7 7 dblltr
-pygmy 1 1 1
-sloop 4 2 1
-golly 1 3 0
-riper 2 6 0

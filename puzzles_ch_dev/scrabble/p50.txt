@@ -1,5 +1,0 @@
-7 10 scrabble
-abort 2 3 0
-nutty 2 5 1
-endow 1 5 0
-shrew 5 1 1

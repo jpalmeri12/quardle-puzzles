@@ -1,5 +1,0 @@
-7 10
-drunk 1 1 1
-knave 1 5 0
-alibi 3 5 1
-above 2 8 0

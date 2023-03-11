@@ -1,5 +1,0 @@
-6 8 shiritori
-harpy 4 1 1
-music 2 3 1
-humph 1 4 0
-eclat 1 7 0

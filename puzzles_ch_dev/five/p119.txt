@@ -1,6 +1,0 @@
-6 10 five
-after 1 1 1
-spied 5 1 1
-rigid 1 5 0
-impel 2 5 1
-spite 1 7 0

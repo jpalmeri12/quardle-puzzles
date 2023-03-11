@@ -1,5 +1,0 @@
-6 9 clockdown
-woody 3 1 1
-cumin 1 4 1
-cedar 1 4 0
-iliac 1 7 0

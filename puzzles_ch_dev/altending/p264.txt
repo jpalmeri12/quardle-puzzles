@@ -1,5 +1,0 @@
-6 9 altending
-stony 1 1 0
-shirk 1 3 0
-quiet 1 5 0
-valor 1 7 0

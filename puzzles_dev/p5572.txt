@@ -1,5 +1,0 @@
-7 8
-groin 3 1 1
-hoist 2 3 0
-snide 5 3 1
-fungi 1 5 0

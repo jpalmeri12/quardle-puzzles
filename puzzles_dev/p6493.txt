@@ -1,5 +1,0 @@
-6 9
-shout 1 1 0
-unfit 4 1 1
-login 1 4 0
-offer 2 4 1

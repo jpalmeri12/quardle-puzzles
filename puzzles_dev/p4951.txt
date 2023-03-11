@@ -1,5 +1,0 @@
-7 8
-easel 1 1 0
-scorn 3 1 1
-dogma 2 3 0
-ankle 6 3 1

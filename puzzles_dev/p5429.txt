@@ -1,5 +1,0 @@
-7 9
-chalk 1 1 1
-leave 1 4 0
-amaze 3 4 1
-paste 2 6 0

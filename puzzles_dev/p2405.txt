@@ -1,5 +1,0 @@
-7 8
-flier 6 1 1
-cacti 2 3 0
-chafe 4 3 1
-draft 1 6 0

@@ -1,6 +1,0 @@
-7 8 island
-issue 1 1 0
-syrup 3 1 1
-askew 5 3 1
-spoke 2 5 0
-!island 22 2111 41 32

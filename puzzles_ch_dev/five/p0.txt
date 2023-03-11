@@ -1,6 +1,0 @@
-6 10 five
-slung 3 1 1
-pagan 1 4 1
-angry 1 5 0
-yeast 5 5 1
-aorta 1 7 0

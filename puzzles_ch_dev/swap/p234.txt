@@ -1,5 +1,0 @@
-6 8 swap
-imcro 1 1 1
-camle 1 3 0
-emdal 5 3 1
-orund 1 5 0

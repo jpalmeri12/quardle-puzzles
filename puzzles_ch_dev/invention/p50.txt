@@ -1,5 +1,0 @@
-7 10 invention
-relic 1 1 1
-chide 1 5 0
-dryly 4 5 1
-helix 2 8 0

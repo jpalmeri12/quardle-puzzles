@@ -1,5 +1,0 @@
-7 9
-quill 4 1 1
-about 1 2 0
-valve 2 4 0
-ethos 6 4 1

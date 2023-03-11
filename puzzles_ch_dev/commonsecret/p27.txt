@@ -1,6 +1,0 @@
-7 9 commonsecret
-sperm 2 1 0
-poser 3 1 1
-sneer 1 4 0
-robot 5 4 1
-!secret r

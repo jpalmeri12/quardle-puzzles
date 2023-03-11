@@ -1,9 +1,0 @@
-7 7 beforeafter
-ebony 2 1 1
-banjo 2 2 0
-judge 5 2 1
-vying 1 5 0
-!beforeafter 1 j
-!beforeafter 1 i
-!beforeafter 1 i
-!beforeafter 1 q

@@ -1,5 +1,0 @@
-6 9
-unset 4 1 1
-cheat 1 4 1
-coven 1 4 0
-agony 1 7 0

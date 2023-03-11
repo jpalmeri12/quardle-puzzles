@@ -1,5 +1,0 @@
-7 9
-snare 1 1 1
-realm 1 4 0
-abhor 3 4 1
-voice 2 7 0

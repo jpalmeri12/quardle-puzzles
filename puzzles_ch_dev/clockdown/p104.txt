@@ -1,5 +1,0 @@
-7 10 clockdown
-shire 5 1 1
-amber 2 5 0
-berry 4 5 1
-acorn 1 7 0

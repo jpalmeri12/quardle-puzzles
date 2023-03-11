@@ -1,5 +1,0 @@
-6 9 swap
-bdudy 2 1 1
-odlen 1 2 0
-mdeic 1 4 0
-islly 4 4 1

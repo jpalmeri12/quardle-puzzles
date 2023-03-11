@@ -1,7 +1,0 @@
-6 10 secretdistance
-maple 5 1 1
-scoop 1 3 0
-chafe 2 3 1
-lathe 1 5 0
-shoot 1 9 0
-!sdpos 3 2 0 0

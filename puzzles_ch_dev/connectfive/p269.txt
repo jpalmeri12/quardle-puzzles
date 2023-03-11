@@ -1,6 +1,0 @@
-7 11 connectfive
-dense 5 1 1
-broil 3 4 1
-eerie 1 5 0
-frill 6 6 1
-cider 2 7 0

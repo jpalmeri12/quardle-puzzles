@@ -1,5 +1,0 @@
-6 7 buyavowel
-voila 4 1 1
-abbot 1 2 0
-apart 1 2 1
-amble 1 4 0

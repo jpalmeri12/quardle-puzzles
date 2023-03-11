@@ -1,6 +1,0 @@
-6 8 squaredance
-sheep 1 1 1
-eater 5 1 1
-scree 1 1 0
-poser 1 5 0
-plunk 1 7 0

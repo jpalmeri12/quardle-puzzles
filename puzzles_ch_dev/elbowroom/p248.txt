@@ -1,5 +1,0 @@
-7 9 elbowroom
-piano 4 1 1
-dairy 2 2 0
-stand 1 4 0
-thorn 2 4 1

@@ -1,6 +1,0 @@
-7 11 drop
-spilt 5 1 1
-sweep 1 2 0
-glean 2 4 1
-lofty 2 5 0
-gypsy 1 10 0

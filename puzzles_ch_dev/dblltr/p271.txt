@@ -1,5 +1,0 @@
-6 6 dblltr
-creek 1 1 1
-apple 3 1 1
-repel 1 2 0
-kneel 1 5 0

@@ -1,5 +1,0 @@
-7 10
-pithy 4 1 1
-wryly 2 5 0
-lunar 5 5 1
-ultra 1 8 0

@@ -1,5 +1,0 @@
-6 8 spin
-creed 1 1 0
-ember 3 1 1
-robot 1 3 0
-rodeo 1 3 1

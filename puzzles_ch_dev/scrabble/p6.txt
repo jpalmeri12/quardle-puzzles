@@ -1,5 +1,0 @@
-6 7 scrabble
-motor 1 4 0
-macro 5 1 1
-magma 1 2 0
-mambo 1 2 1

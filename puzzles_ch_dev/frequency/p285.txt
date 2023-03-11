@@ -1,5 +1,0 @@
-7 8 frequency
-china 2 1 1
-chute 1 2 0
-refer 6 3 1
-aloof 2 5 0

@@ -1,6 +1,0 @@
-6 10 five
-ethic 1 1 1
-chess 1 5 0
-heard 2 5 1
-spoon 4 5 1
-droop 1 8 0

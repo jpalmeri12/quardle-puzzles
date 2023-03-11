@@ -1,5 +1,0 @@
-7 9
-trout 6 1 1
-flock 4 4 1
-pilot 2 5 0
-black 1 7 0

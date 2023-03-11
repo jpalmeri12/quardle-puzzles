@@ -1,5 +1,0 @@
-7 10
-guide 2 1 1
-eerie 1 5 0
-rivet 3 5 1
-evict 2 7 0

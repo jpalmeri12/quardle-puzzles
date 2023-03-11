@@ -1,6 +1,0 @@
-6 9 commonsecret
-filly 2 1 1
-field 1 2 0
-aloft 1 4 0
-thief 5 4 1
-!secret f

@@ -1,5 +1,0 @@
-7 9 sweeper
-dowry 4 1 1
-vapor 1 2 0
-circa 2 4 0
-asset 6 4 1

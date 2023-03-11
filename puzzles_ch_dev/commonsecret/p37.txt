@@ -1,6 +1,0 @@
-7 8 commonsecret
-fungi 4 1 1
-onset 2 3 1
-sniff 2 5 0
-stank 1 7 0
-!secret n

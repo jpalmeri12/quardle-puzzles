@@ -1,5 +1,0 @@
-6 8 soundscramble
-evart 5 1 1
-humus 2 3 1
-tutor 1 4 0
-esida 1 7 0

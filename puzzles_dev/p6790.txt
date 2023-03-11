@@ -1,5 +1,0 @@
-7 10
-bagel 2 1 1
-loopy 2 5 0
-photo 5 5 1
-forgo 1 7 0

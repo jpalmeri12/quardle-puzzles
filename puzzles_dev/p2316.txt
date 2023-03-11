@@ -1,5 +1,0 @@
-6 9
-owing 1 1 0
-north 4 1 1
-brute 1 4 0
-butte 1 4 1

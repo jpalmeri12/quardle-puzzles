@@ -1,7 +1,0 @@
-8 8 sixbox
-pause 3 1 1
-sheik 5 1 1
-abuse 1 3 0
-speck 4 3 1
-spiny 3 4 0
-creek 1 5 0

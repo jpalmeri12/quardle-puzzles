@@ -1,5 +1,0 @@
-6 7 swap
-dwory 3 1 1
-ciily 1 2 1
-idoim 1 3 0
-lnych 1 5 0

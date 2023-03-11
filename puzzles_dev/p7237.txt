@@ -1,5 +1,0 @@
-6 8
-corny 1 1 1
-riper 1 3 0
-round 5 3 1
-vivid 1 7 0

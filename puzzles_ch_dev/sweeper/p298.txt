@@ -1,5 +1,0 @@
-7 10 sweeper
-digit 2 1 1
-stare 1 5 0
-apply 3 5 1
-spunk 2 7 0

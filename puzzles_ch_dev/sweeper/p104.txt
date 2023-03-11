@@ -1,5 +1,0 @@
-7 9 sweeper
-mafia 2 1 1
-apply 2 2 0
-biome 1 4 0
-muddy 4 4 1

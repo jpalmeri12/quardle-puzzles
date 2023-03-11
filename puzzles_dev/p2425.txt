@@ -1,5 +1,0 @@
-7 9
-recut 2 1 1
-bough 5 4 1
-troop 2 5 0
-fling 1 7 0

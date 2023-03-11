@@ -1,7 +1,0 @@
-7 11 secretdistance
-tight 6 1 1
-abort 4 4 1
-rebut 2 5 0
-metro 1 7 0
-badge 1 10 0
-!sdpos 2 3 1 3

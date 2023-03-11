@@ -1,6 +1,0 @@
-7 10 drop
-theme 5 1 1
-voter 2 3 0
-voice 2 3 1
-rifle 1 5 0
-moral 1 9 0

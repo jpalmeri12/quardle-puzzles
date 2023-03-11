@@ -1,6 +1,0 @@
-6 7 commonsecret
-scale 1 1 1
-cliff 1 2 0
-fling 4 2 1
-logic 1 4 0
-!secret l

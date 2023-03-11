@@ -1,6 +1,0 @@
-7 8 connectfive
-clang 2 1 0
-geese 6 1 1
-drawn 4 3 1
-frame 2 5 0
-eking 1 7 0

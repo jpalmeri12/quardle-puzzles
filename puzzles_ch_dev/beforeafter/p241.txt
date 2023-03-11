@@ -1,9 +1,0 @@
-7 10 beforeafter
-usage 2 1 0
-swami 3 1 1
-spike 1 5 0
-entry 5 5 1
-!beforeafter 1 q
-!beforeafter 1 o
-!beforeafter 1 o
-!beforeafter 1 q

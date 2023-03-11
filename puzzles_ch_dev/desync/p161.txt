@@ -1,5 +1,0 @@
-7 10 desync
-waste 5 1 1
-kebab 2 2 0
-belie 1 5 0
-bilge 1 5 1

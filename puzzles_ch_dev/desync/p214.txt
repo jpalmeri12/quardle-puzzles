@@ -1,5 +1,0 @@
-7 9 desync
-snowy 5 1 1
-quell 2 4 1
-puffy 1 5 0
-liner 2 7 0

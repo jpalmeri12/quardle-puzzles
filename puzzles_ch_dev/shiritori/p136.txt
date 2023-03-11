@@ -1,5 +1,0 @@
-6 6 shiritori
-modem 3 1 1
-agony 5 1 1
-along 1 2 0
-queen 1 4 0

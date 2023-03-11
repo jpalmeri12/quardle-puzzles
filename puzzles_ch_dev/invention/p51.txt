@@ -1,5 +1,0 @@
-7 10 invention
-plumb 4 1 1
-dealt 1 2 0
-robin 2 5 0
-rover 2 5 1

@@ -1,5 +1,0 @@
-6 9 fourscore
-torch 1 1 0
-hoard 5 1 1
-brine 3 4 1
-lurid 1 5 0

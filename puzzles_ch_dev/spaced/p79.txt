@@ -1,5 +1,0 @@
-7 9 spaced
-quasi 4 1 1
-louse 2 2 0
-clove 2 4 1
-fluid 1 5 0

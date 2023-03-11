@@ -1,5 +1,0 @@
-7 7 unloved
-myrrh 1 1 0
-renew 3 1 1
-coyly 6 2 1
-heavy 2 4 0

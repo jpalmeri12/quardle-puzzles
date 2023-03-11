@@ -1,5 +1,0 @@
-6 10
-grate 3 1 1
-speck 1 5 0
-plumb 2 5 1
-duvet 1 7 0

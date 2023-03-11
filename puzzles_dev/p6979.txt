@@ -1,5 +1,0 @@
-6 10
-eight 1 1 0
-islet 2 1 1
-steel 1 5 0
-swoon 1 5 1

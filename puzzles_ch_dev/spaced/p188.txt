@@ -1,5 +1,0 @@
-6 8 spaced
-mocha 1 1 1
-merit 1 1 0
-admit 4 3 1
-howdy 1 4 0

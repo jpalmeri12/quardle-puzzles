@@ -1,5 +1,0 @@
-6 9
-murky 1 1 1
-kiosk 1 4 0
-orbit 3 4 1
-slick 1 7 0

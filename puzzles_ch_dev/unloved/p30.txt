@@ -1,5 +1,0 @@
-7 10 unloved
-bosom 2 1 1
-usher 1 3 0
-mulch 2 5 0
-coast 5 5 1

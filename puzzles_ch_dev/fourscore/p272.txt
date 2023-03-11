@@ -1,5 +1,0 @@
-7 10 fourscore
-hardy 5 1 1
-octal 2 2 0
-retry 1 5 0
-endow 2 5 1

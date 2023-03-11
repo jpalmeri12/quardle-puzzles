@@ -1,5 +1,0 @@
-7 10
-dairy 3 1 1
-pasta 2 2 0
-buyer 1 5 0
-bayou 1 5 1

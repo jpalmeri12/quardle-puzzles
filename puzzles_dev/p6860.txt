@@ -1,5 +1,0 @@
-6 10
-choke 4 1 1
-booze 1 5 1
-bowel 1 5 0
-ovoid 1 7 0

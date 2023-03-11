@@ -1,5 +1,0 @@
-7 10 spaced
-viola 2 1 1
-agile 2 5 0
-grape 3 5 1
-cleat 1 9 0

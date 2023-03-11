@@ -1,5 +1,0 @@
-6 10
-quirk 1 1 0
-relax 4 1 1
-twixt 1 5 0
-today 1 5 1

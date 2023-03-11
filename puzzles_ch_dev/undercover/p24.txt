@@ -1,6 +1,0 @@
-6 12 undercover
-spoof 3 1 1
-puffy 1 5 0
-funky 4 5 1
-spoke 1 8 0
-right 1 11 0

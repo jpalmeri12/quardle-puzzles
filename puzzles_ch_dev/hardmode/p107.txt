@@ -1,5 +1,0 @@
-7 10 hardmode
-grown 4 1 1
-girly 2 5 1
-genie 2 5 0
-press 1 7 0

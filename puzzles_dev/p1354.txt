@@ -1,5 +1,0 @@
-7 8
-tying 5 1 1
-guise 3 3 1
-spurn 1 4 0
-delta 2 7 0

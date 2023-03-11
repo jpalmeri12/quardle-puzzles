@@ -1,5 +1,0 @@
-6 10
-awoke 4 1 1
-wiser 1 5 0
-ingot 2 5 1
-south 1 8 0

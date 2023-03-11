@@ -1,6 +1,0 @@
-6 10 drop
-polyp 5 1 1
-raise 3 3 1
-flaky 1 4 0
-steak 1 7 0
-speak 1 9 0

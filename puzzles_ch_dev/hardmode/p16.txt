@@ -1,5 +1,0 @@
-6 10 hardmode
-scuba 5 1 1
-villa 1 5 0
-vodka 1 5 1
-kayak 1 8 0

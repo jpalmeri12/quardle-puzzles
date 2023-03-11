@@ -1,5 +1,0 @@
-6 7 unloved
-triad 2 1 1
-frond 1 2 0
-ditty 5 2 1
-jaunt 1 4 0

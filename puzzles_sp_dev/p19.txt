@@ -1,7 +1,0 @@
-8 8 sixbox
-spasm 3 1 1
-basil 5 1 1
-class 1 3 0
-steam 4 3 1
-stink 3 4 0
-camel 1 5 0

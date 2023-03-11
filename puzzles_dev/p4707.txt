@@ -1,5 +1,0 @@
-7 7
-clash 6 1 1
-drool 2 2 0
-rover 3 2 1
-foray 1 6 0

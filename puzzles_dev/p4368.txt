@@ -1,5 +1,0 @@
-7 8
-salty 2 1 0
-lapse 4 1 1
-guppy 1 3 0
-gloss 1 3 1

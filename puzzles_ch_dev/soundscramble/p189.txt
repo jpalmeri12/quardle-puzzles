@@ -1,5 +1,0 @@
-6 6 soundscramble
-pequi 2 1 1
-wedow 5 1 1
-squad 1 3 0
-riniw 1 5 0

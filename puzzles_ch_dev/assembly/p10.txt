@@ -1,5 +1,0 @@
-6 10 assembly
-topaz 1 3 1
-ralph 5 3 1
-motor 1 1 0
-champ 1 9 0

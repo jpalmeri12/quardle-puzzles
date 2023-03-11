@@ -1,6 +1,0 @@
-6 8 island
-lasso 1 1 1
-stiff 1 3 0
-flute 4 3 1
-opium 1 5 0
-!island 22 211 2111 41

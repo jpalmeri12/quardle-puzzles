@@ -1,5 +1,0 @@
-7 9 elbowroom
-bayou 5 1 1
-again 2 4 1
-gamut 2 5 0
-minim 1 7 0

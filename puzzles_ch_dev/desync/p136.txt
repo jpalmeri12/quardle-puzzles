@@ -1,5 +1,0 @@
-6 8 desync
-howdy 1 1 1
-willy 1 3 0
-lusty 3 3 1
-payee 1 7 0

@@ -1,5 +1,0 @@
-7 10
-crank 5 1 1
-plunk 1 5 0
-unset 3 5 1
-renal 2 8 0

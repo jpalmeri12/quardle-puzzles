@@ -1,5 +1,0 @@
-7 10
-goner 4 1 1
-humor 1 2 0
-worse 2 5 0
-sassy 5 5 1

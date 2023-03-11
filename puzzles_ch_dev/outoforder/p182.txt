@@ -1,5 +1,0 @@
-7 9 outoforder
-empty 2 1 0
-pagan 4 1 1
-askew 1 4 1
-stank 1 5 0

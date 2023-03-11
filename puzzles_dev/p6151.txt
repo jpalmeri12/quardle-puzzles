@@ -1,5 +1,0 @@
-7 10
-wiser 4 1 1
-merry 2 5 0
-erode 3 5 1
-hedge 1 8 0

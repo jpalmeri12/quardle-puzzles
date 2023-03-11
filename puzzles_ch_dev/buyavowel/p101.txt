@@ -1,5 +1,0 @@
-7 8 buyavowel
-prude 2 1 1
-frail 1 2 0
-dying 6 3 1
-derby 2 4 0

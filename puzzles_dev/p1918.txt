@@ -1,5 +1,0 @@
-7 7
-salsa 2 1 1
-ratty 1 2 0
-think 4 2 1
-sling 2 4 0

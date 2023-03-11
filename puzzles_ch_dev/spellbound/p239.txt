@@ -1,9 +1,0 @@
-6 6 spellbound
-pinch 1 1 0
-panel 1 1 1
-churn 4 1 1
-exert 1 4 0
-!spellbound 0 4 2
-!spellbound 1 1 4
-!spellbound 2 4 1
-!spellbound 3 2 1

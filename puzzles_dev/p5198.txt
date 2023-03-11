@@ -1,5 +1,0 @@
-6 9
-hence 4 1 1
-dying 1 4 1
-disco 1 4 0
-gawky 1 8 0

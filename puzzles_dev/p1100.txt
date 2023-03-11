@@ -1,5 +1,0 @@
-7 10
-fleet 1 1 1
-thumb 1 5 0
-mouth 4 5 1
-inter 2 8 0

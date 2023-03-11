@@ -1,5 +1,0 @@
-6 9 sweeper
-atoll 1 1 1
-adage 1 1 0
-fussy 3 4 1
-laugh 1 5 0

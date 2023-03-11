@@ -1,5 +1,0 @@
-6 10
-tweed 5 1 1
-dealt 1 5 1
-druid 1 5 0
-lumpy 1 8 0

@@ -1,5 +1,0 @@
-6 10 hardmode
-proof 1 1 1
-revue 1 2 0
-flour 1 5 0
-livid 2 5 1

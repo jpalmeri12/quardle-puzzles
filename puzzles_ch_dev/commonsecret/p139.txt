@@ -1,6 +1,0 @@
-6 8 commonsecret
-admit 1 1 0
-dream 2 1 1
-scram 5 3 1
-manic 1 4 0
-!secret m

@@ -1,5 +1,0 @@
-7 10
-truth 6 1 1
-berth 2 5 0
-boozy 2 5 1
-azure 1 8 0

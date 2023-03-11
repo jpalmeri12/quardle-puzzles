@@ -1,5 +1,0 @@
-6 10
-coast 1 1 1
-turbo 1 5 0
-brute 4 5 1
-bowel 1 9 0

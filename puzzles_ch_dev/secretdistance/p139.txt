@@ -1,7 +1,0 @@
-6 11 secretdistance
-guide 5 1 1
-acrid 1 4 0
-could 2 4 1
-idiom 1 8 0
-ionic 1 10 0
-!sdpos 3 3 1 2

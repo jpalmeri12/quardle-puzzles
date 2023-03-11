@@ -1,6 +1,0 @@
-7 9 five
-awake 1 1 0
-karma 4 1 1
-balmy 1 4 0
-arrow 2 4 1
-weave 2 8 0

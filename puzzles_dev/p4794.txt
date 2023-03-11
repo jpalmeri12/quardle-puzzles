@@ -1,5 +1,0 @@
-6 9
-lipid 4 1 1
-bused 2 4 1
-ruddy 1 5 0
-adage 1 8 0

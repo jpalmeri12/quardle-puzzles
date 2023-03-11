@@ -1,6 +1,0 @@
-7 9 wordcolumn
-satyr 4 1 1
-sound 6 1 1
-rayon 2 4 0
-rapid 2 4 1
-sigma 1 7 0

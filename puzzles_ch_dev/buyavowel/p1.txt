@@ -1,5 +1,0 @@
-7 10 buyavowel
-delta 3 1 1
-glove 2 3 0
-leave 1 5 0
-vowel 4 5 1

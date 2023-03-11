@@ -1,6 +1,0 @@
-6 8 squaredance
-thyme 1 1 1
-creme 5 1 1
-tunic 1 1 0
-etude 1 5 0
-olive 1 7 0

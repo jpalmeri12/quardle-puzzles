@@ -1,5 +1,0 @@
-7 10
-prank 4 1 1
-bloat 1 3 0
-baker 2 5 0
-roast 6 5 1

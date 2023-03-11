@@ -1,5 +1,0 @@
-7 8 reverse
-evorg 2 1 1
-eeyap 2 1 0
-papal 4 3 1
-agape 1 5 0

@@ -1,6 +1,0 @@
-7 9 island
-black 1 1 0
-avert 3 1 1
-trope 2 4 0
-elate 6 4 1
-!island 2111 311 32 1111

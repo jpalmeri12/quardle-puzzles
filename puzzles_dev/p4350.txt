@@ -1,5 +1,0 @@
-7 9
-debit 5 1 1
-fence 1 2 0
-drink 3 4 1
-wrath 2 5 0

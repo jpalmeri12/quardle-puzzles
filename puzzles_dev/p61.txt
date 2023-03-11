@@ -1,5 +1,0 @@
-7 9
-grace 6 1 1
-tardy 3 4 1
-waive 2 5 0
-midge 1 7 0

@@ -1,5 +1,0 @@
-7 10
-thank 5 1 1
-brake 2 5 0
-relax 3 5 1
-boxer 1 9 0

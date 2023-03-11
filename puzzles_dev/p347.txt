@@ -1,5 +1,0 @@
-7 8
-dowdy 4 1 1
-gawky 2 3 0
-greed 2 3 1
-adult 1 7 0

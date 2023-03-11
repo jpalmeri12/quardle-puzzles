@@ -1,5 +1,0 @@
-7 8 shiritori
-scare 2 1 0
-ralph 5 1 1
-ghoul 1 3 0
-human 2 3 1

@@ -1,5 +1,0 @@
-7 9 fourscore
-motto 5 1 1
-rhyme 2 4 1
-route 2 4 0
-delay 1 8 0

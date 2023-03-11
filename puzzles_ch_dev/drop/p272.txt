@@ -1,6 +1,0 @@
-7 10 drop
-piety 5 1 1
-gorge 3 3 1
-shoot 1 4 0
-leach 2 7 0
-globe 1 9 0

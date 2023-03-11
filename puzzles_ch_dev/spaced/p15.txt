@@ -1,5 +1,0 @@
-6 10 spaced
-liver 2 1 1
-avert 1 3 0
-wring 1 5 0
-giant 5 5 1

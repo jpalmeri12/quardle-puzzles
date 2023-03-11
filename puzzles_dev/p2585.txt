@@ -1,5 +1,0 @@
-6 7
-diode 2 1 1
-hitch 1 2 0
-crisp 4 2 1
-admin 1 4 0

@@ -1,7 +1,0 @@
-7 9 secretdistance
-reign 1 1 0
-graph 4 1 1
-atone 6 2 1
-ashen 2 5 0
-dwelt 1 8 0
-!sdpos 3 3 0 0

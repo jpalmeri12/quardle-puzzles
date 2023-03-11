@@ -1,5 +1,0 @@
-6 8 duplicity
-brush 1 1 1
-bused 4 3 1
-horse 1 5 0
-horde 1 7 0

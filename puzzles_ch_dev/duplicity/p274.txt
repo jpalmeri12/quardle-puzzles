@@ -1,5 +1,0 @@
-6 8 duplicity
-agape 1 1 0
-gaffe 2 1 1
-afire 1 3 0
-riper 4 3 1

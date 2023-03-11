@@ -1,5 +1,0 @@
-7 10
-rower 3 1 1
-crime 2 5 0
-index 4 5 1
-slide 1 7 0

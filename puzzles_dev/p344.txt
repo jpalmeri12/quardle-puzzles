@@ -1,5 +1,0 @@
-6 6
-treat 2 1 1
-adapt 4 1 1
-credo 1 2 0
-state 1 5 0

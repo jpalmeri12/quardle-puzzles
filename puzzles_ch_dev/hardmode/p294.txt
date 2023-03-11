@@ -1,5 +1,0 @@
-7 9 hardmode
-rodeo 2 1 0
-excel 5 1 1
-evoke 3 4 1
-navel 1 5 0

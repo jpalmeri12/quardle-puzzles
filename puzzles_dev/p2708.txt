@@ -1,5 +1,0 @@
-7 8
-tacit 6 1 1
-sonic 2 3 0
-nylon 4 3 1
-clang 1 7 0

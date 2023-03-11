@@ -1,5 +1,0 @@
-6 10
-girly 1 1 0
-infer 2 1 1
-crony 1 5 0
-natal 4 5 1

@@ -1,5 +1,0 @@
-6 8 swap
-msote 1 1 1
-mirco 1 1 0
-tihte 5 3 1
-toxci 1 4 0

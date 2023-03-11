@@ -1,5 +1,0 @@
-7 9
-solid 1 1 1
-icing 1 4 0
-newly 4 4 1
-billy 2 7 0

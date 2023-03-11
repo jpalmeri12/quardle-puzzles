@@ -1,5 +1,0 @@
-6 10
-curio 2 1 1
-wreck 1 3 0
-bound 1 5 0
-debar 5 5 1

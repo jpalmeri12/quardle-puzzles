@@ -1,5 +1,0 @@
-6 7
-fritz 1 1 1
-rumor 1 2 0
-opine 4 2 1
-timid 1 4 0

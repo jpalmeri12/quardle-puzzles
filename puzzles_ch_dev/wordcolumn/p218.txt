@@ -1,6 +1,0 @@
-6 10 wordcolumn
-llama 2 1 1
-patch 1 3 0
-clerk 4 3 1
-petal 1 5 1
-payee 1 5 0

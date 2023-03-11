@@ -1,5 +1,0 @@
-7 10
-batch 4 1 1
-fetch 2 3 0
-might 1 5 0
-grail 3 5 1

@@ -1,5 +1,0 @@
-7 8 dblltr
-alpha 1 1 1
-idiot 3 3 1
-avian 1 5 0
-stall 2 7 0

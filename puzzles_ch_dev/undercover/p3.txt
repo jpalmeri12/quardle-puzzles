@@ -1,6 +1,0 @@
-7 12 undercover
-ultra 3 1 1
-quail 1 5 0
-laugh 5 5 1
-rebus 2 7 0
-known 1 11 0

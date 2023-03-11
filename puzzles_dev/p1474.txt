@@ -1,5 +1,0 @@
-7 10
-shire 5 1 1
-niche 2 2 0
-dense 1 5 0
-notch 3 5 1

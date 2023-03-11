@@ -1,6 +1,0 @@
-7 8 connectfive
-badge 1 1 1
-dread 1 3 0
-annoy 4 3 1
-eying 1 5 0
-coyly 2 7 0

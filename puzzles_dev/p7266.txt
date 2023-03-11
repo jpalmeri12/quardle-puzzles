@@ -1,5 +1,0 @@
-6 10
-craft 1 1 1
-trend 1 5 0
-elder 3 5 1
-hyena 1 8 0

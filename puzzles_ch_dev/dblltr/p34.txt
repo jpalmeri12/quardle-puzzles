@@ -1,5 +1,0 @@
-7 9 dblltr
-creep 3 1 1
-retry 2 4 0
-rigid 5 4 1
-ahead 1 8 0

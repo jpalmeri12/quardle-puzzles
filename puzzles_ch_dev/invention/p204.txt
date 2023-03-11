@@ -1,5 +1,0 @@
-7 7 invention
-batch 6 1 1
-ashen 2 2 1
-shalt 2 3 0
-onset 1 6 0

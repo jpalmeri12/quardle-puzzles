@@ -1,5 +1,0 @@
-7 9 desync
-aloud 5 1 1
-locus 3 4 1
-avoid 1 5 0
-essay 2 8 0

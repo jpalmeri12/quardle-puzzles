@@ -1,5 +1,0 @@
-7 10
-knock 4 1 1
-maker 2 5 0
-erect 5 5 1
-wrote 1 7 0

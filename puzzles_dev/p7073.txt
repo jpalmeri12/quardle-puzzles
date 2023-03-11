@@ -1,5 +1,0 @@
-7 9
-merry 5 1 1
-ninja 3 4 1
-grimy 1 5 0
-gauze 2 8 0

@@ -1,5 +1,0 @@
-7 9
-flaky 2 1 1
-skunk 1 4 0
-nosey 4 4 1
-dryer 2 8 0

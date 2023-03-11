@@ -1,5 +1,0 @@
-6 9 buyavowel
-fatty 3 1 1
-north 1 4 1
-notch 1 4 0
-holly 1 8 0

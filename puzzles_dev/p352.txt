@@ -1,5 +1,0 @@
-6 9
-mount 4 1 1
-tenor 1 2 0
-flora 2 4 1
-flute 1 5 0

@@ -1,5 +1,0 @@
-7 8 reverse
-hsats 1 1 0
-ssehc 5 1 1
-flock 3 3 1
-alpha 2 4 0

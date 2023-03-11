@@ -1,5 +1,0 @@
-6 10
-moldy 5 1 1
-shady 1 5 0
-armor 3 5 1
-mamma 1 7 0

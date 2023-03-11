@@ -1,5 +1,0 @@
-6 10 reverse
-creep 1 1 0
-edalg 4 1 1
-tnega 1 5 0
-audit 5 5 1

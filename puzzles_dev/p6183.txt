@@ -1,5 +1,0 @@
-7 9
-sport 2 1 1
-scion 2 1 0
-truly 4 4 1
-stark 1 5 0

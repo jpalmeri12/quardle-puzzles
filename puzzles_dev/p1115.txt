@@ -1,5 +1,0 @@
-6 7
-erect 2 1 1
-sight 4 2 1
-refit 1 3 0
-itchy 1 5 0

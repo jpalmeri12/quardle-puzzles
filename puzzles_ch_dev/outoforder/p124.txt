@@ -1,5 +1,0 @@
-7 9 outoforder
-abode 5 1 1
-adobe 2 2 0
-tawny 3 4 1
-ovate 1 5 0

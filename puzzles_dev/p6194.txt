@@ -1,5 +1,0 @@
-7 7
-grant 5 1 1
-charm 2 2 0
-cheek 2 2 1
-merit 1 5 0

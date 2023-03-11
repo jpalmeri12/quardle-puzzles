@@ -1,5 +1,0 @@
-7 10
-spoke 5 1 1
-cutie 1 5 0
-taffy 3 5 1
-vying 2 9 0

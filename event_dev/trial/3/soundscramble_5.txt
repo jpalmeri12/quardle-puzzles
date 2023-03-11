@@ -1,5 +1,0 @@
-7 10 soundscramble
-token 5 1 1
-mocow 2 2 0
-calan 1 5 0
-legol 3 5 1

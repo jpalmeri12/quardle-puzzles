@@ -1,5 +1,0 @@
-7 9 invention
-quota 1 1 1
-taste 1 4 0
-screw 3 4 1
-beach 2 7 0

@@ -1,6 +1,0 @@
-6 11 drop
-girly 2 1 1
-plate 1 4 0
-taker 4 4 1
-baker 1 7 0
-parry 1 10 0

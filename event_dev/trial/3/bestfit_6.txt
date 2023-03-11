@@ -1,5 +1,0 @@
-6 7 bestfit
-heron 4 1 1
-upset 1 2 0
-pixie 2 2 1
-extol 1 4 0

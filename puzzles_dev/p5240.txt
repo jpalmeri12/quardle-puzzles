@@ -1,5 +1,0 @@
-6 7
-masse 4 1 1
-debar 1 2 0
-delta 1 2 1
-totem 1 5 0

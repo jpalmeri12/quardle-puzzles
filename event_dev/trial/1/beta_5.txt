@@ -1,5 +1,0 @@
-7 10 beta
-bayou 2 1 1
-tuber 1 5 0
-raise 5 5 1
-chain 2 7 0

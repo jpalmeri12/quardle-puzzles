@@ -1,6 +1,0 @@
-6 9 drop
-gruff 5 1 1
-nicer 1 2 0
-chard 3 2 1
-serif 1 5 0
-cigar 1 8 0

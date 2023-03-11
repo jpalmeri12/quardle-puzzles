@@ -1,5 +1,0 @@
-7 8
-filmy 2 1 0
-melon 5 1 1
-jewel 1 3 0
-whiff 3 3 1

@@ -1,6 +1,0 @@
-7 12 drop
-polka 2 1 1
-macho 1 5 0
-chirp 3 5 1
-trite 2 8 0
-actor 1 11 0

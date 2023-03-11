@@ -1,5 +1,0 @@
-7 9
-whirl 1 1 1
-rusty 1 4 0
-slyly 3 4 1
-synod 2 6 0

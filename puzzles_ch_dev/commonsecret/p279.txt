@@ -1,6 +1,0 @@
-7 8 commonsecret
-knelt 2 1 0
-leaky 5 1 1
-husky 2 3 1
-quack 1 4 0
-!secret k

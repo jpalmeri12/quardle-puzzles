@@ -1,6 +1,0 @@
-7 10 island
-snuff 2 1 1
-flora 2 5 0
-radar 5 5 1
-dogma 1 8 0
-!island 1111 221 21 11111

@@ -1,5 +1,0 @@
-6 7
-clump 5 1 1
-spool 1 2 0
-shrew 1 2 1
-equip 1 5 0

@@ -1,9 +1,0 @@
-6 9 spellbound
-chute 4 1 1
-lithe 1 2 0
-young 1 4 1
-youth 1 4 0
-!spellbound 0 2 0
-!spellbound 1 4 1
-!spellbound 2 3 2
-!spellbound 3 4 2

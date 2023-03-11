@@ -1,5 +1,0 @@
-6 9 altending
-newer 1 1 0
-risky 1 3 0
-flame 1 5 0
-shade 1 7 0

@@ -1,5 +1,0 @@
-7 10 spin
-cable 4 1 1
-knelt 2 5 0
-kebab 2 5 1
-hatch 1 8 0

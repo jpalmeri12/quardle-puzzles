@@ -1,5 +1,0 @@
-7 9 desync
-cruel 2 1 1
-derby 1 4 0
-build 4 4 1
-ardor 2 8 0

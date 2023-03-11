@@ -1,6 +1,0 @@
-6 10 drop
-scowl 3 1 1
-credo 5 3 1
-mower 1 4 0
-tango 1 7 0
-smock 1 9 0

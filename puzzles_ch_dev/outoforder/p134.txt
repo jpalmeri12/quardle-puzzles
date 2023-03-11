@@ -1,5 +1,0 @@
-7 7 outoforder
-easel 6 1 1
-bulge 4 2 1
-belie 2 4 0
-rupee 1 6 0

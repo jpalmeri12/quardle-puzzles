@@ -1,5 +1,0 @@
-6 6 sweeper
-ivory 1 1 1
-edict 5 1 1
-valid 1 2 0
-yacht 1 5 0

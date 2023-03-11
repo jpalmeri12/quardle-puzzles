@@ -1,5 +1,0 @@
-7 9
-roast 6 1 1
-putty 3 4 1
-quart 2 5 0
-flyer 1 8 0

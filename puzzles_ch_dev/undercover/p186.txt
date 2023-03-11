@@ -1,6 +1,0 @@
-7 10 undercover
-fishy 1 1 1
-elfin 4 3 1
-hello 1 4 0
-stink 2 6 0
-augur 1 9 0

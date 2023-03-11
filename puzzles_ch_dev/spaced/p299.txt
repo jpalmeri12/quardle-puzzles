@@ -1,5 +1,0 @@
-6 10 spaced
-motif 1 1 1
-forth 1 5 0
-raven 3 5 1
-gavel 1 7 0

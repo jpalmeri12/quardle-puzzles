@@ -1,5 +1,0 @@
-6 9 duplicity
-bugle 5 1 1
-gully 2 4 1
-butte 1 5 0
-elegy 1 7 0

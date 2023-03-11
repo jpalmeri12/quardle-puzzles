@@ -1,5 +1,0 @@
-7 9 skyscrapers
-write 5 4 1
-ether 1 5 0
-crush 3 1 1
-proxy 2 2 0

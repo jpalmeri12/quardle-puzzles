@@ -1,6 +1,0 @@
-7 8 connectfive
-ascot 1 1 0
-carve 3 1 1
-drape 5 3 1
-every 2 4 0
-bilge 1 7 0

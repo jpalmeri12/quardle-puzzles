@@ -1,5 +1,0 @@
-7 10
-saucy 3 1 1
-shush 1 3 0
-nylon 2 5 0
-outdo 5 5 1

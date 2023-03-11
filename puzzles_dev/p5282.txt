@@ -1,5 +1,0 @@
-6 9
-slurp 1 1 0
-rover 4 1 1
-coast 1 4 1
-opera 1 5 0

@@ -1,5 +1,0 @@
-7 10
-queue 4 1 1
-widen 1 5 0
-drill 3 5 1
-dingo 2 7 0

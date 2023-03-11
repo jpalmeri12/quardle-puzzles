@@ -1,5 +1,0 @@
-7 10
-value 4 1 1
-dozen 1 5 0
-never 5 5 1
-gayer 2 8 0

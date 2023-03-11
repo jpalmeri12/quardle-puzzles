@@ -1,5 +1,0 @@
-6 9 swap
-rpien 3 1 1
-pupyp 1 2 0
-creka 1 4 0
-avodi 5 4 1

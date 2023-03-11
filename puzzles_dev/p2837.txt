@@ -1,5 +1,0 @@
-6 9
-spasm 4 1 1
-wimpy 1 2 0
-midst 1 4 0
-manly 1 4 1

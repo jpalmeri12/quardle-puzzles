@@ -1,5 +1,0 @@
-6 10 assembly
-flame 1 3 1
-tacit 5 3 1
-flint 1 1 0
-antic 1 9 0

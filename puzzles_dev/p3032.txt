@@ -1,5 +1,0 @@
-7 8
-dwarf 2 1 0
-ruder 5 1 1
-lapel 2 3 1
-upper 1 5 0

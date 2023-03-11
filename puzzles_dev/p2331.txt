@@ -1,5 +1,0 @@
-7 8
-cress 6 1 1
-delve 2 3 1
-diode 2 3 0
-belle 1 7 0

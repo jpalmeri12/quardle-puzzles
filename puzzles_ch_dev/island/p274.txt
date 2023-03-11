@@ -1,6 +1,0 @@
-7 9 island
-depot 4 1 1
-raven 1 2 0
-bevel 2 4 1
-eater 2 5 0
-!island 221 2111 211 31

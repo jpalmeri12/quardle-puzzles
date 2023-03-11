@@ -1,5 +1,0 @@
-6 9 unloved
-clock 1 1 0
-cater 4 1 1
-cried 1 4 0
-cacti 1 4 1

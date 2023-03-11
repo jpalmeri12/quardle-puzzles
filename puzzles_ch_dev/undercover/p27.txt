@@ -1,6 +1,0 @@
-7 10 undercover
-crown 1 1 1
-joust 3 3 1
-woody 1 4 0
-stack 2 7 0
-libel 1 9 0

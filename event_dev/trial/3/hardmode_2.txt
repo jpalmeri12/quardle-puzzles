@@ -1,5 +1,0 @@
-7 9 hardmode
-wight 1 1 1
-harsh 1 4 0
-hotly 5 4 1
-atoll 2 7 0

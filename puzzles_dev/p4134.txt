@@ -1,5 +1,0 @@
-6 9
-shook 1 1 1
-ovine 1 4 0
-impel 3 4 1
-freed 1 7 0

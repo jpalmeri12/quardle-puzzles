@@ -1,5 +1,0 @@
-7 10 darkness
-bride 3 5 1
-cabin 1 5 0
-tense 2 9 0
-pizza 2 1 1

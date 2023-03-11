@@ -1,9 +1,0 @@
-6 10 beforeafter
-stamp 1 1 0
-pasty 5 1 1
-ditty 1 5 0
-tweed 4 5 1
-!beforeafter 1 q
-!beforeafter 1 q
-!beforeafter 1 k
-!beforeafter 1 j

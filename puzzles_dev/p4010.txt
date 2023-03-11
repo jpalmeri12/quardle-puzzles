@@ -1,5 +1,0 @@
-7 9
-shank 4 1 1
-spiny 1 4 0
-purge 2 4 1
-graft 2 7 0

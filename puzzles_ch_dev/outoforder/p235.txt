@@ -1,5 +1,0 @@
-6 10 outoforder
-larva 3 1 1
-corny 1 3 0
-crane 1 5 0
-elide 5 5 1

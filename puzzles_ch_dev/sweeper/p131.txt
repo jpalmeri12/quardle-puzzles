@@ -1,5 +1,0 @@
-6 7 sweeper
-abate 1 1 1
-basal 1 2 0
-shank 3 2 1
-toast 1 4 0

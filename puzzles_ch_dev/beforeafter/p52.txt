@@ -1,9 +1,0 @@
-7 9 beforeafter
-churn 5 1 1
-lurch 1 2 0
-macro 2 4 0
-minty 2 4 1
-!beforeafter 1 i
-!beforeafter 2 i
-!beforeafter 2 n
-!beforeafter 2 q

@@ -1,5 +1,0 @@
-7 8 sweeper
-jumbo 2 1 0
-butch 5 1 1
-onset 1 3 0
-sauna 3 3 1

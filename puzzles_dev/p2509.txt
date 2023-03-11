@@ -1,5 +1,0 @@
-6 7
-rearm 2 1 1
-waist 5 2 1
-magma 1 3 0
-amiss 1 5 0

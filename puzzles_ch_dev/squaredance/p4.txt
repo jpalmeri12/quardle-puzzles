@@ -1,6 +1,0 @@
-6 8 squaredance
-prove 1 1 1
-elate 5 1 1
-prose 1 1 0
-elite 1 5 0
-blind 1 7 0

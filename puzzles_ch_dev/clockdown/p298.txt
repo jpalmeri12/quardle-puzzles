@@ -1,5 +1,0 @@
-7 8 clockdown
-habit 4 1 1
-brush 2 3 1
-broil 1 4 0
-heard 2 7 0

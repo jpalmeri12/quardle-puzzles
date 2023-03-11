@@ -1,9 +1,0 @@
-7 9 spellbound
-guise 4 1 1
-scuba 2 2 0
-tribe 1 4 1
-refer 1 5 0
-!spellbound 0 3 0
-!spellbound 1 0 4
-!spellbound 2 0 2
-!spellbound 3 1 4

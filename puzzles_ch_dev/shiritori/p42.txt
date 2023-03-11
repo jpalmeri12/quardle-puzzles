@@ -1,5 +1,0 @@
-7 9 shiritori
-dryly 1 1 0
-linen 4 1 1
-sneak 2 4 0
-shorn 2 4 1

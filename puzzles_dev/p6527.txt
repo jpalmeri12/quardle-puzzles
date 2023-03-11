@@ -1,5 +1,0 @@
-6 9
-mango 4 1 1
-vegan 1 2 0
-usage 1 4 0
-uncle 1 4 1

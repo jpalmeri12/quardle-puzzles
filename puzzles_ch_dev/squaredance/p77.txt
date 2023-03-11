@@ -1,6 +1,0 @@
-6 8 squaredance
-grant 1 1 1
-these 5 1 1
-greet 1 1 0
-trace 1 5 0
-fraud 1 7 0

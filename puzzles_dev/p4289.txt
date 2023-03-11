@@ -1,5 +1,0 @@
-7 10
-shirk 5 1 1
-watch 1 2 0
-gawky 2 5 0
-grain 2 5 1

@@ -1,5 +1,0 @@
-7 9
-south 2 1 1
-corny 1 2 0
-tilde 2 4 0
-enter 6 4 1

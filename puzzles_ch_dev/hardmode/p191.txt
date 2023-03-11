@@ -1,5 +1,0 @@
-7 9 hardmode
-agent 1 1 0
-guess 2 1 1
-adept 6 4 1
-scold 2 5 0

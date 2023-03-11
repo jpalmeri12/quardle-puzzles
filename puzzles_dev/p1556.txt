@@ -1,5 +1,0 @@
-6 7
-union 5 1 1
-shyly 1 2 1
-stein 1 2 0
-lemon 1 5 0

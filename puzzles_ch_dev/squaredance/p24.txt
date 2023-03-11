@@ -1,6 +1,0 @@
-6 8 squaredance
-verge 1 1 1
-debut 5 1 1
-vapid 1 1 0
-elect 1 5 0
-swirl 1 7 0

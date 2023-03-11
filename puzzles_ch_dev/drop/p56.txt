@@ -1,6 +1,0 @@
-6 11 drop
-salty 1 1 0
-sight 1 1 1
-harsh 1 4 0
-heart 5 4 1
-retry 1 10 0

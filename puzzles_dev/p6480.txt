@@ -1,5 +1,0 @@
-7 9
-stuff 6 1 1
-snuff 2 4 0
-unwed 4 4 1
-abbey 1 7 0

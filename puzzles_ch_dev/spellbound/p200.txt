@@ -1,9 +1,0 @@
-6 9 spellbound
-shard 4 1 1
-alpha 1 2 0
-beard 1 4 0
-brisk 1 4 1
-!spellbound 0 2 4
-!spellbound 1 2 0
-!spellbound 2 2 4
-!spellbound 3 1 3

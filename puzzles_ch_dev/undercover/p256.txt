@@ -1,6 +1,0 @@
-6 12 undercover
-nasal 1 1 0
-acute 4 1 1
-diner 1 5 0
-index 2 5 1
-pygmy 1 11 0

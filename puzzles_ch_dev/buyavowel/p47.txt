@@ -1,5 +1,0 @@
-7 7 buyavowel
-lynch 5 1 1
-puffy 1 2 0
-fever 3 2 1
-evict 2 4 0

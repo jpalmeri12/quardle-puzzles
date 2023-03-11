@@ -1,5 +1,0 @@
-7 10
-woozy 5 1 1
-decor 2 3 0
-fizzy 1 5 0
-zonal 3 5 1

@@ -1,5 +1,0 @@
-7 8 soundscramble
-omoss 1 1 0
-stolk 5 1 1
-daubt 3 3 1
-nable 2 4 0

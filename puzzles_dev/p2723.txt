@@ -1,5 +1,0 @@
-7 10
-twist 3 1 1
-power 1 2 0
-stern 2 5 0
-revue 5 5 1

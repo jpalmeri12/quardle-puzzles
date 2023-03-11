@@ -1,5 +1,0 @@
-6 6 bestfit
-gummy 2 1 1
-stain 4 1 1
-lusty 1 2 0
-eying 1 5 0

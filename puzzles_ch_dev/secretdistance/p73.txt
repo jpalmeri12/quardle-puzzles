@@ -1,7 +1,0 @@
-6 8 secretdistance
-apple 1 1 1
-vegan 3 1 1
-poesy 1 2 0
-loath 1 4 0
-agate 1 7 0
-!sdpos 0 2 3 2

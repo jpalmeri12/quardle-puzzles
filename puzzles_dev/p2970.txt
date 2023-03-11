@@ -1,5 +1,0 @@
-6 9
-truly 5 1 1
-gruel 1 4 0
-rotor 2 4 1
-gorge 1 7 0

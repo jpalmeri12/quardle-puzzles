@@ -1,7 +1,0 @@
-6 6 fourthwall
-steep 1 1 0
-stuff 1 1 1
-usher 1 3 0
-ether 3 1 1
-feral 1 5 0
-peril 5 1 1

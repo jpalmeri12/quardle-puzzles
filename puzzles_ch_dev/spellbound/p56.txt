@@ -1,9 +1,0 @@
-7 10 spellbound
-press 2 1 1
-bevel 1 3 0
-sight 2 5 0
-guile 4 5 1
-!spellbound 0 3 0
-!spellbound 1 2 3
-!spellbound 2 4 3
-!spellbound 3 2 1

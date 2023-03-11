@@ -1,5 +1,0 @@
-7 9
-fiery 2 1 1
-spark 5 4 1
-syrup 1 5 0
-blurb 2 7 0

@@ -1,5 +1,0 @@
-6 7
-rouge 5 1 1
-intro 1 2 0
-turbo 3 2 1
-cable 1 5 0

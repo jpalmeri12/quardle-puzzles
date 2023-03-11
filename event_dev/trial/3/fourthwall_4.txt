@@ -1,7 +1,0 @@
-6 6 fourthwall
-treat 1 1 0
-torus 1 1 1
-rouse 1 3 0
-elude 3 1 1
-swept 1 5 0
-tweet 5 1 1

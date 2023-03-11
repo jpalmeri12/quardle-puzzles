@@ -1,5 +1,0 @@
-7 9 shiritori
-perch 2 1 0
-robin 4 1 1
-train 1 4 0
-tidal 1 4 1

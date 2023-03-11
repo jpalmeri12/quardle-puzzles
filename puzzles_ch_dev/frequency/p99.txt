@@ -1,5 +1,0 @@
-6 6 frequency
-sigma 2 1 1
-ester 4 1 1
-rinse 1 2 0
-embed 1 4 0

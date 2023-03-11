@@ -1,5 +1,0 @@
-7 8 clockdown
-palsy 1 1 0
-libel 3 1 1
-entry 6 3 1
-pecan 2 4 0

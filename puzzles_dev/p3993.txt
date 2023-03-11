@@ -1,5 +1,0 @@
-7 9
-ruddy 6 1 1
-canon 2 4 1
-cloud 2 4 0
-snipe 1 6 0

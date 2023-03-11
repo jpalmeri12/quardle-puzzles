@@ -1,5 +1,0 @@
-7 8
-sling 6 1 1
-shoal 2 3 1
-haven 2 4 0
-click 1 7 0

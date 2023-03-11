@@ -1,5 +1,0 @@
-6 7 scrabble
-salty 3 1 1
-clash 1 2 0
-heath 5 2 1
-extra 1 4 0

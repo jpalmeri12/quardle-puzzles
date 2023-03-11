@@ -1,5 +1,0 @@
-6 9
-viral 1 1 1
-gourd 5 4 1
-lingo 1 5 0
-livid 1 8 0

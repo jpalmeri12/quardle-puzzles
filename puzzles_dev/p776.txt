@@ -1,5 +1,0 @@
-7 8
-crush 1 1 0
-honey 5 1 1
-paint 2 3 1
-alien 2 4 0

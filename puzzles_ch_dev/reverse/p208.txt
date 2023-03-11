@@ -1,5 +1,0 @@
-7 9 reverse
-redle 3 1 1
-bossy 5 4 1
-agemo 1 5 0
-polyp 2 8 0

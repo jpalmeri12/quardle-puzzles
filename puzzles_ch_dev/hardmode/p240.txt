@@ -1,5 +1,0 @@
-6 7 hardmode
-fewer 4 1 1
-voter 1 2 0
-vicar 1 2 1
-award 1 5 0

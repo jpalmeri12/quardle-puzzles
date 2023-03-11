@@ -1,6 +1,0 @@
-7 10 wordcolumn
-alpha 4 1 1
-squib 2 4 1
-quake 2 5 0
-karma 5 5 1
-piper 1 7 0

@@ -1,5 +1,0 @@
-6 9 buyavowel
-crimp 3 1 1
-gamma 1 4 0
-allot 5 4 1
-macro 1 7 0

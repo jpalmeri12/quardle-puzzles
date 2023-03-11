@@ -1,5 +1,0 @@
-6 9 unloved
-spice 2 1 1
-jewel 4 4 1
-lever 1 5 0
-stole 1 8 0

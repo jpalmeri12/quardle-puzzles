@@ -1,5 +1,0 @@
-7 9
-polka 4 1 1
-groom 2 4 1
-react 2 5 0
-woody 1 7 0

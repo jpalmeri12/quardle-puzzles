@@ -1,5 +1,0 @@
-6 7 swap
-foret 5 1 1
-raito 1 2 0
-ilnay 3 2 1
-plaet 1 5 0

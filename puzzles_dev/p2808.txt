@@ -1,5 +1,0 @@
-6 7
-bigot 4 1 1
-valid 1 2 0
-anode 2 2 1
-motor 1 4 0

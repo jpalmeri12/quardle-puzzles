@@ -1,5 +1,0 @@
-7 9
-wacky 1 1 1
-karma 1 4 0
-raspy 3 4 1
-spelt 2 7 0

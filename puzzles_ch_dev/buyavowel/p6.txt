@@ -1,5 +1,0 @@
-7 7 buyavowel
-fibre 2 1 1
-winch 1 2 0
-hippo 5 2 1
-ralph 2 4 0

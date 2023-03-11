@@ -1,5 +1,0 @@
-7 9 unloved
-rabbi 1 1 0
-bonus 3 1 1
-dummy 2 4 0
-youth 6 4 1

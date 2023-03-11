@@ -1,5 +1,0 @@
-6 7
-welsh 1 1 1
-dingy 4 2 1
-lipid 1 3 0
-hinge 1 5 0

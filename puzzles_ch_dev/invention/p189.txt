@@ -1,5 +1,0 @@
-7 9 invention
-diary 4 1 1
-overt 1 4 0
-verve 2 4 1
-vapor 2 7 0

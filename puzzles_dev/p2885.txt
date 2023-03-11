@@ -1,5 +1,0 @@
-6 9
-prior 2 1 1
-creep 1 2 0
-taint 4 4 1
-croak 1 5 0

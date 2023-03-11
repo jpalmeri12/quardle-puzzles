@@ -1,5 +1,0 @@
-6 10 hardmode
-theta 4 1 1
-urban 1 5 0
-blood 3 5 1
-froth 1 8 0

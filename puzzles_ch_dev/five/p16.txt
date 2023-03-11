@@ -1,6 +1,0 @@
-7 9 five
-stint 5 1 1
-depth 2 2 0
-joint 2 4 0
-ovoid 3 4 1
-stilt 1 7 0

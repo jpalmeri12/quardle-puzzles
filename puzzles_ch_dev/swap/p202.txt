@@ -1,5 +1,0 @@
-7 10 swap
-ownig 4 1 1
-ragne 1 3 0
-bugel 2 5 0
-laept 6 5 1

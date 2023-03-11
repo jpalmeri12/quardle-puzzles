@@ -1,5 +1,0 @@
-7 8 scrabble
-serif 3 3 1
-creep 2 5 0
-mafia 1 7 0
-broke 5 1 1

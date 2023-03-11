@@ -1,5 +1,0 @@
-6 9 hardmode
-abide 1 1 0
-bayou 2 1 1
-snare 5 4 1
-human 1 5 0

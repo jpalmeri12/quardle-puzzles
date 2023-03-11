@@ -1,5 +1,0 @@
-7 10 spin
-quack 4 1 1
-funky 1 5 0
-nerve 3 5 1
-neigh 2 9 0

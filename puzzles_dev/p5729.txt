@@ -1,5 +1,0 @@
-7 7
-smoky 4 1 1
-sumac 2 2 0
-since 2 2 1
-snaky 1 4 0

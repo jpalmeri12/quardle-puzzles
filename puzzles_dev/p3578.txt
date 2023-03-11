@@ -1,5 +1,0 @@
-7 9
-study 2 1 1
-tepid 2 2 0
-adult 1 4 0
-louse 4 4 1

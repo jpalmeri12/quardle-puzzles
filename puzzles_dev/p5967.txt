@@ -1,5 +1,0 @@
-6 10
-covet 4 1 1
-mouth 1 5 0
-hardy 5 5 1
-fuzzy 1 9 0

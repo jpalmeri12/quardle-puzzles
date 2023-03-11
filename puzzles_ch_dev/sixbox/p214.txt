@@ -1,7 +1,0 @@
-8 8 sixbox
-brood 3 1 1
-biddy 5 1 1
-proud 1 3 0
-udder 4 3 1
-odder 3 4 0
-muddy 1 5 0

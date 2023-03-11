@@ -1,5 +1,0 @@
-7 10
-spout 4 1 1
-canoe 1 3 0
-butte 2 5 0
-usual 3 5 1

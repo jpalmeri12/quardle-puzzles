@@ -1,5 +1,0 @@
-6 7 bestfit
-blurt 5 1 1
-tubal 1 2 0
-bulge 3 2 1
-fight 1 5 0

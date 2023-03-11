@@ -1,5 +1,0 @@
-7 10
-sheik 4 1 1
-mushy 1 2 0
-woken 2 5 0
-nadir 6 5 1

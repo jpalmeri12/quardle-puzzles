@@ -1,5 +1,0 @@
-6 7 invention
-great 4 1 1
-spiny 1 2 1
-spare 1 2 0
-north 1 5 0

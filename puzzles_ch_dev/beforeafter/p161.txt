@@ -1,9 +1,0 @@
-7 8 beforeafter
-angst 1 1 1
-gecko 3 3 1
-stead 1 4 0
-skiff 2 6 0
-!beforeafter 2 q
-!beforeafter 2 i
-!beforeafter 1 o
-!beforeafter 1 j

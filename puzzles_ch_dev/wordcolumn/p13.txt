@@ -1,6 +1,0 @@
-6 10 wordcolumn
-coupe 3 1 1
-clerk 1 5 0
-chaff 1 5 1
-kayak 5 5 1
-artsy 1 7 0

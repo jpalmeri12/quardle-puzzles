@@ -1,5 +1,0 @@
-7 10
-unity 5 1 1
-fully 1 5 0
-leave 4 5 1
-evade 2 7 0

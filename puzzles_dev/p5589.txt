@@ -1,5 +1,0 @@
-7 10
-belie 4 1 1
-bicep 1 2 0
-check 2 5 0
-heart 3 5 1

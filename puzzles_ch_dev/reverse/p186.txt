@@ -1,5 +1,0 @@
-6 7 reverse
-arepo 5 1 1
-carol 3 2 1
-grace 1 3 0
-diovo 1 5 0

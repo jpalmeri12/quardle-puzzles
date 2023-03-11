@@ -1,6 +1,0 @@
-6 11 drop
-anode 5 1 1
-squad 1 4 0
-quite 2 4 1
-stare 1 7 0
-erase 1 10 0

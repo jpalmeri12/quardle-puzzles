@@ -1,5 +1,0 @@
-7 9 desync
-round 4 1 1
-stool 2 2 0
-stung 1 4 0
-tuber 2 4 1

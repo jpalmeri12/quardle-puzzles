@@ -1,5 +1,0 @@
-7 10
-stove 5 1 1
-olden 2 5 0
-lunch 3 5 1
-pinch 1 7 0

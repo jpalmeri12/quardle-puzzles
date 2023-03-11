@@ -1,5 +1,0 @@
-7 7
-score 5 1 1
-shark 3 2 1
-throb 2 3 0
-farce 1 5 0

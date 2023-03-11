@@ -1,5 +1,0 @@
-7 10 swap
-setel 2 1 0
-etnth 5 1 1
-crsah 1 5 0
-stroy 3 5 1

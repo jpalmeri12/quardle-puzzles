@@ -1,6 +1,0 @@
-7 10 five
-waver 6 1 1
-acorn 2 2 1
-razor 2 5 0
-zonal 4 5 1
-swear 1 8 0

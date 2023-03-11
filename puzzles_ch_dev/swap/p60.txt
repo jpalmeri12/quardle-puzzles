@@ -1,5 +1,0 @@
-6 7 swap
-rkill 1 1 1
-konck 1 2 0
-chodr 4 2 1
-lbade 1 5 0

@@ -1,5 +1,0 @@
-7 10 beta
-rover 2 1 1
-ovate 2 2 0
-crest 1 5 0
-ether 3 5 1

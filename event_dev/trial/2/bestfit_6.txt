@@ -1,5 +1,0 @@
-7 9 bestfit
-avoid 1 1 0
-venom 2 1 1
-disco 5 4 1
-merit 2 5 0

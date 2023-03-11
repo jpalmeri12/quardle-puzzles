@@ -1,5 +1,0 @@
-7 10
-pushy 4 1 1
-welsh 1 3 0
-glyph 2 5 0
-level 3 5 1

@@ -1,5 +1,0 @@
-6 10 spin
-small 1 1 1
-llama 1 5 0
-march 4 5 1
-pushy 1 9 0

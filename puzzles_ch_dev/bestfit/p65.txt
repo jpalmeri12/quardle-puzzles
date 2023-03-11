@@ -1,5 +1,0 @@
-7 10 bestfit
-fetch 4 1 1
-ashen 2 5 0
-scale 3 5 1
-polka 1 8 0

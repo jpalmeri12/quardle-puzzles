@@ -1,5 +1,0 @@
-7 7
-spike 2 1 1
-spear 1 2 0
-alley 4 2 1
-elegy 2 5 0

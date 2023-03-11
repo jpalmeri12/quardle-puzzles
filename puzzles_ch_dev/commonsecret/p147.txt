@@ -1,6 +1,0 @@
-6 8 commonsecret
-swarm 1 1 1
-shack 1 1 0
-barge 3 3 1
-marry 1 5 0
-!secret a

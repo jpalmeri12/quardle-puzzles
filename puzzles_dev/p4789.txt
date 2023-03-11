@@ -1,5 +1,0 @@
-7 10
-droll 3 1 1
-larva 1 2 0
-blaze 2 5 0
-bless 2 5 1

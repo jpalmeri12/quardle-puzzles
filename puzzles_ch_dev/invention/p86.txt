@@ -1,5 +1,0 @@
-7 10 invention
-token 2 1 0
-kebab 4 1 1
-adobe 1 5 0
-druid 2 5 1

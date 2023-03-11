@@ -1,5 +1,0 @@
-6 8 skyscrapers
-niece 2 3 1
-silky 1 4 0
-lucky 4 1 1
-gaily 1 1 0

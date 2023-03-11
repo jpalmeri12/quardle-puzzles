@@ -1,5 +1,0 @@
-7 10
-decor 5 1 1
-rider 2 2 0
-drier 1 5 0
-radar 2 5 1

@@ -1,7 +1,0 @@
-7 12 secretdistance
-gnash 6 1 1
-fifth 2 5 0
-flume 4 5 1
-recut 1 7 0
-gonad 1 11 0
-!sdpos 1 0 2 3

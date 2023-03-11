@@ -1,5 +1,0 @@
-7 10
-tidal 5 1 1
-basil 1 5 0
-inter 4 5 1
-creme 2 8 0

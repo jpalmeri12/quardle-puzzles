@@ -1,5 +1,0 @@
-7 9 frequency
-femur 1 1 0
-myrrh 3 1 1
-trash 2 4 0
-hound 6 4 1

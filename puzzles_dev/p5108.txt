@@ -1,5 +1,0 @@
-7 9
-shaft 1 1 1
-taffy 4 4 1
-tidal 1 5 0
-coyly 2 8 0

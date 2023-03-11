@@ -1,5 +1,0 @@
-6 9 sweeper
-flint 5 1 1
-trail 1 2 0
-brawn 1 4 0
-renal 2 4 1

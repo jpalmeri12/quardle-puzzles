@@ -1,5 +1,0 @@
-7 9 skyscrapers
-totem 5 1 1
-scrum 1 5 0
-acrid 2 4 1
-manor 2 2 0

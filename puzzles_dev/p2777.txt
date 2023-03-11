@@ -1,5 +1,0 @@
-7 9
-swear 4 1 1
-cried 1 3 0
-chute 6 4 1
-myrrh 2 5 0

@@ -1,5 +1,0 @@
-7 8 reverse
-ydnar 5 1 1
-aping 2 3 0
-pride 3 3 1
-yniar 1 5 0

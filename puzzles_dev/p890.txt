@@ -1,5 +1,0 @@
-6 9
-solve 1 1 1
-sugar 1 1 0
-virus 1 4 0
-shank 5 4 1

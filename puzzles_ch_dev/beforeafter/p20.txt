@@ -1,9 +1,0 @@
-7 8 beforeafter
-rough 1 1 1
-tonga 3 3 1
-gloss 1 4 0
-agony 2 6 0
-!beforeafter 2 l
-!beforeafter 2 l
-!beforeafter 1 m
-!beforeafter 1 m

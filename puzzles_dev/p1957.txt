@@ -1,5 +1,0 @@
-7 9
-scorn 4 1 1
-flare 1 4 0
-loopy 2 4 1
-parer 2 7 0

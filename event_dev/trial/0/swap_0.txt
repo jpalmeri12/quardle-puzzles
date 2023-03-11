@@ -1,5 +1,0 @@
-7 9 swap
-silyl 5 1 1
-alkie 2 2 0
-blily 1 4 0
-iicng 3 4 1

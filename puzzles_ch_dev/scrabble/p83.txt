@@ -1,5 +1,0 @@
-6 7 scrabble
-raise 3 1 1
-sushi 1 4 0
-knife 5 2 1
-whack 1 2 0

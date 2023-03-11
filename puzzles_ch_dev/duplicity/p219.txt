@@ -1,5 +1,0 @@
-7 9 duplicity
-infer 2 1 1
-assay 5 4 1
-raise 2 5 0
-fanny 1 8 0

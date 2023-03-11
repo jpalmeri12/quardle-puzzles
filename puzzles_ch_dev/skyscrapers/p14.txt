@@ -1,5 +1,0 @@
-6 7 skyscrapers
-topic 1 2 0
-attic 1 1 1
-civic 1 5 0
-privy 3 2 1

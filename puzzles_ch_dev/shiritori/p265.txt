@@ -1,5 +1,0 @@
-6 9 shiritori
-stiff 1 1 0
-scree 1 1 1
-enter 1 4 0
-twist 3 4 1

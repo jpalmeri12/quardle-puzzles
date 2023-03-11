@@ -1,5 +1,0 @@
-6 10 bestfit
-ficus 4 1 1
-lasso 1 5 0
-sloth 3 5 1
-stock 1 7 0

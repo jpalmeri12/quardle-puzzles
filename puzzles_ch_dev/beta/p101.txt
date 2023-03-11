@@ -1,5 +1,0 @@
-6 10 beta
-lupus 1 1 1
-unite 1 2 0
-slide 1 5 0
-inter 3 5 1

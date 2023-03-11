@@ -1,6 +1,0 @@
-6 10 wordcolumn
-hunch 1 1 0
-cynic 4 1 1
-latch 1 5 0
-talon 3 5 1
-drool 1 8 0

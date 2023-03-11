@@ -1,5 +1,0 @@
-7 7
-chaos 5 1 1
-pithy 2 2 0
-plume 2 2 1
-junto 1 4 0

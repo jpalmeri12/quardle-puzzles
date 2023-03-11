@@ -1,5 +1,0 @@
-7 9
-spelt 4 1 1
-safer 2 4 1
-tatty 1 5 0
-raise 2 8 0

@@ -1,5 +1,0 @@
-7 8 elbowroom
-lyric 1 1 0
-camel 5 1 1
-bleak 3 3 1
-jelly 2 5 0

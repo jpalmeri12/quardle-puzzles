@@ -1,5 +1,0 @@
-7 10
-mouth 1 1 0
-obese 2 1 1
-essay 2 5 0
-stint 4 5 1

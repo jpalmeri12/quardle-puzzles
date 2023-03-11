@@ -1,5 +1,0 @@
-7 9
-bough 2 1 0
-other 3 1 1
-blend 1 4 0
-dwelt 5 4 1

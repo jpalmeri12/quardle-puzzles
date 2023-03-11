@@ -1,5 +1,0 @@
-7 8
-cello 1 1 0
-lipid 4 1 1
-crier 2 3 1
-index 2 5 0

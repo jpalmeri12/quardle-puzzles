@@ -1,6 +1,0 @@
-7 12 drop
-learn 4 1 1
-reach 2 3 0
-rainy 1 5 0
-islet 3 5 1
-entry 1 11 0

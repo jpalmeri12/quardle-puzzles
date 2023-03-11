@@ -1,5 +1,0 @@
-7 10
-legal 2 1 1
-bluer 1 5 0
-ranch 5 5 1
-daunt 2 7 0

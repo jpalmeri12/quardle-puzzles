@@ -1,5 +1,0 @@
-6 6 spin
-wield 1 1 0
-imbue 2 1 1
-loyal 4 1 1
-jelly 1 5 0

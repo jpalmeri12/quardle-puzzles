@@ -1,5 +1,0 @@
-7 8
-cleat 2 1 0
-easel 4 1 1
-fully 2 3 1
-slyly 1 5 0

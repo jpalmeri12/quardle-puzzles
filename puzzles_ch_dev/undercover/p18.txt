@@ -1,6 +1,0 @@
-7 11 undercover
-soapy 1 1 1
-pixel 1 4 0
-enemy 4 4 1
-yield 2 6 0
-gruff 1 10 0

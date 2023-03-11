@@ -1,5 +1,0 @@
-6 9
-suave 1 1 1
-urban 1 2 0
-toddy 3 4 1
-ebony 1 5 0

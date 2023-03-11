@@ -1,5 +1,0 @@
-6 6 outoforder
-homer 1 1 1
-rhino 4 1 1
-minim 1 3 0
-rayon 1 5 0

@@ -1,5 +1,0 @@
-7 10 sweeper
-askew 1 1 0
-spice 2 1 1
-error 2 5 0
-robot 4 5 1

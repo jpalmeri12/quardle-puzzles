@@ -1,5 +1,0 @@
-7 8 swap
-tiled 6 1 1
-sowrn 4 3 1
-csore 2 4 0
-lugne 1 7 0

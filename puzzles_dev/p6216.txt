@@ -1,5 +1,0 @@
-7 10
-yearn 4 1 1
-broad 1 3 0
-knife 2 5 1
-kinky 2 5 0

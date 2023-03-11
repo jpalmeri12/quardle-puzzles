@@ -1,7 +1,0 @@
-6 10 secretdistance
-parry 5 1 1
-sober 1 3 0
-beast 3 3 1
-flaky 1 5 0
-tease 1 9 0
-!sdpos 0 0 2 3

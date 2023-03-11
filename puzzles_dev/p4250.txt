@@ -1,5 +1,0 @@
-7 7
-scant 3 1 1
-niche 1 2 0
-exist 5 2 1
-anvil 2 4 0

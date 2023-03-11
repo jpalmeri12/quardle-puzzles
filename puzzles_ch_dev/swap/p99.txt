@@ -1,5 +1,0 @@
-6 6 swap
-gekey 1 1 0
-gzaer 1 1 1
-kpapa 3 1 1
-edpot 1 4 0

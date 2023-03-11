@@ -1,5 +1,0 @@
-7 8
-navel 1 1 0
-aorta 2 1 1
-thigh 5 3 1
-tithe 2 4 0

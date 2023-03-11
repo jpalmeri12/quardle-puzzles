@@ -1,5 +1,0 @@
-7 9 outoforder
-condo 4 1 1
-notch 2 4 1
-honor 1 5 0
-hyper 2 8 0

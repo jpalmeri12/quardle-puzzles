@@ -1,9 +1,0 @@
-7 8 beforeafter
-sniff 2 1 1
-snake 1 2 0
-lurch 6 3 1
-femur 2 5 0
-!beforeafter 1 j
-!beforeafter 1 l
-!beforeafter 2 j
-!beforeafter 2 n

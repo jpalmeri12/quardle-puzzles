@@ -1,7 +1,0 @@
-6 6 fourthwall
-pique 1 1 0
-press 1 1 1
-evade 1 3 0
-quake 3 1 1
-swept 1 5 0
-exert 5 1 1

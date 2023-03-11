@@ -1,5 +1,0 @@
-7 8 scrabble
-sneer 4 3 1
-amass 1 3 0
-omega 2 5 0
-jumbo 2 1 1

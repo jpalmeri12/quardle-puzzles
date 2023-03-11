@@ -1,5 +1,0 @@
-7 8
-shock 3 1 1
-dogma 2 3 0
-moist 5 3 1
-beast 1 7 0

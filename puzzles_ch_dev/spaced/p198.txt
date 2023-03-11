@@ -1,5 +1,0 @@
-6 10 spaced
-place 5 1 1
-quail 1 5 1
-quake 1 5 0
-angle 1 7 0

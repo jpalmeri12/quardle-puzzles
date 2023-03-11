@@ -1,5 +1,0 @@
-7 9 swap
-signe 6 1 1
-dautn 2 4 0
-amybe 3 4 1
-atbby 1 7 0

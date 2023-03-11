@@ -1,5 +1,0 @@
-7 9
-piggy 3 1 1
-vista 2 2 0
-vegan 1 4 0
-visor 1 4 1

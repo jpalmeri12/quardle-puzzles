@@ -1,6 +1,0 @@
-6 8 squaredance
-stomp 1 1 1
-excel 5 1 1
-share 1 1 0
-pedal 1 5 0
-panic 1 7 0

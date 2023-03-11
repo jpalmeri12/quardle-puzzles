@@ -1,6 +1,0 @@
-7 10 island
-prune 4 1 1
-surer 1 5 0
-razor 5 5 1
-scare 2 9 0
-!island 2111 31 211 41

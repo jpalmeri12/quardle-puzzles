@@ -1,7 +1,0 @@
-6 11 secretdistance
-witty 4 1 1
-lucid 1 2 0
-saute 1 4 0
-shone 1 4 1
-onset 1 10 0
-!sdpos 0 3 3 2

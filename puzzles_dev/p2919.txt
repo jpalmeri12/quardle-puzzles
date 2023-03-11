@@ -1,5 +1,0 @@
-7 10
-creme 1 1 0
-revel 2 1 1
-lorry 2 5 0
-rainy 4 5 1

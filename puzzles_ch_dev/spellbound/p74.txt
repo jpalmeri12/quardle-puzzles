@@ -1,9 +1,0 @@
-7 7 spellbound
-vinyl 6 1 1
-slosh 4 2 1
-sooty 2 4 0
-duchy 1 6 0
-!spellbound 0 1 0
-!spellbound 1 0 1
-!spellbound 2 3 1
-!spellbound 3 1 4

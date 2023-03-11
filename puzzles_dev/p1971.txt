@@ -1,5 +1,0 @@
-7 7
-belie 2 1 1
-cheer 5 2 1
-lithe 2 3 0
-nerve 1 5 0

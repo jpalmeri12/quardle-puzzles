@@ -1,5 +1,0 @@
-7 10 spaced
-froth 6 1 1
-welsh 2 5 0
-leach 4 5 1
-squad 1 7 0

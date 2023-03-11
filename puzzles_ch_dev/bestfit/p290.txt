@@ -1,5 +1,0 @@
-7 9 bestfit
-maxim 2 1 1
-augur 2 2 0
-ashen 5 4 1
-amiss 1 5 0

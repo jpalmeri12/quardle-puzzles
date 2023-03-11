@@ -1,5 +1,0 @@
-6 9 bestfit
-otter 5 1 1
-taste 1 4 0
-stink 3 4 1
-askew 1 8 0

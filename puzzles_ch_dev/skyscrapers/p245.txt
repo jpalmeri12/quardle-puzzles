@@ -1,5 +1,0 @@
-7 10 skyscrapers
-usage 2 5 0
-enema 4 1 1
-asset 1 3 0
-egret 6 5 1

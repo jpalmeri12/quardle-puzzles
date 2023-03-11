@@ -1,5 +1,0 @@
-7 9
-munch 6 1 1
-stoic 2 4 0
-ovine 4 4 1
-debit 1 6 0

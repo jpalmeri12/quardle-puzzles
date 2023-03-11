@@ -1,5 +1,0 @@
-7 8
-think 3 1 1
-churn 5 3 1
-bunch 1 4 0
-jaunt 2 7 0

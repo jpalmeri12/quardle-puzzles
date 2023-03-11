@@ -1,6 +1,0 @@
-6 8 squaredance
-grass 1 1 1
-newer 5 1 1
-groin 1 1 0
-shear 1 5 0
-valve 1 7 0

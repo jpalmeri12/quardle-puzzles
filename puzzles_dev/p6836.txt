@@ -1,5 +1,0 @@
-7 10
-slept 5 1 1
-gaunt 1 5 0
-nerdy 4 5 1
-audio 2 8 0

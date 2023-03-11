@@ -1,5 +1,0 @@
-7 10
-sadly 5 1 1
-beady 2 3 0
-pupal 1 5 1
-penny 1 5 0

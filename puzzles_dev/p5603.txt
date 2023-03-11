@@ -1,5 +1,0 @@
-7 7
-slept 2 1 1
-elder 1 2 0
-round 5 2 1
-pique 2 4 0

@@ -1,5 +1,0 @@
-6 9
-chair 1 1 1
-hence 1 2 0
-learn 4 4 1
-river 1 5 0

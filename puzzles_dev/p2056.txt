@@ -1,5 +1,0 @@
-6 9
-speck 2 1 1
-scaly 1 4 0
-local 4 4 1
-smelt 1 8 0

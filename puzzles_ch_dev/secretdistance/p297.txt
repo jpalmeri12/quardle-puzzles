@@ -1,7 +1,0 @@
-7 11 secretdistance
-apnea 3 1 1
-knock 5 4 1
-daunt 2 5 0
-magic 1 7 0
-trick 1 10 0
-!sdpos 2 3 3 2

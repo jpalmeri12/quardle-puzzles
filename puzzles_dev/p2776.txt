@@ -1,5 +1,0 @@
-7 10
-uncut 5 1 1
-swept 1 5 0
-ethos 3 5 1
-khaki 2 7 0

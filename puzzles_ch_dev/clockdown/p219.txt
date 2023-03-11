@@ -1,5 +1,0 @@
-7 8 clockdown
-belch 2 1 0
-comfy 5 1 1
-realm 1 3 0
-exult 2 3 1

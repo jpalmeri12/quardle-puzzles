@@ -1,9 +1,0 @@
-7 8 beforeafter
-hello 5 1 1
-badly 2 3 1
-depot 2 5 0
-synod 1 7 0
-!beforeafter 1 j
-!beforeafter 2 j
-!beforeafter 1 m
-!beforeafter 1 p

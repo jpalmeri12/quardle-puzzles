@@ -1,5 +1,0 @@
-7 10
-boule 4 1 1
-groom 1 2 0
-spear 2 5 0
-adorn 5 5 1

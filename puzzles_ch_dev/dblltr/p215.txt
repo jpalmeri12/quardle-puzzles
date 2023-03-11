@@ -1,5 +1,0 @@
-6 9 dblltr
-terse 5 1 1
-floss 2 4 1
-elite 1 5 0
-assay 1 7 0

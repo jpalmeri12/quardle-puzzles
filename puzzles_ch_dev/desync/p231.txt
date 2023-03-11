@@ -1,5 +1,0 @@
-7 10 desync
-venom 4 1 1
-admin 2 5 0
-devil 3 5 1
-pivot 1 7 0

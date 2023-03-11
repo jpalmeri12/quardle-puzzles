@@ -1,5 +1,0 @@
-7 8
-canon 1 1 0
-nasal 5 1 1
-truss 2 3 0
-trust 2 3 1

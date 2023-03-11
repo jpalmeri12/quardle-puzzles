@@ -1,5 +1,0 @@
-7 9 fourscore
-duvet 1 1 0
-uncle 2 1 1
-liner 2 4 0
-ether 5 4 1

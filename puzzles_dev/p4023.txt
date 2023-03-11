@@ -1,5 +1,0 @@
-6 9
-slush 5 1 1
-spiel 3 4 1
-depth 1 5 0
-great 1 7 0

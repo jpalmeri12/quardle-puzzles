@@ -1,5 +1,0 @@
-7 10 invention
-bayou 2 1 1
-yield 2 3 0
-bulky 1 5 0
-kneel 4 5 1

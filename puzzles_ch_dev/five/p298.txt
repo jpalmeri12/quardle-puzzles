@@ -1,6 +1,0 @@
-7 10 five
-crone 6 1 1
-pride 2 5 0
-risen 3 5 1
-dress 5 5 1
-ensue 1 7 0

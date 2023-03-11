@@ -1,5 +1,0 @@
-6 6 soundscramble
-glend 2 1 1
-oddar 4 1 1
-gleda 1 2 0
-unfad 1 4 0

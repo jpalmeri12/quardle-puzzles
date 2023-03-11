@@ -1,5 +1,0 @@
-6 9 altending
-blind 1 1 0
-start 1 3 0
-shout 1 5 0
-flour 1 7 0

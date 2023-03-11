@@ -1,5 +1,0 @@
-7 10 spaced
-hater 2 1 1
-tramp 1 5 0
-peach 5 5 1
-squad 2 7 0

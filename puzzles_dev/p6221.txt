@@ -1,5 +1,0 @@
-7 9
-cacao 1 1 0
-abide 4 1 1
-radar 2 4 0
-rivet 2 4 1

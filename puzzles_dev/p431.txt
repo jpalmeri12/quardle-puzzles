@@ -1,5 +1,0 @@
-6 6
-gaudy 1 1 0
-album 2 1 1
-doubt 4 1 1
-rugby 1 4 0

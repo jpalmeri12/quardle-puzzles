@@ -1,5 +1,0 @@
-7 10 shiritori
-junta 2 1 1
-askew 2 5 0
-surge 3 5 1
-logic 1 8 0

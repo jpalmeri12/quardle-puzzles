@@ -1,5 +1,0 @@
-7 10
-twang 1 1 1
-gross 1 5 0
-skill 4 5 1
-axial 2 7 0

@@ -1,5 +1,0 @@
-7 9 skyscrapers
-magic 3 4 1
-plant 1 5 0
-bleat 5 1 1
-chili 2 2 0

@@ -1,5 +1,0 @@
-7 9
-haunt 4 1 1
-lemur 1 3 0
-deign 6 4 1
-tithe 2 5 0

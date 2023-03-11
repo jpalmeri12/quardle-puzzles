@@ -1,5 +1,0 @@
-6 9 altending
-young 1 1 0
-clack 1 3 0
-quilt 1 5 0
-stick 1 7 0

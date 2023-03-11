@@ -1,5 +1,0 @@
-6 8
-knife 1 1 1
-parka 3 3 1
-frank 1 4 0
-leant 1 7 0

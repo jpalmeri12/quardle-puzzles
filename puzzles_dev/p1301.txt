@@ -1,5 +1,0 @@
-7 8
-untie 5 1 1
-brute 2 3 0
-roost 3 3 1
-grope 1 5 0

@@ -1,5 +1,0 @@
-7 8 skyscrapers
-midge 1 5 0
-juice 2 3 1
-elate 2 7 0
-dense 5 1 1

@@ -1,5 +1,0 @@
-7 10
-whiny 5 1 1
-bathe 2 2 0
-woozy 1 5 0
-wordy 1 5 1

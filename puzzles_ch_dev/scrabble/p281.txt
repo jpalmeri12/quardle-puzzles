@@ -1,5 +1,0 @@
-7 8 scrabble
-tiara 1 1 1
-amend 1 5 0
-skier 2 7 0
-speak 3 3 1

@@ -1,6 +1,0 @@
-6 8 squaredance
-model 1 1 1
-livid 5 1 1
-mural 1 1 0
-lipid 1 5 0
-vapor 1 7 0

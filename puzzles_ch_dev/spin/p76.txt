@@ -1,5 +1,0 @@
-7 10 spin
-crate 2 1 1
-rogue 2 2 0
-below 1 5 0
-otter 4 5 1

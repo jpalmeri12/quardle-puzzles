@@ -1,5 +1,0 @@
-7 9 invention
-hovel 5 1 1
-cargo 1 2 0
-occur 3 4 1
-scold 2 5 0

@@ -1,5 +1,0 @@
-7 8 darkness
-wooly 1 5 0
-welsh 4 3 1
-ethic 2 7 0
-hippo 2 1 1

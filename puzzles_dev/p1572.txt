@@ -1,5 +1,0 @@
-6 8
-golly 1 1 1
-steed 4 3 1
-latte 1 4 0
-bride 1 7 0

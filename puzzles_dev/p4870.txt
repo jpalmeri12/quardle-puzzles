@@ -1,5 +1,0 @@
-6 9
-ombre 1 1 1
-modal 1 2 0
-rover 1 4 0
-rigor 5 4 1

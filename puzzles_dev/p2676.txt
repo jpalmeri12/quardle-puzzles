@@ -1,5 +1,0 @@
-6 10
-place 1 1 1
-exert 1 5 0
-exalt 3 5 1
-spank 1 7 0

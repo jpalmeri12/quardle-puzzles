@@ -1,7 +1,0 @@
-7 9 secretdistance
-ditty 1 1 1
-ether 5 2 1
-touch 1 4 0
-retro 2 6 0
-affix 1 8 0
-!sdpos 2 2 0 1

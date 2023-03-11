@@ -1,5 +1,0 @@
-7 9 clockdown
-expel 5 1 1
-video 3 4 1
-twirl 1 5 0
-helix 2 7 0

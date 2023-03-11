@@ -1,5 +1,0 @@
-7 8 soundscramble
-othes 2 1 0
-humid 4 1 1
-animo 1 3 0
-neblo 2 3 1

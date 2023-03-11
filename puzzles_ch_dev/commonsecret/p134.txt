@@ -1,6 +1,0 @@
-7 10 commonsecret
-bayou 2 1 1
-youth 2 3 0
-pupil 1 5 0
-louse 5 5 1
-!secret u

@@ -1,5 +1,0 @@
-7 9
-zesty 5 1 1
-vomit 1 4 0
-overt 2 4 1
-twine 2 8 0

@@ -1,5 +1,0 @@
-7 9
-croak 6 1 1
-fatal 4 4 1
-flask 2 5 0
-papal 1 7 0

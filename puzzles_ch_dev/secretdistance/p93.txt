@@ -1,7 +1,0 @@
-6 8 secretdistance
-usher 1 1 1
-dopey 5 1 1
-salvo 1 2 0
-evoke 1 4 0
-shelf 1 7 0
-!sdpos 2 0 3 3

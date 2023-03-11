@@ -1,5 +1,0 @@
-7 10 frequency
-cress 2 1 1
-spire 2 5 0
-plaza 3 5 1
-jazzy 1 8 0

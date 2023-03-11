@@ -1,5 +1,0 @@
-6 9 invention
-drift 1 1 1
-favor 1 4 0
-retro 5 4 1
-metro 1 8 0

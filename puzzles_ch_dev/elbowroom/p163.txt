@@ -1,5 +1,0 @@
-7 9 elbowroom
-macho 1 1 0
-cache 3 1 1
-shock 2 4 0
-kebab 6 4 1

@@ -1,6 +1,0 @@
-6 9 five
-moldy 5 1 1
-squad 1 4 0
-shalt 1 4 1
-usher 3 4 1
-liege 1 7 0

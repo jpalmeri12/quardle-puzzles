@@ -1,5 +1,0 @@
-6 9
-cigar 3 1 1
-awash 1 4 0
-house 5 4 1
-smoke 1 8 0

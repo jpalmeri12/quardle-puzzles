@@ -1,5 +1,0 @@
-6 9
-chief 1 1 1
-cairn 1 1 0
-fence 5 4 1
-femme 1 5 0

@@ -1,5 +1,0 @@
-7 9
-creek 2 1 0
-rodeo 3 1 1
-sweet 1 4 0
-shaft 1 4 1

@@ -1,5 +1,0 @@
-7 9 unloved
-cloth 2 1 1
-blaze 1 2 0
-evoke 5 4 1
-heave 2 5 0

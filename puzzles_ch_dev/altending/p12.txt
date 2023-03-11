@@ -1,5 +1,0 @@
-6 9 altending
-retro 1 1 0
-macaw 1 3 0
-strut 1 5 0
-spoof 1 7 0

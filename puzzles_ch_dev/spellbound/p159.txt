@@ -1,9 +1,0 @@
-6 10 spellbound
-sting 1 1 1
-tenor 1 2 0
-geese 1 5 0
-elate 5 5 1
-!spellbound 0 0 2
-!spellbound 1 3 2
-!spellbound 2 3 2
-!spellbound 3 2 4

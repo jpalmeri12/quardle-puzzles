@@ -1,5 +1,0 @@
-6 8
-flirt 5 1 1
-penne 2 3 1
-sever 1 4 0
-tease 1 7 0

@@ -1,5 +1,0 @@
-6 10 dblltr
-stint 3 1 1
-hitch 1 5 0
-coach 4 5 1
-alpha 1 9 0

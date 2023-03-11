@@ -1,5 +1,0 @@
-6 10 shiritori
-pixel 4 1 1
-unlit 1 2 0
-gayly 1 5 0
-yearn 5 5 1

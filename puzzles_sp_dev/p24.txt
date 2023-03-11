@@ -1,7 +1,0 @@
-7 12 secretdistance
-mania 4 1 1
-drawn 2 5 0
-woken 5 5 1
-gorge 1 8 0
-musky 1 11 0
-!sdpos 3 0 0 3

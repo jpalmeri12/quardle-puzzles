@@ -1,5 +1,0 @@
-7 8
-polar 2 1 0
-loath 4 1 1
-rural 1 3 0
-river 1 3 1

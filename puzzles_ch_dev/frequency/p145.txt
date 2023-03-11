@@ -1,5 +1,0 @@
-6 9 frequency
-wound 5 1 1
-pygmy 2 4 1
-synod 1 5 0
-cyber 1 8 0

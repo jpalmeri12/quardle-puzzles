@@ -1,5 +1,0 @@
-6 7 swap
-bulnt 2 1 1
-gorpe 4 2 1
-vlaor 1 3 0
-stopo 1 5 0

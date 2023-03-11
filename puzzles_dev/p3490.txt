@@ -1,5 +1,0 @@
-6 7
-fishy 5 1 1
-cough 2 2 1
-locus 1 3 0
-agony 1 5 0

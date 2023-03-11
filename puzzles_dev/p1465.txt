@@ -1,5 +1,0 @@
-7 10
-worry 2 1 1
-lyric 1 5 0
-rotor 3 5 1
-freak 2 9 0

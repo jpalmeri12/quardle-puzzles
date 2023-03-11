@@ -1,5 +1,0 @@
-7 9
-rider 5 1 1
-merit 2 2 0
-lathe 1 4 1
-lodge 1 4 0

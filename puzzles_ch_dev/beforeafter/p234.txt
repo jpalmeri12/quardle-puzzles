@@ -1,9 +1,0 @@
-7 9 beforeafter
-dairy 5 1 1
-tonga 1 2 0
-parry 2 4 0
-acorn 3 4 1
-!beforeafter 2 m
-!beforeafter 2 i
-!beforeafter 1 q
-!beforeafter 1 k

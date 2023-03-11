@@ -1,5 +1,0 @@
-6 9
-mower 5 1 1
-midst 1 4 1
-idler 1 5 0
-storm 1 7 0

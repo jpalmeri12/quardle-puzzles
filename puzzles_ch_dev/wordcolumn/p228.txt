@@ -1,6 +1,0 @@
-7 9 wordcolumn
-shrug 5 1 1
-sushi 2 2 0
-askew 2 4 1
-using 1 5 0
-eagle 2 7 0

@@ -1,5 +1,0 @@
-7 10
-regal 1 1 0
-goofy 3 1 1
-hymen 2 5 0
-ensue 5 5 1

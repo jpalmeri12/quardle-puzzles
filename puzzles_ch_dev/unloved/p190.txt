@@ -1,5 +1,0 @@
-6 9 unloved
-shame 1 1 0
-homer 2 1 1
-tenet 1 4 0
-enemy 4 4 1

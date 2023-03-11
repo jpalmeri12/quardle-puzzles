@@ -1,5 +1,0 @@
-6 10
-glint 3 1 1
-inlet 1 2 0
-watch 1 5 0
-willy 1 5 1

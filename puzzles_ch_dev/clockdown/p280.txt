@@ -1,5 +1,0 @@
-7 10 clockdown
-flier 2 1 1
-libel 2 2 0
-crate 1 5 0
-aptly 3 5 1

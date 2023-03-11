@@ -1,5 +1,0 @@
-7 10
-those 5 1 1
-canoe 1 5 0
-antic 2 5 1
-curvy 2 9 0

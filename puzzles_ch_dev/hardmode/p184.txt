@@ -1,5 +1,0 @@
-7 10 hardmode
-fungi 2 1 1
-never 2 3 0
-pixie 1 5 0
-ideal 4 5 1

@@ -1,5 +1,0 @@
-7 10 spin
-musky 2 1 0
-usual 3 1 1
-bulky 1 5 0
-karma 4 5 1

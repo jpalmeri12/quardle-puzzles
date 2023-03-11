@@ -1,5 +1,0 @@
-6 10 scrabble
-steam 1 5 0
-front 2 1 1
-trunk 1 2 0
-enjoy 3 5 1

@@ -1,5 +1,0 @@
-6 10
-wrung 2 1 1
-trick 1 2 0
-agile 1 5 0
-erase 5 5 1

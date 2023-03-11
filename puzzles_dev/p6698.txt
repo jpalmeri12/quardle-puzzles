@@ -1,5 +1,0 @@
-7 8
-penal 1 1 0
-libel 5 1 1
-cabby 2 3 0
-corny 2 3 1

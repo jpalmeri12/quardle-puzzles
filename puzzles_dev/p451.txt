@@ -1,5 +1,0 @@
-7 9
-wrack 6 1 1
-yacht 4 4 1
-stalk 2 5 0
-baste 1 8 0

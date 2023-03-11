@@ -1,5 +1,0 @@
-6 8 shiritori
-growl 1 1 1
-midge 3 3 1
-write 1 4 0
-swell 1 7 0

@@ -1,5 +1,0 @@
-6 6 desync
-shave 1 1 0
-haunt 2 1 1
-value 4 1 1
-dully 1 3 0

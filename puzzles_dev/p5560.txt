@@ -1,5 +1,0 @@
-6 10
-bigot 1 1 0
-gauze 3 1 1
-glean 1 5 0
-gecko 1 5 1

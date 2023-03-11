@@ -1,5 +1,0 @@
-6 6 sweeper
-whose 1 1 0
-hazel 2 1 1
-snipe 4 1 1
-alien 1 5 0

@@ -1,5 +1,0 @@
-7 9 desync
-woven 4 1 1
-shine 2 4 1
-thong 1 5 0
-nomad 2 7 0

@@ -1,5 +1,0 @@
-7 10 reverse
-vodka 4 1 1
-moidi 1 3 0
-twang 2 5 0
-nifle 5 5 1

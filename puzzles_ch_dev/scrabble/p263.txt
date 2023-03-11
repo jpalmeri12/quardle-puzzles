@@ -1,5 +1,0 @@
-7 10 scrabble
-steal 2 5 1
-slosh 5 1 1
-sight 2 5 0
-tawny 1 8 0

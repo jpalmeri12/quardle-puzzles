@@ -1,5 +1,0 @@
-7 10 darkness
-gnash 5 5 1
-pearl 2 1 1
-venue 1 2 0
-lodge 2 5 0

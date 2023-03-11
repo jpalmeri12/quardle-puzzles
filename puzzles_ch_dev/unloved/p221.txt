@@ -1,5 +1,0 @@
-7 10 unloved
-froth 2 1 1
-oaken 2 3 0
-thong 1 5 0
-trite 1 5 1

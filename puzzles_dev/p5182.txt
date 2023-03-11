@@ -1,5 +1,0 @@
-6 9
-there 1 1 1
-hippo 1 2 0
-cloud 3 4 1
-eclat 1 5 0

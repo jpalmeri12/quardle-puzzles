@@ -1,5 +1,0 @@
-6 9 beta
-daddy 5 1 1
-pasta 1 2 0
-speed 1 4 0
-peace 2 4 1

@@ -1,5 +1,0 @@
-6 7
-shied 1 1 1
-hence 1 2 0
-cater 4 2 1
-drier 1 5 0

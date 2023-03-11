@@ -1,6 +1,0 @@
-6 9 commonsecret
-gusto 2 1 1
-chest 5 4 1
-sooth 1 5 0
-minus 1 7 0
-!secret s

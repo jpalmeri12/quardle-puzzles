@@ -1,5 +1,0 @@
-6 7
-ditch 2 1 1
-graft 5 2 1
-utter 1 3 0
-whiff 1 5 0

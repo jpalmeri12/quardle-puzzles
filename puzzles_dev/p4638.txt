@@ -1,5 +1,0 @@
-7 9
-haute 4 1 1
-blaze 2 2 0
-while 2 4 1
-shied 1 5 0

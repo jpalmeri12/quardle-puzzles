@@ -1,5 +1,0 @@
-7 9 swap
-drsos 5 1 1
-htird 2 2 0
-inrto 1 4 0
-itcyh 1 4 1

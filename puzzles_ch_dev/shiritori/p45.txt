@@ -1,5 +1,0 @@
-6 8 shiritori
-covey 5 1 1
-river 3 3 1
-glide 1 4 0
-syrup 1 7 0

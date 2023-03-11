@@ -1,6 +1,0 @@
-7 10 commonsecret
-plait 2 1 1
-terra 2 5 0
-remit 4 5 1
-debit 1 8 0
-!secret t

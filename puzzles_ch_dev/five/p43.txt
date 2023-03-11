@@ -1,6 +1,0 @@
-7 8 five
-drone 1 1 0
-rifle 2 1 1
-foyer 2 3 0
-error 5 3 1
-leper 1 5 0

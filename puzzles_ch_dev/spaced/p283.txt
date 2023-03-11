@@ -1,5 +1,0 @@
-7 9 spaced
-blitz 2 1 1
-olive 1 2 0
-taker 2 4 0
-extol 5 4 1

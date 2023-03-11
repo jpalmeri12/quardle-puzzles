@@ -1,5 +1,0 @@
-7 8 skyscrapers
-umbra 1 1 0
-baron 3 1 1
-lobby 2 4 0
-about 5 3 1

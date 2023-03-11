@@ -1,5 +1,0 @@
-6 6
-super 1 1 0
-sixty 1 1 1
-peace 3 1 1
-tacit 1 4 0

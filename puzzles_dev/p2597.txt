@@ -1,5 +1,0 @@
-6 8
-spilt 2 1 1
-jetty 4 3 1
-state 1 5 0
-satyr 1 7 0

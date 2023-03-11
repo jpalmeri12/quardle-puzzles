@@ -1,5 +1,0 @@
-6 10 spin
-novel 4 1 1
-scion 1 2 0
-angle 1 5 0
-graze 3 5 1

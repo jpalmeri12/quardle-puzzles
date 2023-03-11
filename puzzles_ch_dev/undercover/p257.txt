@@ -1,6 +1,0 @@
-7 11 undercover
-polyp 6 1 1
-daily 2 4 0
-dowel 2 4 1
-tweet 1 6 0
-scrub 1 10 0

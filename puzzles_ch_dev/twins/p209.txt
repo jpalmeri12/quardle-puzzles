@@ -1,8 +1,0 @@
-6 8 twins
-claim 1 1 0
-arbor 1 3 0
-fugue 1 5 0
-queue 1 7 0
-!twins 1 3
-!twins 0 2
-!twins 1 3

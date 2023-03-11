@@ -1,5 +1,0 @@
-7 10 scrabble
-tonga 1 5 0
-octal 2 2 0
-bongo 2 1 1
-ninja 3 5 1

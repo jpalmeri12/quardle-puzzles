@@ -1,5 +1,0 @@
-7 9
-login 4 1 1
-broth 2 2 0
-ratio 1 4 0
-actor 2 4 1

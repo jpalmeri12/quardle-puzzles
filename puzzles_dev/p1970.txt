@@ -1,5 +1,0 @@
-7 9
-sonar 2 1 0
-ninja 4 1 1
-banjo 1 4 0
-alarm 2 4 1

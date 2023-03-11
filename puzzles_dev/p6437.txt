@@ -1,5 +1,0 @@
-7 9
-lever 5 1 1
-dopey 2 4 0
-onset 3 4 1
-weedy 1 7 0

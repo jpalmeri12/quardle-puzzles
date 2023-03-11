@@ -1,6 +1,0 @@
-6 9 drop
-niche 1 1 1
-islet 4 2 1
-coast 1 3 0
-easel 1 5 0
-sloth 1 8 0

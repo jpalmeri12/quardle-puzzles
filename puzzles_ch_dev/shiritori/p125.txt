@@ -1,5 +1,0 @@
-6 9 shiritori
-shrew 4 1 1
-bushy 1 2 0
-bused 1 4 0
-urine 2 4 1

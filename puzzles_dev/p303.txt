@@ -1,5 +1,0 @@
-6 7
-butte 2 1 1
-qualm 1 2 0
-lynch 4 2 1
-stone 1 4 0

@@ -1,5 +1,0 @@
-6 8 spaced
-alter 1 1 1
-antic 1 1 0
-trick 1 3 0
-choke 4 3 1

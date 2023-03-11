@@ -1,7 +1,0 @@
-7 11 secretdistance
-ascot 2 1 0
-smile 3 1 1
-cheer 1 4 1
-cello 1 4 0
-champ 1 10 0
-!sdpos 2 3 0 3

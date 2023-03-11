@@ -1,5 +1,0 @@
-7 10 sweeper
-spend 4 1 1
-lumpy 1 2 0
-sadly 2 5 0
-adorn 3 5 1

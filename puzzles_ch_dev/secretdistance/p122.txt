@@ -1,7 +1,0 @@
-7 10 secretdistance
-lymph 1 1 0
-prude 4 1 1
-ester 2 3 1
-sadly 2 4 0
-woman 1 9 0
-!sdpos 1 0 3 2

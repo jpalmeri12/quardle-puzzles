@@ -1,5 +1,0 @@
-6 9
-psalm 1 1 0
-limbo 4 1 1
-rumba 1 4 0
-reuse 1 4 1

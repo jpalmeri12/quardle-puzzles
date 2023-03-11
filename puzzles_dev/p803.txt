@@ -1,5 +1,0 @@
-6 9
-clack 1 1 0
-chime 4 1 1
-agree 2 4 1
-egret 1 5 0

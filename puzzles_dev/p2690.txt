@@ -1,5 +1,0 @@
-6 7
-flute 4 1 1
-icily 1 2 0
-index 1 2 1
-elder 1 5 0

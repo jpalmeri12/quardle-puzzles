@@ -1,5 +1,0 @@
-6 8 spaced
-guard 5 1 1
-omega 1 3 0
-movie 2 3 1
-avoid 1 5 0

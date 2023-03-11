@@ -1,5 +1,0 @@
-7 8 spaced
-squib 1 1 0
-bilge 5 1 1
-gaudy 3 3 1
-cargo 2 4 0

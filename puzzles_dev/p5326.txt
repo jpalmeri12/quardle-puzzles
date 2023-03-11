@@ -1,5 +1,0 @@
-7 8
-spool 1 1 0
-outdo 4 1 1
-satin 2 3 0
-nerve 6 3 1

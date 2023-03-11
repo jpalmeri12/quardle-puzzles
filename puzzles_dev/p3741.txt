@@ -1,5 +1,0 @@
-7 10
-quite 4 1 1
-point 2 3 0
-comet 1 5 0
-magma 3 5 1

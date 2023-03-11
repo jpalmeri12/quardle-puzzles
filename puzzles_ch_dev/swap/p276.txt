@@ -1,5 +1,0 @@
-6 10 swap
-arosn 2 1 1
-encat 1 5 0
-tsoic 5 5 1
-bigto 1 7 0

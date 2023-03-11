@@ -1,5 +1,0 @@
-7 9
-prize 5 1 1
-renal 3 4 1
-piece 1 5 0
-racer 2 7 0

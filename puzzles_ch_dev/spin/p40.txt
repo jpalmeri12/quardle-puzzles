@@ -1,5 +1,0 @@
-7 10 spin
-retch 4 1 1
-sight 1 5 0
-inane 2 5 1
-again 2 7 0

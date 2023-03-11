@@ -1,5 +1,0 @@
-6 10 elbowroom
-climb 3 1 1
-unlit 1 2 0
-bible 1 5 0
-leapt 4 5 1

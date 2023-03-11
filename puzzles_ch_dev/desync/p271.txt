@@ -1,5 +1,0 @@
-7 7 desync
-fetus 6 1 1
-smile 2 2 0
-musky 3 2 1
-flyer 1 6 0

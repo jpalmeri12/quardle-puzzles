@@ -1,6 +1,0 @@
-6 8 island
-salve 3 1 1
-salty 1 3 0
-snowy 1 3 1
-omega 1 5 0
-!island 311 221 2111 11111

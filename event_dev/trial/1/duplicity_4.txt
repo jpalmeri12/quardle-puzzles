@@ -1,5 +1,0 @@
-7 9 duplicity
-daddy 1 1 0
-dairy 3 1 1
-drape 2 4 0
-pride 5 4 1

@@ -1,5 +1,0 @@
-6 9
-amuse 1 1 1
-stain 1 4 0
-inert 4 4 1
-ferry 1 7 0

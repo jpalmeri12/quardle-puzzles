@@ -1,6 +1,0 @@
-6 12 drop
-flint 3 1 1
-dolly 1 2 0
-patch 1 5 0
-plunk 1 5 1
-lynch 1 11 0

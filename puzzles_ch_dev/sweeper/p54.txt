@@ -1,5 +1,0 @@
-6 7 sweeper
-frail 2 1 1
-cress 1 2 0
-soggy 5 2 1
-fling 1 5 0

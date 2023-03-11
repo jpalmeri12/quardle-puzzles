@@ -1,5 +1,0 @@
-6 7
-dunce 1 1 1
-unzip 1 2 0
-icily 4 2 1
-civic 1 4 0

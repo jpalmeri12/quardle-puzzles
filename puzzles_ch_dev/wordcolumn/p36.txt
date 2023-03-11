@@ -1,6 +1,0 @@
-7 9 wordcolumn
-penal 2 1 1
-leggy 6 1 1
-along 2 4 0
-other 4 4 1
-boxer 1 7 0

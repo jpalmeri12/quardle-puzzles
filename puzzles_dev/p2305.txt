@@ -1,5 +1,0 @@
-7 10
-fauna 2 1 1
-acute 2 5 0
-tonga 5 5 1
-queen 1 7 0

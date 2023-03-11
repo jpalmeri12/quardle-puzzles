@@ -1,5 +1,0 @@
-6 6
-siren 3 1 1
-medal 5 1 1
-slime 1 2 0
-arena 1 4 0

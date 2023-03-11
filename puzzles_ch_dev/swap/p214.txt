@@ -1,5 +1,0 @@
-7 8 swap
-ugilt 3 1 1
-owody 5 3 1
-yblaw 1 4 0
-nosye 2 7 0

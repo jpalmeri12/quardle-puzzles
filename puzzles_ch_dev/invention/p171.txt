@@ -1,5 +1,0 @@
-6 6 invention
-lowly 1 1 0
-leech 1 1 1
-weird 3 1 1
-coral 1 4 0

@@ -1,5 +1,0 @@
-7 9
-phone 5 1 1
-might 2 2 0
-cleft 1 4 1
-large 1 5 0

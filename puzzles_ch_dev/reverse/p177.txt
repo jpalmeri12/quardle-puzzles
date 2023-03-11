@@ -1,5 +1,0 @@
-6 10 reverse
-rovaf 4 1 1
-alive 1 3 0
-retfa 1 5 0
-route 1 5 1

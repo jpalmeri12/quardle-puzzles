@@ -1,6 +1,0 @@
-7 10 wordcolumn
-ionic 5 1 1
-taboo 1 2 0
-blown 3 2 1
-twice 2 5 0
-elope 6 5 1

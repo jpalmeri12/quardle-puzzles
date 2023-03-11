@@ -1,5 +1,0 @@
-7 8 fourscore
-gauge 1 1 0
-endow 5 1 1
-prude 2 3 0
-route 3 3 1

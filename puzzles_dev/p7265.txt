@@ -1,5 +1,0 @@
-7 10
-award 2 1 1
-apron 2 3 0
-adult 1 5 0
-unmet 3 5 1

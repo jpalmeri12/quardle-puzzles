@@ -1,6 +1,0 @@
-6 8 squaredance
-slick 1 1 1
-kneed 5 1 1
-stuck 1 1 0
-knead 1 5 0
-ahead 1 7 0

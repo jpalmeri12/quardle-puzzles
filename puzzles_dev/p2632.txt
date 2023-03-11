@@ -1,5 +1,0 @@
-6 7
-joist 5 1 1
-cacao 1 2 0
-chunk 3 2 1
-truss 1 4 0

@@ -1,5 +1,0 @@
-6 6 spin
-wound 1 1 1
-pudgy 3 1 1
-under 1 3 0
-dryer 1 5 0

@@ -1,5 +1,0 @@
-6 8 swap
-sepll 2 1 1
-neewr 5 3 1
-sldie 1 5 0
-omwer 1 7 0

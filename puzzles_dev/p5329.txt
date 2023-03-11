@@ -1,5 +1,0 @@
-7 10
-cabin 1 1 1
-naive 1 5 0
-vomit 4 5 1
-cameo 2 7 0

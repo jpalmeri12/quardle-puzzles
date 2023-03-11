@@ -1,5 +1,0 @@
-7 10
-sauna 2 1 0
-angel 3 1 1
-false 1 5 0
-edify 5 5 1

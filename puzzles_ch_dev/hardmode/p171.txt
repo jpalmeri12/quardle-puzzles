@@ -1,5 +1,0 @@
-6 6 hardmode
-manly 3 1 1
-ether 5 1 1
-cinch 1 3 0
-dryer 1 5 0

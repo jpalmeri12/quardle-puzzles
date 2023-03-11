@@ -1,5 +1,0 @@
-7 8
-blush 6 1 1
-icing 4 3 1
-mucus 2 4 0
-ridge 1 7 0

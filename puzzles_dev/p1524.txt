@@ -1,5 +1,0 @@
-7 8
-waive 2 1 1
-would 4 3 1
-recut 1 5 0
-lodge 2 7 0

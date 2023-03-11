@@ -1,5 +1,0 @@
-6 7
-stank 3 1 1
-batty 1 2 0
-baste 1 2 1
-token 1 5 0

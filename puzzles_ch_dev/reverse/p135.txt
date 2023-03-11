@@ -1,5 +1,0 @@
-7 9 reverse
-yrruc 2 1 1
-xenna 4 4 1
-cheer 2 5 0
-round 1 7 0

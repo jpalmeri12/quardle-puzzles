@@ -1,5 +1,0 @@
-6 8
-topaz 1 1 1
-trait 1 1 0
-obese 3 3 1
-abbot 1 4 0

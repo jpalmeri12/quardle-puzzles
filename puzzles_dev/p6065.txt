@@ -1,5 +1,0 @@
-7 9
-heart 1 1 1
-clink 4 4 1
-tally 1 5 0
-bunny 2 7 0

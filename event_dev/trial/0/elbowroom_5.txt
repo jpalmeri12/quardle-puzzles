@@ -1,5 +1,0 @@
-7 8 elbowroom
-dowry 5 1 1
-event 3 3 1
-ivory 2 4 0
-witch 1 7 0

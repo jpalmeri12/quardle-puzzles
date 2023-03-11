@@ -1,5 +1,0 @@
-6 10 swap
-acrol 4 1 1
-ucnle 1 5 0
-udedr 1 5 1
-diecy 1 8 0

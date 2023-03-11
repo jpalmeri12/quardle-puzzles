@@ -1,5 +1,0 @@
-7 10
-foyer 4 1 1
-prior 1 2 0
-parer 2 5 0
-riser 6 5 1

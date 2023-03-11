@@ -1,5 +1,0 @@
-7 10
-chest 4 1 1
-inert 2 3 0
-deity 1 5 0
-idler 3 5 1

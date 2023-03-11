@@ -1,5 +1,0 @@
-7 9 clockdown
-augur 2 1 0
-group 4 1 1
-donut 1 4 0
-drier 1 4 1

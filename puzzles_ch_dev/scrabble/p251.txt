@@ -1,5 +1,0 @@
-7 9 scrabble
-older 5 4 1
-apnea 2 1 1
-curry 2 8 0
-gecko 1 4 0

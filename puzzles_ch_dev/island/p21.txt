@@ -1,6 +1,0 @@
-7 10 island
-blush 3 1 1
-youth 1 3 0
-sheep 2 5 0
-patsy 6 5 1
-!island 311 41 211 221

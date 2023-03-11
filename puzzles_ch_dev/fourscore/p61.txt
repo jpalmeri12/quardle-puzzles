@@ -1,5 +1,0 @@
-6 9 fourscore
-dress 2 1 1
-usurp 1 4 0
-relax 4 4 1
-twixt 1 8 0

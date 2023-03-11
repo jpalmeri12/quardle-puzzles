@@ -1,9 +1,0 @@
-7 9 spellbound
-cubic 1 1 1
-octal 4 4 1
-click 1 5 0
-coach 2 7 0
-!spellbound 0 2 1
-!spellbound 1 2 0
-!spellbound 2 2 1
-!spellbound 3 4 1

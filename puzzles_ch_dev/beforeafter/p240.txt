@@ -1,9 +1,0 @@
-7 8 beforeafter
-stale 6 1 1
-trope 2 3 1
-ounce 2 5 0
-ferry 1 7 0
-!beforeafter 1 q
-!beforeafter 1 q
-!beforeafter 2 j
-!beforeafter 1 k

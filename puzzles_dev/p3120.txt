@@ -1,5 +1,0 @@
-7 9
-diner 5 1 1
-taper 3 4 1
-stair 1 5 0
-grunt 2 8 0

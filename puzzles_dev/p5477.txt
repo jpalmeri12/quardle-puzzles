@@ -1,5 +1,0 @@
-6 9
-token 5 1 1
-puppy 3 4 1
-churn 1 5 0
-empty 1 7 0

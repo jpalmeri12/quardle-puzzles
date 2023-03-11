@@ -1,5 +1,0 @@
-7 10 swap
-trcak 1 1 1
-konwn 1 5 0
-owrth 2 5 1
-turob 2 8 0

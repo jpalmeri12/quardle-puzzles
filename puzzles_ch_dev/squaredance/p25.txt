@@ -1,6 +1,0 @@
-6 8 squaredance
-choir 1 1 1
-paler 5 1 1
-chump 1 1 0
-rover 1 5 0
-tiara 1 7 0

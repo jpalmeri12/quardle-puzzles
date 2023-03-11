@@ -1,5 +1,0 @@
-7 7 scrabble
-smear 2 4 0
-yearn 5 2 1
-enemy 3 1 1
-fancy 1 2 0

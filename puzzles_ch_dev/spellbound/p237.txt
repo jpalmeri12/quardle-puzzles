@@ -1,9 +1,0 @@
-6 9 spellbound
-march 4 1 1
-snack 1 4 0
-stole 1 4 1
-exult 1 8 0
-!spellbound 0 0 4
-!spellbound 1 1 4
-!spellbound 2 3 2
-!spellbound 3 3 2

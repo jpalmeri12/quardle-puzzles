@@ -1,5 +1,0 @@
-7 10
-juice 3 1 1
-tenet 2 5 0
-notch 4 5 1
-broth 1 7 0

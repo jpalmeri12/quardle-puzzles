@@ -1,5 +1,0 @@
-7 7
-chest 2 1 1
-there 1 2 0
-rivet 4 2 1
-their 2 5 0

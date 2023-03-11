@@ -1,5 +1,0 @@
-6 9 hardmode
-gnash 4 1 1
-abyss 1 4 0
-beget 2 4 1
-debar 1 7 0

@@ -1,5 +1,0 @@
-7 9
-tulle 2 1 1
-uncle 2 2 0
-sloth 1 4 0
-topic 4 4 1

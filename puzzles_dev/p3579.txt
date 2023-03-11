@@ -1,5 +1,0 @@
-6 8
-tense 4 1 1
-farce 2 3 1
-gassy 1 4 0
-genie 1 7 0

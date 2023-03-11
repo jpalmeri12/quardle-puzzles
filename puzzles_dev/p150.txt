@@ -1,5 +1,0 @@
-7 10
-hunch 6 1 1
-bough 2 5 0
-unfed 4 5 1
-skiff 1 7 0

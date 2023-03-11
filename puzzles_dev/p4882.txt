@@ -1,5 +1,0 @@
-6 9
-filth 1 1 0
-imply 2 1 1
-bloat 1 4 0
-amiss 4 4 1

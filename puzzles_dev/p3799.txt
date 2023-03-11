@@ -1,5 +1,0 @@
-7 10
-scion 4 1 1
-sound 1 5 0
-ovate 2 5 1
-abbey 2 7 0

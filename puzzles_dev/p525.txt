@@ -1,5 +1,0 @@
-6 7
-sauna 2 1 1
-saint 1 2 0
-nutty 4 2 1
-unity 1 4 0

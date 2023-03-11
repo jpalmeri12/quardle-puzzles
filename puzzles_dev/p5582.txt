@@ -1,5 +1,0 @@
-7 9
-geeky 2 1 0
-erect 3 1 1
-facet 1 4 0
-fixer 1 4 1

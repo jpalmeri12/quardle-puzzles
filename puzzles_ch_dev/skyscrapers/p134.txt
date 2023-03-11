@@ -1,5 +1,0 @@
-7 9 skyscrapers
-total 2 5 0
-tryst 4 1 1
-satyr 1 3 0
-floss 6 4 1

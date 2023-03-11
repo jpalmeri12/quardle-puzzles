@@ -1,5 +1,0 @@
-6 7
-green 3 1 1
-eerie 1 2 0
-eagle 1 2 1
-great 1 4 0

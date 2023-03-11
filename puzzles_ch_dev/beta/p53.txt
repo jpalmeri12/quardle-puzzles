@@ -1,5 +1,0 @@
-6 8 beta
-drain 5 1 1
-wedge 3 3 1
-olden 1 5 0
-steam 1 7 0

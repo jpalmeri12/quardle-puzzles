@@ -1,5 +1,0 @@
-7 9 spin
-livid 2 1 1
-ledge 2 1 0
-filth 1 4 0
-honey 5 4 1

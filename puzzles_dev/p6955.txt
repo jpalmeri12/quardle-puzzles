@@ -1,5 +1,0 @@
-7 9
-liver 5 1 1
-plate 3 4 1
-solar 1 5 0
-stiff 2 7 0

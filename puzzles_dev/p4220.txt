@@ -1,5 +1,0 @@
-7 7
-spare 4 1 1
-caper 2 2 0
-charm 2 2 1
-harry 1 4 0

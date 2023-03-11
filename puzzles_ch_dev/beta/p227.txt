@@ -1,5 +1,0 @@
-6 7 beta
-great 1 1 1
-bosom 3 2 1
-elope 1 3 0
-trope 1 5 0

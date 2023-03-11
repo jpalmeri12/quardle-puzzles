@@ -1,6 +1,0 @@
-7 10 island
-kappa 4 1 1
-chaff 2 5 0
-frock 5 5 1
-stack 1 9 0
-!island 111 211 32 2111

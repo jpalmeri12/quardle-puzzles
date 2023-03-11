@@ -1,5 +1,0 @@
-7 9 invention
-cress 2 1 0
-satyr 5 1 1
-enemy 1 4 0
-novel 2 4 1

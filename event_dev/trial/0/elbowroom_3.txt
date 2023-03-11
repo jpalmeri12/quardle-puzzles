@@ -1,5 +1,0 @@
-7 9 elbowroom
-stank 2 1 1
-elbow 5 4 1
-skull 1 5 0
-crowd 2 8 0

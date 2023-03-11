@@ -1,5 +1,0 @@
-7 8
-mania 2 1 1
-civil 5 3 1
-ionic 2 4 0
-zonal 1 7 0

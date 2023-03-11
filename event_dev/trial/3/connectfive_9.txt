@@ -1,6 +1,0 @@
-7 10 connectfive
-pixel 5 1 1
-unzip 2 2 0
-coyly 2 5 0
-cower 2 5 1
-revel 1 8 0

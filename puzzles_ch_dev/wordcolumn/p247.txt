@@ -1,6 +1,0 @@
-6 10 wordcolumn
-solve 4 1 1
-duvet 1 5 0
-uncle 2 5 1
-totem 5 5 1
-serum 1 9 0

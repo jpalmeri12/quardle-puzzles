@@ -1,5 +1,0 @@
-6 8 darkness
-croup 5 3 1
-unset 1 1 0
-audio 1 5 0
-steed 3 1 1

@@ -1,5 +1,0 @@
-6 9 altending
-vouch 1 1 0
-fetal 1 3 0
-shout 1 5 0
-scour 1 7 0

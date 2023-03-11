@@ -1,9 +1,0 @@
-6 10 beforeafter
-vowel 5 1 1
-carol 1 5 0
-alert 2 5 1
-debut 1 7 0
-!beforeafter 2 n
-!beforeafter 1 j
-!beforeafter 2 q
-!beforeafter 2 k

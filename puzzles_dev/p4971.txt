@@ -1,5 +1,0 @@
-6 7
-gorge 2 1 1
-cower 1 2 0
-endow 4 2 1
-detox 1 5 0

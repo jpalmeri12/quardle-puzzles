@@ -1,6 +1,0 @@
-6 8 squaredance
-retch 1 1 1
-dolly 5 1 1
-rabid 1 1 0
-handy 1 5 0
-tapir 1 7 0

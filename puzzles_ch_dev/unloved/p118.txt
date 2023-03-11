@@ -1,5 +1,0 @@
-6 9 unloved
-cheat 5 1 1
-timid 2 4 1
-rivet 1 5 0
-viola 1 7 0

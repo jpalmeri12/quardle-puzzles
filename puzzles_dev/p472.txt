@@ -1,5 +1,0 @@
-6 7
-shaky 5 1 1
-froth 1 2 0
-otter 3 2 1
-fiery 1 5 0

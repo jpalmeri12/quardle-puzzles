@@ -1,5 +1,0 @@
-7 10 unloved
-their 4 1 1
-right 1 2 0
-scrum 2 5 0
-mange 6 5 1

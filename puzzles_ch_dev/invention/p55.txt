@@ -1,5 +1,0 @@
-6 9 invention
-abled 1 1 0
-bushy 2 1 1
-white 1 4 0
-earth 5 4 1

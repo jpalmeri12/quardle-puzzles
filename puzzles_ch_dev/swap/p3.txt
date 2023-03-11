@@ -1,5 +1,0 @@
-7 10 swap
-srcam 2 1 1
-drsos 1 2 0
-msall 2 5 0
-lathc 6 5 1

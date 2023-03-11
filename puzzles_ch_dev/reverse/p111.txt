@@ -1,5 +1,0 @@
-6 7 reverse
-sport 1 1 1
-flask 3 2 1
-olleh 1 3 0
-tespu 1 5 0

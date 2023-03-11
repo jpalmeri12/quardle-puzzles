@@ -1,5 +1,0 @@
-7 8
-awash 1 1 0
-shine 4 1 1
-blown 6 3 1
-zonal 2 4 0

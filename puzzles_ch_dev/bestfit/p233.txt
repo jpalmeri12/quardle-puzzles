@@ -1,5 +1,0 @@
-7 7 bestfit
-gourd 2 1 1
-older 2 2 0
-droll 4 2 1
-troop 1 4 0

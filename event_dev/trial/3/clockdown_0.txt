@@ -1,5 +1,0 @@
-6 9 clockdown
-shied 1 1 0
-scowl 1 1 1
-worry 1 4 0
-yearn 5 4 1

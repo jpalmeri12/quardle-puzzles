@@ -1,6 +1,0 @@
-6 8 squaredance
-faint 1 1 1
-eking 5 1 1
-fluke 1 1 0
-thing 1 5 0
-lofty 1 7 0

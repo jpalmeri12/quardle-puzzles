@@ -1,5 +1,0 @@
-7 9
-swift 6 1 1
-dryly 2 4 1
-rivet 2 5 0
-slink 1 7 0

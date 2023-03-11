@@ -1,5 +1,0 @@
-6 10 outoforder
-canon 1 1 0
-annex 2 1 1
-exult 1 5 0
-unify 3 5 1

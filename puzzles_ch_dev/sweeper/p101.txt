@@ -1,5 +1,0 @@
-6 7 sweeper
-abort 1 1 1
-bonus 1 2 0
-stock 5 2 1
-toxic 1 5 0

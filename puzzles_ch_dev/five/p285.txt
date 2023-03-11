@@ -1,6 +1,0 @@
-7 10 five
-cacao 1 1 0
-other 5 1 1
-agora 2 5 0
-giddy 3 5 1
-ridge 1 8 0

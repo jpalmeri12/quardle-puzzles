@@ -1,5 +1,0 @@
-7 10
-chafe 5 1 1
-vista 1 3 0
-splat 2 5 1
-sweet 2 5 0

@@ -1,6 +1,0 @@
-7 9 undercover
-ruddy 2 1 1
-after 5 2 1
-draft 2 3 0
-cycle 1 5 0
-bosom 1 8 0

@@ -1,5 +1,0 @@
-6 9
-braid 4 1 1
-zebra 1 2 0
-solid 1 4 0
-ovate 2 4 1

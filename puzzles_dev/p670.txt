@@ -1,5 +1,0 @@
-7 8
-swept 3 1 1
-sewer 1 2 0
-study 6 3 1
-splat 2 4 0

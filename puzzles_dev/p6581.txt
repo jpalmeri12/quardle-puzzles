@@ -1,5 +1,0 @@
-6 9
-spoil 3 1 1
-papal 1 2 0
-dried 1 4 0
-duvet 1 4 1

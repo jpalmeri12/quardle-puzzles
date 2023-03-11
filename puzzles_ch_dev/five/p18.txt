@@ -1,6 +1,0 @@
-7 8 five
-natal 5 1 1
-pulse 2 3 1
-petty 2 3 0
-ladle 2 5 0
-recap 1 7 0

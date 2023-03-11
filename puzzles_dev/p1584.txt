@@ -1,5 +1,0 @@
-6 10
-goner 3 1 1
-condo 1 3 0
-karma 1 5 0
-moody 4 5 1

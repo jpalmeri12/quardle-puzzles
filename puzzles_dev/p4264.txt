@@ -1,5 +1,0 @@
-7 10
-basil 5 1 1
-tidal 1 5 0
-awful 4 5 1
-gulch 2 9 0

@@ -1,5 +1,0 @@
-6 9 darkness
-unfit 2 4 1
-lupus 1 4 0
-atone 1 8 0
-rogue 4 1 1

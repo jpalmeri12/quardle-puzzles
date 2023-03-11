@@ -1,5 +1,0 @@
-7 9
-trice 6 1 1
-mimic 2 4 0
-molar 4 4 1
-cable 1 6 0

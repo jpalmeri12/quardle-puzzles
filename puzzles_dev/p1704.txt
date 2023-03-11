@@ -1,5 +1,0 @@
-7 9
-pique 4 1 1
-tulip 1 2 0
-stump 2 4 0
-prime 6 4 1

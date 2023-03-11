@@ -1,5 +1,0 @@
-6 8
-gazer 4 1 1
-crick 2 3 1
-diary 1 5 0
-skunk 1 7 0

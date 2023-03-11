@@ -1,5 +1,0 @@
-6 8 frequency
-chair 3 1 1
-enjoy 1 3 1
-enact 1 3 0
-jerky 1 5 0

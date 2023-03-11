@@ -1,5 +1,0 @@
-6 9
-sedan 3 1 1
-mania 5 4 1
-apnea 1 5 0
-cacti 1 7 0

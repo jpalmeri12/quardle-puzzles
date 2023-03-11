@@ -1,5 +1,0 @@
-7 8
-friar 1 1 0
-aroma 4 1 1
-juror 2 3 1
-rearm 2 5 0

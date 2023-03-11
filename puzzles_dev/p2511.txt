@@ -1,5 +1,0 @@
-7 8
-anime 5 1 1
-quasi 1 3 0
-unfed 2 3 1
-fleet 2 5 0

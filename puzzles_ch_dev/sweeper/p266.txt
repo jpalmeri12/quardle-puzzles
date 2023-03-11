@@ -1,5 +1,0 @@
-6 10 sweeper
-strut 1 1 0
-tamer 2 1 1
-wring 1 5 0
-issue 3 5 1

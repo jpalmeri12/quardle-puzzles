@@ -1,7 +1,0 @@
-8 8 sixbox
-haute 3 1 1
-cheap 5 1 1
-truce 1 3 0
-creep 4 3 1
-trait 3 4 0
-sheep 1 5 0

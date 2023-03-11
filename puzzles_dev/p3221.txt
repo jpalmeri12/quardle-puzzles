@@ -1,5 +1,0 @@
-6 9
-snuff 1 1 1
-shelf 1 1 0
-wrist 4 4 1
-fiery 1 5 0

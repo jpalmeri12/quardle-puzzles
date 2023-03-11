@@ -1,5 +1,0 @@
-7 10 scrabble
-robot 3 5 1
-abbot 2 7 0
-billy 5 1 1
-hurry 1 5 0

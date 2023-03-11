@@ -1,6 +1,0 @@
-6 10 wordcolumn
-sweep 1 1 1
-cycle 5 4 1
-pasty 1 5 0
-abide 2 5 1
-adage 1 8 0

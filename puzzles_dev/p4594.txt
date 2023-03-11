@@ -1,5 +1,0 @@
-6 10
-crook 5 1 1
-foyer 1 2 0
-flack 1 5 0
-aging 3 5 1

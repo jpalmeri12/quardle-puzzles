@@ -1,5 +1,0 @@
-7 8 shiritori
-panel 5 1 1
-death 2 3 1
-geese 1 4 0
-honor 2 7 0

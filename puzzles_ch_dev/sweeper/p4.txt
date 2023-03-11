@@ -1,5 +1,0 @@
-7 8 sweeper
-valet 2 1 1
-flesh 1 3 0
-handy 5 3 1
-taint 2 5 0

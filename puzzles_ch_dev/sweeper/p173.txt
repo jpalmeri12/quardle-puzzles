@@ -1,5 +1,0 @@
-6 6 sweeper
-aside 1 1 1
-hyena 3 1 1
-style 1 2 0
-evade 1 5 0

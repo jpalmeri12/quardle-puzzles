@@ -1,6 +1,0 @@
-7 10 wordcolumn
-basis 1 1 1
-atoll 4 4 1
-salty 1 5 0
-augur 2 5 1
-unlit 2 8 0

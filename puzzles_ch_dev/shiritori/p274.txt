@@ -1,5 +1,0 @@
-7 8 shiritori
-tacky 2 1 0
-carry 4 1 1
-opera 1 3 0
-onion 1 3 1

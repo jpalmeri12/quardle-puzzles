@@ -1,6 +1,0 @@
-6 8 squaredance
-welsh 1 1 1
-drive 5 1 1
-world 1 1 0
-house 1 5 0
-croup 1 7 0

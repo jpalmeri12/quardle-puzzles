@@ -1,5 +1,0 @@
-6 9 spaced
-latch 1 1 0
-avert 2 1 1
-growl 1 4 0
-waltz 4 4 1

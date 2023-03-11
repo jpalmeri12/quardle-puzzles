@@ -1,5 +1,0 @@
-7 10
-lanky 5 1 1
-shone 2 3 0
-downy 1 5 0
-ninny 4 5 1

@@ -1,5 +1,0 @@
-6 8
-gross 1 1 0
-renal 2 1 1
-knife 1 3 0
-exact 5 3 1

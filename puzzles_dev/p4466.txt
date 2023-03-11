@@ -1,5 +1,0 @@
-7 9
-ample 1 1 0
-level 4 1 1
-wagon 2 4 1
-allot 2 5 0

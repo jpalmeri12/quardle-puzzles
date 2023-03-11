@@ -1,6 +1,0 @@
-6 9 drop
-short 5 1 1
-hatch 1 2 0
-tread 3 2 1
-boast 1 5 0
-crust 1 8 0

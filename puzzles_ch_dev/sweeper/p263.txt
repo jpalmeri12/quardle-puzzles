@@ -1,5 +1,0 @@
-6 9 sweeper
-spoke 5 1 1
-haste 2 4 1
-carve 1 5 0
-decal 1 8 0

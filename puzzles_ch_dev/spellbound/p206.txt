@@ -1,9 +1,0 @@
-7 9 spellbound
-rehab 1 1 1
-serif 4 4 1
-bevel 1 5 0
-elfin 2 8 0
-!spellbound 0 0 2
-!spellbound 1 0 3
-!spellbound 2 4 1
-!spellbound 3 4 1

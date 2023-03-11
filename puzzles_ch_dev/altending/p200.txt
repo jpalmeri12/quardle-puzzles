@@ -1,5 +1,0 @@
-6 9 altending
-humid 1 1 0
-stark 1 3 0
-smite 1 5 0
-tripe 1 7 0

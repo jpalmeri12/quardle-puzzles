@@ -1,5 +1,0 @@
-6 9
-black 3 1 1
-villa 1 2 0
-gecko 1 4 0
-grant 1 4 1

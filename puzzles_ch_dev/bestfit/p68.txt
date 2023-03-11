@@ -1,5 +1,0 @@
-7 9 bestfit
-titan 4 1 1
-think 2 2 0
-aside 1 4 1
-sauna 1 5 0

@@ -1,5 +1,0 @@
-7 7 darkness
-femme 1 5 0
-adobe 5 1 1
-valor 2 3 0
-magma 3 2 1

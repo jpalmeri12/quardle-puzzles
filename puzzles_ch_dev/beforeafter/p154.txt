@@ -1,9 +1,0 @@
-7 9 beforeafter
-music 1 1 1
-skiff 5 4 1
-chalk 1 5 0
-staff 2 8 0
-!beforeafter 2 j
-!beforeafter 1 j
-!beforeafter 2 i
-!beforeafter 1 k

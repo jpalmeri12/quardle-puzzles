@@ -1,5 +1,0 @@
-6 9 duplicity
-manic 1 1 1
-saint 3 4 1
-chasm 1 5 0
-ninth 1 7 0

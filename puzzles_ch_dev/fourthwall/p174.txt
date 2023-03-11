@@ -1,7 +1,0 @@
-6 6 fourthwall
-basic 1 1 0
-beset 1 1 1
-shape 1 3 0
-slate 3 1 1
-these 1 5 0
-creme 5 1 1

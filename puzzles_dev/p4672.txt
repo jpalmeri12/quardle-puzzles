@@ -1,5 +1,0 @@
-6 7
-shaft 5 1 1
-nosey 1 2 1
-notch 1 2 0
-scoff 1 4 0

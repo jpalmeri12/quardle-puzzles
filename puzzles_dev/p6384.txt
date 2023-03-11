@@ -1,5 +1,0 @@
-7 10
-gaudy 5 1 1
-decay 1 5 0
-aback 4 5 1
-chart 2 7 0

@@ -1,5 +1,0 @@
-6 9
-solid 1 1 0
-dying 5 1 1
-blown 1 4 0
-ovoid 3 4 1

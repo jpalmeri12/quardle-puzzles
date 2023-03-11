@@ -1,5 +1,0 @@
-7 9 unloved
-polyp 6 1 1
-showy 2 4 0
-horse 3 4 1
-puree 1 6 0

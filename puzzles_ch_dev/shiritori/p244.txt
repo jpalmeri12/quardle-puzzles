@@ -1,5 +1,0 @@
-7 9 shiritori
-burly 6 1 1
-stink 4 4 1
-matey 2 5 0
-alone 1 7 0

@@ -1,5 +1,0 @@
-7 9
-gonad 6 1 1
-apnea 2 4 0
-nicer 4 4 1
-batch 1 6 0

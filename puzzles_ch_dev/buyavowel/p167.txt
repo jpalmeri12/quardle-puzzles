@@ -1,5 +1,0 @@
-6 7 buyavowel
-vault 2 1 1
-bayou 1 2 0
-using 5 2 1
-alibi 1 4 0

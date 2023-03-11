@@ -1,5 +1,0 @@
-6 8 elbowroom
-moult 1 1 1
-metal 1 1 0
-until 1 3 0
-toxin 3 3 1

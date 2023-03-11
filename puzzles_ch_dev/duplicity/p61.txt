@@ -1,5 +1,0 @@
-7 9 duplicity
-tarot 1 1 1
-rally 4 4 1
-tonal 1 5 0
-nylon 2 7 0

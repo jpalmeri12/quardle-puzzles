@@ -1,5 +1,0 @@
-7 10 scrabble
-total 2 7 0
-regal 1 5 0
-false 2 1 1
-goody 3 5 1

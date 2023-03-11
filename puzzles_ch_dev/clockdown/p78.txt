@@ -1,5 +1,0 @@
-7 9 clockdown
-acute 6 1 1
-agent 2 4 0
-grief 3 4 1
-steak 1 7 0

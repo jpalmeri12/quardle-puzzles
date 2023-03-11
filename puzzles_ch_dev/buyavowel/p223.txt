@@ -1,5 +1,0 @@
-7 10 buyavowel
-detox 4 1 1
-leery 2 2 0
-proxy 1 5 0
-remit 2 5 1

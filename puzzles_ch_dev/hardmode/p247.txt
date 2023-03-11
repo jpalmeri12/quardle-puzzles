@@ -1,5 +1,0 @@
-7 9 hardmode
-aloft 6 1 1
-lunge 4 4 1
-erupt 2 5 0
-rouge 1 7 0

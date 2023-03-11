@@ -1,5 +1,0 @@
-7 10
-small 2 1 1
-flout 1 5 0
-upper 4 5 1
-sleek 2 8 0

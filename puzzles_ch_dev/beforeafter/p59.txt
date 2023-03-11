@@ -1,9 +1,0 @@
-6 10 beforeafter
-femur 2 1 1
-depot 1 2 0
-tread 1 5 0
-adopt 4 5 1
-!beforeafter 2 q
-!beforeafter 1 j
-!beforeafter 1 m
-!beforeafter 1 l

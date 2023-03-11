@@ -1,5 +1,0 @@
-7 10 dblltr
-mamma 3 1 1
-mammy 1 3 0
-mafia 2 5 0
-idiot 5 5 1

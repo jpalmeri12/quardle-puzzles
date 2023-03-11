@@ -1,6 +1,0 @@
-7 10 wordcolumn
-check 1 1 0
-harsh 2 1 1
-carat 4 1 1
-hutch 2 5 0
-unzip 3 5 1

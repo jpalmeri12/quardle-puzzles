@@ -1,5 +1,0 @@
-7 10 invention
-scrub 1 1 0
-broom 5 1 1
-enema 2 5 0
-arrow 6 5 1

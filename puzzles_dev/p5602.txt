@@ -1,5 +1,0 @@
-7 10
-vinyl 3 1 1
-slain 2 5 0
-intro 5 5 1
-photo 1 9 0

@@ -1,6 +1,0 @@
-7 10 drop
-wrest 6 1 1
-stake 2 3 0
-serif 2 3 1
-afoot 1 7 0
-stair 1 9 0

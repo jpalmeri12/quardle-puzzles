@@ -1,5 +1,0 @@
-7 10
-macro 5 1 1
-torso 1 5 0
-orbit 2 5 1
-tweet 2 9 0

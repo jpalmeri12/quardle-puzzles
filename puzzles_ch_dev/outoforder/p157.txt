@@ -1,5 +1,0 @@
-7 7 outoforder
-speed 4 1 1
-igloo 2 2 1
-input 2 2 0
-sleet 1 4 0

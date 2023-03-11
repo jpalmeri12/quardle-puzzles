@@ -1,5 +1,0 @@
-7 10
-retry 6 1 1
-dodgy 2 5 0
-dough 2 5 1
-agree 1 8 0

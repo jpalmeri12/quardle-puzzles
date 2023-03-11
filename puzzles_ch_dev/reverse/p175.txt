@@ -1,5 +1,0 @@
-7 9 reverse
-rotut 2 1 1
-slave 4 4 1
-htolc 1 5 0
-rover 2 7 0

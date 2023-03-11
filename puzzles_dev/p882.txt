@@ -1,5 +1,0 @@
-7 9
-froze 6 1 1
-flush 2 4 1
-lance 2 5 0
-psalm 1 7 0

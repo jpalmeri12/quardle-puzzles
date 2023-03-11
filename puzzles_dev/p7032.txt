@@ -1,5 +1,0 @@
-6 9
-chant 5 1 1
-humph 1 2 0
-welch 3 4 1
-spelt 1 5 0

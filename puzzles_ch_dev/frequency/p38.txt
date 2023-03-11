@@ -1,5 +1,0 @@
-6 9 frequency
-moist 1 1 1
-skiff 1 4 0
-flood 5 4 1
-gonad 1 8 0

@@ -1,5 +1,0 @@
-7 9 darkness
-allay 2 7 0
-rehab 5 4 1
-clasp 1 1 1
-pence 1 5 0

@@ -1,5 +1,0 @@
-7 9
-fling 6 1 1
-moron 2 4 0
-oxide 3 4 1
-glint 1 6 0

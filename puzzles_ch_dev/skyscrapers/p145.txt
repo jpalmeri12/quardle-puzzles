@@ -1,5 +1,0 @@
-7 9 skyscrapers
-tango 1 4 0
-gypsy 4 4 1
-flyer 2 8 0
-foray 2 1 1

@@ -1,5 +1,0 @@
-7 10 desync
-tight 2 1 1
-wight 1 2 0
-testy 2 5 0
-yearn 6 5 1

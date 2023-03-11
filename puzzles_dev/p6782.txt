@@ -1,5 +1,0 @@
-7 9
-tuber 2 1 1
-urban 2 2 0
-clear 4 4 1
-drill 1 5 0

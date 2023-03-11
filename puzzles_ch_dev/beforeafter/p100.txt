@@ -1,9 +1,0 @@
-7 9 beforeafter
-slide 2 1 1
-daisy 2 4 0
-stool 5 4 1
-pupil 1 8 0
-!beforeafter 1 k
-!beforeafter 2 k
-!beforeafter 1 p
-!beforeafter 2 o

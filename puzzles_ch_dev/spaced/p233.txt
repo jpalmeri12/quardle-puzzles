@@ -1,5 +1,0 @@
-6 7 spaced
-ashen 5 1 1
-squad 1 2 1
-quash 1 3 0
-alien 1 5 0

@@ -1,5 +1,0 @@
-7 8
-pulse 1 1 0
-scarf 4 1 1
-shard 2 3 0
-stone 2 3 1

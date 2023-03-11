@@ -1,5 +1,0 @@
-7 8 elbowroom
-blush 1 1 0
-lingo 2 1 1
-twixt 5 3 1
-grown 2 4 0

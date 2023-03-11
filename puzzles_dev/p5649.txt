@@ -1,5 +1,0 @@
-7 8
-undue 3 1 1
-synod 1 2 0
-caddy 6 3 1
-fetid 2 5 0

@@ -1,5 +1,0 @@
-7 9
-video 4 1 1
-knead 2 4 0
-kneel 2 4 1
-flour 1 8 0

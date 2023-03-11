@@ -1,5 +1,0 @@
-7 9 elbowroom
-acorn 2 1 1
-rocky 2 4 0
-karma 5 4 1
-venom 1 7 0

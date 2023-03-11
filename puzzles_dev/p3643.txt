@@ -1,5 +1,0 @@
-6 9
-wrack 1 1 0
-abode 3 1 1
-power 1 4 1
-overt 1 5 0

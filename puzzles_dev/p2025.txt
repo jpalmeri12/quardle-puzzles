@@ -1,5 +1,0 @@
-7 10
-tabby 2 1 1
-butch 2 3 0
-nylon 1 5 0
-offal 4 5 1

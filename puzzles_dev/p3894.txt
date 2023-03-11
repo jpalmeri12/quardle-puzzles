@@ -1,5 +1,0 @@
-7 7
-twirl 6 1 1
-sword 3 2 1
-corer 2 4 0
-media 1 6 0

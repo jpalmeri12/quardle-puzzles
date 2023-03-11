@@ -1,8 +1,0 @@
-6 8 twins
-finch 1 1 0
-rupee 1 3 0
-alone 1 5 0
-drunk 1 7 0
-!twins 0 1
-!twins 1 3
-!twins 1 2

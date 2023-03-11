@@ -1,5 +1,0 @@
-6 9
-taken 1 1 0
-knead 3 1 1
-crass 1 4 0
-cabin 1 4 1

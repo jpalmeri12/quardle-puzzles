@@ -1,9 +1,0 @@
-6 9 beforeafter
-floor 2 1 1
-skiff 5 4 1
-trunk 1 5 0
-stuff 1 7 0
-!beforeafter 1 n
-!beforeafter 1 j
-!beforeafter 2 o
-!beforeafter 2 r

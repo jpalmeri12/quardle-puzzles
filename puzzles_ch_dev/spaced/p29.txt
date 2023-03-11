@@ -1,5 +1,0 @@
-7 10 spaced
-logic 4 1 1
-spice 1 5 0
-irate 3 5 1
-palsy 2 7 0

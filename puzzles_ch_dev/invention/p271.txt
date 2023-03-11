@@ -1,5 +1,0 @@
-6 10 invention
-cacti 3 1 1
-abide 1 5 0
-boast 2 5 1
-mayor 1 7 0

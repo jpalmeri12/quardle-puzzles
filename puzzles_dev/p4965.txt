@@ -1,5 +1,0 @@
-6 8
-aware 1 1 1
-omega 4 3 1
-eager 1 5 0
-cleat 1 7 0

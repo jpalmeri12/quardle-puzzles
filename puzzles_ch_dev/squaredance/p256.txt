@@ -1,6 +1,0 @@
-6 8 squaredance
-tonal 1 1 1
-needy 5 1 1
-token 1 1 0
-lofty 1 5 0
-alter 1 7 0

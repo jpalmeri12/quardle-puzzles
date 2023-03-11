@@ -1,5 +1,0 @@
-7 10 skyscrapers
-vital 2 2 0
-might 3 1 1
-hitch 1 5 0
-inert 2 5 1

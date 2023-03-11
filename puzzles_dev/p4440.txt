@@ -1,5 +1,0 @@
-7 10
-cause 4 1 1
-chute 2 3 0
-scree 1 5 0
-ensue 5 5 1

@@ -1,5 +1,0 @@
-7 10 duplicity
-droop 2 1 1
-prude 1 2 0
-prong 2 5 0
-nudge 5 5 1

@@ -1,5 +1,0 @@
-6 9
-fluid 1 1 1
-binge 4 4 1
-digit 1 5 0
-siege 1 7 0

@@ -1,5 +1,0 @@
-6 10
-drunk 3 1 1
-baker 1 5 0
-razor 5 5 1
-cameo 1 8 0

@@ -1,5 +1,0 @@
-7 10 elbowroom
-gipsy 6 1 1
-dizzy 2 5 0
-dandy 2 5 1
-adage 1 8 0

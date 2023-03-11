@@ -1,5 +1,0 @@
-7 9
-pulse 2 1 0
-speck 5 1 1
-manic 1 4 0
-ample 2 4 1

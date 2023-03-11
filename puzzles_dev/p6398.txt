@@ -1,5 +1,0 @@
-7 9
-wharf 4 1 1
-serve 2 4 0
-shady 2 4 1
-syrup 1 8 0

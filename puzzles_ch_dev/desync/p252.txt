@@ -1,5 +1,0 @@
-7 10 desync
-flown 2 1 0
-witch 5 1 1
-nymph 1 5 0
-naval 1 5 1

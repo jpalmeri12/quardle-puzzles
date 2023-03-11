@@ -1,5 +1,0 @@
-7 9 elbowroom
-visor 2 1 1
-heist 5 4 1
-crave 1 5 0
-daisy 2 7 0

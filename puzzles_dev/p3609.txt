@@ -1,5 +1,0 @@
-7 9
-witty 3 1 1
-bible 2 2 0
-petal 1 4 0
-legal 5 4 1

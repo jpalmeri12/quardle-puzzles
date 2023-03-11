@@ -1,5 +1,0 @@
-6 9
-float 4 1 1
-dimly 1 2 0
-unlit 1 4 1
-ninth 1 5 0

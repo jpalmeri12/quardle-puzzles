@@ -1,5 +1,0 @@
-7 9 bestfit
-group 2 1 1
-rumba 2 2 0
-salad 4 4 1
-splat 1 5 0

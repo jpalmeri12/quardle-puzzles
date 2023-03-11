@@ -1,6 +1,0 @@
-7 8 island
-abase 2 1 0
-bayou 3 1 1
-gleam 5 3 1
-pause 1 5 0
-!island 31 2111 11111 311

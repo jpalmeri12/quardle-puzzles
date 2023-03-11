@@ -1,5 +1,0 @@
-6 8 swap
-abuot 4 1 1
-salov 2 3 1
-banoj 1 4 0
-cvail 1 7 0

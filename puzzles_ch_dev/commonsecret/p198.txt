@@ -1,6 +1,0 @@
-6 9 commonsecret
-shard 1 1 0
-hoard 2 1 1
-bravo 1 4 0
-vapor 4 4 1
-!secret r

@@ -1,5 +1,0 @@
-6 7 buyavowel
-lying 5 1 1
-daisy 1 2 0
-drunk 1 2 1
-urban 1 4 0

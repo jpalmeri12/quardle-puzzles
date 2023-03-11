@@ -1,5 +1,0 @@
-7 9
-fairy 1 1 1
-rumor 1 4 0
-opera 4 4 1
-quash 2 8 0

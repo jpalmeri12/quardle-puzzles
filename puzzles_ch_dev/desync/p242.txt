@@ -1,5 +1,0 @@
-7 10 desync
-gloss 4 1 1
-floss 1 5 0
-spice 5 5 1
-modem 2 9 0

@@ -1,8 +1,0 @@
-6 8 twins
-waltz 1 1 0
-primo 1 3 0
-taste 1 5 0
-cried 1 7 0
-!twins 0 3
-!twins 2 4
-!twins 0 1

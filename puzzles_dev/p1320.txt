@@ -1,5 +1,0 @@
-6 9
-bloke 2 1 1
-mount 5 4 1
-pesto 1 5 0
-women 1 7 0

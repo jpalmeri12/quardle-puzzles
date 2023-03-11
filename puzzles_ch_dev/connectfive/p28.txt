@@ -1,6 +1,0 @@
-7 12 connectfive
-melon 2 1 1
-donut 1 4 0
-tepee 5 4 1
-comfy 3 7 1
-wooer 2 8 0

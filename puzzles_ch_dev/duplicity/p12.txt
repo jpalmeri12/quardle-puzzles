@@ -1,5 +1,0 @@
-7 8 duplicity
-smear 1 1 0
-mason 2 1 1
-sound 2 3 0
-demur 6 3 1

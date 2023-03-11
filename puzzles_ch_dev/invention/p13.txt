@@ -1,5 +1,0 @@
-7 9 invention
-retry 5 1 1
-shone 1 2 0
-worry 2 4 0
-wreak 2 4 1

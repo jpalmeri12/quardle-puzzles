@@ -1,5 +1,0 @@
-7 7
-chard 6 1 1
-rough 2 2 0
-other 3 2 1
-girth 1 6 0

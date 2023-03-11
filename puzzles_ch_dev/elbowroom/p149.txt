@@ -1,5 +1,0 @@
-6 7 elbowroom
-femme 1 1 1
-ethos 1 2 0
-shorn 5 2 1
-macro 1 4 0

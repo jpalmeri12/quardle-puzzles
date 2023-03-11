@@ -1,5 +1,0 @@
-7 9 fourscore
-bring 1 1 0
-gawky 5 1 1
-shake 2 4 0
-hutch 3 4 1

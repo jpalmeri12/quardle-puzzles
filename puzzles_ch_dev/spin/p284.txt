@@ -1,5 +1,0 @@
-7 10 spin
-basal 4 1 1
-caste 2 3 0
-ankle 1 5 0
-krill 3 5 1

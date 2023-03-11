@@ -1,5 +1,0 @@
-6 10
-altar 5 1 1
-bowel 1 2 0
-under 1 5 0
-nutty 2 5 1

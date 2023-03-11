@@ -1,9 +1,0 @@
-7 8 spellbound
-quest 1 1 1
-aging 5 3 1
-sling 1 4 0
-among 2 6 0
-!spellbound 0 1 2
-!spellbound 1 0 2
-!spellbound 2 3 2
-!spellbound 3 4 2

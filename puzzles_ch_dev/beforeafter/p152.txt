@@ -1,9 +1,0 @@
-6 10 beforeafter
-bayou 1 1 1
-adorn 1 2 0
-usual 1 5 0
-lurch 5 5 1
-!beforeafter 1 l
-!beforeafter 1 m
-!beforeafter 2 o
-!beforeafter 2 i

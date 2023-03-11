@@ -1,5 +1,0 @@
-7 9 reverse
-emyht 5 1 1
-nroda 2 4 1
-wrest 1 5 0
-drool 2 7 0

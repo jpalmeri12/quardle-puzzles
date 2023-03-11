@@ -1,5 +1,0 @@
-7 10 frequency
-snort 5 1 1
-asset 1 5 0
-sheer 2 5 1
-enema 2 7 0

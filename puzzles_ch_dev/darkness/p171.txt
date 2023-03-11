@@ -1,5 +1,0 @@
-6 10 darkness
-squat 1 2 0
-offer 3 5 1
-valet 4 1 1
-booth 1 5 0

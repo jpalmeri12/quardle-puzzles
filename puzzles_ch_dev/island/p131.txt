@@ -1,6 +1,0 @@
-7 9 island
-carve 1 1 0
-visit 4 1 1
-glide 2 4 0
-exert 6 4 1
-!island 221 1111 2111 31

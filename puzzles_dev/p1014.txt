@@ -1,5 +1,0 @@
-7 8
-bugle 1 1 1
-gypsy 1 3 0
-prick 3 3 1
-scaly 2 6 0

@@ -1,5 +1,0 @@
-7 10
-sedan 5 1 1
-brine 2 5 0
-icily 4 5 1
-affix 1 7 0

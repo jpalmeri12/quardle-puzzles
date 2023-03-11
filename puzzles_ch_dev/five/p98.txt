@@ -1,6 +1,0 @@
-7 9 five
-snort 2 1 1
-iliac 4 1 1
-knelt 1 2 0
-reach 2 4 0
-harry 6 4 1

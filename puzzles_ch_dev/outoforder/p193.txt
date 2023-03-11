@@ -1,5 +1,0 @@
-7 10 outoforder
-skate 5 1 1
-clerk 1 2 0
-inner 2 5 0
-inbox 2 5 1

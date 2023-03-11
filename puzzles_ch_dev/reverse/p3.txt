@@ -1,5 +1,0 @@
-7 8 reverse
-seize 2 1 1
-sunim 2 1 0
-yssuf 4 3 1
-reuse 1 5 0

@@ -1,7 +1,0 @@
-8 8 sixbox
-brass 3 1 1
-abhor 5 1 1
-clash 1 3 0
-spoil 4 3 1
-spool 3 4 0
-visor 1 5 0

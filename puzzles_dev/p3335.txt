@@ -1,5 +1,0 @@
-7 8
-poise 4 1 1
-tulip 1 3 0
-unity 2 3 1
-inept 2 5 0

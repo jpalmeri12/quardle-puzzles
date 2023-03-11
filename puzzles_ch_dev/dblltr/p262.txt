@@ -1,5 +1,0 @@
-7 9 dblltr
-avail 5 1 1
-weave 2 2 0
-ennui 1 4 0
-nasal 3 4 1

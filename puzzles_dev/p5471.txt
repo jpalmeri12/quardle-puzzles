@@ -1,5 +1,0 @@
-7 7
-wrest 5 1 1
-prick 2 2 1
-rider 2 3 0
-scent 1 5 0

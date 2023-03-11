@@ -1,5 +1,0 @@
-7 9
-tithe 5 1 1
-itchy 2 4 0
-tenor 3 4 1
-crony 1 7 0

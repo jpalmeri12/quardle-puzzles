@@ -1,5 +1,0 @@
-6 7 skyscrapers
-yeast 1 3 0
-fetid 5 1 1
-hoard 1 5 0
-depot 2 2 1

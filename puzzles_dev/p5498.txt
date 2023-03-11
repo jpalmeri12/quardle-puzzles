@@ -1,5 +1,0 @@
-6 10
-later 4 1 1
-broth 1 3 0
-decry 1 5 0
-comic 3 5 1

@@ -1,5 +1,0 @@
-6 10
-dilly 2 1 1
-cigar 1 2 0
-cyber 1 5 0
-brunt 3 5 1

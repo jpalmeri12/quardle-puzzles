@@ -1,5 +1,0 @@
-7 10 spaced
-blush 1 1 0
-havoc 5 1 1
-shock 2 5 0
-knave 6 5 1

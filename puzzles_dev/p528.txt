@@ -1,5 +1,0 @@
-7 9
-louse 2 1 1
-leery 2 1 0
-howdy 5 4 1
-hello 1 5 0

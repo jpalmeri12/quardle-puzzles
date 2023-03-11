@@ -1,5 +1,0 @@
-6 6
-booth 1 1 0
-banjo 1 1 1
-outdo 3 1 1
-judge 1 4 0

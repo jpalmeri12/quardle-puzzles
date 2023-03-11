@@ -1,5 +1,0 @@
-7 9
-relay 5 1 1
-baker 2 2 0
-villa 1 4 0
-vowel 1 4 1

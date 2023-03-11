@@ -1,5 +1,0 @@
-7 9 spin
-buyer 1 1 1
-scree 5 4 1
-relic 1 5 0
-widen 2 7 0

@@ -1,5 +1,0 @@
-7 10
-musky 1 1 0
-kebab 4 1 1
-stole 2 5 1
-sober 2 5 0

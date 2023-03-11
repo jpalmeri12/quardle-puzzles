@@ -1,5 +1,0 @@
-7 10
-fluff 5 1 1
-brief 1 5 0
-image 3 5 1
-peril 2 9 0

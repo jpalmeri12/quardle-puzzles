@@ -1,5 +1,0 @@
-7 10 invention
-ester 4 1 1
-sushi 2 2 0
-sport 1 5 0
-plaza 2 5 1

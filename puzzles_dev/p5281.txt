@@ -1,5 +1,0 @@
-6 9
-comma 1 1 1
-occur 1 2 0
-munch 1 4 0
-noose 3 4 1

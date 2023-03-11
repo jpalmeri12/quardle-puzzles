@@ -1,5 +1,0 @@
-6 9 scrabble
-ennui 2 4 1
-ounce 1 7 0
-merge 1 4 0
-budge 4 1 1

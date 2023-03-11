@@ -1,5 +1,0 @@
-6 9 dblltr
-drool 4 1 1
-berry 1 2 0
-plaza 2 4 1
-slyly 1 5 0

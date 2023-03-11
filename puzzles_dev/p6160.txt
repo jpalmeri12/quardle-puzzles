@@ -1,5 +1,0 @@
-7 10
-frisk 2 1 1
-press 1 2 0
-knead 2 5 0
-needy 3 5 1

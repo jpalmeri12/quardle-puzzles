@@ -1,5 +1,0 @@
-7 7
-briar 5 1 1
-cider 1 2 0
-infer 2 2 1
-focal 2 4 0

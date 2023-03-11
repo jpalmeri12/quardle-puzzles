@@ -1,6 +1,0 @@
-7 10 wordcolumn
-smash 2 1 1
-micro 2 2 0
-cabal 4 2 1
-south 1 5 1
-shear 1 5 0

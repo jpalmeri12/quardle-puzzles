@@ -1,5 +1,0 @@
-6 9 spin
-aphid 5 1 1
-khaki 1 4 0
-alike 3 4 1
-poker 1 7 0

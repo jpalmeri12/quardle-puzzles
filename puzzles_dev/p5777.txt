@@ -1,5 +1,0 @@
-6 6
-taunt 2 1 1
-arson 5 1 1
-vapor 1 2 0
-stern 1 5 0

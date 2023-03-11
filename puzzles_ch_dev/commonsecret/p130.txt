@@ -1,6 +1,0 @@
-7 10 commonsecret
-court 4 1 1
-round 2 3 0
-dirty 1 5 0
-yearn 5 5 1
-!secret r

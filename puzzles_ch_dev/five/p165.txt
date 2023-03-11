@@ -1,6 +1,0 @@
-7 8 five
-eager 1 1 0
-gloat 3 1 1
-abuse 5 3 1
-tabby 2 4 0
-parse 1 7 0

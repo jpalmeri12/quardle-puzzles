@@ -1,6 +1,0 @@
-7 8 wordcolumn
-iliac 2 1 1
-elite 1 2 0
-thyme 4 2 1
-tense 6 3 1
-cumin 2 5 0

@@ -1,6 +1,0 @@
-6 12 connectfive
-lingo 2 1 1
-mount 1 5 0
-naval 4 5 1
-kiosk 2 7 1
-jolly 1 9 0

@@ -1,5 +1,0 @@
-6 9
-donor 1 1 1
-drama 1 1 0
-olden 1 4 0
-ensue 4 4 1

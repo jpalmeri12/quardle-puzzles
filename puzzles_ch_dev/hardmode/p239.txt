@@ -1,5 +1,0 @@
-7 8 hardmode
-spurn 3 1 1
-quack 2 3 0
-close 5 3 1
-bongo 1 5 0

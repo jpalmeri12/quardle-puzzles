@@ -1,5 +1,0 @@
-7 7
-harry 1 1 0
-ruder 3 1 1
-tying 6 2 1
-edify 2 3 0

@@ -1,5 +1,0 @@
-7 10 clockdown
-psalm 1 1 1
-moral 1 5 0
-awash 4 5 1
-assay 2 8 0

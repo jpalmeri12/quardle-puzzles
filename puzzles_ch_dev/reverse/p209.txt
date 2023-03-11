@@ -1,5 +1,0 @@
-7 10 reverse
-ortni 4 1 1
-retto 2 3 0
-vivid 1 5 0
-drift 5 5 1

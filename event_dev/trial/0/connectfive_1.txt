@@ -1,6 +1,0 @@
-7 9 connectfive
-scold 1 1 0
-chief 2 1 1
-magic 6 2 1
-eying 2 4 0
-inane 4 4 1

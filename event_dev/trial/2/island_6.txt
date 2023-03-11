@@ -1,6 +1,0 @@
-7 9 island
-stoke 3 1 1
-scone 5 4 1
-leach 2 5 0
-churn 1 7 0
-!island 221 2111 11111 311

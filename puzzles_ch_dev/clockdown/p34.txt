@@ -1,5 +1,0 @@
-6 9 clockdown
-rifle 1 1 0
-foggy 3 1 1
-begat 1 4 0
-biddy 1 4 1

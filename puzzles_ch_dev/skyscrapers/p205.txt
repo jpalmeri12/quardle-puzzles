@@ -1,5 +1,0 @@
-7 10 skyscrapers
-wince 2 7 0
-nanny 4 5 1
-clone 1 5 0
-adore 5 1 1

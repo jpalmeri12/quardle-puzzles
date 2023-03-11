@@ -1,5 +1,0 @@
-7 9
-verso 2 1 0
-rugby 4 1 1
-maybe 1 4 0
-mucky 1 4 1

@@ -1,6 +1,0 @@
-7 10 five
-magic 4 1 1
-cheer 1 2 1
-enact 1 5 0
-attic 3 5 1
-scrub 2 9 0

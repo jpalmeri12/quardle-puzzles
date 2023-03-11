@@ -1,5 +1,0 @@
-7 9
-knack 4 1 1
-drank 1 2 0
-locus 2 4 0
-swish 6 4 1

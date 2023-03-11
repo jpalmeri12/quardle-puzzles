@@ -1,5 +1,0 @@
-7 8
-rearm 1 1 1
-mangy 4 3 1
-mount 1 5 0
-rayon 2 7 0

@@ -1,5 +1,0 @@
-7 9 shiritori
-press 4 1 1
-scree 2 2 0
-renew 1 4 1
-exist 1 5 0

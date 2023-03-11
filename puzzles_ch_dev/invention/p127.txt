@@ -1,5 +1,0 @@
-7 8 invention
-abate 4 1 1
-young 2 3 1
-often 2 4 0
-agate 1 7 0

@@ -1,6 +1,0 @@
-7 9 five
-solve 4 1 1
-gross 2 2 0
-stove 1 4 0
-tacky 2 4 1
-karma 2 7 0

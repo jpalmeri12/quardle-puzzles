@@ -1,5 +1,0 @@
-7 10 spaced
-harem 5 1 1
-dogma 2 5 0
-great 4 5 1
-lover 1 7 0

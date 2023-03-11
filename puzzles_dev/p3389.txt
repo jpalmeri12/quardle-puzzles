@@ -1,5 +1,0 @@
-6 9
-rebut 2 1 1
-geeky 1 2 0
-quark 1 4 0
-koala 5 4 1

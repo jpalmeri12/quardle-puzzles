@@ -1,5 +1,0 @@
-6 9 unloved
-ghoul 3 1 1
-aphid 1 2 0
-plumb 1 4 0
-petal 1 4 1

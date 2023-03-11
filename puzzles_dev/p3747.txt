@@ -1,5 +1,0 @@
-7 10
-prior 3 1 1
-straw 1 5 0
-weedy 5 5 1
-joker 2 7 0

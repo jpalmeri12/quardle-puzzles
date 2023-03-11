@@ -1,5 +1,0 @@
-7 10 outoforder
-pedal 4 1 1
-lover 1 2 0
-polyp 2 5 0
-putty 2 5 1

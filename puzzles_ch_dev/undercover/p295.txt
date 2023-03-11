@@ -1,6 +1,0 @@
-6 12 undercover
-ethic 1 1 1
-cargo 1 5 0
-goody 4 5 1
-brook 1 7 0
-fluff 1 11 0

@@ -1,8 +1,0 @@
-6 8 twins
-woman 1 1 0
-valor 1 3 0
-strut 1 5 0
-parry 1 7 0
-!twins 0 2
-!twins 2 3
-!twins 0 3

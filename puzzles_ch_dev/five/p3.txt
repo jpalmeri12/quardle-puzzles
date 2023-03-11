@@ -1,6 +1,0 @@
-7 10 five
-lupus 1 1 1
-shape 5 4 1
-sooth 1 5 0
-onset 2 5 1
-scope 2 7 0

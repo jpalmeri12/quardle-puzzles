@@ -1,5 +1,0 @@
-7 10
-beret 2 1 1
-stuff 1 5 0
-fecal 4 5 1
-twang 2 8 0

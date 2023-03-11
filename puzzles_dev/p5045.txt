@@ -1,5 +1,0 @@
-6 10
-resin 4 1 1
-quest 1 3 0
-scene 1 5 0
-extol 3 5 1

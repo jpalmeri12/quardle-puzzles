@@ -1,5 +1,0 @@
-6 6 clockdown
-scorn 1 1 1
-begin 4 1 1
-covet 1 2 0
-ratio 1 4 0

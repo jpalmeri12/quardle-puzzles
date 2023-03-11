@@ -1,6 +1,0 @@
-7 9 drop
-power 2 1 1
-smock 4 2 1
-women 2 3 0
-track 1 5 0
-swept 1 8 0

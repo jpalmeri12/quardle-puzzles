@@ -1,5 +1,0 @@
-7 9 fourscore
-stock 4 1 1
-ratio 2 2 0
-repay 1 4 1
-evoke 1 5 0

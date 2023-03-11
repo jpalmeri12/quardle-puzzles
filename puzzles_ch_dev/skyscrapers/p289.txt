@@ -1,5 +1,0 @@
-6 8 skyscrapers
-mamma 2 3 1
-macro 1 4 0
-cairn 4 1 1
-aback 1 1 0

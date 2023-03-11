@@ -1,5 +1,0 @@
-7 7 soundscramble
-idael 2 1 1
-dafar 2 2 0
-foyar 4 2 1
-setyr 1 4 0

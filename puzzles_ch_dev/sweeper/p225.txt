@@ -1,5 +1,0 @@
-6 10 sweeper
-bayou 3 1 1
-abuse 1 5 0
-smear 4 5 1
-fiery 1 9 0

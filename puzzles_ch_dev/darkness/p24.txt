@@ -1,5 +1,0 @@
-7 10 darkness
-taste 2 5 1
-strut 1 5 0
-shard 2 7 0
-bayou 4 1 1

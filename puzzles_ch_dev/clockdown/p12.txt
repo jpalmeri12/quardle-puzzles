@@ -1,5 +1,0 @@
-7 9 clockdown
-barge 1 1 1
-gypsy 1 4 0
-squat 4 4 1
-spurn 2 6 0

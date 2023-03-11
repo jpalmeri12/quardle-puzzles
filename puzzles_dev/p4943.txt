@@ -1,5 +1,0 @@
-7 7
-trail 5 1 1
-taker 1 2 0
-afoul 2 2 1
-optic 2 4 0

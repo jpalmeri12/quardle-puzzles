@@ -1,5 +1,0 @@
-6 10 beta
-sushi 3 1 1
-climb 1 5 0
-bible 5 5 1
-sauce 1 9 0

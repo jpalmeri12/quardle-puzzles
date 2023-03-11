@@ -1,5 +1,0 @@
-7 7 bestfit
-drawn 2 1 1
-crawl 1 2 0
-wench 4 2 1
-niche 2 5 0

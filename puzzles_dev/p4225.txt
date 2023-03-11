@@ -1,5 +1,0 @@
-6 6
-clump 1 1 1
-champ 1 1 0
-mango 4 1 1
-prior 1 5 0

@@ -1,5 +1,0 @@
-7 8
-brass 4 1 1
-budge 2 3 1
-unset 2 4 0
-leant 1 7 0

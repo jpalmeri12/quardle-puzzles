@@ -1,5 +1,0 @@
-7 9 skyscrapers
-shard 2 1 0
-rerun 5 1 1
-glean 1 5 0
-agile 1 4 1

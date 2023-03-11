@@ -1,6 +1,0 @@
-7 11 drop
-below 4 1 1
-clued 1 2 0
-groan 2 4 0
-given 2 4 1
-olden 1 10 0

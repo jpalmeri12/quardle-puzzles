@@ -1,7 +1,0 @@
-7 12 secretdistance
-jewel 1 1 0
-elope 4 1 1
-their 2 5 0
-horse 3 5 1
-salon 1 11 0
-!sdpos 1 3 1 2

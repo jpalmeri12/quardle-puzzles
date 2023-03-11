@@ -1,6 +1,0 @@
-7 9 connectfive
-trump 2 1 1
-urine 1 2 0
-wrote 4 4 1
-spark 1 5 0
-voter 2 7 0

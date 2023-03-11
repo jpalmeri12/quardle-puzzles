@@ -1,5 +1,0 @@
-7 10 spaced
-comfy 2 1 0
-mocha 4 1 1
-clear 1 5 0
-lousy 2 5 1

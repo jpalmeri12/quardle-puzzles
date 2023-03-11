@@ -1,5 +1,0 @@
-6 10
-snort 5 1 1
-float 1 5 0
-odder 3 5 1
-medal 1 7 0

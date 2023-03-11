@@ -1,5 +1,0 @@
-6 7
-draft 4 1 1
-chord 1 2 0
-harem 2 2 1
-meaty 1 5 0

@@ -1,5 +1,0 @@
-7 9
-stein 5 1 1
-south 2 2 0
-biome 3 4 1
-alien 1 5 0

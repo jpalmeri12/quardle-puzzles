@@ -1,5 +1,0 @@
-7 7
-sheer 6 1 1
-apply 3 2 1
-spore 2 4 0
-flyer 1 6 0

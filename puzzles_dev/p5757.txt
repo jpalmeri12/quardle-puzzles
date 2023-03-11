@@ -1,5 +1,0 @@
-7 9
-woody 2 1 1
-noise 1 2 0
-dwell 2 4 0
-liner 5 4 1

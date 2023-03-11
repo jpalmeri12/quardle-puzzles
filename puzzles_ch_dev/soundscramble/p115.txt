@@ -1,5 +1,0 @@
-6 8 soundscramble
-therd 1 1 0
-reght 4 1 1
-imbid 1 3 1
-meght 1 4 0

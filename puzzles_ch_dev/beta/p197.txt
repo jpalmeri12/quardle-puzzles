@@ -1,5 +1,0 @@
-7 10 beta
-debug 2 1 1
-gaffe 2 5 0
-fussy 4 5 1
-mossy 1 7 0

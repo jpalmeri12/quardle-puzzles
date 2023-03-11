@@ -1,5 +1,0 @@
-6 9 swap
-fosit 4 1 1
-botoy 1 2 0
-daliy 1 4 0
-antal 2 4 1

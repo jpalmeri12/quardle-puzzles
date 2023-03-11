@@ -1,5 +1,0 @@
-7 10
-snack 2 1 1
-shied 2 1 0
-skunk 1 5 0
-stash 1 5 1

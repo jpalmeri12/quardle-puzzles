@@ -1,5 +1,0 @@
-6 7 shiritori
-elegy 1 1 1
-lingo 1 2 0
-older 5 2 1
-greed 1 4 0

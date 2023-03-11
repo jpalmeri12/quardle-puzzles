@@ -1,5 +1,0 @@
-7 10 spaced
-knave 5 1 1
-panel 2 5 0
-avert 3 5 1
-harem 1 8 0

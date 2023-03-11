@@ -1,5 +1,0 @@
-7 9 elbowroom
-their 1 1 1
-slick 3 4 1
-rally 1 5 0
-scant 2 7 0

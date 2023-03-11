@@ -1,5 +1,0 @@
-7 8
-wider 1 1 0
-irate 2 1 1
-aphid 2 3 0
-icing 5 3 1

@@ -1,5 +1,0 @@
-7 8
-cater 6 1 1
-happy 2 3 1
-heist 2 3 0
-lying 1 7 0

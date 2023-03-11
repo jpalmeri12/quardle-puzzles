@@ -1,5 +1,0 @@
-6 8 reverse
-eniws 4 1 1
-devil 1 3 0
-drawa 1 3 1
-aback 1 7 0

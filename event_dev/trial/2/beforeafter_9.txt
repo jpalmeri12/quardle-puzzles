@@ -1,9 +1,0 @@
-7 10 beforeafter
-wrong 3 1 1
-aglow 2 5 0
-lefty 4 5 1
-party 1 8 0
-!beforeafter 1 q
-!beforeafter 1 k
-!beforeafter 2 o
-!beforeafter 1 q

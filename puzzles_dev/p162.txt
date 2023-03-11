@@ -1,5 +1,0 @@
-7 9
-sting 4 1 1
-fatty 2 2 0
-shunt 1 4 0
-hunky 2 4 1

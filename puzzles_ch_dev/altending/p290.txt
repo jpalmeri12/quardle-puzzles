@@ -1,5 +1,0 @@
-6 9 altending
-rouse 1 1 0
-mound 1 3 0
-bough 1 5 0
-think 1 7 0

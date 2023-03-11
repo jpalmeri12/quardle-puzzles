@@ -1,6 +1,0 @@
-7 10 five
-alarm 4 1 1
-feast 2 5 1
-femur 2 5 0
-until 5 5 1
-stall 1 9 0

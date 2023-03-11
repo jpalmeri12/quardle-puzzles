@@ -1,5 +1,0 @@
-7 10
-smoke 5 1 1
-gnome 2 2 0
-tilde 1 5 0
-imply 2 5 1

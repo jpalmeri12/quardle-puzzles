@@ -1,5 +1,0 @@
-7 9
-click 4 1 1
-dwell 1 2 0
-rocky 2 4 0
-young 6 4 1

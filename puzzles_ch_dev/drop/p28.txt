@@ -1,6 +1,0 @@
-6 12 drop
-chain 4 1 1
-spent 1 5 0
-spool 1 5 1
-ovary 1 7 0
-snoop 1 11 0

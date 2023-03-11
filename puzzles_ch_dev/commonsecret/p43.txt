@@ -1,6 +1,0 @@
-7 9 commonsecret
-tramp 5 1 1
-stomp 2 4 0
-tapir 3 4 1
-syrup 1 8 0
-!secret p

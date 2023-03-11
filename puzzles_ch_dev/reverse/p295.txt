@@ -1,5 +1,0 @@
-7 9 reverse
-sunim 5 1 1
-turts 3 4 1
-dummy 2 5 0
-bosom 1 8 0

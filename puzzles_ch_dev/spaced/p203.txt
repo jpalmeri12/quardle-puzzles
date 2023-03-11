@@ -1,5 +1,0 @@
-6 8 spaced
-snipe 1 1 0
-paler 4 1 1
-world 1 3 0
-ombre 2 3 1

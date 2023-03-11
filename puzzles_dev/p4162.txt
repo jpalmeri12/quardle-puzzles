@@ -1,5 +1,0 @@
-7 9
-chill 3 1 1
-melon 1 4 0
-north 5 4 1
-tight 2 8 0

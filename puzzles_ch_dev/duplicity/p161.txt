@@ -1,5 +1,0 @@
-6 9 duplicity
-panic 1 1 1
-inlet 5 4 1
-clean 1 5 0
-plate 1 7 0

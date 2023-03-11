@@ -1,5 +1,0 @@
-6 7 bestfit
-rebus 4 1 1
-motel 1 2 0
-milky 1 2 1
-kiosk 1 5 0

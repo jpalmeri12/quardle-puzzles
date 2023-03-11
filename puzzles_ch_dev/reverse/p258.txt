@@ -1,5 +1,0 @@
-7 9 reverse
-smile 5 1 1
-calil 1 4 0
-atouq 2 4 1
-quiet 2 8 0

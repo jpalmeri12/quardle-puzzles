@@ -1,5 +1,0 @@
-6 10
-hefty 2 1 1
-afoot 1 3 0
-hyper 1 5 0
-eject 4 5 1

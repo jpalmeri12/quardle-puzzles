@@ -1,5 +1,0 @@
-6 7 invention
-basic 4 1 1
-troop 2 2 1
-press 1 3 0
-conch 1 5 0

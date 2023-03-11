@@ -1,5 +1,0 @@
-7 10
-putty 3 1 1
-metal 1 3 0
-cynic 2 5 0
-crazy 6 5 1

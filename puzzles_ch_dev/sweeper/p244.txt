@@ -1,5 +1,0 @@
-6 10 sweeper
-cacti 4 1 1
-ditch 1 3 0
-plait 1 5 0
-leery 2 5 1

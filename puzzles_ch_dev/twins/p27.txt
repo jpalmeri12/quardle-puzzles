@@ -1,8 +1,0 @@
-6 8 twins
-bezel 1 1 0
-swine 1 3 0
-owing 1 5 0
-lucky 1 7 0
-!twins 0 2
-!twins 1 2
-!twins 0 3

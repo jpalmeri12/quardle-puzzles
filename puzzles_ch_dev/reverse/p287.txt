@@ -1,5 +1,0 @@
-7 9 reverse
-toohs 6 1 1
-death 2 4 0
-eudnu 3 4 1
-muddy 1 6 0

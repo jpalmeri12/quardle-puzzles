@@ -1,5 +1,0 @@
-7 9
-verve 2 1 1
-tepee 1 2 0
-vital 2 4 0
-twice 4 4 1

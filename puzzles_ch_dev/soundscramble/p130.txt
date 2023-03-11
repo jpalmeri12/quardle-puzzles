@@ -1,5 +1,0 @@
-6 8 soundscramble
-scube 1 1 1
-shaat 1 1 0
-cynic 5 3 1
-betty 1 4 0

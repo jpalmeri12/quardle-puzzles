@@ -1,5 +1,0 @@
-6 8
-crave 1 1 1
-canny 1 1 0
-crash 3 3 1
-verso 1 4 0

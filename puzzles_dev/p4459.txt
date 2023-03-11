@@ -1,5 +1,0 @@
-7 10
-lurch 2 1 1
-whole 1 5 0
-limbo 4 5 1
-globe 2 9 0

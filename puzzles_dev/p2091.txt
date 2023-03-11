@@ -1,5 +1,0 @@
-6 10
-wispy 2 1 1
-essay 1 3 0
-curvy 1 5 1
-cyber 1 5 0

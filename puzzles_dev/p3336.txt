@@ -1,5 +1,0 @@
-7 9
-gusty 6 1 1
-synod 3 4 1
-gypsy 2 5 0
-alone 1 7 0

@@ -1,5 +1,0 @@
-7 8 skyscrapers
-value 2 4 0
-quell 4 1 1
-gamut 1 2 0
-decoy 6 3 1

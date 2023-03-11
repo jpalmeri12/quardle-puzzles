@@ -1,5 +1,0 @@
-7 7 invention
-idiom 5 1 1
-hoard 1 2 0
-assay 3 2 1
-mammy 2 5 0

@@ -1,7 +1,0 @@
-6 11 secretdistance
-tonga 1 1 0
-alone 5 1 1
-camel 1 4 1
-adobe 1 5 0
-slunk 1 10 0
-!sdpos 2 3 3 0

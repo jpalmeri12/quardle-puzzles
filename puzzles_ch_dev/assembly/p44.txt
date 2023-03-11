@@ -1,5 +1,0 @@
-6 10 assembly
-elbow 1 3 1
-dross 5 3 1
-heady 1 1 0
-abhor 1 9 0

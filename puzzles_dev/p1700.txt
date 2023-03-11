@@ -1,5 +1,0 @@
-7 9
-ruder 2 1 0
-riser 2 1 1
-petal 1 4 0
-leaky 5 4 1

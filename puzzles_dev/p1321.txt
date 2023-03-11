@@ -1,5 +1,0 @@
-7 9
-inbox 1 1 0
-octet 4 1 1
-every 2 4 0
-embed 2 4 1

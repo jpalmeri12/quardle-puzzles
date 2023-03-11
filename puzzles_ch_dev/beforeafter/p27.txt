@@ -1,9 +1,0 @@
-7 7 beforeafter
-kitty 5 1 1
-truce 2 2 1
-tulip 2 2 0
-icily 1 5 0
-!beforeafter 1 p
-!beforeafter 2 i
-!beforeafter 1 q
-!beforeafter 2 j

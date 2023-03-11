@@ -1,5 +1,0 @@
-7 8
-judge 5 1 1
-slide 2 3 0
-lilac 3 3 1
-belie 1 5 0

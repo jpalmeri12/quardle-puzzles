@@ -1,5 +1,0 @@
-7 9 spaced
-reign 1 1 1
-gipsy 1 4 0
-perky 3 4 1
-write 2 6 0

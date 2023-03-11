@@ -1,5 +1,0 @@
-7 9 spin
-hobby 2 1 1
-teddy 4 4 1
-yield 2 5 0
-vinyl 1 8 0

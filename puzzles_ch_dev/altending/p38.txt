@@ -1,5 +1,0 @@
-6 9 altending
-bevel 1 1 0
-baggy 1 3 0
-mange 1 5 0
-forty 1 7 0

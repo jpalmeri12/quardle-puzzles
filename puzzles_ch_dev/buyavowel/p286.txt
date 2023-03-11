@@ -1,5 +1,0 @@
-6 6 buyavowel
-whelp 1 1 1
-eying 5 1 1
-hussy 1 2 0
-laden 1 4 0

@@ -1,5 +1,0 @@
-7 9 clockdown
-offal 2 1 1
-after 1 2 0
-abode 2 4 0
-organ 4 4 1

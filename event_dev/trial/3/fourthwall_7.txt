@@ -1,7 +1,0 @@
-6 6 fourthwall
-canal 1 1 0
-cedar 1 1 1
-diver 1 3 0
-navel 3 1 1
-relay 1 5 0
-lorry 5 1 1

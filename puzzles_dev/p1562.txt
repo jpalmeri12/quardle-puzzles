@@ -1,5 +1,0 @@
-7 8
-whisk 5 1 1
-radii 1 3 0
-drake 3 3 1
-lanky 2 5 0

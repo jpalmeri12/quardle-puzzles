@@ -1,5 +1,0 @@
-6 8 buyavowel
-ankle 1 1 0
-ninja 2 1 1
-hotel 4 3 1
-patty 1 5 0

@@ -1,5 +1,0 @@
-7 7 bestfit
-swash 1 1 1
-gulch 4 2 1
-skull 1 4 0
-usher 2 6 0

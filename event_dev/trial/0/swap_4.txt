@@ -1,5 +1,0 @@
-7 9 swap
-lfood 4 1 1
-psoof 1 4 0
-skaet 2 4 1
-elvel 2 7 0

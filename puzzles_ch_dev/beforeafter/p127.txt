@@ -1,9 +1,0 @@
-7 9 beforeafter
-ficus 2 1 0
-favor 2 1 1
-logic 1 4 0
-inept 4 4 1
-!beforeafter 2 o
-!beforeafter 1 n
-!beforeafter 1 j
-!beforeafter 2 o

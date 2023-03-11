@@ -1,5 +1,0 @@
-6 6
-frisk 1 1 0
-risen 2 1 1
-staid 4 1 1
-debit 1 4 0

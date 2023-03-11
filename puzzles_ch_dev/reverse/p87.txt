@@ -1,5 +1,0 @@
-7 9 reverse
-mulch 5 1 1
-tnacs 2 4 0
-nediw 3 4 1
-china 1 7 0

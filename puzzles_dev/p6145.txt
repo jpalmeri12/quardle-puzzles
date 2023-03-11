@@ -1,5 +1,0 @@
-7 10
-steep 2 1 1
-heady 1 3 0
-pupal 2 5 0
-apple 5 5 1

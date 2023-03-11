@@ -1,5 +1,0 @@
-7 10 unloved
-shire 5 1 1
-right 2 2 0
-nudge 1 5 0
-ulcer 2 5 1

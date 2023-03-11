@@ -1,5 +1,0 @@
-7 10
-guide 2 1 1
-idler 2 3 0
-heavy 1 5 0
-humph 1 5 1

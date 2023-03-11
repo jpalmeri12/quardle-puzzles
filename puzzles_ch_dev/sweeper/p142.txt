@@ -1,5 +1,0 @@
-7 10 sweeper
-radii 4 1 1
-skier 2 5 0
-kayak 3 5 1
-crypt 1 7 0

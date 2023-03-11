@@ -1,5 +1,0 @@
-6 10
-skill 4 1 1
-pesky 1 2 0
-ladle 1 5 0
-erect 5 5 1

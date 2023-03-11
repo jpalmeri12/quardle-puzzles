@@ -1,6 +1,0 @@
-7 10 island
-fling 4 1 1
-tying 2 3 0
-mangy 1 5 0
-nylon 3 5 1
-!island 2111 311 221 211

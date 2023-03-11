@@ -1,5 +1,0 @@
-7 10
-clang 5 1 1
-going 1 5 0
-nutty 4 5 1
-tatty 2 8 0

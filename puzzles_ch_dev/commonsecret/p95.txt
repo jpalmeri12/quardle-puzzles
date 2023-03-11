@@ -1,6 +1,0 @@
-6 9 commonsecret
-alien 5 1 1
-octal 1 2 0
-askew 2 4 1
-ashen 1 5 0
-!secret a

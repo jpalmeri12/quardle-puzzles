@@ -1,5 +1,0 @@
-7 8 elbowroom
-bonus 1 1 0
-scone 5 1 1
-agile 2 3 1
-gaunt 2 4 0

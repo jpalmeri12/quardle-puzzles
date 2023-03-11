@@ -1,6 +1,0 @@
-7 9 connectfive
-essay 1 1 0
-squat 3 1 1
-ardor 6 4 1
-utter 2 5 0
-queer 2 8 0

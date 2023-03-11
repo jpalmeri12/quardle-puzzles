@@ -1,5 +1,0 @@
-6 9 unloved
-patty 5 1 1
-apnea 1 2 0
-cleat 1 4 0
-eying 3 4 1

@@ -1,5 +1,0 @@
-6 10 reverse
-toofa 1 1 1
-oddly 1 3 0
-alpha 1 5 0
-atsiv 5 5 1

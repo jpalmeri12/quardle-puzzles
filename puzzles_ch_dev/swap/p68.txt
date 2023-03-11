@@ -1,5 +1,0 @@
-7 8 swap
-muisc 6 1 1
-sigee 4 3 1
-foits 2 4 0
-psied 1 7 0

@@ -1,5 +1,0 @@
-7 10 buyavowel
-storm 4 1 1
-lumpy 2 5 0
-lager 2 5 1
-agony 1 7 0

@@ -1,5 +1,0 @@
-6 8
-swing 1 1 1
-dross 3 3 1
-gloss 1 5 0
-pasty 1 7 0

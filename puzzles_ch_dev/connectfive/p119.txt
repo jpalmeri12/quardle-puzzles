@@ -1,6 +1,0 @@
-7 9 connectfive
-stout 1 1 0
-usual 4 1 1
-spank 2 4 0
-krill 6 4 1
-equal 2 7 0

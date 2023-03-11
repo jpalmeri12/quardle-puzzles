@@ -1,5 +1,0 @@
-6 10 fourscore
-spree 4 1 1
-liken 1 5 0
-north 5 5 1
-later 1 7 0

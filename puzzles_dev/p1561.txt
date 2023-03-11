@@ -1,5 +1,0 @@
-7 8
-tacit 5 1 1
-cubic 3 3 1
-abbot 1 5 0
-scant 2 7 0

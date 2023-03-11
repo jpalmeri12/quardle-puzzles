@@ -1,5 +1,0 @@
-7 10
-quest 6 1 1
-habit 2 5 0
-amend 3 5 1
-ninth 1 8 0

@@ -1,6 +1,0 @@
-7 10 wordcolumn
-fungi 1 1 1
-urban 1 2 0
-irony 1 5 0
-ratio 2 5 1
-their 2 7 0

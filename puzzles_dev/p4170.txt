@@ -1,5 +1,0 @@
-7 9
-frame 5 1 1
-stern 2 2 0
-morph 3 4 1
-shove 1 5 0

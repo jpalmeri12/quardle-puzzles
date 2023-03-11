@@ -1,5 +1,0 @@
-7 8 fourscore
-blown 2 1 0
-waive 5 1 1
-eclat 3 3 1
-tilde 1 5 0

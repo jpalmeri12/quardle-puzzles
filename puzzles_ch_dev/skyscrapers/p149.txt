@@ -1,5 +1,0 @@
-7 7 skyscrapers
-niche 2 4 0
-saint 2 1 1
-askew 1 1 0
-beefy 6 2 1

@@ -1,5 +1,0 @@
-7 8 spin
-would 2 1 1
-lupus 5 3 1
-lemur 2 4 0
-cross 1 7 0

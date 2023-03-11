@@ -1,5 +1,0 @@
-6 10 bestfit
-golem 4 1 1
-below 1 2 0
-gamma 1 5 0
-afire 2 5 1

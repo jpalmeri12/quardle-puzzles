@@ -1,5 +1,0 @@
-7 8 beta
-roach 2 1 0
-askew 4 1 1
-broke 1 3 0
-reedy 2 3 1

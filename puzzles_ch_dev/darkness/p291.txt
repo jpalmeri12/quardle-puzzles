@@ -1,5 +1,0 @@
-6 10 darkness
-afoul 1 3 0
-blank 1 5 1
-skunk 4 1 1
-bloke 1 5 0

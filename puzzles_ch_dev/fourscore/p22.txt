@@ -1,5 +1,0 @@
-6 7 fourscore
-noisy 5 1 1
-audio 1 2 0
-usual 2 2 1
-mucus 1 4 0

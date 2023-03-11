@@ -1,5 +1,0 @@
-6 9 bestfit
-angle 2 1 1
-cause 5 4 1
-zebra 1 5 0
-shale 1 8 0

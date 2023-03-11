@@ -1,5 +1,0 @@
-7 9 hardmode
-ficus 5 1 1
-frail 2 2 0
-crown 2 4 1
-press 1 5 0

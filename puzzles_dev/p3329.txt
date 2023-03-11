@@ -1,5 +1,0 @@
-7 7
-exist 5 1 1
-humid 3 2 1
-pupil 2 3 0
-quilt 1 5 0

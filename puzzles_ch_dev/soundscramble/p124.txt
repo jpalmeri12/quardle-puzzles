@@ -1,5 +1,0 @@
-7 8 soundscramble
-crimp 5 1 1
-droat 2 3 1
-creim 1 4 0
-twast 2 7 0

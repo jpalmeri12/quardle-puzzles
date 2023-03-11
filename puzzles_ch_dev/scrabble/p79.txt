@@ -1,5 +1,0 @@
-7 10 scrabble
-mania 5 1 1
-fauna 1 5 0
-weary 2 9 0
-askew 2 5 1

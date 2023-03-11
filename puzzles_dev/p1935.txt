@@ -1,5 +1,0 @@
-6 9
-quick 5 1 1
-sonic 1 4 0
-otter 2 4 1
-treat 1 8 0

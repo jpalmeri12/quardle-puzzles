@@ -1,5 +1,0 @@
-7 10
-shall 5 1 1
-dwell 2 5 0
-wrote 3 5 1
-tatty 1 8 0

@@ -1,5 +1,0 @@
-6 8
-shire 1 1 0
-royal 4 1 1
-paddy 2 3 1
-canal 1 4 0

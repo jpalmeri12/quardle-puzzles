@@ -1,6 +1,0 @@
-7 9 five
-toddy 6 1 1
-scrap 4 2 1
-lurid 2 4 0
-lurch 2 4 1
-ghost 1 8 0

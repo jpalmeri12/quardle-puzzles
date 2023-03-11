@@ -1,5 +1,0 @@
-6 7
-snare 3 1 1
-lanky 1 2 0
-locus 1 2 1
-corny 1 4 0

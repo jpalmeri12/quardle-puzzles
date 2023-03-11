@@ -1,5 +1,0 @@
-7 8 spaced
-vinyl 6 1 1
-inept 4 3 1
-pinky 2 4 0
-grape 1 6 0

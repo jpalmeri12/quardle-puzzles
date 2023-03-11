@@ -1,5 +1,0 @@
-7 10 swap
-nside 1 1 0
-deing 4 1 1
-cigra 2 5 0
-ifshy 3 5 1

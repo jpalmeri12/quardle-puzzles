@@ -1,5 +1,0 @@
-6 7 reverse
-thump 3 1 1
-other 1 2 0
-ohcam 1 2 1
-cimoc 1 4 0

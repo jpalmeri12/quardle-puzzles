@@ -1,7 +1,0 @@
-7 11 secretdistance
-adopt 1 1 0
-psalm 4 1 1
-aglow 2 4 0
-ascot 2 4 1
-snout 1 10 0
-!sdpos 2 3 0 3

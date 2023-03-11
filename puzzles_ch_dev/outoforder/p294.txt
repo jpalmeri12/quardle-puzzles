@@ -1,5 +1,0 @@
-6 7 outoforder
-stunk 5 1 1
-beast 1 2 0
-asset 3 2 1
-break 1 5 0

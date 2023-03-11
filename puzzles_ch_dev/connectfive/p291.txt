@@ -1,6 +1,0 @@
-7 11 connectfive
-stuff 1 1 1
-frisk 1 4 0
-squad 4 4 1
-usual 2 6 0
-upper 2 6 1

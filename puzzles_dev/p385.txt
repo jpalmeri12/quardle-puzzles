@@ -1,5 +1,0 @@
-6 10
-dream 1 1 0
-dirty 1 1 1
-youth 1 5 0
-hound 5 5 1

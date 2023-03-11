@@ -1,5 +1,0 @@
-7 10 buyavowel
-broom 5 1 1
-alarm 1 5 0
-rainy 4 5 1
-abyss 2 9 0

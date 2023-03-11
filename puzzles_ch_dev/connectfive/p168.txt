@@ -1,6 +1,0 @@
-7 10 connectfive
-arose 4 1 1
-ascot 1 3 0
-steed 2 5 0
-tutor 3 5 1
-equal 5 5 1

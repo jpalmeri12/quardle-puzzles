@@ -1,9 +1,0 @@
-7 10 spellbound
-scuba 1 1 0
-bayou 4 1 1
-saute 2 5 0
-envoy 6 5 1
-!spellbound 0 0 4
-!spellbound 1 1 2
-!spellbound 2 0 3
-!spellbound 3 2 3

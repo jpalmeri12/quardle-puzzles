@@ -1,5 +1,0 @@
-6 10 duplicity
-tenet 5 1 1
-yeast 1 5 0
-stand 4 5 1
-seedy 1 9 0

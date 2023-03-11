@@ -1,5 +1,0 @@
-7 10
-doing 1 1 1
-genre 1 5 0
-risky 4 5 1
-maker 2 8 0

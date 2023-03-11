@@ -1,5 +1,0 @@
-7 10 duplicity
-lodge 6 1 1
-latte 2 5 0
-trend 5 5 1
-organ 1 8 0

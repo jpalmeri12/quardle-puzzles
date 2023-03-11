@@ -1,5 +1,0 @@
-6 9 altending
-plumb 1 1 0
-crude 1 3 0
-chime 1 5 0
-black 1 7 0

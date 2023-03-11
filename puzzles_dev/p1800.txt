@@ -1,5 +1,0 @@
-6 9
-canny 4 1 1
-stony 1 4 0
-spiky 1 4 1
-knife 1 7 0

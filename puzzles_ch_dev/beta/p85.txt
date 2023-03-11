@@ -1,5 +1,0 @@
-7 10 beta
-demon 4 1 1
-cling 1 5 0
-greet 5 5 1
-label 2 7 0

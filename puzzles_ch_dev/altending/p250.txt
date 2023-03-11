@@ -1,5 +1,0 @@
-6 9 altending
-whack 1 1 0
-snake 1 3 0
-drank 1 5 0
-stave 1 7 0

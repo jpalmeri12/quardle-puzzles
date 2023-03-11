@@ -1,5 +1,0 @@
-6 9 elbowroom
-chili 2 1 1
-begin 4 4 1
-piney 1 5 0
-vomit 1 7 0

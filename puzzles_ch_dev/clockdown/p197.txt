@@ -1,5 +1,0 @@
-7 9 clockdown
-mossy 2 1 0
-satyr 5 1 1
-unify 1 4 0
-usual 1 4 1

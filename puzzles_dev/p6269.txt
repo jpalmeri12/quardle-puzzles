@@ -1,5 +1,0 @@
-7 10
-stick 4 1 1
-baker 2 5 0
-agate 3 5 1
-graft 1 7 0

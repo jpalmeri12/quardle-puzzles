@@ -1,5 +1,0 @@
-7 10 bestfit
-minus 1 1 0
-sushi 5 1 1
-extol 2 5 1
-eerie 2 5 0

@@ -1,5 +1,0 @@
-7 8 duplicity
-fella 3 1 1
-flirt 2 3 0
-rivet 5 3 1
-valet 1 7 0

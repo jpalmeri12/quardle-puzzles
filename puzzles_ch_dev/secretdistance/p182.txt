@@ -1,7 +1,0 @@
-7 12 secretdistance
-bluer 4 1 1
-folio 2 2 0
-sorry 1 5 0
-yeast 5 5 1
-bloke 1 11 0
-!sdpos 0 3 1 1

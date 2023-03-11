@@ -1,6 +1,0 @@
-7 9 wordcolumn
-prize 4 1 1
-fungi 2 2 1
-lurid 1 3 0
-adobe 6 4 1
-greed 2 5 0

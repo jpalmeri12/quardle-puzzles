@@ -1,5 +1,0 @@
-6 9 unloved
-outer 2 1 1
-avian 4 4 1
-bravo 1 5 0
-trial 1 7 0

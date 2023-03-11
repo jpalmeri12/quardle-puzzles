@@ -1,5 +1,0 @@
-7 8
-pouch 2 1 0
-undue 4 1 1
-dutch 2 3 1
-steep 1 5 0

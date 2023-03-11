@@ -1,5 +1,0 @@
-6 9
-crash 1 1 1
-stash 1 4 0
-human 5 4 1
-tibia 1 7 0

@@ -1,5 +1,0 @@
-7 8
-duvet 5 1 1
-purse 3 3 1
-reuse 1 4 0
-geese 2 7 0

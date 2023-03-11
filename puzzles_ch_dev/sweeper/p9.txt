@@ -1,5 +1,0 @@
-6 9 sweeper
-grasp 1 1 1
-smart 4 4 1
-plump 1 5 0
-score 1 7 0

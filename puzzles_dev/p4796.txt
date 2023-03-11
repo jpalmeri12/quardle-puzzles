@@ -1,5 +1,0 @@
-6 9
-vigil 4 1 1
-quilt 1 4 1
-utile 1 5 0
-loopy 1 7 0

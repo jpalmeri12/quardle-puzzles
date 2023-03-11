@@ -1,5 +1,0 @@
-7 10 darkness
-music 5 1 1
-sleep 1 5 1
-pause 2 3 0
-stoic 1 5 0

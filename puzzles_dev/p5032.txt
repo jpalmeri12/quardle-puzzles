@@ -1,5 +1,0 @@
-7 9
-tangy 6 1 1
-doing 2 4 0
-inter 4 4 1
-butte 1 6 0

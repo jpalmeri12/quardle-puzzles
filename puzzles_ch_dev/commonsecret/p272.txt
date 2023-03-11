@@ -1,6 +1,0 @@
-7 7 commonsecret
-kneel 4 1 1
-eking 2 2 1
-kneed 2 3 0
-angle 1 5 0
-!secret n

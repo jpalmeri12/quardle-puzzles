@@ -1,6 +1,0 @@
-7 10 five
-cleat 5 1 1
-inner 2 2 1
-novel 2 3 0
-heist 1 5 0
-squib 4 5 1

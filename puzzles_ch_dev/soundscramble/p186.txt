@@ -1,5 +1,0 @@
-6 9 soundscramble
-stesh 1 1 1
-graet 4 4 1
-haerd 1 5 0
-virel 1 7 0

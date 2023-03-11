@@ -1,5 +1,0 @@
-7 8 elbowroom
-level 4 1 1
-gooey 1 2 0
-gayly 6 3 1
-filly 2 5 0

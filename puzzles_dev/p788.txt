@@ -1,5 +1,0 @@
-7 9
-timid 2 1 1
-titan 1 2 0
-essay 4 4 1
-dusky 2 5 0

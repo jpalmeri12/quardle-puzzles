@@ -1,5 +1,0 @@
-7 10 beta
-frock 2 1 0
-craze 5 1 1
-horse 1 5 0
-ratio 3 5 1

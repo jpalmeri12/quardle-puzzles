@@ -1,5 +1,0 @@
-6 9 outoforder
-wight 2 1 1
-titan 1 2 0
-shout 1 4 0
-taunt 5 4 1

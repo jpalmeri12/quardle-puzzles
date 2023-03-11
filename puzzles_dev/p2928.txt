@@ -1,5 +1,0 @@
-6 10
-belle 5 1 1
-inner 1 5 1
-imbue 1 5 0
-exist 1 8 0

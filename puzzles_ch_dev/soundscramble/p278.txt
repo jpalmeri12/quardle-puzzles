@@ -1,5 +1,0 @@
-7 10 soundscramble
-putal 4 1 1
-cullo 2 5 0
-lecky 5 5 1
-pebic 1 7 0

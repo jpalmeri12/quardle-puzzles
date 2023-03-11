@@ -1,5 +1,0 @@
-6 8
-pearl 2 1 1
-movie 4 3 1
-troop 1 4 0
-never 1 7 0

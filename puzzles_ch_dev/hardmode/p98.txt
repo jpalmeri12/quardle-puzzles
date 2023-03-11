@@ -1,5 +1,0 @@
-6 10 hardmode
-digit 3 1 1
-satyr 1 5 0
-sever 1 5 1
-vivid 1 7 0

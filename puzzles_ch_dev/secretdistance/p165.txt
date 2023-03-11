@@ -1,7 +1,0 @@
-7 11 secretdistance
-along 2 1 1
-inert 1 4 0
-radii 4 4 1
-shied 2 8 0
-rupee 1 10 0
-!sdpos 1 0 3 0

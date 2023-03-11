@@ -1,6 +1,0 @@
-6 8 squaredance
-welsh 1 1 1
-dully 5 1 1
-would 1 1 0
-husky 1 5 0
-sonic 1 7 0

@@ -1,5 +1,0 @@
-7 10
-jiffy 4 1 1
-quail 1 2 0
-rhyme 2 5 0
-manly 5 5 1

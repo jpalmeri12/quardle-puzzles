@@ -1,5 +1,0 @@
-7 10
-fewer 4 1 1
-blown 1 3 0
-harpy 2 5 0
-hazel 2 5 1

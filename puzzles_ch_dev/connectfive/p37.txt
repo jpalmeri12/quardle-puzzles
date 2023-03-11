@@ -1,6 +1,0 @@
-7 10 connectfive
-fetus 2 1 1
-state 1 3 0
-showy 2 5 0
-horse 3 5 1
-waive 5 5 1

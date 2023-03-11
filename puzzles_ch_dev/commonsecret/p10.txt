@@ -1,6 +1,0 @@
-7 10 commonsecret
-tonga 4 1 1
-china 1 3 0
-knack 2 5 0
-crass 5 5 1
-!secret a

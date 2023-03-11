@@ -1,5 +1,0 @@
-6 9
-green 1 1 0
-rhino 2 1 1
-snake 1 4 0
-erupt 5 4 1

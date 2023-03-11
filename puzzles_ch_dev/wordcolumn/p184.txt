@@ -1,6 +1,0 @@
-6 12 wordcolumn
-bilge 5 1 1
-navel 1 3 0
-alien 2 3 1
-snuff 1 7 0
-upset 3 7 1

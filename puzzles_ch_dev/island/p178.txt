@@ -1,6 +1,0 @@
-7 10 island
-quasi 4 1 1
-stump 2 2 0
-acrid 1 5 0
-digit 5 5 1
-!island 32 11111 311 211

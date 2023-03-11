@@ -1,5 +1,0 @@
-6 9 altending
-alien 1 1 0
-query 1 3 0
-decoy 1 5 0
-savor 1 7 0

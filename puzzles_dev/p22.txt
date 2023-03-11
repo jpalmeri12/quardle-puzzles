@@ -1,5 +1,0 @@
-6 7
-flame 3 1 1
-inlay 1 2 0
-yacht 5 2 1
-leech 1 5 0

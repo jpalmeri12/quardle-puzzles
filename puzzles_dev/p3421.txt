@@ -1,5 +1,0 @@
-7 8
-greed 6 1 1
-cargo 4 3 1
-stale 2 4 0
-aloof 1 7 0

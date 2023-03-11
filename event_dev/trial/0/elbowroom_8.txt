@@ -1,5 +1,0 @@
-7 10 elbowroom
-fudge 2 1 1
-quota 1 2 0
-elect 2 5 0
-leach 3 5 1

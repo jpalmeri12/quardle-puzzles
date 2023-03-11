@@ -1,5 +1,0 @@
-7 8 outoforder
-eclat 5 1 1
-offal 1 3 0
-feign 2 3 1
-nasty 2 7 0

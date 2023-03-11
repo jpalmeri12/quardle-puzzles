@@ -1,5 +1,0 @@
-7 7 frequency
-finer 5 1 1
-agile 2 2 1
-giant 2 3 0
-ulcer 1 5 0

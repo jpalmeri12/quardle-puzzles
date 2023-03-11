@@ -1,5 +1,0 @@
-7 9
-salty 2 1 0
-thyme 5 1 1
-denim 1 4 0
-nadir 3 4 1

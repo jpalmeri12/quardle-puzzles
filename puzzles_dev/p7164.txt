@@ -1,5 +1,0 @@
-6 6
-cleat 3 1 1
-woken 5 1 1
-creek 1 3 0
-titan 1 5 0

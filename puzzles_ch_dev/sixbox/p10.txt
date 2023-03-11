@@ -1,7 +1,0 @@
-8 8 sixbox
-plume 3 1 1
-latte 5 1 1
-moult 1 3 0
-loser 4 3 1
-motel 3 4 0
-geese 1 5 0

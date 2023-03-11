@@ -1,5 +1,0 @@
-6 9 altending
-sieve 1 1 0
-crazy 1 3 0
-booby 1 5 0
-cabin 1 7 0

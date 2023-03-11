@@ -1,5 +1,0 @@
-7 9
-cleat 5 1 1
-march 3 4 1
-pasty 2 5 0
-ethic 1 8 0

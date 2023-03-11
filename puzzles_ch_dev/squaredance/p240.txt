@@ -1,6 +1,0 @@
-6 8 squaredance
-lunch 1 1 1
-ledge 5 1 1
-lapel 1 1 0
-haste 1 5 0
-bayou 1 7 0

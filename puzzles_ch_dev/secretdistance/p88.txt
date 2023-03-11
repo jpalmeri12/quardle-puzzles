@@ -1,7 +1,0 @@
-6 9 secretdistance
-denim 4 1 1
-islet 1 2 0
-scamp 2 2 1
-mafia 1 4 0
-yield 1 8 0
-!sdpos 3 1 0 3

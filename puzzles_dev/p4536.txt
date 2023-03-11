@@ -1,5 +1,0 @@
-6 6
-onset 1 1 1
-order 1 1 0
-ebony 4 1 1
-savoy 1 3 0

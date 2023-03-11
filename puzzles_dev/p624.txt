@@ -1,5 +1,0 @@
-7 10
-scorn 2 1 1
-scalp 1 2 0
-nymph 2 5 0
-prose 5 5 1

@@ -1,5 +1,0 @@
-7 10 fourscore
-quail 5 1 1
-crawl 1 5 0
-welsh 4 5 1
-alley 2 7 0

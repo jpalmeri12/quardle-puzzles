@@ -1,5 +1,0 @@
-7 9
-press 2 1 0
-sloop 5 1 1
-motto 1 4 0
-money 1 4 1

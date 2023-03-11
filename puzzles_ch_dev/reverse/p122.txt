@@ -1,5 +1,0 @@
-7 9 reverse
-spray 1 1 0
-peels 2 1 1
-lodge 2 4 0
-delba 4 4 1

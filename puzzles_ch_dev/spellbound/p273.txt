@@ -1,9 +1,0 @@
-7 9 spellbound
-vogue 4 1 1
-afoul 1 4 0
-focus 2 4 1
-union 2 7 0
-!spellbound 0 1 4
-!spellbound 1 4 2
-!spellbound 2 2 4
-!spellbound 3 2 4

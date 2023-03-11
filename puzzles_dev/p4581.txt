@@ -1,5 +1,0 @@
-7 10
-robin 5 1 1
-chant 2 5 0
-annex 4 5 1
-gland 1 7 0

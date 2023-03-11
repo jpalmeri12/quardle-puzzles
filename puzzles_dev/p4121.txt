@@ -1,5 +1,0 @@
-6 10
-fatal 5 1 1
-count 1 3 0
-final 1 5 0
-naive 3 5 1

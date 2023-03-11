@@ -1,5 +1,0 @@
-7 10 invention
-rabbi 4 1 1
-gloat 1 2 0
-going 2 5 0
-gloss 6 5 1

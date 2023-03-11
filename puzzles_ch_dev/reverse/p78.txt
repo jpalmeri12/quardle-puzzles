@@ -1,5 +1,0 @@
-6 7 reverse
-ffins 5 1 1
-rovaf 1 2 0
-owing 2 2 1
-ripen 1 4 0

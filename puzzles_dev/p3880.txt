@@ -1,5 +1,0 @@
-7 9
-comma 6 1 1
-gripe 3 4 1
-arena 2 5 0
-cleat 1 8 0

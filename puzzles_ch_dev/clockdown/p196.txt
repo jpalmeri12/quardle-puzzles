@@ -1,5 +1,0 @@
-6 10 clockdown
-fecal 1 1 0
-comma 3 1 1
-stare 1 5 0
-strip 1 5 1

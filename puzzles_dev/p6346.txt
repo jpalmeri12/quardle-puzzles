@@ -1,5 +1,0 @@
-7 9
-croak 1 1 1
-apart 1 4 0
-afoul 3 4 1
-lowly 2 6 0

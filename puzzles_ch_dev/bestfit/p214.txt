@@ -1,5 +1,0 @@
-6 9 bestfit
-ebony 5 1 1
-begin 1 4 0
-gayly 3 4 1
-polka 1 7 0

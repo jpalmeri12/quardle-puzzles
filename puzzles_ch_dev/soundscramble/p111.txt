@@ -1,5 +1,0 @@
-7 8 soundscramble
-edega 2 1 0
-gulch 5 1 1
-facel 1 3 0
-curva 3 3 1

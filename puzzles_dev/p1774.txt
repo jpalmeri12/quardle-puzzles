@@ -1,5 +1,0 @@
-6 7
-quilt 1 1 1
-unfit 1 2 0
-theme 5 2 1
-leave 1 4 0

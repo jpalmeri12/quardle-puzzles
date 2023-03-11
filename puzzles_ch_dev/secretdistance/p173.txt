@@ -1,7 +1,0 @@
-7 12 secretdistance
-burst 5 1 1
-visit 1 5 0
-spell 3 5 1
-perch 2 7 0
-vital 1 11 0
-!sdpos 0 0 1 0

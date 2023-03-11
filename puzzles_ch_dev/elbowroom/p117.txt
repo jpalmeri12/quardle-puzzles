@@ -1,5 +1,0 @@
-7 7 elbowroom
-moron 5 1 1
-issue 2 2 1
-stark 2 3 0
-lumen 1 5 0

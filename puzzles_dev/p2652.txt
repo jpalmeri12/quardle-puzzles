@@ -1,5 +1,0 @@
-7 9
-screw 2 1 1
-ebony 2 4 0
-octal 4 4 1
-radar 1 7 0

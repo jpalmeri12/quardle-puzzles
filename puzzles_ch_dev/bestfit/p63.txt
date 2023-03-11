@@ -1,5 +1,0 @@
-6 7 bestfit
-study 4 1 1
-state 1 2 0
-sweat 1 2 1
-elide 1 4 0

@@ -1,5 +1,0 @@
-6 7
-bloke 5 1 1
-cheek 1 2 1
-canal 1 2 0
-erode 1 5 0

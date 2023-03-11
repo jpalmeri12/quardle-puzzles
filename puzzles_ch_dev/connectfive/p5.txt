@@ -1,6 +1,0 @@
-7 10 connectfive
-midst 2 1 1
-creak 5 1 1
-fiber 1 2 0
-tacky 2 5 0
-cease 4 5 1

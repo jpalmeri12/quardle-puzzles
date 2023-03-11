@@ -1,6 +1,0 @@
-6 11 drop
-heist 1 1 0
-stale 4 1 1
-unity 2 4 1
-kneed 1 5 0
-pesky 1 10 0

@@ -1,6 +1,0 @@
-7 11 drop
-arise 6 1 1
-spite 2 4 1
-probe 2 5 0
-stare 1 7 0
-apple 1 10 0

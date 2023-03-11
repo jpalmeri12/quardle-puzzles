@@ -1,9 +1,0 @@
-6 8 beforeafter
-snuck 1 1 1
-lurch 3 3 1
-chump 1 4 0
-abhor 1 7 0
-!beforeafter 2 l
-!beforeafter 2 k
-!beforeafter 1 j
-!beforeafter 2 m

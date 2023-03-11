@@ -1,5 +1,0 @@
-7 7 hardmode
-bylaw 5 1 1
-happy 1 2 0
-plied 3 2 1
-final 2 4 0

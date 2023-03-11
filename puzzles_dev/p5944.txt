@@ -1,5 +1,0 @@
-7 8
-drawn 1 1 0
-algae 3 1 1
-among 5 3 1
-mamma 2 4 0

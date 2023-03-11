@@ -1,5 +1,0 @@
-7 7 outoforder
-niece 6 1 1
-aping 2 2 1
-iliac 2 4 0
-agony 1 6 0

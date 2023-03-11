@@ -1,5 +1,0 @@
-7 10
-cower 2 1 1
-awash 1 3 0
-rhino 2 5 0
-outer 6 5 1

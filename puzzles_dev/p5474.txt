@@ -1,5 +1,0 @@
-7 10
-fable 2 1 1
-exile 2 5 0
-iliac 4 5 1
-flail 1 7 0

@@ -1,5 +1,0 @@
-6 10
-singe 2 1 1
-penal 1 5 0
-noose 3 5 1
-spoon 1 7 0

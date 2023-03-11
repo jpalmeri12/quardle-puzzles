@@ -1,5 +1,0 @@
-6 10
-might 4 1 1
-piggy 1 3 0
-north 1 5 0
-howdy 5 5 1

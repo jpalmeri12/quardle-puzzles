@@ -1,5 +1,0 @@
-7 10
-gumbo 1 1 0
-ovate 5 1 1
-wooer 2 5 0
-robin 6 5 1

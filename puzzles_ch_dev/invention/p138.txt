@@ -1,5 +1,0 @@
-7 9 invention
-sword 2 1 1
-which 2 2 0
-grape 1 4 0
-elate 5 4 1

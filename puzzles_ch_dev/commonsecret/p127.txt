@@ -1,6 +1,0 @@
-7 9 commonsecret
-truss 4 1 1
-mouth 2 4 1
-foist 1 5 0
-hasty 2 8 0
-!secret t

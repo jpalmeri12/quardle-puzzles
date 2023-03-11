@@ -1,5 +1,0 @@
-7 9 spin
-antic 3 1 1
-fault 5 4 1
-mecca 1 5 0
-shall 2 7 0

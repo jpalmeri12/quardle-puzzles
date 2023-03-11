@@ -1,5 +1,0 @@
-7 9 duplicity
-truss 1 1 1
-udder 5 4 1
-stood 1 5 0
-store 2 8 0

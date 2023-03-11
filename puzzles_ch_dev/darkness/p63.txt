@@ -1,5 +1,0 @@
-7 8 darkness
-voter 1 4 0
-idiot 2 6 0
-savvy 1 1 1
-study 3 3 1

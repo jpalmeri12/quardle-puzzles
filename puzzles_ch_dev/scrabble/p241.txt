@@ -1,5 +1,0 @@
-6 10 scrabble
-rotor 2 5 1
-bride 4 1 1
-dryer 1 5 0
-morph 1 8 0

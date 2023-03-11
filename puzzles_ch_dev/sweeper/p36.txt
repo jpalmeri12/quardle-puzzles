@@ -1,5 +1,0 @@
-7 9 sweeper
-pushy 5 1 1
-cloud 2 2 0
-swash 1 4 0
-sharp 1 4 1

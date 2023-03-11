@@ -1,5 +1,0 @@
-7 9 elbowroom
-shown 1 1 1
-wispy 1 4 0
-shrug 3 4 1
-privy 2 6 0

@@ -1,5 +1,0 @@
-7 8
-cheap 2 1 0
-apply 5 1 1
-stone 2 3 1
-hotly 1 5 0

@@ -1,6 +1,0 @@
-7 12 drop
-lasso 3 1 1
-blond 1 5 0
-drown 5 5 1
-stink 2 9 0
-troll 1 11 0

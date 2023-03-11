@@ -1,5 +1,0 @@
-7 9
-cider 5 1 1
-suing 2 4 1
-tutor 1 5 0
-gavel 2 8 0

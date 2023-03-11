@@ -1,5 +1,0 @@
-7 10
-tiara 4 1 1
-crank 2 5 0
-rural 3 5 1
-koala 1 8 0

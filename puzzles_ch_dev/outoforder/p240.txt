@@ -1,5 +1,0 @@
-6 8 outoforder
-agile 1 1 0
-adobe 1 1 1
-spank 5 3 1
-bicep 1 4 0

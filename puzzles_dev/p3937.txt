@@ -1,5 +1,0 @@
-7 9
-salty 5 1 1
-stray 2 2 0
-tract 1 4 0
-aisle 3 4 1

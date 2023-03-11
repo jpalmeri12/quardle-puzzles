@@ -1,5 +1,0 @@
-7 10
-fjord 4 1 1
-adorn 2 3 0
-bawdy 1 5 0
-wiser 3 5 1

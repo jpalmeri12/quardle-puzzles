@@ -1,6 +1,0 @@
-6 11 undercover
-randy 5 1 1
-bound 2 4 1
-lofty 1 5 0
-antic 1 7 0
-sweep 1 10 0

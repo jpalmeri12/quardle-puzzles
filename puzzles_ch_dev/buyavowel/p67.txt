@@ -1,5 +1,0 @@
-7 9 buyavowel
-heist 1 1 1
-smelt 1 4 0
-lying 4 4 1
-minus 2 7 0

@@ -1,5 +1,0 @@
-7 10 dblltr
-taunt 2 1 1
-undue 2 3 0
-steep 1 5 0
-exert 3 5 1

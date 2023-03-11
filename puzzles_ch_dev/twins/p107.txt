@@ -1,8 +1,0 @@
-6 8 twins
-serve 1 1 0
-plunk 1 3 0
-outgo 1 5 0
-steak 1 7 0
-!twins 0 2
-!twins 0 2
-!twins 0 4

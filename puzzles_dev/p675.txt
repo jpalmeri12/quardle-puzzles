@@ -1,5 +1,0 @@
-7 10
-growl 4 1 1
-willy 2 5 0
-warty 2 5 1
-staid 1 8 0

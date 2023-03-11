@@ -1,5 +1,0 @@
-7 9
-cross 1 1 1
-shell 1 4 0
-lathe 4 4 1
-great 2 8 0

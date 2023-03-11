@@ -1,5 +1,0 @@
-7 10 elbowroom
-quail 5 1 1
-bayou 1 2 0
-shell 2 5 0
-latte 6 5 1

@@ -1,6 +1,0 @@
-7 12 five
-conic 1 1 1
-chard 1 5 0
-heady 2 5 1
-fuzzy 5 7 1
-demur 2 8 0

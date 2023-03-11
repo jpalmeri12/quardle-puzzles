@@ -1,5 +1,0 @@
-6 8 bestfit
-askew 1 1 0
-stump 2 1 1
-kebab 5 3 1
-smoke 1 4 0

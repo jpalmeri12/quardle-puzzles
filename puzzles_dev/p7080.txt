@@ -1,5 +1,0 @@
-7 8
-shown 6 1 1
-grace 4 3 1
-straw 2 4 0
-dutch 1 6 0

@@ -1,8 +1,0 @@
-6 8 twins
-inane 1 1 0
-erode 1 3 0
-river 1 5 0
-spook 1 7 0
-!twins 0 1
-!twins 0 4
-!twins 1 2

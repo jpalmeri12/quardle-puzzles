@@ -1,5 +1,0 @@
-6 9 scrabble
-prone 1 8 0
-wrung 1 5 0
-elbow 1 1 1
-jumbo 3 4 1

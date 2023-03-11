@@ -1,5 +1,0 @@
-7 10
-triad 5 1 1
-brand 1 5 0
-neigh 4 5 1
-pried 2 7 0

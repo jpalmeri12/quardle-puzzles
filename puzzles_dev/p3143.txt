@@ -1,5 +1,0 @@
-7 9
-billy 4 1 1
-amply 1 4 0
-mauve 2 4 1
-evade 2 8 0

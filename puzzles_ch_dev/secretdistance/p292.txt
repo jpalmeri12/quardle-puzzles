@@ -1,7 +1,0 @@
-7 11 secretdistance
-chime 4 1 1
-waste 2 4 1
-easel 1 5 0
-elide 2 8 0
-least 1 10 0
-!sdpos 2 2 1 0

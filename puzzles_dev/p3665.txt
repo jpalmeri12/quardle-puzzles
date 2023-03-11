@@ -1,5 +1,0 @@
-7 8
-shore 5 1 1
-ingot 2 3 0
-iliac 2 3 1
-piece 1 5 0

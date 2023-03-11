@@ -1,5 +1,0 @@
-6 8 bestfit
-still 1 1 0
-light 5 1 1
-extol 3 3 1
-sixth 1 4 0

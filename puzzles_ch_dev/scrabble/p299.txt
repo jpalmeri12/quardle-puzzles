@@ -1,5 +1,0 @@
-7 10 scrabble
-agora 1 5 0
-arbor 5 5 1
-fella 2 1 0
-fling 2 1 1

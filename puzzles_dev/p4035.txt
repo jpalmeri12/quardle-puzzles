@@ -1,5 +1,0 @@
-6 8
-truck 4 1 1
-kneel 2 3 1
-knack 1 4 0
-clove 1 7 0

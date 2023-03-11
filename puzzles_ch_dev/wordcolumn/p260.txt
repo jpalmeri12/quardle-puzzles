@@ -1,6 +1,0 @@
-6 9 wordcolumn
-breed 5 1 1
-would 3 3 1
-score 1 4 0
-sense 1 4 1
-sadly 1 7 0

@@ -1,5 +1,0 @@
-7 9
-sinew 4 1 1
-topic 1 2 0
-break 2 4 0
-board 2 4 1

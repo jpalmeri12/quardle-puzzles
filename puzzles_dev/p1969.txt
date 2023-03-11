@@ -1,5 +1,0 @@
-6 6
-debut 1 1 0
-extra 2 1 1
-until 4 1 1
-state 1 3 0

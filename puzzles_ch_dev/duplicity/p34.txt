@@ -1,5 +1,0 @@
-7 9 duplicity
-sewer 2 1 1
-swing 2 1 0
-avian 4 4 1
-grave 1 5 0

@@ -1,5 +1,0 @@
-7 10
-sheep 5 1 1
-strip 1 5 0
-igloo 4 5 1
-pulpy 2 7 0

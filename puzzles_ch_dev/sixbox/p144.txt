@@ -1,7 +1,0 @@
-8 8 sixbox
-noose 3 1 1
-bleat 5 1 1
-chose 1 3 0
-stage 4 3 1
-staff 3 4 0
-sweat 1 5 0

@@ -1,5 +1,0 @@
-6 10 duplicity
-vigor 1 1 0
-grail 3 1 1
-valid 1 5 0
-ardor 2 5 1

@@ -1,5 +1,0 @@
-6 8 hardmode
-shrub 1 1 1
-moldy 4 3 1
-belly 1 5 0
-vinyl 1 7 0

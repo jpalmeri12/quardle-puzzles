@@ -1,5 +1,0 @@
-7 9 clockdown
-stoic 1 1 0
-cabby 5 1 1
-jumbo 2 4 0
-uncle 3 4 1

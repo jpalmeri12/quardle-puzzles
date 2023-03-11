@@ -1,5 +1,0 @@
-6 6 darkness
-sniff 1 3 0
-safer 5 1 1
-mucus 1 1 0
-missy 1 1 1

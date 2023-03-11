@@ -1,5 +1,0 @@
-7 9
-flesh 2 1 1
-essay 1 4 0
-amass 4 4 1
-nasty 2 7 0

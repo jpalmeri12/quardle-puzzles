@@ -1,5 +1,0 @@
-6 9
-crave 1 1 0
-ridge 2 1 1
-again 1 4 0
-incur 4 4 1

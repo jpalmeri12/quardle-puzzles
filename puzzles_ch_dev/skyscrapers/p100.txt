@@ -1,5 +1,0 @@
-7 9 skyscrapers
-unset 2 4 0
-sower 4 4 1
-mourn 1 8 0
-clout 2 1 1

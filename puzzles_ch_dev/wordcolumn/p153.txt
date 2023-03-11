@@ -1,6 +1,0 @@
-7 10 wordcolumn
-ultra 2 1 1
-limit 2 2 0
-harpy 1 5 0
-youth 5 5 1
-warty 2 8 0

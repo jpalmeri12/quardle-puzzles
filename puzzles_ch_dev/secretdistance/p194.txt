@@ -1,7 +1,0 @@
-7 11 secretdistance
-banjo 2 1 1
-juicy 2 4 0
-icily 4 4 1
-title 1 7 0
-synod 1 10 0
-!sdpos 0 0 0 0

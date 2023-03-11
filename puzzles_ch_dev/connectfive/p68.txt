@@ -1,6 +1,0 @@
-7 10 connectfive
-ennui 1 1 1
-slimy 5 1 1
-imply 1 5 0
-logic 4 5 1
-spice 2 8 0

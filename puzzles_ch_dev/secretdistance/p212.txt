@@ -1,7 +1,0 @@
-6 10 secretdistance
-dealt 1 1 1
-thump 4 3 1
-lithe 1 4 0
-kappa 1 7 0
-llama 1 9 0
-!sdpos 2 0 2 2

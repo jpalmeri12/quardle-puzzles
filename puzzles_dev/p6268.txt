@@ -1,5 +1,0 @@
-7 10
-guild 5 1 1
-outdo 2 5 0
-unmet 3 5 1
-nomad 1 7 0

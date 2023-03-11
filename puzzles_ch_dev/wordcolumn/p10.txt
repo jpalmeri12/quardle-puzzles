@@ -1,6 +1,0 @@
-6 9 wordcolumn
-guard 5 1 1
-abase 3 3 1
-cyber 1 4 0
-cloth 1 4 1
-tweak 1 7 0

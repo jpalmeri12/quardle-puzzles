@@ -1,5 +1,0 @@
-6 10 outoforder
-salve 1 1 1
-exile 1 5 0
-inner 3 5 1
-bingo 1 7 0

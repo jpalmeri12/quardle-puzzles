@@ -1,8 +1,0 @@
-6 8 twins
-sniff 1 1 0
-creed 1 3 0
-fatty 1 5 0
-angle 1 7 0
-!twins 1 2
-!twins 2 3
-!twins 1 2

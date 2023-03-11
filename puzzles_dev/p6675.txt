@@ -1,5 +1,0 @@
-7 9
-dance 5 1 1
-pasty 2 4 1
-ashen 2 5 0
-stole 1 7 0

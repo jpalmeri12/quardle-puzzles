@@ -1,6 +1,0 @@
-7 9 five
-girth 1 1 1
-taboo 1 4 0
-began 3 4 1
-ozone 5 4 1
-igloo 2 6 0

@@ -1,5 +1,0 @@
-7 10
-share 2 1 1
-demon 1 5 0
-mecca 3 5 1
-scram 2 7 0

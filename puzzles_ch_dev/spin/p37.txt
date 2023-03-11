@@ -1,5 +1,0 @@
-6 9 spin
-lapse 5 1 1
-visor 3 4 1
-urine 1 5 0
-shrub 1 8 0

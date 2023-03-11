@@ -1,5 +1,0 @@
-6 7 elbowroom
-femur 1 1 1
-imbue 3 2 1
-mummy 1 3 0
-route 1 5 0

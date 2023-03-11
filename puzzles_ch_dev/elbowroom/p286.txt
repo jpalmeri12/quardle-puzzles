@@ -1,5 +1,0 @@
-7 10 elbowroom
-digit 2 1 1
-gauge 2 3 0
-stork 1 5 0
-knave 5 5 1

@@ -1,5 +1,0 @@
-6 8 unloved
-drown 1 1 0
-drawl 1 1 1
-trump 4 3 1
-wharf 1 4 0

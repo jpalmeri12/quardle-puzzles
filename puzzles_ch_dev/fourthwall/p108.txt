@@ -1,7 +1,0 @@
-6 6 fourthwall
-fewer 1 1 0
-fight 1 1 1
-gleam 1 3 0
-wreak 3 1 1
-token 1 5 0
-ramen 5 1 1

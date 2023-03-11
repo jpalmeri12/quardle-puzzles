@@ -1,5 +1,0 @@
-7 10 clockdown
-tense 3 1 1
-exert 1 5 0
-rigid 4 5 1
-hydro 2 9 0

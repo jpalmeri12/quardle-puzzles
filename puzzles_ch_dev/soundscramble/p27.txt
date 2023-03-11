@@ -1,5 +1,0 @@
-6 8 soundscramble
-alarm 1 1 1
-reyal 5 3 1
-menoy 1 5 0
-oasol 1 7 0

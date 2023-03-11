@@ -1,6 +1,0 @@
-6 8 wordcolumn
-lefty 1 1 0
-focus 3 1 1
-golem 1 3 1
-mayor 5 3 1
-lusty 1 5 0

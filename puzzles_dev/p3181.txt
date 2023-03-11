@@ -1,5 +1,0 @@
-7 10
-mayor 4 1 1
-dryer 2 3 0
-spire 1 5 0
-patio 2 5 1

@@ -1,5 +1,0 @@
-7 8 dblltr
-penne 2 1 1
-drill 4 3 1
-nerve 2 4 0
-eagle 1 7 0

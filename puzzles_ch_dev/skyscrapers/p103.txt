@@ -1,5 +1,0 @@
-7 8 skyscrapers
-unlit 3 1 1
-elide 2 3 0
-doubt 5 3 1
-admit 1 7 0

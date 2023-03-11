@@ -1,5 +1,0 @@
-7 9
-twine 5 1 1
-salvo 3 4 1
-wager 2 5 0
-raven 1 7 0

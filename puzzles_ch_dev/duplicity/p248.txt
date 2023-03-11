@@ -1,5 +1,0 @@
-7 9 duplicity
-brute 2 1 1
-steed 1 4 0
-debut 5 4 1
-rebus 2 7 0

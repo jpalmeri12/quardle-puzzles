@@ -1,5 +1,0 @@
-7 10
-curve 1 1 1
-ensue 1 5 0
-ultra 4 5 1
-antic 2 7 0

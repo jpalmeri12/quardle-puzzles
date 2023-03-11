@@ -1,5 +1,0 @@
-6 9 sweeper
-offer 1 1 1
-ether 1 4 0
-honey 3 4 1
-glean 1 7 0

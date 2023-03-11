@@ -1,5 +1,0 @@
-7 9 swap
-fbire 4 1 1
-obsom 2 4 1
-bgeat 2 5 0
-mmumy 1 8 0

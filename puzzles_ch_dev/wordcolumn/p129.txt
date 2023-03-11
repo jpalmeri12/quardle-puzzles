@@ -1,6 +1,0 @@
-7 10 wordcolumn
-cress 2 1 1
-lying 6 2 1
-scorn 2 5 0
-clout 3 5 1
-whoop 1 7 0

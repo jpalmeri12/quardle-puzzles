@@ -1,5 +1,0 @@
-7 9 swap
-ailbi 4 1 1
-eyign 2 2 0
-bilbe 1 4 0
-ilvid 2 4 1

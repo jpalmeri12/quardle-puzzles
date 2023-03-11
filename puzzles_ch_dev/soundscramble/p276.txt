@@ -1,5 +1,0 @@
-7 10 soundscramble
-tunec 4 1 1
-afoul 1 2 0
-nechi 2 5 0
-noesi 2 5 1

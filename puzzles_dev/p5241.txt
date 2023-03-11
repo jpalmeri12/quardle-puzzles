@@ -1,5 +1,0 @@
-7 9
-tally 2 1 1
-orbit 5 4 1
-cyber 1 5 0
-belie 2 7 0

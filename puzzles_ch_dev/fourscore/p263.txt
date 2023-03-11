@@ -1,5 +1,0 @@
-7 10 fourscore
-grant 6 1 1
-print 2 5 0
-rotor 3 5 1
-stony 1 8 0

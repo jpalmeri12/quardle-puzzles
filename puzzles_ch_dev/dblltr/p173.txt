@@ -1,5 +1,0 @@
-6 10 dblltr
-basis 1 1 1
-sieve 1 5 0
-icily 2 5 1
-linen 1 7 0

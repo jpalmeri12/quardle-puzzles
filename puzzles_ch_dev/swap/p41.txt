@@ -1,5 +1,0 @@
-7 10 swap
-smakc 3 1 1
-rcack 2 5 0
-rgill 2 5 1
-blepe 1 8 0

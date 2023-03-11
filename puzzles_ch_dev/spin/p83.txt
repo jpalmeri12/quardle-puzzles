@@ -1,5 +1,0 @@
-7 9 spin
-avert 1 1 1
-blade 4 4 1
-table 1 5 0
-elder 2 7 0

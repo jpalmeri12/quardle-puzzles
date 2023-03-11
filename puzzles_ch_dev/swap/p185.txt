@@ -1,5 +1,0 @@
-6 9 swap
-wooyl 1 1 1
-ycber 1 4 0
-rdead 5 4 1
-glema 1 7 0

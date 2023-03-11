@@ -1,5 +1,0 @@
-7 8 fourscore
-mayor 5 1 1
-abase 2 3 1
-wager 1 5 0
-equal 2 7 0

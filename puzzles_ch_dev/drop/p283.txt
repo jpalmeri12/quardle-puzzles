@@ -1,6 +1,0 @@
-7 9 drop
-heard 2 1 1
-reedy 1 2 0
-daunt 4 2 1
-diner 2 5 0
-dairy 1 8 0

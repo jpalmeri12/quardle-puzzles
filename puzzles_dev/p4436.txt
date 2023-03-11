@@ -1,5 +1,0 @@
-6 9
-noose 5 1 1
-sleet 3 4 1
-valve 1 5 0
-hitch 1 8 0

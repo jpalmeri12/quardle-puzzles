@@ -1,5 +1,0 @@
-7 10 spaced
-fluid 2 1 1
-diary 2 5 0
-renal 5 5 1
-cairn 1 7 0

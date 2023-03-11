@@ -1,6 +1,0 @@
-6 8 island
-vinyl 1 1 0
-lodge 5 1 1
-alarm 2 3 1
-fling 1 4 0
-!island 11111 221 1111 2111

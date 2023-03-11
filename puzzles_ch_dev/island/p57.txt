@@ -1,6 +1,0 @@
-7 10 island
-outgo 5 1 1
-igloo 1 5 0
-ghoul 2 5 1
-olive 2 7 0
-!island 211 31 32 311

@@ -1,5 +1,0 @@
-7 7
-twirl 4 1 1
-newer 2 2 0
-novel 2 2 1
-ovary 1 4 0

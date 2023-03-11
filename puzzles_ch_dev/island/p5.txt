@@ -1,6 +1,0 @@
-6 9 island
-terse 4 1 1
-unwed 1 2 0
-gloss 1 4 0
-libel 2 4 1
-!island 4 311 211 1111

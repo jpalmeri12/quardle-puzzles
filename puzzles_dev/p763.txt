@@ -1,5 +1,0 @@
-7 10
-hardy 5 1 1
-tonal 2 2 0
-wimpy 1 5 0
-ionic 2 5 1

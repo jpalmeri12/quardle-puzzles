@@ -1,5 +1,0 @@
-7 9 darkness
-ethos 1 1 1
-fjord 2 7 0
-ingot 4 4 1
-scone 1 5 0

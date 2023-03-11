@@ -1,5 +1,0 @@
-7 10 darkness
-petty 1 2 0
-liner 2 5 0
-rogue 6 5 1
-devil 2 1 1

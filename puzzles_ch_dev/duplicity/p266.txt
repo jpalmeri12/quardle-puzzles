@@ -1,5 +1,0 @@
-7 10 duplicity
-taste 4 1 1
-onset 1 5 0
-saner 3 5 1
-snort 2 7 0

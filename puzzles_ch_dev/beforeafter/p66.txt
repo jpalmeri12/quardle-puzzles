@@ -1,9 +1,0 @@
-7 8 beforeafter
-probe 5 1 1
-preen 2 3 1
-rumba 2 4 0
-unwed 1 7 0
-!beforeafter 2 n
-!beforeafter 1 o
-!beforeafter 2 i
-!beforeafter 2 i

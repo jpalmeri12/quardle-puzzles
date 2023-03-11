@@ -1,5 +1,0 @@
-7 10
-sonar 2 1 1
-nylon 2 3 0
-drawn 1 5 0
-argue 3 5 1

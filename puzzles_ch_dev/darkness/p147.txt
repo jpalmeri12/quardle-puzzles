@@ -1,5 +1,0 @@
-6 8 darkness
-bicep 1 1 1
-caper 1 3 0
-rodeo 5 3 1
-pried 1 5 0

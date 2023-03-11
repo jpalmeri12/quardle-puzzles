@@ -1,5 +1,0 @@
-7 9
-crept 2 1 1
-coupe 2 1 0
-apple 1 4 0
-lusty 4 4 1

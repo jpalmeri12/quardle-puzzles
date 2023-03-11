@@ -1,5 +1,0 @@
-7 7
-tonic 3 1 1
-pooch 2 2 0
-clank 5 2 1
-china 1 4 0

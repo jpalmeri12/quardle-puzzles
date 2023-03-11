@@ -1,5 +1,0 @@
-7 8 buyavowel
-bless 1 1 0
-salve 5 1 1
-dwelt 2 3 0
-dolly 2 3 1

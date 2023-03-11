@@ -1,5 +1,0 @@
-6 7 darkness
-feral 1 2 0
-arrow 4 2 1
-femur 2 1 1
-armor 1 5 0

@@ -1,5 +1,0 @@
-7 9 fourscore
-scare 1 1 0
-refer 4 1 1
-gassy 2 4 1
-aorta 2 5 0

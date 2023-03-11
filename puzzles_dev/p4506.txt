@@ -1,5 +1,0 @@
-7 10
-sweet 2 1 1
-woken 2 2 0
-stark 1 5 0
-awash 3 5 1

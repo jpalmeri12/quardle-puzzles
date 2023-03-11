@@ -1,5 +1,0 @@
-6 10
-timer 1 1 0
-erase 4 1 1
-bagel 1 5 0
-blame 1 5 1

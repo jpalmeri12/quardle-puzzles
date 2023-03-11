@@ -1,5 +1,0 @@
-6 10 outoforder
-viral 3 1 1
-guile 1 2 0
-tilde 1 5 0
-talon 1 5 1

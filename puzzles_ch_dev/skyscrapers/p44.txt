@@ -1,5 +1,0 @@
-7 10 skyscrapers
-uncle 2 5 0
-raven 3 1 1
-flask 1 2 0
-lorry 5 5 1

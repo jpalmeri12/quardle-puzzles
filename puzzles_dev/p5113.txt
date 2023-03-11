@@ -1,5 +1,0 @@
-7 9
-equal 1 1 0
-lumen 5 1 1
-ulcer 2 4 0
-lemon 3 4 1

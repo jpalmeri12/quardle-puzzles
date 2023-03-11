@@ -1,9 +1,0 @@
-7 10 beforeafter
-bison 2 1 0
-spill 4 1 1
-clasp 1 5 1
-chalk 1 5 0
-!beforeafter 1 j
-!beforeafter 1 n
-!beforeafter 2 o
-!beforeafter 2 j

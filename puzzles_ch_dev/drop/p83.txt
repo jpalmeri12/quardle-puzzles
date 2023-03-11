@@ -1,6 +1,0 @@
-6 10 drop
-polyp 5 1 1
-table 2 3 1
-hairy 1 4 0
-nerdy 1 7 0
-pithy 1 9 0

@@ -1,5 +1,0 @@
-7 9 desync
-third 1 1 1
-skill 5 4 1
-drunk 1 5 0
-bully 2 7 0

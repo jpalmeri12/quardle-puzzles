@@ -1,5 +1,0 @@
-6 7 swap
-colno 2 1 1
-boxre 1 2 0
-rzaor 4 2 1
-snial 1 4 0

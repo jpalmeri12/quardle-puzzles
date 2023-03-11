@@ -1,5 +1,0 @@
-7 8 spin
-vocal 3 1 1
-scale 2 3 0
-local 5 3 1
-lilac 1 5 0

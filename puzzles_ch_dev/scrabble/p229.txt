@@ -1,5 +1,0 @@
-6 7 scrabble
-trite 5 1 1
-prune 1 2 1
-unfit 1 4 0
-paper 1 2 0

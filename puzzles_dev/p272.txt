@@ -1,5 +1,0 @@
-7 10
-wheat 1 1 0
-title 5 1 1
-seven 2 5 0
-vivid 4 5 1

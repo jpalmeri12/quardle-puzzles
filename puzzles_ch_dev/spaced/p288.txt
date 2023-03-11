@@ -1,5 +1,0 @@
-6 10 spaced
-raven 4 1 1
-tweak 1 2 0
-crane 1 5 0
-aglow 3 5 1

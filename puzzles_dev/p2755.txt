@@ -1,5 +1,0 @@
-6 9
-vying 3 1 1
-dryly 1 2 0
-canny 1 4 0
-clued 1 4 1

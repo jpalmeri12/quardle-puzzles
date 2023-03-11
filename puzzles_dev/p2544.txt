@@ -1,5 +1,0 @@
-7 9
-heave 1 1 1
-vicar 1 4 0
-rural 5 4 1
-nomad 2 7 0

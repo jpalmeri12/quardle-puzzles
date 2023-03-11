@@ -1,5 +1,0 @@
-6 7 darkness
-crowd 5 2 1
-turbo 1 4 0
-spite 1 1 1
-pubic 1 2 0

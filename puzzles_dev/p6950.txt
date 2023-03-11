@@ -1,5 +1,0 @@
-7 9
-erase 4 1 1
-churn 1 2 0
-poser 2 4 0
-raspy 6 4 1

@@ -1,5 +1,0 @@
-7 9
-awful 1 1 0
-large 5 1 1
-slept 2 4 1
-leper 2 5 0

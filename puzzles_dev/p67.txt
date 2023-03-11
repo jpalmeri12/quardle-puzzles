@@ -1,5 +1,0 @@
-7 10
-serum 4 1 1
-hotel 1 2 0
-jumbo 2 5 0
-blunt 5 5 1

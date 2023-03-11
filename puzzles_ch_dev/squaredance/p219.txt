@@ -1,6 +1,0 @@
-6 8 squaredance
-chair 1 1 1
-purge 5 1 1
-crump 1 1 0
-rouge 1 5 0
-roast 1 7 0

@@ -1,5 +1,0 @@
-6 9 sweeper
-purge 1 1 0
-unzip 2 1 1
-width 1 4 0
-hefty 5 4 1

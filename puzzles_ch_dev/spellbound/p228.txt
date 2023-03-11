@@ -1,9 +1,0 @@
-7 10 spellbound
-doing 5 1 1
-folio 1 2 0
-dodge 2 5 0
-duvet 4 5 1
-!spellbound 0 0 2
-!spellbound 1 2 1
-!spellbound 2 4 0
-!spellbound 3 3 4

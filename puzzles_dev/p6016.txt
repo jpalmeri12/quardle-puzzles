@@ -1,5 +1,0 @@
-7 8
-debut 2 1 1
-daunt 2 1 0
-ovary 4 3 1
-steal 1 5 0

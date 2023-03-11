@@ -1,5 +1,0 @@
-6 7 unloved
-defer 4 1 1
-asset 1 2 0
-adorn 1 2 1
-oaken 1 4 0

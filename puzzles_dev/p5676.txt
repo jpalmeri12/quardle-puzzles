@@ -1,5 +1,0 @@
-6 10
-shave 4 1 1
-panel 1 5 0
-amass 2 5 1
-cacao 1 7 0

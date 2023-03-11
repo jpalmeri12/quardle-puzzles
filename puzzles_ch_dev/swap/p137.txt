@@ -1,5 +1,0 @@
-7 10 swap
-abvoe 4 1 1
-awive 1 3 0
-hiest 2 5 0
-hwere 2 5 1

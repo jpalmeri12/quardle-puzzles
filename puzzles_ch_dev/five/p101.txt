@@ -1,6 +1,0 @@
-7 10 five
-curve 3 1 1
-buddy 2 5 1
-befit 2 5 0
-foggy 4 5 1
-adage 1 7 0

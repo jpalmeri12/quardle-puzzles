@@ -1,5 +1,0 @@
-7 10
-berth 1 1 0
-relay 3 1 1
-lyric 2 5 0
-clove 6 5 1

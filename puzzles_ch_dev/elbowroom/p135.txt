@@ -1,5 +1,0 @@
-7 9 elbowroom
-twirl 4 1 1
-snowy 1 2 0
-admit 2 4 1
-dully 2 5 0

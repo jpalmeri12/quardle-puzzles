@@ -1,6 +1,0 @@
-7 12 undercover
-lingo 2 1 1
-igloo 2 2 0
-north 1 5 0
-hatch 5 5 1
-puppy 1 11 0

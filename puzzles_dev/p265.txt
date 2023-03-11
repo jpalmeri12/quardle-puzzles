@@ -1,5 +1,0 @@
-7 9
-zebra 4 1 1
-sleep 1 2 0
-spasm 2 4 1
-plain 2 5 0

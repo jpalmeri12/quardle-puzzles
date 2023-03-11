@@ -1,5 +1,0 @@
-7 9 unloved
-willy 5 1 1
-opera 3 4 1
-empty 1 5 0
-gruff 2 7 0

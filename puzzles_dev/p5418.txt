@@ -1,5 +1,0 @@
-7 9
-rally 6 1 1
-hotel 2 4 0
-ocean 3 4 1
-sheen 1 6 0

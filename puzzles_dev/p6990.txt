@@ -1,5 +1,0 @@
-6 10
-urine 5 1 1
-defer 1 2 0
-store 1 5 0
-sweat 1 5 1

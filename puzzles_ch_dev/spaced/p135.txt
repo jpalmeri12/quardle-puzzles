@@ -1,5 +1,0 @@
-7 9 spaced
-logic 4 1 1
-cloth 2 2 0
-price 2 4 1
-prick 1 5 0

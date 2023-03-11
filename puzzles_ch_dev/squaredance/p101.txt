@@ -1,6 +1,0 @@
-6 8 squaredance
-tumor 1 1 1
-ester 5 1 1
-tithe 1 1 0
-rover 1 5 0
-glint 1 7 0

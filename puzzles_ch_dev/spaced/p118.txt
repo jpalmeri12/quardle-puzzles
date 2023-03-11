@@ -1,5 +1,0 @@
-6 8 spaced
-binge 1 1 1
-gaudy 3 3 1
-grant 1 4 0
-royal 1 7 0

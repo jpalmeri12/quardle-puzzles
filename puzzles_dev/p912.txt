@@ -1,5 +1,0 @@
-7 10
-wheat 5 1 1
-stone 1 3 0
-quote 2 5 0
-erupt 6 5 1

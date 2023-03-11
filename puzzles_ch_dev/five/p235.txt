@@ -1,6 +1,0 @@
-7 9 five
-tiara 1 1 0
-idler 2 1 1
-renew 4 1 1
-grail 6 4 1
-rower 2 5 0

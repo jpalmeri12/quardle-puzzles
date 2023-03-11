@@ -1,5 +1,0 @@
-6 9 fourscore
-wager 4 1 1
-alley 1 4 0
-lapel 2 4 1
-clown 1 8 0

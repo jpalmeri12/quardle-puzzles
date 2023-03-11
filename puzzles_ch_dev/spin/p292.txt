@@ -1,5 +1,0 @@
-7 8 spin
-color 5 1 1
-guilt 2 3 0
-unity 3 3 1
-friar 1 5 0

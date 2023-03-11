@@ -1,5 +1,0 @@
-6 6 unloved
-creed 1 1 1
-unset 3 1 1
-range 1 2 0
-exert 1 4 0

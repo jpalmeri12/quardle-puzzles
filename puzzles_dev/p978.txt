@@ -1,5 +1,0 @@
-6 9
-banal 1 1 1
-abled 1 4 0
-leafy 3 4 1
-hefty 1 7 0

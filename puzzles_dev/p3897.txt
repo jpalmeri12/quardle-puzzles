@@ -1,5 +1,0 @@
-7 10
-parer 3 1 1
-merge 1 3 0
-price 2 5 0
-payer 2 5 1

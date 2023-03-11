@@ -1,5 +1,0 @@
-7 7 soundscramble
-turba 1 1 0
-boyau 4 1 1
-visto 6 2 1
-shunt 2 5 0

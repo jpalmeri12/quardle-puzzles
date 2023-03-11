@@ -1,5 +1,0 @@
-6 10
-clash 5 1 1
-manga 1 3 0
-sixth 1 5 0
-truly 4 5 1

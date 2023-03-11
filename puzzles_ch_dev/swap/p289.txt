@@ -1,5 +1,0 @@
-7 10 swap
-umbar 5 1 1
-dreby 2 3 0
-imser 1 5 0
-eivct 4 5 1

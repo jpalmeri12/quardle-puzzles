@@ -1,9 +1,0 @@
-6 8 beforeafter
-psalm 1 1 0
-spree 2 1 1
-lyric 5 3 1
-geeky 1 4 0
-!beforeafter 1 o
-!beforeafter 2 o
-!beforeafter 2 j
-!beforeafter 2 j

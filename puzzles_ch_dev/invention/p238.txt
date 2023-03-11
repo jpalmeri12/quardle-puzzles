@@ -1,5 +1,0 @@
-7 9 invention
-grunt 2 1 1
-river 2 2 0
-known 1 4 0
-night 5 4 1

@@ -1,5 +1,0 @@
-7 9 spaced
-smock 2 1 0
-other 4 1 1
-bowel 1 4 0
-blush 1 4 1

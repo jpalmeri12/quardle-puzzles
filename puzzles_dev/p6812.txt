@@ -1,5 +1,0 @@
-6 8
-drake 1 1 1
-china 3 3 1
-edify 1 5 0
-charm 1 7 0

@@ -1,6 +1,0 @@
-7 9 connectfive
-bride 4 1 1
-credo 2 2 1
-fruit 1 3 0
-etude 6 4 1
-dwelt 2 5 0

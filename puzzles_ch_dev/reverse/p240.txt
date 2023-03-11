@@ -1,5 +1,0 @@
-7 8 reverse
-lease 3 1 1
-laner 2 3 0
-eagle 5 3 1
-eseeg 1 5 0

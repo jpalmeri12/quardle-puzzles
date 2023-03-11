@@ -1,5 +1,0 @@
-6 9 frequency
-satin 1 1 0
-agora 2 1 1
-snail 5 4 1
-basin 1 5 0

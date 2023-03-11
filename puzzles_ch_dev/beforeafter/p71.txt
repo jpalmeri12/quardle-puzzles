@@ -1,9 +1,0 @@
-7 10 beforeafter
-strip 5 1 1
-tramp 1 5 0
-music 4 5 1
-mossy 2 7 0
-!beforeafter 2 q
-!beforeafter 1 q
-!beforeafter 2 j
-!beforeafter 1 q

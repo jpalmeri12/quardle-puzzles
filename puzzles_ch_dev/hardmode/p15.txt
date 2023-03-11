@@ -1,5 +1,0 @@
-7 10 hardmode
-fungi 4 1 1
-afire 2 5 0
-filet 3 5 1
-pulpy 1 7 0

@@ -1,5 +1,0 @@
-7 7 clockdown
-eclat 1 1 0
-crush 2 1 1
-slimy 6 2 1
-harem 2 5 0

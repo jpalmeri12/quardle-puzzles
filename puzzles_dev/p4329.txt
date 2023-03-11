@@ -1,5 +1,0 @@
-6 7
-alien 5 1 1
-surly 1 2 1
-snail 1 2 0
-rogue 1 4 0

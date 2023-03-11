@@ -1,6 +1,0 @@
-7 10 connectfive
-rifle 4 1 1
-medal 2 2 1
-avert 2 5 0
-roger 5 5 1
-incur 1 9 0

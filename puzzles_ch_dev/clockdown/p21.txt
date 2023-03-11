@@ -1,5 +1,0 @@
-7 10 clockdown
-soggy 6 1 1
-hobby 2 5 0
-brine 4 5 1
-visit 1 7 0

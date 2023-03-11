@@ -1,6 +1,0 @@
-7 12 undercover
-chick 5 1 1
-remit 2 3 0
-creek 1 5 0
-rigor 2 5 1
-palsy 1 11 0

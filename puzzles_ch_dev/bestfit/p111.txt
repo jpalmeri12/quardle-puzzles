@@ -1,5 +1,0 @@
-7 10 bestfit
-crick 1 1 0
-khaki 5 1 1
-email 2 5 0
-alone 4 5 1

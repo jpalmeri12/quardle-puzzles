@@ -1,5 +1,0 @@
-7 8 elbowroom
-brown 1 1 1
-dying 5 3 1
-wispy 1 4 0
-gouge 2 7 0

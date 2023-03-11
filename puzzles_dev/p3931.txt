@@ -1,5 +1,0 @@
-7 10
-recut 2 1 0
-clout 4 1 1
-quoth 1 5 0
-quota 1 5 1

@@ -1,5 +1,0 @@
-7 9 buyavowel
-sonic 1 1 1
-retch 3 4 1
-check 1 5 0
-acute 2 7 0

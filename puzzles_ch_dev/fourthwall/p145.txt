@@ -1,7 +1,0 @@
-6 6 fourthwall
-chafe 1 1 0
-caper 1 1 1
-paint 1 3 0
-axiom 3 1 1
-rumor 1 5 0
-ester 5 1 1

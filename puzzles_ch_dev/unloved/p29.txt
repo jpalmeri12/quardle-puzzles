@@ -1,5 +1,0 @@
-7 10 unloved
-occur 1 1 1
-rumba 1 5 0
-unset 2 5 1
-solve 2 7 0

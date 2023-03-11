@@ -1,5 +1,0 @@
-6 6
-begat 1 1 0
-basic 1 1 1
-grime 3 1 1
-crept 1 5 0

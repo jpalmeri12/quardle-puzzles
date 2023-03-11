@@ -1,5 +1,0 @@
-7 9
-sheet 4 1 1
-facet 2 4 1
-saute 1 5 0
-enter 2 7 0

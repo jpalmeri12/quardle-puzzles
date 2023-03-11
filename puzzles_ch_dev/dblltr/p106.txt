@@ -1,5 +1,0 @@
-6 9 dblltr
-genre 2 1 1
-arbor 1 4 0
-octet 4 4 1
-ester 1 7 0

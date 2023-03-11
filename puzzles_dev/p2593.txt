@@ -1,5 +1,0 @@
-7 10
-giver 3 1 1
-ditto 2 2 0
-forum 1 5 0
-modal 5 5 1

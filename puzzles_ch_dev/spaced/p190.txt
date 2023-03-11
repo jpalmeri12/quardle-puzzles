@@ -1,5 +1,0 @@
-7 8 spaced
-bigot 5 1 1
-rouge 2 3 0
-radio 2 3 1
-admit 1 5 0

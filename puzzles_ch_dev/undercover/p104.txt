@@ -1,6 +1,0 @@
-6 10 undercover
-odder 5 1 1
-lunar 3 3 1
-prune 1 4 0
-forth 1 7 0
-missy 1 9 0

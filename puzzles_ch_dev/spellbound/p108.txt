@@ -1,9 +1,0 @@
-6 9 spellbound
-abyss 1 1 0
-sixty 5 1 1
-spent 1 4 0
-puffy 2 4 1
-!spellbound 0 2 0
-!spellbound 1 1 4
-!spellbound 2 2 0
-!spellbound 3 4 2

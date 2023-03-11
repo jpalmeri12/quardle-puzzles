@@ -1,9 +1,0 @@
-6 7 spellbound
-minus 4 1 1
-again 1 2 0
-groom 2 2 1
-horse 1 5 0
-!spellbound 0 0 3
-!spellbound 1 2 0
-!spellbound 2 2 4
-!spellbound 3 0 4

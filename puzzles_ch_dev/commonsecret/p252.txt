@@ -1,6 +1,0 @@
-7 10 commonsecret
-twirl 2 1 0
-retry 5 1 1
-sixty 1 5 0
-stark 1 5 1
-!secret t

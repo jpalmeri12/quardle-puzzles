@@ -1,5 +1,0 @@
-6 10
-rayon 1 1 0
-ovine 4 1 1
-lapel 1 5 0
-ascot 2 5 1

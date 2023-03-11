@@ -1,5 +1,0 @@
-7 9
-scoop 1 1 0
-obese 4 1 1
-unset 2 4 0
-unzip 2 4 1

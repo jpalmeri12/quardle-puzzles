@@ -1,5 +1,0 @@
-6 9
-renew 2 1 1
-dairy 4 4 1
-sweat 1 5 0
-snarl 1 7 0

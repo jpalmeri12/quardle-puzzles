@@ -1,5 +1,0 @@
-6 10 fourscore
-beast 3 1 1
-matey 1 5 0
-agent 2 5 1
-refer 1 7 0

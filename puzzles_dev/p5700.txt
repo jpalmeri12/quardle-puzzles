@@ -1,5 +1,0 @@
-7 10
-solve 2 1 1
-sulky 2 1 0
-fever 1 5 0
-envoy 4 5 1

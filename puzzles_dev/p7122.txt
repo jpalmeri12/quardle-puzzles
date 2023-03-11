@@ -1,5 +1,0 @@
-7 9
-aunty 2 1 1
-stale 1 4 0
-eaten 5 4 1
-camel 2 7 0

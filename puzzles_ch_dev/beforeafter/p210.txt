@@ -1,9 +1,0 @@
-7 9 beforeafter
-fiery 5 1 1
-ghoul 2 4 1
-glory 2 4 0
-punch 1 7 0
-!beforeafter 2 k
-!beforeafter 1 i
-!beforeafter 2 p
-!beforeafter 2 m

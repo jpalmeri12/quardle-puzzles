@@ -1,5 +1,0 @@
-6 10
-defer 2 1 1
-front 1 5 0
-taste 5 5 1
-heist 1 8 0

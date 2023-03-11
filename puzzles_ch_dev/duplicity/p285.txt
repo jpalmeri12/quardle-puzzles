@@ -1,5 +1,0 @@
-6 8 duplicity
-draft 1 1 1
-dirge 1 1 0
-adage 5 3 1
-fetid 1 4 0

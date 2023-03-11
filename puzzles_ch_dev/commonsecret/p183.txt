@@ -1,6 +1,0 @@
-6 10 commonsecret
-quasi 4 1 1
-briar 1 3 0
-genie 1 5 0
-nicer 3 5 1
-!secret i

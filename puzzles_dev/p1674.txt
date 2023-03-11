@@ -1,5 +1,0 @@
-6 10
-venue 5 1 1
-chime 1 5 0
-mealy 4 5 1
-ankle 1 8 0

@@ -1,6 +1,0 @@
-7 11 undercover
-offal 2 1 1
-amply 2 4 0
-picky 4 4 1
-snake 1 7 0
-truth 1 10 0

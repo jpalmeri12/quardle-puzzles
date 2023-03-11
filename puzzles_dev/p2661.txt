@@ -1,5 +1,0 @@
-7 7
-theme 5 1 1
-flock 2 2 1
-fight 2 2 0
-scale 1 5 0

@@ -1,6 +1,0 @@
-7 9 commonsecret
-clamp 2 1 1
-lemur 2 2 0
-smack 1 4 0
-crimp 4 4 1
-!secret m

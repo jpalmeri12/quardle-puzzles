@@ -1,5 +1,0 @@
-7 10 spin
-bring 2 1 1
-revel 2 2 0
-agate 1 5 0
-tried 4 5 1

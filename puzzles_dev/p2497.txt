@@ -1,5 +1,0 @@
-6 10
-ethic 1 1 1
-horse 1 3 0
-charm 1 5 0
-hefty 2 5 1

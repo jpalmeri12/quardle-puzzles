@@ -1,5 +1,0 @@
-7 7 scrabble
-nurse 2 5 0
-drier 4 1 1
-basil 1 3 0
-nanny 2 2 1

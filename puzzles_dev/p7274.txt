@@ -1,5 +1,0 @@
-7 10
-welsh 4 1 1
-valet 2 3 0
-cache 1 5 0
-chute 3 5 1

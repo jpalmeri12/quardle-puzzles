@@ -1,7 +1,0 @@
-8 8 sixbox
-lance 3 1 1
-break 5 1 1
-hence 1 3 0
-chirp 4 3 1
-chair 3 4 0
-sheik 1 5 0

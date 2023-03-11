@@ -1,5 +1,0 @@
-6 7 scrabble
-learn 3 2 1
-swill 5 1 1
-shawl 1 4 0
-bylaw 1 2 0

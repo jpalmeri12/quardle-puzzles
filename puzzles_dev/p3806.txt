@@ -1,5 +1,0 @@
-7 8
-solar 5 1 1
-hello 2 3 0
-hover 2 3 1
-fritz 1 7 0

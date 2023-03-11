@@ -1,5 +1,0 @@
-7 10
-lefty 4 1 1
-swift 1 3 0
-mayor 2 5 0
-oaken 5 5 1

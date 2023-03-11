@@ -1,5 +1,0 @@
-7 9
-hitch 4 1 1
-attic 1 2 0
-macaw 2 4 0
-madam 2 4 1

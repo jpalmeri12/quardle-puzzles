@@ -1,5 +1,0 @@
-6 6
-spine 2 1 1
-poser 4 1 1
-apron 1 2 0
-annex 1 4 0

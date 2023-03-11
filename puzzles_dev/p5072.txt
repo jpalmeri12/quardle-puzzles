@@ -1,5 +1,0 @@
-7 10
-angle 4 1 1
-annoy 2 2 0
-giver 1 5 0
-gaunt 1 5 1

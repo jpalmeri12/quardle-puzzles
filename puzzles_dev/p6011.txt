@@ -1,5 +1,0 @@
-7 8
-agent 2 1 1
-vowel 4 3 1
-snoop 1 4 0
-dally 2 7 0

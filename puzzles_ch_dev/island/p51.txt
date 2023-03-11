@@ -1,6 +1,0 @@
-7 7 island
-atone 4 1 1
-aloud 2 2 1
-artsy 2 2 0
-young 1 4 0
-!island 11111 2111 32 311

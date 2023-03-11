@@ -1,5 +1,0 @@
-7 8
-dense 3 1 1
-snake 2 3 0
-kappa 5 3 1
-plaza 1 7 0

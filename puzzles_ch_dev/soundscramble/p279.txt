@@ -1,5 +1,0 @@
-6 10 soundscramble
-jueci 1 1 1
-juecy 1 1 0
-ixact 1 5 0
-thisi 5 5 1

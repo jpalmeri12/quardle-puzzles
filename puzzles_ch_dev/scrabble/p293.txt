@@ -1,5 +1,0 @@
-6 9 scrabble
-tripe 4 4 1
-final 2 1 1
-fatty 1 4 0
-waxen 1 8 0

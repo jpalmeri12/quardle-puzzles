@@ -1,6 +1,0 @@
-6 10 undercover
-usher 1 1 0
-small 2 1 1
-spicy 4 3 1
-slept 1 4 0
-known 1 9 0

@@ -1,9 +1,0 @@
-7 9 spellbound
-synod 4 1 1
-thyme 2 2 0
-stake 1 4 1
-trade 1 5 0
-!spellbound 0 0 3
-!spellbound 1 0 4
-!spellbound 2 4 0
-!spellbound 3 2 1

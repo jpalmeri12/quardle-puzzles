@@ -1,5 +1,0 @@
-6 6 unloved
-eject 1 1 1
-spook 4 1 1
-jumpy 1 2 0
-colon 1 4 0

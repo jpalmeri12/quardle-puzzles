@@ -1,5 +1,0 @@
-7 10
-crypt 1 1 0
-pound 4 1 1
-undue 2 5 0
-eclat 6 5 1

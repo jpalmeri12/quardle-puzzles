@@ -1,6 +1,0 @@
-7 9 island
-renew 2 1 1
-usurp 5 4 1
-whose 2 5 0
-refer 1 7 0
-!island 31 1111 311 3

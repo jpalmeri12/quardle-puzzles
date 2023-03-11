@@ -1,7 +1,0 @@
-6 6 fourthwall
-birch 1 1 0
-bonus 1 1 1
-nasal 1 3 0
-riser 3 1 1
-scree 1 5 0
-halve 5 1 1

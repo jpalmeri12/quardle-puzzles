@@ -1,5 +1,0 @@
-6 8 clockdown
-rinse 1 1 1
-refer 1 1 0
-heart 3 3 1
-steer 1 4 0

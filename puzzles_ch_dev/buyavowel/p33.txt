@@ -1,5 +1,0 @@
-7 8 buyavowel
-tawny 2 1 0
-would 4 1 1
-spade 2 3 1
-apple 1 4 0

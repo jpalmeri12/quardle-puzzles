@@ -1,5 +1,0 @@
-6 9 darkness
-gypsy 5 4 1
-bless 1 7 0
-dutch 1 1 1
-hilly 1 5 0

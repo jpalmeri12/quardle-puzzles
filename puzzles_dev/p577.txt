@@ -1,5 +1,0 @@
-6 8
-oddly 1 1 1
-order 1 1 0
-proof 5 3 1
-loser 1 4 0

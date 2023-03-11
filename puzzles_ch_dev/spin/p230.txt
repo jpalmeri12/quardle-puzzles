@@ -1,5 +1,0 @@
-6 9 spin
-floss 1 1 1
-liege 1 2 0
-shuck 1 4 0
-kayak 5 4 1

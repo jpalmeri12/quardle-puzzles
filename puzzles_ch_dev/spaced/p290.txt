@@ -1,5 +1,0 @@
-7 9 spaced
-plate 5 1 1
-aisle 2 4 1
-amity 2 4 0
-slang 1 7 0

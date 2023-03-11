@@ -1,5 +1,0 @@
-7 9 hardmode
-ghost 1 1 0
-outgo 3 1 1
-pluck 6 4 1
-motel 2 5 0

@@ -1,7 +1,0 @@
-7 11 secretdistance
-straw 2 1 0
-third 3 1 1
-moral 1 4 0
-lunge 5 4 1
-drawn 1 10 0
-!sdpos 3 3 2 0

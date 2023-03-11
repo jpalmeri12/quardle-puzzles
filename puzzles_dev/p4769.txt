@@ -1,5 +1,0 @@
-7 10
-pause 4 1 1
-riser 1 5 0
-iliac 2 5 1
-apple 2 8 0

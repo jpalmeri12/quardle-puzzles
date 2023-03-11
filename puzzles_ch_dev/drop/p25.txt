@@ -1,6 +1,0 @@
-6 12 drop
-broth 2 1 1
-donor 1 3 0
-cheat 1 5 0
-avoid 4 5 1
-acorn 1 11 0

@@ -1,6 +1,0 @@
-7 12 wordcolumn
-flour 6 1 1
-humor 2 5 0
-moist 4 5 1
-pubic 1 7 0
-utile 2 7 1

@@ -1,5 +1,0 @@
-7 7 soundscramble
-slaap 3 1 1
-solod 1 2 0
-dreod 5 2 1
-hatel 2 4 0

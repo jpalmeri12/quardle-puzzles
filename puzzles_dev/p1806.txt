@@ -1,5 +1,0 @@
-6 9
-shirt 4 1 1
-crime 2 4 1
-fritz 1 5 0
-smite 1 7 0

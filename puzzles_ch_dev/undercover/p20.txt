@@ -1,6 +1,0 @@
-6 12 undercover
-shawl 2 1 1
-chart 1 2 0
-clink 1 5 0
-cause 1 5 1
-foggy 1 11 0

@@ -1,5 +1,0 @@
-7 10
-ovate 2 1 1
-verge 1 5 0
-roger 3 5 1
-tried 2 9 0

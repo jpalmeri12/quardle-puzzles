@@ -1,5 +1,0 @@
-7 8
-amble 5 1 1
-logic 3 3 1
-afoul 1 4 0
-scout 2 7 0

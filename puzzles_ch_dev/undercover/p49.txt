@@ -1,6 +1,0 @@
-7 11 undercover
-civil 2 1 1
-viper 1 2 0
-jumpy 4 4 1
-laugh 2 5 0
-swoon 1 10 0

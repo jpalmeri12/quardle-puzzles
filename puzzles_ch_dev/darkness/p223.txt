@@ -1,5 +1,0 @@
-6 9 darkness
-tibia 1 2 0
-odder 1 5 0
-adapt 2 4 1
-mayor 5 1 1

@@ -1,5 +1,0 @@
-7 10
-thong 3 1 1
-vigil 1 5 0
-issue 4 5 1
-pesky 2 7 0

@@ -1,5 +1,0 @@
-7 9 skyscrapers
-offal 2 4 0
-idiom 2 1 1
-fifth 1 1 0
-lowly 6 4 1

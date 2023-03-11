@@ -1,5 +1,0 @@
-7 9
-sneak 4 1 1
-medal 1 4 0
-enter 2 4 1
-ready 2 8 0

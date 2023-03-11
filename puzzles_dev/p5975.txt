@@ -1,5 +1,0 @@
-6 10
-vegan 4 1 1
-siege 1 3 0
-sound 1 5 0
-dodge 5 5 1

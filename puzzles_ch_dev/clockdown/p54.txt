@@ -1,5 +1,0 @@
-6 7 clockdown
-arrow 4 1 1
-fungi 1 2 1
-flirt 1 2 0
-grown 1 5 0

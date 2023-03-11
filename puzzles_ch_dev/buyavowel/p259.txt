@@ -1,5 +1,0 @@
-7 10 buyavowel
-doubt 5 1 1
-throb 2 2 0
-tacit 1 5 0
-crazy 3 5 1

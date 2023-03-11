@@ -1,5 +1,0 @@
-7 8
-prone 1 1 0
-extol 5 1 1
-party 2 3 0
-prize 2 3 1

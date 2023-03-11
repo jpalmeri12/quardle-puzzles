@@ -1,5 +1,0 @@
-6 9 invention
-slave 1 1 0
-vicar 4 1 1
-papal 1 4 0
-algae 2 4 1

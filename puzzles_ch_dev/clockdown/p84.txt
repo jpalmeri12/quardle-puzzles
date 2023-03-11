@@ -1,5 +1,0 @@
-7 8 clockdown
-aunty 1 1 1
-cobra 3 3 1
-troop 1 4 0
-ramen 2 7 0

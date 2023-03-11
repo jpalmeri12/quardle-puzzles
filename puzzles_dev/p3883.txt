@@ -1,5 +1,0 @@
-6 6
-evoke 1 1 1
-bible 4 1 1
-vomit 1 2 0
-knoll 1 4 0

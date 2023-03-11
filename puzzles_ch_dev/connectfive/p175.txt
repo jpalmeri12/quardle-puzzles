@@ -1,6 +1,0 @@
-7 10 connectfive
-pleat 6 1 1
-eking 2 5 1
-eject 2 5 0
-empty 4 5 1
-hippy 1 7 0

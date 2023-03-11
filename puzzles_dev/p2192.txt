@@ -1,5 +1,0 @@
-7 10
-study 6 1 1
-nerdy 2 5 0
-rotor 4 5 1
-quote 1 7 0

@@ -1,5 +1,0 @@
-6 8 dblltr
-steed 1 1 0
-event 4 1 1
-dried 1 3 0
-rotor 2 3 1

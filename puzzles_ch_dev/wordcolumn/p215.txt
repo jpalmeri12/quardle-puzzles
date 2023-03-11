@@ -1,6 +1,0 @@
-7 10 wordcolumn
-zebra 4 1 1
-optic 2 2 1
-pubic 2 3 0
-titan 1 5 0
-niece 5 5 1

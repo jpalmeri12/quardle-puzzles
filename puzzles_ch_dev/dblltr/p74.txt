@@ -1,5 +1,0 @@
-7 9 dblltr
-annoy 5 1 1
-union 1 2 0
-brood 2 4 0
-boozy 2 4 1

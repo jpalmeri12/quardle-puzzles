@@ -1,5 +1,0 @@
-6 9
-fancy 4 1 1
-cream 1 2 0
-porch 1 4 0
-pluck 1 4 1

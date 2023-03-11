@@ -1,5 +1,0 @@
-6 7
-tamer 1 1 1
-avert 1 2 0
-risky 4 2 1
-erase 1 4 0

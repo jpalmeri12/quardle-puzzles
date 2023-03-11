@@ -1,5 +1,0 @@
-6 8
-bathe 1 1 0
-blimp 1 1 1
-inner 1 3 0
-rhyme 5 3 1

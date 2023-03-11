@@ -1,5 +1,0 @@
-6 10 duplicity
-eerie 4 1 1
-asset 1 5 0
-skirt 2 5 1
-stake 1 9 0

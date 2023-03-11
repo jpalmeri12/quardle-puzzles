@@ -1,5 +1,0 @@
-6 7
-shalt 5 1 1
-water 1 2 1
-winch 1 2 0
-tidal 1 4 0

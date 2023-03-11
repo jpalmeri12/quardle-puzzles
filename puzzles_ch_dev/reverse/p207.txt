@@ -1,5 +1,0 @@
-7 9 reverse
-smote 4 1 1
-worht 2 4 1
-nomel 1 5 0
-trail 2 8 0

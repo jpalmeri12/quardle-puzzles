@@ -1,5 +1,0 @@
-7 8 beta
-gulch 1 1 0
-cacao 4 1 1
-scant 2 3 1
-crate 2 4 0

@@ -1,5 +1,0 @@
-7 9
-shove 1 1 0
-entry 5 1 1
-sport 2 4 0
-parer 3 4 1

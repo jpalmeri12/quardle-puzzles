@@ -1,5 +1,0 @@
-7 9
-grave 4 1 1
-jerky 2 4 1
-enemy 2 5 0
-skill 1 7 0

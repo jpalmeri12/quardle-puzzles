@@ -1,5 +1,0 @@
-7 9
-clasp 2 1 1
-sweep 2 4 0
-enema 4 4 1
-foamy 1 7 0

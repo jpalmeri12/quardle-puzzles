@@ -1,5 +1,0 @@
-6 9 shiritori
-annoy 2 1 1
-unite 1 2 0
-toxic 1 4 0
-ivory 4 4 1

@@ -1,5 +1,0 @@
-6 7
-slump 5 1 1
-atoll 1 2 0
-trait 2 2 1
-datum 1 4 0

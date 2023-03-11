@@ -1,6 +1,0 @@
-7 12 undercover
-khaki 3 1 1
-maxim 2 3 0
-alike 1 5 0
-aloud 1 5 1
-tryst 1 11 0

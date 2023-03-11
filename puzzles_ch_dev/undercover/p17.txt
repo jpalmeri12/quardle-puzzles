@@ -1,6 +1,0 @@
-6 12 undercover
-tempo 1 1 0
-micro 3 1 1
-smock 1 5 0
-slope 1 5 1
-guava 1 11 0

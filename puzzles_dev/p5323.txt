@@ -1,5 +1,0 @@
-6 7
-dryly 4 1 1
-bleat 1 2 1
-blurb 1 2 0
-exalt 1 4 0

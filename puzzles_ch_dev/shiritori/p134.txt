@@ -1,5 +1,0 @@
-7 8 shiritori
-forge 2 1 1
-cacao 5 3 1
-relic 1 5 0
-below 2 7 0

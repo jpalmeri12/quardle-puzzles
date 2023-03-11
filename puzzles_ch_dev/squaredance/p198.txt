@@ -1,6 +1,0 @@
-6 8 squaredance
-stale 1 1 1
-greet 5 1 1
-stung 1 1 0
-exult 1 5 0
-await 1 7 0

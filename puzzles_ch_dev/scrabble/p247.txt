@@ -1,5 +1,0 @@
-7 10 scrabble
-opine 1 5 0
-waste 5 1 1
-zonal 2 7 0
-pizza 2 5 1

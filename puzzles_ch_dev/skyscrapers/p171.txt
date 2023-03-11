@@ -1,5 +1,0 @@
-7 9 skyscrapers
-rebar 4 1 1
-lurid 2 5 0
-flung 2 4 1
-covey 1 2 0

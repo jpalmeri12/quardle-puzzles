@@ -1,5 +1,0 @@
-6 8 elbowroom
-sonic 1 1 1
-gaudy 3 3 1
-crump 1 5 0
-maybe 1 7 0

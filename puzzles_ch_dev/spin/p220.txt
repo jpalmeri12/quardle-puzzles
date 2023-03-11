@@ -1,5 +1,0 @@
-6 7 spin
-wheel 2 1 1
-preen 4 2 1
-decry 1 3 0
-bluer 1 5 0

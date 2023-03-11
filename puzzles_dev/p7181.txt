@@ -1,5 +1,0 @@
-6 8
-ferry 1 1 0
-rover 3 1 1
-bless 5 3 1
-steal 1 4 0

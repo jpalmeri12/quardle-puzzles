@@ -1,5 +1,0 @@
-6 8 skyscrapers
-tribe 1 1 0
-bayou 4 1 1
-ficus 1 5 0
-lofty 1 3 1

@@ -1,5 +1,0 @@
-7 7
-click 6 1 1
-graft 2 2 1
-attic 2 4 0
-stern 1 6 0

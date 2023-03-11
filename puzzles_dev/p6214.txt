@@ -1,5 +1,0 @@
-6 7
-boast 1 1 1
-ovary 1 2 0
-recur 4 2 1
-thrum 1 5 0

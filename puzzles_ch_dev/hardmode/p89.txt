@@ -1,5 +1,0 @@
-7 10 hardmode
-lurid 4 1 1
-proud 1 2 0
-teddy 2 5 0
-yearn 6 5 1

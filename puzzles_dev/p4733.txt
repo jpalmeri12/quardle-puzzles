@@ -1,5 +1,0 @@
-7 10
-diode 5 1 1
-vapid 2 2 0
-smote 1 5 0
-tamer 4 5 1

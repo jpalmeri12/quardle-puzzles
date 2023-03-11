@@ -1,5 +1,0 @@
-7 9 duplicity
-suite 1 1 1
-tiara 1 4 0
-arose 5 4 1
-rouse 2 7 0

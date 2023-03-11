@@ -1,7 +1,0 @@
-7 12 secretdistance
-amuse 2 1 0
-mecca 3 1 1
-grant 1 5 0
-twist 5 5 1
-gorge 1 11 0
-!sdpos 2 0 0 0

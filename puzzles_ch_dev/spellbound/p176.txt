@@ -1,9 +1,0 @@
-7 9 spellbound
-genie 5 1 1
-motif 3 4 1
-scope 1 5 0
-minty 2 7 0
-!spellbound 0 3 2
-!spellbound 1 0 4
-!spellbound 2 0 1
-!spellbound 3 0 4

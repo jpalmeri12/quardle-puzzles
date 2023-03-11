@@ -1,5 +1,0 @@
-7 8 fourscore
-fight 1 1 0
-inept 2 1 1
-beard 5 3 1
-payer 2 4 0

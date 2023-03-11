@@ -1,5 +1,0 @@
-6 9 beta
-chaos 1 1 1
-radar 3 4 1
-stand 1 5 0
-heard 1 7 0

@@ -1,5 +1,0 @@
-6 10
-adore 5 1 1
-lease 1 5 0
-shave 4 5 1
-clove 1 8 0

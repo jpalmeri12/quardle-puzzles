@@ -1,6 +1,0 @@
-6 10 wordcolumn
-wince 5 1 1
-wager 2 4 1
-barge 1 5 0
-glove 4 5 1
-privy 1 8 0

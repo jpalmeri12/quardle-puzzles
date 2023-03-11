@@ -1,5 +1,0 @@
-6 10 swap
-stikc 4 1 1
-lnuch 1 5 0
-nbole 2 5 1
-topza 1 7 0

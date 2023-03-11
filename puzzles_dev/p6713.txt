@@ -1,5 +1,0 @@
-7 9
-croak 2 1 0
-alert 5 1 1
-crush 3 4 1
-strut 1 5 0

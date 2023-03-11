@@ -1,5 +1,0 @@
-7 10 dblltr
-queer 3 1 1
-trait 2 5 0
-amiss 4 5 1
-goose 1 8 0

@@ -1,5 +1,0 @@
-7 9 dblltr
-buddy 4 1 1
-rerun 1 2 0
-modem 2 4 0
-motto 6 4 1

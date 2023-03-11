@@ -1,5 +1,0 @@
-6 9 scrabble
-latte 1 7 0
-medal 5 1 1
-brawl 1 5 0
-hasty 3 4 1

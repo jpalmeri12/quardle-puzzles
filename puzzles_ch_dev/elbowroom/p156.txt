@@ -1,5 +1,0 @@
-7 10 elbowroom
-vocal 2 1 0
-clung 4 1 1
-bilge 1 5 0
-lance 3 5 1

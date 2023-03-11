@@ -1,5 +1,0 @@
-6 9 spaced
-cairn 5 1 1
-voila 1 2 0
-boxer 1 4 0
-being 1 4 1

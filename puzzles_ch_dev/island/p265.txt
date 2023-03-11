@@ -1,6 +1,0 @@
-7 9 island
-vigor 3 1 1
-knife 5 4 1
-siren 1 5 0
-taffy 2 7 0
-!island 221 2111 311 31

@@ -1,5 +1,0 @@
-7 9 invention
-sweep 4 1 1
-shown 1 2 0
-fever 6 4 1
-maple 2 5 0

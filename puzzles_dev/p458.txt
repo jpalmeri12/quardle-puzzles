@@ -1,5 +1,0 @@
-7 9
-sulky 4 1 1
-pinky 1 4 0
-iliac 2 4 1
-covey 2 8 0

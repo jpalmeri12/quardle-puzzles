@@ -1,5 +1,0 @@
-7 9 desync
-dingy 4 1 1
-usage 1 4 0
-slang 2 4 1
-glare 2 8 0

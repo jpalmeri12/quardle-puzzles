@@ -1,5 +1,0 @@
-6 7 desync
-bingo 4 1 1
-taste 1 2 1
-their 1 2 0
-troop 1 5 0

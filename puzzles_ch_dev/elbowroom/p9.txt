@@ -1,5 +1,0 @@
-7 8 elbowroom
-sixth 1 1 0
-tumor 4 1 1
-synod 6 3 1
-ivory 2 4 0

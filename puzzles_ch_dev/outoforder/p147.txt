@@ -1,5 +1,0 @@
-6 8 outoforder
-mimic 2 1 1
-gipsy 4 3 1
-scope 1 5 0
-vinyl 1 7 0

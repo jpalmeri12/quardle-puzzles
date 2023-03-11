@@ -1,5 +1,0 @@
-6 9
-canny 5 1 1
-pecan 1 4 0
-crash 3 4 1
-bosom 1 7 0

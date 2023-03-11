@@ -1,5 +1,0 @@
-7 7
-singe 1 1 1
-inlet 1 2 0
-exult 4 2 1
-totem 2 6 0

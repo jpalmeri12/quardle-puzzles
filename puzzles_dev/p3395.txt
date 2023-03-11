@@ -1,5 +1,0 @@
-7 8
-drove 5 1 1
-abbot 2 3 0
-beach 3 3 1
-ovate 1 5 0

@@ -1,5 +1,0 @@
-7 10 unloved
-thrum 5 1 1
-opium 1 5 0
-uncut 4 5 1
-extra 2 9 0

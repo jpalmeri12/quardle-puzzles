@@ -1,5 +1,0 @@
-6 9
-bunny 5 1 1
-alike 1 4 1
-lobby 1 5 0
-entry 1 8 0

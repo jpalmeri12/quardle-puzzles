@@ -1,5 +1,0 @@
-7 9
-taffy 4 1 1
-regal 1 2 0
-lumpy 6 4 1
-bayou 2 5 0

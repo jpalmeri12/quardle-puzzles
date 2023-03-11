@@ -1,6 +1,0 @@
-7 11 drop
-album 5 1 1
-acrid 2 4 1
-afoul 2 4 0
-ideal 1 8 0
-rabid 1 10 0

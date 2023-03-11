@@ -1,5 +1,0 @@
-7 10 buyavowel
-parse 5 1 1
-baste 1 5 0
-split 3 5 1
-stiff 2 9 0

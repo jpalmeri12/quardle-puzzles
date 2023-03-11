@@ -1,6 +1,0 @@
-7 11 drop
-demon 5 1 1
-least 2 4 1
-eking 2 5 0
-islet 1 7 0
-enter 1 10 0

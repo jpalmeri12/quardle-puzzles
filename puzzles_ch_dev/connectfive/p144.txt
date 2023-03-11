@@ -1,6 +1,0 @@
-7 12 connectfive
-angle 6 1 1
-alien 2 4 1
-awful 2 4 0
-rehab 1 7 0
-bleed 5 7 1

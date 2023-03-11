@@ -1,5 +1,0 @@
-7 9 duplicity
-asset 1 1 0
-eater 4 1 1
-spill 2 4 1
-peril 2 5 0

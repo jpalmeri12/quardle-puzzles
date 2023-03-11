@@ -1,5 +1,0 @@
-7 9 sweeper
-false 5 1 1
-bleat 3 4 1
-clued 2 5 0
-boast 1 7 0

@@ -1,5 +1,0 @@
-6 7 desync
-candy 5 1 1
-knead 3 2 1
-canon 1 3 0
-snaky 1 5 0

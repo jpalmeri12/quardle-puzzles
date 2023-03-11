@@ -1,5 +1,0 @@
-7 9
-vouch 1 1 1
-crude 1 4 0
-evict 5 4 1
-devil 2 6 0

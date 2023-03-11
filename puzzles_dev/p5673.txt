@@ -1,5 +1,0 @@
-6 9
-grain 3 1 1
-virus 1 2 0
-idiot 1 4 0
-tabby 5 4 1

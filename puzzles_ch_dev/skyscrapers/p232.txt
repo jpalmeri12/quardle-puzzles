@@ -1,5 +1,0 @@
-7 7 skyscrapers
-viola 2 4 0
-rayon 4 1 1
-blurb 1 1 0
-giant 6 2 1

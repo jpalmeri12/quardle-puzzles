@@ -1,5 +1,0 @@
-7 10 spaced
-petal 2 1 0
-extra 3 1 1
-champ 1 5 0
-comfy 1 5 1

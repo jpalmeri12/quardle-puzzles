@@ -1,5 +1,0 @@
-6 8
-truer 3 1 1
-jolly 1 3 1
-jaunt 1 3 0
-lurid 1 5 0

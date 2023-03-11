@@ -1,6 +1,0 @@
-7 9 five
-leash 1 1 0
-scary 4 1 1
-curse 2 4 0
-crest 2 4 1
-thumb 2 8 0

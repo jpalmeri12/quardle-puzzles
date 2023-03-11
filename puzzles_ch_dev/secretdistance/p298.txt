@@ -1,7 +1,0 @@
-6 9 secretdistance
-agate 2 1 1
-stint 4 2 1
-hasty 1 3 0
-penny 1 5 0
-lucid 1 8 0
-!sdpos 0 2 1 1

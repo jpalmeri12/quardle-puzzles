@@ -1,5 +1,0 @@
-6 8 duplicity
-train 1 1 0
-nerdy 5 1 1
-nadir 1 3 0
-deity 3 3 1

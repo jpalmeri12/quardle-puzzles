@@ -1,6 +1,0 @@
-7 12 wordcolumn
-crump 1 1 1
-proxy 1 5 0
-repel 2 5 1
-annex 4 7 1
-lunch 2 9 0

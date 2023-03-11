@@ -1,5 +1,0 @@
-7 8 swap
-eptty 4 1 1
-enovy 2 3 1
-louys 1 5 0
-ylmph 2 7 0

@@ -1,5 +1,0 @@
-7 10
-elope 2 1 1
-bliss 1 2 0
-elegy 2 5 0
-embed 4 5 1

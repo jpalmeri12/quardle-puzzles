@@ -1,5 +1,0 @@
-6 7 spin
-thump 5 1 1
-latch 1 2 0
-touch 3 2 1
-bicep 1 5 0

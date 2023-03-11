@@ -1,5 +1,0 @@
-7 10 fourscore
-scene 2 1 1
-early 2 5 0
-angel 3 5 1
-wight 1 7 0

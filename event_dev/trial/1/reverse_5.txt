@@ -1,5 +1,0 @@
-7 10 reverse
-synod 2 1 1
-nekao 2 3 0
-edurp 1 5 0
-plumb 5 5 1

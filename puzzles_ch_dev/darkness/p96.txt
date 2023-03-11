@@ -1,5 +1,0 @@
-7 8 darkness
-tango 1 1 1
-older 1 5 0
-trust 2 7 0
-rider 3 3 1

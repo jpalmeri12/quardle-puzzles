@@ -1,5 +1,0 @@
-6 7 frequency
-ether 5 1 1
-glyph 2 2 1
-flush 1 3 0
-spear 1 5 0

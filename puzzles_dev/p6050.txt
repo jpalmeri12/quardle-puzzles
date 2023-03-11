@@ -1,5 +1,0 @@
-6 9
-aside 1 1 1
-alone 1 1 0
-droop 1 4 0
-ozone 4 4 1

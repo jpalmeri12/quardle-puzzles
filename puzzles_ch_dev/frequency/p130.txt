@@ -1,5 +1,0 @@
-6 8 frequency
-using 1 1 0
-steak 2 1 1
-hyena 5 3 1
-nanny 1 4 0

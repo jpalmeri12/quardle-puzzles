@@ -1,6 +1,0 @@
-7 10 wordcolumn
-neigh 5 1 1
-afoot 2 2 1
-frail 2 3 0
-notch 1 5 0
-clasp 4 5 1

@@ -1,5 +1,0 @@
-7 8
-trout 3 1 1
-kiosk 1 3 0
-koala 5 3 1
-steal 2 5 0

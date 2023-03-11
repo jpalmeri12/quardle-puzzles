@@ -1,5 +1,0 @@
-7 9 skyscrapers
-sepia 1 6 0
-avian 4 4 1
-beach 2 4 0
-fishy 6 1 1

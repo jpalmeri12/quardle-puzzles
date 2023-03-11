@@ -1,6 +1,0 @@
-7 10 five
-vital 5 1 1
-vista 2 3 0
-civil 1 5 0
-intro 2 5 1
-idiom 4 5 1

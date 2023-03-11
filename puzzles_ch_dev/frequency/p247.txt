@@ -1,5 +1,0 @@
-7 7 frequency
-sweet 1 1 1
-wrack 1 2 0
-cabal 4 2 1
-sally 2 6 0

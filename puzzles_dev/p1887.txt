@@ -1,5 +1,0 @@
-7 7
-teddy 1 1 0
-eater 2 1 1
-broad 6 2 1
-timer 2 3 0

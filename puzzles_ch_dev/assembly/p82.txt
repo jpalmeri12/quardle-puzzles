@@ -1,5 +1,0 @@
-6 10 assembly
-rhino 1 3 1
-mouse 5 3 1
-rumba 1 1 0
-nosey 1 9 0

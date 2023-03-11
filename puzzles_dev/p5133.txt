@@ -1,5 +1,0 @@
-7 10
-remit 2 1 1
-straw 1 5 0
-acrid 4 5 1
-throw 2 7 0

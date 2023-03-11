@@ -1,5 +1,0 @@
-7 9 dblltr
-stunt 3 1 1
-motto 1 2 0
-erode 6 4 1
-steer 2 5 0

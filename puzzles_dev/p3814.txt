@@ -1,5 +1,0 @@
-7 9
-ulcer 3 1 1
-whelp 1 4 0
-poker 5 4 1
-fiery 2 8 0

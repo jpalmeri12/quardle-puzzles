@@ -1,5 +1,0 @@
-6 9 invention
-ethos 1 1 1
-color 3 4 1
-sooth 1 5 0
-shrug 1 8 0

@@ -1,5 +1,0 @@
-7 9 reverse
-lluks 2 1 1
-flick 1 2 0
-diulf 5 4 1
-snail 2 5 0

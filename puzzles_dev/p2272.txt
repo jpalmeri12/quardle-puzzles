@@ -1,5 +1,0 @@
-6 9
-dying 1 1 1
-donor 1 1 0
-bobby 5 4 1
-gusto 1 5 0

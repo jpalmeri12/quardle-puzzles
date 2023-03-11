@@ -1,5 +1,0 @@
-7 8 swap
-lvoer 1 1 1
-oledn 1 3 0
-etnor 3 3 1
-aogra 2 6 0

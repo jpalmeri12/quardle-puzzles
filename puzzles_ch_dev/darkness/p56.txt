@@ -1,5 +1,0 @@
-7 8 darkness
-other 1 7 0
-bench 3 3 1
-riper 5 1 1
-melee 2 4 0

@@ -1,5 +1,0 @@
-6 9 beta
-smash 4 1 1
-dummy 1 2 0
-grasp 1 4 0
-renew 2 4 1

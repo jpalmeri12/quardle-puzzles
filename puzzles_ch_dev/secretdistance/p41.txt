@@ -1,7 +1,0 @@
-6 10 secretdistance
-abbot 1 1 0
-bayou 3 1 1
-beech 5 3 1
-plume 1 5 0
-aback 1 9 0
-!sdpos 0 0 2 2

@@ -1,5 +1,0 @@
-7 9
-whine 2 1 1
-whoop 1 2 0
-naive 2 4 0
-vodka 5 4 1

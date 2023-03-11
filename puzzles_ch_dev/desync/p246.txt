@@ -1,5 +1,0 @@
-7 7 desync
-tulip 4 1 1
-afoul 1 2 0
-frock 2 2 1
-caper 2 5 0

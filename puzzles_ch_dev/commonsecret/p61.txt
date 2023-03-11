@@ -1,6 +1,0 @@
-6 9 commonsecret
-salty 5 1 1
-quite 1 4 1
-quest 1 4 0
-those 1 7 0
-!secret t

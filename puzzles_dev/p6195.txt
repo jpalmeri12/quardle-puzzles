@@ -1,5 +1,0 @@
-7 9
-revue 6 1 1
-cruel 4 4 1
-forge 2 5 0
-curly 1 8 0

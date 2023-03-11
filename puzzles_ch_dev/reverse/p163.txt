@@ -1,5 +1,0 @@
-6 10 reverse
-cheat 5 1 1
-pmurt 1 5 0
-pmirc 1 5 1
-igloo 1 7 0

@@ -1,5 +1,0 @@
-6 7
-haste 1 1 1
-allot 1 2 0
-oaken 4 2 1
-tacky 1 4 0

@@ -1,5 +1,0 @@
-7 10
-vapid 4 1 1
-vodka 2 5 0
-knoll 5 5 1
-verso 1 7 0

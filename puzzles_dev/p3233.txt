@@ -1,5 +1,0 @@
-6 10
-scald 1 1 1
-druid 1 5 0
-ralph 2 5 1
-shine 1 9 0

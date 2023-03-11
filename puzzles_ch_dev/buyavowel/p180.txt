@@ -1,5 +1,0 @@
-7 10 buyavowel
-tripe 5 1 1
-quote 1 5 0
-undue 2 5 1
-upper 2 8 0

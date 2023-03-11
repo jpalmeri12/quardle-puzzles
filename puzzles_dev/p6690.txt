@@ -1,5 +1,0 @@
-7 10
-girly 1 1 1
-young 1 5 0
-natal 4 5 1
-scaly 2 8 0

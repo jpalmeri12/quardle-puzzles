@@ -1,5 +1,0 @@
-6 9 invention
-those 4 1 1
-pithy 1 2 0
-brisk 1 4 0
-batch 1 4 1

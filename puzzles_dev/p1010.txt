@@ -1,5 +1,0 @@
-6 6
-lousy 1 1 0
-later 1 1 1
-scant 4 1 1
-triad 1 3 0

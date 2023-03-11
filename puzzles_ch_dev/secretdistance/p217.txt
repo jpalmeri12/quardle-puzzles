@@ -1,7 +1,0 @@
-6 10 secretdistance
-meter 5 1 1
-howdy 3 3 1
-spore 1 4 0
-loyal 1 7 0
-rebel 1 9 0
-!sdpos 3 0 0 0

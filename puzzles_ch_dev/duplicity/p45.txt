@@ -1,5 +1,0 @@
-6 9 duplicity
-vigil 4 1 1
-error 2 4 1
-grill 1 5 0
-rover 1 7 0

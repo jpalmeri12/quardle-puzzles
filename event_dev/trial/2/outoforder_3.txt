@@ -1,5 +1,0 @@
-7 10 outoforder
-union 5 1 1
-blond 2 5 1
-bring 2 5 0
-incur 1 8 0

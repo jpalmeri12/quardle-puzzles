@@ -1,6 +1,0 @@
-7 11 connectfive
-stood 1 1 1
-twice 1 2 0
-iliac 3 2 1
-icing 2 6 0
-grief 6 6 1

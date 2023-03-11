@@ -1,6 +1,0 @@
-7 12 wordcolumn
-until 2 1 1
-class 1 5 0
-shift 5 5 1
-affix 2 7 0
-fully 3 7 1

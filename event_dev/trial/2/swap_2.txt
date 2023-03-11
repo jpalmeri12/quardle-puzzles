@@ -1,5 +1,0 @@
-6 10 swap
-afier 5 1 1
-unfti 1 3 0
-ufror 1 5 0
-omron 4 5 1

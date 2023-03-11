@@ -1,5 +1,0 @@
-6 9
-cheat 5 1 1
-drawl 3 4 1
-burnt 1 5 0
-dowel 1 7 0

@@ -1,5 +1,0 @@
-6 7
-choir 2 1 1
-sheen 1 2 0
-nymph 5 2 1
-minim 1 4 0

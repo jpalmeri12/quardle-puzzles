@@ -1,5 +1,0 @@
-7 8
-droll 1 1 0
-refit 2 1 1
-angel 6 3 1
-thong 2 5 0

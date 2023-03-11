@@ -1,5 +1,0 @@
-6 9
-cargo 1 1 1
-gauge 4 4 1
-octal 1 5 0
-refer 1 8 0

@@ -1,5 +1,0 @@
-6 10
-slunk 2 1 1
-flake 1 2 0
-skunk 1 5 0
-shrew 1 5 1

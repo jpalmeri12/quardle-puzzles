@@ -1,5 +1,0 @@
-7 10 spin
-dusky 2 1 1
-gypsy 1 5 0
-seize 4 5 1
-jazzy 2 8 0

@@ -1,5 +1,0 @@
-7 9
-value 2 1 1
-worse 5 4 1
-hello 1 5 0
-poise 2 7 0

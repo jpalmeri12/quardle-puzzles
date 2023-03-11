@@ -1,5 +1,0 @@
-7 10
-haste 5 1 1
-floss 1 3 0
-embed 2 5 0
-manic 3 5 1

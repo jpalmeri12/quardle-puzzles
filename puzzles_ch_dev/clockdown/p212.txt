@@ -1,5 +1,0 @@
-6 7 clockdown
-ethic 1 1 1
-torso 1 2 0
-saucy 4 2 1
-cluck 1 5 0

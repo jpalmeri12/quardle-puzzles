@@ -1,5 +1,0 @@
-6 9
-bushy 1 1 1
-usage 1 2 0
-hitch 1 4 0
-tabby 3 4 1

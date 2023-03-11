@@ -1,5 +1,0 @@
-7 8 frequency
-blurb 1 1 0
-briny 5 1 1
-lurid 2 3 0
-lower 2 3 1

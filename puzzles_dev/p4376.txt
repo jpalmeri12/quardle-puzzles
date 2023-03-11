@@ -1,5 +1,0 @@
-6 10
-debar 1 1 1
-ratty 1 5 0
-trace 4 5 1
-rupee 1 9 0

@@ -1,6 +1,0 @@
-6 8 squaredance
-crest 1 1 1
-daily 5 1 1
-chord 1 1 0
-tatty 1 5 0
-spasm 1 7 0

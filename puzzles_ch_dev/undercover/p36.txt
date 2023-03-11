@@ -1,6 +1,0 @@
-7 12 undercover
-alibi 3 1 1
-sigma 2 5 0
-gloom 4 5 1
-blood 1 8 0
-crypt 1 11 0

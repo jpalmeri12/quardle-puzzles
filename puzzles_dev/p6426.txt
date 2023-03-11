@@ -1,5 +1,0 @@
-7 9
-poise 1 1 1
-miner 3 4 1
-elide 1 5 0
-briny 2 8 0

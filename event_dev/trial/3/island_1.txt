@@ -1,6 +1,0 @@
-6 10 island
-patsy 5 1 1
-glint 1 3 0
-hefty 1 5 0
-eerie 2 5 1
-!island 221 2111 41 21

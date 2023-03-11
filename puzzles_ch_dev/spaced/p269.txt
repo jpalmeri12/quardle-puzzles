@@ -1,5 +1,0 @@
-7 9 spaced
-clear 3 1 1
-float 2 2 0
-loath 1 4 0
-layer 1 4 1

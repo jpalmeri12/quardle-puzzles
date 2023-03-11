@@ -1,6 +1,0 @@
-7 9 wordcolumn
-twirl 4 1 1
-acrid 1 3 0
-cacao 6 4 1
-villa 2 5 0
-junto 2 8 0

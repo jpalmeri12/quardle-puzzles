@@ -1,5 +1,0 @@
-7 7 buyavowel
-duchy 6 1 1
-thump 4 2 1
-crush 2 4 0
-scope 1 6 0

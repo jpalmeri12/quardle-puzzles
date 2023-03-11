@@ -1,5 +1,0 @@
-6 10 sweeper
-throb 1 1 1
-broom 1 5 0
-onion 4 5 1
-eying 1 9 0

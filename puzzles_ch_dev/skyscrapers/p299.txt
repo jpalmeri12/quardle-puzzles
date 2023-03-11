@@ -1,5 +1,0 @@
-7 9 skyscrapers
-siege 2 7 0
-emcee 4 4 1
-dowel 1 4 0
-dowdy 1 1 1

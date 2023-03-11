@@ -1,6 +1,0 @@
-7 12 undercover
-agora 4 1 1
-knock 2 5 1
-knack 2 5 0
-gonad 1 7 0
-witty 1 11 0

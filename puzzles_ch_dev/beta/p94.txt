@@ -1,5 +1,0 @@
-7 8 beta
-rehab 2 1 1
-threw 1 3 0
-willy 5 3 1
-billy 2 5 0

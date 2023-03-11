@@ -1,5 +1,0 @@
-7 9
-anime 5 1 1
-minty 3 4 1
-video 2 5 0
-rayon 1 8 0

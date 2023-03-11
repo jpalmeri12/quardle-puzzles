@@ -1,5 +1,0 @@
-7 10 shiritori
-lasso 4 1 1
-tarot 1 5 0
-assay 2 5 1
-strap 2 7 0

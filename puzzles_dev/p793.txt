@@ -1,5 +1,0 @@
-7 9
-peace 4 1 1
-aside 2 4 1
-asset 1 5 0
-diode 2 7 0

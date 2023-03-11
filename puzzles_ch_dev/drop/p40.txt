@@ -1,6 +1,0 @@
-6 12 drop
-decor 4 1 1
-ovary 1 5 0
-voter 2 5 1
-croup 1 9 0
-furor 1 11 0

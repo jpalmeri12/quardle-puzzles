@@ -1,5 +1,0 @@
-6 7 unloved
-spark 3 1 1
-upper 1 2 0
-ruddy 5 2 1
-acrid 1 4 0

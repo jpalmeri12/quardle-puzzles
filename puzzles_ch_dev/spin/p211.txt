@@ -1,5 +1,0 @@
-7 8 spin
-covet 1 1 0
-older 2 1 1
-demur 2 3 0
-radii 6 3 1

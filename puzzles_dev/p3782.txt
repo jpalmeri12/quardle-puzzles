@@ -1,5 +1,0 @@
-7 10
-bosom 6 1 1
-gleam 2 5 0
-agree 5 5 1
-polar 1 7 0

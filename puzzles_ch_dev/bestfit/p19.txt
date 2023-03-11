@@ -1,5 +1,0 @@
-6 7 bestfit
-count 2 1 1
-snuff 5 2 1
-lumen 1 3 0
-stiff 1 5 0

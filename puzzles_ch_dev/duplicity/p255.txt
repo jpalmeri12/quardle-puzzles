@@ -1,5 +1,0 @@
-7 9 duplicity
-butte 2 1 1
-tubal 2 4 0
-bathe 4 4 1
-lathe 1 7 0

@@ -1,5 +1,0 @@
-6 9 sweeper
-truss 1 1 1
-revue 1 2 0
-dying 5 4 1
-sunny 1 5 0

@@ -1,5 +1,0 @@
-6 10
-basin 2 1 1
-ashen 1 3 0
-known 1 5 0
-noose 5 5 1

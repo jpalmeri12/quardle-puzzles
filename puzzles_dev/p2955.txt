@@ -1,5 +1,0 @@
-6 7
-flaky 5 1 1
-penal 1 2 0
-elegy 2 2 1
-agony 1 5 0

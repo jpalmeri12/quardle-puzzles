@@ -1,9 +1,0 @@
-7 10 spellbound
-abate 4 1 1
-unfed 1 5 0
-flume 3 5 1
-lucky 2 7 0
-!spellbound 0 2 3
-!spellbound 1 1 0
-!spellbound 2 4 1
-!spellbound 3 2 4

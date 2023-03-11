@@ -1,5 +1,0 @@
-6 7 sweeper
-actor 2 1 1
-scald 1 2 0
-labor 4 2 1
-hobby 1 4 0

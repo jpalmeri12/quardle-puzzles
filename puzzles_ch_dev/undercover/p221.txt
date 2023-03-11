@@ -1,6 +1,0 @@
-6 9 undercover
-feign 2 1 1
-rebus 1 2 0
-sonic 5 2 1
-ennui 1 5 0
-happy 1 8 0

@@ -1,5 +1,0 @@
-7 9 dblltr
-bloom 2 1 0
-ozone 4 1 1
-savvy 2 4 1
-eager 1 5 0

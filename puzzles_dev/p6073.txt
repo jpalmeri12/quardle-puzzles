@@ -1,5 +1,0 @@
-7 7
-style 1 1 1
-tried 1 2 0
-inert 3 2 1
-stomp 2 6 0

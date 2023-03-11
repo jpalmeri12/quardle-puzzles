@@ -1,5 +1,0 @@
-6 9
-awful 2 1 1
-twang 1 2 0
-hunch 1 4 0
-habit 5 4 1

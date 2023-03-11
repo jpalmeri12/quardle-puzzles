@@ -1,5 +1,0 @@
-6 7
-wispy 5 1 1
-cavil 3 2 1
-crass 1 3 0
-grimy 1 5 0

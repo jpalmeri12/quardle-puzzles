@@ -1,5 +1,0 @@
-6 9 beta
-biddy 3 1 1
-pedal 1 4 0
-payer 1 4 1
-rhyme 1 8 0

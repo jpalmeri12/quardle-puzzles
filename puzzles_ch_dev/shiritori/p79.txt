@@ -1,5 +1,0 @@
-7 10 shiritori
-chasm 2 1 0
-agora 4 1 1
-naval 1 5 0
-lucky 5 5 1

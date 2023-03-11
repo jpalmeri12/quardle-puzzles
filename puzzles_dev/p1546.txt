@@ -1,5 +1,0 @@
-7 8
-honor 1 1 0
-ovoid 2 1 1
-gaudy 5 3 1
-donut 2 5 0

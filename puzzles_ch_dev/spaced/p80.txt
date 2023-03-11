@@ -1,5 +1,0 @@
-7 10 spaced
-throw 6 1 1
-askew 2 5 0
-shoal 3 5 1
-growl 1 7 0

@@ -1,5 +1,0 @@
-6 10 duplicity
-mania 3 1 1
-blank 1 2 0
-knack 1 5 0
-climb 4 5 1

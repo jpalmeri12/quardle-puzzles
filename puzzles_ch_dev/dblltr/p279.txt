@@ -1,5 +1,0 @@
-7 9 dblltr
-tulle 4 1 1
-rerun 1 2 0
-stood 6 4 1
-sleet 2 5 0

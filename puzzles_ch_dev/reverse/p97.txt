@@ -1,5 +1,0 @@
-6 10 reverse
-arait 5 1 1
-oobat 1 5 0
-adopt 4 5 1
-nymph 1 8 0

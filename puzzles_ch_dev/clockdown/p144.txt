@@ -1,5 +1,0 @@
-7 9 clockdown
-adept 5 1 1
-lapse 3 4 1
-blast 1 5 0
-psalm 2 7 0

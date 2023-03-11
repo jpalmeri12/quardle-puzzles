@@ -1,5 +1,0 @@
-6 9
-clink 1 1 1
-nerdy 1 4 0
-rhyme 3 4 1
-comma 1 7 0

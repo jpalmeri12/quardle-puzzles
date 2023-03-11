@@ -1,5 +1,0 @@
-7 10
-split 5 1 1
-grill 2 3 0
-joint 1 5 0
-joist 1 5 1

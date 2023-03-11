@@ -1,5 +1,0 @@
-7 9 clockdown
-thief 1 1 1
-easel 1 4 0
-smock 3 4 1
-skill 2 8 0

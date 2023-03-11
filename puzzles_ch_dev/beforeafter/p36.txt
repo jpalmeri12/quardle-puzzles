@@ -1,9 +1,0 @@
-6 9 beforeafter
-spice 1 1 0
-plead 2 1 1
-party 1 4 0
-tread 4 4 1
-!beforeafter 1 o
-!beforeafter 1 i
-!beforeafter 1 q
-!beforeafter 1 n

@@ -1,6 +1,0 @@
-6 8 squaredance
-poise 1 1 1
-drake 5 1 1
-pried 1 1 0
-elite 1 5 0
-clasp 1 7 0

@@ -1,5 +1,0 @@
-6 10
-batch 2 1 1
-rabid 1 2 0
-sheen 1 5 0
-etude 3 5 1

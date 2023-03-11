@@ -1,5 +1,0 @@
-7 9
-fleck 5 1 1
-state 2 4 1
-tacky 2 5 0
-stave 1 7 0

@@ -1,6 +1,0 @@
-7 10 wordcolumn
-tubal 3 1 1
-skull 1 2 0
-lunge 5 2 1
-align 2 5 0
-abort 2 5 1

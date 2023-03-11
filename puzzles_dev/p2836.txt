@@ -1,5 +1,0 @@
-6 9
-quest 2 1 1
-purse 1 2 0
-tibia 4 4 1
-stain 1 5 0

@@ -1,5 +1,0 @@
-7 9
-dwell 5 1 1
-chore 3 4 1
-chill 2 5 0
-lorry 1 7 0

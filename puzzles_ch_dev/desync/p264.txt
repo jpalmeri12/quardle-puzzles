@@ -1,5 +1,0 @@
-6 9 desync
-noose 5 1 1
-rhino 2 4 1
-whose 1 5 0
-undue 1 7 0

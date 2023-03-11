@@ -1,6 +1,0 @@
-6 12 undercover
-admit 1 1 0
-dunce 2 1 1
-femme 1 5 0
-morph 4 5 1
-slyly 1 11 0

@@ -1,5 +1,0 @@
-6 8 darkness
-rider 1 7 0
-hunky 5 1 1
-spunk 1 4 0
-guild 3 3 1

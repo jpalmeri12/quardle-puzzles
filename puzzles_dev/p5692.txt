@@ -1,5 +1,0 @@
-7 8
-outgo 1 1 0
-usual 2 1 1
-union 2 3 0
-night 6 3 1

@@ -1,9 +1,0 @@
-7 9 beforeafter
-rouge 1 1 1
-glass 1 4 0
-snuff 5 4 1
-debut 2 6 0
-!beforeafter 2 j
-!beforeafter 2 q
-!beforeafter 2 l
-!beforeafter 2 o

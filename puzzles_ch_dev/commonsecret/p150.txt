@@ -1,6 +1,0 @@
-7 10 commonsecret
-salvo 4 1 1
-leaky 2 2 0
-elbow 1 5 0
-whirl 5 5 1
-!secret l

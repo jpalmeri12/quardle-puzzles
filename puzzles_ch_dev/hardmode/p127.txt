@@ -1,5 +1,0 @@
-6 8 hardmode
-resin 1 1 1
-width 3 3 1
-icily 1 4 0
-rehab 1 7 0

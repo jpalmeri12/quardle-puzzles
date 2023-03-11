@@ -1,5 +1,0 @@
-6 6
-shawl 2 1 1
-learn 5 1 1
-theme 1 2 0
-clown 1 5 0

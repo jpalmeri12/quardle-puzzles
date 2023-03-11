@@ -1,5 +1,0 @@
-6 10
-horse 5 1 1
-booze 1 5 0
-owing 3 5 1
-singe 1 8 0

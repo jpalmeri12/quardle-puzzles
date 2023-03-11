@@ -1,5 +1,0 @@
-7 10 duplicity
-eerie 4 1 1
-curry 2 3 0
-cyber 1 5 0
-cubic 1 5 1

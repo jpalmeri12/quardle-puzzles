@@ -1,5 +1,0 @@
-7 10 frequency
-vodka 4 1 1
-kayak 1 5 0
-abuse 2 5 1
-expel 2 9 0

@@ -1,5 +1,0 @@
-7 10
-copse 2 1 1
-eager 2 5 0
-envoy 5 5 1
-sandy 1 9 0

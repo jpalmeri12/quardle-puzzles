@@ -1,5 +1,0 @@
-7 9
-repel 5 1 1
-thief 2 2 0
-basis 3 4 1
-crawl 1 5 0

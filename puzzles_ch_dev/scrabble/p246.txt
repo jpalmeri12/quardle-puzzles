@@ -1,5 +1,0 @@
-7 10 scrabble
-moult 5 1 1
-drawn 2 5 1
-depth 2 5 0
-dwarf 1 8 0

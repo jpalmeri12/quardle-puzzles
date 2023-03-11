@@ -1,5 +1,0 @@
-7 9 fourscore
-eager 2 1 0
-endow 5 1 1
-banjo 1 4 0
-abbey 2 4 1

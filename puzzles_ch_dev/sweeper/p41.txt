@@ -1,5 +1,0 @@
-6 7 sweeper
-hovel 2 1 1
-roast 1 2 0
-steal 4 2 1
-bleak 1 5 0

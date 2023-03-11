@@ -1,5 +1,0 @@
-7 9
-whisk 6 1 1
-floss 2 4 0
-onion 4 4 1
-pixie 1 6 0

@@ -1,5 +1,0 @@
-6 10
-pubic 4 1 1
-juice 1 5 0
-endow 5 5 1
-tango 1 8 0

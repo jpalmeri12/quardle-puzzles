@@ -1,5 +1,0 @@
-6 8
-gypsy 1 1 0
-sober 4 1 1
-urban 2 3 1
-brief 1 4 0

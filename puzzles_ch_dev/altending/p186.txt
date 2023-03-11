@@ -1,5 +1,0 @@
-6 9 altending
-ratty 1 1 0
-parse 1 3 0
-loopy 1 5 0
-harem 1 7 0

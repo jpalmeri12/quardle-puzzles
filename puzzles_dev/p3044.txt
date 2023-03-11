@@ -1,5 +1,0 @@
-7 9
-crazy 1 1 0
-zonal 4 1 1
-plaza 2 4 0
-pinch 2 4 1

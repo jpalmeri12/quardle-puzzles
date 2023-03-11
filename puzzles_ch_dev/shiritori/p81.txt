@@ -1,5 +1,0 @@
-7 10 shiritori
-rifle 1 1 0
-lapel 4 1 1
-belch 2 5 0
-bused 2 5 1

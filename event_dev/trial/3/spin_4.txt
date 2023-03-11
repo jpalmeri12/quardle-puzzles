@@ -1,5 +1,0 @@
-7 9 spin
-macho 5 1 1
-sandy 3 4 1
-bravo 1 5 0
-odder 2 7 0

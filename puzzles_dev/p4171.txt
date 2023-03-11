@@ -1,5 +1,0 @@
-6 6
-fishy 1 1 0
-inner 2 1 1
-hyena 4 1 1
-friar 1 5 0

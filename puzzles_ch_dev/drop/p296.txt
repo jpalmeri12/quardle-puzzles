@@ -1,6 +1,0 @@
-7 11 drop
-those 2 1 0
-smite 5 1 1
-skirt 1 4 0
-snail 1 4 1
-storm 1 10 0

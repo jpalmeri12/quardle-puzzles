@@ -1,5 +1,0 @@
-7 9 skyscrapers
-label 4 1 1
-quell 1 5 0
-equal 1 4 1
-filer 2 1 0

@@ -1,5 +1,0 @@
-6 7
-plead 2 1 1
-wager 5 2 1
-fella 1 3 0
-adobe 1 5 0

@@ -1,5 +1,0 @@
-6 7 reverse
-diode 4 1 1
-motif 1 2 0
-moorb 1 2 1
-raber 1 5 0

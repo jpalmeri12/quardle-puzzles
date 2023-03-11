@@ -1,5 +1,0 @@
-6 7 skyscrapers
-taboo 1 4 0
-ready 2 2 1
-craze 1 2 0
-depot 5 1 1

@@ -1,5 +1,0 @@
-7 7 dblltr
-filly 2 1 1
-widow 1 2 0
-weedy 5 2 1
-label 2 4 0

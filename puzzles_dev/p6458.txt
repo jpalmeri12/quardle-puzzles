@@ -1,5 +1,0 @@
-7 9
-waver 4 1 1
-nasal 1 2 0
-steam 2 4 0
-stomp 2 4 1

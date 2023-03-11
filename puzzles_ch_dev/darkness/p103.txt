@@ -1,5 +1,0 @@
-7 9 darkness
-undue 4 4 1
-swami 2 2 0
-aside 2 1 1
-being 1 5 0

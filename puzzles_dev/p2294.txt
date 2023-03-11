@@ -1,5 +1,0 @@
-7 9
-shout 1 1 1
-unwed 1 4 0
-dicey 5 4 1
-cower 2 7 0

@@ -1,7 +1,0 @@
-7 11 secretdistance
-penne 5 1 1
-kneel 2 2 0
-tread 2 4 1
-prude 1 5 0
-lorry 1 10 0
-!sdpos 2 3 3 1

@@ -1,9 +1,0 @@
-6 9 beforeafter
-gipsy 1 1 0
-spill 4 1 1
-hilly 1 4 0
-harpy 1 4 1
-!beforeafter 1 j
-!beforeafter 1 o
-!beforeafter 1 k
-!beforeafter 1 j

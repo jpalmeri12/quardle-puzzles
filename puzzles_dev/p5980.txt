@@ -1,5 +1,0 @@
-7 10
-quoth 4 1 1
-wound 2 2 0
-mushy 1 5 0
-yield 5 5 1

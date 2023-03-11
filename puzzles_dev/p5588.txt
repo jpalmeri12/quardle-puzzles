@@ -1,5 +1,0 @@
-7 9
-sally 6 1 1
-unite 3 4 1
-snowy 2 5 0
-latte 1 7 0

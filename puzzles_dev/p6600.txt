@@ -1,5 +1,0 @@
-7 9
-deity 5 1 1
-corer 2 2 0
-lower 2 4 1
-moldy 1 5 0

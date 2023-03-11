@@ -1,5 +1,0 @@
-6 9 altending
-haste 1 1 0
-while 1 3 0
-wharf 1 5 0
-scary 1 7 0

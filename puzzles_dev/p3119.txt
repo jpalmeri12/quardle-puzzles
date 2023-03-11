@@ -1,5 +1,0 @@
-6 10
-floor 2 1 1
-troll 1 5 0
-later 4 5 1
-waste 1 7 0

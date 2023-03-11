@@ -1,5 +1,0 @@
-7 9 fourscore
-ensue 2 1 1
-super 1 4 0
-eager 4 4 1
-parry 2 8 0

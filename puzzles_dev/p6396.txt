@@ -1,5 +1,0 @@
-6 7
-spasm 1 1 1
-prude 1 2 0
-unity 3 2 1
-match 1 5 0

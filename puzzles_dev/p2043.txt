@@ -1,5 +1,0 @@
-7 9
-clump 6 1 1
-catty 2 4 1
-charm 2 4 0
-stole 1 6 0

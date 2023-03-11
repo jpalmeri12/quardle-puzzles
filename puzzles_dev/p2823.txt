@@ -1,5 +1,0 @@
-6 10
-cumin 4 1 1
-scant 1 5 0
-south 1 5 1
-unwed 1 7 0

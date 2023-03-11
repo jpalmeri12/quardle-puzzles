@@ -1,6 +1,0 @@
-7 12 undercover
-shrub 4 1 1
-ethic 2 2 0
-scuba 1 5 0
-clink 2 5 1
-goody 1 11 0

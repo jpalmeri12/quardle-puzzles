@@ -1,7 +1,0 @@
-6 11 secretdistance
-doubt 1 1 1
-baggy 1 4 0
-gamut 3 4 1
-ester 1 8 0
-masse 1 10 0
-!sdpos 3 2 1 0

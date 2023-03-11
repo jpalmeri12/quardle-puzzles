@@ -1,5 +1,0 @@
-7 7 desync
-skimp 5 1 1
-shark 2 2 1
-shaky 2 2 0
-crisp 1 5 0

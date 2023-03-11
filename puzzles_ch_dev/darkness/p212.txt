@@ -1,5 +1,0 @@
-7 10 darkness
-aorta 2 1 1
-scion 2 7 0
-recut 3 5 1
-parer 1 5 0

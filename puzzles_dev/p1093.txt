@@ -1,5 +1,0 @@
-7 8
-ditch 2 1 1
-sixty 1 2 0
-slyly 6 3 1
-heavy 2 5 0

@@ -1,5 +1,0 @@
-7 10
-occur 4 1 1
-winch 1 3 0
-surer 2 5 0
-speak 2 5 1

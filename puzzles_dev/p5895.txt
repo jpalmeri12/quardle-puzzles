@@ -1,5 +1,0 @@
-7 10
-remit 5 1 1
-saner 2 2 0
-hoist 1 5 0
-honey 1 5 1

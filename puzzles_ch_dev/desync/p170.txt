@@ -1,5 +1,0 @@
-7 10 desync
-vodka 3 1 1
-adapt 2 3 0
-gland 1 5 0
-lumpy 2 5 1

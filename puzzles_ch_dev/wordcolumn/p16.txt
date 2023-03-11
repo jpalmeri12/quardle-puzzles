@@ -1,6 +1,0 @@
-7 9 wordcolumn
-roger 5 1 1
-afoot 2 2 0
-foist 3 2 1
-white 1 4 0
-wreak 1 4 1

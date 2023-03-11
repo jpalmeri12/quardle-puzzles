@@ -1,5 +1,0 @@
-6 6
-daddy 1 1 1
-cower 4 1 1
-ardor 1 2 0
-dozen 1 4 0

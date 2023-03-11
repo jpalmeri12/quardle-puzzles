@@ -1,5 +1,0 @@
-6 7
-agent 5 1 1
-going 1 2 0
-ovary 2 2 1
-basin 1 4 0

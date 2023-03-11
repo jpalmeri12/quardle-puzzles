@@ -1,8 +1,0 @@
-6 8 twins
-crimp 1 1 0
-hazel 1 3 0
-ovate 1 5 0
-elope 1 7 0
-!twins 1 2
-!twins 0 4
-!twins 0 1

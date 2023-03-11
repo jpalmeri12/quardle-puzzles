@@ -1,5 +1,0 @@
-7 8 invention
-gouge 1 1 1
-khaki 5 3 1
-glyph 1 4 0
-panic 2 7 0

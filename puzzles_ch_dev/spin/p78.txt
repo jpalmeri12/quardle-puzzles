@@ -1,5 +1,0 @@
-7 8 spin
-inner 1 1 1
-giant 5 3 1
-ennui 1 4 0
-wound 2 6 0

@@ -1,5 +1,0 @@
-7 8 clockdown
-abbey 3 1 1
-abort 2 3 0
-rough 5 3 1
-bayou 1 5 0

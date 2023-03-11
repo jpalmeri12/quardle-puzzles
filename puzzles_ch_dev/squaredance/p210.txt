@@ -1,6 +1,0 @@
-6 8 squaredance
-aglow 1 1 1
-evict 5 1 1
-amble 1 1 0
-wrest 1 5 0
-plied 1 7 0

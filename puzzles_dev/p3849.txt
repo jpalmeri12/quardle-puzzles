@@ -1,5 +1,0 @@
-7 9
-snack 4 1 1
-mound 1 2 0
-snaky 6 4 1
-woken 2 5 0

@@ -1,6 +1,0 @@
-7 10 wordcolumn
-chain 5 1 1
-spray 3 2 1
-spear 2 3 0
-again 1 5 0
-align 1 5 1

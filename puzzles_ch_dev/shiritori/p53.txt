@@ -1,5 +1,0 @@
-7 8 shiritori
-spunk 5 1 1
-scent 3 3 1
-check 1 5 0
-steam 2 7 0

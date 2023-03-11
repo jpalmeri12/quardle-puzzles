@@ -1,5 +1,0 @@
-7 10 fourscore
-thief 1 1 0
-filer 5 1 1
-terra 2 5 0
-antic 6 5 1

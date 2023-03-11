@@ -1,5 +1,0 @@
-6 9 beta
-piper 1 1 1
-ideal 1 2 0
-abbey 4 4 1
-rumba 1 5 0

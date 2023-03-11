@@ -1,6 +1,0 @@
-7 7 commonsecret
-dairy 2 1 1
-madly 1 2 0
-lipid 4 2 1
-rapid 2 4 0
-!secret d

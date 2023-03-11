@@ -1,6 +1,0 @@
-6 8 squaredance
-score 1 1 1
-elate 5 1 1
-shove 1 1 0
-elide 1 5 0
-write 1 7 0

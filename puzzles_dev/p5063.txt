@@ -1,5 +1,0 @@
-7 9
-spank 5 1 1
-chunk 3 4 1
-shaky 2 5 0
-honor 1 7 0

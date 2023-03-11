@@ -1,5 +1,0 @@
-7 10 darkness
-rusty 1 7 0
-atone 6 1 1
-basis 3 5 1
-obese 2 5 0

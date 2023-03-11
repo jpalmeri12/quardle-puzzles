@@ -1,6 +1,0 @@
-6 9 commonsecret
-overt 1 1 1
-venom 1 2 0
-rumor 1 4 0
-melon 3 4 1
-!secret o

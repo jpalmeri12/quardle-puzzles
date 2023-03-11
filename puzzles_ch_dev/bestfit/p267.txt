@@ -1,5 +1,0 @@
-7 8 bestfit
-humph 3 1 1
-pleat 5 3 1
-spelt 2 4 0
-flout 1 7 0

@@ -1,5 +1,0 @@
-7 10 dblltr
-award 5 1 1
-teddy 2 5 0
-dally 4 5 1
-dryly 1 7 0

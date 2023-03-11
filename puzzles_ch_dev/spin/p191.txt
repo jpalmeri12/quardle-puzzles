@@ -1,5 +1,0 @@
-6 10 spin
-brush 5 1 1
-cinch 1 5 0
-idyll 2 5 1
-flaky 1 8 0

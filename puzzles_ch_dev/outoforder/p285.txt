@@ -1,5 +1,0 @@
-7 8 outoforder
-growl 1 1 1
-slash 4 3 1
-whole 1 4 0
-ashen 2 7 0

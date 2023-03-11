@@ -1,5 +1,0 @@
-6 10
-exalt 4 1 1
-baste 1 5 0
-email 5 5 1
-banal 1 9 0

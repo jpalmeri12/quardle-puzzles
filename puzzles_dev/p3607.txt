@@ -1,5 +1,0 @@
-6 10
-vicar 4 1 1
-sheik 1 2 0
-mourn 1 5 0
-navel 5 5 1

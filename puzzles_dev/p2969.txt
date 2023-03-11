@@ -1,5 +1,0 @@
-6 10
-gruff 3 1 1
-burly 1 2 0
-refer 1 5 0
-randy 5 5 1

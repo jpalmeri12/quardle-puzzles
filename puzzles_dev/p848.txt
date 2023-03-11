@@ -1,5 +1,0 @@
-7 10
-sting 2 1 1
-token 2 2 0
-agape 1 5 0
-aphid 3 5 1

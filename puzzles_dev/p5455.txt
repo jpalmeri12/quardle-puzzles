@@ -1,5 +1,0 @@
-7 10
-claim 4 1 1
-allow 2 2 0
-crump 1 5 0
-rough 2 5 1

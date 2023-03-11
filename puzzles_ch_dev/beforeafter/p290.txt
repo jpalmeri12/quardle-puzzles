@@ -1,9 +1,0 @@
-7 10 beforeafter
-banjo 4 1 1
-beast 2 2 0
-mayor 1 5 0
-roach 5 5 1
-!beforeafter 1 i
-!beforeafter 2 o
-!beforeafter 1 n
-!beforeafter 1 l

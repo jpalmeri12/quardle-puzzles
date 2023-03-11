@@ -1,5 +1,0 @@
-7 10 spin
-broke 3 1 1
-treat 1 5 0
-artsy 4 5 1
-vista 2 8 0

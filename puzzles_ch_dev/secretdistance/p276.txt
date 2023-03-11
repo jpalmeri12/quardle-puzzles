@@ -1,7 +1,0 @@
-6 12 secretdistance
-broil 1 1 0
-lance 5 1 1
-blade 1 5 0
-arson 3 5 1
-plant 1 11 0
-!sdpos 2 1 1 2

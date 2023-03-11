@@ -1,5 +1,0 @@
-7 8
-curly 2 1 1
-crave 2 1 0
-brine 1 3 0
-event 5 3 1

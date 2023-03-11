@@ -1,6 +1,0 @@
-6 10 wordcolumn
-bless 3 1 1
-whiny 1 3 1
-wheat 1 3 0
-issue 1 5 0
-unwed 4 5 1

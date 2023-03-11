@@ -1,5 +1,0 @@
-7 8 elbowroom
-tally 3 1 1
-slush 2 3 0
-scour 5 3 1
-their 1 7 0

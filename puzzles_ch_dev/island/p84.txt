@@ -1,6 +1,0 @@
-7 9 island
-throb 1 1 1
-alloy 3 4 1
-balmy 1 5 0
-rough 2 7 0
-!island 221 211 11111 311

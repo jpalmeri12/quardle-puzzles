@@ -1,6 +1,0 @@
-7 9 commonsecret
-guile 3 1 1
-slime 2 4 0
-medic 5 4 1
-logic 1 8 0
-!secret i

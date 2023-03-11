@@ -1,6 +1,0 @@
-7 10 island
-alibi 3 1 1
-gloss 2 2 0
-spilt 1 5 0
-lunge 4 5 1
-!island 1111 211 2111 11111

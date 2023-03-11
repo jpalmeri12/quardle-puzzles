@@ -1,5 +1,0 @@
-6 8
-moult 1 1 0
-lance 4 1 1
-since 2 3 1
-hitch 1 4 0

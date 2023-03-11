@@ -1,5 +1,0 @@
-7 10 soundscramble
-favor 1 1 0
-veset 3 1 1
-stari 2 5 0
-idefy 6 5 1

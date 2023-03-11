@@ -1,5 +1,0 @@
-6 10
-pitch 1 1 0
-carve 4 1 1
-wiser 1 5 0
-imbue 2 5 1

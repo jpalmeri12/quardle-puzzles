@@ -1,5 +1,0 @@
-7 8 invention
-forgo 3 1 1
-swami 5 3 1
-flora 1 5 0
-tacit 2 7 0

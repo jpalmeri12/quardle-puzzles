@@ -1,5 +1,0 @@
-7 8 bestfit
-humid 1 1 0
-inlay 4 1 1
-churn 6 3 1
-brash 2 4 0

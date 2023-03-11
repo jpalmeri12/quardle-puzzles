@@ -1,6 +1,0 @@
-6 12 drop
-vital 4 1 1
-gusto 1 3 0
-stilt 1 5 0
-snowy 1 5 1
-lofty 1 11 0

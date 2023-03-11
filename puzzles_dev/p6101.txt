@@ -1,5 +1,0 @@
-7 10
-shack 2 1 0
-cargo 5 1 1
-condo 1 5 0
-dusty 4 5 1

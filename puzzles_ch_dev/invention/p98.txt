@@ -1,5 +1,0 @@
-7 7 invention
-above 2 1 1
-belie 2 2 0
-lucid 4 2 1
-relic 1 5 0

@@ -1,5 +1,0 @@
-7 8 outoforder
-clasp 2 1 1
-under 5 3 1
-stone 2 4 0
-lunar 1 7 0

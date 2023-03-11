@@ -1,6 +1,0 @@
-7 10 wordcolumn
-wrest 1 1 0
-small 4 1 1
-welsh 2 5 0
-silly 5 5 1
-manly 2 8 0

@@ -1,5 +1,0 @@
-6 7 unloved
-whelp 2 1 1
-whose 1 2 0
-saute 4 2 1
-album 1 4 0

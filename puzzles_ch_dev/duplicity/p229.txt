@@ -1,5 +1,0 @@
-7 10 duplicity
-stead 4 1 1
-ready 1 5 0
-yeast 5 5 1
-treat 2 7 0

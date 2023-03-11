@@ -1,5 +1,0 @@
-7 8
-quoth 5 1 1
-tumor 2 3 0
-utter 3 3 1
-merge 1 7 0

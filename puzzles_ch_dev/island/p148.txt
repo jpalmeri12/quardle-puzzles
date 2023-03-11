@@ -1,6 +1,0 @@
-6 7 island
-ether 5 1 1
-event 1 2 0
-voila 2 2 1
-tilde 1 4 0
-!island 31 1111 311 2111

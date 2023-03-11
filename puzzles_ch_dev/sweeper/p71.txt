@@ -1,5 +1,0 @@
-7 8 sweeper
-rhyme 6 1 1
-scaly 2 3 0
-chump 3 3 1
-puppy 1 7 0

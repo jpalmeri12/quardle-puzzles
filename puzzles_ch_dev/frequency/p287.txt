@@ -1,5 +1,0 @@
-6 9 frequency
-khaki 4 1 1
-spiky 1 4 0
-pudgy 2 4 1
-agora 1 7 0

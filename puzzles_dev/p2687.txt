@@ -1,5 +1,0 @@
-7 9
-spike 5 1 1
-ovine 2 4 1
-ovate 1 5 0
-essay 2 8 0

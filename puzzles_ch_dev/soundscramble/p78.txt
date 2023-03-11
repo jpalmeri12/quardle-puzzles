@@ -1,5 +1,0 @@
-6 10 soundscramble
-drama 3 1 1
-plank 1 5 0
-nesoy 4 5 1
-preso 1 7 0

@@ -1,5 +1,0 @@
-7 8 beta
-elder 3 1 1
-belly 1 2 0
-nymph 6 3 1
-needy 2 4 0

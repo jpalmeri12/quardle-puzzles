@@ -1,5 +1,0 @@
-7 9 swap
-eblly 1 1 1
-lodeg 1 4 0
-gauyd 5 4 1
-hunyk 2 7 0

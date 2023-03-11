@@ -1,5 +1,0 @@
-7 10 spaced
-leach 2 1 0
-crept 5 1 1
-chart 1 5 0
-clung 1 5 1

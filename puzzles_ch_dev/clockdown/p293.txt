@@ -1,5 +1,0 @@
-6 10 clockdown
-amaze 5 1 1
-globe 1 5 0
-lasso 2 5 1
-usurp 1 7 0

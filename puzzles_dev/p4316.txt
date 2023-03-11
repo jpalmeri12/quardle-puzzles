@@ -1,5 +1,0 @@
-7 10
-finch 3 1 1
-guide 1 2 0
-shake 2 5 0
-ember 6 5 1

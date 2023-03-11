@@ -1,5 +1,0 @@
-7 9 fourscore
-snake 3 1 1
-punch 1 2 0
-salty 6 4 1
-terra 2 5 0

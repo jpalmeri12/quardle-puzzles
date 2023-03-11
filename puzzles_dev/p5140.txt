@@ -1,5 +1,0 @@
-6 6
-kayak 1 1 0
-kebab 1 1 1
-yearn 3 1 1
-beast 1 3 0

@@ -1,5 +1,0 @@
-7 9
-credo 2 1 1
-draft 2 4 0
-flora 5 4 1
-mafia 1 8 0

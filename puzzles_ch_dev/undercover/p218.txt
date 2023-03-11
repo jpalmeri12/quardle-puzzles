@@ -1,6 +1,0 @@
-7 12 undercover
-brain 4 1 1
-spare 1 2 0
-venue 2 5 0
-elfin 3 5 1
-woozy 1 11 0

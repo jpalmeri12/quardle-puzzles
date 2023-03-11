@@ -1,5 +1,0 @@
-6 9 fourscore
-rotor 4 1 1
-afoot 1 2 0
-stoop 1 4 0
-stead 1 4 1

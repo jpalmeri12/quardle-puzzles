@@ -1,5 +1,0 @@
-7 10
-write 1 1 0
-rerun 2 1 1
-noise 2 5 0
-image 4 5 1

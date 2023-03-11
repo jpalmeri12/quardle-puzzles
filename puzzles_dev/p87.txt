@@ -1,5 +1,0 @@
-7 7
-gonad 5 1 1
-bingo 1 2 0
-natal 3 2 1
-stead 2 4 0

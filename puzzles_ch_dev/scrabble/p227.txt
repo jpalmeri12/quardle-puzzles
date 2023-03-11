@@ -1,5 +1,0 @@
-6 7 scrabble
-snoop 5 1 1
-vegan 1 2 0
-voice 1 2 1
-champ 1 5 0

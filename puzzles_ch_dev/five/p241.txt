@@ -1,6 +1,0 @@
-7 12 five
-learn 1 1 1
-naval 1 5 0
-lever 5 5 1
-curve 2 7 0
-chore 2 7 1

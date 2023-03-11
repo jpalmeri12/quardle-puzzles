@@ -1,5 +1,0 @@
-7 10
-space 2 1 1
-pivot 2 2 0
-deter 1 5 0
-tatty 3 5 1

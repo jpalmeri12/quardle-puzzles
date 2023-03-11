@@ -1,5 +1,0 @@
-7 9
-biome 1 1 1
-mummy 1 4 0
-mouth 4 4 1
-plush 2 6 0

@@ -1,6 +1,0 @@
-7 11 undercover
-screw 5 1 1
-pique 1 4 0
-quick 3 4 1
-skulk 2 8 0
-mamma 1 10 0

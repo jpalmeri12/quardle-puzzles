@@ -1,5 +1,0 @@
-7 10
-smock 5 1 1
-flock 1 5 0
-ought 3 5 1
-thigh 2 8 0

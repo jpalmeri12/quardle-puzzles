@@ -1,5 +1,0 @@
-6 7
-shock 1 1 1
-hotel 1 2 0
-tepee 3 2 1
-knead 1 5 0

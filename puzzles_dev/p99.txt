@@ -1,5 +1,0 @@
-6 8
-order 1 1 0
-eject 4 1 1
-libel 1 3 0
-impel 2 3 1

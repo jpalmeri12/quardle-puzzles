@@ -1,5 +1,0 @@
-7 9 fourscore
-berry 6 1 1
-usher 2 4 0
-spasm 3 4 1
-gusto 1 7 0

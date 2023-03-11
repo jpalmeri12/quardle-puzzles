@@ -1,5 +1,0 @@
-7 10
-fetus 5 1 1
-vista 2 3 0
-humus 1 5 0
-holly 1 5 1

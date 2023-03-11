@@ -1,9 +1,0 @@
-6 10 beforeafter
-lucid 5 1 1
-nomad 1 5 0
-mulch 3 5 1
-abhor 1 9 0
-!beforeafter 1 k
-!beforeafter 2 j
-!beforeafter 2 k
-!beforeafter 2 l

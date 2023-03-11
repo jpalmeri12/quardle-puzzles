@@ -1,5 +1,0 @@
-7 10
-arson 1 1 1
-newer 1 5 0
-reset 5 5 1
-fritz 2 9 0

@@ -1,5 +1,0 @@
-7 9 buyavowel
-cider 1 1 0
-relic 5 1 1
-shorn 2 4 1
-hutch 2 5 0

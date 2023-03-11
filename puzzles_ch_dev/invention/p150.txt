@@ -1,5 +1,0 @@
-7 10 invention
-super 4 1 1
-dwarf 1 5 0
-finch 5 5 1
-tract 2 8 0

@@ -1,5 +1,0 @@
-7 9
-batty 2 1 1
-style 1 4 0
-leash 4 4 1
-basil 2 7 0

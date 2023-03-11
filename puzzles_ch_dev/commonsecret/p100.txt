@@ -1,6 +1,0 @@
-6 8 commonsecret
-tapir 3 1 1
-udder 5 3 1
-fried 1 4 0
-scour 1 7 0
-!secret r

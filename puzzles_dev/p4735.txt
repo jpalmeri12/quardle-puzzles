@@ -1,5 +1,0 @@
-6 9
-pique 1 1 1
-perky 1 1 0
-upper 1 4 0
-rodeo 5 4 1

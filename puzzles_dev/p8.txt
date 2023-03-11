@@ -1,5 +1,0 @@
-6 9
-rayon 3 1 1
-leash 1 2 0
-close 1 4 0
-egret 5 4 1

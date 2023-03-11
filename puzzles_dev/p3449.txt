@@ -1,5 +1,0 @@
-6 8
-modal 1 1 0
-leggy 5 1 1
-piney 3 3 1
-boney 1 5 0

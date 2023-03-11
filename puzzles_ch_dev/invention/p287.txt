@@ -1,5 +1,0 @@
-7 9 invention
-board 6 1 1
-purer 2 4 0
-upper 3 4 1
-carry 1 8 0

@@ -1,5 +1,0 @@
-6 7 elbowroom
-rigor 2 1 1
-virus 1 2 0
-scald 5 2 1
-tonga 1 4 0

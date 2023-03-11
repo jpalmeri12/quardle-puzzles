@@ -1,7 +1,0 @@
-6 12 secretdistance
-boney 5 1 1
-outdo 1 2 0
-buddy 1 5 0
-druid 3 5 1
-gauze 1 11 0
-!sdpos 3 0 3 3

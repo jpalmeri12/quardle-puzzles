@@ -1,6 +1,0 @@
-7 10 commonsecret
-vying 4 1 1
-vapid 1 3 0
-vague 2 5 0
-video 2 5 1
-!secret v

@@ -1,6 +1,0 @@
-6 8 squaredance
-miner 1 1 1
-tumor 5 1 1
-moult 1 1 0
-racer 1 5 0
-stern 1 7 0

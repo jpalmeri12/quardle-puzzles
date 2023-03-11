@@ -1,5 +1,0 @@
-7 9
-slope 4 1 1
-sally 2 2 0
-adapt 1 4 0
-daily 2 4 1

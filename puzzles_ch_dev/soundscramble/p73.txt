@@ -1,5 +1,0 @@
-6 9 soundscramble
-egeta 1 1 0
-guppy 2 1 1
-spant 1 4 0
-timid 5 4 1

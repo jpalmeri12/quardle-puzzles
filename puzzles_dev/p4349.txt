@@ -1,5 +1,0 @@
-7 10
-devil 6 1 1
-mound 2 5 1
-modal 2 5 0
-under 1 8 0

@@ -1,5 +1,0 @@
-6 7
-whiff 4 1 1
-mocha 1 2 0
-occur 2 2 1
-scoff 1 4 0

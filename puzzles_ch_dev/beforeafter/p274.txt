@@ -1,9 +1,0 @@
-7 10 beforeafter
-omega 2 1 1
-hasty 1 5 0
-stale 3 5 1
-baton 2 7 0
-!beforeafter 1 i
-!beforeafter 1 r
-!beforeafter 1 n
-!beforeafter 1 m

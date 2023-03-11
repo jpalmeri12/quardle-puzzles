@@ -1,5 +1,0 @@
-7 8 bestfit
-ahead 1 1 1
-safer 3 3 1
-abate 1 4 0
-trait 2 7 0

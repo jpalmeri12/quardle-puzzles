@@ -1,5 +1,0 @@
-7 8 spaced
-rowdy 4 1 1
-wrack 2 3 1
-radio 2 4 0
-skimp 1 7 0

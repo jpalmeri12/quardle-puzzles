@@ -1,5 +1,0 @@
-6 10 buyavowel
-mucus 4 1 1
-cause 1 5 0
-apple 2 5 1
-spiny 1 7 0

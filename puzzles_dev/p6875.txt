@@ -1,5 +1,0 @@
-7 9
-dream 5 1 1
-score 2 2 0
-mania 1 4 0
-ardor 2 4 1

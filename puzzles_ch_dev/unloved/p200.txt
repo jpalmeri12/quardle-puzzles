@@ -1,5 +1,0 @@
-7 10 unloved
-viola 3 1 1
-woody 1 3 0
-mafia 2 5 0
-fried 4 5 1

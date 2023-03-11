@@ -1,5 +1,0 @@
-6 10 dblltr
-aroma 3 1 1
-swell 1 5 1
-swash 1 5 0
-eater 1 7 0

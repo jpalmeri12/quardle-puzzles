@@ -1,5 +1,0 @@
-6 9 spin
-sniff 1 1 0
-frown 5 1 1
-spook 1 4 1
-plain 1 5 0

@@ -1,6 +1,0 @@
-7 10 wordcolumn
-spoof 1 1 1
-skull 5 4 1
-fleck 1 5 0
-early 3 5 1
-troll 2 7 0

@@ -1,5 +1,0 @@
-7 9
-idyll 2 1 1
-parka 4 4 1
-leach 2 5 0
-quake 1 7 0

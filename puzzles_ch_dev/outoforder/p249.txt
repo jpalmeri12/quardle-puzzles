@@ -1,5 +1,0 @@
-7 9 outoforder
-brand 4 1 1
-manic 2 4 0
-mossy 2 4 1
-usual 1 7 0

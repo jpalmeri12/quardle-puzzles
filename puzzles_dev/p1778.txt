@@ -1,5 +1,0 @@
-6 9
-motor 4 1 1
-thorn 2 4 1
-chirp 1 5 0
-droop 1 7 0

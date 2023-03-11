@@ -1,5 +1,0 @@
-7 10
-cloud 2 1 1
-diode 2 5 0
-drier 5 5 1
-owner 1 9 0

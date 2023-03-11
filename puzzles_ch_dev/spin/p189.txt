@@ -1,5 +1,0 @@
-7 10 spin
-carry 1 1 0
-aunty 2 1 1
-yearn 2 5 0
-enema 3 5 1

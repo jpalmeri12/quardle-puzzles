@@ -1,5 +1,0 @@
-6 6
-vegan 1 1 1
-voila 4 1 1
-endow 1 2 0
-ample 1 4 0

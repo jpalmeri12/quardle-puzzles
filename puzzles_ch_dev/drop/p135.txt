@@ -1,6 +1,0 @@
-6 12 drop
-plant 1 1 1
-lumpy 1 2 0
-track 1 5 0
-awash 3 5 1
-salty 1 11 0

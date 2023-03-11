@@ -1,5 +1,0 @@
-7 8 frequency
-folio 2 1 1
-felon 2 1 0
-trail 5 3 1
-viper 1 4 0

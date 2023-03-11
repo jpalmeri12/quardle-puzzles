@@ -1,5 +1,0 @@
-7 8
-nicer 1 1 0
-ebony 4 1 1
-cabin 2 3 1
-bayou 2 5 0

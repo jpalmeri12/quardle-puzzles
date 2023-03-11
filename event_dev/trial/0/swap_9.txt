@@ -1,5 +1,0 @@
-6 7 swap
-huamn 2 1 1
-odwdy 4 2 1
-caedt 1 3 0
-inedx 1 5 0

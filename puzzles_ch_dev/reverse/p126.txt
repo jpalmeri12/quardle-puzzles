@@ -1,5 +1,0 @@
-6 10 reverse
-linen 5 1 1
-chili 1 2 0
-egdun 1 5 0
-esrap 1 5 1

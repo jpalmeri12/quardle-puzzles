@@ -1,6 +1,0 @@
-7 9 connectfive
-cabby 1 1 1
-befit 1 4 0
-faint 3 4 1
-dimly 2 6 0
-enter 1 8 0

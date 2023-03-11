@@ -1,5 +1,0 @@
-7 10
-prude 2 1 1
-eying 2 5 0
-nylon 5 5 1
-ocean 1 9 0

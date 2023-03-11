@@ -1,6 +1,0 @@
-7 11 undercover
-offal 4 1 1
-leafy 1 2 0
-dying 6 4 1
-billy 2 5 0
-truck 1 10 0

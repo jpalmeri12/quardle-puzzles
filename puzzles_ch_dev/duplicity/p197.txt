@@ -1,5 +1,0 @@
-7 10 duplicity
-phone 2 1 1
-recap 1 5 0
-acorn 4 5 1
-heron 2 8 0

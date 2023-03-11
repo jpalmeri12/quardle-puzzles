@@ -1,5 +1,0 @@
-7 8
-remit 1 1 0
-incur 4 1 1
-cocoa 2 3 0
-couch 2 3 1

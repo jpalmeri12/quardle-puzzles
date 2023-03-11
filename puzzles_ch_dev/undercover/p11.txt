@@ -1,6 +1,0 @@
-7 11 undercover
-clash 1 1 1
-stuff 1 4 0
-foist 4 4 1
-voice 2 6 0
-pygmy 1 10 0

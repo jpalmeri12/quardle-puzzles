@@ -1,5 +1,0 @@
-7 9
-gaffe 6 1 1
-dwarf 2 4 0
-apnea 4 4 1
-dying 1 6 0

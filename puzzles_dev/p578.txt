@@ -1,5 +1,0 @@
-7 10
-carat 4 1 1
-tread 1 2 0
-hitch 2 5 0
-holly 6 5 1

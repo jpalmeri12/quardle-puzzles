@@ -1,5 +1,0 @@
-7 9 scrabble
-aware 2 1 0
-young 5 4 1
-itchy 1 4 0
-wreck 3 1 1

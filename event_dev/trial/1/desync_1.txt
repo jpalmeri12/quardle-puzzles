@@ -1,5 +1,0 @@
-7 9 desync
-bayou 2 1 1
-utter 4 4 1
-gusty 1 5 0
-quell 2 7 0

@@ -1,6 +1,0 @@
-6 10 commonsecret
-hyena 1 1 1
-yeast 1 2 0
-aider 1 5 0
-devil 3 5 1
-!secret e

@@ -1,5 +1,0 @@
-7 9
-scant 4 1 1
-swing 1 4 0
-wrath 2 4 1
-heavy 2 8 0

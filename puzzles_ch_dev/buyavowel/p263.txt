@@ -1,5 +1,0 @@
-7 8 buyavowel
-lunch 2 1 1
-lefty 2 1 0
-enema 1 3 0
-aping 5 3 1

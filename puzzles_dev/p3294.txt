@@ -1,5 +1,0 @@
-7 9
-cycle 4 1 1
-vinyl 1 2 0
-molar 2 4 0
-mamma 2 4 1

@@ -1,6 +1,0 @@
-7 10 five
-unset 1 1 1
-unite 1 1 0
-thank 1 5 0
-knock 5 5 1
-which 2 8 0

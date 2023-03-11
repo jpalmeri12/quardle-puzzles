@@ -1,5 +1,0 @@
-6 7 hardmode
-cress 4 1 1
-nutty 2 2 1
-buyer 1 3 0
-stash 1 5 0

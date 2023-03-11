@@ -1,5 +1,0 @@
-7 10
-askew 2 1 1
-twice 1 5 0
-chime 4 5 1
-tamer 2 8 0

@@ -1,5 +1,0 @@
-6 9 skyscrapers
-utile 1 2 0
-start 2 1 1
-craft 1 4 0
-float 4 4 1

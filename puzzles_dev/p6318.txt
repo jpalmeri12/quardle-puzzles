@@ -1,5 +1,0 @@
-7 9
-chili 5 1 1
-wafer 3 4 1
-tapir 2 5 0
-forum 1 8 0

@@ -1,7 +1,0 @@
-7 12 secretdistance
-morph 2 1 0
-payer 5 1 1
-racer 1 5 0
-alpha 2 5 1
-usual 1 11 0
-!sdpos 0 2 1 0

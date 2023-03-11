@@ -1,5 +1,0 @@
-7 9
-embed 4 1 1
-grime 1 2 0
-steak 2 4 0
-kneel 6 4 1

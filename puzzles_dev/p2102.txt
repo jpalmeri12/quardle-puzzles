@@ -1,5 +1,0 @@
-7 10
-mince 5 1 1
-pecan 1 3 0
-dicey 2 5 0
-idler 3 5 1

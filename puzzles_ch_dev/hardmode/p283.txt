@@ -1,5 +1,0 @@
-7 9 hardmode
-alien 4 1 1
-vying 2 4 1
-tying 1 5 0
-nomad 2 7 0

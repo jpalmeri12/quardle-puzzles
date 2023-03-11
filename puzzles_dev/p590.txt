@@ -1,5 +1,0 @@
-7 10
-shift 2 1 1
-tonal 2 5 0
-ovary 3 5 1
-quasi 1 7 0

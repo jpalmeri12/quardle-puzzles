@@ -1,5 +1,0 @@
-7 9 sweeper
-spoil 2 1 1
-swoop 4 4 1
-lower 2 5 0
-onion 1 7 0

@@ -1,5 +1,0 @@
-6 9
-slurp 4 1 1
-chill 1 2 0
-scare 1 4 0
-sully 1 4 1

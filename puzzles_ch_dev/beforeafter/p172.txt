@@ -1,9 +1,0 @@
-7 10 beforeafter
-fetus 5 1 1
-voice 1 2 0
-abyss 2 5 0
-batty 3 5 1
-!beforeafter 1 o
-!beforeafter 1 j
-!beforeafter 1 o
-!beforeafter 1 p

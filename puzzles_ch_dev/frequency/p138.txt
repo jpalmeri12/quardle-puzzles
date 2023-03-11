@@ -1,5 +1,0 @@
-7 9 frequency
-chess 2 1 1
-chard 1 2 0
-staff 2 4 0
-force 5 4 1

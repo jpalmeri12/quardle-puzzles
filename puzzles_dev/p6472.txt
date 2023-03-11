@@ -1,5 +1,0 @@
-7 9
-fuzzy 5 1 1
-fizzy 2 4 0
-idiom 3 4 1
-human 1 8 0

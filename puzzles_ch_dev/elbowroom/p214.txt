@@ -1,5 +1,0 @@
-7 9 elbowroom
-smirk 1 1 1
-rabbi 1 4 0
-birch 3 4 1
-cheap 2 8 0

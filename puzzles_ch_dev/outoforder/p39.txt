@@ -1,5 +1,0 @@
-7 9 outoforder
-chili 1 1 1
-locus 1 4 0
-cabin 3 4 1
-unlit 2 8 0

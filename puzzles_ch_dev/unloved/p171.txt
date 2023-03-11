@@ -1,5 +1,0 @@
-7 9 unloved
-guest 1 1 0
-slump 4 1 1
-cumin 2 4 0
-navel 6 4 1

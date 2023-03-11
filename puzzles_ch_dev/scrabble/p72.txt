@@ -1,5 +1,0 @@
-7 7 scrabble
-terra 1 2 0
-yeast 2 1 1
-ankle 5 2 1
-sulky 2 4 0

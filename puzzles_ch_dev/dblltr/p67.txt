@@ -1,5 +1,0 @@
-7 8 dblltr
-repel 2 1 0
-elate 3 1 1
-lowly 1 3 1
-outdo 1 4 0

@@ -1,5 +1,0 @@
-7 9 darkness
-rabbi 5 1 1
-larva 1 2 0
-raise 3 4 1
-basis 2 5 0

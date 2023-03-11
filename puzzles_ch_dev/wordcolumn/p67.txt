@@ -1,6 +1,0 @@
-6 12 wordcolumn
-smoke 5 1 1
-humor 3 3 1
-skulk 1 4 0
-forge 1 7 0
-gaunt 4 7 1

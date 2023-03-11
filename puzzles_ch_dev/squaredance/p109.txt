@@ -1,6 +1,0 @@
-6 8 squaredance
-stoke 1 1 1
-enter 5 1 1
-scare 1 1 0
-eager 1 5 0
-shunt 1 7 0

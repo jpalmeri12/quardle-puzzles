@@ -1,5 +1,0 @@
-7 10 clockdown
-swept 1 1 0
-widen 2 1 1
-navel 2 5 0
-eagle 5 5 1

@@ -1,5 +1,0 @@
-7 10
-bonus 5 1 1
-rinse 2 5 0
-iliac 3 5 1
-trail 1 8 0

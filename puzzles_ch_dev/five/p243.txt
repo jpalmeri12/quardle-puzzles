@@ -1,6 +1,0 @@
-7 12 five
-agree 1 1 1
-grade 5 4 1
-enter 1 5 0
-biddy 2 7 0
-bless 2 7 1

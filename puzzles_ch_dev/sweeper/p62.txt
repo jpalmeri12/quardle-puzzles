@@ -1,5 +1,0 @@
-7 10 sweeper
-primo 6 1 1
-limbo 2 5 0
-bully 5 5 1
-avail 1 7 0

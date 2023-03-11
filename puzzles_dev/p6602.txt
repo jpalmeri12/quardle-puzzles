@@ -1,5 +1,0 @@
-7 10
-toxic 5 1 1
-saucy 2 5 0
-urine 4 5 1
-optic 1 7 0

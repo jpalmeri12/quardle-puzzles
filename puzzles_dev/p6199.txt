@@ -1,5 +1,0 @@
-7 8
-fiend 1 1 1
-dealt 4 3 1
-novel 1 4 0
-valve 2 6 0

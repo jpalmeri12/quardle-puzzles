@@ -1,6 +1,0 @@
-7 8 wordcolumn
-roger 4 1 1
-groin 6 2 1
-sinew 2 3 1
-sugar 2 3 0
-swoon 1 7 0

@@ -1,7 +1,0 @@
-6 6 fourthwall
-eager 1 1 0
-exact 1 1 1
-anode 1 3 0
-gross 3 1 1
-tasty 1 5 0
-reedy 5 1 1

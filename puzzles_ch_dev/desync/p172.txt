@@ -1,5 +1,0 @@
-6 7 desync
-mucus 3 1 1
-spiny 5 2 1
-recap 1 3 0
-risen 1 5 0

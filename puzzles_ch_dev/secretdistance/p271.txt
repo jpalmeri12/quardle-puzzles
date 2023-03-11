@@ -1,7 +1,0 @@
-7 11 secretdistance
-tally 6 1 1
-afoul 2 4 0
-fable 3 4 1
-debug 1 6 0
-flaky 1 10 0
-!sdpos 1 2 2 3

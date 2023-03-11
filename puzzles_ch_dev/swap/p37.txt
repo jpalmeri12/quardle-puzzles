@@ -1,5 +1,0 @@
-6 9 swap
-upree 1 1 1
-trapm 4 4 1
-eatrh 1 5 0
-uhmph 1 7 0

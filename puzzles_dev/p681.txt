@@ -1,5 +1,0 @@
-7 7
-going 6 1 1
-curry 2 2 1
-rayon 2 4 0
-cycle 1 6 0

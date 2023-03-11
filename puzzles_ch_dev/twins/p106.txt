@@ -1,8 +1,0 @@
-6 8 twins
-teddy 1 1 0
-lithe 1 3 0
-tilde 1 5 0
-radio 1 7 0
-!twins 1 3
-!twins 0 2
-!twins 1 2

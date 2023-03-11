@@ -1,5 +1,0 @@
-6 9 skyscrapers
-panel 1 7 0
-dying 3 4 1
-ruddy 1 4 0
-fairy 1 1 1

@@ -1,5 +1,0 @@
-6 9
-quiet 3 1 1
-glean 1 4 0
-needy 5 4 1
-pushy 1 8 0

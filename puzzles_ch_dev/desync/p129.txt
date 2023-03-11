@@ -1,5 +1,0 @@
-7 8 desync
-cache 5 1 1
-shack 2 3 0
-house 3 3 1
-wheel 1 7 0

@@ -1,5 +1,0 @@
-7 10
-udder 1 1 1
-relic 1 5 0
-ideal 4 5 1
-salon 2 9 0

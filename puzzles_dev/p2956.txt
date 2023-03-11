@@ -1,5 +1,0 @@
-7 9
-meaty 3 1 1
-seedy 2 2 0
-fatty 1 4 0
-fraud 1 4 1

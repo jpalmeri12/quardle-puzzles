@@ -1,5 +1,0 @@
-7 9 hardmode
-swoon 6 1 1
-brief 4 4 1
-baron 2 5 0
-eager 1 7 0

@@ -1,5 +1,0 @@
-6 10 duplicity
-trade 4 1 1
-natal 1 3 0
-laden 1 5 0
-alert 2 5 1

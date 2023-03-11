@@ -1,5 +1,0 @@
-6 9 altending
-guilt 1 1 0
-kneed 1 3 0
-credo 1 5 0
-outgo 1 7 0

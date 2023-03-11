@@ -1,5 +1,0 @@
-7 10
-fugue 4 1 1
-plumb 2 2 0
-brief 1 5 0
-roast 2 5 1

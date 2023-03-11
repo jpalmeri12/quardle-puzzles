@@ -1,5 +1,0 @@
-7 7
-tiara 3 1 1
-crick 1 2 0
-kebab 5 2 1
-tribe 2 4 0

@@ -1,5 +1,0 @@
-7 7 elbowroom
-exult 5 1 1
-affix 1 2 0
-forum 2 2 1
-unite 2 5 0

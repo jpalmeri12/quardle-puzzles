@@ -1,5 +1,0 @@
-6 7 soundscramble
-cloth 5 1 1
-vatil 1 2 0
-vaoli 1 2 1
-orbat 1 4 0

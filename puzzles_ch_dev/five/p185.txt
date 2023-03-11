@@ -1,6 +1,0 @@
-7 10 five
-vicar 2 1 1
-rally 2 5 0
-antic 3 5 1
-start 2 7 0
-itchy 1 9 0

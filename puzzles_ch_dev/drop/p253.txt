@@ -1,6 +1,0 @@
-6 11 drop
-avoid 1 1 0
-vista 2 1 1
-grind 5 4 1
-baker 1 5 0
-draft 1 10 0

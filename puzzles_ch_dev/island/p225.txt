@@ -1,6 +1,0 @@
-7 10 island
-dress 5 1 1
-chess 1 5 0
-snide 4 5 1
-stein 2 9 0
-!island 4 211 311 2111

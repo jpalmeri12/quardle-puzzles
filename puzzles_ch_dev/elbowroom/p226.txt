@@ -1,5 +1,0 @@
-7 10 elbowroom
-betel 2 1 0
-tumor 4 1 1
-sharp 1 5 0
-abate 3 5 1

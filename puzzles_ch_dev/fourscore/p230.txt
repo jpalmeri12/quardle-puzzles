@@ -1,5 +1,0 @@
-7 9 fourscore
-slush 2 1 1
-blame 1 2 0
-drain 6 4 1
-hyper 2 5 0

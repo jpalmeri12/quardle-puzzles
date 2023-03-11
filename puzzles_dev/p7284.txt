@@ -1,5 +1,0 @@
-6 8
-grape 1 1 0
-radar 2 1 1
-found 5 3 1
-taboo 1 4 0

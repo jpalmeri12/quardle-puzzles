@@ -1,5 +1,0 @@
-6 8 dblltr
-fluff 1 1 0
-foggy 4 1 1
-wedge 1 3 0
-evoke 2 3 1

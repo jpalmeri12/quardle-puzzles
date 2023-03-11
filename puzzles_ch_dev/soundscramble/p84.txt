@@ -1,5 +1,0 @@
-6 8 soundscramble
-curry 5 1 1
-wedir 1 3 0
-droni 3 3 1
-seivi 1 7 0

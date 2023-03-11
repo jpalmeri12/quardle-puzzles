@@ -1,5 +1,0 @@
-6 8
-pulse 1 1 1
-worse 3 3 1
-storm 1 4 0
-preen 1 7 0

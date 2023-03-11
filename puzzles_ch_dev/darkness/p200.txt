@@ -1,5 +1,0 @@
-6 8 darkness
-tasty 4 1 1
-tipsy 1 3 0
-quite 1 1 0
-irate 2 3 1

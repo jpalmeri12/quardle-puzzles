@@ -1,5 +1,0 @@
-7 9
-worth 2 1 1
-flume 4 4 1
-shelf 1 5 0
-quell 2 8 0

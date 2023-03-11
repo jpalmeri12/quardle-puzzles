@@ -1,5 +1,0 @@
-6 6 shiritori
-thumb 1 1 0
-heath 2 1 1
-belly 5 1 1
-basil 1 3 0

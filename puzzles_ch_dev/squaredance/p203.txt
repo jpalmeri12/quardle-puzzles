@@ -1,6 +1,0 @@
-6 8 squaredance
-front 1 1 1
-tying 5 1 1
-flirt 1 1 0
-thing 1 5 0
-shiny 1 7 0

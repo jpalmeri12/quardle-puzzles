@@ -1,5 +1,0 @@
-7 10 bestfit
-bayou 2 1 1
-outgo 1 5 0
-tryst 3 5 1
-tying 2 7 0

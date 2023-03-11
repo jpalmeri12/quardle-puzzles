@@ -1,5 +1,0 @@
-6 10 duplicity
-close 4 1 1
-islet 1 5 0
-spice 2 5 1
-pilot 1 7 0

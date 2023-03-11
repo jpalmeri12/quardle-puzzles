@@ -1,6 +1,0 @@
-6 12 undercover
-bayou 1 1 1
-uncut 1 5 0
-twang 5 5 1
-tonga 1 7 0
-skill 1 11 0

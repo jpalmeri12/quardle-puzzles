@@ -1,5 +1,0 @@
-7 10
-stave 5 1 1
-ledge 1 5 0
-exert 2 5 1
-taboo 2 9 0

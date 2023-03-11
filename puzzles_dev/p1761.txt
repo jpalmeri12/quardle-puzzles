@@ -1,5 +1,0 @@
-7 8
-final 5 1 1
-haunt 3 3 1
-drama 1 4 0
-steam 2 7 0

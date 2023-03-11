@@ -1,5 +1,0 @@
-7 8
-surly 5 1 1
-hymen 3 3 1
-jumpy 1 5 0
-anvil 2 7 0

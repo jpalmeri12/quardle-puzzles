@@ -1,5 +1,0 @@
-6 7 frequency
-panel 4 1 1
-scare 1 2 1
-stray 1 2 0
-agree 1 4 0

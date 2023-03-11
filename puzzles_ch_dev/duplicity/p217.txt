@@ -1,5 +1,0 @@
-7 10 duplicity
-eking 2 1 1
-niece 1 3 0
-gecko 2 5 0
-knock 5 5 1

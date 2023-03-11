@@ -1,5 +1,0 @@
-7 9 shiritori
-edify 1 1 1
-freer 1 4 0
-eater 3 4 1
-grate 2 8 0

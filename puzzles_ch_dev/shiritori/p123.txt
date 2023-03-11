@@ -1,5 +1,0 @@
-6 7 shiritori
-truth 2 1 1
-trade 1 2 0
-delve 4 2 1
-stale 1 4 0

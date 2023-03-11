@@ -1,5 +1,0 @@
-6 9
-liege 4 1 1
-trait 1 2 0
-mangy 1 4 0
-merge 1 4 1

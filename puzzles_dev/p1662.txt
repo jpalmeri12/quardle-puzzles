@@ -1,5 +1,0 @@
-7 9
-macaw 2 1 1
-anger 4 4 1
-swine 1 5 0
-serum 2 8 0

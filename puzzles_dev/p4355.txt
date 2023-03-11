@@ -1,5 +1,0 @@
-7 10
-hippy 6 1 1
-flash 2 5 1
-fanny 2 5 0
-askew 1 8 0

@@ -1,5 +1,0 @@
-7 9 bestfit
-augur 5 1 1
-batch 2 4 1
-aware 2 5 0
-scold 1 7 0

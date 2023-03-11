@@ -1,5 +1,0 @@
-6 9 swap
-raelm 2 1 1
-flaek 5 4 1
-emtal 1 5 0
-leide 1 7 0

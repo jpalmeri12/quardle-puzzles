@@ -1,5 +1,0 @@
-7 9 desync
-polyp 4 1 1
-floor 1 2 0
-ovine 2 4 1
-vapid 2 5 0

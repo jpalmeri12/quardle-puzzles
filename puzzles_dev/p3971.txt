@@ -1,5 +1,0 @@
-7 10
-flume 2 1 1
-belch 1 5 0
-loyal 3 5 1
-clock 2 9 0

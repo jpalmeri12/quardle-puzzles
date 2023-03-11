@@ -1,5 +1,0 @@
-6 10 scrabble
-trail 1 2 0
-llama 1 5 0
-frail 2 1 1
-lumpy 1 5 1

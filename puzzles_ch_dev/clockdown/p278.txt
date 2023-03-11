@@ -1,5 +1,0 @@
-7 8 clockdown
-thyme 5 1 1
-lucky 1 3 0
-climb 3 3 1
-dicey 2 5 0

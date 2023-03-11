@@ -1,6 +1,0 @@
-6 9 undercover
-habit 3 1 1
-flame 1 2 0
-flick 1 2 1
-idiom 1 4 0
-wrung 1 8 0

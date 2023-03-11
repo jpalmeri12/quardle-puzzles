@@ -1,5 +1,0 @@
-7 10
-quash 2 1 1
-sauce 1 3 0
-horse 2 5 0
-oaken 3 5 1

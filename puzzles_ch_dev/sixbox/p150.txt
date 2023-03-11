@@ -1,7 +1,0 @@
-8 8 sixbox
-apnea 3 1 1
-sixth 5 1 1
-annex 1 3 0
-extra 4 3 1
-extol 3 4 0
-loath 1 5 0

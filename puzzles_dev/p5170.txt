@@ -1,5 +1,0 @@
-7 10
-fixer 2 1 1
-robin 2 5 0
-beget 4 5 1
-pixel 1 8 0

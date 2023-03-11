@@ -1,5 +1,0 @@
-7 8 bestfit
-augur 5 1 1
-metal 3 3 1
-stern 2 5 0
-gully 1 7 0

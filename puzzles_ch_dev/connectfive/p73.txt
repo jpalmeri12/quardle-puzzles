@@ -1,6 +1,0 @@
-7 10 connectfive
-stamp 2 1 0
-trend 3 1 1
-realm 2 3 0
-widow 1 5 0
-wacky 5 5 1

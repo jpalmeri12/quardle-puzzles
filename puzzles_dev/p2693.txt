@@ -1,5 +1,0 @@
-7 10
-split 5 1 1
-snout 1 5 0
-under 4 5 1
-crept 2 8 0

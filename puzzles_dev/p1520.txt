@@ -1,5 +1,0 @@
-6 6
-foray 1 1 1
-sneak 3 1 1
-owner 1 2 0
-abase 1 4 0

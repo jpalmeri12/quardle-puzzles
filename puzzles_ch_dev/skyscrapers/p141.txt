@@ -1,5 +1,0 @@
-7 8 skyscrapers
-vague 5 1 1
-genie 1 5 0
-bleat 2 3 1
-bingo 2 3 0

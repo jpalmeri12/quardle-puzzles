@@ -1,5 +1,0 @@
-7 10
-manor 4 1 1
-snarl 1 5 0
-layer 5 5 1
-abort 2 9 0

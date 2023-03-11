@@ -1,5 +1,0 @@
-6 7
-farce 4 1 1
-swear 1 2 0
-shelf 1 2 1
-leper 1 5 0

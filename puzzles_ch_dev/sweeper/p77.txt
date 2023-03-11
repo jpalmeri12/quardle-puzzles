@@ -1,5 +1,0 @@
-6 9 sweeper
-stout 4 1 1
-aptly 1 4 1
-pesto 1 5 0
-llama 1 7 0

@@ -1,5 +1,0 @@
-6 9
-ghost 4 1 1
-dense 1 4 0
-dryly 1 4 1
-yacht 1 8 0

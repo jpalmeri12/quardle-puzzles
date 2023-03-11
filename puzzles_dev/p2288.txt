@@ -1,5 +1,0 @@
-7 7
-sigma 1 1 1
-inept 1 2 0
-print 4 2 1
-fatal 2 6 0

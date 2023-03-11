@@ -1,5 +1,0 @@
-7 10 sweeper
-kappa 5 1 1
-woman 2 2 0
-voila 1 5 0
-virus 1 5 1

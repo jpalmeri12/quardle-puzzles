@@ -1,5 +1,0 @@
-7 7 outoforder
-bacon 5 1 1
-inlet 3 2 1
-manic 1 3 0
-penne 2 5 0

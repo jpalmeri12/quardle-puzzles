@@ -1,5 +1,0 @@
-6 7
-crave 2 1 1
-droop 1 2 0
-odder 4 2 1
-fever 1 5 0

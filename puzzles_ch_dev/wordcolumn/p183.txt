@@ -1,6 +1,0 @@
-7 8 wordcolumn
-lurch 4 1 1
-gummy 6 1 1
-scrum 2 3 0
-sedan 2 3 1
-unity 1 7 0

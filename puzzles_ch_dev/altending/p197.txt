@@ -1,5 +1,0 @@
-6 9 altending
-ideal 1 1 0
-trite 1 3 0
-grape 1 5 0
-agate 1 7 0

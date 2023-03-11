@@ -1,8 +1,0 @@
-6 8 twins
-snort 1 1 0
-outgo 1 3 0
-begin 1 5 0
-amity 1 7 0
-!twins 2 4
-!twins 0 2
-!twins 3 4

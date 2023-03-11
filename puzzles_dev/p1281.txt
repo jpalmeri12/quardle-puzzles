@@ -1,5 +1,0 @@
-7 10
-brunt 4 1 1
-vouch 2 3 0
-forth 1 5 0
-reach 3 5 1

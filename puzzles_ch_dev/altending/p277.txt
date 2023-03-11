@@ -1,5 +1,0 @@
-6 9 altending
-front 1 1 0
-brute 1 3 0
-smith 1 5 0
-brook 1 7 0

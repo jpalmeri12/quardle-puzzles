@@ -1,5 +1,0 @@
-6 7
-dandy 5 1 1
-mania 1 2 0
-never 3 2 1
-vivid 1 4 0

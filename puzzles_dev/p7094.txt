@@ -1,5 +1,0 @@
-6 7
-gamma 2 1 1
-mangy 1 2 0
-geeky 4 2 1
-emcee 1 4 0

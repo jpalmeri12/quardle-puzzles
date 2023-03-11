@@ -1,5 +1,0 @@
-7 10
-bough 4 1 1
-snoop 2 2 0
-bathe 1 5 0
-tweak 3 5 1

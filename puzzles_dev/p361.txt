@@ -1,5 +1,0 @@
-6 7
-welsh 5 1 1
-curse 1 2 0
-utile 2 2 1
-minus 1 4 0

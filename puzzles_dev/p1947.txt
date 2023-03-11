@@ -1,5 +1,0 @@
-7 10
-topaz 1 1 1
-zesty 1 5 0
-tense 4 5 1
-mushy 2 8 0

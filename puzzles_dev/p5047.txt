@@ -1,5 +1,0 @@
-6 8
-radio 1 1 0
-radar 1 1 1
-ditch 1 3 0
-third 3 3 1

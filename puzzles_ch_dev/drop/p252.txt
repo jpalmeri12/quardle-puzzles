@@ -1,6 +1,0 @@
-6 10 drop
-handy 3 1 1
-tango 1 3 0
-olive 5 3 1
-purse 1 7 0
-sooty 1 9 0

@@ -1,9 +1,0 @@
-6 9 beforeafter
-pupal 5 1 1
-lynch 3 4 1
-idyll 1 5 0
-locus 1 7 0
-!beforeafter 2 n
-!beforeafter 2 i
-!beforeafter 1 k
-!beforeafter 2 p

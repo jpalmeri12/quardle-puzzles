@@ -1,6 +1,0 @@
-7 10 five
-spite 2 1 1
-human 5 1 1
-pique 2 2 0
-seven 1 5 0
-salty 1 5 1

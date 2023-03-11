@@ -1,5 +1,0 @@
-6 10
-dozen 3 1 1
-glory 1 2 0
-tangy 1 5 0
-tacit 1 5 1

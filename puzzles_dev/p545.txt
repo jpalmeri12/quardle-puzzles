@@ -1,5 +1,0 @@
-7 10
-pagan 2 1 0
-guard 4 1 1
-giddy 1 5 0
-inbox 2 5 1

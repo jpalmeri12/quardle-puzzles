@@ -1,6 +1,0 @@
-7 9 five
-yeast 2 1 1
-ebony 2 2 0
-asset 1 4 0
-elect 4 4 1
-decor 2 7 0

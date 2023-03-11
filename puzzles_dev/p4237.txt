@@ -1,5 +1,0 @@
-6 7
-debug 4 1 1
-wring 1 2 1
-wager 1 2 0
-nudge 1 5 0

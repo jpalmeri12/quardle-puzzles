@@ -1,5 +1,0 @@
-6 9 bestfit
-plaid 1 1 1
-ledge 1 2 0
-awake 4 4 1
-drown 1 5 0

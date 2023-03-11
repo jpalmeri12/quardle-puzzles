@@ -1,5 +1,0 @@
-6 7
-vague 4 1 1
-vocal 1 2 0
-visit 1 2 1
-strut 1 4 0

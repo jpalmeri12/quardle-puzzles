@@ -1,5 +1,0 @@
-7 9
-olden 1 1 0
-elbow 4 1 1
-fjord 2 4 0
-denim 6 4 1

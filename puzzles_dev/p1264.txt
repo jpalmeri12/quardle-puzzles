@@ -1,5 +1,0 @@
-7 9
-fluid 4 1 1
-filly 2 2 0
-plain 1 4 0
-pagan 1 4 1

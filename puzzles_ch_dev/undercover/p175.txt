@@ -1,6 +1,0 @@
-6 9 undercover
-epoch 5 1 1
-blimp 1 2 0
-lapel 2 2 1
-tenth 1 5 0
-fussy 1 8 0

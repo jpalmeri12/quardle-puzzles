@@ -1,5 +1,0 @@
-7 10 spin
-whoop 5 1 1
-trump 1 5 0
-until 3 5 1
-stage 2 7 0

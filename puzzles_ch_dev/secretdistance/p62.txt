@@ -1,7 +1,0 @@
-7 12 secretdistance
-fewer 6 1 1
-humor 2 5 0
-ozone 5 5 1
-curio 1 7 0
-nasal 1 11 0
-!sdpos 1 0 0 0

@@ -1,6 +1,0 @@
-7 12 connectfive
-gecko 4 1 1
-igloo 1 5 0
-llama 3 5 1
-plank 6 7 1
-small 2 8 0

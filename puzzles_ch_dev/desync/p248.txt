@@ -1,5 +1,0 @@
-7 7 desync
-basin 1 1 0
-salvo 3 1 1
-spore 6 2 1
-motor 2 5 0

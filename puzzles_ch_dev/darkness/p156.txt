@@ -1,5 +1,0 @@
-7 9 darkness
-tulle 6 4 1
-outdo 3 1 1
-admit 2 4 0
-trump 1 2 0

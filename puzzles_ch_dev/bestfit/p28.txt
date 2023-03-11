@@ -1,5 +1,0 @@
-7 9 bestfit
-going 1 1 1
-venue 3 4 1
-greed 1 5 0
-burly 2 7 0

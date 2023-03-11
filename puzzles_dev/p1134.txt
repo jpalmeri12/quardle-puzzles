@@ -1,5 +1,0 @@
-7 10
-seize 5 1 1
-opine 1 5 0
-prick 2 5 1
-icily 2 7 0

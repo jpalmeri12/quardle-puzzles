@@ -1,5 +1,0 @@
-7 9
-gipsy 2 1 1
-ascot 1 4 0
-teach 5 4 1
-check 2 7 0

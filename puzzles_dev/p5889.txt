@@ -1,5 +1,0 @@
-7 10
-input 5 1 1
-doubt 1 5 0
-bacon 4 5 1
-pecan 2 7 0

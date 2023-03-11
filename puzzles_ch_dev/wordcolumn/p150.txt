@@ -1,6 +1,0 @@
-6 9 wordcolumn
-thump 1 1 1
-trice 1 1 0
-adopt 3 3 1
-model 1 4 0
-layer 5 4 1

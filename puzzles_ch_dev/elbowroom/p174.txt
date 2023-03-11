@@ -1,5 +1,0 @@
-7 10 elbowroom
-tipsy 4 1 1
-ranch 2 5 1
-rayon 2 5 0
-enemy 1 7 0

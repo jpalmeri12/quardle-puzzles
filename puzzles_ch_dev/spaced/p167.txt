@@ -1,5 +1,0 @@
-6 10 spaced
-awful 2 1 1
-awoke 1 2 0
-place 1 5 0
-craft 4 5 1

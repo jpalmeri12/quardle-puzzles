@@ -1,5 +1,0 @@
-7 10
-hoard 4 1 1
-trade 1 5 0
-refit 2 5 1
-tabby 2 9 0

@@ -1,5 +1,0 @@
-7 10 bestfit
-agora 1 1 0
-greet 2 1 1
-truck 2 5 0
-kitty 6 5 1

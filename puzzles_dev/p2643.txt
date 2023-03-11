@@ -1,5 +1,0 @@
-6 10
-warty 2 1 1
-pygmy 1 5 0
-melee 4 5 1
-facet 1 9 0

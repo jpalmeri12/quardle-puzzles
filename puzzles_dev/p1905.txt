@@ -1,5 +1,0 @@
-6 7
-mower 3 1 1
-alloy 1 2 1
-abode 1 2 0
-liege 1 4 0

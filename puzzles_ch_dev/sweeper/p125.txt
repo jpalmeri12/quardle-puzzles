@@ -1,5 +1,0 @@
-6 7 sweeper
-stern 5 1 1
-worry 3 2 1
-awoke 1 3 0
-heron 1 5 0

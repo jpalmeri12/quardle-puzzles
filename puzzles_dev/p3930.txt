@@ -1,5 +1,0 @@
-7 10
-farce 4 1 1
-cower 1 5 0
-weary 3 5 1
-kayak 2 7 0

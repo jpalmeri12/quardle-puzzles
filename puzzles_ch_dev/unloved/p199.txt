@@ -1,5 +1,0 @@
-7 7 unloved
-sandy 1 1 0
-derby 4 1 1
-bunch 6 2 1
-robin 2 4 0

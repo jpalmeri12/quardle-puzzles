@@ -1,6 +1,0 @@
-7 8 connectfive
-horde 1 1 0
-often 2 1 1
-turbo 2 3 0
-rebar 4 3 1
-torch 2 7 0

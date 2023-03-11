@@ -1,5 +1,0 @@
-6 7 spin
-gland 3 1 1
-share 1 2 1
-heavy 1 3 0
-ruder 1 5 0

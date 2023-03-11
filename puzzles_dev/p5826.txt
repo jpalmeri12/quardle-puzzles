@@ -1,5 +1,0 @@
-7 8
-dealt 1 1 1
-smart 3 3 1
-lemon 1 4 0
-cried 2 6 0

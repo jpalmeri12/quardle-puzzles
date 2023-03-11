@@ -1,7 +1,0 @@
-6 10 secretdistance
-sappy 1 1 1
-smoky 1 1 0
-diary 3 3 1
-pride 1 4 0
-caput 1 9 0
-!sdpos 1 1 0 3

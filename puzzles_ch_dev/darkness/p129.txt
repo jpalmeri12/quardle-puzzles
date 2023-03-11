@@ -1,5 +1,0 @@
-7 10 darkness
-ensue 2 3 0
-ester 1 5 0
-train 3 5 1
-dress 2 1 1

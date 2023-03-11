@@ -1,5 +1,0 @@
-6 10
-polyp 2 1 1
-flick 1 3 0
-spout 1 5 0
-utter 4 5 1

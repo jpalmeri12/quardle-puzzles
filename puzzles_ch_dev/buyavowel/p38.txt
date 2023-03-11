@@ -1,5 +1,0 @@
-6 7 buyavowel
-waltz 3 1 1
-stead 5 2 1
-islet 1 3 0
-pizza 1 5 0

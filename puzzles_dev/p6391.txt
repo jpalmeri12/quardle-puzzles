@@ -1,5 +1,0 @@
-7 9
-shied 1 1 1
-gloom 5 4 1
-dowel 1 5 0
-femme 2 8 0

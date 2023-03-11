@@ -1,5 +1,0 @@
-6 6 soundscramble
-abyss 1 1 1
-wiegh 4 1 1
-bakir 1 2 0
-seght 1 5 0

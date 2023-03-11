@@ -1,5 +1,0 @@
-7 10 sweeper
-cubic 5 1 1
-probe 2 3 0
-sonic 1 5 0
-iliac 4 5 1

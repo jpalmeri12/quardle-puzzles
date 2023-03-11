@@ -1,5 +1,0 @@
-6 8 bestfit
-icing 1 1 1
-incur 1 1 0
-recut 4 3 1
-gulch 1 5 0

@@ -1,5 +1,0 @@
-7 10
-grant 5 1 1
-magma 1 3 0
-brute 2 5 0
-easel 6 5 1

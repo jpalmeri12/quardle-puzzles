@@ -1,5 +1,0 @@
-6 8 reverse
-kaeps 1 1 0
-shuck 5 1 1
-latco 2 3 1
-manic 1 4 0

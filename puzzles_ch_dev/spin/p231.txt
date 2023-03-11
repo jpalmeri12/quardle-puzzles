@@ -1,5 +1,0 @@
-7 10 spin
-picky 4 1 1
-polyp 1 5 0
-olive 2 5 1
-infer 2 7 0

@@ -1,5 +1,0 @@
-7 10 fourscore
-livid 1 1 1
-dense 1 5 0
-sinew 4 5 1
-penal 2 7 0

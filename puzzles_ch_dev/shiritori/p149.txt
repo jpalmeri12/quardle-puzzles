@@ -1,5 +1,0 @@
-7 9 shiritori
-paddy 2 1 0
-drone 4 1 1
-eying 1 4 0
-yacht 2 4 1

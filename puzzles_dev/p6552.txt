@@ -1,5 +1,0 @@
-7 10
-pasty 3 1 1
-maple 2 2 0
-layer 1 5 0
-lipid 1 5 1

@@ -1,6 +1,0 @@
-7 10 island
-magma 2 1 1
-bayou 1 5 0
-uncle 5 5 1
-dunce 2 7 0
-!island 111 2111 11111 311

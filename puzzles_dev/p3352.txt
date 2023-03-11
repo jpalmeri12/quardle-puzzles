@@ -1,5 +1,0 @@
-7 10
-denim 2 1 1
-mound 2 5 0
-north 5 5 1
-flout 1 8 0

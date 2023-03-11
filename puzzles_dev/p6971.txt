@@ -1,5 +1,0 @@
-7 10
-savoy 5 1 1
-koala 1 2 0
-satyr 2 5 0
-snowy 2 5 1

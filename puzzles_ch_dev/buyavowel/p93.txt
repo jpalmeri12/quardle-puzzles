@@ -1,5 +1,0 @@
-6 7 buyavowel
-stump 1 1 1
-tubal 1 2 0
-aphid 4 2 1
-plait 1 5 0

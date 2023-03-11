@@ -1,5 +1,0 @@
-7 10
-ether 2 1 1
-renew 2 5 0
-envoy 3 5 1
-drown 1 8 0

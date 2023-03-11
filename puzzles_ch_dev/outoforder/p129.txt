@@ -1,5 +1,0 @@
-7 8 outoforder
-floss 2 1 1
-blame 4 3 1
-shame 2 5 0
-roger 1 7 0

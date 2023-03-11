@@ -1,5 +1,0 @@
-7 9
-betel 4 1 1
-preen 2 2 0
-cameo 1 4 0
-clued 1 4 1

@@ -1,9 +1,0 @@
-7 9 beforeafter
-smock 5 1 1
-trace 2 4 0
-trick 2 4 1
-occur 1 7 0
-!beforeafter 2 l
-!beforeafter 1 o
-!beforeafter 1 l
-!beforeafter 2 p

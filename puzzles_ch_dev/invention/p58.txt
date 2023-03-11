@@ -1,5 +1,0 @@
-7 10 invention
-draft 1 1 0
-terra 5 1 1
-scram 2 5 0
-canoe 3 5 1

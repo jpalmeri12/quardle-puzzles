@@ -1,6 +1,0 @@
-7 8 wordcolumn
-imply 1 1 1
-stead 3 1 1
-shoal 5 3 1
-loath 1 4 0
-spelt 2 7 0

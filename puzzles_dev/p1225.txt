@@ -1,5 +1,0 @@
-7 7
-briny 1 1 1
-fudge 4 2 1
-imbue 1 3 0
-freer 2 6 0

@@ -1,5 +1,0 @@
-7 10 desync
-conic 4 1 1
-fungi 2 3 0
-beach 1 5 0
-eaten 2 5 1

@@ -1,5 +1,0 @@
-7 9 buyavowel
-serum 5 1 1
-blare 1 2 0
-thorn 3 4 1
-chime 2 5 0

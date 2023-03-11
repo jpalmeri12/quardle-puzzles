@@ -1,5 +1,0 @@
-7 10 darkness
-apnea 1 5 0
-infer 2 7 0
-paint 2 5 1
-cobra 1 1 1

@@ -1,5 +1,0 @@
-7 10
-month 2 1 1
-noise 2 3 0
-shrew 1 5 0
-ruler 3 5 1

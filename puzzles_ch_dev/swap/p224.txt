@@ -1,5 +1,0 @@
-6 10 swap
-sklul 5 1 1
-moega 1 5 1
-mougl 1 5 0
-goeoy 1 8 0

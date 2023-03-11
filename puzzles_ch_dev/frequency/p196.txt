@@ -1,5 +1,0 @@
-6 6 frequency
-reign 2 1 1
-rearm 4 1 1
-tepee 1 2 0
-agora 1 4 0

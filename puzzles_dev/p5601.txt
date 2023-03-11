@@ -1,5 +1,0 @@
-6 10
-offer 4 1 1
-aloft 1 2 0
-snore 1 5 0
-sloth 1 5 1

@@ -1,5 +1,0 @@
-6 7 dblltr
-terra 2 1 1
-penne 1 2 0
-exert 5 2 1
-creme 1 4 0

@@ -1,5 +1,0 @@
-7 7
-wrath 1 1 1
-idiot 3 2 1
-ardor 1 3 0
-stave 2 6 0

@@ -1,5 +1,0 @@
-7 9
-bigot 2 1 0
-oxide 5 1 1
-hound 1 4 0
-hyena 1 4 1

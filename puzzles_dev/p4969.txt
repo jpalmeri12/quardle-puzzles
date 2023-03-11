@@ -1,5 +1,0 @@
-7 7
-chill 1 1 1
-human 1 2 0
-naive 5 2 1
-gavel 2 6 0

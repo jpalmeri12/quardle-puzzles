@@ -1,5 +1,0 @@
-7 9 reverse
-beach 5 1 1
-yeson 2 4 1
-elihw 2 5 0
-noise 1 7 0

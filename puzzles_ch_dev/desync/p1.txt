@@ -1,5 +1,0 @@
-7 10 desync
-count 5 1 1
-ennui 2 3 0
-digit 1 5 0
-inter 2 5 1

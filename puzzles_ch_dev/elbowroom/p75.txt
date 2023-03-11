@@ -1,5 +1,0 @@
-6 8 elbowroom
-chief 2 1 1
-grunt 5 3 1
-lemur 1 4 0
-scant 1 7 0

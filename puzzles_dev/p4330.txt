@@ -1,5 +1,0 @@
-7 9
-foamy 2 1 1
-smock 1 4 0
-known 5 4 1
-shawl 2 7 0

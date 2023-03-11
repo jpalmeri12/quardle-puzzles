@@ -1,5 +1,0 @@
-7 10
-coach 1 1 1
-hello 1 5 0
-oxide 5 5 1
-rowdy 2 8 0

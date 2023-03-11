@@ -1,5 +1,0 @@
-7 8 skyscrapers
-sober 2 5 0
-plumb 4 1 1
-puppy 1 1 0
-borax 6 3 1

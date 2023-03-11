@@ -1,5 +1,0 @@
-6 7
-daddy 3 1 1
-flail 1 2 0
-liver 5 2 1
-thyme 1 5 0

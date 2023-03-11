@@ -1,5 +1,0 @@
-7 9 beta
-shank 5 1 1
-event 2 4 0
-valet 3 4 1
-sleep 1 7 0

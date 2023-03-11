@@ -1,7 +1,0 @@
-8 8 sixbox
-beret 3 1 1
-later 5 1 1
-worst 1 3 0
-slyly 4 3 1
-elegy 3 4 0
-satyr 1 5 0

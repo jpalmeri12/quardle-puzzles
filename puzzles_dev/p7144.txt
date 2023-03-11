@@ -1,5 +1,0 @@
-7 10
-spank 1 1 1
-known 1 5 0
-ombre 3 5 1
-drape 2 8 0

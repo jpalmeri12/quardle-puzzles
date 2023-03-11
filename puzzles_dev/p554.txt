@@ -1,5 +1,0 @@
-6 9
-stand 5 1 1
-unset 1 2 0
-rabbi 3 4 1
-fraud 1 5 0

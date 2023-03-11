@@ -1,5 +1,0 @@
-7 8
-krill 2 1 0
-leant 5 1 1
-class 2 3 1
-paint 1 5 0

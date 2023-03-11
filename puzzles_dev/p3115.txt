@@ -1,5 +1,0 @@
-6 9
-inbox 1 1 0
-bagel 3 1 1
-shell 1 4 0
-lucky 5 4 1

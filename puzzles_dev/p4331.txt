@@ -1,5 +1,0 @@
-7 7
-swell 2 1 1
-woman 2 2 0
-moron 4 2 1
-blurb 1 4 0

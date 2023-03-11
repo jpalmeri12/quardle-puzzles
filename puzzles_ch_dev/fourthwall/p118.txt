@@ -1,7 +1,0 @@
-6 6 fourthwall
-focal 1 1 0
-ficus 1 1 1
-chess 1 3 0
-creed 3 1 1
-sadly 1 5 0
-lusty 5 1 1

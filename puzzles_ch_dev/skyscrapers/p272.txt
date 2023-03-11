@@ -1,5 +1,0 @@
-7 9 skyscrapers
-udder 1 5 0
-braid 2 1 1
-rowdy 2 2 0
-decor 4 4 1

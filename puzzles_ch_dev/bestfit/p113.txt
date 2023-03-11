@@ -1,5 +1,0 @@
-6 9 bestfit
-groom 1 1 0
-matey 5 1 1
-prune 1 4 0
-reply 2 4 1

@@ -1,5 +1,0 @@
-6 9
-troll 3 1 1
-spasm 1 4 1
-paler 1 5 0
-match 1 8 0

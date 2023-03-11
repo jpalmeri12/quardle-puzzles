@@ -1,5 +1,0 @@
-7 10
-merge 2 1 1
-seedy 1 5 0
-eking 3 5 1
-agate 2 9 0

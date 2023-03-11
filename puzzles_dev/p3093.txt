@@ -1,5 +1,0 @@
-7 8
-allow 1 1 1
-ninja 3 3 1
-windy 1 5 0
-haven 2 7 0

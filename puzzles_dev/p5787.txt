@@ -1,5 +1,0 @@
-6 7
-gusty 4 1 1
-scour 1 2 0
-chafe 2 2 1
-pasty 1 4 0

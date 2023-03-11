@@ -1,6 +1,0 @@
-7 9 connectfive
-obese 1 1 1
-scamp 1 4 0
-madam 4 4 1
-odder 2 6 0
-demur 2 8 0

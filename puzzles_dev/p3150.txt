@@ -1,5 +1,0 @@
-7 9
-slave 1 1 0
-empty 5 1 1
-faith 2 4 0
-femur 2 4 1

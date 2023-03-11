@@ -1,5 +1,0 @@
-6 10 darkness
-leash 1 5 0
-leech 5 1 1
-segue 4 5 1
-clove 1 2 0

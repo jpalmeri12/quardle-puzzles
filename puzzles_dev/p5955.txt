@@ -1,5 +1,0 @@
-7 9
-stick 2 1 1
-stood 1 2 0
-chard 2 4 0
-ruder 5 4 1

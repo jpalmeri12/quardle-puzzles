@@ -1,5 +1,0 @@
-7 10 shiritori
-salvo 3 1 1
-ninny 2 5 1
-novel 2 5 0
-ingot 1 7 0

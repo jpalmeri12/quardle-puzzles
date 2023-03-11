@@ -1,5 +1,0 @@
-6 9
-fritz 5 1 1
-guest 1 4 0
-gawky 1 4 1
-karma 1 7 0

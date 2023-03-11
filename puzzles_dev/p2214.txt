@@ -1,5 +1,0 @@
-7 9
-brawl 5 1 1
-filly 2 4 1
-imply 2 5 0
-nylon 1 8 0

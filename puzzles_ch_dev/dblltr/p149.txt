@@ -1,5 +1,0 @@
-6 10 dblltr
-attic 1 1 1
-avian 1 1 0
-canny 1 5 0
-ninny 4 5 1

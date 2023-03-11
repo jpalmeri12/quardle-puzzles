@@ -1,5 +1,0 @@
-7 9 fourscore
-swoop 2 1 1
-noisy 4 4 1
-phony 2 5 0
-vinyl 1 8 0

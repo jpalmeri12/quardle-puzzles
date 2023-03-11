@@ -1,5 +1,0 @@
-7 9 fourscore
-wafer 1 1 0
-enter 4 1 1
-creme 2 4 0
-crane 2 4 1

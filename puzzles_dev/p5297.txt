@@ -1,5 +1,0 @@
-7 10
-surge 4 1 1
-jewel 1 5 0
-where 3 5 1
-bezel 2 7 0

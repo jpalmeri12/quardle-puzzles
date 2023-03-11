@@ -1,5 +1,0 @@
-7 10 swap
-whiks 1 1 1
-samck 1 5 0
-kioks 5 5 1
-onest 2 9 0

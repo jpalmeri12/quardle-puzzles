@@ -1,5 +1,0 @@
-7 10
-chose 5 1 1
-night 2 2 0
-serve 1 5 0
-exact 2 5 1

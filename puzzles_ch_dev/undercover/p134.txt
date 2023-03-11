@@ -1,6 +1,0 @@
-7 9 undercover
-verge 6 1 1
-empty 4 2 1
-humor 2 3 0
-satyr 1 6 0
-blind 1 8 0

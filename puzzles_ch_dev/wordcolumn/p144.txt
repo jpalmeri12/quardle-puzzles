@@ -1,6 +1,0 @@
-7 8 wordcolumn
-stuff 1 1 1
-slash 1 1 0
-scout 3 3 1
-focus 1 4 0
-quota 2 6 0

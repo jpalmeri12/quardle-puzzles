@@ -1,6 +1,0 @@
-7 8 connectfive
-agora 1 1 0
-afoul 5 1 1
-scoop 2 3 0
-cedar 3 3 1
-oddly 2 5 0

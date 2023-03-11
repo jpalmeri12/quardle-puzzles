@@ -1,5 +1,0 @@
-7 10
-index 4 1 1
-evade 1 3 0
-toxic 2 5 0
-chaos 6 5 1

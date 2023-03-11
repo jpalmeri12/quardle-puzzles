@@ -1,6 +1,0 @@
-7 10 connectfive
-hyper 2 1 1
-ramen 5 2 1
-polar 2 3 0
-crone 1 5 0
-canoe 1 5 1

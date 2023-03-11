@@ -1,5 +1,0 @@
-6 9 spin
-print 2 1 1
-uncut 1 4 0
-urban 4 4 1
-crone 1 8 0

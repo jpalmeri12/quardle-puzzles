@@ -1,5 +1,0 @@
-7 9
-crony 1 1 1
-neigh 1 4 0
-intro 3 4 1
-drove 2 7 0

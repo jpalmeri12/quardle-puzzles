@@ -1,5 +1,0 @@
-6 10 scrabble
-tilde 1 5 0
-anvil 3 1 1
-forty 1 7 0
-detox 4 5 1

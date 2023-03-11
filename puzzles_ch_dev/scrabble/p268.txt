@@ -1,5 +1,0 @@
-7 10 scrabble
-grate 1 5 0
-grind 2 7 0
-tying 4 5 1
-vodka 3 1 1

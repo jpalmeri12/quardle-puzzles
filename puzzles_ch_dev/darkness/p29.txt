@@ -1,5 +1,0 @@
-7 9 darkness
-sound 1 8 0
-igloo 2 4 1
-bulge 6 1 1
-guise 2 5 0

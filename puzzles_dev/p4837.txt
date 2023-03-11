@@ -1,5 +1,0 @@
-6 8
-crane 4 1 1
-junto 2 3 1
-burnt 1 4 0
-house 1 7 0

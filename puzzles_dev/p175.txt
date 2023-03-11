@@ -1,5 +1,0 @@
-7 9
-water 2 1 1
-hatch 1 2 0
-ebony 2 4 0
-ought 4 4 1

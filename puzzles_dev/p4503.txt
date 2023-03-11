@@ -1,5 +1,0 @@
-7 10
-pence 2 1 1
-patsy 2 1 0
-relic 1 5 0
-leper 3 5 1

@@ -1,6 +1,0 @@
-6 6 island
-skier 1 1 1
-rabid 3 1 1
-knack 1 2 0
-edict 1 4 0
-!island 32 2111 1111 311

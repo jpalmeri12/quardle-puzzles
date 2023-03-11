@@ -1,5 +1,0 @@
-7 9 swap
-ugide 1 1 0
-ebrry 5 1 1
-aporn 2 4 0
-paelr 3 4 1

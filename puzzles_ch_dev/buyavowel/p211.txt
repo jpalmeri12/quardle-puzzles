@@ -1,5 +1,0 @@
-7 9 buyavowel
-leech 5 1 1
-meter 2 2 0
-habit 2 4 1
-ralph 1 5 0

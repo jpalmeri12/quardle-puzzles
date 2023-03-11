@@ -1,5 +1,0 @@
-7 9
-bowel 1 1 1
-straw 3 4 1
-lathe 1 5 0
-tweak 2 8 0

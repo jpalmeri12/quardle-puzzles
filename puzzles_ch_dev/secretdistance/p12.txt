@@ -1,7 +1,0 @@
-7 12 secretdistance
-abuse 2 1 0
-bonus 3 1 1
-haste 1 5 0
-tipsy 4 5 1
-bagel 1 11 0
-!sdpos 2 2 2 3

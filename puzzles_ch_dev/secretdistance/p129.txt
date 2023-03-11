@@ -1,7 +1,0 @@
-6 10 secretdistance
-pesto 3 1 1
-petty 5 3 1
-untie 1 4 0
-fishy 1 7 0
-swish 1 9 0
-!sdpos 1 0 3 1

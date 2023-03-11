@@ -1,5 +1,0 @@
-6 8 duplicity
-salsa 1 1 0
-alpha 5 1 1
-slush 2 3 1
-plush 1 4 0

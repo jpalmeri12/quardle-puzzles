@@ -1,5 +1,0 @@
-6 10 fourscore
-lowly 3 1 1
-style 1 5 0
-eagle 5 5 1
-brine 1 9 0

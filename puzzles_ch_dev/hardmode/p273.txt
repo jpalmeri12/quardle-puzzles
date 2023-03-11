@@ -1,5 +1,0 @@
-7 8 hardmode
-condo 5 1 1
-agent 2 3 0
-ghost 3 3 1
-meter 1 7 0

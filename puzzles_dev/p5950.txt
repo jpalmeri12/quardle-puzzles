@@ -1,5 +1,0 @@
-7 7
-haste 1 1 0
-agora 2 1 1
-brush 6 2 1
-other 2 3 0

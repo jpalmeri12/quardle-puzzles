@@ -1,5 +1,0 @@
-7 8 scrabble
-spree 2 1 0
-prong 1 5 0
-eying 5 1 1
-marry 2 3 1

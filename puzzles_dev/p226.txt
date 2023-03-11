@@ -1,5 +1,0 @@
-6 9
-layer 1 1 0
-arrow 2 1 1
-undid 4 4 1
-twine 1 5 0

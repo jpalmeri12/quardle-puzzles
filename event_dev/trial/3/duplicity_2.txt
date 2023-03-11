@@ -1,5 +1,0 @@
-7 9 duplicity
-kebab 5 1 1
-moose 1 2 0
-smoky 2 4 1
-maybe 2 5 0

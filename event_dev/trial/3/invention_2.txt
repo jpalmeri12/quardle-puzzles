@@ -1,5 +1,0 @@
-7 7 invention
-shale 1 1 0
-arbor 3 1 1
-usher 6 2 1
-sooth 2 4 0

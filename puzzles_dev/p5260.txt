@@ -1,5 +1,0 @@
-6 7
-scamp 1 1 1
-clank 1 2 0
-alert 3 2 1
-purse 1 5 0

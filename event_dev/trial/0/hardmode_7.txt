@@ -1,5 +1,0 @@
-7 7 hardmode
-abhor 1 1 0
-boast 2 1 1
-balmy 6 2 1
-skill 2 4 0

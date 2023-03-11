@@ -1,7 +1,0 @@
-6 11 secretdistance
-abyss 1 1 1
-boast 1 2 0
-skirt 1 4 0
-incur 3 4 1
-twice 1 10 0
-!sdpos 2 1 1 3

@@ -1,5 +1,0 @@
-7 9 spaced
-vinyl 6 1 1
-scaly 2 4 0
-cavil 3 4 1
-liver 1 6 0

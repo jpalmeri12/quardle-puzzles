@@ -1,5 +1,0 @@
-7 10
-piggy 6 1 1
-diary 2 5 0
-round 5 5 1
-scald 1 9 0

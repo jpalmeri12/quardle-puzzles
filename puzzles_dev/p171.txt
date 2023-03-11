@@ -1,5 +1,0 @@
-6 7
-rifle 2 1 1
-viola 1 2 0
-acorn 5 2 1
-meter 1 5 0

@@ -1,5 +1,0 @@
-7 9
-curry 2 1 0
-route 5 1 1
-adapt 1 4 0
-alloy 3 4 1

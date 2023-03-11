@@ -1,6 +1,0 @@
-7 11 drop
-slump 1 1 1
-magic 1 4 0
-caste 5 4 1
-forty 2 7 0
-crypt 1 10 0

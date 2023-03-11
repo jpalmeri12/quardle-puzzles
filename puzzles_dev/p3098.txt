@@ -1,5 +1,0 @@
-6 9
-count 1 1 1
-error 3 4 1
-throw 1 5 0
-frost 1 7 0

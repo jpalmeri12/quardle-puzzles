@@ -1,5 +1,0 @@
-7 10 spin
-scoff 5 1 1
-shaft 2 5 0
-hasty 3 5 1
-witch 1 8 0

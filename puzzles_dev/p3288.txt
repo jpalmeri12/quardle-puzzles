@@ -1,5 +1,0 @@
-7 9
-acorn 1 1 1
-rouse 1 4 0
-silly 4 4 1
-filmy 2 6 0

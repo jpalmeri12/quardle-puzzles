@@ -1,5 +1,0 @@
-7 8 frequency
-ruler 4 1 1
-syrup 1 2 0
-olive 6 3 1
-quell 2 4 0

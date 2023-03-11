@@ -1,5 +1,0 @@
-7 10
-aunty 3 1 1
-dying 2 5 0
-impel 4 5 1
-ralph 1 7 0

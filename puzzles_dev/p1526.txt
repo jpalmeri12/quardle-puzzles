@@ -1,5 +1,0 @@
-7 9
-front 5 1 1
-growl 2 4 1
-gaunt 2 4 0
-await 1 7 0

@@ -1,5 +1,0 @@
-7 9
-blurt 2 1 1
-fleck 1 2 0
-rabbi 2 4 0
-itchy 6 4 1

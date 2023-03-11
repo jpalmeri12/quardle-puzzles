@@ -1,5 +1,0 @@
-6 10
-suite 5 1 1
-slave 1 5 0
-alter 3 5 1
-hotel 1 7 0

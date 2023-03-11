@@ -1,5 +1,0 @@
-6 10
-brief 1 1 0
-enact 4 1 1
-warty 1 5 0
-afoul 2 5 1

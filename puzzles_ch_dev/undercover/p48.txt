@@ -1,6 +1,0 @@
-6 10 undercover
-bathe 1 1 0
-horse 4 1 1
-store 1 3 0
-touch 2 3 1
-ninny 1 9 0

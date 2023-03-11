@@ -1,5 +1,0 @@
-7 10 duplicity
-wrath 6 1 1
-heath 2 5 0
-three 5 5 1
-aware 1 8 0

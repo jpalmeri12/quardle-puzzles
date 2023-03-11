@@ -1,5 +1,0 @@
-7 8 skyscrapers
-video 5 1 1
-nylon 2 5 0
-lingo 2 3 1
-lousy 1 7 0

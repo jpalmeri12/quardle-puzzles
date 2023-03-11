@@ -1,5 +1,0 @@
-7 9 buyavowel
-endow 5 1 1
-aback 2 4 1
-brown 2 5 0
-scene 1 7 0

@@ -1,7 +1,0 @@
-6 12 secretdistance
-squib 1 1 1
-bloom 1 5 0
-might 5 5 1
-wrong 1 7 0
-sorry 1 11 0
-!sdpos 3 2 0 1

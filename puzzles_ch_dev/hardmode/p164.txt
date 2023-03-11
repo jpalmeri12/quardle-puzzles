@@ -1,5 +1,0 @@
-6 9 hardmode
-strut 5 1 1
-evict 3 4 1
-rivet 1 5 0
-tutor 1 8 0

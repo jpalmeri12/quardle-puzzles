@@ -1,5 +1,0 @@
-7 8 desync
-vinyl 6 1 1
-spite 2 3 1
-poesy 2 4 0
-welch 1 7 0

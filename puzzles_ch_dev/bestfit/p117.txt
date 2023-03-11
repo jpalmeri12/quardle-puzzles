@@ -1,5 +1,0 @@
-7 8 bestfit
-lunge 1 1 0
-ennui 5 1 1
-rocky 2 3 1
-cumin 2 5 0

@@ -1,5 +1,0 @@
-7 10 sweeper
-crook 5 1 1
-heart 2 2 0
-drunk 1 5 0
-dodgy 1 5 1

@@ -1,5 +1,0 @@
-6 8
-twist 1 1 1
-tepee 1 1 0
-beady 4 3 1
-sheep 1 4 0

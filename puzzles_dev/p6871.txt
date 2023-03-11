@@ -1,5 +1,0 @@
-7 8
-mamma 2 1 0
-midst 5 1 1
-wiser 3 3 1
-beset 1 5 0

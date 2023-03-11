@@ -1,5 +1,0 @@
-7 10 beta
-chute 4 1 1
-rehab 2 2 0
-facet 1 5 0
-agora 2 5 1

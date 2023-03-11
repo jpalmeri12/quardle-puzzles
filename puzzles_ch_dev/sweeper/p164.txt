@@ -1,5 +1,0 @@
-6 6 sweeper
-unset 1 1 1
-evade 3 1 1
-novel 1 2 0
-tweak 1 5 0

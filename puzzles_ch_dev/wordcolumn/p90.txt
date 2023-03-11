@@ -1,6 +1,0 @@
-7 10 wordcolumn
-tapir 3 1 1
-maybe 5 3 1
-dirty 1 5 0
-igloo 2 5 1
-owing 2 9 0

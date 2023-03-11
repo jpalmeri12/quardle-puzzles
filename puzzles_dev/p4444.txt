@@ -1,5 +1,0 @@
-7 8
-blare 6 1 1
-shear 3 3 1
-sheer 2 4 0
-crave 1 6 0

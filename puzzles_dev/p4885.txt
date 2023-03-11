@@ -1,5 +1,0 @@
-7 10
-bough 4 1 1
-macho 1 5 0
-anger 2 5 1
-elfin 2 8 0

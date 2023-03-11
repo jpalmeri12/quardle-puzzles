@@ -1,5 +1,0 @@
-7 10
-torch 2 1 1
-chasm 1 5 0
-amuse 3 5 1
-pushy 2 7 0

@@ -1,5 +1,0 @@
-7 8 reverse
-yggof 1 1 1
-opmet 3 3 1
-femur 1 5 0
-stunk 2 7 0

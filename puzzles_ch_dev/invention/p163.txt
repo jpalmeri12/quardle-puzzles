@@ -1,5 +1,0 @@
-7 8 invention
-adore 1 1 0
-decor 2 1 1
-cloud 2 3 0
-droop 6 3 1

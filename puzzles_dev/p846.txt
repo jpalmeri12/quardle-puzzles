@@ -1,5 +1,0 @@
-7 10
-brink 5 1 1
-evoke 2 5 0
-valid 3 5 1
-drier 1 8 0

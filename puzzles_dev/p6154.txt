@@ -1,5 +1,0 @@
-6 7
-grime 3 1 1
-turbo 1 2 0
-outgo 5 2 1
-gamut 1 4 0

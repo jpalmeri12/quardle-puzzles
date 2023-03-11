@@ -1,5 +1,0 @@
-7 9 buyavowel
-windy 5 1 1
-brain 2 2 0
-music 2 4 1
-curry 1 5 0

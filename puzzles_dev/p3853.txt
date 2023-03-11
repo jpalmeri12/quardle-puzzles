@@ -1,5 +1,0 @@
-7 8
-blitz 2 1 1
-blurt 2 1 0
-login 4 3 1
-stood 1 4 0

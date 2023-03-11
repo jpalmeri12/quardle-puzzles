@@ -1,5 +1,0 @@
-6 8 soundscramble
-faror 3 1 1
-repuy 1 3 1
-parer 1 5 0
-yeurn 1 7 0

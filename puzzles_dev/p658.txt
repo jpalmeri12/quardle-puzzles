@@ -1,5 +1,0 @@
-7 9
-brain 2 1 1
-blown 2 1 0
-dimly 1 4 0
-leper 4 4 1

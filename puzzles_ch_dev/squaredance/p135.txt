@@ -1,6 +1,0 @@
-6 8 squaredance
-erect 1 1 1
-tryst 5 1 1
-exult 1 1 0
-trait 1 5 0
-caulk 1 7 0

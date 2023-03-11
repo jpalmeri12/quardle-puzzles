@@ -1,6 +1,0 @@
-7 10 island
-trade 5 1 1
-apnea 2 5 0
-paler 3 5 1
-dully 1 7 0
-!island 41 1111 221 211

@@ -1,6 +1,0 @@
-6 7 commonsecret
-crack 1 1 1
-range 1 2 0
-gaffe 4 2 1
-chafe 1 4 0
-!secret a

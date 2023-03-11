@@ -1,5 +1,0 @@
-7 9
-wordy 2 1 1
-derby 2 4 0
-refit 4 4 1
-patty 1 8 0

@@ -1,5 +1,0 @@
-6 7 buyavowel
-steal 2 1 1
-stale 1 2 0
-lunch 4 2 1
-paint 1 4 0

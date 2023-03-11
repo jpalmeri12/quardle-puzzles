@@ -1,5 +1,0 @@
-7 9 frequency
-stunt 2 1 0
-swami 2 1 1
-assay 4 4 1
-tipsy 1 5 0

@@ -1,5 +1,0 @@
-7 10 unloved
-weird 5 1 1
-avoid 2 3 0
-solid 1 5 0
-swash 1 5 1

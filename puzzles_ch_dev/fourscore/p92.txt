@@ -1,5 +1,0 @@
-7 9 fourscore
-blond 2 1 1
-lapel 2 2 0
-drove 5 4 1
-idler 1 5 0

@@ -1,9 +1,0 @@
-7 9 spellbound
-usher 1 1 0
-smear 2 1 1
-waltz 4 4 1
-realm 2 5 0
-!spellbound 0 4 2
-!spellbound 1 2 3
-!spellbound 2 2 3
-!spellbound 3 3 1

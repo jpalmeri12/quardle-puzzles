@@ -1,5 +1,0 @@
-7 10
-aging 2 1 1
-inlet 2 3 0
-agora 1 5 0
-ankle 5 5 1

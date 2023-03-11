@@ -1,6 +1,0 @@
-7 8 commonsecret
-scene 1 1 0
-crisp 2 1 1
-using 4 3 1
-prism 2 5 0
-!secret s

@@ -1,5 +1,0 @@
-7 7 beta
-elder 5 1 1
-afoul 1 2 0
-fairy 2 2 1
-inlet 2 4 0

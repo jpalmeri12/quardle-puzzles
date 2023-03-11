@@ -1,8 +1,0 @@
-6 8 twins
-skill 1 1 0
-clerk 1 3 0
-focal 1 5 0
-bathe 1 7 0
-!twins 1 4
-!twins 0 1
-!twins 3 4

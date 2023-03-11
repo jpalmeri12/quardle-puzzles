@@ -1,5 +1,0 @@
-7 8
-bobby 1 1 0
-brink 3 1 1
-fishy 2 3 0
-humus 5 3 1

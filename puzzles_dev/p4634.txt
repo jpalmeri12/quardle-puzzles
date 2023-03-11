@@ -1,5 +1,0 @@
-7 10
-glade 1 1 1
-endow 1 5 0
-dress 3 5 1
-psalm 2 9 0

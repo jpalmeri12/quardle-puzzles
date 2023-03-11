@@ -1,5 +1,0 @@
-7 10 skyscrapers
-offal 2 5 0
-fudge 3 5 1
-biddy 1 7 0
-ghoul 6 1 1

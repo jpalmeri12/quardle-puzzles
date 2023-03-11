@@ -1,5 +1,0 @@
-6 7
-junto 4 1 1
-imbue 1 2 0
-incur 1 2 1
-caste 1 4 0

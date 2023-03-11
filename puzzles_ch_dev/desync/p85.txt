@@ -1,5 +1,0 @@
-7 10 desync
-lower 3 1 1
-focus 2 2 0
-paddy 1 5 1
-peril 1 5 0

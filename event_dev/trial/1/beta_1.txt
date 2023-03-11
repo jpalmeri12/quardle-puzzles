@@ -1,5 +1,0 @@
-7 10 beta
-weigh 4 1 1
-abhor 2 5 0
-bulky 3 5 1
-token 1 8 0

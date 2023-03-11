@@ -1,5 +1,0 @@
-7 7 elbowroom
-fluff 2 1 1
-align 1 2 0
-gross 4 2 1
-fussy 2 5 0

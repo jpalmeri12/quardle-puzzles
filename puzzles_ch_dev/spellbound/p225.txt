@@ -1,9 +1,0 @@
-7 9 spellbound
-spiny 6 1 1
-unity 3 4 1
-snowy 2 5 0
-crypt 1 8 0
-!spellbound 0 2 3
-!spellbound 1 3 2
-!spellbound 2 3 2
-!spellbound 3 0 4

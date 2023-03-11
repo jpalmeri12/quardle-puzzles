@@ -1,5 +1,0 @@
-7 10 unloved
-thumb 2 1 1
-where 1 2 0
-brace 2 5 0
-erupt 6 5 1

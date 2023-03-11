@@ -1,5 +1,0 @@
-7 9
-repay 5 1 1
-allay 2 4 0
-lager 3 4 1
-tweed 1 7 0

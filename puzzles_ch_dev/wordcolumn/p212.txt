@@ -1,6 +1,0 @@
-7 10 wordcolumn
-agent 1 1 0
-gumbo 2 1 1
-sooth 1 5 0
-tiara 4 5 1
-stalk 2 7 0

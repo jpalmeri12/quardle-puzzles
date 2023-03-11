@@ -1,5 +1,0 @@
-6 9
-motto 1 1 0
-tangy 4 1 1
-fixer 1 4 1
-fungi 1 4 0

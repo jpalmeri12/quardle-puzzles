@@ -1,6 +1,0 @@
-6 9 undercover
-adopt 4 1 1
-waltz 1 2 1
-wordy 1 2 0
-testy 1 5 0
-cinch 1 8 0

@@ -1,5 +1,0 @@
-7 10
-agape 4 1 1
-caper 1 5 0
-askew 2 5 1
-enact 2 8 0

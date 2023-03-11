@@ -1,9 +1,0 @@
-6 9 spellbound
-plumb 1 1 1
-stray 3 4 1
-bitty 1 5 0
-spawn 1 7 0
-!spellbound 0 0 2
-!spellbound 1 4 2
-!spellbound 2 3 4
-!spellbound 3 0 3

@@ -1,5 +1,0 @@
-6 6
-sinew 1 1 0
-smelt 1 1 1
-email 4 1 1
-tally 1 5 0

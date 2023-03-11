@@ -1,5 +1,0 @@
-6 6 unloved
-squat 1 1 1
-shall 5 1 1
-quoth 1 2 0
-tonal 1 5 0

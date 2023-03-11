@@ -1,9 +1,0 @@
-7 8 beforeafter
-lurid 4 1 1
-focus 1 2 0
-flown 6 3 1
-quill 2 4 0
-!beforeafter 2 k
-!beforeafter 2 r
-!beforeafter 1 m
-!beforeafter 1 p

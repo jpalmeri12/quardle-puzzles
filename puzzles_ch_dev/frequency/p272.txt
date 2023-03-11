@@ -1,5 +1,0 @@
-7 10 frequency
-baker 2 1 0
-khaki 4 1 1
-mimic 1 5 0
-cleat 5 5 1

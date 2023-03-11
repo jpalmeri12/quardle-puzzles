@@ -1,5 +1,0 @@
-6 7 shiritori
-eying 5 1 1
-epoxy 1 2 0
-exalt 1 2 1
-axion 1 4 0

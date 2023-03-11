@@ -1,5 +1,0 @@
-7 10 elbowroom
-sushi 2 1 1
-civil 1 5 0
-vodka 3 5 1
-ranch 2 9 0

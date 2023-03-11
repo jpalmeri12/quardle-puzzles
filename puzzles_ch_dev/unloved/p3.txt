@@ -1,5 +1,0 @@
-7 9 unloved
-fluid 2 1 1
-seize 5 4 1
-duvet 2 5 0
-waltz 1 7 0

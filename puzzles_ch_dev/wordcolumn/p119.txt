@@ -1,6 +1,0 @@
-6 10 wordcolumn
-sheen 5 1 1
-arson 2 2 1
-grove 1 3 0
-coven 1 5 0
-elder 4 5 1

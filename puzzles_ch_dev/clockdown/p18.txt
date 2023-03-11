@@ -1,5 +1,0 @@
-7 8 clockdown
-start 6 1 1
-theta 2 3 0
-earth 4 3 1
-yacht 1 7 0

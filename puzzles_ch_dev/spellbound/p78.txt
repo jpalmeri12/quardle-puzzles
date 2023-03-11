@@ -1,9 +1,0 @@
-7 10 spellbound
-angle 4 1 1
-bugle 2 3 0
-upper 1 5 0
-primo 3 5 1
-!spellbound 0 0 1
-!spellbound 1 3 0
-!spellbound 2 0 4
-!spellbound 3 4 2

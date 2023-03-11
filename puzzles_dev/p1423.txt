@@ -1,5 +1,0 @@
-6 9
-fixer 1 1 1
-inner 1 2 0
-endow 1 4 0
-weary 5 4 1

@@ -1,5 +1,0 @@
-6 7 fourscore
-riser 2 1 1
-billy 1 2 0
-lilac 4 2 1
-bread 1 5 0

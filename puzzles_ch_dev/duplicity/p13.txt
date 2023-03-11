@@ -1,5 +1,0 @@
-6 7 duplicity
-dried 4 1 1
-adorn 1 2 0
-admin 1 2 1
-modem 1 4 0

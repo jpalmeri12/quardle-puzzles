@@ -1,7 +1,0 @@
-6 6 fourthwall
-refit 1 1 0
-rough 1 1 1
-until 1 3 0
-fetal 3 1 1
-halve 1 5 0
-tulle 5 1 1

@@ -1,5 +1,0 @@
-7 8
-plunk 2 1 0
-nasty 5 1 1
-raven 3 3 1
-savvy 1 5 0

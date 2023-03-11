@@ -1,5 +1,0 @@
-7 8 bestfit
-askew 2 1 0
-snoop 3 1 1
-stoop 1 3 0
-pudgy 5 3 1

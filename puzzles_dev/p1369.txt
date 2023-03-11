@@ -1,5 +1,0 @@
-7 9
-gruel 5 1 1
-leery 2 2 0
-tribe 1 4 0
-rider 2 4 1

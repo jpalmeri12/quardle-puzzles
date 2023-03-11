@@ -1,5 +1,0 @@
-6 9 sweeper
-cress 1 1 0
-stern 5 1 1
-rider 1 4 0
-ditto 3 4 1

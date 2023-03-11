@@ -1,6 +1,0 @@
-6 10 drop
-usage 1 1 0
-swath 2 1 1
-think 4 3 1
-itchy 1 4 0
-husky 1 9 0

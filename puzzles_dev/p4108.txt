@@ -1,5 +1,0 @@
-7 9
-pasty 5 1 1
-diner 3 4 1
-hairy 1 5 0
-rebus 2 7 0

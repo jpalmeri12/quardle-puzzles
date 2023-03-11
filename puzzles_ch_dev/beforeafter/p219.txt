@@ -1,9 +1,0 @@
-6 9 beforeafter
-tonga 4 1 1
-strip 1 4 1
-trial 1 5 0
-incur 1 7 0
-!beforeafter 2 i
-!beforeafter 2 q
-!beforeafter 1 o
-!beforeafter 2 o

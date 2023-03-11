@@ -1,5 +1,0 @@
-7 8 beta
-abled 1 1 0
-bobby 2 1 1
-verse 4 3 1
-breed 2 4 0

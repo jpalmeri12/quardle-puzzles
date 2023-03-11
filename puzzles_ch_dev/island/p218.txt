@@ -1,6 +1,0 @@
-7 10 island
-stoic 4 1 1
-glove 2 3 0
-couch 1 5 0
-offer 2 5 1
-!island 2111 221 211 31

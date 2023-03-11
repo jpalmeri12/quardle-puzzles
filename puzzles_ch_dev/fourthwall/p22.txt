@@ -1,7 +1,0 @@
-6 6 fourthwall
-caste 1 1 0
-cameo 1 1 1
-meant 1 3 0
-state 3 1 1
-opera 1 5 0
-extra 5 1 1

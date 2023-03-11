@@ -1,5 +1,0 @@
-7 9
-abase 1 1 1
-mealy 4 4 1
-ether 1 5 0
-maybe 2 8 0

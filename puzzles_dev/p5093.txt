@@ -1,5 +1,0 @@
-6 9
-abide 1 1 1
-boast 1 2 0
-dummy 1 4 0
-month 4 4 1

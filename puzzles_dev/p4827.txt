@@ -1,5 +1,0 @@
-7 10
-ninth 4 1 1
-donut 2 3 0
-bathe 1 5 0
-bacon 1 5 1

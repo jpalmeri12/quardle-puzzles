@@ -1,6 +1,0 @@
-7 8 commonsecret
-pence 2 1 1
-cedar 1 2 0
-attic 6 3 1
-caput 2 4 0
-!secret c

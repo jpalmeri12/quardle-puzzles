@@ -1,5 +1,0 @@
-7 10
-clone 5 1 1
-canoe 2 3 0
-fable 1 5 0
-fleck 1 5 1

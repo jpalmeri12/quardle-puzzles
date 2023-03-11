@@ -1,5 +1,0 @@
-6 8
-vogue 1 1 1
-verge 1 1 0
-gazer 1 3 0
-ratty 5 3 1

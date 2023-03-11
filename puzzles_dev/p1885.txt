@@ -1,5 +1,0 @@
-7 8
-cabin 3 1 1
-prawn 1 2 0
-rabid 6 3 1
-villa 2 4 0

@@ -1,5 +1,0 @@
-7 8 dblltr
-motor 1 1 1
-fatty 4 3 1
-offal 1 4 0
-loyal 2 7 0

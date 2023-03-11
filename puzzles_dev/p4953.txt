@@ -1,5 +1,0 @@
-7 9
-naval 2 1 1
-harem 1 2 0
-clack 6 4 1
-libel 2 5 0

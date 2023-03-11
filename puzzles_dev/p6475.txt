@@ -1,5 +1,0 @@
-6 7
-spear 4 1 1
-grill 1 2 1
-grape 1 2 0
-learn 1 5 0

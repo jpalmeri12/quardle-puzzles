@@ -1,6 +1,0 @@
-7 7 commonsecret
-pixie 2 1 1
-crude 4 2 1
-extra 1 3 0
-endow 2 5 0
-!secret e

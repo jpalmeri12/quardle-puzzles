@@ -1,7 +1,0 @@
-7 11 secretdistance
-rebus 5 1 1
-stole 1 2 0
-sweep 2 4 1
-whisk 2 5 0
-meaty 1 10 0
-!sdpos 2 1 0 3

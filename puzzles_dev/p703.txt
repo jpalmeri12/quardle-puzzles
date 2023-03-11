@@ -1,5 +1,0 @@
-6 10
-moist 1 1 0
-suave 4 1 1
-paper 1 5 0
-pubic 1 5 1

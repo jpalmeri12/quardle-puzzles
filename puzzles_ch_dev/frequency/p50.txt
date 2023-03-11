@@ -1,5 +1,0 @@
-7 9 frequency
-awoke 5 1 1
-ovoid 2 4 1
-voter 2 5 0
-udder 1 8 0

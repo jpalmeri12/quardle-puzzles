@@ -1,5 +1,0 @@
-6 8
-cavil 5 1 1
-robot 3 3 1
-cabal 1 5 0
-petty 1 7 0

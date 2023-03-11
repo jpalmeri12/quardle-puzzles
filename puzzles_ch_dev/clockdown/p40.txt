@@ -1,5 +1,0 @@
-6 7 clockdown
-eclat 1 1 1
-cable 1 2 0
-burst 3 2 1
-tasty 1 5 0

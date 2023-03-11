@@ -1,5 +1,0 @@
-7 10 shiritori
-media 5 1 1
-axial 2 5 0
-augur 2 5 1
-aging 1 7 0

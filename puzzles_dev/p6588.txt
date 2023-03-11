@@ -1,5 +1,0 @@
-6 6
-femme 1 1 1
-femur 1 1 0
-using 4 1 1
-mound 1 4 0

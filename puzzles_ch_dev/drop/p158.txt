@@ -1,6 +1,0 @@
-7 10 drop
-lathe 6 1 1
-print 2 3 0
-prowl 2 3 1
-twine 1 6 0
-repel 1 9 0

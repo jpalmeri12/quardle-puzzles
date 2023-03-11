@@ -1,5 +1,0 @@
-6 9
-grail 5 1 1
-tumor 1 2 0
-cause 3 4 1
-quail 1 5 0

@@ -1,5 +1,0 @@
-7 10 spaced
-swami 3 1 1
-twirl 2 2 0
-plier 1 5 0
-palsy 1 5 1

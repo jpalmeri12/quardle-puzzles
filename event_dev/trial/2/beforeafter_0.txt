@@ -1,9 +1,0 @@
-7 9 beforeafter
-trail 2 1 0
-amiss 4 1 1
-moist 2 4 1
-lousy 1 5 0
-!beforeafter 1 p
-!beforeafter 2 n
-!beforeafter 2 p
-!beforeafter 1 p

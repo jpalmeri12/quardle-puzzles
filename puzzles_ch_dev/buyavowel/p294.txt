@@ -1,5 +1,0 @@
-7 7 buyavowel
-swarm 3 1 1
-towel 1 2 0
-lingo 5 2 1
-image 2 5 0

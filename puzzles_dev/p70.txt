@@ -1,5 +1,0 @@
-7 10
-style 4 1 1
-riser 1 5 0
-shuck 3 5 1
-purge 2 7 0

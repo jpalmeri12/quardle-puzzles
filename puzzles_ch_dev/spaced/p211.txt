@@ -1,5 +1,0 @@
-7 10 spaced
-omega 3 1 1
-gumbo 1 2 0
-ranch 2 5 0
-nadir 4 5 1

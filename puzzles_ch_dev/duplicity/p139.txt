@@ -1,5 +1,0 @@
-6 10 duplicity
-slide 1 1 1
-ethos 1 5 0
-hoist 3 5 1
-elide 1 7 0

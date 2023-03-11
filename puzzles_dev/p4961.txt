@@ -1,5 +1,0 @@
-7 10
-stall 1 1 1
-leash 1 5 0
-holly 5 5 1
-newly 2 8 0

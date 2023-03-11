@@ -1,5 +1,0 @@
-7 10
-swash 2 1 1
-where 2 2 0
-theme 1 5 0
-movie 4 5 1

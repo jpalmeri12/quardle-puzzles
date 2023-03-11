@@ -1,5 +1,0 @@
-6 7 elbowroom
-leaky 1 1 1
-ethos 1 2 0
-heavy 3 2 1
-knack 1 4 0

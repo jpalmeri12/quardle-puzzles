@@ -1,5 +1,0 @@
-7 10 swap
-onbly 5 1 1
-stayr 2 5 0
-trani 3 5 1
-lsant 1 7 0

@@ -1,5 +1,0 @@
-7 10
-cumin 5 1 1
-gleam 1 3 0
-taint 2 5 0
-ardor 3 5 1

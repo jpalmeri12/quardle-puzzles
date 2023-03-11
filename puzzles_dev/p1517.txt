@@ -1,5 +1,0 @@
-6 9
-mourn 1 1 0
-opera 2 1 1
-creak 1 4 0
-knock 5 4 1

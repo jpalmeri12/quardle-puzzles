@@ -1,5 +1,0 @@
-7 10
-alarm 1 1 1
-muddy 1 5 0
-dizzy 3 5 1
-azure 2 7 0

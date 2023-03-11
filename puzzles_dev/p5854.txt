@@ -1,5 +1,0 @@
-7 9
-chump 1 1 1
-pasty 4 4 1
-pagan 1 5 0
-batty 2 7 0

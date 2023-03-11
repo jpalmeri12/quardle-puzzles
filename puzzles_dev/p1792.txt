@@ -1,5 +1,0 @@
-7 9
-shall 2 1 1
-shelf 1 2 0
-ghost 5 4 1
-lathe 2 5 0

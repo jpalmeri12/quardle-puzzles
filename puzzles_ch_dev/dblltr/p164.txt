@@ -1,5 +1,0 @@
-6 6 dblltr
-rebel 1 1 0
-erase 2 1 1
-ladle 5 1 1
-salad 1 3 0

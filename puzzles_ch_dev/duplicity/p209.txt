@@ -1,5 +1,0 @@
-6 9 duplicity
-lupus 1 1 1
-butte 4 4 1
-setup 1 5 0
-betel 1 8 0

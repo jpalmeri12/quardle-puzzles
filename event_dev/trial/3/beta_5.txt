@@ -1,5 +1,0 @@
-7 10 beta
-crypt 3 1 1
-armor 2 2 0
-dutch 1 5 0
-coven 4 5 1

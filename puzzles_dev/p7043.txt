@@ -1,5 +1,0 @@
-6 6
-snore 3 1 1
-pasta 5 1 1
-manga 1 2 0
-burnt 1 4 0

@@ -1,5 +1,0 @@
-7 10
-globe 2 1 1
-leave 1 5 0
-vigor 4 5 1
-leggy 2 7 0

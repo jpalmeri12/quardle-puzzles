@@ -1,5 +1,0 @@
-6 10 invention
-ethos 4 1 1
-abyss 1 5 0
-spark 5 5 1
-prior 1 8 0

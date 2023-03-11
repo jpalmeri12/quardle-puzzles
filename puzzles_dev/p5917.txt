@@ -1,5 +1,0 @@
-7 7
-honor 4 1 1
-atoll 2 2 0
-anode 2 2 1
-cocoa 1 4 0

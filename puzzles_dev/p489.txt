@@ -1,5 +1,0 @@
-7 9
-clock 2 1 1
-scion 1 4 0
-outer 4 4 1
-sweat 2 7 0

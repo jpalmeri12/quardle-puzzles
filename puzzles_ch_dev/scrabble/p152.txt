@@ -1,5 +1,0 @@
-6 8 scrabble
-drier 1 1 0
-rhino 1 4 0
-rhyme 2 3 1
-razor 5 1 1

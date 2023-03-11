@@ -1,5 +1,0 @@
-7 9
-dealt 1 1 0
-limit 4 1 1
-align 2 4 0
-asset 2 4 1

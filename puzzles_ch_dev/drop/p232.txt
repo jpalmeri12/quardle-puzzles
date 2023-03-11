@@ -1,6 +1,0 @@
-6 10 drop
-genie 3 1 1
-using 1 3 1
-stint 1 4 0
-grasp 1 7 0
-virus 1 9 0

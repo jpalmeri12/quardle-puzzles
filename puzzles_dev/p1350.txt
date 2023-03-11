@@ -1,5 +1,0 @@
-7 8
-dally 2 1 1
-least 2 3 0
-anger 4 3 1
-stare 1 7 0

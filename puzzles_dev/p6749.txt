@@ -1,5 +1,0 @@
-7 9
-quirk 5 1 1
-flesh 3 4 1
-flake 2 5 0
-aisle 1 7 0

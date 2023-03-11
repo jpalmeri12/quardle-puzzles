@@ -1,7 +1,0 @@
-8 8 sixbox
-horde 3 1 1
-bread 5 1 1
-force 1 3 0
-crash 4 3 1
-drape 3 4 0
-stead 1 5 0

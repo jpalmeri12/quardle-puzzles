@@ -1,5 +1,0 @@
-7 9
-cairn 2 1 0
-ingot 4 1 1
-gnome 1 4 1
-north 1 5 0

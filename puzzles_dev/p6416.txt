@@ -1,5 +1,0 @@
-7 8
-blast 1 1 0
-shame 4 1 1
-scarf 6 3 1
-comic 2 4 0

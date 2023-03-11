@@ -1,5 +1,0 @@
-7 9
-slunk 5 1 1
-sassy 3 4 1
-wacky 2 5 0
-abyss 1 8 0

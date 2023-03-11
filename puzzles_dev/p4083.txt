@@ -1,5 +1,0 @@
-7 9
-alone 6 1 1
-brain 3 4 1
-brute 2 5 0
-unite 1 7 0

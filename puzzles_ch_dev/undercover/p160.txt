@@ -1,6 +1,0 @@
-7 11 undercover
-cough 6 1 1
-askew 2 4 1
-sloth 2 5 0
-yeast 1 7 0
-vivid 1 10 0

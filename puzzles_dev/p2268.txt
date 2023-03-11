@@ -1,5 +1,0 @@
-7 7
-depot 3 1 1
-rebut 2 2 0
-usher 5 2 1
-lithe 1 5 0

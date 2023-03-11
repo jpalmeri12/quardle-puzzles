@@ -1,6 +1,0 @@
-7 9 wordcolumn
-caper 2 1 1
-basal 1 2 0
-aroma 4 2 1
-epoxy 2 4 0
-yearn 6 4 1

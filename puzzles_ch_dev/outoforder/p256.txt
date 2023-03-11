@@ -1,5 +1,0 @@
-7 10 outoforder
-graft 2 1 0
-abase 4 1 1
-threw 1 5 0
-hardy 2 5 1

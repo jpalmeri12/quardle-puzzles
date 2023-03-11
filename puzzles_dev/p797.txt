@@ -1,5 +1,0 @@
-7 8
-cynic 2 1 1
-eying 1 2 0
-teddy 6 3 1
-chard 2 5 0

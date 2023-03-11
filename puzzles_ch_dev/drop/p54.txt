@@ -1,6 +1,0 @@
-7 12 drop
-clove 5 1 1
-gripe 1 5 0
-prose 4 5 1
-check 2 9 0
-place 1 11 0

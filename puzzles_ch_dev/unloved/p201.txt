@@ -1,5 +1,0 @@
-6 7 unloved
-rumba 2 1 1
-judge 1 2 0
-glyph 4 2 1
-ralph 1 5 0

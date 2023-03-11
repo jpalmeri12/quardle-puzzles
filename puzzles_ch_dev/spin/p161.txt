@@ -1,5 +1,0 @@
-7 10 spin
-dried 6 1 1
-brand 2 5 0
-river 3 5 1
-hover 1 7 0

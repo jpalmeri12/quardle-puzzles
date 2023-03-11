@@ -1,5 +1,0 @@
-7 10
-snuck 1 1 0
-khaki 5 1 1
-mimic 2 5 0
-croak 6 5 1

@@ -1,5 +1,0 @@
-7 8
-broad 1 1 0
-depot 5 1 1
-morph 2 3 0
-mania 2 3 1

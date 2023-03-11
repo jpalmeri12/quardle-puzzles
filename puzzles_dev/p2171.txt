@@ -1,5 +1,0 @@
-7 9
-canny 6 1 1
-vixen 3 4 1
-gipsy 2 5 0
-ranch 1 8 0

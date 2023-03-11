@@ -1,5 +1,0 @@
-6 6 buyavowel
-crowd 2 1 1
-sheen 5 1 1
-forte 1 3 0
-adorn 1 5 0

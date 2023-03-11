@@ -1,5 +1,0 @@
-6 8
-whale 1 1 1
-whack 1 1 0
-await 1 3 0
-angst 3 3 1

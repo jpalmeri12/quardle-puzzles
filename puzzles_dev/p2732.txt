@@ -1,5 +1,0 @@
-7 9
-briny 5 1 1
-bagel 2 4 1
-saucy 1 5 0
-leaky 2 8 0

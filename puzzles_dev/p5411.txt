@@ -1,5 +1,0 @@
-7 9
-feign 1 1 1
-glove 1 4 0
-venom 4 4 1
-bingo 2 6 0

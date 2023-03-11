@@ -1,5 +1,0 @@
-7 10 dblltr
-deter 5 1 1
-worry 2 5 0
-retro 4 5 1
-marry 1 8 0

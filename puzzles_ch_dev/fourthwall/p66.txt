@@ -1,7 +1,0 @@
-6 6 fourthwall
-await 1 1 0
-amass 1 1 1
-adopt 1 3 0
-atone 3 1 1
-spear 1 5 0
-tutor 5 1 1

@@ -1,5 +1,0 @@
-7 9
-shove 3 1 1
-shirk 2 2 0
-sever 1 4 0
-stray 1 4 1

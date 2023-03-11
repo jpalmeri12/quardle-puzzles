@@ -1,6 +1,0 @@
-6 9 connectfive
-sneak 1 1 0
-ember 3 1 1
-eking 5 3 1
-focal 1 4 1
-fleck 1 4 0

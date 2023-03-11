@@ -1,5 +1,0 @@
-7 7
-sixty 5 1 1
-khaki 1 2 0
-hurry 2 2 1
-ratty 2 4 0

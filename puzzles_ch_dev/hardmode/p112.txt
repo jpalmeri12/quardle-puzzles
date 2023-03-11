@@ -1,5 +1,0 @@
-7 8 hardmode
-ensue 1 1 0
-sushi 3 1 1
-verso 6 3 1
-vigor 2 5 0

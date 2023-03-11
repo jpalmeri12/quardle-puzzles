@@ -1,5 +1,0 @@
-7 10 swap
-asied 5 1 1
-imnus 1 2 0
-rnady 2 5 0
-rteat 2 5 1

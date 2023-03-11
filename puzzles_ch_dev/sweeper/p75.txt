@@ -1,5 +1,0 @@
-6 8 sweeper
-jolly 1 1 0
-jumpy 1 1 1
-scowl 4 3 1
-pooch 1 4 0

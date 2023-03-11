@@ -1,5 +1,0 @@
-6 7 desync
-grave 4 1 1
-ovary 1 2 1
-vicar 1 3 0
-ruler 1 5 0

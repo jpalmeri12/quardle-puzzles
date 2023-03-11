@@ -1,5 +1,0 @@
-6 9
-groin 4 1 1
-cubic 1 4 0
-utter 2 4 1
-trite 1 8 0

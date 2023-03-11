@@ -1,9 +1,0 @@
-7 8 spellbound
-folio 3 1 1
-golem 1 3 0
-midst 5 3 1
-dowdy 2 5 0
-!spellbound 0 3 1
-!spellbound 1 1 3
-!spellbound 2 1 3
-!spellbound 3 0 2

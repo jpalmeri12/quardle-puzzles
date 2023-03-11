@@ -1,5 +1,0 @@
-6 7 shiritori
-about 3 1 1
-pubic 1 2 0
-cagey 5 2 1
-clung 1 4 0

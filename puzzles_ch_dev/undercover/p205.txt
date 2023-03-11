@@ -1,6 +1,0 @@
-6 10 undercover
-wheat 1 1 1
-kebab 5 3 1
-anime 1 4 0
-throb 1 7 0
-fluff 1 9 0

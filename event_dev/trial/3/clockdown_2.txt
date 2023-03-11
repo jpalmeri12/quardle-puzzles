@@ -1,5 +1,0 @@
-6 9 clockdown
-saute 3 1 1
-swami 1 2 0
-attic 1 4 0
-aider 1 4 1

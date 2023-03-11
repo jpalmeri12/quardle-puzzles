@@ -1,5 +1,0 @@
-6 8 spin
-lever 1 1 0
-elder 2 1 1
-adorn 1 3 0
-ready 4 3 1

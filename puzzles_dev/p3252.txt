@@ -1,5 +1,0 @@
-7 10
-amuse 4 1 1
-gamut 2 2 0
-sinew 1 5 0
-screw 1 5 1

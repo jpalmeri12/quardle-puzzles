@@ -1,5 +1,0 @@
-7 9 frequency
-poppy 4 1 1
-trout 2 2 0
-grape 1 4 0
-guard 1 4 1

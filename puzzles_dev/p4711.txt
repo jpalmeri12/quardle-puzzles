@@ -1,5 +1,0 @@
-7 10
-foist 5 1 1
-chili 1 3 0
-skate 2 5 0
-slink 2 5 1

@@ -1,5 +1,0 @@
-7 9
-parry 5 1 1
-roger 1 4 0
-glass 3 4 1
-ashen 2 8 0

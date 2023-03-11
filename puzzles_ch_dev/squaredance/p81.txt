@@ -1,6 +1,0 @@
-6 8 squaredance
-adopt 1 1 1
-twixt 5 1 1
-alert 1 1 0
-tract 1 5 0
-sieve 1 7 0

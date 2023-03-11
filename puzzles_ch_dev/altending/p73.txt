@@ -1,5 +1,0 @@
-6 9 altending
-taint 1 1 0
-bluff 1 3 0
-chaos 1 5 0
-ethic 1 7 0

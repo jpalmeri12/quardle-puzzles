@@ -1,6 +1,0 @@
-7 10 island
-sassy 2 1 0
-scree 4 1 1
-haven 1 5 0
-viral 3 5 1
-!island 21 31 2111 11111

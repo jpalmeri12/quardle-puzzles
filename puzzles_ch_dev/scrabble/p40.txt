@@ -1,5 +1,0 @@
-6 9 scrabble
-trust 1 1 0
-mason 3 4 1
-tardy 5 1 1
-scary 1 5 0

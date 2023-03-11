@@ -1,5 +1,0 @@
-6 8 elbowroom
-small 1 1 1
-scrap 1 1 0
-elate 5 3 1
-libel 1 4 0

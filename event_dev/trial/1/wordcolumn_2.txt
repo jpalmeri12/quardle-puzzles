@@ -1,6 +1,0 @@
-7 10 wordcolumn
-chili 4 1 1
-using 2 3 0
-train 1 5 0
-raven 2 5 1
-vicar 2 7 0

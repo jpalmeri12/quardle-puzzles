@@ -1,5 +1,0 @@
-7 10
-chief 5 1 1
-touch 1 2 0
-stuff 2 5 0
-unify 4 5 1

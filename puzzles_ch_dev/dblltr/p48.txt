@@ -1,5 +1,0 @@
-6 10 dblltr
-gamma 2 1 1
-happy 1 5 0
-photo 4 5 1
-motor 1 9 0

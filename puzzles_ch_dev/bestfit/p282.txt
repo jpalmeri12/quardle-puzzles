@@ -1,5 +1,0 @@
-7 9 bestfit
-tabby 1 1 0
-blurb 4 1 1
-skimp 2 4 1
-kebab 2 5 0

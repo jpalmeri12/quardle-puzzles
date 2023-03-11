@@ -1,5 +1,0 @@
-6 10
-gloat 4 1 1
-stamp 1 5 1
-sooth 1 5 0
-mamma 1 8 0

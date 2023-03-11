@@ -1,5 +1,0 @@
-6 10 desync
-aside 1 1 0
-salve 2 1 1
-pesto 1 5 0
-order 5 5 1

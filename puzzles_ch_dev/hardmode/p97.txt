@@ -1,5 +1,0 @@
-6 10 hardmode
-cobra 5 1 1
-flora 1 5 0
-lever 2 5 1
-welsh 1 8 0

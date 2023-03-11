@@ -1,5 +1,0 @@
-7 10 spin
-scaly 4 1 1
-crypt 2 5 0
-riper 3 5 1
-vapid 1 7 0

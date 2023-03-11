@@ -1,5 +1,0 @@
-7 9 spin
-taunt 2 1 1
-arrow 2 2 0
-manga 4 4 1
-steal 1 5 0

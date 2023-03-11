@@ -1,5 +1,0 @@
-7 8 elbowroom
-taffy 2 1 0
-funny 5 1 1
-baton 1 3 0
-tonic 3 3 1

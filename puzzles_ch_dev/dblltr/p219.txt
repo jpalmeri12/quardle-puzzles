@@ -1,5 +1,0 @@
-7 10 dblltr
-fussy 4 1 1
-polyp 1 5 0
-pupal 5 5 1
-jolly 2 9 0

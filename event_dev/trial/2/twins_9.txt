@@ -1,8 +1,0 @@
-6 8 twins
-hovel 1 1 0
-haven 1 3 0
-sedan 1 5 0
-slain 1 7 0
-!twins 0 2
-!twins 1 3
-!twins 0 4

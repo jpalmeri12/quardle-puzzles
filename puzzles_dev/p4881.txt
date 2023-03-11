@@ -1,5 +1,0 @@
-6 7
-tribe 4 1 1
-berry 1 2 0
-expel 2 2 1
-sever 1 5 0

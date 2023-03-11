@@ -1,5 +1,0 @@
-6 10 reverse
-ytfif 5 1 1
-aloof 1 5 0
-lymph 2 5 1
-bmulp 1 7 0

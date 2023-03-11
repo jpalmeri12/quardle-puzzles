@@ -1,5 +1,0 @@
-6 10 darkness
-bongo 4 1 1
-elbow 1 5 0
-scuba 1 1 0
-leech 2 5 1

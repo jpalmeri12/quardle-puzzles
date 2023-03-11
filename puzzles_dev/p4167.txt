@@ -1,5 +1,0 @@
-6 10
-droit 4 1 1
-smart 1 2 0
-smith 1 5 0
-inane 3 5 1

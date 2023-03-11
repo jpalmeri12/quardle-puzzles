@@ -1,5 +1,0 @@
-7 9
-snowy 2 1 0
-ovary 4 1 1
-angry 1 4 0
-nicer 2 4 1

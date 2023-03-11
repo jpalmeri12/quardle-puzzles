@@ -1,5 +1,0 @@
-6 8
-apple 1 1 0
-easel 5 1 1
-spilt 2 3 1
-spike 1 4 0

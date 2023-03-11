@@ -1,5 +1,0 @@
-7 9 bestfit
-roost 2 1 0
-stole 5 1 1
-spill 1 4 0
-scare 1 4 1

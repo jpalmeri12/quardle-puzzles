@@ -1,5 +1,0 @@
-6 6 scrabble
-stint 1 4 0
-acute 2 1 1
-cacti 5 1 1
-magic 1 1 0

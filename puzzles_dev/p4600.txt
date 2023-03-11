@@ -1,5 +1,0 @@
-7 10
-wield 2 1 1
-micro 1 2 0
-debut 2 5 0
-eaten 3 5 1

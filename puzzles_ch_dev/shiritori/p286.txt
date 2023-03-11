@@ -1,5 +1,0 @@
-6 10 shiritori
-cynic 1 1 1
-yield 1 2 0
-canon 1 5 0
-ninth 5 5 1

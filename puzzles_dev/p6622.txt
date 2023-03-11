@@ -1,5 +1,0 @@
-7 10
-banal 3 1 1
-allow 1 5 0
-occur 4 5 1
-ascot 2 7 0

@@ -1,5 +1,0 @@
-7 8
-chain 2 1 0
-ivory 5 1 1
-folio 1 3 0
-fibre 1 3 1

@@ -1,5 +1,0 @@
-7 10
-plume 4 1 1
-willy 1 2 0
-avert 2 5 0
-roast 5 5 1

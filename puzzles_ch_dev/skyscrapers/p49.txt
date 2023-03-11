@@ -1,5 +1,0 @@
-6 9 skyscrapers
-trace 2 4 1
-aroma 1 5 0
-circa 5 1 1
-acorn 1 7 0

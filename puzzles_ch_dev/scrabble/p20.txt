@@ -1,5 +1,0 @@
-6 9 scrabble
-yeast 5 4 1
-humor 1 2 0
-decry 1 4 0
-smack 3 1 1

@@ -1,5 +1,0 @@
-7 10
-beast 6 1 1
-onset 2 5 0
-stave 4 5 1
-feral 1 7 0

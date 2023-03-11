@@ -1,5 +1,0 @@
-7 9
-friar 3 1 1
-parka 1 2 0
-mania 2 4 0
-inert 5 4 1

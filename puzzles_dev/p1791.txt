@@ -1,5 +1,0 @@
-7 8
-squib 6 1 1
-warty 2 3 1
-alibi 2 4 0
-stunk 1 6 0

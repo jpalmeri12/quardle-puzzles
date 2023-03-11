@@ -1,5 +1,0 @@
-7 10 buyavowel
-grass 4 1 1
-copse 1 5 0
-patty 3 5 1
-steak 2 7 0

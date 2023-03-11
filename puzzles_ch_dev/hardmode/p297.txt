@@ -1,5 +1,0 @@
-7 9 hardmode
-winch 2 1 1
-cider 2 4 0
-diver 4 4 1
-creep 1 7 0

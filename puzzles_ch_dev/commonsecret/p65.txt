@@ -1,6 +1,0 @@
-7 9 commonsecret
-below 1 1 1
-ombre 1 4 0
-bluer 3 4 1
-weird 2 7 0
-!secret e

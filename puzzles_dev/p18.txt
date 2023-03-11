@@ -1,5 +1,0 @@
-7 8
-foray 3 1 1
-inert 5 3 1
-nanny 2 4 0
-quiet 1 7 0

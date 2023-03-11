@@ -1,5 +1,0 @@
-6 6
-moron 1 1 0
-revel 3 1 1
-niche 5 1 1
-flesh 1 4 0

@@ -1,6 +1,0 @@
-7 10 five
-dress 6 1 1
-dutch 2 3 1
-torus 2 5 0
-route 4 5 1
-shrug 1 7 0

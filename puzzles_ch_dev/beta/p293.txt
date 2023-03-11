@@ -1,5 +1,0 @@
-6 6 beta
-every 1 1 1
-given 3 1 1
-vying 1 2 0
-reedy 1 4 0

@@ -1,6 +1,0 @@
-7 10 five
-tenth 2 1 1
-evoke 2 2 0
-haute 2 5 0
-aware 3 5 1
-carry 1 8 0

@@ -1,5 +1,0 @@
-7 9
-guava 2 1 1
-buddy 1 2 0
-cause 6 4 1
-agora 2 5 0

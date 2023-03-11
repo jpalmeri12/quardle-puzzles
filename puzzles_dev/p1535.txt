@@ -1,5 +1,0 @@
-7 9
-panic 4 1 1
-sprig 1 4 0
-pecan 2 4 1
-adore 2 7 0

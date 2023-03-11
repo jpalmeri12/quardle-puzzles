@@ -1,5 +1,0 @@
-7 9
-skulk 2 1 0
-stink 2 1 1
-angst 1 4 0
-tabby 5 4 1

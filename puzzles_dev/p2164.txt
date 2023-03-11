@@ -1,5 +1,0 @@
-7 8
-betel 2 1 0
-tasty 4 1 1
-crash 1 3 0
-renew 2 3 1

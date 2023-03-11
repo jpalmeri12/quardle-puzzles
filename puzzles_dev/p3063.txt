@@ -1,5 +1,0 @@
-7 8
-undue 1 1 0
-ulcer 4 1 1
-spiel 6 3 1
-bleep 2 4 0

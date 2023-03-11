@@ -1,5 +1,0 @@
-7 10 duplicity
-fetid 5 1 1
-triad 1 5 0
-after 4 5 1
-eerie 2 9 0

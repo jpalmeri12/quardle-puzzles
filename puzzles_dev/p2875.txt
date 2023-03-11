@@ -1,5 +1,0 @@
-7 9
-trail 6 1 1
-sushi 2 4 0
-seven 2 4 1
-avian 1 6 0

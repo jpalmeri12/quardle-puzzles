@@ -1,5 +1,0 @@
-6 10 elbowroom
-cobra 4 1 1
-vocal 1 5 0
-lucid 5 5 1
-antic 1 7 0

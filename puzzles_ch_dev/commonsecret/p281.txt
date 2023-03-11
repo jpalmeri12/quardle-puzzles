@@ -1,6 +1,0 @@
-6 9 commonsecret
-straw 1 1 0
-wrist 5 1 1
-truss 1 4 0
-troop 1 4 1
-!secret t

@@ -1,5 +1,0 @@
-7 8 skyscrapers
-utter 2 4 0
-stash 3 3 1
-musky 1 6 0
-berry 6 1 1

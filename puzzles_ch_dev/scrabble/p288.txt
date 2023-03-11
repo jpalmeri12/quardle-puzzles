@@ -1,5 +1,0 @@
-7 9 scrabble
-tamer 2 4 0
-tweak 3 1 1
-eject 5 4 1
-howdy 1 2 0

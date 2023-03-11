@@ -1,5 +1,0 @@
-7 9 outoforder
-polyp 6 1 1
-patty 2 4 0
-aisle 3 4 1
-villa 1 7 0

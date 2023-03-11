@@ -1,5 +1,0 @@
-6 9 fourscore
-eking 4 1 1
-willy 2 4 1
-bingo 1 5 0
-eying 1 8 0

@@ -1,5 +1,0 @@
-7 10
-fetus 4 1 1
-botch 2 3 0
-coast 1 5 0
-onion 2 5 1

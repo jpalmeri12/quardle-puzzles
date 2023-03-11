@@ -1,5 +1,0 @@
-7 10 dblltr
-goofy 2 1 1
-pygmy 1 5 0
-gypsy 3 5 1
-essay 2 8 0

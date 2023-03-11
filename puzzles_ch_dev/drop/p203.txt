@@ -1,6 +1,0 @@
-7 11 drop
-where 6 1 1
-usher 2 4 0
-silky 3 4 1
-liken 1 7 0
-whiny 1 10 0

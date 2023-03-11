@@ -1,6 +1,0 @@
-7 11 drop
-snipe 1 1 1
-pasta 1 4 0
-touch 4 4 1
-slurp 2 6 0
-pleat 1 10 0

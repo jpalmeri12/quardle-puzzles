@@ -1,5 +1,0 @@
-7 10 skyscrapers
-piano 5 1 1
-groom 2 5 0
-onset 4 5 1
-chirp 1 1 0

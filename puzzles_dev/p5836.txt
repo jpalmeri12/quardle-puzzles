@@ -1,5 +1,0 @@
-6 7
-after 5 1 1
-scoff 1 2 0
-owing 3 2 1
-finer 1 5 0

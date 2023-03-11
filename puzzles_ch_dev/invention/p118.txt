@@ -1,5 +1,0 @@
-6 9 invention
-totem 1 1 0
-motel 5 1 1
-lousy 2 4 1
-model 1 5 0

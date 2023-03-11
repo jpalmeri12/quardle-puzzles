@@ -1,5 +1,0 @@
-7 9
-junto 1 1 1
-there 1 4 0
-earth 3 4 1
-strip 2 7 0

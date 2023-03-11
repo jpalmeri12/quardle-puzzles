@@ -1,5 +1,0 @@
-6 7
-ionic 5 1 1
-gusto 1 2 0
-ulcer 2 2 1
-relic 1 5 0

@@ -1,5 +1,0 @@
-7 9 clockdown
-brook 2 1 0
-radii 3 1 1
-afoot 5 4 1
-sniff 1 5 0

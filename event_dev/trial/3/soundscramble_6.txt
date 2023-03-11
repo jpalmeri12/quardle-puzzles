@@ -1,5 +1,0 @@
-7 8 soundscramble
-mewor 4 1 1
-allet 1 2 0
-ronow 6 3 1
-siovo 2 4 0

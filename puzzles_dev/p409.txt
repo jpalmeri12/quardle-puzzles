@@ -1,5 +1,0 @@
-7 9
-audio 6 1 1
-alibi 2 4 0
-itchy 4 4 1
-ought 1 7 0

@@ -1,6 +1,0 @@
-7 12 drop
-croup 2 1 1
-house 1 3 0
-puree 2 5 0
-erode 5 5 1
-queue 1 11 0

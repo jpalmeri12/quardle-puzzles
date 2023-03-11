@@ -1,5 +1,0 @@
-7 9
-wooly 2 1 0
-ounce 4 1 1
-speck 1 4 0
-saute 1 4 1

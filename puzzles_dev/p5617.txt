@@ -1,5 +1,0 @@
-7 8
-pitch 2 1 1
-inlay 5 3 1
-clang 2 4 0
-willy 1 7 0

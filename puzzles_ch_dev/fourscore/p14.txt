@@ -1,5 +1,0 @@
-7 9 fourscore
-frown 2 1 0
-rumba 3 1 1
-debit 1 4 0
-train 5 4 1

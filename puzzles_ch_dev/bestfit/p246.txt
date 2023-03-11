@@ -1,5 +1,0 @@
-6 10 bestfit
-lapel 4 1 1
-clasp 1 5 1
-caulk 1 5 0
-spear 1 8 0

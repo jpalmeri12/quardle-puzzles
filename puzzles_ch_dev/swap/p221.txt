@@ -1,5 +1,0 @@
-7 10 swap
-tarwl 1 1 0
-leayf 5 1 1
-nkife 2 5 0
-knaev 3 5 1

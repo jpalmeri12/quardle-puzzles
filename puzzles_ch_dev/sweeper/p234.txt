@@ -1,5 +1,0 @@
-7 8 sweeper
-chase 2 1 1
-photo 1 2 0
-pygmy 6 3 1
-soapy 2 4 0

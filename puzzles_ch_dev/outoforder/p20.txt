@@ -1,5 +1,0 @@
-7 9 outoforder
-scoop 2 1 1
-bough 1 4 0
-heady 5 4 1
-trade 2 7 0

@@ -1,5 +1,0 @@
-7 10
-tumor 2 1 1
-small 1 3 0
-rebus 2 5 0
-elfin 3 5 1

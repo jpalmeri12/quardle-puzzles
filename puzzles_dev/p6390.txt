@@ -1,5 +1,0 @@
-7 9
-tamer 6 1 1
-touch 4 4 1
-scour 2 5 0
-trick 1 7 0

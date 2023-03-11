@@ -1,6 +1,0 @@
-7 11 drop
-orbit 2 1 1
-overt 2 1 0
-limbo 1 4 0
-booby 4 4 1
-story 1 10 0

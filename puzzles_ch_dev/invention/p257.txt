@@ -1,5 +1,0 @@
-7 9 invention
-swirl 2 1 1
-essay 5 4 1
-least 2 5 0
-llama 1 7 0

@@ -1,5 +1,0 @@
-6 8
-coast 5 1 1
-scuba 1 3 0
-cramp 2 3 1
-spear 1 7 0

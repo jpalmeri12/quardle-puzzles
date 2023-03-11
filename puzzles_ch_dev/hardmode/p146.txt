@@ -1,5 +1,0 @@
-6 8 hardmode
-flute 5 1 1
-hover 2 3 1
-joust 1 4 0
-prior 1 7 0

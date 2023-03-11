@@ -1,5 +1,0 @@
-7 9
-plaza 2 1 1
-geese 5 4 1
-waive 1 5 0
-pulse 2 7 0

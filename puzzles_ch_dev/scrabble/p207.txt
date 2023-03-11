@@ -1,5 +1,0 @@
-6 9 scrabble
-trace 5 1 1
-sweet 1 1 0
-endow 3 4 1
-fence 1 5 0

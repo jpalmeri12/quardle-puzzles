@@ -1,5 +1,0 @@
-7 9 beta
-skiff 1 1 0
-femur 5 1 1
-trout 2 4 0
-teddy 2 4 1

@@ -1,5 +1,0 @@
-7 10 skyscrapers
-rearm 3 1 1
-rumor 1 5 0
-ratty 1 5 1
-debit 2 2 0

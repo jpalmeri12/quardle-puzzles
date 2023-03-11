@@ -1,5 +1,0 @@
-7 9
-taste 3 1 1
-bosom 1 3 0
-grimy 6 4 1
-refer 2 5 0

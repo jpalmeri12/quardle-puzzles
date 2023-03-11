@@ -1,5 +1,0 @@
-7 10
-frank 3 1 1
-skier 2 5 0
-eerie 5 5 1
-quasi 1 8 0

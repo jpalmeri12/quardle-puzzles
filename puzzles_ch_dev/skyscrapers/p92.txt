@@ -1,5 +1,0 @@
-7 10 skyscrapers
-ralph 5 5 1
-newer 1 5 0
-acute 2 1 1
-inept 2 8 0

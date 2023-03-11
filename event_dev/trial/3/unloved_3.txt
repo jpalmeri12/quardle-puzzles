@@ -1,5 +1,0 @@
-6 8 unloved
-askew 1 1 0
-steel 2 1 1
-easel 4 3 1
-blush 1 5 0

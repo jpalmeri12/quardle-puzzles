@@ -1,5 +1,0 @@
-7 9 spaced
-usage 1 1 0
-swami 2 1 1
-space 5 4 1
-inept 2 5 0

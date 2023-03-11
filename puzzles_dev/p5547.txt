@@ -1,5 +1,0 @@
-7 7
-foyer 2 1 1
-bough 1 2 0
-hotly 5 2 1
-elate 2 4 0

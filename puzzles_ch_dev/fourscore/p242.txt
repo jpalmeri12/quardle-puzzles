@@ -1,5 +1,0 @@
-7 10 fourscore
-idiot 5 1 1
-blunt 1 5 0
-unset 3 5 1
-stack 2 9 0

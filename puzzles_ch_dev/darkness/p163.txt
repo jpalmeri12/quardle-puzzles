@@ -1,5 +1,0 @@
-7 8 darkness
-swish 1 1 0
-hymen 2 5 0
-welch 2 1 1
-dummy 4 3 1

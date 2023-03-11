@@ -1,5 +1,0 @@
-7 9 spaced
-lying 1 1 1
-cagey 4 4 1
-great 1 5 0
-mayor 2 8 0

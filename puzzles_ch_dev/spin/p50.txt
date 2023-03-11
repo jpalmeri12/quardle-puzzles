@@ -1,5 +1,0 @@
-6 7 spin
-dally 3 1 1
-glade 1 2 0
-gummy 1 2 1
-moldy 1 4 0

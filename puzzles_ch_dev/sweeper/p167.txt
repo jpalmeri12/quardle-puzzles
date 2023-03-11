@@ -1,5 +1,0 @@
-7 8 sweeper
-seven 3 1 1
-speak 1 2 0
-cyber 6 3 1
-needy 2 4 0

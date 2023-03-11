@@ -1,5 +1,0 @@
-7 9 frequency
-dandy 1 1 1
-dopey 1 4 0
-probe 3 4 1
-motor 2 6 0

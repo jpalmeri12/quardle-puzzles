@@ -1,5 +1,0 @@
-7 9
-fight 2 1 1
-onion 5 4 1
-think 2 5 0
-scion 1 8 0

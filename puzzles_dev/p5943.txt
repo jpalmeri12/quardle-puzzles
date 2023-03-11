@@ -1,5 +1,0 @@
-6 9
-stamp 2 1 1
-stalk 1 2 0
-embed 1 4 0
-droit 5 4 1

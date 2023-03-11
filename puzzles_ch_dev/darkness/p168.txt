@@ -1,5 +1,0 @@
-7 8 darkness
-stamp 2 1 0
-knead 1 4 0
-muddy 5 1 1
-untie 2 3 1

@@ -1,5 +1,0 @@
-6 7
-gipsy 2 1 1
-right 1 2 0
-harpy 4 2 1
-lymph 1 5 0

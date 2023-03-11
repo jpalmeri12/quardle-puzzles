@@ -1,5 +1,0 @@
-6 9 beta
-whose 1 1 1
-sleep 1 4 0
-elide 3 4 1
-tweak 1 8 0

@@ -1,5 +1,0 @@
-6 9
-float 1 1 1
-lease 1 2 0
-alive 1 4 0
-voila 4 4 1

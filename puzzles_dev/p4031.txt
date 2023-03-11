@@ -1,5 +1,0 @@
-7 9
-tepee 1 1 1
-every 1 4 0
-enemy 3 4 1
-ready 2 6 0

@@ -1,5 +1,0 @@
-7 9 invention
-roost 5 1 1
-putty 2 4 1
-purse 2 4 0
-hymen 1 8 0

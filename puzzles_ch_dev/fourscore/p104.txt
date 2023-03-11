@@ -1,5 +1,0 @@
-6 10 fourscore
-claim 4 1 1
-steam 1 3 0
-skimp 1 5 0
-karma 2 5 1

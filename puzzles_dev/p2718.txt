@@ -1,5 +1,0 @@
-7 9
-drool 6 1 1
-micro 2 4 0
-midge 2 4 1
-agony 1 7 0

@@ -1,5 +1,0 @@
-7 10 beta
-flush 1 1 1
-humph 1 5 0
-posit 4 5 1
-lithe 2 9 0

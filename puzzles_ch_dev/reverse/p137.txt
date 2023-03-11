@@ -1,5 +1,0 @@
-7 8 reverse
-eturb 3 1 1
-shuck 1 3 0
-kcuts 5 3 1
-about 2 5 0

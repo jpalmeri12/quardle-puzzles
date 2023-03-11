@@ -1,5 +1,0 @@
-7 10 hardmode
-alter 2 1 1
-lager 2 2 0
-crimp 1 5 0
-crank 1 5 1

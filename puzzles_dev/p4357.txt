@@ -1,5 +1,0 @@
-6 9
-lapel 5 1 1
-creme 1 4 0
-relic 2 4 1
-scald 1 8 0

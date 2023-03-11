@@ -1,5 +1,0 @@
-6 9 outoforder
-harpy 5 1 1
-usurp 1 4 0
-steed 2 4 1
-belle 1 7 0

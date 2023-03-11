@@ -1,5 +1,0 @@
-6 9
-sweep 1 1 1
-stead 1 1 0
-exile 1 4 0
-lucky 4 4 1

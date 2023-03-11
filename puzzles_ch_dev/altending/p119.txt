@@ -1,5 +1,0 @@
-6 9 altending
-brawn 1 1 0
-drove 1 3 0
-clock 1 5 0
-stove 1 7 0

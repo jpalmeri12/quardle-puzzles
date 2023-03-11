@@ -1,5 +1,0 @@
-7 8
-minim 1 1 1
-pubic 4 3 1
-input 1 4 0
-skirt 2 6 0

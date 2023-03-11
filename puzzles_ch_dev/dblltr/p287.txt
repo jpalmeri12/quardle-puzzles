@@ -1,5 +1,0 @@
-6 7 dblltr
-terra 1 1 1
-embed 1 2 0
-dummy 5 2 1
-rearm 1 4 0

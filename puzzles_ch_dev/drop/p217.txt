@@ -1,6 +1,0 @@
-7 12 drop
-rider 2 1 0
-email 5 1 1
-swill 1 5 0
-widen 2 5 1
-newer 1 11 0

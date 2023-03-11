@@ -1,5 +1,0 @@
-7 8
-wield 2 1 0
-enter 4 1 1
-goofy 2 3 1
-women 1 4 0

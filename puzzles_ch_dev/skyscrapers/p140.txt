@@ -1,5 +1,0 @@
-7 7 skyscrapers
-wheel 1 2 0
-later 5 2 1
-chute 2 4 0
-chick 2 1 1

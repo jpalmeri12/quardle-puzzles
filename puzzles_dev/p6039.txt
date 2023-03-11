@@ -1,5 +1,0 @@
-7 9
-chalk 2 1 1
-leant 2 4 0
-neigh 5 4 1
-owing 1 7 0

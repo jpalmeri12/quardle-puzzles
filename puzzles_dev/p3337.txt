@@ -1,5 +1,0 @@
-6 8
-fudge 1 1 1
-flirt 1 1 0
-depot 1 3 0
-owner 4 3 1

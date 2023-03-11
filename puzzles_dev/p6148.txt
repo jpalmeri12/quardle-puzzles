@@ -1,5 +1,0 @@
-7 10
-whelp 4 1 1
-might 1 2 0
-caput 2 5 0
-ulcer 5 5 1

@@ -1,5 +1,0 @@
-6 7 swap
-opund 2 1 1
-gpisy 1 2 0
-yaern 5 2 1
-knvae 1 4 0

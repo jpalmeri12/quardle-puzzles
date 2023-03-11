@@ -1,5 +1,0 @@
-6 9 frequency
-spiky 1 1 0
-knelt 4 1 1
-ample 1 4 0
-mangy 2 4 1

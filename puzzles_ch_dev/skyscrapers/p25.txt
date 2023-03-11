@@ -1,5 +1,0 @@
-6 7 skyscrapers
-spiel 1 5 0
-smite 4 1 1
-crump 1 2 0
-chest 1 2 1

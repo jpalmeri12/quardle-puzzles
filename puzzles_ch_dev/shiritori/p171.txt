@@ -1,5 +1,0 @@
-7 9 shiritori
-probe 4 1 1
-warty 2 2 0
-drone 1 4 1
-raven 1 5 0

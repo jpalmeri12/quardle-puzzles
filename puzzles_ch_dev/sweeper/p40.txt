@@ -1,5 +1,0 @@
-7 10 sweeper
-kneel 1 1 1
-lusty 1 5 0
-strut 3 5 1
-grope 2 7 0

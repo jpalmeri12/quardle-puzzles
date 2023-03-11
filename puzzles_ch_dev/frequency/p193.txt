@@ -1,5 +1,0 @@
-7 10 frequency
-moist 5 1 1
-valor 2 2 0
-shunt 1 5 0
-hoard 2 5 1

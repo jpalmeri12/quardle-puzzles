@@ -1,7 +1,0 @@
-6 11 secretdistance
-twine 4 1 1
-cabin 1 4 1
-crane 1 4 0
-itchy 1 7 0
-dutch 1 10 0
-!sdpos 2 1 1 1

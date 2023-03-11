@@ -1,5 +1,0 @@
-6 10 swap
-toetm 1 1 0
-tispy 4 1 1
-silyk 1 5 0
-sapyp 1 5 1

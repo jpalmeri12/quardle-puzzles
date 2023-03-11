@@ -1,5 +1,0 @@
-6 7
-resin 1 1 1
-erase 1 2 0
-audio 3 2 1
-naive 1 5 0

@@ -1,5 +1,0 @@
-6 10
-taper 1 1 0
-apple 2 1 1
-delay 1 5 0
-aorta 4 5 1

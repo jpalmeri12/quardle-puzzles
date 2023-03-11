@@ -1,5 +1,0 @@
-6 9 clockdown
-kebab 1 1 1
-krill 1 1 0
-noble 3 4 1
-bloom 1 5 0

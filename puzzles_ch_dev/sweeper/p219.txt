@@ -1,5 +1,0 @@
-7 9 sweeper
-umbra 4 1 1
-rugby 1 3 0
-idler 6 4 1
-bland 2 5 0

@@ -1,6 +1,0 @@
-6 10 connectfive
-smelt 3 1 1
-spear 1 3 0
-entry 1 5 0
-equip 1 5 1
-youth 5 5 1

@@ -1,5 +1,0 @@
-7 9 reverse
-lewot 3 1 1
-plehw 1 2 0
-loyal 2 4 0
-awake 5 4 1

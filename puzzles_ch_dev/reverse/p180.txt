@@ -1,5 +1,0 @@
-6 10 reverse
-spear 2 1 1
-ortni 1 5 0
-nasal 4 5 1
-rekam 1 8 0

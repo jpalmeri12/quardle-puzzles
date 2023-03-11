@@ -1,5 +1,0 @@
-6 9
-decoy 5 1 1
-payer 2 4 1
-tatty 1 5 0
-sedan 1 7 0

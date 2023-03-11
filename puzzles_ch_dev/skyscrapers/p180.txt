@@ -1,5 +1,0 @@
-7 9 skyscrapers
-villa 3 4 1
-windy 2 5 0
-blond 5 1 1
-afoul 1 2 0

@@ -1,5 +1,0 @@
-7 8 spin
-iliac 4 1 1
-peace 2 3 1
-ascot 2 5 0
-fever 1 7 0

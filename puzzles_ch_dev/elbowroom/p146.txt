@@ -1,5 +1,0 @@
-7 9 elbowroom
-gland 2 1 1
-gauge 2 1 0
-snuff 1 4 0
-foamy 5 4 1

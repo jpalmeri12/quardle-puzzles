@@ -1,6 +1,0 @@
-6 11 drop
-afoul 3 1 1
-lefty 1 2 0
-slush 1 4 1
-shunt 1 4 0
-sassy 1 10 0

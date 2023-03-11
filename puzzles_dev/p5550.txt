@@ -1,5 +1,0 @@
-7 10
-genie 4 1 1
-excel 1 5 0
-lower 5 5 1
-cobra 2 9 0

@@ -1,5 +1,0 @@
-6 10 spin
-clout 1 1 1
-croak 1 1 0
-troll 1 5 0
-leapt 4 5 1

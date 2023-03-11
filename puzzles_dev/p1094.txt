@@ -1,5 +1,0 @@
-7 10
-shirt 2 1 1
-chord 1 2 0
-testy 2 5 0
-exact 3 5 1

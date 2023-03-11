@@ -1,5 +1,0 @@
-6 7 beta
-admit 4 1 1
-aside 1 2 0
-shake 2 2 1
-skate 1 5 0

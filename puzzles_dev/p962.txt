@@ -1,5 +1,0 @@
-6 7
-ingot 1 1 1
-navel 1 2 0
-vying 3 2 1
-onion 1 4 0

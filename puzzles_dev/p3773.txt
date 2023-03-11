@@ -1,5 +1,0 @@
-7 10
-bongo 4 1 1
-stool 1 5 0
-train 2 5 1
-inner 2 8 0

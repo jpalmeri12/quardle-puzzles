@@ -1,5 +1,0 @@
-7 10 invention
-bayou 4 1 1
-gruff 2 5 0
-focal 5 5 1
-dogma 1 8 0

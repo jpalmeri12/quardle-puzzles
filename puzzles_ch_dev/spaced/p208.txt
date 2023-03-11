@@ -1,5 +1,0 @@
-7 10 spaced
-afoul 2 1 1
-flush 2 2 0
-plate 1 5 0
-piety 1 5 1

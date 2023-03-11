@@ -1,5 +1,0 @@
-7 10
-super 2 1 1
-ranch 2 5 0
-cinch 5 5 1
-sumac 1 8 0

@@ -1,5 +1,0 @@
-7 9
-smash 2 1 0
-savoy 5 1 1
-stilt 3 4 1
-retry 1 5 0

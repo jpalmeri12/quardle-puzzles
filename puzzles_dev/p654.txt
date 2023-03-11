@@ -1,5 +1,0 @@
-6 6
-salon 1 1 0
-spied 1 1 1
-nurse 5 1 1
-diode 1 5 0

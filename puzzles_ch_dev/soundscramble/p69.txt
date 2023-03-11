@@ -1,5 +1,0 @@
-7 10 soundscramble
-meldy 5 1 1
-daily 2 3 0
-cevoy 1 5 0
-oroct 4 5 1

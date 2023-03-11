@@ -1,5 +1,0 @@
-6 8
-canoe 5 1 1
-belie 3 3 1
-solve 1 5 0
-creek 1 7 0

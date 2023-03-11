@@ -1,5 +1,0 @@
-7 10 desync
-alibi 1 1 1
-intro 1 5 0
-teeth 3 5 1
-decor 2 7 0

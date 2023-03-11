@@ -1,6 +1,0 @@
-6 8 squaredance
-quilt 1 1 1
-exact 5 1 1
-quite 1 1 0
-trust 1 5 0
-boney 1 7 0

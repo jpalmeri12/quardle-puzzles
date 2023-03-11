@@ -1,6 +1,0 @@
-6 8 squaredance
-water 1 1 1
-needy 5 1 1
-women 1 1 0
-reply 1 5 0
-freak 1 7 0

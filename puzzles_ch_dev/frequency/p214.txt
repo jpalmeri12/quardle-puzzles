@@ -1,5 +1,0 @@
-7 9 frequency
-ghoul 4 1 1
-abhor 2 2 0
-party 1 4 1
-amply 1 5 0

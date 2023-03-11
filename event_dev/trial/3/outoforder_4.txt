@@ -1,5 +1,0 @@
-7 8 outoforder
-eject 1 1 0
-judge 2 1 1
-devil 2 3 0
-ionic 5 3 1

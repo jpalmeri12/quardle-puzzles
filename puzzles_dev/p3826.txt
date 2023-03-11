@@ -1,5 +1,0 @@
-6 7
-store 3 1 1
-extol 1 2 0
-leave 5 2 1
-parka 1 4 0

@@ -1,5 +1,0 @@
-6 9 spaced
-forty 5 1 1
-cargo 1 2 0
-paint 1 4 0
-inlay 3 4 1

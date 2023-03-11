@@ -1,5 +1,0 @@
-6 10 frequency
-bayou 1 1 1
-adore 1 2 0
-unite 1 5 0
-trend 4 5 1

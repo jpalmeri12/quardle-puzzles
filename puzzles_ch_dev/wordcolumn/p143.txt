@@ -1,6 +1,0 @@
-7 10 wordcolumn
-cabin 2 1 0
-bayou 4 1 1
-newly 2 4 1
-rebut 1 5 0
-terra 5 5 1

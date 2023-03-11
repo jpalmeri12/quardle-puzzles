@@ -1,5 +1,0 @@
-6 10
-surer 1 1 0
-undid 2 1 1
-edify 1 5 0
-envoy 1 5 1

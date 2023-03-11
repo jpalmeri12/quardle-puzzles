@@ -1,5 +1,0 @@
-6 9 altending
-grasp 1 1 0
-class 1 3 0
-crook 1 5 0
-shove 1 7 0

@@ -1,5 +1,0 @@
-7 10 swap
-pdugy 5 1 1
-actue 2 3 0
-maldy 1 5 0
-lpead 3 5 1

@@ -1,7 +1,0 @@
-6 10 secretdistance
-idiot 3 1 1
-sally 5 3 1
-viola 1 4 0
-harry 1 7 0
-bitty 1 9 0
-!sdpos 0 2 3 0

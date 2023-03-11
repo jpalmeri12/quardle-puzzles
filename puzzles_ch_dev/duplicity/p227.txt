@@ -1,5 +1,0 @@
-7 10 duplicity
-segue 3 1 1
-begun 2 5 0
-using 5 5 1
-being 1 9 0

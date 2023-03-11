@@ -1,5 +1,0 @@
-7 9 sweeper
-these 5 1 1
-erupt 2 4 1
-irate 1 5 0
-pizza 2 7 0

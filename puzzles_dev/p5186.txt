@@ -1,5 +1,0 @@
-7 9
-tower 5 1 1
-folio 1 2 0
-bleep 2 4 0
-leech 3 4 1

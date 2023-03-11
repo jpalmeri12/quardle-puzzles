@@ -1,5 +1,0 @@
-7 10 beta
-mocha 2 1 1
-bayou 1 5 0
-undue 5 5 1
-bevel 2 9 0

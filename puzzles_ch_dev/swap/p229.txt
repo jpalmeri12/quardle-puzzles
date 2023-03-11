@@ -1,5 +1,0 @@
-7 7 swap
-nnany 4 1 1
-cihli 2 2 1
-ninaj 1 3 0
-lgyph 2 5 0

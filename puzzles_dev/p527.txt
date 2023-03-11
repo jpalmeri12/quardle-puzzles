@@ -1,5 +1,0 @@
-7 8
-tutor 2 1 1
-pique 4 3 1
-posit 1 4 0
-spelt 2 7 0

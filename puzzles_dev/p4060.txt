@@ -1,5 +1,0 @@
-7 8
-bluer 6 1 1
-quota 2 3 1
-undue 2 4 0
-madly 1 7 0

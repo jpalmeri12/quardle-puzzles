@@ -1,6 +1,0 @@
-7 12 drop
-aglow 1 1 0
-wince 5 1 1
-rower 2 5 0
-rally 6 5 1
-carry 1 11 0

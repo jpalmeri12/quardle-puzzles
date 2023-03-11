@@ -1,6 +1,0 @@
-6 8 wordcolumn
-drift 1 1 1
-scope 3 3 1
-cleft 5 3 1
-fecal 1 4 0
-great 1 7 0

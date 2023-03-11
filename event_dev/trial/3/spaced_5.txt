@@ -1,5 +1,0 @@
-6 9 spaced
-crime 5 1 1
-using 1 4 1
-shape 1 5 0
-gumbo 1 8 0

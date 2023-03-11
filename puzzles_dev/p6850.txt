@@ -1,5 +1,0 @@
-7 10
-lingo 4 1 1
-peril 1 2 0
-elope 2 5 0
-erupt 2 5 1

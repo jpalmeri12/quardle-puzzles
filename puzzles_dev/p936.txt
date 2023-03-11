@@ -1,5 +1,0 @@
-7 10
-glare 1 1 0
-equal 5 1 1
-hotly 2 5 0
-twang 4 5 1

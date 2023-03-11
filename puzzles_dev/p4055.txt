@@ -1,5 +1,0 @@
-6 10
-space 1 1 0
-crepe 4 1 1
-duvet 1 5 0
-delve 1 5 1

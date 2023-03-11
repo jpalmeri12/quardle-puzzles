@@ -1,6 +1,0 @@
-7 9 five
-broad 5 1 1
-churn 2 2 0
-viola 1 4 0
-inter 2 4 1
-radar 2 8 0

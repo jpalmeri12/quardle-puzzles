@@ -1,5 +1,0 @@
-7 7 swap
-porxy 5 1 1
-profo 1 2 0
-rpaid 2 2 1
-annxe 2 4 0

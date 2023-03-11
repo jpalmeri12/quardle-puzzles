@@ -1,5 +1,0 @@
-6 9 reverse
-revoh 4 1 1
-naval 1 4 1
-ateht 1 5 0
-lynch 1 8 0

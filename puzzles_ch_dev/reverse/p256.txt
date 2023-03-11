@@ -1,5 +1,0 @@
-6 10 reverse
-gayly 5 1 1
-aptly 1 5 0
-llonk 4 5 1
-ahcom 1 7 0

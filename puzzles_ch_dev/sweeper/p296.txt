@@ -1,5 +1,0 @@
-7 9 sweeper
-alibi 4 1 1
-holly 2 2 0
-afoot 1 4 1
-fetid 1 5 0

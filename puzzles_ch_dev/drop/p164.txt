@@ -1,6 +1,0 @@
-7 12 drop
-reuse 5 1 1
-parer 2 2 0
-prune 1 5 0
-racer 2 5 1
-purer 1 11 0

@@ -1,6 +1,0 @@
-7 8 wordcolumn
-foggy 1 1 1
-fungi 1 1 0
-cluck 4 3 1
-girly 1 4 0
-maker 2 7 0

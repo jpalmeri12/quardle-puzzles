@@ -1,5 +1,0 @@
-7 10 soundscramble
-chess 1 1 1
-scaff 1 5 0
-fronk 5 5 1
-glaot 2 7 0

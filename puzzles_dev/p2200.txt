@@ -1,5 +1,0 @@
-7 10
-genre 5 1 1
-fried 2 5 0
-rainy 3 5 1
-spicy 1 7 0

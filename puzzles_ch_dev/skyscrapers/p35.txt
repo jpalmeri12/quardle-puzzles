@@ -1,5 +1,0 @@
-7 10 skyscrapers
-snare 1 5 0
-erode 5 1 1
-genre 2 2 0
-artsy 3 5 1

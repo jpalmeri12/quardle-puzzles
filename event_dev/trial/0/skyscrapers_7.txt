@@ -1,5 +1,0 @@
-6 9 skyscrapers
-uncut 2 4 1
-quasi 1 4 0
-flush 4 1 1
-beefy 1 1 0

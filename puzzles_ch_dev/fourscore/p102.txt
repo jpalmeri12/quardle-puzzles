@@ -1,5 +1,0 @@
-6 8 fourscore
-skulk 4 1 1
-minus 1 3 0
-icing 2 3 1
-egret 1 7 0

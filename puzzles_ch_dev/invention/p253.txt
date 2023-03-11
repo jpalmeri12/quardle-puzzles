@@ -1,5 +1,0 @@
-7 9 invention
-scuba 1 1 0
-china 2 1 1
-conic 5 4 1
-arson 2 5 0

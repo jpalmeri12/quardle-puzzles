@@ -1,5 +1,0 @@
-7 8 bestfit
-macho 6 1 1
-waste 4 3 1
-peach 2 4 0
-loath 1 6 0

@@ -1,5 +1,0 @@
-7 10
-horde 2 1 1
-rotor 1 2 0
-ethos 2 5 0
-howdy 4 5 1

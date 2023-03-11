@@ -1,5 +1,0 @@
-7 9 spaced
-swami 6 1 1
-hater 4 4 1
-quasi 2 5 0
-towel 1 7 0

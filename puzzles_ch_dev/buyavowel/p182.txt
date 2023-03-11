@@ -1,5 +1,0 @@
-7 8 buyavowel
-jumbo 1 1 0
-bayou 4 1 1
-risen 2 3 1
-scuba 2 5 0

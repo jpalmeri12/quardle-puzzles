@@ -1,5 +1,0 @@
-7 10 buyavowel
-junta 6 1 1
-grave 2 5 1
-guava 2 5 0
-every 1 8 0

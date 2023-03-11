@@ -1,5 +1,0 @@
-6 8
-harpy 1 1 1
-paper 4 3 1
-pedal 1 4 0
-myrrh 1 7 0

@@ -1,9 +1,0 @@
-6 7 beforeafter
-lyric 5 1 1
-missy 1 2 1
-minty 1 2 0
-stoic 1 5 0
-!beforeafter 2 j
-!beforeafter 1 p
-!beforeafter 2 o
-!beforeafter 1 p

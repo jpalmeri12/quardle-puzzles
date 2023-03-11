@@ -1,5 +1,0 @@
-7 9 dblltr
-egret 5 1 1
-theme 1 4 0
-essay 3 4 1
-cynic 2 8 0

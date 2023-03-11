@@ -1,5 +1,0 @@
-6 6 bestfit
-relic 1 1 0
-equal 2 1 1
-charm 5 1 1
-paler 1 4 0

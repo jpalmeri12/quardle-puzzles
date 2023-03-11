@@ -1,5 +1,0 @@
-7 10
-match 5 1 1
-yacht 2 5 0
-anger 3 5 1
-surly 1 9 0

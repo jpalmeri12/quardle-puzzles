@@ -1,5 +1,0 @@
-7 10
-glare 6 1 1
-diode 2 5 0
-debar 2 5 1
-balmy 1 8 0

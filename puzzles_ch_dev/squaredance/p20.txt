@@ -1,6 +1,0 @@
-6 8 squaredance
-shrub 1 1 1
-trait 5 1 1
-shaft 1 1 0
-beast 1 5 0
-conic 1 7 0

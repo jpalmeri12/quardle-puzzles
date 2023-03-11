@@ -1,5 +1,0 @@
-7 8 bestfit
-cloud 3 1 1
-fella 5 3 1
-tuber 2 4 0
-mania 1 7 0

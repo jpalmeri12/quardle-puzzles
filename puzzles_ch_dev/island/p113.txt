@@ -1,6 +1,0 @@
-7 9 island
-rumba 2 1 1
-gully 1 2 0
-cynic 6 4 1
-aunty 2 5 0
-!island 11111 31 1111 311

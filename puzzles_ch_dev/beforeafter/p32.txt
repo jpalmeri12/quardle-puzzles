@@ -1,9 +1,0 @@
-7 9 beforeafter
-begun 5 1 1
-demur 2 4 0
-depot 2 4 1
-coast 1 7 0
-!beforeafter 2 l
-!beforeafter 2 o
-!beforeafter 1 k
-!beforeafter 2 p

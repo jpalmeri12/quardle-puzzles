@@ -1,6 +1,0 @@
-6 10 commonsecret
-bayou 2 1 1
-lucky 1 5 0
-churn 3 5 1
-rough 1 7 0
-!secret u

@@ -1,5 +1,0 @@
-7 9 soundscramble
-membo 2 1 0
-bruta 5 1 1
-limit 1 4 0
-menga 3 4 1

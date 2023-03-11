@@ -1,5 +1,0 @@
-6 10 reverse
-ytied 5 1 1
-scold 1 5 0
-lwahs 4 5 1
-light 1 8 0

@@ -1,6 +1,0 @@
-6 7 commonsecret
-incur 1 1 1
-naval 1 2 0
-vinyl 3 2 1
-rayon 1 5 0
-!secret n

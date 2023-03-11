@@ -1,5 +1,0 @@
-7 10
-slope 2 1 1
-death 1 5 0
-tuber 4 5 1
-robin 2 7 0

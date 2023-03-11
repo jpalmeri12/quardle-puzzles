@@ -1,5 +1,0 @@
-6 10 soundscramble
-coaso 5 1 1
-shado 1 2 0
-ethor 1 5 1
-elivo 1 5 0

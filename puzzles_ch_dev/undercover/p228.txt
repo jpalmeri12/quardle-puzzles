@@ -1,6 +1,0 @@
-6 11 undercover
-tight 5 1 1
-girth 1 4 0
-racer 3 4 1
-aorta 1 8 0
-muddy 1 10 0

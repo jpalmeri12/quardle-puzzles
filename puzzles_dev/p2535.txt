@@ -1,5 +1,0 @@
-7 10
-slime 2 1 1
-stunk 2 1 0
-sepia 1 5 0
-angel 5 5 1

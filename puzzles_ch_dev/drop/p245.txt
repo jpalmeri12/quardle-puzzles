@@ -1,6 +1,0 @@
-7 9 drop
-thigh 2 1 1
-shelf 1 2 0
-flint 5 2 1
-genie 2 4 0
-thing 1 8 0

@@ -1,5 +1,0 @@
-7 9 beta
-impel 5 1 1
-ashen 2 4 0
-spank 3 4 1
-liken 1 8 0

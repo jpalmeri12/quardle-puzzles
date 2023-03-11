@@ -1,9 +1,0 @@
-7 10 spellbound
-alien 2 1 1
-diver 1 3 0
-ninny 2 5 0
-noble 4 5 1
-!spellbound 0 1 3
-!spellbound 1 0 3
-!spellbound 2 3 4
-!spellbound 3 2 4

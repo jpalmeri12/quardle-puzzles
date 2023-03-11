@@ -1,5 +1,0 @@
-6 8
-proxy 5 1 1
-gonad 2 3 1
-borax 1 4 0
-adage 1 7 0

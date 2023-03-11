@@ -1,5 +1,0 @@
-7 10 duplicity
-terse 2 1 0
-radii 4 1 1
-satin 1 5 0
-trend 3 5 1

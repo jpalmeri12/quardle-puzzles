@@ -1,5 +1,0 @@
-6 9 soundscramble
-witty 5 1 1
-olibi 1 2 0
-traut 1 4 0
-affol 3 4 1

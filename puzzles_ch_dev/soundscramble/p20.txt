@@ -1,5 +1,0 @@
-7 10 soundscramble
-viste 1 1 1
-egony 1 5 0
-gorga 2 5 1
-greva 2 8 0

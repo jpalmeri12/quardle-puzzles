@@ -1,9 +1,0 @@
-7 8 beforeafter
-clown 4 1 1
-clasp 2 3 1
-blown 1 4 0
-plied 2 7 0
-!beforeafter 1 m
-!beforeafter 2 n
-!beforeafter 1 m
-!beforeafter 1 j

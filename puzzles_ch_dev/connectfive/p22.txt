@@ -1,6 +1,0 @@
-7 10 connectfive
-badge 4 1 1
-offal 1 2 0
-breed 2 5 0
-rehab 3 5 1
-digit 6 5 1

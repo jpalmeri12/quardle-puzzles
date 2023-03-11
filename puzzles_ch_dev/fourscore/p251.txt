@@ -1,5 +1,0 @@
-6 8 fourscore
-trite 1 1 0
-endow 5 1 1
-cloud 1 3 0
-crest 1 3 1

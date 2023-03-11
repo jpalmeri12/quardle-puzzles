@@ -1,5 +1,0 @@
-7 10 spaced
-tramp 1 1 0
-mocha 4 1 1
-peach 2 5 0
-handy 6 5 1

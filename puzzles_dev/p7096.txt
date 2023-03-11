@@ -1,5 +1,0 @@
-7 9
-locus 5 1 1
-group 2 4 0
-rough 3 4 1
-ought 1 7 0

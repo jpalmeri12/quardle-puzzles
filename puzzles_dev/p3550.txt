@@ -1,5 +1,0 @@
-7 8
-urban 6 1 1
-sower 2 3 1
-shrub 2 3 0
-grimy 1 7 0

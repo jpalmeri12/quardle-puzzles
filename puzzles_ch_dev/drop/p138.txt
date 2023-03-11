@@ -1,6 +1,0 @@
-7 9 drop
-wispy 1 1 1
-craft 4 2 1
-spurt 1 3 0
-lithe 2 6 0
-yacht 1 8 0

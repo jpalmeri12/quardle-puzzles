@@ -1,5 +1,0 @@
-7 9 clockdown
-waive 5 1 1
-plied 3 4 1
-bleed 2 5 0
-steal 1 7 0

@@ -1,5 +1,0 @@
-6 7 bestfit
-taunt 2 1 1
-skull 4 2 1
-dusky 1 3 0
-stale 1 5 0

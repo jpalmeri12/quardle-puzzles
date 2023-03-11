@@ -1,5 +1,0 @@
-7 10 frequency
-awash 2 1 0
-steak 5 1 1
-croak 1 5 0
-clasp 1 5 1

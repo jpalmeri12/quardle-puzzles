@@ -1,5 +1,0 @@
-7 9
-filth 3 1 1
-brink 1 2 0
-tubal 5 4 1
-thrum 2 5 0

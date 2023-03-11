@@ -1,5 +1,0 @@
-7 9 desync
-beard 1 1 0
-retro 4 1 1
-troll 6 4 1
-floor 2 5 0

@@ -1,5 +1,0 @@
-6 7
-tenor 1 1 1
-erect 1 2 0
-emcee 3 2 1
-reedy 1 5 0

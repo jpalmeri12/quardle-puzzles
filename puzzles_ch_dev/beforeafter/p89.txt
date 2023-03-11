@@ -1,9 +1,0 @@
-6 9 beforeafter
-vouch 1 1 1
-ovoid 1 2 0
-churn 1 4 0
-rural 4 4 1
-!beforeafter 2 n
-!beforeafter 2 m
-!beforeafter 1 m
-!beforeafter 2 p

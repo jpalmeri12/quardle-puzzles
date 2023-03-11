@@ -1,6 +1,0 @@
-6 11 undercover
-sense 1 1 1
-elfin 1 2 0
-swoop 1 4 0
-octet 4 4 1
-hardy 1 10 0

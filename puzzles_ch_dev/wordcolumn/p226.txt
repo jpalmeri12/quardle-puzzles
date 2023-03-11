@@ -1,6 +1,0 @@
-7 9 wordcolumn
-adobe 6 1 1
-unfed 2 2 0
-blurb 2 4 0
-under 4 4 1
-money 1 7 0

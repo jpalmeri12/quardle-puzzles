@@ -1,5 +1,0 @@
-7 9 swap
-bosot 1 1 0
-tlaon 5 1 1
-eblow 2 4 0
-basla 3 4 1

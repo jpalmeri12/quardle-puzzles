@@ -1,6 +1,0 @@
-6 8 commonsecret
-ethic 1 1 0
-chief 5 1 1
-trite 2 3 1
-prone 1 4 0
-!secret e

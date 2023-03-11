@@ -1,5 +1,0 @@
-6 9
-tease 5 1 1
-movie 1 2 0
-begun 1 4 1
-bonus 1 4 0

@@ -1,6 +1,0 @@
-7 10 island
-goofy 6 1 1
-warty 2 5 0
-tiger 5 5 1
-owing 1 7 0
-!island 31 32 41 2111

@@ -1,9 +1,0 @@
-7 8 spellbound
-booby 5 1 1
-igloo 2 3 0
-gripe 3 3 1
-briny 1 5 0
-!spellbound 0 0 3
-!spellbound 1 4 0
-!spellbound 2 3 1
-!spellbound 3 3 1

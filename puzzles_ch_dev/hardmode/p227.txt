@@ -1,5 +1,0 @@
-7 9 hardmode
-slate 1 1 0
-lasso 2 1 1
-stood 2 4 0
-orbit 5 4 1

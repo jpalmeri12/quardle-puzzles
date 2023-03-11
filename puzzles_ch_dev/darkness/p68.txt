@@ -1,5 +1,0 @@
-7 8 darkness
-copse 2 3 0
-bleep 6 1 1
-pinto 4 3 1
-minty 1 6 0

@@ -1,5 +1,0 @@
-7 8 duplicity
-fleet 6 1 1
-knife 2 3 0
-knelt 2 3 1
-elite 1 6 0

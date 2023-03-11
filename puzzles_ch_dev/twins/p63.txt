@@ -1,8 +1,0 @@
-6 8 twins
-scone 1 1 0
-cutie 1 3 0
-waive 1 5 0
-snipe 1 7 0
-!twins 2 3
-!twins 0 1
-!twins 2 4

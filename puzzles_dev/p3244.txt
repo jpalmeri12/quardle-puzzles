@@ -1,5 +1,0 @@
-6 8
-smock 4 1 1
-fault 2 3 1
-saucy 1 4 0
-stunk 1 7 0

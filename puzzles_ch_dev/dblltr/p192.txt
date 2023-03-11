@@ -1,5 +1,0 @@
-6 6 dblltr
-petty 1 1 0
-plaza 1 1 1
-tithe 4 1 1
-alley 1 5 0

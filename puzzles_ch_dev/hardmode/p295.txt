@@ -1,5 +1,0 @@
-7 9 hardmode
-tango 3 1 1
-stalk 1 2 0
-being 5 4 1
-dozen 2 5 0

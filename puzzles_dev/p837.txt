@@ -1,5 +1,0 @@
-7 9
-roomy 2 1 1
-amber 1 4 0
-error 4 4 1
-ivory 2 7 0

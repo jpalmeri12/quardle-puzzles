@@ -1,5 +1,0 @@
-7 8 duplicity
-genie 2 1 1
-gorge 2 1 0
-inner 1 3 0
-rigor 5 3 1

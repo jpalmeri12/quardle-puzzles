@@ -1,5 +1,0 @@
-7 9 darkness
-flute 1 8 0
-snarl 6 1 1
-infer 2 4 0
-flirt 4 4 1

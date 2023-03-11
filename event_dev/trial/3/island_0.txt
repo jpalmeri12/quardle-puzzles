@@ -1,6 +1,0 @@
-6 9 island
-feast 1 1 0
-trial 5 1 1
-comic 3 4 1
-prowl 1 5 0
-!island 32 2111 211 311

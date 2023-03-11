@@ -1,5 +1,0 @@
-7 8
-idyll 6 1 1
-skier 3 3 1
-civil 2 5 0
-party 1 7 0

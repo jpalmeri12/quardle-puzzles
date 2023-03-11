@@ -1,5 +1,0 @@
-6 10 dblltr
-skill 4 1 1
-krill 1 5 0
-idiot 3 5 1
-sniff 1 7 0

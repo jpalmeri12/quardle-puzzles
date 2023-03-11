@@ -1,5 +1,0 @@
-6 7 bestfit
-cleat 5 1 1
-pulse 3 2 1
-elude 1 3 0
-reset 1 5 0

@@ -1,5 +1,0 @@
-6 7
-cloth 4 1 1
-dense 1 2 1
-extol 1 3 0
-sight 1 5 0

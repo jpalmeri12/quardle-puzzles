@@ -1,6 +1,0 @@
-6 12 undercover
-ashen 1 1 0
-habit 3 1 1
-cutie 1 5 0
-uncle 2 5 1
-goody 1 11 0

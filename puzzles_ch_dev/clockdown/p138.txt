@@ -1,5 +1,0 @@
-7 9 clockdown
-tally 6 1 1
-debut 2 4 1
-empty 2 5 0
-lunch 1 7 0

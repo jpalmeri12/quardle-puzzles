@@ -1,6 +1,0 @@
-7 12 wordcolumn
-fleet 6 1 1
-amuse 2 4 0
-motif 3 4 1
-clued 1 7 1
-lofty 1 8 0

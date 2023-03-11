@@ -1,5 +1,0 @@
-7 10
-mango 2 1 1
-woken 1 5 0
-knoll 3 5 1
-black 2 8 0

@@ -1,5 +1,0 @@
-6 9 invention
-quash 1 1 0
-sweat 4 1 1
-tidal 1 4 0
-tease 1 4 1

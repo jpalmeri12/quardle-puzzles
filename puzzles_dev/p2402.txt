@@ -1,5 +1,0 @@
-6 10
-stony 2 1 1
-other 1 2 0
-tying 1 5 0
-neigh 4 5 1

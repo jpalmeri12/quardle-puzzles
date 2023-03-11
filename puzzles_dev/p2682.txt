@@ -1,5 +1,0 @@
-7 8
-virus 6 1 1
-retch 2 3 1
-rower 2 3 0
-scalp 1 6 0

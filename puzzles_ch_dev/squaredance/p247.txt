@@ -1,6 +1,0 @@
-6 8 squaredance
-stand 1 1 1
-reedy 5 1 1
-shear 1 1 0
-delay 1 5 0
-magic 1 7 0

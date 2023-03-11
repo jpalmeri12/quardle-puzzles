@@ -1,5 +1,0 @@
-7 8
-close 6 1 1
-using 4 3 1
-tribe 2 5 0
-hedge 1 7 0

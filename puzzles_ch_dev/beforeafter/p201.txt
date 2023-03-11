@@ -1,9 +1,0 @@
-7 10 beforeafter
-stoke 5 1 1
-puree 2 5 0
-pubic 2 5 1
-bison 1 8 0
-!beforeafter 1 p
-!beforeafter 2 j
-!beforeafter 1 l
-!beforeafter 1 k

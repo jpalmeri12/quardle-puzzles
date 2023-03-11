@@ -1,6 +1,0 @@
-7 11 undercover
-mocha 1 1 1
-graft 4 4 1
-alarm 1 5 0
-motel 2 8 0
-spiny 1 10 0

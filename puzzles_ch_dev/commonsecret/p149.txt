@@ -1,6 +1,0 @@
-7 10 commonsecret
-trick 5 1 1
-cairn 2 2 0
-stock 1 5 0
-scant 1 5 1
-!secret c

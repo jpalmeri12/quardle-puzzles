@@ -1,5 +1,0 @@
-7 8 invention
-parse 5 1 1
-umbra 2 3 0
-maxim 3 3 1
-lumen 1 7 0

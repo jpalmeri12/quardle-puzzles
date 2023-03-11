@@ -1,5 +1,0 @@
-6 9
-admit 3 1 1
-shush 5 4 1
-latch 1 5 0
-mulch 1 8 0

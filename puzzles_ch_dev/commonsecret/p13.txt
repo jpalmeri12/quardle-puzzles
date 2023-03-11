@@ -1,6 +1,0 @@
-7 9 commonsecret
-gourd 1 1 1
-ratty 1 4 0
-trick 4 4 1
-pried 2 6 0
-!secret r

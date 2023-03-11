@@ -1,5 +1,0 @@
-6 10 beta
-kebab 1 1 1
-bluff 1 5 0
-frame 5 5 1
-karma 1 7 0

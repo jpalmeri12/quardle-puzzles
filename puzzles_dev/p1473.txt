@@ -1,5 +1,0 @@
-7 10
-demon 2 1 1
-month 2 3 0
-anvil 1 5 0
-ionic 4 5 1

@@ -1,6 +1,0 @@
-7 11 connectfive
-flirt 6 1 1
-awful 2 2 0
-worst 3 2 1
-motto 1 6 0
-mauve 1 6 1

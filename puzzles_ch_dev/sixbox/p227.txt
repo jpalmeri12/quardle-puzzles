@@ -1,7 +1,0 @@
-8 8 sixbox
-voila 3 1 1
-crypt 5 1 1
-slimy 1 3 0
-mushy 4 3 1
-lupus 3 4 0
-roast 1 5 0

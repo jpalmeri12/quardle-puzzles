@@ -1,5 +1,0 @@
-6 10 spaced
-swung 3 1 1
-lapse 1 5 1
-logic 1 5 0
-swing 1 8 0

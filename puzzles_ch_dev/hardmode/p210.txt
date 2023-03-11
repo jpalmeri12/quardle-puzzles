@@ -1,5 +1,0 @@
-7 9 hardmode
-dully 5 1 1
-occur 2 2 0
-level 1 4 0
-extra 2 4 1

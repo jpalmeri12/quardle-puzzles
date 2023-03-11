@@ -1,9 +1,0 @@
-7 10 spellbound
-retro 2 1 1
-booby 1 5 0
-batty 4 5 1
-entry 2 8 0
-!spellbound 0 0 3
-!spellbound 1 2 4
-!spellbound 2 1 2
-!spellbound 3 4 3

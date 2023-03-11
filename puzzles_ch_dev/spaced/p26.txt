@@ -1,5 +1,0 @@
-7 9 spaced
-earth 4 1 1
-amity 1 4 0
-maize 2 4 1
-eclat 2 8 0

@@ -1,5 +1,0 @@
-6 10 hardmode
-icing 1 1 0
-giver 5 1 1
-friar 1 5 0
-fewer 1 5 1

@@ -1,5 +1,0 @@
-7 8 spin
-odder 2 1 0
-drama 4 1 1
-saner 1 3 1
-anime 1 4 0

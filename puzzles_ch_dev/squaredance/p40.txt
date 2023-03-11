@@ -1,6 +1,0 @@
-6 8 squaredance
-chafe 1 1 1
-tamer 5 1 1
-chant 1 1 0
-eager 1 5 0
-shirt 1 7 0

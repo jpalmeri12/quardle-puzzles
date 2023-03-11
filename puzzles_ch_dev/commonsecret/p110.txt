@@ -1,6 +1,0 @@
-7 8 commonsecret
-islet 3 1 1
-aloft 2 3 0
-flood 5 3 1
-abled 1 7 0
-!secret l

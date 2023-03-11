@@ -1,5 +1,0 @@
-7 9 skyscrapers
-tilde 1 5 0
-pearl 5 4 1
-blare 2 7 0
-ghoul 3 1 1

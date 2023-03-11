@@ -1,5 +1,0 @@
-7 8
-click 2 1 1
-cameo 4 3 1
-scram 1 4 0
-floss 2 7 0

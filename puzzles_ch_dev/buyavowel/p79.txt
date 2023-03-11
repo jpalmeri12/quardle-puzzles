@@ -1,5 +1,0 @@
-6 7 buyavowel
-strut 5 1 1
-abort 1 2 0
-batty 2 2 1
-stilt 1 5 0

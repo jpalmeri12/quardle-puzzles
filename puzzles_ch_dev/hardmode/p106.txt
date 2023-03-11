@@ -1,5 +1,0 @@
-7 9 hardmode
-retry 2 1 1
-tribe 1 4 0
-bleed 4 4 1
-older 2 8 0

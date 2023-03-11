@@ -1,5 +1,0 @@
-7 10 reverse
-cheat 6 1 1
-tiart 2 5 0
-incur 3 5 1
-tluav 1 8 0

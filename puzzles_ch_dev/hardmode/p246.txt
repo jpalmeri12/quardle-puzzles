@@ -1,5 +1,0 @@
-6 6 hardmode
-dumpy 1 1 0
-union 2 1 1
-primo 4 1 1
-loamy 1 4 0

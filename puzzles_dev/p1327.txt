@@ -1,5 +1,0 @@
-6 10
-krill 1 1 1
-roach 1 2 0
-legal 1 5 0
-agony 4 5 1

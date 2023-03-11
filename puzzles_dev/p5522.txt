@@ -1,5 +1,0 @@
-7 10
-smell 2 1 1
-emcee 2 3 0
-click 1 5 0
-ideal 3 5 1

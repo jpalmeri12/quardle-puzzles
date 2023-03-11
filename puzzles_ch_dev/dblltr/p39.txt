@@ -1,5 +1,0 @@
-6 7 dblltr
-spool 2 1 1
-spoon 1 2 0
-offal 4 2 1
-algae 1 5 0

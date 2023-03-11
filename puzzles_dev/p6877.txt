@@ -1,5 +1,0 @@
-7 9
-cluck 5 1 1
-flail 1 2 0
-think 3 4 1
-shake 2 5 0

@@ -1,6 +1,0 @@
-7 10 five
-fudge 2 1 0
-unwed 3 1 1
-adult 2 5 0
-lucid 5 5 1
-freed 1 9 0

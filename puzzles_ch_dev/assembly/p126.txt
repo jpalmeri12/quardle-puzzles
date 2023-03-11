@@ -1,5 +1,0 @@
-6 10 assembly
-stint 1 3 1
-agape 5 3 1
-tough 1 1 0
-tweet 1 9 0

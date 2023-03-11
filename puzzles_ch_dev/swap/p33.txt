@@ -1,5 +1,0 @@
-7 10 swap
-wehre 4 1 1
-fyoer 1 5 0
-oebse 3 5 1
-herno 2 9 0

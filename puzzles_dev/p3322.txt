@@ -1,5 +1,0 @@
-6 7
-frill 1 1 1
-razor 1 2 0
-zonal 3 2 1
-lunge 1 4 0

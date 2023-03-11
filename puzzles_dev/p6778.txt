@@ -1,5 +1,0 @@
-6 10
-welch 3 1 1
-aphid 1 5 0
-defer 5 5 1
-bluff 1 7 0

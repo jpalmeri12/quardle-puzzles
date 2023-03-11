@@ -1,5 +1,0 @@
-6 10
-coven 3 1 1
-sense 1 5 0
-steel 4 5 1
-boule 1 9 0

@@ -1,6 +1,0 @@
-7 10 wordcolumn
-clung 1 1 1
-mogul 3 4 1
-gloom 1 5 0
-musky 5 5 1
-pulse 2 7 0

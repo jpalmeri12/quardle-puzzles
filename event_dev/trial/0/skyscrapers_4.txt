@@ -1,5 +1,0 @@
-7 7 skyscrapers
-their 2 3 0
-sweet 4 1 1
-goose 1 1 0
-fritz 6 2 1

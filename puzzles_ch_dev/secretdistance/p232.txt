@@ -1,7 +1,0 @@
-7 11 secretdistance
-fjord 6 1 1
-aback 4 4 1
-rabid 2 5 0
-funky 1 8 0
-totem 1 10 0
-!sdpos 1 3 3 0

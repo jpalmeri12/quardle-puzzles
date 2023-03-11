@@ -1,5 +1,0 @@
-6 8 soundscramble
-scaff 1 1 0
-fling 4 1 1
-ogoin 2 3 1
-ogany 1 4 0

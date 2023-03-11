@@ -1,5 +1,0 @@
-7 10
-gonad 6 1 1
-field 2 5 0
-lurid 5 5 1
-swami 1 8 0

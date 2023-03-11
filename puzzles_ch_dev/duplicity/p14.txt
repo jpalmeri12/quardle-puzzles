@@ -1,5 +1,0 @@
-7 10 duplicity
-beard 4 1 1
-cedar 2 5 0
-actor 5 5 1
-taboo 1 8 0

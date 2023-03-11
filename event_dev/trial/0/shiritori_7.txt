@@ -1,5 +1,0 @@
-6 9 shiritori
-grape 5 1 1
-aider 1 2 0
-blimp 1 4 0
-lover 2 4 1

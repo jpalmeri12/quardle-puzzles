@@ -1,8 +1,0 @@
-6 8 twins
-peace 1 1 0
-bloat 1 3 0
-weave 1 5 0
-erode 1 7 0
-!twins 0 2
-!twins 0 3
-!twins 0 3

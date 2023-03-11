@@ -1,5 +1,0 @@
-7 9 clockdown
-glove 3 1 1
-state 5 4 1
-petty 2 5 0
-snort 1 7 0

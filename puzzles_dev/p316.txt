@@ -1,5 +1,0 @@
-7 7
-march 4 1 1
-cheat 1 2 0
-hobby 2 2 1
-bicep 2 4 0

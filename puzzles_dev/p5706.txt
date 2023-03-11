@@ -1,5 +1,0 @@
-7 9
-cigar 2 1 1
-inert 2 2 0
-slimy 4 4 1
-troll 1 5 0

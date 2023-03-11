@@ -1,5 +1,0 @@
-7 10
-taste 4 1 1
-three 1 5 0
-epoxy 5 5 1
-twixt 2 8 0

@@ -1,5 +1,0 @@
-7 10 spaced
-smock 2 1 1
-skimp 1 5 0
-perch 5 5 1
-alert 2 7 0

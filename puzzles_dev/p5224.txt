@@ -1,5 +1,0 @@
-7 10
-penal 5 1 1
-troll 2 5 0
-tubal 2 5 1
-plied 1 9 0

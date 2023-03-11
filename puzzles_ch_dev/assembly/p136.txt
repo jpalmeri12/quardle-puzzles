@@ -1,5 +1,0 @@
-6 10 assembly
-woven 1 3 1
-inlet 5 3 1
-weird 1 1 0
-valve 1 9 0

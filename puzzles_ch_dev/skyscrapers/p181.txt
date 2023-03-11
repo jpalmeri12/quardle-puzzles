@@ -1,5 +1,0 @@
-7 8 skyscrapers
-roach 2 4 0
-crock 5 1 1
-antic 1 1 0
-booty 3 3 1

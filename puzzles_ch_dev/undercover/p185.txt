@@ -1,6 +1,0 @@
-6 11 undercover
-satyr 3 1 1
-plaza 1 2 0
-gayly 1 4 0
-yeast 5 4 1
-comic 1 10 0

@@ -1,5 +1,0 @@
-6 10
-bonus 5 1 1
-gross 1 5 0
-slush 4 5 1
-fugue 1 7 0

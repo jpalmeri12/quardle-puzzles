@@ -1,5 +1,0 @@
-6 6 darkness
-heard 2 1 1
-chess 1 1 0
-ratio 1 3 0
-shore 5 1 1

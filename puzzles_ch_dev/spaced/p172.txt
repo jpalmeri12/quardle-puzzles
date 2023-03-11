@@ -1,5 +1,0 @@
-7 9 spaced
-flora 1 1 0
-anger 5 1 1
-ashen 2 4 0
-actor 2 4 1

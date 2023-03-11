@@ -1,6 +1,0 @@
-7 10 five
-mauve 6 1 1
-kneel 3 4 1
-ensue 2 5 0
-until 5 5 1
-inert 1 7 0

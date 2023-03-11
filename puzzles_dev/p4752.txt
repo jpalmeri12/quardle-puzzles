@@ -1,5 +1,0 @@
-7 10
-posit 2 1 1
-ovoid 2 2 0
-still 1 5 0
-icing 3 5 1

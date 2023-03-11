@@ -1,5 +1,0 @@
-6 6 spaced
-daisy 1 1 1
-angle 5 1 1
-alien 1 2 0
-shoal 1 4 0

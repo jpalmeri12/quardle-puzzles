@@ -1,5 +1,0 @@
-7 9 spin
-house 5 1 1
-ennui 2 4 1
-erase 2 4 0
-rider 1 8 0

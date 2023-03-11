@@ -1,6 +1,0 @@
-7 9 five
-stash 1 1 0
-thigh 2 1 1
-grate 2 4 0
-ample 4 4 1
-dwelt 1 7 0

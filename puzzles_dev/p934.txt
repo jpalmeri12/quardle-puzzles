@@ -1,5 +1,0 @@
-7 9
-tamer 4 1 1
-bleat 1 2 0
-steer 2 4 0
-rower 6 4 1

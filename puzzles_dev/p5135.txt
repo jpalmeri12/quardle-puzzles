@@ -1,5 +1,0 @@
-7 8
-leach 4 1 1
-juice 2 3 1
-tight 1 5 0
-evade 2 7 0

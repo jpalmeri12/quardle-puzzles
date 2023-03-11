@@ -1,5 +1,0 @@
-6 7 invention
-comet 4 1 1
-acrid 1 2 1
-arson 1 2 0
-repel 1 4 0

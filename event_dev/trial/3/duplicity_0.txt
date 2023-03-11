@@ -1,5 +1,0 @@
-7 10 duplicity
-lower 6 1 1
-rower 2 5 0
-wafer 4 5 1
-flora 1 9 0

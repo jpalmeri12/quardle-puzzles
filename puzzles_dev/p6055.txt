@@ -1,5 +1,0 @@
-6 7
-salve 3 1 1
-boast 1 2 0
-talon 5 2 1
-devil 1 4 0

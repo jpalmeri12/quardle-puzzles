@@ -1,5 +1,0 @@
-6 7 desync
-hedge 4 1 1
-askew 1 2 0
-swash 2 2 1
-asset 1 5 0

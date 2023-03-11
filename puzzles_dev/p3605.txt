@@ -1,5 +1,0 @@
-7 9
-drier 4 1 1
-shire 1 2 0
-chess 2 4 0
-cadet 2 4 1

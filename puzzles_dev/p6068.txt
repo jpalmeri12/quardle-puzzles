@@ -1,5 +1,0 @@
-6 10
-shave 4 1 1
-tweed 1 5 0
-drone 5 5 1
-swoon 1 8 0

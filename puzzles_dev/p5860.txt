@@ -1,5 +1,0 @@
-6 7
-vixen 5 1 1
-sushi 1 2 0
-scamp 3 2 1
-lemon 1 5 0

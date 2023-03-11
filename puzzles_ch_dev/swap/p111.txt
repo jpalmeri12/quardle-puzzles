@@ -1,5 +1,0 @@
-6 6 swap
-garin 2 1 1
-maina 5 1 1
-panea 1 2 0
-ailen 1 4 0

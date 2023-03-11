@@ -1,5 +1,0 @@
-7 10
-fetus 6 1 1
-dress 2 5 0
-sheik 5 5 1
-surge 1 7 0

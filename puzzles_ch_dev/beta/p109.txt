@@ -1,5 +1,0 @@
-7 9 beta
-place 2 1 1
-colon 2 4 0
-other 5 4 1
-rower 1 8 0

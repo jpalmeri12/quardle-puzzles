@@ -1,5 +1,0 @@
-7 10
-gravy 4 1 1
-mayor 2 5 0
-amass 3 5 1
-gusto 1 9 0

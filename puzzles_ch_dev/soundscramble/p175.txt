@@ -1,5 +1,0 @@
-6 7 soundscramble
-scape 1 1 1
-clonk 1 2 0
-namod 4 2 1
-plume 1 4 0

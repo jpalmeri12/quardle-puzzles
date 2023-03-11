@@ -1,6 +1,0 @@
-7 10 five
-cello 5 1 1
-quill 1 3 0
-mayor 2 5 0
-yield 4 5 1
-agree 1 7 0

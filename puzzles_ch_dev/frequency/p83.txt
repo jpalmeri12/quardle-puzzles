@@ -1,5 +1,0 @@
-6 9 frequency
-sloop 3 1 1
-ozone 5 4 1
-topaz 1 5 0
-stare 1 8 0

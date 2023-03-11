@@ -1,5 +1,0 @@
-7 9 shiritori
-guile 4 1 1
-truck 2 2 0
-about 2 4 1
-abled 1 5 0

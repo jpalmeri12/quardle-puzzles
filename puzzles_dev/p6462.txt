@@ -1,5 +1,0 @@
-7 8
-apple 5 1 1
-madly 3 3 1
-quail 1 4 0
-gypsy 2 7 0

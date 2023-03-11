@@ -1,5 +1,0 @@
-6 7 outoforder
-geese 5 1 1
-pique 1 2 0
-quash 3 2 1
-posse 1 5 0

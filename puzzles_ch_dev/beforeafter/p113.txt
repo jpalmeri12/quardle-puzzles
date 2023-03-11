@@ -1,9 +1,0 @@
-6 10 beforeafter
-movie 2 1 1
-jetty 1 5 0
-tribe 3 5 1
-plead 1 9 0
-!beforeafter 2 k
-!beforeafter 1 m
-!beforeafter 1 p
-!beforeafter 1 j

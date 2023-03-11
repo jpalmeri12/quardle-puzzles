@@ -1,5 +1,0 @@
-7 10 reverse
-conch 5 1 1
-elbon 1 3 0
-worht 2 5 0
-woody 2 5 1

@@ -1,5 +1,0 @@
-7 10
-truer 5 1 1
-minus 2 3 0
-river 1 5 0
-react 1 5 1

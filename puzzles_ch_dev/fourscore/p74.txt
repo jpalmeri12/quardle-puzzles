@@ -1,5 +1,0 @@
-7 8 fourscore
-bough 2 1 1
-guide 1 3 0
-event 5 3 1
-harem 2 5 0

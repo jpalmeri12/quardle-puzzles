@@ -1,7 +1,0 @@
-7 10 secretdistance
-champ 2 1 1
-chase 1 2 0
-plant 6 3 1
-mural 2 4 0
-gnash 1 9 0
-!sdpos 1 2 2 3

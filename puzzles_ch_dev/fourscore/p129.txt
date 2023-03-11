@@ -1,5 +1,0 @@
-6 6 fourscore
-clump 2 1 1
-hello 5 1 1
-alike 1 2 0
-email 1 4 0

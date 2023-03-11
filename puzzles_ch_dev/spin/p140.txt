@@ -1,5 +1,0 @@
-7 10 spin
-waltz 4 1 1
-igloo 2 3 0
-craze 1 5 0
-rusty 2 5 1

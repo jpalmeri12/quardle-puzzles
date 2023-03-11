@@ -1,5 +1,0 @@
-7 7
-cloth 5 1 1
-slash 2 2 1
-stale 2 2 0
-gaunt 1 4 0

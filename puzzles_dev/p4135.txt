@@ -1,5 +1,0 @@
-7 10
-least 2 1 1
-trunk 2 5 0
-reign 3 5 1
-foggy 1 8 0

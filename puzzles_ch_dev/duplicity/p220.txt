@@ -1,5 +1,0 @@
-7 10 duplicity
-regal 1 1 1
-large 1 5 0
-grass 4 5 1
-easel 2 9 0

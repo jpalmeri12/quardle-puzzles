@@ -1,5 +1,0 @@
-7 10
-helix 3 1 1
-sixty 1 5 0
-yeast 5 5 1
-dirty 2 9 0

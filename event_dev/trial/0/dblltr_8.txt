@@ -1,5 +1,0 @@
-6 10 dblltr
-ensue 2 1 1
-annul 1 2 0
-cease 1 5 0
-augur 3 5 1

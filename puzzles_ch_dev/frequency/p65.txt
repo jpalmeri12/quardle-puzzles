@@ -1,5 +1,0 @@
-7 8 frequency
-lemon 6 1 1
-cream 2 3 0
-rusty 3 3 1
-outgo 1 6 0

@@ -1,5 +1,0 @@
-6 9 dblltr
-hunch 1 1 0
-hello 1 1 1
-legal 1 4 0
-greet 3 4 1

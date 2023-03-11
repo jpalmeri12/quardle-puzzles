@@ -1,6 +1,0 @@
-6 8 squaredance
-focal 1 1 1
-kneed 5 1 1
-flock 1 1 0
-lucid 1 5 0
-parer 1 7 0

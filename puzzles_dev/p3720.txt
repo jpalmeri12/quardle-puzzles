@@ -1,5 +1,0 @@
-7 8
-filer 6 1 1
-caste 2 3 1
-arose 2 4 0
-stack 1 6 0

@@ -1,5 +1,0 @@
-7 8 spaced
-magic 6 1 1
-clang 2 3 0
-crave 2 3 1
-recap 1 7 0

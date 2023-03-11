@@ -1,6 +1,0 @@
-7 10 wordcolumn
-refer 3 1 1
-polyp 5 2 1
-afoot 2 3 0
-furry 1 5 0
-fetch 1 5 1

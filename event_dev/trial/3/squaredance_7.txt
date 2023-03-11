@@ -1,6 +1,0 @@
-6 8 squaredance
-crept 1 1 1
-hunky 5 1 1
-crash 1 1 0
-teddy 1 5 0
-lousy 1 7 0

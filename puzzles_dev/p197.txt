@@ -1,5 +1,0 @@
-7 9
-satyr 2 1 1
-navel 1 2 0
-slime 6 4 1
-repel 2 5 0

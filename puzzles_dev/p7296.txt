@@ -1,5 +1,0 @@
-6 9
-heard 4 1 1
-facet 1 4 1
-anode 1 5 0
-thick 1 8 0

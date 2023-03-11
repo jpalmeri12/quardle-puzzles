@@ -1,5 +1,0 @@
-6 10 beta
-opera 3 1 1
-paper 1 2 0
-shaft 1 5 0
-flick 4 5 1

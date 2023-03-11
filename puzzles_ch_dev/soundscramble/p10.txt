@@ -1,5 +1,0 @@
-7 9 soundscramble
-foriy 6 1 1
-delti 2 4 0
-logac 4 4 1
-movae 1 7 0

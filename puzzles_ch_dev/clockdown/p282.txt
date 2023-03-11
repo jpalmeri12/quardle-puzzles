@@ -1,5 +1,0 @@
-6 7 clockdown
-sting 1 1 1
-tally 1 2 0
-lasso 3 2 1
-nasty 1 4 0

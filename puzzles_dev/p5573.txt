@@ -1,5 +1,0 @@
-6 7
-parka 4 1 1
-shire 2 2 1
-shorn 1 3 0
-dream 1 5 0

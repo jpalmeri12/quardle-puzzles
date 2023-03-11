@@ -1,5 +1,0 @@
-6 8 skyscrapers
-sprig 1 4 0
-stoic 4 1 1
-bliss 1 1 0
-aptly 2 3 1

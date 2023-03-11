@@ -1,5 +1,0 @@
-7 8
-click 2 1 1
-quite 5 3 1
-croup 2 4 0
-rouge 1 7 0

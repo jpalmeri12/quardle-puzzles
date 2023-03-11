@@ -1,5 +1,0 @@
-7 8
-local 2 1 0
-crock 4 1 1
-heard 2 3 1
-gawky 1 5 0

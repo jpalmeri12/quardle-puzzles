@@ -1,5 +1,0 @@
-7 9 spin
-magic 2 1 1
-inlet 2 4 0
-envoy 5 4 1
-lasso 1 7 0

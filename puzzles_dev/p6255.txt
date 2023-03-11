@@ -1,5 +1,0 @@
-7 9
-print 5 1 1
-sworn 1 4 0
-would 2 4 1
-drive 2 8 0

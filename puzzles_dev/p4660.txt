@@ -1,5 +1,0 @@
-7 8
-sassy 1 1 0
-shelf 3 1 1
-teach 2 3 0
-harry 6 3 1

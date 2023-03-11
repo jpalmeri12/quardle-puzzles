@@ -1,5 +1,0 @@
-7 10 soundscramble
-dilta 2 1 1
-magec 1 5 0
-cutei 5 5 1
-rilec 2 8 0

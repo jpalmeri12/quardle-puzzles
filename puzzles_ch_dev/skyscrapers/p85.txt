@@ -1,5 +1,0 @@
-7 9 skyscrapers
-hedge 2 5 0
-catch 2 1 1
-handy 1 2 0
-admin 4 4 1

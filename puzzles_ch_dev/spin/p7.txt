@@ -1,5 +1,0 @@
-7 8 spin
-thief 1 1 1
-utter 4 3 1
-forty 1 5 0
-torch 2 7 0

@@ -1,5 +1,0 @@
-7 9 spaced
-bushy 2 1 1
-shape 1 4 0
-panel 4 4 1
-inert 2 7 0

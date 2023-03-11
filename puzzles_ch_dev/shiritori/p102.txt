@@ -1,5 +1,0 @@
-7 10 shiritori
-cargo 3 1 1
-afoul 1 5 0
-fifty 2 5 1
-trail 2 8 0

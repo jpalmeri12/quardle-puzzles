@@ -1,5 +1,0 @@
-7 9 swap
-juorr 2 1 1
-josut 2 1 0
-amker 4 4 1
-gromo 1 5 0

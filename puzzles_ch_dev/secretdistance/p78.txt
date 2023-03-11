@@ -1,7 +1,0 @@
-7 12 secretdistance
-wordy 3 1 1
-synod 2 5 0
-spent 2 5 1
-angry 1 8 0
-tilde 1 11 0
-!sdpos 0 2 0 2

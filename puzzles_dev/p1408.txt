@@ -1,5 +1,0 @@
-6 8
-condo 1 1 0
-duvet 4 1 1
-gipsy 2 3 1
-river 1 4 0

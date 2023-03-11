@@ -1,5 +1,0 @@
-7 10
-decay 1 1 0
-exert 2 1 1
-trawl 2 5 0
-range 3 5 1

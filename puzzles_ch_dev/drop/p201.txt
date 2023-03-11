@@ -1,6 +1,0 @@
-6 8 drop
-glass 1 1 0
-alloy 3 1 1
-scope 5 1 1
-droop 1 4 0
-goose 1 7 0

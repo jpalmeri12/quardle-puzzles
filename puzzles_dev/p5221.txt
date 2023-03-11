@@ -1,5 +1,0 @@
-7 8
-whelp 1 1 0
-hinge 2 1 1
-newer 2 3 0
-riper 6 3 1

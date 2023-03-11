@@ -1,5 +1,0 @@
-7 8
-skirt 5 1 1
-musty 3 3 1
-quark 2 4 0
-crypt 1 7 0

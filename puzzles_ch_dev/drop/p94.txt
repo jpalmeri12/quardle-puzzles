@@ -1,6 +1,0 @@
-6 11 drop
-slice 1 1 0
-clump 4 1 1
-prime 1 4 0
-piety 1 4 1
-scree 1 10 0

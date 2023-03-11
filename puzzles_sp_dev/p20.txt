@@ -1,5 +1,0 @@
-6 9 buyavowel
-fluff 1 1 0
-finer 5 1 1
-idler 3 4 1
-cedar 1 5 0

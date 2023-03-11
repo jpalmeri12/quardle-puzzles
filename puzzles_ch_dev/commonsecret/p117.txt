@@ -1,6 +1,0 @@
-6 9 commonsecret
-spear 1 1 1
-sheik 1 1 0
-anger 1 4 0
-epoch 4 4 1
-!secret e

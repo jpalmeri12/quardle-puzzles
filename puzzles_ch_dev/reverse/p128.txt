@@ -1,5 +1,0 @@
-6 8 reverse
-probe 1 1 1
-esiug 3 3 1
-eziam 1 5 0
-bugle 1 7 0

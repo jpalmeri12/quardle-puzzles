@@ -1,5 +1,0 @@
-7 9
-chalk 5 1 1
-clean 2 4 1
-leaky 2 5 0
-salon 1 7 0

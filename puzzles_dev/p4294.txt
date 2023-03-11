@@ -1,5 +1,0 @@
-6 8
-sauna 1 1 1
-serum 1 1 0
-loamy 4 3 1
-assay 1 5 0

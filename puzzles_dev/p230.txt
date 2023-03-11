@@ -1,5 +1,0 @@
-7 10
-steal 5 1 1
-crate 2 2 0
-devil 1 5 0
-viper 3 5 1

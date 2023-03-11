@@ -1,5 +1,0 @@
-6 7
-froze 5 1 1
-graph 2 2 1
-bravo 1 3 0
-spite 1 5 0

@@ -1,5 +1,0 @@
-7 7
-flank 3 1 1
-valor 1 2 0
-rouge 5 2 1
-incur 2 4 0

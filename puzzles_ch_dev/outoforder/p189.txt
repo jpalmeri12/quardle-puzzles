@@ -1,5 +1,0 @@
-7 9 outoforder
-bushy 5 1 1
-thrum 2 2 0
-stash 1 4 0
-amiss 3 4 1

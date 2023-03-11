@@ -1,5 +1,0 @@
-6 10 spin
-sonic 4 1 1
-juice 1 5 0
-usher 2 5 1
-felon 1 8 0

@@ -1,5 +1,0 @@
-6 10
-saner 5 1 1
-mower 1 5 0
-evade 4 5 1
-foray 1 7 0

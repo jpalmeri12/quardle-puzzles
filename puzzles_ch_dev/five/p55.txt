@@ -1,6 +1,0 @@
-6 10 five
-fried 1 1 1
-fella 1 1 0
-droit 1 5 0
-reach 2 5 1
-scrub 1 8 0

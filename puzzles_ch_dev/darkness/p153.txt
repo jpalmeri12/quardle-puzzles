@@ -1,5 +1,0 @@
-7 8 darkness
-welsh 1 6 0
-oddly 3 3 1
-pouty 2 3 0
-glyph 6 1 1

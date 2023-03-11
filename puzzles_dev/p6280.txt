@@ -1,5 +1,0 @@
-7 10
-stood 4 1 1
-shear 2 5 1
-sedan 2 5 0
-lease 1 7 0

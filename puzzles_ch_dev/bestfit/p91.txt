@@ -1,5 +1,0 @@
-7 8 bestfit
-stomp 1 1 0
-tonal 2 1 1
-movie 5 3 1
-larva 2 5 0

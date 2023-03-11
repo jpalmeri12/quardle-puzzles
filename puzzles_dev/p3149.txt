@@ -1,5 +1,0 @@
-7 9
-kinky 2 1 1
-ingot 2 2 0
-skulk 1 4 0
-kayak 5 4 1

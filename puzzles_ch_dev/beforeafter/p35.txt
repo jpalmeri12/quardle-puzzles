@@ -1,9 +1,0 @@
-6 7 beforeafter
-begun 2 1 1
-jetty 1 2 0
-trope 4 2 1
-inept 1 5 0
-!beforeafter 2 i
-!beforeafter 1 m
-!beforeafter 1 q
-!beforeafter 2 o

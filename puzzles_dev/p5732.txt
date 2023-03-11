@@ -1,5 +1,0 @@
-6 9
-brood 4 1 1
-story 1 2 0
-buxom 1 4 0
-brawn 1 4 1

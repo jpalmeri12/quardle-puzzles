@@ -1,5 +1,0 @@
-7 10
-chunk 1 1 1
-knead 1 5 0
-noisy 2 5 1
-youth 2 9 0

@@ -1,5 +1,0 @@
-7 8 elbowroom
-smite 4 1 1
-climb 1 2 0
-vinyl 6 3 1
-stein 2 5 0

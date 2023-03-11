@@ -1,6 +1,0 @@
-7 9 island
-avoid 1 1 0
-viral 2 1 1
-seven 5 4 1
-liken 2 5 0
-!island 2111 11111 211 311

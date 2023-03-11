@@ -1,5 +1,0 @@
-7 8 hardmode
-sleek 4 1 1
-weedy 2 3 1
-wheat 2 3 0
-pesky 1 5 0

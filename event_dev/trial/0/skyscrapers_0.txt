@@ -1,5 +1,0 @@
-6 10 skyscrapers
-tithe 1 3 0
-seedy 5 1 1
-geeky 1 5 0
-known 4 5 1

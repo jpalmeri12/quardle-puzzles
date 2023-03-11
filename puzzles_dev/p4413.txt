@@ -1,5 +1,0 @@
-6 10
-tilde 1 1 0
-islet 2 1 1
-stilt 1 5 0
-login 4 5 1

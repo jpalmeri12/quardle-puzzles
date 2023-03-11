@@ -1,5 +1,0 @@
-7 7
-shack 6 1 1
-caulk 4 2 1
-guava 2 3 0
-shaky 1 6 0

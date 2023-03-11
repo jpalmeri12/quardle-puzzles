@@ -1,5 +1,0 @@
-7 9
-spicy 2 1 1
-octal 1 4 0
-lucid 5 4 1
-goody 2 8 0

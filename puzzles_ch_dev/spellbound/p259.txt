@@ -1,9 +1,0 @@
-7 10 spellbound
-pubic 1 1 0
-carol 5 1 1
-shell 2 5 0
-loath 6 5 1
-!spellbound 0 3 1
-!spellbound 1 2 3
-!spellbound 2 1 0
-!spellbound 3 1 3

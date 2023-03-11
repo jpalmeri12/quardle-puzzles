@@ -1,5 +1,0 @@
-7 8 clockdown
-verso 2 1 1
-giddy 4 3 1
-swill 2 4 0
-satyr 1 7 0

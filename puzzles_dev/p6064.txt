@@ -1,5 +1,0 @@
-7 10
-suave 4 1 1
-preen 2 5 0
-exalt 5 5 1
-smell 1 8 0

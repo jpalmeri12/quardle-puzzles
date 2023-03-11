@@ -1,5 +1,0 @@
-7 9
-adore 2 1 0
-dilly 3 1 1
-tulle 1 4 0
-enact 5 4 1

@@ -1,5 +1,0 @@
-6 9 spin
-nasal 1 1 0
-liver 5 1 1
-froze 2 4 1
-drier 1 5 0

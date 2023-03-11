@@ -1,6 +1,0 @@
-6 9 commonsecret
-choir 4 1 1
-ethic 1 4 0
-thorn 2 4 1
-trash 1 7 0
-!secret h

@@ -1,6 +1,0 @@
-6 10 undercover
-wheel 1 1 0
-human 2 1 1
-scrum 4 3 1
-watch 1 4 0
-goofy 1 9 0

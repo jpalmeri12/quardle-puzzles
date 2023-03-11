@@ -1,5 +1,0 @@
-6 7 bestfit
-stalk 2 1 1
-stuff 1 2 0
-femme 5 2 1
-gleam 1 4 0

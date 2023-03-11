@@ -1,6 +1,0 @@
-7 10 five
-fleck 2 1 1
-cleat 1 2 0
-tiger 5 2 1
-kneed 2 5 0
-nudge 3 5 1

@@ -1,7 +1,0 @@
-6 11 secretdistance
-delta 2 1 1
-leech 1 2 0
-refit 5 4 1
-cache 1 5 0
-jelly 1 10 0
-!sdpos 1 1 0 2

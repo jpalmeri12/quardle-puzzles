@@ -1,5 +1,0 @@
-6 10 fourscore
-idler 1 1 0
-infer 1 1 1
-rowdy 1 5 0
-youth 5 5 1

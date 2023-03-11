@@ -1,5 +1,0 @@
-7 8
-check 1 1 1
-least 3 3 1
-creek 1 4 0
-ascot 2 6 0

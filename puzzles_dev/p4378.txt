@@ -1,5 +1,0 @@
-6 9
-login 5 1 1
-salvo 1 2 0
-cacti 1 4 0
-adage 2 4 1

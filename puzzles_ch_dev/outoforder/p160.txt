@@ -1,5 +1,0 @@
-7 10 outoforder
-dying 4 1 1
-slime 2 3 0
-gouge 1 5 0
-ovine 2 5 1

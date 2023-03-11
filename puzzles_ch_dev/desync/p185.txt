@@ -1,5 +1,0 @@
-6 8 desync
-hobby 1 1 1
-erect 4 3 1
-blurt 1 4 0
-chute 1 7 0

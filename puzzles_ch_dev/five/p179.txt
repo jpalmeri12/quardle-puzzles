@@ -1,6 +1,0 @@
-7 10 five
-curve 2 1 0
-rajah 4 1 1
-ninja 1 3 0
-ethos 2 5 0
-shrew 6 5 1

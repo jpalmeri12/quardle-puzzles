@@ -1,6 +1,0 @@
-6 8 commonsecret
-duchy 1 1 1
-dying 5 3 1
-howdy 1 4 0
-doing 1 7 0
-!secret d

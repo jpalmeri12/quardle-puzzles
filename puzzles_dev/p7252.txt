@@ -1,5 +1,0 @@
-7 10
-vapor 4 1 1
-chord 1 5 0
-hardy 2 5 1
-deign 2 8 0

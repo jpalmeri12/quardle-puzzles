@@ -1,6 +1,0 @@
-6 9 undercover
-macaw 4 1 1
-usual 1 2 0
-sprig 2 2 1
-tread 1 4 0
-boozy 1 8 0

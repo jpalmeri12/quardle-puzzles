@@ -1,5 +1,0 @@
-7 8
-crony 6 1 1
-repel 2 3 1
-eaten 2 4 0
-blame 1 7 0

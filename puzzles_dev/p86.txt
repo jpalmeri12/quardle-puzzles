@@ -1,5 +1,0 @@
-7 10
-rebel 5 1 1
-udder 2 2 0
-modal 1 5 0
-often 2 5 1

@@ -1,5 +1,0 @@
-6 10 spaced
-lapse 1 1 0
-solve 4 1 1
-haven 1 5 0
-aloft 2 5 1

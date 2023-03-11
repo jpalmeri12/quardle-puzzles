@@ -1,5 +1,0 @@
-7 9 elbowroom
-issue 3 1 1
-islet 2 2 0
-slurp 1 4 0
-singe 1 4 1

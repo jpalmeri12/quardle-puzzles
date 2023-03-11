@@ -1,6 +1,0 @@
-6 10 connectfive
-psalm 3 1 1
-inane 5 4 1
-demon 1 5 0
-enema 2 5 1
-smoke 1 8 0

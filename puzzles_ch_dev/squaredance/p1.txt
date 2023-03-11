@@ -1,6 +1,0 @@
-6 8 squaredance
-patch 1 1 1
-hunch 5 1 1
-pooch 1 1 0
-hitch 1 5 0
-audit 1 7 0

@@ -1,5 +1,0 @@
-6 9
-scrap 1 1 0
-parse 5 1 1
-gloss 1 4 0
-olden 3 4 1

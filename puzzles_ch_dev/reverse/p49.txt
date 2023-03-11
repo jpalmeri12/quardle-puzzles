@@ -1,5 +1,0 @@
-6 7 reverse
-spark 1 1 1
-ydnad 4 2 1
-anode 1 3 0
-kluac 1 5 0

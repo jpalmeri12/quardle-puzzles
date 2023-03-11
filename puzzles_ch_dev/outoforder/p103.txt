@@ -1,5 +1,0 @@
-6 7 outoforder
-dowdy 3 1 1
-shine 1 2 1
-scoop 1 2 0
-index 1 4 0

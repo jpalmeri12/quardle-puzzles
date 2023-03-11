@@ -1,5 +1,0 @@
-7 9
-taken 5 1 1
-llama 1 2 0
-egret 2 4 0
-gaunt 3 4 1

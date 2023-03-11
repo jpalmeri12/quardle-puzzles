@@ -1,5 +1,0 @@
-7 9 spaced
-mushy 2 1 1
-handy 2 4 0
-daisy 5 4 1
-gipsy 1 8 0

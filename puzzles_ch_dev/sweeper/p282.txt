@@ -1,5 +1,0 @@
-6 9 sweeper
-offer 1 1 0
-finch 2 1 1
-skulk 4 4 1
-shaky 1 5 0

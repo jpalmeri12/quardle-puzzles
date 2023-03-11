@@ -1,9 +1,0 @@
-6 9 beforeafter
-adorn 1 1 0
-ditty 2 1 1
-stung 1 4 0
-noble 4 4 1
-!beforeafter 1 l
-!beforeafter 1 m
-!beforeafter 2 o
-!beforeafter 1 m

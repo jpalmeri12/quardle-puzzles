@@ -1,5 +1,0 @@
-7 9 beta
-zebra 1 1 0
-affix 5 1 1
-fluid 2 4 0
-flame 2 4 1

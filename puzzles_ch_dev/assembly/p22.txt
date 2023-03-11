@@ -1,5 +1,0 @@
-6 10 assembly
-lower 1 3 1
-dutch 5 3 1
-waste 1 1 0
-right 1 9 0

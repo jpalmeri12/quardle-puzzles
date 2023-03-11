@@ -1,5 +1,0 @@
-6 10 reverse
-evorg 5 1 1
-yspig 1 5 0
-inlay 4 5 1
-fatal 1 8 0

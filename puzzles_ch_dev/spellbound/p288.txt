@@ -1,9 +1,0 @@
-6 10 spellbound
-delta 4 1 1
-spear 1 5 0
-rivet 5 5 1
-drake 1 8 0
-!spellbound 0 2 1
-!spellbound 1 2 1
-!spellbound 2 1 2
-!spellbound 3 3 1

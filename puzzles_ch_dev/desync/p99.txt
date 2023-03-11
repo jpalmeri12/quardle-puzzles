@@ -1,5 +1,0 @@
-7 9 desync
-hurry 4 1 1
-avert 1 4 0
-vodka 2 4 1
-kappa 2 7 0

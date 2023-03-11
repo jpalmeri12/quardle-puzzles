@@ -1,5 +1,0 @@
-7 9
-plump 2 1 1
-larva 2 2 0
-smith 1 4 0
-terse 4 4 1

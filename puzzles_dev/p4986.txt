@@ -1,5 +1,0 @@
-6 6
-viral 1 1 0
-islet 2 1 1
-abort 4 1 1
-ferry 1 4 0

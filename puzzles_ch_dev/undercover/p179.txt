@@ -1,6 +1,0 @@
-6 11 undercover
-thumb 1 1 0
-broad 5 1 1
-eject 2 4 1
-fjord 1 5 0
-slyly 1 10 0

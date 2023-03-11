@@ -1,5 +1,0 @@
-7 10 scrabble
-angst 2 3 0
-grape 5 5 1
-shrug 1 5 0
-coach 2 1 1

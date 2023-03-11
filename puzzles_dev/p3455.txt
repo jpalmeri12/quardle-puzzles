@@ -1,5 +1,0 @@
-7 9
-urine 6 1 1
-login 2 4 0
-grass 4 4 1
-noose 1 7 0

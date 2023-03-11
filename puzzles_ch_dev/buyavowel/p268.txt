@@ -1,5 +1,0 @@
-7 10 buyavowel
-inept 4 1 1
-fleet 2 3 0
-amity 1 5 0
-afoul 1 5 1

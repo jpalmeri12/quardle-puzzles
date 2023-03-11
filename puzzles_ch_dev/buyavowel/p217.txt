@@ -1,5 +1,0 @@
-7 9 buyavowel
-tooth 2 1 0
-thigh 5 1 1
-weedy 2 4 1
-weigh 1 5 0

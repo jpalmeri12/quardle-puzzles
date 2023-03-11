@@ -1,5 +1,0 @@
-7 9 scrabble
-plane 2 4 1
-allay 1 5 0
-nymph 2 7 0
-puffy 5 1 1

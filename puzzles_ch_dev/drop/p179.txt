@@ -1,6 +1,0 @@
-7 12 drop
-motel 2 1 1
-truer 2 3 0
-clone 1 5 0
-noose 4 5 1
-droll 1 11 0

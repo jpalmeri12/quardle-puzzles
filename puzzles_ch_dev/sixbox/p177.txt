@@ -1,7 +1,0 @@
-8 8 sixbox
-cruel 3 1 1
-elegy 5 1 1
-rouse 1 3 0
-salad 4 3 1
-eagle 3 4 0
-dolly 1 5 0

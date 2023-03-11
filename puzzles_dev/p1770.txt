@@ -1,5 +1,0 @@
-6 8
-mover 5 1 1
-jetty 2 3 1
-steer 1 5 0
-tying 1 7 0

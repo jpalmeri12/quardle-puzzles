@@ -1,5 +1,0 @@
-7 10 darkness
-crush 1 5 0
-horde 5 5 1
-incur 2 1 1
-nerdy 2 2 0

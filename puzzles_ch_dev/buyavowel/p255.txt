@@ -1,5 +1,0 @@
-6 9 buyavowel
-verso 4 1 1
-viper 1 2 0
-glass 1 4 0
-lathe 2 4 1

@@ -1,5 +1,0 @@
-7 9 fourscore
-slump 2 1 0
-upset 4 1 1
-woven 1 4 1
-ovate 1 5 0

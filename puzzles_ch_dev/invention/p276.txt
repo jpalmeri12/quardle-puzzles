@@ -1,5 +1,0 @@
-7 9 invention
-ionic 1 1 1
-dogma 3 4 1
-clout 1 5 0
-smirk 2 7 0

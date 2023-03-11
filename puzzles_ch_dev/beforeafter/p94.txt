@@ -1,9 +1,0 @@
-7 9 beforeafter
-lodge 5 1 1
-triad 2 4 1
-probe 1 5 0
-amity 2 7 0
-!beforeafter 1 j
-!beforeafter 1 o
-!beforeafter 2 j
-!beforeafter 2 n

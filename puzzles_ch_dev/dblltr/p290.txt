@@ -1,5 +1,0 @@
-6 9 dblltr
-drool 3 1 1
-terra 1 2 0
-civic 1 4 1
-igloo 1 5 0

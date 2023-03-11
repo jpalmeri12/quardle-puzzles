@@ -1,5 +1,0 @@
-7 8 darkness
-lunar 2 4 0
-pansy 1 7 0
-locus 3 1 1
-cagey 5 3 1

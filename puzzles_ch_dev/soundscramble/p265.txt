@@ -1,5 +1,0 @@
-7 8 soundscramble
-sowar 6 1 1
-letha 4 3 1
-shera 2 4 0
-cedat 1 7 0

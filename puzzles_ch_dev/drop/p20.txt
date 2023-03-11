@@ -1,6 +1,0 @@
-7 10 drop
-gloss 3 1 1
-polyp 2 3 0
-yearn 5 3 1
-grain 1 7 0
-purge 1 9 0

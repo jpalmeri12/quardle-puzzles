@@ -1,6 +1,0 @@
-7 10 connectfive
-agora 1 1 1
-whole 3 3 1
-afoul 1 5 0
-leapt 5 5 1
-dirty 2 9 0

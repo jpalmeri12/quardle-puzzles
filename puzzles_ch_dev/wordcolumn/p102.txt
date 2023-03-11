@@ -1,6 +1,0 @@
-7 9 wordcolumn
-duchy 2 1 0
-uncut 3 1 1
-erect 1 4 1
-erupt 1 4 0
-tease 5 4 1

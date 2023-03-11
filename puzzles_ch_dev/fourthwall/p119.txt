@@ -1,7 +1,0 @@
-6 6 fourthwall
-split 1 1 0
-spade 1 1 1
-apron 1 3 0
-lurch 3 1 1
-ether 1 5 0
-tenor 5 1 1

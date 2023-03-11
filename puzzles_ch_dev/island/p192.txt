@@ -1,6 +1,0 @@
-6 9 island
-rehab 2 1 1
-needy 1 2 0
-stave 5 4 1
-abort 1 5 0
-!island 221 211 311 2111

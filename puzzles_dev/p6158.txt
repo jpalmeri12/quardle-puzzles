@@ -1,5 +1,0 @@
-7 10
-pulse 2 1 1
-derby 1 5 0
-rumor 3 5 1
-posse 2 8 0

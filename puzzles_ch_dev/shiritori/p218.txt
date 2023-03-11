@@ -1,5 +1,0 @@
-7 10 shiritori
-cabby 1 1 0
-banjo 3 1 1
-corny 2 5 0
-notch 5 5 1

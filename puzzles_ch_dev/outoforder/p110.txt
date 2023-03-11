@@ -1,5 +1,0 @@
-7 9 outoforder
-havoc 4 1 1
-shook 2 4 0
-skirt 2 4 1
-prime 1 7 0

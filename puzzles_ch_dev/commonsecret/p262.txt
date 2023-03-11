@@ -1,6 +1,0 @@
-6 10 commonsecret
-cacti 2 1 1
-eclat 1 3 0
-ditch 1 5 0
-tough 3 5 1
-!secret t

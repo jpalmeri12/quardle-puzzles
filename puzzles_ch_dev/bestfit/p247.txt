@@ -1,5 +1,0 @@
-7 7 bestfit
-wreak 5 1 1
-shard 2 2 0
-human 3 2 1
-whack 1 5 0

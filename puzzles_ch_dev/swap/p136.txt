@@ -1,5 +1,0 @@
-6 8 swap
-coevn 1 1 0
-otpic 2 1 1
-lnigo 4 3 1
-bieng 1 4 0

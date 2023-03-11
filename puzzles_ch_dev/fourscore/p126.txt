@@ -1,5 +1,0 @@
-6 9 fourscore
-freed 1 1 1
-ensue 1 4 0
-sheep 3 4 1
-gleam 1 7 0

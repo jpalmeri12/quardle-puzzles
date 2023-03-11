@@ -1,5 +1,0 @@
-7 9 bestfit
-reedy 5 1 1
-aphid 1 4 0
-halve 3 4 1
-evict 2 7 0

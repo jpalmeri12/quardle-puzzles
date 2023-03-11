@@ -1,5 +1,0 @@
-6 9 skyscrapers
-valor 1 2 0
-woozy 4 1 1
-fizzy 1 4 0
-inbox 2 4 1

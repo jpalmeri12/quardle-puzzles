@@ -1,5 +1,0 @@
-7 8 dblltr
-seedy 3 1 1
-leggy 2 3 0
-gloss 5 3 1
-humus 1 7 0

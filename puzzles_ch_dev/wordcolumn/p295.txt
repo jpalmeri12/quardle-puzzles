@@ -1,6 +1,0 @@
-7 9 wordcolumn
-aside 1 1 0
-smite 2 1 1
-trawl 2 4 0
-woozy 5 4 1
-fizzy 2 7 0

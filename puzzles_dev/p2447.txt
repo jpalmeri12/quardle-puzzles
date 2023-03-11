@@ -1,5 +1,0 @@
-7 8
-chest 6 1 1
-spore 2 3 0
-sting 2 3 1
-agony 1 7 0

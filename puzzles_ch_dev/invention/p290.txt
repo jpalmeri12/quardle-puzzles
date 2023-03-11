@@ -1,5 +1,0 @@
-7 7 invention
-cacti 3 1 1
-scarf 1 2 0
-force 5 2 1
-since 2 5 0

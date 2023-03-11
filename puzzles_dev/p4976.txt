@@ -1,5 +1,0 @@
-7 7
-coach 1 1 1
-ought 1 2 0
-haute 4 2 1
-dream 2 6 0

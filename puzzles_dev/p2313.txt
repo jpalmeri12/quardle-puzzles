@@ -1,5 +1,0 @@
-6 9
-midge 4 1 1
-close 2 4 1
-ulcer 1 5 0
-ashen 1 7 0

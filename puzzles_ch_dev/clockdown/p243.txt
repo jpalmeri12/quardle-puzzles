@@ -1,5 +1,0 @@
-7 7 clockdown
-model 5 1 1
-actor 2 2 0
-click 3 2 1
-opine 1 4 0

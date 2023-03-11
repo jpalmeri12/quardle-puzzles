@@ -1,5 +1,0 @@
-6 9 altending
-caddy 1 1 0
-canon 1 3 0
-spool 1 5 0
-drone 1 7 0

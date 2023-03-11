@@ -1,6 +1,0 @@
-6 7 commonsecret
-quirk 3 1 1
-tough 1 2 0
-human 5 2 1
-thrum 1 4 0
-!secret u

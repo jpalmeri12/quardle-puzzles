@@ -1,5 +1,0 @@
-7 9
-whine 2 1 1
-hedge 2 2 0
-flock 4 4 1
-belle 1 5 0

@@ -1,5 +1,0 @@
-7 9 elbowroom
-bring 1 1 1
-macro 4 4 1
-groan 1 5 0
-crown 2 8 0

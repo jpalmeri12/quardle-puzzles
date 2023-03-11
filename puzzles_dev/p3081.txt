@@ -1,5 +1,0 @@
-6 9
-trope 5 1 1
-altar 1 2 0
-grasp 1 4 0
-argue 3 4 1

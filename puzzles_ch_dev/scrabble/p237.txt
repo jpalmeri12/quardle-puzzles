@@ -1,5 +1,0 @@
-7 9 scrabble
-idiot 4 4 1
-bliss 2 4 0
-spasm 6 1 1
-chain 1 6 0

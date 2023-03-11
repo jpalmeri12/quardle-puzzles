@@ -1,5 +1,0 @@
-7 8
-shack 2 1 0
-humus 3 1 1
-villa 5 3 1
-nasal 1 5 0

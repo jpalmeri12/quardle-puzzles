@@ -1,5 +1,0 @@
-6 8 shiritori
-radar 1 1 0
-attic 2 1 1
-stiff 1 3 0
-fling 4 3 1

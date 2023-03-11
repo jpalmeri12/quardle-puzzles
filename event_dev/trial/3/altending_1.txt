@@ -1,5 +1,0 @@
-6 9 altending
-rarer 1 1 0
-watch 1 3 0
-finer 1 5 0
-sheen 1 7 0

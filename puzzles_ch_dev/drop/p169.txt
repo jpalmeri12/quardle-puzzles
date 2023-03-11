@@ -1,6 +1,0 @@
-6 12 drop
-magma 2 1 1
-agate 1 3 0
-party 1 5 0
-thorn 4 5 1
-tangy 1 11 0

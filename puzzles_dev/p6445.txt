@@ -1,5 +1,0 @@
-7 10
-cabin 4 1 1
-tabby 2 3 0
-fiend 1 5 0
-dwarf 5 5 1

@@ -1,6 +1,0 @@
-7 11 drop
-miner 4 1 1
-axion 2 2 0
-tweed 1 4 0
-winch 2 4 1
-twirl 1 10 0

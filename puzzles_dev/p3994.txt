@@ -1,5 +1,0 @@
-7 8
-giant 2 1 0
-agate 4 1 1
-woody 2 3 1
-motto 1 4 0

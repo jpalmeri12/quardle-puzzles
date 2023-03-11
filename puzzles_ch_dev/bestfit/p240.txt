@@ -1,5 +1,0 @@
-6 7 bestfit
-skulk 4 1 1
-lynch 1 2 1
-leaky 1 2 0
-noble 1 4 0

@@ -1,5 +1,0 @@
-7 7 swap
-omtor 5 1 1
-mdaam 1 2 0
-deomn 2 2 1
-mtero 2 5 0

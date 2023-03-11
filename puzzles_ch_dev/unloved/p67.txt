@@ -1,5 +1,0 @@
-7 8 unloved
-snowy 2 1 1
-condo 1 3 0
-dwelt 4 3 1
-tithe 2 7 0

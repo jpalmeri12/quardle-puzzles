@@ -1,7 +1,0 @@
-7 11 secretdistance
-parry 2 1 0
-aloof 3 1 1
-atoll 1 4 0
-lapel 5 4 1
-offal 1 10 0
-!sdpos 2 3 1 0

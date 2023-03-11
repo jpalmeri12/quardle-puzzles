@@ -1,5 +1,0 @@
-7 10
-allot 6 1 1
-trait 2 5 0
-attic 4 5 1
-fifth 1 7 0

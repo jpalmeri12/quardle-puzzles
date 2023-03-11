@@ -1,5 +1,0 @@
-7 10
-pasta 4 1 1
-horse 1 3 0
-glaze 2 5 0
-legal 3 5 1

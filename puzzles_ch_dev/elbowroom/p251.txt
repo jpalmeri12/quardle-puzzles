@@ -1,5 +1,0 @@
-7 10 elbowroom
-fable 2 1 0
-bilge 4 1 1
-payee 1 5 0
-young 3 5 1

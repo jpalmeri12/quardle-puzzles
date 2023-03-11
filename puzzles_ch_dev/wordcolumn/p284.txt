@@ -1,6 +1,0 @@
-7 10 wordcolumn
-bayou 5 1 1
-forum 2 5 0
-fleet 2 5 1
-roach 4 5 1
-perch 1 8 0

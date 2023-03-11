@@ -1,5 +1,0 @@
-7 9
-chide 6 1 1
-every 4 4 1
-movie 2 5 0
-satyr 1 8 0

@@ -1,5 +1,0 @@
-7 8
-weird 2 1 0
-every 3 1 1
-tweak 1 3 0
-talon 1 3 1

@@ -1,7 +1,0 @@
-7 9 secretdistance
-caste 1 1 1
-abled 5 2 1
-shrub 1 3 0
-anode 2 6 0
-stand 1 8 0
-!sdpos 2 1 3 0

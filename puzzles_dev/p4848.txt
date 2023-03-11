@@ -1,5 +1,0 @@
-7 10
-trend 3 1 1
-spelt 1 3 0
-adept 2 5 0
-eclat 4 5 1

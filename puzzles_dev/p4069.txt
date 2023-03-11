@@ -1,5 +1,0 @@
-6 7
-rival 1 1 1
-imbue 1 2 0
-eagle 5 2 1
-legal 1 5 0

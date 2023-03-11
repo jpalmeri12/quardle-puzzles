@@ -1,5 +1,0 @@
-7 10
-loamy 3 1 1
-rouse 2 2 0
-crypt 1 5 0
-petal 4 5 1

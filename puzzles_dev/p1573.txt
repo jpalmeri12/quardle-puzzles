@@ -1,5 +1,0 @@
-7 10
-gonad 4 1 1
-fjord 2 2 0
-biddy 1 5 0
-drown 3 5 1

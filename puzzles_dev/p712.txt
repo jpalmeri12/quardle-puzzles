@@ -1,5 +1,0 @@
-7 10
-pizza 2 1 1
-prior 2 1 0
-pasty 1 5 0
-taint 4 5 1

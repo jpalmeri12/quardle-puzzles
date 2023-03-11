@@ -1,5 +1,0 @@
-7 10 bestfit
-acute 5 1 1
-copse 1 5 0
-staff 4 5 1
-chasm 2 7 0

@@ -1,5 +1,0 @@
-6 9 bestfit
-tribe 1 1 1
-tally 1 1 0
-badge 1 4 0
-enema 5 4 1

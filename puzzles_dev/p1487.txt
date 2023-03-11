@@ -1,5 +1,0 @@
-6 7
-deity 4 1 1
-dried 1 2 0
-dimly 1 2 1
-mouth 1 4 0

@@ -1,5 +1,0 @@
-6 9
-beefy 1 1 0
-forte 4 1 1
-loath 1 4 0
-lodge 1 4 1

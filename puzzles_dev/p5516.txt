@@ -1,5 +1,0 @@
-6 8
-salve 3 1 1
-lipid 1 3 1
-piece 1 5 0
-dunce 1 7 0

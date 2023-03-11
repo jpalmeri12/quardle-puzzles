@@ -1,5 +1,0 @@
-6 7
-super 4 1 1
-scrub 1 2 0
-clack 2 2 1
-acorn 1 5 0

@@ -1,5 +1,0 @@
-7 9 skyscrapers
-yearn 1 5 0
-savor 3 4 1
-drunk 2 8 0
-chain 5 1 1

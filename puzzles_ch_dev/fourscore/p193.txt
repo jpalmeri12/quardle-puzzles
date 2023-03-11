@@ -1,5 +1,0 @@
-7 8 fourscore
-crown 3 1 1
-koala 2 3 0
-lance 5 3 1
-stave 1 7 0

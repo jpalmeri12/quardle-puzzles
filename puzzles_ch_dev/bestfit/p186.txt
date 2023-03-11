@@ -1,5 +1,0 @@
-6 7 bestfit
-usage 1 1 1
-snarl 1 2 0
-rifle 4 2 1
-gaffe 1 4 0

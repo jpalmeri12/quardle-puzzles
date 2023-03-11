@@ -1,5 +1,0 @@
-7 9
-sneak 1 1 0
-krill 5 1 1
-plane 2 4 1
-lowly 2 5 0

@@ -1,6 +1,0 @@
-6 9 connectfive
-poser 3 1 1
-spurn 5 1 1
-favor 1 4 1
-apron 1 5 0
-often 1 7 0

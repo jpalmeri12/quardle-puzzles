@@ -1,6 +1,0 @@
-7 11 undercover
-vouch 1 1 1
-corny 1 4 0
-noble 4 4 1
-seedy 2 8 0
-gamma 1 10 0

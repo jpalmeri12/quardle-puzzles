@@ -1,5 +1,0 @@
-6 6
-foyer 3 1 1
-slyly 5 1 1
-wryly 1 3 0
-ferry 1 5 0

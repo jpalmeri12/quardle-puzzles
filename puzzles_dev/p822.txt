@@ -1,5 +1,0 @@
-7 9
-gummy 6 1 1
-steam 2 4 0
-elope 4 4 1
-crepe 1 7 0

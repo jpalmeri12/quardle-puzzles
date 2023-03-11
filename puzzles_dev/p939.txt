@@ -1,5 +1,0 @@
-7 10
-habit 2 1 1
-gaily 1 2 0
-thumb 2 5 0
-bawdy 6 5 1

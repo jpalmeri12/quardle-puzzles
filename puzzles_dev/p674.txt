@@ -1,5 +1,0 @@
-7 9
-swine 5 1 1
-drawn 2 2 0
-rumor 1 4 1
-uncle 1 5 0

@@ -1,7 +1,0 @@
-7 12 secretdistance
-tibia 3 1 1
-chaff 1 5 0
-femme 4 5 1
-armor 2 7 0
-shoot 1 11 0
-!sdpos 0 1 2 1

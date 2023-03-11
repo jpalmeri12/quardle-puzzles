@@ -1,5 +1,0 @@
-7 9 bestfit
-puree 5 1 1
-usher 2 4 0
-stove 3 4 1
-anvil 1 7 0

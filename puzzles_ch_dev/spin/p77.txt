@@ -1,5 +1,0 @@
-6 10 spin
-sedan 3 1 1
-pence 1 5 0
-cumin 4 5 1
-shiny 1 9 0

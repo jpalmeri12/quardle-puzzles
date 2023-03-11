@@ -1,5 +1,0 @@
-7 10 spin
-swish 5 1 1
-genie 2 3 0
-vouch 1 5 0
-uncle 3 5 1

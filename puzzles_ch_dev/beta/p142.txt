@@ -1,5 +1,0 @@
-7 7 beta
-irate 1 1 0
-taint 4 1 1
-trice 6 2 1
-ennui 2 4 0

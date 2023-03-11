@@ -1,6 +1,0 @@
-7 12 drop
-ruler 5 1 1
-reply 2 3 0
-racer 1 5 0
-every 4 5 1
-parry 1 11 0

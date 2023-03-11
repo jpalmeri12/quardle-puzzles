@@ -1,5 +1,0 @@
-7 8
-puree 3 1 1
-erupt 1 2 0
-poise 6 3 1
-hello 2 4 0

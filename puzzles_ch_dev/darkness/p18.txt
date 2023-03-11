@@ -1,5 +1,0 @@
-6 9 darkness
-watch 1 1 0
-write 1 1 1
-inlet 3 4 1
-twice 1 4 0

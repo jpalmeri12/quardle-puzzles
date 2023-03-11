@@ -1,6 +1,0 @@
-7 10 wordcolumn
-quasi 2 1 1
-surer 4 2 1
-adult 2 3 0
-bicep 1 5 0
-basis 1 5 1

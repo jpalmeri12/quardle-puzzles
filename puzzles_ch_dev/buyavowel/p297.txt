@@ -1,5 +1,0 @@
-7 9 buyavowel
-bigot 5 1 1
-scion 2 4 0
-crept 3 4 1
-enter 1 8 0

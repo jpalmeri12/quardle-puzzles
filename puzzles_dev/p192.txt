@@ -1,5 +1,0 @@
-6 7
-place 5 1 1
-krill 1 2 0
-rhyme 2 2 1
-smoke 1 5 0

@@ -1,5 +1,0 @@
-6 10 assembly
-thorn 1 3 1
-detox 5 3 1
-triad 1 1 0
-overt 1 9 0

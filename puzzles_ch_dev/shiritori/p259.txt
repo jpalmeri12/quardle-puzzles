@@ -1,5 +1,0 @@
-6 9 shiritori
-hefty 1 1 1
-theft 1 4 0
-fjord 4 4 1
-snarl 1 7 0

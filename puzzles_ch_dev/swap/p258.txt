@@ -1,5 +1,0 @@
-7 10 swap
-iwdow 3 1 1
-brwal 1 2 0
-ewnch 2 5 0
-erign 2 5 1

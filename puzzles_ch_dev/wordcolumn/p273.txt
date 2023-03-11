@@ -1,6 +1,0 @@
-7 9 wordcolumn
-shawl 1 1 0
-whose 4 1 1
-wiser 2 4 0
-ridge 6 4 1
-swing 2 7 0

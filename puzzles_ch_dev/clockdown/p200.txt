@@ -1,5 +1,0 @@
-7 9 clockdown
-shore 5 1 1
-vigor 1 4 0
-grief 3 4 1
-often 2 8 0

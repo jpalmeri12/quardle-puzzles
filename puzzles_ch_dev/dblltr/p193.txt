@@ -1,5 +1,0 @@
-7 10 dblltr
-whiff 2 1 1
-friar 2 5 0
-idyll 4 5 1
-belle 1 8 0

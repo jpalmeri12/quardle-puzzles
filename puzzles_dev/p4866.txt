@@ -1,5 +1,0 @@
-6 6
-prone 1 1 0
-poise 1 1 1
-nerve 4 1 1
-ivory 1 3 0

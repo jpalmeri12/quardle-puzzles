@@ -1,5 +1,0 @@
-7 10 spin
-saint 4 1 1
-swish 2 3 0
-saute 1 5 0
-union 3 5 1

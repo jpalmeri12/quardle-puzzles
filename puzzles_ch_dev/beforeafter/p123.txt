@@ -1,9 +1,0 @@
-6 7 beforeafter
-batty 2 1 1
-datum 1 2 0
-mulch 5 2 1
-stall 1 4 0
-!beforeafter 1 i
-!beforeafter 1 j
-!beforeafter 2 i
-!beforeafter 1 q

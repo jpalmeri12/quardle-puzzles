@@ -1,9 +1,0 @@
-6 9 beforeafter
-abyss 1 1 0
-bayou 2 1 1
-agony 4 4 1
-nudge 1 5 0
-!beforeafter 1 k
-!beforeafter 1 l
-!beforeafter 1 m
-!beforeafter 1 k

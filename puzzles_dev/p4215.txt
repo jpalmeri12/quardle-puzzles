@@ -1,5 +1,0 @@
-6 10
-level 1 1 0
-event 4 1 1
-berth 1 5 0
-evict 2 5 1

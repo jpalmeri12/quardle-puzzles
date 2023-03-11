@@ -1,5 +1,0 @@
-7 10 elbowroom
-stomp 1 1 0
-micro 4 1 1
-booby 2 5 0
-buddy 5 5 1

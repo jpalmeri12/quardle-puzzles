@@ -1,5 +1,0 @@
-6 9 altending
-halve 1 1 0
-stank 1 3 0
-climb 1 5 0
-plush 1 7 0

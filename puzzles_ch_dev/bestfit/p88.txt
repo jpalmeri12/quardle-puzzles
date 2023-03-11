@@ -1,5 +1,0 @@
-6 7 bestfit
-decor 1 1 1
-curse 3 2 1
-crust 1 3 0
-risky 1 5 0

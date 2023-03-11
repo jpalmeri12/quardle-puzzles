@@ -1,5 +1,0 @@
-7 9
-diode 5 1 1
-rabbi 1 2 0
-grace 3 4 1
-crier 2 5 0

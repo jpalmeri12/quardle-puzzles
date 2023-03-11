@@ -1,6 +1,0 @@
-7 11 drop
-coupe 2 1 0
-polyp 5 1 1
-dully 1 4 0
-drunk 1 4 1
-slurp 1 10 0

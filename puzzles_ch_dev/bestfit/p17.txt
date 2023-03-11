@@ -1,5 +1,0 @@
-7 9 bestfit
-reuse 2 1 1
-verse 1 2 0
-scrub 2 4 0
-remit 4 4 1

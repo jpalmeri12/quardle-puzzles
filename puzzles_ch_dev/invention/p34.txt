@@ -1,5 +1,0 @@
-7 10 invention
-omega 3 1 1
-pixie 2 5 1
-pagan 2 5 0
-exile 1 7 0

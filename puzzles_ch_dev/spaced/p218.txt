@@ -1,5 +1,0 @@
-6 9 spaced
-aptly 5 1 1
-ashen 3 4 1
-pushy 1 5 0
-panel 1 8 0

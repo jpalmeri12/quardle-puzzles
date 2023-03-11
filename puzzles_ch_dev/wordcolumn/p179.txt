@@ -1,6 +1,0 @@
-7 12 wordcolumn
-briar 5 1 1
-unfit 3 4 1
-snore 2 5 0
-prism 1 7 1
-ratty 1 8 0

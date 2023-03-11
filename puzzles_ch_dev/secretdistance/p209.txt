@@ -1,7 +1,0 @@
-6 11 secretdistance
-enema 1 1 1
-masse 1 4 0
-silly 3 4 1
-melee 1 7 0
-gully 1 10 0
-!sdpos 0 3 3 3

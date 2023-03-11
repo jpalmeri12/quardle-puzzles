@@ -1,5 +1,0 @@
-6 7 reverse
-larva 1 1 1
-esroh 3 2 1
-risen 1 3 0
-aloiv 1 5 0

@@ -1,5 +1,0 @@
-7 9 bestfit
-rouse 2 1 1
-stalk 2 4 0
-lemon 5 4 1
-linen 1 8 0

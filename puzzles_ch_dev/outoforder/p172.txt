@@ -1,5 +1,0 @@
-7 9 outoforder
-bingo 2 1 1
-heave 5 4 1
-force 1 5 0
-waive 2 7 0

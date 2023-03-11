@@ -1,5 +1,0 @@
-7 8
-piece 6 1 1
-hussy 3 3 1
-sumac 2 4 0
-thyme 1 7 0

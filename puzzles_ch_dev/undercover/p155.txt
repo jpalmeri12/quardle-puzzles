@@ -1,6 +1,0 @@
-6 11 undercover
-twirl 1 1 1
-repel 1 4 0
-prude 3 4 1
-sperm 1 8 0
-knack 1 10 0

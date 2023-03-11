@@ -1,5 +1,0 @@
-6 8
-flume 2 1 1
-octet 4 3 1
-smack 1 4 0
-musty 1 7 0

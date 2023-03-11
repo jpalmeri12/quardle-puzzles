@@ -1,5 +1,0 @@
-7 9
-thing 5 1 1
-gloss 2 4 1
-glint 2 4 0
-using 1 7 0

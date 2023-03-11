@@ -1,5 +1,0 @@
-6 9
-privy 4 1 1
-dowry 1 2 0
-delve 1 4 0
-drawl 1 4 1

@@ -1,5 +1,0 @@
-6 8 buyavowel
-edict 1 1 0
-crass 4 1 1
-roast 2 3 1
-waist 1 5 0

@@ -1,6 +1,0 @@
-6 12 connectfive
-junta 3 1 1
-wharf 1 5 0
-first 5 5 1
-augur 1 7 0
-glove 3 7 1

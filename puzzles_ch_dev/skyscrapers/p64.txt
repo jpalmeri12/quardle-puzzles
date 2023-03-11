@@ -1,5 +1,0 @@
-7 9 skyscrapers
-onion 1 7 0
-lurid 3 4 1
-buyer 2 5 0
-defer 6 1 1

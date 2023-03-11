@@ -1,5 +1,0 @@
-6 9
-wiser 5 1 1
-borax 2 4 1
-sonar 1 5 0
-axiom 1 8 0

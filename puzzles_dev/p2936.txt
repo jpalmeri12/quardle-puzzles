@@ -1,5 +1,0 @@
-6 10
-intro 5 1 1
-tango 1 5 0
-title 1 5 1
-linen 1 8 0

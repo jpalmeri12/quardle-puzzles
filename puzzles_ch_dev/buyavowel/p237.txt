@@ -1,5 +1,0 @@
-7 9 buyavowel
-moose 4 1 1
-lasso 2 4 0
-leech 2 4 1
-chump 1 8 0

@@ -1,5 +1,0 @@
-7 10 reverse
-incur 5 1 1
-xobni 2 2 0
-nicer 1 5 0
-ezalg 4 5 1

@@ -1,5 +1,0 @@
-7 10
-slope 1 1 0
-pinky 4 1 1
-tryst 2 5 0
-reach 3 5 1

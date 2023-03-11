@@ -1,5 +1,0 @@
-7 9
-lousy 5 1 1
-mouth 3 4 1
-polyp 2 5 0
-aphid 1 8 0

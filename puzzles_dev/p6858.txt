@@ -1,5 +1,0 @@
-7 8
-savor 1 1 0
-oxide 4 1 1
-ovine 2 3 0
-event 6 3 1

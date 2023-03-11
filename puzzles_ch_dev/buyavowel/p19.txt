@@ -1,5 +1,0 @@
-7 9 buyavowel
-parse 2 1 1
-mambo 1 2 0
-stick 4 4 1
-entry 2 5 0

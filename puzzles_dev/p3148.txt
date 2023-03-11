@@ -1,5 +1,0 @@
-6 7
-freed 3 1 1
-carat 1 2 0
-terse 5 2 1
-shear 1 4 0

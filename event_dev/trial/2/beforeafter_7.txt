@@ -1,9 +1,0 @@
-6 9 beforeafter
-torch 1 1 1
-pride 4 4 1
-harry 1 5 0
-prude 1 7 0
-!beforeafter 2 l
-!beforeafter 1 n
-!beforeafter 1 n
-!beforeafter 2 n

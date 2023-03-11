@@ -1,5 +1,0 @@
-7 7 outoforder
-spill 2 1 1
-paddy 2 2 0
-decal 4 2 1
-block 1 4 0

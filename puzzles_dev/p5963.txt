@@ -1,5 +1,0 @@
-7 10
-sloop 4 1 1
-adapt 1 5 0
-twist 5 5 1
-cress 2 8 0

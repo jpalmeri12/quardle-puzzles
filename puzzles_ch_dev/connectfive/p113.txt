@@ -1,6 +1,0 @@
-7 10 connectfive
-golem 1 1 1
-femme 4 1 1
-maker 1 5 0
-aunty 2 5 1
-trope 2 8 0

@@ -1,5 +1,0 @@
-7 10
-moral 1 1 1
-lapse 1 5 0
-axial 2 5 1
-leafy 2 9 0

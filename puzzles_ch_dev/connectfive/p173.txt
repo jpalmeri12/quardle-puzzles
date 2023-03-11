@@ -1,6 +1,0 @@
-6 12 connectfive
-stern 1 1 1
-gypsy 5 4 1
-nasty 1 5 0
-focus 1 7 0
-crave 3 7 1

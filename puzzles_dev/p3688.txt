@@ -1,5 +1,0 @@
-7 10
-macho 3 1 1
-scoop 2 3 0
-flora 1 5 0
-fifth 1 5 1

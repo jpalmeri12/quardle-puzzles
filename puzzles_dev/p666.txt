@@ -1,5 +1,0 @@
-7 8
-heard 2 1 1
-crowd 5 3 1
-depot 2 5 0
-vivid 1 7 0

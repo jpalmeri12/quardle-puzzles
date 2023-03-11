@@ -1,6 +1,0 @@
-7 12 undercover
-visit 2 1 0
-sewer 4 1 1
-heard 1 5 0
-awful 3 5 1
-poppy 1 11 0

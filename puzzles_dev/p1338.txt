@@ -1,5 +1,0 @@
-7 10
-savor 2 1 1
-crude 1 5 0
-usurp 3 5 1
-build 2 7 0

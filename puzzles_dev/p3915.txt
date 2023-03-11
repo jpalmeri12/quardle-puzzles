@@ -1,5 +1,0 @@
-7 10
-chore 2 1 1
-chill 2 1 0
-weird 1 5 0
-dolly 5 5 1

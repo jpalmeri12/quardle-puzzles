@@ -1,5 +1,0 @@
-6 7 dblltr
-lorry 1 1 1
-occur 1 2 0
-comic 3 2 1
-rumor 1 4 0

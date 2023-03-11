@@ -1,5 +1,0 @@
-7 10 darkness
-shrub 4 1 1
-timer 1 7 0
-ombre 2 5 0
-mamma 3 5 1

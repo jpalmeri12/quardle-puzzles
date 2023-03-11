@@ -1,5 +1,0 @@
-6 10
-horse 3 1 1
-homer 1 5 1
-hyena 1 5 0
-maybe 1 7 0

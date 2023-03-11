@@ -1,5 +1,0 @@
-7 10
-shaft 2 1 1
-stern 1 5 0
-excel 3 5 1
-clear 2 9 0

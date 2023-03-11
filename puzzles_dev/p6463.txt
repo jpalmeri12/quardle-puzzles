@@ -1,5 +1,0 @@
-7 9
-scope 2 1 1
-purer 2 4 0
-ruder 4 4 1
-scare 1 8 0

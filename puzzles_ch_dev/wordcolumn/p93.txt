@@ -1,6 +1,0 @@
-7 10 wordcolumn
-using 2 1 1
-alone 5 1 1
-swill 2 2 0
-agate 1 5 0
-theta 4 5 1

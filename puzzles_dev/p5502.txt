@@ -1,5 +1,0 @@
-7 8
-singe 2 1 0
-gripe 5 1 1
-duvet 3 3 1
-crump 1 4 0

@@ -1,5 +1,0 @@
-7 10 swap
-rernu 5 1 1
-torsu 1 5 0
-reram 3 5 1
-emdia 2 9 0

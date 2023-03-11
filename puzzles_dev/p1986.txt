@@ -1,5 +1,0 @@
-6 7
-wreck 5 1 1
-order 1 2 0
-outgo 1 2 1
-tonic 1 4 0

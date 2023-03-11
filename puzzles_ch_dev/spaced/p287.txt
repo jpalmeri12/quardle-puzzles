@@ -1,5 +1,0 @@
-7 7 spaced
-skimp 1 1 1
-crime 4 2 1
-magic 1 4 0
-cream 2 6 0

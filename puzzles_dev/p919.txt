@@ -1,5 +1,0 @@
-7 8
-sheet 6 1 1
-scope 3 3 1
-acute 2 4 0
-sappy 1 6 0

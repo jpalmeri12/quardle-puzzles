@@ -1,9 +1,0 @@
-7 8 beforeafter
-stuff 1 1 1
-truce 4 3 1
-flirt 1 4 0
-decor 2 6 0
-!beforeafter 2 p
-!beforeafter 2 m
-!beforeafter 2 n
-!beforeafter 2 j

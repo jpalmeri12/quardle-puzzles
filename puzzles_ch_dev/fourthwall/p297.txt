@@ -1,7 +1,0 @@
-6 6 fourthwall
-flour 1 1 0
-fetus 1 1 1
-trite 1 3 0
-olive 3 1 1
-seedy 1 5 0
-reedy 5 1 1

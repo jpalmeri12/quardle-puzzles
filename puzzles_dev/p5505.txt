@@ -1,5 +1,0 @@
-6 9
-groom 3 1 1
-party 1 2 0
-atoll 1 4 0
-libel 5 4 1

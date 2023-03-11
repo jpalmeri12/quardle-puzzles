@@ -1,9 +1,0 @@
-7 8 spellbound
-steak 5 1 1
-ester 2 3 0
-spawn 3 3 1
-stack 1 5 0
-!spellbound 0 3 1
-!spellbound 1 0 2
-!spellbound 2 3 1
-!spellbound 3 1 3

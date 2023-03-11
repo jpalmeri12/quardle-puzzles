@@ -1,5 +1,0 @@
-7 9 duplicity
-bacon 4 1 1
-kebab 2 4 1
-knock 2 4 0
-canoe 1 7 0

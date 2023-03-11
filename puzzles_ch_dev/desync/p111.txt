@@ -1,5 +1,0 @@
-6 6 desync
-aside 1 1 1
-smirk 4 1 1
-sigma 1 2 0
-dairy 1 4 0

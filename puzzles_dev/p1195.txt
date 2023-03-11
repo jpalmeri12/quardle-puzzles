@@ -1,5 +1,0 @@
-7 10
-rajah 5 1 1
-nymph 1 5 0
-myrrh 3 5 1
-thong 2 9 0

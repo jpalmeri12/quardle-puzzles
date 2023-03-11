@@ -1,5 +1,0 @@
-7 8
-limit 1 1 0
-ionic 2 1 1
-crone 6 3 1
-cacao 2 5 0

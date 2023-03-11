@@ -1,5 +1,0 @@
-7 9 duplicity
-recap 3 1 1
-tract 5 4 1
-taper 1 5 0
-peace 2 7 0

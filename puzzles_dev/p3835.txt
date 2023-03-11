@@ -1,5 +1,0 @@
-7 8
-flank 1 1 0
-lofty 2 1 1
-foamy 2 3 0
-again 4 3 1

@@ -1,5 +1,0 @@
-6 6 sweeper
-bowel 1 1 1
-stole 3 1 1
-otter 1 2 0
-leery 1 5 0

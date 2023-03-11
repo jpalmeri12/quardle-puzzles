@@ -1,6 +1,0 @@
-7 9 island
-nymph 1 1 1
-patch 1 4 0
-harsh 5 4 1
-ombre 2 6 0
-!island 41 11111 211 2111

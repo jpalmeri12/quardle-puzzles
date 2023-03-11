@@ -1,5 +1,0 @@
-6 7
-fancy 1 1 1
-aging 1 2 0
-ninny 4 2 1
-crone 1 4 0

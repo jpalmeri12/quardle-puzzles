@@ -1,6 +1,0 @@
-7 9 connectfive
-robin 2 1 1
-occur 2 2 0
-aider 1 4 0
-reedy 5 4 1
-brand 1 7 0

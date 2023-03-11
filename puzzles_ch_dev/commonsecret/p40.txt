@@ -1,6 +1,0 @@
-6 9 commonsecret
-chirp 2 1 1
-whelp 1 2 0
-tripe 1 4 0
-pulse 4 4 1
-!secret p

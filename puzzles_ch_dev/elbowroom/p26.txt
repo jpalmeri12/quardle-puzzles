@@ -1,5 +1,0 @@
-7 9 elbowroom
-inept 2 1 1
-apnea 1 4 0
-abate 5 4 1
-cacti 2 7 0

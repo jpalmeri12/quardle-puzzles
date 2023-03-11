@@ -1,5 +1,0 @@
-6 10
-putty 1 1 1
-tally 1 3 0
-yearn 1 5 0
-atone 3 5 1

@@ -1,6 +1,0 @@
-7 10 commonsecret
-ethos 5 1 1
-quest 2 5 0
-quiet 2 5 1
-beret 1 8 0
-!secret t

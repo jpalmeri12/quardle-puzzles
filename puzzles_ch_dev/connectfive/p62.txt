@@ -1,6 +1,0 @@
-6 10 connectfive
-knave 1 1 1
-small 5 1 1
-equal 1 5 0
-aphid 4 5 1
-mocha 1 7 0

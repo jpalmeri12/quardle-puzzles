@@ -1,5 +1,0 @@
-7 8 spaced
-crawl 2 1 1
-rapid 1 3 0
-dumpy 5 3 1
-vinyl 2 7 0

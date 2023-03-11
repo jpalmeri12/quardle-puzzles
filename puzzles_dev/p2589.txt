@@ -1,5 +1,0 @@
-6 9
-clank 4 1 1
-amend 1 4 0
-alone 1 4 1
-erode 1 8 0

@@ -1,5 +1,0 @@
-6 9 darkness
-sniff 1 1 1
-spurt 1 1 0
-fiber 1 4 0
-reach 5 4 1

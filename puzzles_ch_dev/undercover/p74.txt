@@ -1,6 +1,0 @@
-7 12 undercover
-cycle 2 1 0
-cello 4 1 1
-scion 1 5 0
-navel 5 5 1
-trump 1 11 0

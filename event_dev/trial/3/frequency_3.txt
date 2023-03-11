@@ -1,5 +1,0 @@
-7 9 frequency
-saute 2 1 1
-taffy 2 4 0
-fraud 5 4 1
-tweed 1 8 0

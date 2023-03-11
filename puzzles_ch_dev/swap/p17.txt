@@ -1,5 +1,0 @@
-7 7 swap
-rgill 1 1 0
-goand 2 1 1
-lviid 6 2 1
-aboev 2 3 0

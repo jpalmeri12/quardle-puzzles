@@ -1,5 +1,0 @@
-7 9
-rower 2 1 1
-renal 1 4 0
-after 4 4 1
-poesy 2 7 0

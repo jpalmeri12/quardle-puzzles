@@ -1,6 +1,0 @@
-7 12 undercover
-tooth 2 1 1
-odder 2 3 0
-chief 1 5 0
-islet 3 5 1
-baggy 1 11 0

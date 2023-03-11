@@ -1,5 +1,0 @@
-6 7 desync
-shoal 2 1 1
-thong 1 2 0
-gauze 5 2 1
-blitz 1 5 0

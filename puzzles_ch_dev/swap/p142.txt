@@ -1,5 +1,0 @@
-6 8 swap
-hineg 1 1 0
-nuity 3 1 1
-stakn 5 3 1
-loyla 1 5 0

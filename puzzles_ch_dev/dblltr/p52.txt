@@ -1,5 +1,0 @@
-7 9 dblltr
-holly 6 1 1
-never 3 4 1
-leery 2 5 0
-treat 1 7 0

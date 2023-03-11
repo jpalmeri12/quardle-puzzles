@@ -1,5 +1,0 @@
-7 8 frequency
-right 1 1 0
-hydro 4 1 1
-radar 2 3 1
-radii 2 3 0

@@ -1,5 +1,0 @@
-7 8 clockdown
-chord 5 1 1
-salty 2 3 1
-clued 1 5 0
-yacht 2 7 0

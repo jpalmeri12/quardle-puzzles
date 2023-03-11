@@ -1,6 +1,0 @@
-7 10 commonsecret
-madam 2 1 1
-radio 1 2 0
-madly 2 5 0
-lipid 5 5 1
-!secret d

@@ -1,5 +1,0 @@
-6 9 bestfit
-bleak 4 1 1
-smile 1 2 0
-funky 2 4 1
-lucky 1 5 0

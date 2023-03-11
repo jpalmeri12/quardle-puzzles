@@ -1,5 +1,0 @@
-6 9 hardmode
-quirk 4 1 1
-dwarf 1 4 0
-wrest 2 4 1
-ester 1 7 0

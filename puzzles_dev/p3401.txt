@@ -1,5 +1,0 @@
-7 10
-funny 6 1 1
-fussy 2 5 0
-smoke 4 5 1
-perky 1 8 0

@@ -1,5 +1,0 @@
-6 10
-ninja 5 1 1
-scuba 1 5 0
-undid 3 5 1
-older 1 9 0

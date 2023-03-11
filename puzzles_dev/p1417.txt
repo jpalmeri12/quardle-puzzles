@@ -1,5 +1,0 @@
-7 10
-folly 4 1 1
-maybe 2 5 0
-baton 5 5 1
-bongo 1 8 0

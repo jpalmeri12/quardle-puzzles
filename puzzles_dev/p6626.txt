@@ -1,5 +1,0 @@
-7 8
-datum 2 1 1
-daddy 1 2 0
-dryer 6 3 1
-under 2 4 0

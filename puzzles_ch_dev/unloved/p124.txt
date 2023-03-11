@@ -1,5 +1,0 @@
-6 8 unloved
-psalm 1 1 0
-share 2 1 1
-valid 1 3 0
-dizzy 5 3 1

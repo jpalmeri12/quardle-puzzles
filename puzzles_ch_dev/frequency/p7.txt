@@ -1,5 +1,0 @@
-6 7 frequency
-rebus 3 1 1
-shalt 1 2 1
-sneak 1 2 0
-adult 1 4 0

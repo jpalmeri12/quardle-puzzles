@@ -1,5 +1,0 @@
-7 10
-shaft 2 1 1
-check 1 2 0
-tasty 2 5 0
-shawl 4 5 1

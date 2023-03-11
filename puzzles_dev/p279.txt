@@ -1,5 +1,0 @@
-6 10
-score 1 1 1
-email 1 5 0
-movie 2 5 1
-evoke 1 7 0

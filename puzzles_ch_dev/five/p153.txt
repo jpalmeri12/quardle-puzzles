@@ -1,6 +1,0 @@
-6 10 five
-strip 4 1 1
-fatal 1 2 1
-forte 1 2 0
-agape 1 5 0
-elfin 5 5 1

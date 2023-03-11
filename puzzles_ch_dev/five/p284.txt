@@ -1,6 +1,0 @@
-7 10 five
-slime 4 1 1
-ionic 1 3 0
-dozen 1 5 0
-zonal 3 5 1
-inter 2 7 0

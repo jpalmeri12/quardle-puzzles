@@ -1,5 +1,0 @@
-6 10
-towel 2 1 1
-clock 1 5 0
-cream 1 5 1
-exult 1 7 0

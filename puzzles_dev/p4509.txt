@@ -1,5 +1,0 @@
-7 9
-chose 2 1 0
-heavy 3 1 1
-sweep 1 4 1
-wryly 1 5 0

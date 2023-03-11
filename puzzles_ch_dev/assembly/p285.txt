@@ -1,5 +1,0 @@
-6 10 assembly
-robin 1 3 1
-ideal 5 3 1
-would 1 1 0
-snarl 1 9 0

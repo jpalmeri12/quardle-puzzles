@@ -1,6 +1,0 @@
-6 8 squaredance
-wrong 1 1 1
-dimly 5 1 1
-wound 1 1 0
-golly 1 5 0
-dilly 1 7 0

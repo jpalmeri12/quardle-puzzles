@@ -1,6 +1,0 @@
-7 8 island
-lithe 4 1 1
-stein 1 2 0
-radar 6 3 1
-greed 2 5 0
-!island 11111 2111 21 31

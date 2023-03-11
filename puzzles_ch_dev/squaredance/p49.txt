@@ -1,6 +1,0 @@
-6 8 squaredance
-edict 1 1 1
-reuse 5 1 1
-eager 1 1 0
-trade 1 5 0
-covet 1 7 0

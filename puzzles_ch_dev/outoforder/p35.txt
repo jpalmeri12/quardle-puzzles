@@ -1,5 +1,0 @@
-7 10 outoforder
-gross 1 1 1
-squib 1 5 0
-baron 5 5 1
-spire 2 7 0

@@ -1,5 +1,0 @@
-7 9
-suite 4 1 1
-flute 2 2 0
-stuck 2 4 1
-steel 1 5 0

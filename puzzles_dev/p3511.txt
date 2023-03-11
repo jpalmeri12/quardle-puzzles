@@ -1,5 +1,0 @@
-7 10
-tower 4 1 1
-sperm 1 5 0
-elude 3 5 1
-lupus 2 7 0

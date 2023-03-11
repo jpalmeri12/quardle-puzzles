@@ -1,5 +1,0 @@
-6 7
-mammy 2 1 1
-carve 1 2 0
-eight 5 2 1
-myrrh 1 5 0

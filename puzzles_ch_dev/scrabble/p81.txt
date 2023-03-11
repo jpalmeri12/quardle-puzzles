@@ -1,5 +1,0 @@
-7 9 scrabble
-dealt 2 5 0
-cairn 1 7 0
-bland 5 4 1
-shame 3 1 1

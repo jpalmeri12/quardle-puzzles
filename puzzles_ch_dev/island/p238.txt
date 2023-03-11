@@ -1,6 +1,0 @@
-6 9 island
-wight 1 1 0
-toddy 5 1 1
-would 1 4 0
-otter 2 4 1
-!island 311 211 2111 31

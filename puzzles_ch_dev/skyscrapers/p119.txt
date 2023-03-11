@@ -1,5 +1,0 @@
-7 9 skyscrapers
-world 4 1 1
-bylaw 2 4 0
-blare 2 4 1
-begun 1 8 0

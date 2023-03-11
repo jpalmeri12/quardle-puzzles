@@ -1,5 +1,0 @@
-7 10 fourscore
-rivet 1 1 0
-idiot 2 1 1
-tonal 2 5 0
-ought 3 5 1

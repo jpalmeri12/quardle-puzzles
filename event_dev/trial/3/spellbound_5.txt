@@ -1,9 +1,0 @@
-6 10 spellbound
-grime 4 1 1
-aider 1 5 0
-drool 3 5 1
-stove 1 7 0
-!spellbound 0 1 2
-!spellbound 1 1 0
-!spellbound 2 1 4
-!spellbound 3 3 4

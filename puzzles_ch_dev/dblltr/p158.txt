@@ -1,5 +1,0 @@
-7 9 dblltr
-basis 3 1 1
-taunt 2 2 0
-drill 1 4 0
-loopy 5 4 1

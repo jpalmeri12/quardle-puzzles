@@ -1,5 +1,0 @@
-6 8 invention
-focus 1 1 0
-caper 3 1 1
-jiffy 1 3 1
-ferry 1 5 0

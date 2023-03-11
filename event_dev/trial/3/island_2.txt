@@ -1,6 +1,0 @@
-6 9 island
-polyp 5 1 1
-level 1 4 1
-leafy 1 4 0
-elite 1 7 0
-!island 31 111 11111 1111

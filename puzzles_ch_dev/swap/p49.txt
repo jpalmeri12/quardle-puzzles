@@ -1,5 +1,0 @@
-6 9 swap
-gaora 1 1 1
-brnig 4 4 1
-agere 1 5 0
-ivvid 1 7 0

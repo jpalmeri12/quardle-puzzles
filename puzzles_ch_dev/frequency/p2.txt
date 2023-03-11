@@ -1,5 +1,0 @@
-6 10 frequency
-screw 4 1 1
-spawn 1 5 0
-press 2 5 1
-teary 1 7 0

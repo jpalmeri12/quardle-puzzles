@@ -1,5 +1,0 @@
-6 9
-voice 1 1 0
-vague 1 1 1
-unfit 1 4 0
-first 3 4 1

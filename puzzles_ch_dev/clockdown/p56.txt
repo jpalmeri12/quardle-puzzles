@@ -1,5 +1,0 @@
-7 9 clockdown
-range 5 1 1
-adage 2 4 0
-abuse 2 4 1
-feign 1 8 0

@@ -1,6 +1,0 @@
-7 10 island
-lofty 5 1 1
-knife 2 3 0
-wimpy 1 5 0
-igloo 2 5 1
-!island 32 2111 11111 31

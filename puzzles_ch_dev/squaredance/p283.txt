@@ -1,6 +1,0 @@
-6 8 squaredance
-model 1 1 1
-hoist 5 1 1
-month 1 1 0
-leant 1 5 0
-erupt 1 7 0

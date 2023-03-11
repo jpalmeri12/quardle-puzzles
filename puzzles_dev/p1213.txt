@@ -1,5 +1,0 @@
-7 8
-tabby 1 1 0
-adage 2 1 1
-argue 2 3 0
-utile 5 3 1

@@ -1,5 +1,0 @@
-7 9 buyavowel
-cabal 1 1 1
-thank 5 4 1
-lurch 1 5 0
-gland 2 7 0

@@ -1,5 +1,0 @@
-7 9 sweeper
-plume 5 1 1
-pixel 3 4 1
-given 2 5 0
-valve 1 8 0

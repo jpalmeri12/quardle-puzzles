@@ -1,5 +1,0 @@
-6 9
-curio 4 1 1
-rigid 1 4 0
-islet 2 4 1
-leave 1 7 0

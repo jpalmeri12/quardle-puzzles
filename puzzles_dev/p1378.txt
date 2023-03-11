@@ -1,5 +1,0 @@
-7 9
-joker 1 1 0
-kappa 3 1 1
-spill 2 4 0
-lousy 5 4 1

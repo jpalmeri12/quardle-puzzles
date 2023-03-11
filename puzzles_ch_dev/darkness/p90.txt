@@ -1,5 +1,0 @@
-7 10 darkness
-patch 2 5 0
-cloth 5 5 1
-macho 1 7 0
-whelp 2 1 1

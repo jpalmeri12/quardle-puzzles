@@ -1,5 +1,0 @@
-6 8 skyscrapers
-rabid 1 5 0
-gayer 1 1 1
-grown 1 1 0
-being 4 3 1

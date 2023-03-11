@@ -1,5 +1,0 @@
-6 7
-boule 4 1 1
-felon 1 2 0
-elope 2 2 1
-wooly 1 4 0

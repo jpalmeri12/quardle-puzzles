@@ -1,5 +1,0 @@
-7 10 beta
-quasi 4 1 1
-foist 2 5 1
-flint 2 5 0
-staid 1 9 0

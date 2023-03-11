@@ -1,5 +1,0 @@
-6 10
-curse 1 1 1
-crisp 1 1 0
-enema 1 5 0
-alert 5 5 1

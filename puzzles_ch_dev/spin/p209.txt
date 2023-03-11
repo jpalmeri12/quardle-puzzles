@@ -1,5 +1,0 @@
-7 9 spin
-earth 1 1 1
-taffy 1 4 0
-floor 4 4 1
-goody 2 6 0

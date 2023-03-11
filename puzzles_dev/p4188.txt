@@ -1,5 +1,0 @@
-7 7
-flank 2 1 1
-rajah 5 2 1
-mafia 1 3 0
-knead 2 5 0

@@ -1,5 +1,0 @@
-7 8 hardmode
-stray 6 1 1
-masse 2 3 1
-miner 2 3 0
-aside 1 6 0

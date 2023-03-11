@@ -1,6 +1,0 @@
-6 12 wordcolumn
-bayou 3 1 1
-rough 1 5 0
-olden 2 5 1
-briar 4 7 1
-weird 1 8 0

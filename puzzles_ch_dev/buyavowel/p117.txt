@@ -1,5 +1,0 @@
-6 8 buyavowel
-video 1 1 0
-omega 5 1 1
-dying 2 3 1
-tying 1 4 0

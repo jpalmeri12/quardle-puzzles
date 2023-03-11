@@ -1,5 +1,0 @@
-7 9 swap
-eneam 2 1 0
-natsy 3 1 1
-dasiy 1 4 0
-ygpsy 5 4 1

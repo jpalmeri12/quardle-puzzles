@@ -1,5 +1,0 @@
-6 9 desync
-sally 2 1 1
-razor 1 2 0
-flank 1 4 0
-nasal 4 4 1

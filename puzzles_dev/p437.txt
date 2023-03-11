@@ -1,5 +1,0 @@
-6 8
-blaze 1 1 1
-basin 1 1 0
-flute 5 3 1
-zonal 1 4 0

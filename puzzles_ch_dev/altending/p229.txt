@@ -1,5 +1,0 @@
-6 9 altending
-raise 1 1 0
-clone 1 3 0
-proof 1 5 0
-along 1 7 0

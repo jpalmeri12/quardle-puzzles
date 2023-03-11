@@ -1,6 +1,0 @@
-7 10 commonsecret
-prong 1 1 1
-grape 1 5 0
-purer 4 5 1
-parer 2 9 0
-!secret p

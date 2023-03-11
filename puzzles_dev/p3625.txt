@@ -1,5 +1,0 @@
-7 7
-cliff 2 1 1
-clown 1 2 0
-nutty 5 2 1
-fritz 2 4 0

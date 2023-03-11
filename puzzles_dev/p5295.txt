@@ -1,5 +1,0 @@
-7 9
-sworn 2 1 1
-steer 4 4 1
-natal 2 5 0
-cower 1 7 0

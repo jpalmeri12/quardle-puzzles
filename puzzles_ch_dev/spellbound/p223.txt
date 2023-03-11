@@ -1,9 +1,0 @@
-7 10 spellbound
-widow 4 1 1
-unzip 1 2 0
-bawdy 2 5 0
-awoke 3 5 1
-!spellbound 0 0 2
-!spellbound 1 0 4
-!spellbound 2 3 0
-!spellbound 3 4 1

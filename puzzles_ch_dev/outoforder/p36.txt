@@ -1,5 +1,0 @@
-6 10 outoforder
-antic 1 1 1
-chide 1 5 0
-disco 4 5 1
-leash 1 7 0

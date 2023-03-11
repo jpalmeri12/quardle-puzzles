@@ -1,5 +1,0 @@
-7 9
-mural 1 1 1
-algae 1 4 0
-alibi 4 4 1
-cable 2 7 0

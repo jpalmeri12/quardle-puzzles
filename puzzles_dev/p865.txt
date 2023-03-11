@@ -1,5 +1,0 @@
-7 10
-motor 3 1 1
-tripe 2 5 0
-tight 2 5 1
-phone 1 8 0

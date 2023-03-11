@@ -1,7 +1,0 @@
-7 9 secretdistance
-fecal 4 1 1
-wield 2 2 0
-witch 2 2 1
-scalp 1 5 0
-peace 1 8 0
-!sdpos 1 1 1 1

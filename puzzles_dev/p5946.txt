@@ -1,5 +1,0 @@
-7 9
-piggy 5 1 1
-amass 3 4 1
-jumpy 1 5 0
-ester 2 7 0

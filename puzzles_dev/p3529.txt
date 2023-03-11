@@ -1,5 +1,0 @@
-7 7
-pleat 1 1 1
-nobly 3 2 1
-amble 1 4 0
-lymph 2 6 0

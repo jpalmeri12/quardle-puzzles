@@ -1,5 +1,0 @@
-6 10 skyscrapers
-radio 2 5 1
-drape 1 5 0
-clump 4 1 1
-adore 1 7 0

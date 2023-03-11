@@ -1,5 +1,0 @@
-7 9 beta
-tribe 2 1 1
-grape 1 2 0
-brand 2 4 0
-demon 6 4 1

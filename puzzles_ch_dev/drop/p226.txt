@@ -1,6 +1,0 @@
-6 8 drop
-maize 3 1 1
-store 5 1 1
-plant 1 2 0
-gazer 1 4 0
-swirl 1 7 0

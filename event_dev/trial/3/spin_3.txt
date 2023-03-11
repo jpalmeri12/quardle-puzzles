@@ -1,5 +1,0 @@
-7 10 spin
-chill 4 1 1
-slick 2 3 0
-hello 1 5 0
-ethos 2 5 1

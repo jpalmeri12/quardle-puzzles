@@ -1,6 +1,0 @@
-6 10 wordcolumn
-sleet 5 1 1
-halve 1 4 1
-allot 1 5 0
-overt 4 5 1
-every 1 8 0

@@ -1,5 +1,0 @@
-7 10
-tight 1 1 0
-tried 5 1 1
-glide 2 5 0
-loser 3 5 1

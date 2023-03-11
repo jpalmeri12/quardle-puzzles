@@ -1,7 +1,0 @@
-7 12 secretdistance
-lupus 1 1 1
-screw 1 5 0
-waver 5 5 1
-impel 2 8 0
-vapid 1 11 0
-!sdpos 1 1 1 3

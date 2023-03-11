@@ -1,5 +1,0 @@
-7 9 spin
-crass 2 1 1
-foist 4 4 1
-shone 2 5 0
-verse 1 7 0

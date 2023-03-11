@@ -1,5 +1,0 @@
-7 9 swap
-ahtch 1 1 1
-maryr 3 4 1
-hcain 1 5 0
-frmae 2 8 0

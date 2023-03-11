@@ -1,5 +1,0 @@
-7 9 scrabble
-tryst 2 8 0
-widen 2 1 1
-bench 1 4 0
-covey 4 4 1

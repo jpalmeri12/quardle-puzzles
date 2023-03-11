@@ -1,5 +1,0 @@
-7 9 darkness
-wench 6 4 1
-rifle 2 5 0
-lower 2 1 1
-twist 1 3 0

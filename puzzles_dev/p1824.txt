@@ -1,5 +1,0 @@
-6 8
-plied 1 1 0
-lowly 2 1 1
-swamp 1 3 0
-minty 4 3 1

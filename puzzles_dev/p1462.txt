@@ -1,5 +1,0 @@
-6 10
-cutie 5 1 1
-devil 1 5 1
-deuce 1 5 0
-vixen 1 7 0

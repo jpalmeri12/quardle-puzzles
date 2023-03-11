@@ -1,5 +1,0 @@
-7 8
-ratty 1 1 1
-payee 3 3 1
-track 1 4 0
-lease 2 6 0

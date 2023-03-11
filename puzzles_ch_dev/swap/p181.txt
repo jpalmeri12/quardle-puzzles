@@ -1,5 +1,0 @@
-7 9 swap
-asile 6 1 1
-golbe 3 4 1
-hosre 2 5 0
-buesd 1 8 0

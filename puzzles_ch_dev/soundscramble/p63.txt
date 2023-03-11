@@ -1,5 +1,0 @@
-7 9 soundscramble
-ettor 4 1 1
-chuto 1 2 0
-swift 6 4 1
-arrew 2 5 0

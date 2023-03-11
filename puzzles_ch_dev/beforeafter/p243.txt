@@ -1,9 +1,0 @@
-7 7 beforeafter
-mocha 5 1 1
-hello 1 2 0
-leant 3 2 1
-sneak 2 5 0
-!beforeafter 1 l
-!beforeafter 1 k
-!beforeafter 2 m
-!beforeafter 1 m

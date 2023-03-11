@@ -1,5 +1,0 @@
-6 6 sweeper
-optic 1 1 0
-onset 1 1 1
-cross 5 1 1
-salvo 1 3 0

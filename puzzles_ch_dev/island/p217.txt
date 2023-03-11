@@ -1,6 +1,0 @@
-7 10 island
-algae 4 1 1
-obese 2 5 0
-blaze 3 5 1
-gazer 1 8 0
-!island 1111 211 2111 221

@@ -1,5 +1,0 @@
-7 10
-depot 1 1 0
-opine 4 1 1
-sweat 2 5 0
-steal 2 5 1

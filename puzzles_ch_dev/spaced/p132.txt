@@ -1,5 +1,0 @@
-6 7 spaced
-awful 1 1 1
-lurch 4 2 1
-ficus 1 3 0
-leach 1 5 0

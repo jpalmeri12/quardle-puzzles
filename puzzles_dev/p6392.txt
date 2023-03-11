@@ -1,5 +1,0 @@
-7 9
-hyena 3 1 1
-waste 5 4 1
-drama 1 5 0
-dried 2 8 0

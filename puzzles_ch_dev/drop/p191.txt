@@ -1,6 +1,0 @@
-7 9 drop
-white 1 1 0
-hoist 2 1 1
-mayor 6 2 1
-salty 2 4 0
-fiery 1 8 0

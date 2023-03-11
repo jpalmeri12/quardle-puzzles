@@ -1,5 +1,0 @@
-7 9 elbowroom
-tenth 2 1 1
-eagle 2 2 0
-stock 1 4 0
-knife 5 4 1

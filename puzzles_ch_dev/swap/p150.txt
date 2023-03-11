@@ -1,5 +1,0 @@
-7 7 swap
-bueyr 5 1 1
-virsu 1 2 0
-imght 2 2 1
-hcore 2 5 0

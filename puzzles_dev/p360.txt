@@ -1,5 +1,0 @@
-7 10
-caulk 5 1 1
-shake 2 5 0
-spicy 2 5 1
-hymen 1 9 0

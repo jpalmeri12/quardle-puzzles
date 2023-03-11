@@ -1,6 +1,0 @@
-7 10 undercover
-issue 1 1 0
-skimp 2 1 1
-usher 4 3 1
-mushy 2 4 0
-cabal 1 9 0

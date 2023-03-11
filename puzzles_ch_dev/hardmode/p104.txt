@@ -1,5 +1,0 @@
-7 10 hardmode
-venom 4 1 1
-manga 2 3 0
-shame 1 5 0
-heron 2 5 1

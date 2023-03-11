@@ -1,5 +1,0 @@
-6 9
-gusto 1 1 0
-great 1 1 1
-sense 5 4 1
-tease 1 5 0

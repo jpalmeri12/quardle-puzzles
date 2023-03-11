@@ -1,5 +1,0 @@
-6 8
-skunk 1 1 1
-unlit 1 3 0
-itchy 4 3 1
-knack 1 5 0

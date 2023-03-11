@@ -1,5 +1,0 @@
-7 9 reverse
-reylf 4 1 1
-duvet 2 4 1
-luofa 1 5 0
-tidal 2 8 0

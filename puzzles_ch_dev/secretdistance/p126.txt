@@ -1,7 +1,0 @@
-7 11 secretdistance
-vista 2 1 1
-stern 5 4 1
-valet 1 5 0
-skunk 2 8 0
-avian 1 10 0
-!sdpos 0 2 0 0

@@ -1,6 +1,0 @@
-6 8 squaredance
-bleat 1 1 1
-never 5 1 1
-baton 1 1 0
-timer 1 5 0
-wrong 1 7 0

@@ -1,6 +1,0 @@
-7 9 five
-snuff 6 1 1
-sperm 2 4 1
-stuff 2 4 0
-ulcer 4 4 1
-react 1 6 0

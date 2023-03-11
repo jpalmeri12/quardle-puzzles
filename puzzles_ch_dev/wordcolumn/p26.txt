@@ -1,6 +1,0 @@
-7 12 wordcolumn
-rowdy 5 1 1
-angst 3 4 1
-randy 1 5 0
-usage 2 7 0
-gourd 5 7 1

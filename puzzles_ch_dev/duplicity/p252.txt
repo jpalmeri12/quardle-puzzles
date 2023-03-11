@@ -1,5 +1,0 @@
-7 10 duplicity
-stain 5 1 1
-yearn 1 5 0
-resin 4 5 1
-nasty 2 7 0

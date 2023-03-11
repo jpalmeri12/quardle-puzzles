@@ -1,5 +1,0 @@
-7 9 skyscrapers
-penal 2 1 0
-photo 2 1 1
-stuff 1 4 0
-fishy 4 4 1

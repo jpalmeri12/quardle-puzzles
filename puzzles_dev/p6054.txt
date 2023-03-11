@@ -1,5 +1,0 @@
-6 7
-swine 4 1 1
-trawl 1 2 0
-those 1 2 1
-sober 1 5 0

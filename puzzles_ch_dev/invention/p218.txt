@@ -1,5 +1,0 @@
-7 9 invention
-mango 4 1 1
-squad 1 2 0
-ashen 2 4 1
-stone 2 5 0

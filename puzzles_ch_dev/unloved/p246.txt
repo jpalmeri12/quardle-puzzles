@@ -1,5 +1,0 @@
-7 9 unloved
-enemy 4 1 1
-ounce 2 2 0
-gamma 1 4 0
-admit 2 4 1

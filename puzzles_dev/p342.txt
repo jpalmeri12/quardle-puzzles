@@ -1,5 +1,0 @@
-6 6
-guard 1 1 0
-union 2 1 1
-ruler 4 1 1
-vowel 1 4 0

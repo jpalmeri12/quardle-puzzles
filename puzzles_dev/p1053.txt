@@ -1,5 +1,0 @@
-7 8
-shore 2 1 1
-clean 4 3 1
-every 2 5 0
-mount 1 7 0

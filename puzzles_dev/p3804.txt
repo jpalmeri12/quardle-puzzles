@@ -1,5 +1,0 @@
-6 9
-decor 1 1 1
-sleek 3 4 1
-relic 1 5 0
-steal 1 7 0

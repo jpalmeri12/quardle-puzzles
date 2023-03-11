@@ -1,5 +1,0 @@
-6 8 scrabble
-genie 5 3 1
-adage 1 4 0
-truth 1 1 0
-ruddy 2 1 1

@@ -1,5 +1,0 @@
-7 9
-pried 2 1 0
-enact 5 1 1
-armor 2 4 1
-treat 1 5 0

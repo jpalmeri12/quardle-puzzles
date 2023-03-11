@@ -1,5 +1,0 @@
-7 8
-spade 1 1 0
-pouty 2 1 1
-utile 2 3 0
-elude 6 3 1

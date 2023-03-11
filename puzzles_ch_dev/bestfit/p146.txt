@@ -1,5 +1,0 @@
-7 10 bestfit
-dense 6 1 1
-amble 2 5 0
-buggy 4 5 1
-midge 1 8 0

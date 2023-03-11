@@ -1,5 +1,0 @@
-6 10 invention
-gnome 5 1 1
-jumbo 1 3 0
-slide 1 5 0
-donor 4 5 1

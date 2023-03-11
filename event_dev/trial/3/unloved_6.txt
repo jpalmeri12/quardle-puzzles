@@ -1,5 +1,0 @@
-6 10 unloved
-bayou 2 1 1
-sumac 1 5 0
-cameo 5 5 1
-swarm 1 7 0

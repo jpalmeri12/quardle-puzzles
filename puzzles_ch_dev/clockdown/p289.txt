@@ -1,5 +1,0 @@
-7 9 clockdown
-issue 2 1 1
-guppy 1 4 0
-paler 4 4 1
-speck 2 7 0

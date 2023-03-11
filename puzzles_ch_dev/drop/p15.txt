@@ -1,6 +1,0 @@
-7 11 drop
-flood 3 1 1
-hello 1 2 0
-goner 2 4 0
-edict 5 4 1
-lower 1 10 0

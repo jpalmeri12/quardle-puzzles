@@ -1,5 +1,0 @@
-7 9
-demur 2 1 1
-caddy 4 4 1
-dread 1 5 0
-maybe 2 8 0

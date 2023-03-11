@@ -1,5 +1,0 @@
-6 10
-laden 4 1 1
-spend 1 5 0
-eater 3 5 1
-hater 1 7 0

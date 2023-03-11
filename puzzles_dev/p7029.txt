@@ -1,5 +1,0 @@
-7 8
-rouse 1 1 0
-other 2 1 1
-haunt 2 3 0
-union 4 3 1

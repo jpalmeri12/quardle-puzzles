@@ -1,5 +1,0 @@
-7 10
-grass 5 1 1
-maker 1 2 0
-brass 2 5 0
-beefy 2 5 1

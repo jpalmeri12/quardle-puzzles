@@ -1,6 +1,0 @@
-6 9 commonsecret
-quirk 5 1 1
-bayou 1 2 0
-lumen 3 4 1
-stuck 1 5 0
-!secret u

@@ -1,7 +1,0 @@
-7 12 secretdistance
-wrist 5 1 1
-abate 2 5 0
-allot 4 5 1
-bugle 1 7 0
-onset 1 11 0
-!sdpos 3 3 3 1

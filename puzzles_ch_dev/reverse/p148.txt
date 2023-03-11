@@ -1,5 +1,0 @@
-7 8 reverse
-trihs 1 1 0
-impel 3 1 1
-redle 5 3 1
-bezel 2 4 0

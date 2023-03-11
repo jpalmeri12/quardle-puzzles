@@ -1,8 +1,0 @@
-6 8 twins
-trade 1 1 0
-guild 1 3 0
-singe 1 5 0
-vital 1 7 0
-!twins 2 3
-!twins 0 1
-!twins 2 3

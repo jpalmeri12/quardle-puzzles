@@ -1,5 +1,0 @@
-7 9 scrabble
-slime 2 1 1
-young 5 4 1
-clank 2 7 0
-smoky 1 4 0

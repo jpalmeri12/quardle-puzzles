@@ -1,5 +1,0 @@
-7 10
-clank 2 1 1
-skier 1 5 0
-recur 5 5 1
-weird 2 9 0

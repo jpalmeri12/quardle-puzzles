@@ -1,7 +1,0 @@
-7 11 secretdistance
-slope 3 1 1
-willy 1 2 0
-sling 6 4 1
-penal 2 5 0
-shaft 1 10 0
-!sdpos 0 0 2 0

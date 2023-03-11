@@ -1,6 +1,0 @@
-7 11 drop
-bosom 2 1 0
-slate 4 1 1
-unite 1 4 0
-night 2 4 1
-steep 1 10 0

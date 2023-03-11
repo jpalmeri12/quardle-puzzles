@@ -1,6 +1,0 @@
-7 10 wordcolumn
-tonic 4 1 1
-poker 2 2 1
-proud 2 2 0
-beech 1 5 0
-heron 5 5 1

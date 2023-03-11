@@ -1,6 +1,0 @@
-7 9 commonsecret
-queer 3 1 1
-trunk 1 2 0
-scuba 5 4 1
-truce 2 5 0
-!secret u

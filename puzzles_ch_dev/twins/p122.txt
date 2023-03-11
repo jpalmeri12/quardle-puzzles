@@ -1,8 +1,0 @@
-6 8 twins
-sheep 1 1 0
-agape 1 3 0
-foist 1 5 0
-aging 1 7 0
-!twins 3 4
-!twins 1 2
-!twins 0 3

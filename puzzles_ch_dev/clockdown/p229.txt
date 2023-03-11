@@ -1,5 +1,0 @@
-7 9 clockdown
-gloom 5 1 1
-wryly 2 2 0
-havoc 3 4 1
-realm 1 5 0

@@ -1,7 +1,0 @@
-8 8 sixbox
-exist 3 1 1
-teeth 5 1 1
-pride 1 3 0
-decry 4 3 1
-setup 3 4 0
-watch 1 5 0

@@ -1,5 +1,0 @@
-7 8 hardmode
-stood 3 1 1
-least 5 3 1
-hover 2 4 0
-clout 1 7 0

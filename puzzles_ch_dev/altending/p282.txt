@@ -1,5 +1,0 @@
-6 9 altending
-frock 1 1 0
-quirk 1 3 0
-stalk 1 5 0
-chafe 1 7 0

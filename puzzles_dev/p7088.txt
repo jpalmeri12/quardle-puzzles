@@ -1,5 +1,0 @@
-7 9
-scour 5 1 1
-clock 2 2 0
-noose 3 4 1
-choir 1 5 0

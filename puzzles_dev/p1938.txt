@@ -1,5 +1,0 @@
-7 9
-kiosk 5 1 1
-rabbi 1 2 0
-chess 2 4 1
-husky 2 5 0

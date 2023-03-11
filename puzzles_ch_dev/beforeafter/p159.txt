@@ -1,9 +1,0 @@
-6 9 beforeafter
-below 2 1 1
-metro 1 2 0
-bonus 1 4 0
-stalk 5 4 1
-!beforeafter 2 n
-!beforeafter 1 n
-!beforeafter 2 r
-!beforeafter 1 n

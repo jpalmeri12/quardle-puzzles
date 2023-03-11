@@ -1,5 +1,0 @@
-7 10
-happy 5 1 1
-spiky 1 5 0
-kiosk 4 5 1
-taste 2 8 0

@@ -1,6 +1,0 @@
-7 9 drop
-bleak 1 1 1
-parer 4 2 1
-acorn 1 4 0
-beret 2 6 0
-rural 1 8 0

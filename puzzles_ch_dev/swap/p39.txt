@@ -1,5 +1,0 @@
-7 10 swap
-cylce 2 1 1
-egese 2 5 0
-sonra 5 5 1
-ezbra 1 9 0

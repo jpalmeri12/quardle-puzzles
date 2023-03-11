@@ -1,6 +1,0 @@
-6 10 connectfive
-smash 3 1 1
-train 1 3 0
-usher 1 5 0
-reign 5 5 1
-quasi 1 7 0

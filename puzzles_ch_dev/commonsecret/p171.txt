@@ -1,6 +1,0 @@
-6 7 commonsecret
-gnome 2 1 1
-enema 1 2 0
-molar 4 2 1
-amply 1 4 0
-!secret m

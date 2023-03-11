@@ -1,5 +1,0 @@
-7 9 reverse
-scold 2 1 1
-hctih 1 2 0
-coral 5 4 1
-druog 2 5 0

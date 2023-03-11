@@ -1,5 +1,0 @@
-7 9 desync
-which 1 1 0
-caper 4 1 1
-along 6 4 1
-feral 2 5 0

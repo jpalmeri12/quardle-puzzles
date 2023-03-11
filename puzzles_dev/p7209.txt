@@ -1,5 +1,0 @@
-7 8
-diary 2 1 0
-adept 4 1 1
-lousy 2 3 1
-suite 1 5 0

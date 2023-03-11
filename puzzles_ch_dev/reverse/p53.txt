@@ -1,5 +1,0 @@
-6 7 reverse
-ardor 5 1 1
-tapir 2 2 1
-daerd 1 3 0
-oitar 1 5 0

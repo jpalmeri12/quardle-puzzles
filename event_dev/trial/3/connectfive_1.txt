@@ -1,6 +1,0 @@
-7 10 connectfive
-unset 2 1 0
-spool 4 1 1
-quilt 1 5 0
-torso 5 5 1
-rebus 1 8 0

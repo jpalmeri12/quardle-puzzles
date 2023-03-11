@@ -1,5 +1,0 @@
-7 8 beta
-swear 2 1 0
-whelp 3 1 1
-felon 5 3 1
-bulge 1 4 0

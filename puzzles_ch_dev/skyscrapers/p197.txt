@@ -1,5 +1,0 @@
-7 9 skyscrapers
-sheen 1 7 0
-steel 3 4 1
-stung 2 5 0
-being 6 1 1

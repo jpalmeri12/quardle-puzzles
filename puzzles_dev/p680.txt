@@ -1,5 +1,0 @@
-7 10
-since 1 1 1
-emcee 1 5 0
-elite 5 5 1
-robin 2 7 0

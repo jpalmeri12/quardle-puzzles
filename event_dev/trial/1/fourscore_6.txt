@@ -1,5 +1,0 @@
-6 9 fourscore
-group 1 1 0
-polyp 5 1 1
-tardy 1 4 0
-relic 3 4 1

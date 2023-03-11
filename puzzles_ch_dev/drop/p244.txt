@@ -1,6 +1,0 @@
-7 11 drop
-amiss 5 1 1
-scram 1 2 0
-snipe 2 4 1
-noose 2 5 0
-adore 1 10 0

@@ -1,8 +1,0 @@
-6 8 twins
-aware 1 1 0
-spent 1 3 0
-spelt 1 5 0
-apply 1 7 0
-!twins 2 3
-!twins 0 1
-!twins 1 3

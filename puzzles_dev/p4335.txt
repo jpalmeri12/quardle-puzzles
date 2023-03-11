@@ -1,5 +1,0 @@
-7 9
-bongo 1 1 1
-gummy 1 4 0
-mercy 3 4 1
-hyper 2 8 0

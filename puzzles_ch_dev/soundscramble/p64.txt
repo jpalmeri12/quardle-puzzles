@@ -1,5 +1,0 @@
-6 6 soundscramble
-rover 1 1 0
-reloc 1 1 1
-valir 3 1 1
-cirer 1 5 0

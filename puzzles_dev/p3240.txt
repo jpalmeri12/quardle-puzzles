@@ -1,5 +1,0 @@
-7 10
-vaunt 5 1 1
-moist 1 5 0
-spoof 4 5 1
-chord 2 8 0

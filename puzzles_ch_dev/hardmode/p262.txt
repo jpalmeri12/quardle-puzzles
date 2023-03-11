@@ -1,5 +1,0 @@
-7 7 hardmode
-stark 3 1 1
-fetus 1 2 0
-shank 5 2 1
-dream 2 4 0

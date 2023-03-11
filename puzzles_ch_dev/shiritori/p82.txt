@@ -1,5 +1,0 @@
-7 9 shiritori
-depot 2 1 1
-easel 2 2 0
-horny 1 4 0
-nomad 4 4 1

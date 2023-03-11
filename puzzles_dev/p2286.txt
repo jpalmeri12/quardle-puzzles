@@ -1,5 +1,0 @@
-6 10
-dwelt 4 1 1
-cloth 1 5 0
-larva 2 5 1
-urban 1 7 0

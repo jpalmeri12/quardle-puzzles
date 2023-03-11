@@ -1,5 +1,0 @@
-7 9 skyscrapers
-tried 1 3 0
-stein 4 1 1
-hinge 2 5 0
-began 6 4 1

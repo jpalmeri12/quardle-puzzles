@@ -1,5 +1,0 @@
-6 7
-vague 3 1 1
-stair 1 2 0
-retry 5 2 1
-smear 1 5 0

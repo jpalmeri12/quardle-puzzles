@@ -1,5 +1,0 @@
-7 7 fourscore
-ditch 1 1 1
-after 3 2 1
-catty 1 4 0
-organ 2 6 0

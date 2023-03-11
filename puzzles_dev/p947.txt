@@ -1,5 +1,0 @@
-6 10
-thorn 1 1 0
-ninth 5 1 1
-pizza 1 5 1
-patch 1 5 0

@@ -1,5 +1,0 @@
-6 9 dblltr
-excel 1 1 0
-eaten 4 1 1
-freer 2 4 1
-arena 1 5 0

@@ -1,5 +1,0 @@
-7 9
-badly 2 1 1
-alibi 2 2 0
-blink 1 4 0
-knack 5 4 1

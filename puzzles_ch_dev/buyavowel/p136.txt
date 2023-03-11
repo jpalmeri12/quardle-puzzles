@@ -1,5 +1,0 @@
-6 7 buyavowel
-drake 5 1 1
-idler 1 2 0
-drawl 2 2 1
-aware 1 5 0

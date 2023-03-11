@@ -1,5 +1,0 @@
-6 7 unloved
-crier 4 1 1
-ombre 1 2 0
-merit 2 2 1
-freer 1 4 0

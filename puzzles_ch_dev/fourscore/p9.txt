@@ -1,5 +1,0 @@
-7 10 fourscore
-salve 3 1 1
-mafia 2 2 0
-sleet 1 5 0
-seedy 1 5 1

@@ -1,5 +1,0 @@
-6 9
-media 5 1 1
-quasi 1 4 0
-uncut 2 4 1
-itchy 1 8 0

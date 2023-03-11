@@ -1,5 +1,0 @@
-7 10
-field 5 1 1
-filer 2 3 0
-wound 1 5 0
-nerve 4 5 1

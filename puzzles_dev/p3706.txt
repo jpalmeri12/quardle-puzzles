@@ -1,5 +1,0 @@
-7 10
-seven 5 1 1
-solve 2 3 0
-drain 1 5 0
-rabbi 2 5 1

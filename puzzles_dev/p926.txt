@@ -1,5 +1,0 @@
-6 8
-shawl 1 1 0
-start 1 1 1
-bleed 4 3 1
-rally 1 4 0

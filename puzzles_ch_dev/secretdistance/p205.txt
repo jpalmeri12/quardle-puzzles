@@ -1,7 +1,0 @@
-7 11 secretdistance
-waxen 2 1 1
-agile 2 2 0
-metro 1 4 0
-rodeo 4 4 1
-axion 1 10 0
-!sdpos 1 0 1 2

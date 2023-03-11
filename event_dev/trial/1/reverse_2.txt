@@ -1,5 +1,0 @@
-6 9 reverse
-kcoms 1 1 1
-kcuns 1 1 0
-marsh 1 4 0
-swing 4 4 1

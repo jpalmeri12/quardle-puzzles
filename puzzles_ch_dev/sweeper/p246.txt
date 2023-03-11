@@ -1,5 +1,0 @@
-6 6 sweeper
-among 1 1 0
-mambo 2 1 1
-gnash 5 1 1
-month 1 5 0

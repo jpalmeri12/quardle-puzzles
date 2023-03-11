@@ -1,5 +1,0 @@
-7 9 dblltr
-teddy 6 1 1
-salad 2 4 0
-loose 4 4 1
-erase 1 7 0

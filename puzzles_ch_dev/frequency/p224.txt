@@ -1,5 +1,0 @@
-6 9 frequency
-annul 3 1 1
-crumb 1 4 0
-begun 5 4 1
-bayou 1 7 0

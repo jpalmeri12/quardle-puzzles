@@ -1,5 +1,0 @@
-6 10 duplicity
-payee 4 1 1
-apnea 1 5 0
-parry 2 5 1
-preen 1 8 0

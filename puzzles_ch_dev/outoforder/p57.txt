@@ -1,5 +1,0 @@
-7 9 outoforder
-swear 4 1 1
-pluck 2 4 1
-lurch 2 5 0
-scorn 1 7 0

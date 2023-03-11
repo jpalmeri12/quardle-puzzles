@@ -1,5 +1,0 @@
-6 9 buyavowel
-furry 4 1 1
-scout 1 2 0
-shark 1 4 0
-heron 2 4 1

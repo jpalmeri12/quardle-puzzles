@@ -1,5 +1,0 @@
-7 9
-braid 6 1 1
-chili 2 4 0
-hoist 3 4 1
-faith 1 6 0

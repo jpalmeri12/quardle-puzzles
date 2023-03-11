@@ -1,5 +1,0 @@
-6 9
-bossy 1 1 1
-swoon 1 4 0
-occur 3 4 1
-serum 1 8 0

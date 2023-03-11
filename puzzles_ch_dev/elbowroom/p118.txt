@@ -1,5 +1,0 @@
-7 10 elbowroom
-spurn 5 1 1
-bacon 1 5 0
-clung 3 5 1
-lumpy 2 7 0

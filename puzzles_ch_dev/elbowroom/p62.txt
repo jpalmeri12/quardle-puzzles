@@ -1,5 +1,0 @@
-7 9 elbowroom
-comet 5 1 1
-ethic 2 4 1
-tooth 2 5 0
-since 1 7 0

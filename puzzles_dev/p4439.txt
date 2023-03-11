@@ -1,5 +1,0 @@
-7 8
-flank 1 1 0
-kneel 5 1 1
-rebel 2 3 0
-epoch 3 3 1

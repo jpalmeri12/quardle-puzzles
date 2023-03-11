@@ -1,5 +1,0 @@
-7 7
-fizzy 1 1 1
-ionic 1 2 0
-image 4 2 1
-wreak 2 6 0

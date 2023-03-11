@@ -1,5 +1,0 @@
-7 10 beta
-alpha 5 1 1
-villa 1 5 0
-lyric 4 5 1
-throw 2 7 0

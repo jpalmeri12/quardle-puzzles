@@ -1,5 +1,0 @@
-7 9
-slunk 5 1 1
-prawn 3 4 1
-broke 2 5 0
-tower 1 7 0

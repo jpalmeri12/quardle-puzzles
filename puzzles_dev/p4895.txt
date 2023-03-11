@@ -1,5 +1,0 @@
-7 10
-awful 1 1 0
-loose 5 1 1
-rower 2 5 0
-roost 2 5 1

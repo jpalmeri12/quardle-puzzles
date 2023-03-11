@@ -1,5 +1,0 @@
-6 10
-proof 1 1 0
-funky 5 1 1
-savoy 1 5 0
-alter 2 5 1

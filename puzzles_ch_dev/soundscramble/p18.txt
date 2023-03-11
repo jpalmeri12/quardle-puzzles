@@ -1,5 +1,0 @@
-7 10 soundscramble
-grize 4 1 1
-triat 2 3 0
-odder 1 5 0
-datto 2 5 1

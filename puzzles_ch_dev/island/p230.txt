@@ -1,6 +1,0 @@
-7 9 island
-cobra 2 1 0
-chain 2 1 1
-linen 1 4 0
-night 5 4 1
-!island 11111 2111 1111 41

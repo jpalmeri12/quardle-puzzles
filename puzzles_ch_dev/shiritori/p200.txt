@@ -1,5 +1,0 @@
-7 8 shiritori
-obese 2 1 0
-siege 5 1 1
-relic 3 3 1
-melee 1 5 0

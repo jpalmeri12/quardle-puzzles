@@ -1,5 +1,0 @@
-6 9 shiritori
-roomy 1 1 1
-older 1 2 0
-maxim 1 4 0
-ivory 4 4 1

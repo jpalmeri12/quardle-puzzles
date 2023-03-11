@@ -1,6 +1,0 @@
-6 12 drop
-pinto 2 1 1
-milky 1 2 0
-cover 1 5 0
-vomit 3 5 1
-privy 1 11 0

@@ -1,5 +1,0 @@
-6 6 scrabble
-tiara 1 2 0
-widen 2 1 1
-prank 4 1 1
-snaky 1 5 0

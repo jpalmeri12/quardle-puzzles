@@ -1,5 +1,0 @@
-6 9
-bloat 1 1 1
-brace 4 4 1
-twirl 1 5 0
-prick 1 7 0

@@ -1,5 +1,0 @@
-7 9
-grass 2 1 0
-avail 4 1 1
-place 1 4 1
-lowly 1 5 0

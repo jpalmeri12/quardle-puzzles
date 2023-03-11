@@ -1,5 +1,0 @@
-7 9
-wrong 2 1 1
-prone 4 4 1
-agora 1 5 0
-ninja 2 7 0

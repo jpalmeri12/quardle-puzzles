@@ -1,6 +1,0 @@
-7 9 island
-artsy 3 1 1
-usage 2 4 0
-gauge 5 4 1
-vogue 1 8 0
-!island 32 311 1111 2111

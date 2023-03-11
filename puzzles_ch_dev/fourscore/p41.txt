@@ -1,5 +1,0 @@
-7 9 fourscore
-tangy 1 1 0
-glide 4 1 1
-hydro 2 4 0
-havoc 2 4 1

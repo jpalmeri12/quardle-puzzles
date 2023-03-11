@@ -1,5 +1,0 @@
-6 7 buyavowel
-knead 3 1 1
-junta 1 2 0
-annoy 5 2 1
-slain 1 4 0

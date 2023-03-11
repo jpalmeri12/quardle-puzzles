@@ -1,7 +1,0 @@
-8 8 sixbox
-quasi 3 1 1
-penne 5 1 1
-prawn 1 3 0
-widow 4 3 1
-singe 3 4 0
-aside 1 5 0

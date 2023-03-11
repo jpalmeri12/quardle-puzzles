@@ -1,5 +1,0 @@
-6 6
-bingo 2 1 1
-amber 4 1 1
-biome 1 2 0
-mourn 1 5 0

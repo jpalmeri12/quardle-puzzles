@@ -1,5 +1,0 @@
-7 10 bestfit
-bless 2 1 1
-elate 1 2 0
-snore 2 5 0
-oxide 4 5 1

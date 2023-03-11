@@ -1,5 +1,0 @@
-7 9 swap
-ucrry 6 1 1
-writs 3 4 1
-eraly 2 5 0
-wrtoe 1 7 0

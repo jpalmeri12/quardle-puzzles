@@ -1,5 +1,0 @@
-7 9
-gully 2 1 1
-undid 2 2 0
-bloom 1 4 0
-ought 4 4 1

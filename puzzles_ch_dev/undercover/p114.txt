@@ -1,6 +1,0 @@
-6 11 undercover
-quash 1 1 1
-safer 1 4 0
-fetus 3 4 1
-brunt 1 7 0
-wooly 1 10 0

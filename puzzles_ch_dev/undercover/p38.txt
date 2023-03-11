@@ -1,6 +1,0 @@
-7 12 undercover
-evoke 1 1 0
-vapor 2 1 1
-rouge 2 5 0
-eerie 6 5 1
-lynch 1 11 0

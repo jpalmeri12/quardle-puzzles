@@ -1,5 +1,0 @@
-6 7
-mucus 4 1 1
-setup 1 2 0
-entry 2 2 1
-prose 1 5 0

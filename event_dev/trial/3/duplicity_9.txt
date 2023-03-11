@@ -1,5 +1,0 @@
-6 6 duplicity
-guise 2 1 1
-debit 5 1 1
-budge 1 2 0
-beset 1 5 0

@@ -1,6 +1,0 @@
-6 10 wordcolumn
-cross 4 1 1
-ethos 2 3 1
-these 1 5 0
-eager 5 5 1
-using 1 7 0

@@ -1,5 +1,0 @@
-6 7
-blown 4 1 1
-cheer 2 2 1
-chaos 1 3 0
-meant 1 5 0

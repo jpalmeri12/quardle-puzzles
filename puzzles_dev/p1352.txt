@@ -1,5 +1,0 @@
-7 9
-swore 2 1 1
-troll 1 4 0
-labor 5 4 1
-robot 2 7 0

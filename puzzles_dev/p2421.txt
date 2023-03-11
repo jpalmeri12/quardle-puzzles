@@ -1,5 +1,0 @@
-6 9
-wench 2 1 1
-coral 5 4 1
-photo 1 5 0
-atoll 1 8 0

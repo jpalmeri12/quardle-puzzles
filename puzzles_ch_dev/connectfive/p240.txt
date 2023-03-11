@@ -1,6 +1,0 @@
-7 10 connectfive
-hedge 1 1 1
-elfin 1 5 0
-libel 2 5 1
-niche 5 5 1
-beech 2 7 0

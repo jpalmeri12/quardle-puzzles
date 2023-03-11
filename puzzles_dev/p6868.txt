@@ -1,5 +1,0 @@
-7 9
-crown 1 1 1
-wheel 1 4 0
-eject 3 4 1
-retch 2 6 0

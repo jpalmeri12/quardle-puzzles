@@ -1,5 +1,0 @@
-6 9 buyavowel
-mushy 5 1 1
-humph 1 4 0
-husky 1 4 1
-youth 1 8 0

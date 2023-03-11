@@ -1,5 +1,0 @@
-6 6 duplicity
-quill 2 1 1
-quest 5 1 1
-bible 1 3 0
-sleet 1 5 0

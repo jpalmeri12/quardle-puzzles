@@ -1,5 +1,0 @@
-7 9 sweeper
-ditch 3 1 1
-swill 1 2 0
-smith 6 4 1
-chasm 2 5 0

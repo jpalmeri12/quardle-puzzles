@@ -1,5 +1,0 @@
-7 10 clockdown
-wispy 1 1 0
-plant 4 1 1
-after 2 5 0
-fling 3 5 1

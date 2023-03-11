@@ -1,9 +1,0 @@
-7 9 spellbound
-flake 5 1 1
-newly 2 2 0
-spark 1 4 0
-prime 2 4 1
-!spellbound 0 4 2
-!spellbound 1 0 1
-!spellbound 2 0 2
-!spellbound 3 1 3

@@ -1,5 +1,0 @@
-7 9 frequency
-stoke 6 1 1
-prick 4 4 1
-large 2 5 0
-truck 1 7 0

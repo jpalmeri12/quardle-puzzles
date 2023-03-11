@@ -1,5 +1,0 @@
-7 8
-actor 1 1 0
-tread 3 1 1
-decor 2 3 0
-olive 5 3 1

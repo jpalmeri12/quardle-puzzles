@@ -1,6 +1,0 @@
-7 9 commonsecret
-demon 3 1 1
-dowry 2 4 0
-ready 5 4 1
-acrid 1 7 0
-!secret d

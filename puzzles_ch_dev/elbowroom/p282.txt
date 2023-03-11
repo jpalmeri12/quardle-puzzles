@@ -1,5 +1,0 @@
-6 7 elbowroom
-haute 3 1 1
-stamp 1 2 0
-scram 1 2 1
-rotor 1 4 0

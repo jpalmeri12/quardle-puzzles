@@ -1,8 +1,0 @@
-6 8 twins
-stomp 1 1 0
-admit 1 3 0
-quiet 1 5 0
-blaze 1 7 0
-!twins 3 4
-!twins 2 3
-!twins 0 4

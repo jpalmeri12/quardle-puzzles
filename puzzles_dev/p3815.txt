@@ -1,5 +1,0 @@
-7 9
-chafe 2 1 1
-deign 4 4 1
-defer 1 5 0
-eight 2 7 0

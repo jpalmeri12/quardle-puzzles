@@ -1,5 +1,0 @@
-6 7
-cacao 4 1 1
-bleat 1 2 0
-lever 2 2 1
-avian 1 4 0

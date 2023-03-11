@@ -1,5 +1,0 @@
-6 7
-where 2 1 1
-chant 1 2 0
-tamer 5 2 1
-reuse 1 5 0

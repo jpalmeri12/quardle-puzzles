@@ -1,5 +1,0 @@
-7 10 beta
-arson 2 1 0
-syrup 4 1 1
-shape 1 5 0
-habit 2 5 1

@@ -1,5 +1,0 @@
-7 10 desync
-beget 5 1 1
-pesto 2 5 0
-shirt 4 5 1
-lucid 1 7 0

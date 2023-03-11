@@ -1,5 +1,0 @@
-7 8 bestfit
-locus 6 1 1
-dirge 3 3 1
-grass 2 5 0
-spend 1 7 0

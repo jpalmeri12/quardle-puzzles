@@ -1,7 +1,0 @@
-7 11 secretdistance
-widow 2 1 1
-screw 4 4 1
-wacky 2 5 0
-wager 1 7 0
-awash 1 10 0
-!sdpos 2 3 0 0

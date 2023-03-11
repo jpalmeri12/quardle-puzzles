@@ -1,5 +1,0 @@
-7 7
-basis 2 1 1
-bacon 1 2 0
-north 5 2 1
-sixth 2 5 0

@@ -1,5 +1,0 @@
-7 8 elbowroom
-bayou 3 1 1
-chain 1 2 0
-abyss 6 3 1
-fully 2 5 0

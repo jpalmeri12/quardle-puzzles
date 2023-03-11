@@ -1,5 +1,0 @@
-7 8 swap
-triet 5 1 1
-patly 2 3 1
-baove 1 4 0
-yting 2 7 0

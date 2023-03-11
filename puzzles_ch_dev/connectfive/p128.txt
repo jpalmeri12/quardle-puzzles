@@ -1,6 +1,0 @@
-6 8 connectfive
-onset 1 1 0
-steak 3 1 1
-revel 5 3 1
-quake 1 4 0
-pedal 1 7 0

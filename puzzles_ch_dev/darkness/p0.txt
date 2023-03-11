@@ -1,5 +1,0 @@
-7 8 darkness
-welsh 1 4 0
-theft 5 3 1
-usher 2 1 1
-unite 2 1 0

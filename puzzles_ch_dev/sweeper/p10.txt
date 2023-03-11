@@ -1,5 +1,0 @@
-7 7 sweeper
-ennui 4 1 1
-phone 1 2 0
-hefty 2 2 1
-twist 2 5 0

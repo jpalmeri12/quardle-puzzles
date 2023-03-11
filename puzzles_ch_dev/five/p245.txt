@@ -1,6 +1,0 @@
-7 9 five
-quill 6 1 1
-cruel 2 4 0
-rowdy 3 4 1
-lower 1 6 0
-hymen 2 8 0

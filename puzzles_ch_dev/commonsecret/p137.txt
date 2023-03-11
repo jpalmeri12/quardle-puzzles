@@ -1,6 +1,0 @@
-7 7 commonsecret
-break 2 1 1
-brass 1 2 0
-sugar 5 2 1
-kebab 2 5 0
-!secret a

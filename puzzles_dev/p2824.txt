@@ -1,5 +1,0 @@
-7 9
-stave 1 1 0
-vocal 4 1 1
-crate 2 4 0
-equip 6 4 1

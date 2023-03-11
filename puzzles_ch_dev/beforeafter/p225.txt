@@ -1,9 +1,0 @@
-7 8 beforeafter
-trunk 5 1 1
-stuff 3 3 1
-snuck 1 5 0
-afoot 2 7 0
-!beforeafter 2 p
-!beforeafter 2 q
-!beforeafter 2 m
-!beforeafter 1 m

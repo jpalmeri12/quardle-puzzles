@@ -1,5 +1,0 @@
-7 7
-dryer 6 1 1
-taken 3 2 1
-sadly 2 3 0
-randy 1 6 0

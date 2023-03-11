@@ -1,5 +1,0 @@
-6 9 shiritori
-booth 1 1 0
-optic 3 1 1
-afire 1 4 0
-extol 5 4 1

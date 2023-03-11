@@ -1,6 +1,0 @@
-6 6 commonsecret
-piety 2 1 1
-actor 4 1 1
-witch 1 2 0
-stood 1 4 0
-!secret t

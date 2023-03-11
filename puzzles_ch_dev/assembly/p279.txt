@@ -1,5 +1,0 @@
-6 10 assembly
-unfit 1 3 1
-rumor 5 3 1
-queer 1 1 0
-other 1 9 0

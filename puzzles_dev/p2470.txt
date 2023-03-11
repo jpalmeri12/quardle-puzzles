@@ -1,5 +1,0 @@
-6 9
-sheet 1 1 1
-human 1 2 0
-exact 1 4 0
-taffy 5 4 1

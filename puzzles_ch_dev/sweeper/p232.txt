@@ -1,5 +1,0 @@
-7 10 sweeper
-guess 5 1 1
-often 2 3 0
-glass 1 5 0
-abide 3 5 1

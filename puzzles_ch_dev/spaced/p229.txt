@@ -1,5 +1,0 @@
-6 9 spaced
-inept 1 1 1
-gravy 3 4 1
-tardy 1 5 0
-giver 1 7 0

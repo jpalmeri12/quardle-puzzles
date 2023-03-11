@@ -1,5 +1,0 @@
-7 8 shiritori
-strap 2 1 1
-rigid 2 3 0
-gruff 4 3 1
-spout 1 5 0

@@ -1,6 +1,0 @@
-7 10 wordcolumn
-ample 6 1 1
-aping 2 4 1
-prime 2 5 0
-manly 5 5 1
-onion 1 7 0

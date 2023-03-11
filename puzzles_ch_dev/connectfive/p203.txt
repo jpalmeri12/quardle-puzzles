@@ -1,6 +1,0 @@
-7 10 connectfive
-ester 2 1 0
-stein 3 1 1
-bushy 1 3 1
-singe 1 5 0
-gruff 4 5 1

@@ -1,6 +1,0 @@
-7 10 undercover
-larva 2 1 1
-terse 4 3 1
-parry 1 5 0
-dwelt 2 7 0
-knock 1 9 0

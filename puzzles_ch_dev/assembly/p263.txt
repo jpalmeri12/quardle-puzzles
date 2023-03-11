@@ -1,5 +1,0 @@
-6 10 assembly
-fiery 1 3 1
-yeast 5 3 1
-fifty 1 1 0
-rebus 1 9 0

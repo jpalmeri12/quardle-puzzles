@@ -1,5 +1,0 @@
-7 9 skyscrapers
-sprig 1 1 0
-genie 5 1 1
-antic 2 4 0
-aorta 2 4 1

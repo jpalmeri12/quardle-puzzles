@@ -1,6 +1,0 @@
-7 9 commonsecret
-bagel 2 1 0
-groan 4 1 1
-stage 2 4 1
-stung 1 5 0
-!secret g

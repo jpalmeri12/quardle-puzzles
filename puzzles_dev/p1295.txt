@@ -1,5 +1,0 @@
-7 10
-amass 6 1 1
-plate 2 5 1
-press 2 5 0
-still 1 8 0

@@ -1,5 +1,0 @@
-6 10 assembly
-demon 1 3 1
-lymph 5 3 1
-drool 1 1 0
-north 1 9 0

@@ -1,5 +1,0 @@
-7 8
-cross 4 1 1
-score 1 2 0
-scold 6 3 1
-basic 2 4 0

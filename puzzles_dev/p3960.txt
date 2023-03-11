@@ -1,5 +1,0 @@
-7 9
-moist 5 1 1
-wordy 2 4 1
-donut 1 5 0
-drone 2 7 0

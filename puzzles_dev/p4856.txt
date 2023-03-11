@@ -1,5 +1,0 @@
-7 9
-ditto 2 1 0
-ionic 3 1 1
-shied 1 4 0
-dusty 5 4 1

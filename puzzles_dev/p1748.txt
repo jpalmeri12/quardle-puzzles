@@ -1,5 +1,0 @@
-6 9
-wooer 4 1 1
-broom 1 2 0
-human 2 4 1
-quart 1 5 0

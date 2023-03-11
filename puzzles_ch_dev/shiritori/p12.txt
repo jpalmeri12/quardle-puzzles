@@ -1,5 +1,0 @@
-6 10 shiritori
-three 5 1 1
-geese 1 5 0
-grind 1 5 1
-dwarf 1 9 0

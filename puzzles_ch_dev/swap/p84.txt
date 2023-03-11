@@ -1,5 +1,0 @@
-7 10 swap
-iwdth 1 1 0
-tuabl 4 1 1
-eelct 2 5 0
-eprky 3 5 1

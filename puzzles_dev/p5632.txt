@@ -1,5 +1,0 @@
-7 9
-dirty 3 1 1
-cruel 5 4 1
-myrrh 2 5 0
-urine 1 7 0

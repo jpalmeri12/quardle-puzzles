@@ -1,5 +1,0 @@
-7 10
-float 2 1 1
-utile 1 5 0
-erase 5 5 1
-torso 2 8 0

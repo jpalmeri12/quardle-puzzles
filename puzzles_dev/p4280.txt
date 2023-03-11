@@ -1,5 +1,0 @@
-6 10
-thank 1 1 1
-hovel 1 2 0
-koala 1 5 0
-alive 3 5 1

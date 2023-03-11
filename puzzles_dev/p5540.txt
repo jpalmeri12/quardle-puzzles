@@ -1,5 +1,0 @@
-7 9
-agony 2 1 1
-annoy 1 4 0
-onset 4 4 1
-nutty 2 8 0

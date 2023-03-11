@@ -1,6 +1,0 @@
-7 11 undercover
-essay 1 1 0
-stoop 2 1 1
-hyena 6 4 1
-petty 2 5 0
-crick 1 10 0

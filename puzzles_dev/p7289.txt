@@ -1,5 +1,0 @@
-7 9
-deuce 2 1 1
-feral 1 2 0
-clued 2 4 0
-debut 6 4 1

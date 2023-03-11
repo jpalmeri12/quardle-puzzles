@@ -1,5 +1,0 @@
-7 9 soundscramble
-tribe 1 1 0
-bayuo 4 1 1
-idium 6 4 1
-wuond 2 5 0

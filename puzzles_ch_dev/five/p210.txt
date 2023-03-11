@@ -1,6 +1,0 @@
-7 10 five
-guild 2 1 1
-dress 2 5 0
-shore 5 5 1
-micro 1 7 0
-widen 2 9 0

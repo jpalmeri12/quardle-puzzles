@@ -1,5 +1,0 @@
-6 10 hardmode
-guise 4 1 1
-poser 1 5 0
-speed 3 5 1
-smear 1 7 0

@@ -1,5 +1,0 @@
-6 9 altending
-tying 1 1 0
-swine 1 3 0
-croak 1 5 0
-crepe 1 7 0

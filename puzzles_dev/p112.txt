@@ -1,5 +1,0 @@
-7 10
-nerve 6 1 1
-mauve 2 5 0
-unlit 4 5 1
-holly 1 7 0

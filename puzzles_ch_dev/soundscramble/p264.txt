@@ -1,5 +1,0 @@
-6 8 soundscramble
-tepar 1 1 1
-towal 1 1 0
-edoba 4 3 1
-aroda 1 4 0

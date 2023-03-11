@@ -1,5 +1,0 @@
-6 6
-carol 1 1 1
-micro 3 1 1
-amiss 1 2 0
-loose 1 5 0

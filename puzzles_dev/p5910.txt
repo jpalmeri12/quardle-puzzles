@@ -1,5 +1,0 @@
-7 10
-nurse 4 1 1
-forte 2 3 0
-cheer 1 5 0
-extra 3 5 1

@@ -1,6 +1,0 @@
-6 10 drop
-afoul 1 1 1
-snake 4 3 1
-using 1 4 0
-clued 1 7 0
-annul 1 9 0

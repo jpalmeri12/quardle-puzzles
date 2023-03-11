@@ -1,6 +1,0 @@
-7 10 wordcolumn
-fluff 5 1 1
-frail 1 2 0
-savoy 2 5 1
-snuff 2 5 0
-vodka 2 7 0

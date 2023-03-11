@@ -1,5 +1,0 @@
-7 9 darkness
-khaki 5 4 1
-frisk 2 1 1
-afire 1 1 0
-stoke 2 4 0

@@ -1,5 +1,0 @@
-7 9 swap
-untiy 5 1 1
-palin 2 4 0
-ploka 2 4 1
-raedy 1 8 0

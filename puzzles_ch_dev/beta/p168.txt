@@ -1,5 +1,0 @@
-6 9 beta
-ardor 4 1 1
-swoop 1 4 0
-surly 1 4 1
-local 1 7 0

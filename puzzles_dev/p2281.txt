@@ -1,5 +1,0 @@
-7 9
-ratty 2 1 1
-twirl 2 4 0
-idler 4 4 1
-snare 1 8 0

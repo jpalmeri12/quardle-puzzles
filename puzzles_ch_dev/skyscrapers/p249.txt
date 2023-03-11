@@ -1,5 +1,0 @@
-6 9 skyscrapers
-piano 1 5 0
-poker 5 4 1
-deuce 1 7 0
-chili 2 1 1

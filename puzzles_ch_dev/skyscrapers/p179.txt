@@ -1,5 +1,0 @@
-7 8 skyscrapers
-timid 5 1 1
-attic 2 4 0
-caste 2 3 1
-begun 1 7 0

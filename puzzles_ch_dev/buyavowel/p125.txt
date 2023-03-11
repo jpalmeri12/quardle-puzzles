@@ -1,5 +1,0 @@
-7 9 buyavowel
-blind 6 1 1
-woven 2 4 0
-wrath 2 4 1
-stuck 1 7 0

@@ -1,5 +1,0 @@
-7 7
-about 4 1 1
-bobby 1 2 0
-ovary 2 2 1
-ratty 2 5 0

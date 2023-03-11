@@ -1,5 +1,0 @@
-6 10
-spook 2 1 1
-spree 1 2 0
-skirt 1 5 0
-taffy 5 5 1

@@ -1,5 +1,0 @@
-7 10 bestfit
-bayou 3 1 1
-dunce 2 5 0
-droop 2 5 1
-noose 1 7 0

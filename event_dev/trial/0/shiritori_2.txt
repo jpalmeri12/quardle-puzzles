@@ -1,5 +1,0 @@
-7 9 shiritori
-budge 2 1 1
-adept 1 3 0
-bevel 6 4 1
-emcee 2 5 0

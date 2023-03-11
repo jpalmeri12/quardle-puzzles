@@ -1,5 +1,0 @@
-7 9
-musky 1 1 0
-knoll 4 1 1
-whisk 6 4 1
-welch 2 5 0

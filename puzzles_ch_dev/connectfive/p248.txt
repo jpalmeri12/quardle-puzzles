@@ -1,6 +1,0 @@
-6 8 connectfive
-angry 1 1 1
-cleft 3 1 1
-decoy 5 3 1
-rifle 1 4 0
-daddy 1 7 0

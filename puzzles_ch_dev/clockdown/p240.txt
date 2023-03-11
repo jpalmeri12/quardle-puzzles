@@ -1,5 +1,0 @@
-7 9 clockdown
-poppy 2 1 1
-worry 1 2 0
-penal 2 4 0
-lunar 6 4 1

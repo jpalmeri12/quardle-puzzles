@@ -1,7 +1,0 @@
-7 11 secretdistance
-earth 5 1 1
-bleat 2 2 0
-spout 1 4 0
-syrup 1 4 1
-voice 1 10 0
-!sdpos 2 1 2 0

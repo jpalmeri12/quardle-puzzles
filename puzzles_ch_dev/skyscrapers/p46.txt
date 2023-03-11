@@ -1,5 +1,0 @@
-7 10 skyscrapers
-tease 2 7 0
-bused 5 5 1
-crumb 1 5 0
-forum 4 1 1

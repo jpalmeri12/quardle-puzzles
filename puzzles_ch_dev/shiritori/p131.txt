@@ -1,5 +1,0 @@
-7 9 shiritori
-assay 4 1 1
-flask 1 3 0
-trade 6 4 1
-foyer 2 5 0

@@ -1,5 +1,0 @@
-6 9 reverse
-doorb 5 1 1
-valor 1 4 0
-ajnin 2 4 1
-bicep 1 7 0

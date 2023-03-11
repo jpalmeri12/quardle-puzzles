@@ -1,9 +1,0 @@
-6 7 beforeafter
-lynch 5 1 1
-icily 1 2 0
-chump 2 2 1
-pubic 1 4 0
-!beforeafter 2 j
-!beforeafter 2 j
-!beforeafter 1 l
-!beforeafter 1 j

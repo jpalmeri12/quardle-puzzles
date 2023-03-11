@@ -1,6 +1,0 @@
-6 9 commonsecret
-depth 1 1 1
-topic 1 4 0
-crept 5 4 1
-usurp 1 7 0
-!secret p

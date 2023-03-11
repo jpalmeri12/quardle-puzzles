@@ -1,5 +1,0 @@
-6 9 unloved
-trade 5 1 1
-swoop 1 4 1
-scald 1 4 0
-proud 1 8 0

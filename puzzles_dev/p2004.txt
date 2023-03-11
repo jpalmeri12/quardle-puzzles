@@ -1,5 +1,0 @@
-7 8
-whose 5 1 1
-groin 3 3 1
-virus 1 4 0
-angry 2 7 0

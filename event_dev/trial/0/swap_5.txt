@@ -1,5 +1,0 @@
-7 8 swap
-wdell 2 1 1
-whiyn 2 1 0
-rtyst 5 3 1
-dloly 1 5 0

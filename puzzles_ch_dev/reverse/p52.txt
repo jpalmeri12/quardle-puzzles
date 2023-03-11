@@ -1,5 +1,0 @@
-7 10 reverse
-pulpy 3 1 1
-saute 1 2 0
-pylop 2 5 0
-pmuts 2 5 1

@@ -1,6 +1,0 @@
-7 9 five
-pinky 1 1 0
-ivory 2 1 1
-shunt 5 4 1
-yacht 2 5 0
-mount 2 7 0

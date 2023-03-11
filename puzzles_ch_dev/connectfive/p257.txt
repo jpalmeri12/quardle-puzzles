@@ -1,6 +1,0 @@
-7 10 connectfive
-tithe 2 1 1
-showy 1 4 0
-whirl 4 4 1
-unmet 6 5 1
-valve 2 8 0

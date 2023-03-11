@@ -1,5 +1,0 @@
-7 8 reverse
-ognib 3 1 1
-yrgna 1 2 0
-plain 6 3 1
-vital 2 4 0

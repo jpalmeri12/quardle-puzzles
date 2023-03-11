@@ -1,5 +1,0 @@
-7 10
-trust 5 1 1
-depth 2 5 0
-pulpy 4 5 1
-slope 1 8 0

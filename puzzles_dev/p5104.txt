@@ -1,5 +1,0 @@
-7 8
-raise 4 1 1
-vaunt 2 3 1
-voice 2 3 0
-stunk 1 7 0

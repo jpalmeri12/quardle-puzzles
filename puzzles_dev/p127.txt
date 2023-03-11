@@ -1,5 +1,0 @@
-7 10
-skirt 2 1 1
-inter 2 3 0
-stare 1 5 0
-retry 4 5 1

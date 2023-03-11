@@ -1,5 +1,0 @@
-7 8 soundscramble
-stoec 1 1 0
-crass 5 1 1
-fital 2 3 0
-idect 3 3 1

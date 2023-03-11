@@ -1,5 +1,0 @@
-6 10
-rogue 4 1 1
-paddy 1 5 1
-purer 1 5 0
-drunk 1 8 0

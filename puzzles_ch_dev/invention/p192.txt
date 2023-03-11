@@ -1,5 +1,0 @@
-7 10 invention
-about 5 1 1
-spool 2 3 0
-ascot 1 5 0
-steer 2 5 1

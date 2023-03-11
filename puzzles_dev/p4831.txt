@@ -1,5 +1,0 @@
-7 9
-decal 4 1 1
-china 2 4 1
-chase 2 4 0
-daddy 1 8 0

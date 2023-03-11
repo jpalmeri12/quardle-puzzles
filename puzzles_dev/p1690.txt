@@ -1,5 +1,0 @@
-6 7
-slept 2 1 1
-fluke 1 2 0
-knelt 4 2 1
-upper 1 4 0

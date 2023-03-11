@@ -1,5 +1,0 @@
-7 10
-scoop 4 1 1
-topaz 2 5 0
-throb 2 5 1
-mover 1 8 0

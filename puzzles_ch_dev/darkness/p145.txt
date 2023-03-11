@@ -1,5 +1,0 @@
-6 8 darkness
-carat 5 1 1
-chest 3 3 1
-wrest 1 5 0
-decor 1 3 0

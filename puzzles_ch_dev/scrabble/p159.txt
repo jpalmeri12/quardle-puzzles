@@ -1,5 +1,0 @@
-7 10 scrabble
-spill 2 9 0
-lathe 1 5 0
-crush 4 1 1
-excel 5 5 1

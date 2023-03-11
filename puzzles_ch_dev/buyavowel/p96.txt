@@ -1,5 +1,0 @@
-7 10 buyavowel
-tempo 1 1 0
-payer 4 1 1
-large 2 5 0
-gypsy 5 5 1

@@ -1,5 +1,0 @@
-7 9 darkness
-debit 2 5 0
-heard 2 1 1
-pitch 1 7 0
-fight 5 4 1

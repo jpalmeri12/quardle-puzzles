@@ -1,5 +1,0 @@
-6 6
-grill 1 1 1
-ember 4 1 1
-roomy 1 2 0
-liken 1 4 0

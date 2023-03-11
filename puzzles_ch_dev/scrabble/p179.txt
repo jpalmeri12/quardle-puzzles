@@ -1,5 +1,0 @@
-6 9 scrabble
-glade 1 7 0
-vault 2 4 1
-sandy 1 5 0
-catty 5 1 1

@@ -1,6 +1,0 @@
-7 10 five
-rusty 5 1 1
-quash 2 3 0
-ditty 1 5 0
-truly 3 5 1
-rupee 2 7 0

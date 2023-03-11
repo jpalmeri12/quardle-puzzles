@@ -1,5 +1,0 @@
-7 7 skyscrapers
-unmet 1 2 0
-nymph 2 2 1
-mouse 2 4 0
-begun 4 1 1

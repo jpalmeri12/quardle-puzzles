@@ -1,5 +1,0 @@
-7 9
-shoal 5 1 1
-might 2 2 0
-hairy 3 4 1
-frail 1 5 0

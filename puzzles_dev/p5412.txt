@@ -1,5 +1,0 @@
-6 10
-abode 1 1 1
-elbow 1 5 0
-bilge 3 5 1
-billy 1 7 0

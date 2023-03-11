@@ -1,5 +1,0 @@
-6 9
-leper 4 1 1
-harem 1 2 0
-dicey 1 4 0
-igloo 2 4 1

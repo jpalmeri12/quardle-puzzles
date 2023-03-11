@@ -1,5 +1,0 @@
-6 6
-flank 1 1 0
-logic 2 1 1
-naval 4 1 1
-scold 1 5 0

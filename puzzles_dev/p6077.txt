@@ -1,5 +1,0 @@
-6 9
-sepia 2 1 1
-timid 1 4 0
-islet 4 4 1
-swath 1 8 0

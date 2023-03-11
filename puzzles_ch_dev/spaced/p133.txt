@@ -1,5 +1,0 @@
-7 9 spaced
-bowel 1 1 0
-locus 5 1 1
-layer 3 4 1
-lapse 2 5 0

@@ -1,5 +1,0 @@
-6 9
-spill 1 1 0
-local 5 1 1
-cumin 3 4 1
-equal 1 5 0

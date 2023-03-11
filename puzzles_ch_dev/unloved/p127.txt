@@ -1,5 +1,0 @@
-7 10 unloved
-realm 3 1 1
-emcee 2 5 0
-circa 4 5 1
-wench 1 8 0

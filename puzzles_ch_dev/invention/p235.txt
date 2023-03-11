@@ -1,5 +1,0 @@
-7 10 invention
-going 5 1 1
-stool 2 2 0
-icing 1 5 0
-idiot 3 5 1

@@ -1,5 +1,0 @@
-7 9
-whole 5 1 1
-naval 1 4 0
-angry 2 4 1
-relay 2 7 0

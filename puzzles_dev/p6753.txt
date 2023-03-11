@@ -1,5 +1,0 @@
-7 8
-bugle 6 1 1
-gassy 2 3 1
-axial 2 4 0
-aside 1 6 0

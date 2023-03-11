@@ -1,5 +1,0 @@
-6 9 bestfit
-condo 1 1 1
-onset 1 2 0
-dwell 1 4 0
-lager 5 4 1

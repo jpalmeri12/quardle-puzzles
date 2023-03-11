@@ -1,5 +1,0 @@
-7 10
-jaunt 4 1 1
-ditty 1 5 0
-idiot 2 5 1
-imbue 2 7 0

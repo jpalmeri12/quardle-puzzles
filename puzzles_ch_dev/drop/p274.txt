@@ -1,6 +1,0 @@
-6 12 drop
-pitch 2 1 1
-stout 1 3 0
-shone 1 5 0
-event 5 5 1
-spine 1 11 0

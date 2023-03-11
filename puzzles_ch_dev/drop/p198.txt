@@ -1,6 +1,0 @@
-7 12 drop
-elite 2 1 1
-ideal 2 3 0
-stoop 1 5 1
-sedan 1 5 0
-model 1 11 0

@@ -1,5 +1,0 @@
-7 9 clockdown
-rower 6 1 1
-chick 2 4 1
-hyper 2 5 0
-skulk 1 8 0

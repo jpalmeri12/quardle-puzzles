@@ -1,5 +1,0 @@
-7 9
-abhor 2 1 1
-abort 1 2 0
-right 5 4 1
-robin 2 5 0

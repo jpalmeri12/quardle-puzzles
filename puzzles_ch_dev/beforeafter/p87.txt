@@ -1,9 +1,0 @@
-7 9 beforeafter
-lasso 1 1 1
-stall 1 4 0
-labor 5 4 1
-tribe 2 6 0
-!beforeafter 1 n
-!beforeafter 1 r
-!beforeafter 2 m
-!beforeafter 1 k

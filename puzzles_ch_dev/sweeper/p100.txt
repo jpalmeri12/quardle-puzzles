@@ -1,5 +1,0 @@
-7 10 sweeper
-began 4 1 1
-sheep 2 2 0
-wrong 1 5 0
-wager 1 5 1

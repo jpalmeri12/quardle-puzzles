@@ -1,5 +1,0 @@
-6 7
-smelt 1 1 1
-munch 1 2 0
-hinge 5 2 1
-tying 1 5 0

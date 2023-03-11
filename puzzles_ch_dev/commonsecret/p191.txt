@@ -1,6 +1,0 @@
-6 9 commonsecret
-chaos 1 1 0
-shack 5 1 1
-basic 1 4 0
-spill 3 4 1
-!secret s

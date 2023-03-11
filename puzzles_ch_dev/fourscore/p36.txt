@@ -1,5 +1,0 @@
-7 9 fourscore
-onset 4 1 1
-stung 1 2 0
-enema 2 4 1
-event 2 4 0

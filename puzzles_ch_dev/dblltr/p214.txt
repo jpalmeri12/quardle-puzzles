@@ -1,5 +1,0 @@
-7 10 dblltr
-woody 2 1 1
-pygmy 1 5 0
-mecca 4 5 1
-tacit 2 7 0

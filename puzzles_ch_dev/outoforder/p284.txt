@@ -1,5 +1,0 @@
-7 9 outoforder
-pithy 3 1 1
-raise 1 2 0
-ahead 2 4 0
-dance 6 4 1

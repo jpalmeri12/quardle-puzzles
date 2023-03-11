@@ -1,5 +1,0 @@
-7 8 scrabble
-write 2 7 0
-chant 5 3 1
-swish 1 4 0
-vivid 3 1 1

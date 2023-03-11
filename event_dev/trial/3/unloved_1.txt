@@ -1,5 +1,0 @@
-7 8 unloved
-idiom 1 1 0
-droop 2 1 1
-sissy 4 3 1
-pesky 2 5 0

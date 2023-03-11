@@ -1,6 +1,0 @@
-7 11 drop
-sting 6 1 1
-scorn 2 4 0
-cress 3 4 1
-baste 1 7 0
-start 1 10 0

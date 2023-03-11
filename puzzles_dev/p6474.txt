@@ -1,5 +1,0 @@
-7 9
-flute 5 1 1
-plaid 3 4 1
-belie 1 5 0
-lilac 2 7 0

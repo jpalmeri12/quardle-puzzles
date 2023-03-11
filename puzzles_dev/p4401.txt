@@ -1,5 +1,0 @@
-6 7
-prone 1 1 1
-ripen 1 2 0
-enjoy 4 2 1
-ninja 1 4 0

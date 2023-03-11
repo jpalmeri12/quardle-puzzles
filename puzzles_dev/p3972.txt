@@ -1,5 +1,0 @@
-6 9
-known 5 1 1
-sheen 1 2 0
-screw 1 4 0
-sooty 1 4 1

@@ -1,6 +1,0 @@
-6 10 commonsecret
-spelt 2 1 1
-seven 1 3 0
-stood 1 5 0
-obese 3 5 1
-!secret s

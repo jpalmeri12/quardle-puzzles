@@ -1,5 +1,0 @@
-7 9 sweeper
-mercy 1 1 1
-climb 1 4 0
-blunt 5 4 1
-group 2 6 0

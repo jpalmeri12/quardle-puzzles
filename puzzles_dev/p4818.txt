@@ -1,5 +1,0 @@
-7 10
-bevel 2 1 1
-flame 1 5 0
-moldy 4 5 1
-kayak 2 9 0

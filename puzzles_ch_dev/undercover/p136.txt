@@ -1,6 +1,0 @@
-7 11 undercover
-vowel 6 1 1
-obese 2 4 0
-binge 3 4 1
-bigot 1 7 0
-carry 1 10 0

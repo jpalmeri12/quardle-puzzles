@@ -1,5 +1,0 @@
-6 9
-filet 1 1 0
-eclat 4 1 1
-usual 1 4 0
-scoff 2 4 1

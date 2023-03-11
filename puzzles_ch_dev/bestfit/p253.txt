@@ -1,5 +1,0 @@
-7 9 bestfit
-drool 5 1 1
-comma 3 4 1
-voila 2 5 0
-gummy 1 7 0

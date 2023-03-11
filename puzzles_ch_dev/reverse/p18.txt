@@ -1,5 +1,0 @@
-6 9 reverse
-feihc 5 1 1
-nevah 1 4 0
-elide 2 4 1
-adobe 1 7 0

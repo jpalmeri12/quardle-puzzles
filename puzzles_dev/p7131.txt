@@ -1,5 +1,0 @@
-6 7
-myrrh 3 1 1
-crypt 1 2 0
-tooth 5 2 1
-cargo 1 4 0

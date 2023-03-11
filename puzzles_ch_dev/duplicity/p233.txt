@@ -1,5 +1,0 @@
-6 8 duplicity
-dried 1 1 0
-dress 5 1 1
-verse 1 3 0
-vivid 1 3 1

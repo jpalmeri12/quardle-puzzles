@@ -1,5 +1,0 @@
-7 9
-fritz 1 1 1
-trial 1 4 0
-alloy 4 4 1
-sully 2 6 0

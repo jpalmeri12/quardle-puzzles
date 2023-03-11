@@ -1,5 +1,0 @@
-7 7
-arena 4 1 1
-share 1 2 0
-hunky 2 2 1
-ninth 2 4 0

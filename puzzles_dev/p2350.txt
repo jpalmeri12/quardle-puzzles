@@ -1,5 +1,0 @@
-7 8
-gruel 4 1 1
-wring 2 3 1
-wrung 2 3 0
-agent 1 7 0

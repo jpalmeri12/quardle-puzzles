@@ -1,5 +1,0 @@
-7 8 duplicity
-magma 3 1 1
-laden 5 3 1
-gland 1 5 0
-amend 2 7 0

@@ -1,7 +1,0 @@
-8 8 sixbox
-madam 3 1 1
-stein 5 1 1
-ridge 1 3 0
-glare 4 3 1
-alibi 3 4 0
-woman 1 5 0

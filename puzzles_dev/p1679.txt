@@ -1,5 +1,0 @@
-7 9
-strip 1 1 0
-rebus 3 1 1
-bused 2 4 0
-enjoy 5 4 1

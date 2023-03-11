@@ -1,5 +1,0 @@
-7 9 scrabble
-lupus 2 1 0
-mayor 1 4 1
-polka 4 1 1
-mucky 1 4 0

@@ -1,5 +1,0 @@
-7 7 elbowroom
-still 3 1 1
-myrrh 5 2 1
-gaily 1 3 0
-slurp 2 5 0

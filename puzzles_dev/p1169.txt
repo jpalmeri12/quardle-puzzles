@@ -1,5 +1,0 @@
-7 10
-aptly 2 1 1
-yacht 2 5 0
-crust 4 5 1
-rebus 1 7 0

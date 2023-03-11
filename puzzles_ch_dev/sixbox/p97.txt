@@ -1,7 +1,0 @@
-8 8 sixbox
-gouge 3 1 1
-refer 5 1 1
-bluff 1 3 0
-frail 4 3 1
-greed 3 4 0
-spear 1 5 0

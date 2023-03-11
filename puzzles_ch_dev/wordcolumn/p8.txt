@@ -1,6 +1,0 @@
-7 10 wordcolumn
-shade 4 1 1
-these 2 2 1
-wheat 1 3 0
-seedy 2 5 0
-dowdy 5 5 1

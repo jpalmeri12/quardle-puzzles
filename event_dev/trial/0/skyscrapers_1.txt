@@ -1,5 +1,0 @@
-7 10 skyscrapers
-khaki 5 1 1
-folio 2 5 0
-fifth 2 5 1
-afire 1 7 0

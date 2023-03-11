@@ -1,6 +1,0 @@
-7 10 connectfive
-molar 6 1 1
-spoke 2 2 1
-penal 2 3 0
-timid 4 5 1
-sepia 1 6 0

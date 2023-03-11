@@ -1,5 +1,0 @@
-6 10 beta
-mammy 5 1 1
-harem 1 3 0
-icily 1 5 0
-impel 3 5 1

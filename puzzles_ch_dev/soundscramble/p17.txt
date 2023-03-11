@@ -1,5 +1,0 @@
-6 6 soundscramble
-triat 1 1 0
-ibony 3 1 1
-tacet 5 1 1
-innue 1 4 0

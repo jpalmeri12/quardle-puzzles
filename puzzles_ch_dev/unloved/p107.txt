@@ -1,5 +1,0 @@
-7 9 unloved
-tithe 2 1 1
-itchy 2 2 0
-thump 1 4 0
-plier 5 4 1

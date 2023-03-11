@@ -1,5 +1,0 @@
-7 9
-spurt 4 1 1
-guppy 1 2 0
-birch 2 4 0
-hovel 6 4 1

@@ -1,6 +1,0 @@
-6 10 island
-guest 1 1 1
-elide 1 3 0
-troop 1 5 0
-rarer 2 5 1
-!island 221 211 22 21

@@ -1,5 +1,0 @@
-7 9
-guise 4 1 1
-lunge 2 4 1
-buyer 1 5 0
-eking 2 8 0

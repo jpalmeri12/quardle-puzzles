@@ -1,6 +1,0 @@
-6 12 connectfive
-spice 1 1 1
-onion 4 3 1
-equip 1 5 0
-amend 1 7 0
-dogma 5 7 1

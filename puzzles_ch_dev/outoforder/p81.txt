@@ -1,5 +1,0 @@
-7 9 outoforder
-right 1 1 1
-hippo 1 4 0
-pesto 3 4 1
-dough 2 8 0

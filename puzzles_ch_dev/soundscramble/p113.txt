@@ -1,5 +1,0 @@
-6 7 soundscramble
-tompe 2 1 1
-robus 1 2 0
-stoad 5 2 1
-spero 1 4 0

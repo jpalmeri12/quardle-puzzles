@@ -1,5 +1,0 @@
-7 8
-belch 4 1 1
-cower 2 3 1
-occur 2 4 0
-brass 1 7 0

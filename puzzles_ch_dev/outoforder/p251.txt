@@ -1,5 +1,0 @@
-6 9 outoforder
-diode 4 1 1
-ashen 1 4 1
-screw 1 5 0
-elide 1 7 0

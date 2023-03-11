@@ -1,5 +1,0 @@
-7 10
-qualm 5 1 1
-uncut 2 2 0
-harem 1 5 0
-aping 2 5 1

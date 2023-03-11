@@ -1,5 +1,0 @@
-7 10
-quick 4 1 1
-debut 1 2 0
-taker 2 5 0
-ardor 3 5 1

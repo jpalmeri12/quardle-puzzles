@@ -1,5 +1,0 @@
-7 10
-loath 2 1 1
-gouge 1 2 0
-hydro 2 5 0
-route 5 5 1

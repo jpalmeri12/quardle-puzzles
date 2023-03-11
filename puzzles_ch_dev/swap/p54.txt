@@ -1,5 +1,0 @@
-6 7 swap
-ehdge 1 1 1
-afuol 3 2 1
-drfit 1 3 0
-epoyx 1 5 0

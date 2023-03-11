@@ -1,5 +1,0 @@
-6 7 shiritori
-defer 4 1 1
-after 1 2 0
-front 2 2 1
-golem 1 4 0

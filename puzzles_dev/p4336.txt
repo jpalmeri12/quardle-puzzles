@@ -1,5 +1,0 @@
-7 10
-cubic 4 1 1
-shuck 1 5 0
-hater 2 5 1
-elfin 2 8 0

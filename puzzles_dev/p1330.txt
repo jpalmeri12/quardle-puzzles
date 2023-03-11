@@ -1,5 +1,0 @@
-7 9
-hoist 1 1 0
-sauna 4 1 1
-dense 2 4 0
-dodgy 2 4 1

@@ -1,5 +1,0 @@
-6 7 clockdown
-bring 2 1 1
-gravy 1 2 0
-vigor 4 2 1
-igloo 1 5 0

@@ -1,6 +1,0 @@
-7 11 drop
-proof 5 1 1
-ascot 2 4 0
-spool 3 4 1
-filmy 1 8 0
-stray 1 10 0

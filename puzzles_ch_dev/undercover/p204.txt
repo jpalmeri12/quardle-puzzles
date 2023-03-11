@@ -1,6 +1,0 @@
-7 12 undercover
-apart 4 1 1
-swept 1 2 0
-cater 2 5 0
-adept 3 5 1
-bulky 1 11 0

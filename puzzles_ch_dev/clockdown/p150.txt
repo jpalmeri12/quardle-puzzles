@@ -1,5 +1,0 @@
-7 10 clockdown
-umbra 2 1 0
-blaze 4 1 1
-loser 1 5 0
-racer 5 5 1

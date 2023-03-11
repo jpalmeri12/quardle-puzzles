@@ -1,5 +1,0 @@
-7 7
-maker 2 1 1
-alibi 2 2 0
-broth 5 2 1
-pesto 1 4 0

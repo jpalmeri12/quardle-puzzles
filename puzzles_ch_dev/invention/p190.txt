@@ -1,5 +1,0 @@
-7 10 invention
-trump 2 1 1
-usage 2 3 0
-speck 1 5 0
-cried 4 5 1

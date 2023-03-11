@@ -1,5 +1,0 @@
-7 9 soundscramble
-vasti 1 1 0
-tamer 4 1 1
-ibove 2 4 1
-berry 2 5 0

@@ -1,5 +1,0 @@
-6 9
-magma 1 1 1
-lemon 4 4 1
-agree 1 5 0
-widow 1 7 0

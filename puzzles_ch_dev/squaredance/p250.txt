@@ -1,6 +1,0 @@
-6 8 squaredance
-bread 1 1 1
-tatty 5 1 1
-beast 1 1 0
-dusky 1 5 0
-shoot 1 7 0

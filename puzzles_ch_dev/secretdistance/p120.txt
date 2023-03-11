@@ -1,7 +1,0 @@
-6 11 secretdistance
-fresh 2 1 1
-ascot 1 4 0
-outgo 4 4 1
-dirge 1 7 0
-scone 1 10 0
-!sdpos 0 1 1 1

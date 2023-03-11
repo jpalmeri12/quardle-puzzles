@@ -1,6 +1,0 @@
-7 8 island
-ether 1 1 0
-tribe 2 1 1
-ankle 4 3 1
-bingo 2 4 0
-!island 31 311 2111 32

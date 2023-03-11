@@ -1,5 +1,0 @@
-7 9
-fence 5 1 1
-cider 2 2 0
-moral 3 4 1
-drone 1 5 0

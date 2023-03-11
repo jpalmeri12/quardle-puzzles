@@ -1,5 +1,0 @@
-6 9 skyscrapers
-trope 1 5 0
-twine 5 1 1
-graft 1 1 0
-privy 2 4 1

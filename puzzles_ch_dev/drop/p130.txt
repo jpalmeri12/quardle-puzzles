@@ -1,6 +1,0 @@
-7 12 drop
-gusto 4 1 1
-bossy 1 3 0
-flour 2 5 0
-usher 5 5 1
-holly 1 11 0

@@ -1,5 +1,0 @@
-7 10 duplicity
-slang 5 1 1
-arena 1 3 0
-laugh 2 5 0
-usher 4 5 1

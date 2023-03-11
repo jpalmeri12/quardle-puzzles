@@ -1,5 +1,0 @@
-7 8 invention
-riper 1 1 0
-imply 2 1 1
-phase 2 3 0
-adopt 4 3 1

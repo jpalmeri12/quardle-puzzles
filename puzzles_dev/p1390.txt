@@ -1,5 +1,0 @@
-7 10
-pluck 5 1 1
-murky 2 5 0
-mayor 2 5 1
-lynch 1 7 0

@@ -1,9 +1,0 @@
-6 8 spellbound
-dwarf 1 1 0
-flute 5 1 1
-train 2 3 1
-crest 1 4 0
-!spellbound 0 0 2
-!spellbound 1 1 2
-!spellbound 2 4 3
-!spellbound 3 0 2

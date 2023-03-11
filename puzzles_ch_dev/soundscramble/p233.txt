@@ -1,5 +1,0 @@
-7 10 soundscramble
-entir 5 1 1
-tiith 2 3 0
-tegir 1 5 0
-idect 4 5 1

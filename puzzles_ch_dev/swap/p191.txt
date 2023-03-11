@@ -1,5 +1,0 @@
-6 10 swap
-rgaph 2 1 1
-rgown 1 2 0
-shlae 1 5 0
-evgan 5 5 1

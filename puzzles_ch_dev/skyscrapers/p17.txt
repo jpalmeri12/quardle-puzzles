@@ -1,5 +1,0 @@
-6 9 skyscrapers
-venom 2 4 1
-fetch 1 5 0
-couch 5 1 1
-amity 1 8 0

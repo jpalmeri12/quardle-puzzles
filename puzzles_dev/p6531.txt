@@ -1,5 +1,0 @@
-6 10
-honor 4 1 1
-sport 1 5 0
-puree 2 5 1
-feral 1 8 0

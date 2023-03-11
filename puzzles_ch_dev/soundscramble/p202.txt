@@ -1,5 +1,0 @@
-7 9 soundscramble
-sepai 1 1 0
-anert 4 1 1
-feril 2 4 0
-lemur 6 4 1

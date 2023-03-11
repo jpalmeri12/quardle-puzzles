@@ -1,5 +1,0 @@
-6 10 assembly
-shout 1 3 1
-enact 5 3 1
-aisle 1 1 0
-viola 1 9 0

@@ -1,7 +1,0 @@
-7 11 secretdistance
-oxide 2 1 1
-doubt 2 4 0
-upset 4 4 1
-irate 1 8 0
-patch 1 10 0
-!sdpos 1 2 0 1

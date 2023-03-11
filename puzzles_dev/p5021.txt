@@ -1,5 +1,0 @@
-7 9
-paint 5 1 1
-cobra 1 2 0
-wrote 2 4 1
-rusty 2 5 0

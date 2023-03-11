@@ -1,5 +1,0 @@
-6 7
-cable 1 1 1
-avoid 1 2 0
-death 5 2 1
-evict 1 5 0

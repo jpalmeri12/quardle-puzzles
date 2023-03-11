@@ -1,5 +1,0 @@
-6 10 skyscrapers
-udder 1 5 0
-creed 2 1 1
-icily 1 1 0
-elope 4 5 1

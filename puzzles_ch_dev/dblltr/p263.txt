@@ -1,5 +1,0 @@
-7 10 dblltr
-apply 2 1 0
-liege 5 1 1
-pulpy 1 5 1
-pixie 1 5 0

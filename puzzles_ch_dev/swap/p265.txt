@@ -1,5 +1,0 @@
-7 7 swap
-dveil 6 1 1
-erbut 3 2 1
-pruge 2 3 0
-botoy 1 6 0

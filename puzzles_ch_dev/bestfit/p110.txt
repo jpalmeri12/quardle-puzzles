@@ -1,5 +1,0 @@
-7 10 bestfit
-charm 4 1 1
-pleat 1 3 0
-lemur 2 5 0
-elect 3 5 1

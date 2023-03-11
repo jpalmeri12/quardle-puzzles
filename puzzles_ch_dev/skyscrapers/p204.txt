@@ -1,5 +1,0 @@
-6 9 skyscrapers
-scarf 1 7 0
-lurch 2 4 1
-hussy 1 5 0
-belly 5 1 1

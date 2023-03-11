@@ -1,6 +1,0 @@
-7 7 commonsecret
-today 2 1 1
-story 4 2 1
-ditty 2 3 0
-hydro 1 5 0
-!secret y

@@ -1,5 +1,0 @@
-7 7
-leash 1 1 1
-union 3 2 1
-smirk 1 4 0
-knelt 2 6 0

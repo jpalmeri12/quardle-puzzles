@@ -1,5 +1,0 @@
-7 10
-tempo 2 1 1
-ounce 2 5 0
-cycle 5 5 1
-tonic 1 7 0

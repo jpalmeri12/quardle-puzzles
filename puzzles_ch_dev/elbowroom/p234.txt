@@ -1,5 +1,0 @@
-7 8 elbowroom
-sheen 3 1 1
-ethic 1 2 0
-staid 6 3 1
-heist 2 4 0

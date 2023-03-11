@@ -1,5 +1,0 @@
-7 10
-stink 2 1 1
-sixty 1 3 0
-koala 2 5 0
-orbit 3 5 1

@@ -1,5 +1,0 @@
-6 10 fourscore
-ennui 1 1 1
-ivory 1 5 0
-often 3 5 1
-bathe 1 7 0

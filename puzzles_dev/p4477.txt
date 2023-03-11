@@ -1,5 +1,0 @@
-6 9
-riper 5 1 1
-sushi 1 2 0
-bulge 1 4 0
-urban 2 4 1

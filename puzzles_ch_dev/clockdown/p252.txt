@@ -1,5 +1,0 @@
-7 7 clockdown
-sadly 1 1 0
-drape 3 1 1
-idler 6 2 1
-rabid 2 3 0

@@ -1,5 +1,0 @@
-6 7 spaced
-crypt 5 1 1
-build 1 2 1
-unify 1 3 0
-leant 1 5 0

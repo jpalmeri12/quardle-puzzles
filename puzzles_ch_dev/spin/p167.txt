@@ -1,5 +1,0 @@
-7 8 spin
-debug 6 1 1
-thumb 2 3 0
-havoc 3 3 1
-recap 1 7 0

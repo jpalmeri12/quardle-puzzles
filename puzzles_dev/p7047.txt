@@ -1,5 +1,0 @@
-7 10
-savvy 1 1 0
-visit 4 1 1
-extra 2 5 0
-aloft 6 5 1

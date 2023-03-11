@@ -1,6 +1,0 @@
-7 10 wordcolumn
-trash 3 1 1
-forth 1 2 0
-whiny 2 5 0
-yacht 6 5 1
-mimic 2 7 0

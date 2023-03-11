@@ -1,8 +1,0 @@
-6 8 twins
-fetch 1 1 0
-those 1 3 0
-gloom 1 5 0
-diver 1 7 0
-!twins 1 4
-!twins 1 3
-!twins 0 1

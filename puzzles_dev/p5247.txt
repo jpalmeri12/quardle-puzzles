@@ -1,5 +1,0 @@
-6 8
-leapt 1 1 0
-lasso 1 1 1
-large 5 3 1
-salsa 1 4 0

@@ -1,5 +1,0 @@
-7 10
-snare 4 1 1
-alert 2 5 0
-leave 3 5 1
-yearn 1 7 0

@@ -1,6 +1,0 @@
-6 8 squaredance
-shire 1 1 1
-tithe 5 1 1
-smelt 1 1 0
-elide 1 5 0
-pupal 1 7 0

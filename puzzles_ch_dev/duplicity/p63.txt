@@ -1,5 +1,0 @@
-7 9 duplicity
-adage 1 1 0
-drown 2 1 1
-wagon 2 4 0
-odder 5 4 1

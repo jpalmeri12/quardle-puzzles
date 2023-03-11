@@ -1,5 +1,0 @@
-6 10 assembly
-intro 1 3 1
-lipid 5 3 1
-pixel 1 1 0
-stamp 1 9 0

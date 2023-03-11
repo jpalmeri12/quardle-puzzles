@@ -1,6 +1,0 @@
-6 8 squaredance
-covet 1 1 1
-husky 5 1 1
-coach 1 1 0
-teddy 1 5 0
-mason 1 7 0

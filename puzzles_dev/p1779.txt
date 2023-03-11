@@ -1,5 +1,0 @@
-6 9
-stilt 4 1 1
-moist 1 4 1
-ovate 1 5 0
-tripe 1 8 0

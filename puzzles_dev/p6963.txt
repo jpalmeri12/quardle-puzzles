@@ -1,5 +1,0 @@
-7 9
-purse 1 1 1
-swath 1 4 0
-tower 4 4 1
-erect 2 7 0

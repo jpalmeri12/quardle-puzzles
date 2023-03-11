@@ -1,5 +1,0 @@
-7 10
-cider 5 1 1
-squad 1 3 0
-shirk 2 5 0
-knack 6 5 1

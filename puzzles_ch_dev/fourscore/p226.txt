@@ -1,5 +1,0 @@
-6 7 fourscore
-stool 5 1 1
-bleat 1 2 0
-elude 3 2 1
-modal 1 5 0

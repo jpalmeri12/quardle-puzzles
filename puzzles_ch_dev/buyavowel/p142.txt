@@ -1,5 +1,0 @@
-7 10 buyavowel
-trump 2 1 1
-piney 2 5 0
-ember 5 5 1
-rehab 1 7 0

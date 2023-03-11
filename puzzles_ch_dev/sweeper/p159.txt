@@ -1,5 +1,0 @@
-7 7 sweeper
-sigma 6 1 1
-aphid 3 2 1
-thrum 2 4 0
-ardor 1 6 0

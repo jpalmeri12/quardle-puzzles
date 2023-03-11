@@ -1,5 +1,0 @@
-7 9
-align 6 1 1
-thong 2 4 0
-hippo 3 4 1
-empty 1 7 0

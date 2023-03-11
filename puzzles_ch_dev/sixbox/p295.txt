@@ -1,7 +1,0 @@
-8 8 sixbox
-quasi 3 1 1
-knelt 5 1 1
-blame 1 3 0
-maxim 4 3 1
-salvo 3 4 0
-twixt 1 5 0

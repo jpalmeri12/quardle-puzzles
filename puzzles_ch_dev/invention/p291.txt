@@ -1,5 +1,0 @@
-7 10 invention
-troll 5 1 1
-surly 2 5 0
-sappy 2 5 1
-spray 1 8 0

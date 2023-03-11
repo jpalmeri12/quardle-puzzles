@@ -1,5 +1,0 @@
-6 9 fourscore
-detox 1 1 1
-diner 1 1 0
-offal 1 4 0
-flick 3 4 1

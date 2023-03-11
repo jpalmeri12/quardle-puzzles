@@ -1,5 +1,0 @@
-7 10
-flume 4 1 1
-debug 1 3 0
-creep 2 5 0
-exert 5 5 1

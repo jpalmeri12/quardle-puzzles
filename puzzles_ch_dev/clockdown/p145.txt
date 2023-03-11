@@ -1,5 +1,0 @@
-7 8 clockdown
-steam 2 1 1
-audit 4 3 1
-modal 2 5 0
-quoth 1 7 0

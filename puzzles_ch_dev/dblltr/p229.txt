@@ -1,5 +1,0 @@
-7 10 dblltr
-goody 6 1 1
-seedy 2 5 0
-dully 5 5 1
-droll 1 7 0

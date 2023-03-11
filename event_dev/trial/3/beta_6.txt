@@ -1,5 +1,0 @@
-6 9 beta
-badly 4 1 1
-sneak 1 2 0
-scale 1 4 0
-chase 2 4 1

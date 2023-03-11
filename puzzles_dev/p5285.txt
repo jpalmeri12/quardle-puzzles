@@ -1,5 +1,0 @@
-7 8
-count 1 1 1
-epoxy 4 3 1
-nymph 1 4 0
-toxic 2 6 0

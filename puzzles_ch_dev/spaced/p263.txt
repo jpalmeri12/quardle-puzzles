@@ -1,5 +1,0 @@
-7 9 spaced
-gawky 6 1 1
-speck 2 4 0
-extra 4 4 1
-hydro 1 7 0

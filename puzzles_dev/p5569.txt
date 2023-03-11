@@ -1,5 +1,0 @@
-7 10
-bowel 4 1 1
-moldy 2 5 0
-drank 5 5 1
-ramen 1 8 0

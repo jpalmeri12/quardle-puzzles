@@ -1,5 +1,0 @@
-7 10 dblltr
-erase 2 1 0
-rural 3 1 1
-hello 1 5 0
-lupus 4 5 1

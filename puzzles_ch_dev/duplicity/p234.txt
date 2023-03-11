@@ -1,5 +1,0 @@
-7 10 duplicity
-trait 6 1 1
-unmet 2 5 0
-under 2 5 1
-admit 1 7 0

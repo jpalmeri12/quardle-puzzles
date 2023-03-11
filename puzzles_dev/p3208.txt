@@ -1,5 +1,0 @@
-7 10
-algae 2 1 1
-beget 1 5 0
-gaily 3 5 1
-bilge 2 7 0

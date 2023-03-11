@@ -1,5 +1,0 @@
-6 6
-aider 2 1 1
-impel 4 1 1
-filmy 1 2 0
-never 1 4 0

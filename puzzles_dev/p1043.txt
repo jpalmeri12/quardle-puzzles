@@ -1,5 +1,0 @@
-6 9
-dwelt 5 1 1
-below 1 2 0
-gayer 1 4 1
-ghoul 1 4 0

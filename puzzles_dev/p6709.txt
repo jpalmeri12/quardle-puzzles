@@ -1,5 +1,0 @@
-7 10
-wispy 1 1 0
-iliac 2 1 1
-crook 2 5 0
-ovary 4 5 1

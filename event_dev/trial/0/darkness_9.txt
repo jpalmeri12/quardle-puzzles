@@ -1,5 +1,0 @@
-7 8 darkness
-baste 5 1 1
-noise 2 3 0
-table 1 5 0
-orbit 3 3 1

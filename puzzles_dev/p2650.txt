@@ -1,5 +1,0 @@
-7 9
-lanky 6 1 1
-ethic 3 4 1
-stray 2 5 0
-vicar 1 8 0

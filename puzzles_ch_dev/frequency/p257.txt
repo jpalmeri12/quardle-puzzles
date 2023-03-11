@@ -1,5 +1,0 @@
-7 9 frequency
-dried 1 1 1
-scion 4 4 1
-ditch 1 5 0
-wrote 2 7 0

@@ -1,5 +1,0 @@
-7 10 spin
-chump 5 1 1
-scamp 1 5 0
-canoe 2 5 1
-nurse 2 7 0

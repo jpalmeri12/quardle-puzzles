@@ -1,5 +1,0 @@
-7 9
-spoil 2 1 0
-spunk 2 1 1
-snort 1 4 0
-rural 4 4 1

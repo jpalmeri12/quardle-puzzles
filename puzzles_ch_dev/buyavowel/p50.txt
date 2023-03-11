@@ -1,5 +1,0 @@
-7 9 buyavowel
-crown 5 1 1
-sinew 1 4 0
-incur 2 4 1
-unmet 2 7 0

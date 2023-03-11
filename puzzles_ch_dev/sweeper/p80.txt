@@ -1,5 +1,0 @@
-7 9 sweeper
-swoop 2 1 1
-mango 4 4 1
-prawn 2 5 0
-singe 1 7 0

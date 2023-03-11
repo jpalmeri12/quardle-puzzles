@@ -1,9 +1,0 @@
-7 8 beforeafter
-abhor 1 1 0
-bigot 2 1 1
-gayly 2 3 0
-lousy 5 3 1
-!beforeafter 2 k
-!beforeafter 2 k
-!beforeafter 1 k
-!beforeafter 1 p

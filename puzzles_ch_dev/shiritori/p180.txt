@@ -1,5 +1,0 @@
-7 9 shiritori
-north 2 1 1
-tonic 1 2 0
-tango 2 4 0
-ombre 6 4 1

@@ -1,5 +1,0 @@
-7 10
-riser 4 1 1
-bison 2 3 0
-board 1 5 0
-ovary 2 5 1

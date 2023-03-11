@@ -1,5 +1,0 @@
-7 9 desync
-mecca 1 1 0
-abate 5 1 1
-motto 2 4 0
-medal 2 4 1

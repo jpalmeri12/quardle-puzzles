@@ -1,5 +1,0 @@
-6 8
-giddy 1 1 1
-blond 3 3 1
-dally 1 4 0
-widen 1 7 0

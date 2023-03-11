@@ -1,5 +1,0 @@
-7 9
-swish 4 1 1
-vowel 2 2 0
-bless 1 4 0
-bulge 1 4 1

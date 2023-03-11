@@ -1,5 +1,0 @@
-7 8 clockdown
-turbo 1 1 0
-boxer 4 1 1
-harpy 2 3 1
-amend 2 4 0

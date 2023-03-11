@@ -1,5 +1,0 @@
-6 9
-goose 1 1 1
-share 1 4 0
-evict 5 4 1
-magic 1 7 0

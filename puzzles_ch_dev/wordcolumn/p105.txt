@@ -1,6 +1,0 @@
-6 10 wordcolumn
-login 4 1 1
-favor 1 2 0
-stone 1 5 0
-owner 3 5 1
-mange 1 7 0

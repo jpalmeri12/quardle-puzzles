@@ -1,6 +1,0 @@
-6 10 commonsecret
-threw 2 1 1
-graph 1 3 0
-swish 1 5 0
-sooth 1 5 1
-!secret h

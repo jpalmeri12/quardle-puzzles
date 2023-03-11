@@ -1,5 +1,0 @@
-7 10
-peach 4 1 1
-peace 2 3 0
-mushy 1 5 0
-unlit 2 5 1

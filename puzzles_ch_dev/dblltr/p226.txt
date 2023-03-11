@@ -1,5 +1,0 @@
-6 9 dblltr
-swash 1 1 0
-strut 4 1 1
-issue 1 4 0
-scene 2 4 1

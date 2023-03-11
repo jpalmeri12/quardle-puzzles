@@ -1,5 +1,0 @@
-7 10
-taunt 5 1 1
-bayou 1 3 0
-saute 2 5 0
-annex 3 5 1

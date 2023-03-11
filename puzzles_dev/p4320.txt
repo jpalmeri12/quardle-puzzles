@@ -1,5 +1,0 @@
-6 9
-gaffe 5 1 1
-dwarf 1 4 0
-draft 1 4 1
-taffy 1 8 0

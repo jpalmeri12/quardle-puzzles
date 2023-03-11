@@ -1,5 +1,0 @@
-7 8
-rouge 1 1 0
-occur 2 1 1
-bluff 5 3 1
-uncle 2 4 0

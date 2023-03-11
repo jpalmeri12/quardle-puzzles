@@ -1,5 +1,0 @@
-7 9 fourscore
-flask 5 1 1
-torus 1 4 0
-regal 3 4 1
-clank 2 8 0

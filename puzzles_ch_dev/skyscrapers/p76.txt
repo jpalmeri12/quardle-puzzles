@@ -1,5 +1,0 @@
-7 8 skyscrapers
-verve 3 1 1
-friar 2 3 0
-alarm 5 3 1
-covey 1 1 0

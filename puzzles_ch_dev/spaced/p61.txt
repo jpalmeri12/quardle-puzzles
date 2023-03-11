@@ -1,5 +1,0 @@
-7 8 spaced
-cigar 1 1 0
-amuse 4 1 1
-bowel 2 3 1
-wreck 2 5 0

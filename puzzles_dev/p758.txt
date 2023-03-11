@@ -1,5 +1,0 @@
-6 8
-sneak 1 1 0
-never 2 1 1
-lymph 5 3 1
-jelly 1 4 0

@@ -1,5 +1,0 @@
-7 10
-plant 4 1 1
-crate 1 5 0
-rehab 2 5 1
-humus 2 7 0

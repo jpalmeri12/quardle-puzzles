@@ -1,6 +1,0 @@
-7 9 five
-carol 6 1 1
-bushy 2 3 1
-tarot 4 4 1
-shawl 2 5 0
-synod 1 7 0

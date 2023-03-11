@@ -1,6 +1,0 @@
-6 7 island
-defer 4 1 1
-often 1 2 0
-final 2 2 1
-unwed 1 4 0
-!island 4 2111 11111 311

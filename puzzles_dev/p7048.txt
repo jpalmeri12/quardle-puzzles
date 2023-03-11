@@ -1,5 +1,0 @@
-7 10
-furry 4 1 1
-zebra 1 3 0
-glyph 2 5 0
-loamy 3 5 1

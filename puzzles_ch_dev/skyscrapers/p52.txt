@@ -1,5 +1,0 @@
-6 7 skyscrapers
-tempo 4 1 1
-ashen 1 2 0
-stunt 2 2 1
-endow 1 5 0

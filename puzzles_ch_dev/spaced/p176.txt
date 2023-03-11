@@ -1,5 +1,0 @@
-7 10 spaced
-swami 4 1 1
-coral 1 3 0
-drift 2 5 0
-ficus 5 5 1

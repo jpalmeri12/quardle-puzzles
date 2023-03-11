@@ -1,5 +1,0 @@
-6 9 fourscore
-rhyme 4 1 1
-swamp 1 4 0
-worst 2 4 1
-atone 1 8 0

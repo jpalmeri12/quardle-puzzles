@@ -1,5 +1,0 @@
-6 10
-creep 2 1 1
-berth 1 3 0
-spend 1 5 0
-nanny 4 5 1

@@ -1,5 +1,0 @@
-6 7
-stein 2 1 1
-still 1 2 0
-learn 5 2 1
-circa 1 4 0

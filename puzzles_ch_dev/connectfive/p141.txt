@@ -1,6 +1,0 @@
-7 9 connectfive
-druid 5 1 1
-clear 1 2 0
-fleck 3 4 1
-glade 2 5 0
-emcee 1 7 0

@@ -1,5 +1,0 @@
-7 9
-stern 5 1 1
-cacti 2 2 0
-lumpy 3 4 1
-churn 1 5 0

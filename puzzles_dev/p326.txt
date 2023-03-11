@@ -1,5 +1,0 @@
-6 7
-elope 4 1 1
-sally 1 2 0
-aloud 2 2 1
-queer 1 5 0

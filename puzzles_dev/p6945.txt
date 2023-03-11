@@ -1,5 +1,0 @@
-7 10
-humid 4 1 1
-gamer 2 3 0
-nerdy 1 5 0
-niche 1 5 1

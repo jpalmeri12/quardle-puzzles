@@ -1,5 +1,0 @@
-6 8
-leash 1 1 0
-aloft 3 1 1
-melon 5 3 1
-gaffe 1 4 0

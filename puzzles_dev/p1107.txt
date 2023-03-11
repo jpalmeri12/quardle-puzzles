@@ -1,5 +1,0 @@
-7 8
-ramen 2 1 1
-point 5 3 1
-ennui 1 5 0
-depth 2 7 0

@@ -1,5 +1,0 @@
-7 9
-expel 1 1 1
-eager 1 4 0
-guess 3 4 1
-psalm 2 7 0

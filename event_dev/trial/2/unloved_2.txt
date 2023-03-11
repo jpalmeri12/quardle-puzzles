@@ -1,5 +1,0 @@
-6 10 unloved
-ratio 1 1 0
-oddly 5 1 1
-tabby 1 5 0
-tenor 1 5 1

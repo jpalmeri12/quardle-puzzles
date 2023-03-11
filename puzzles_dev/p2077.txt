@@ -1,5 +1,0 @@
-6 8
-trice 1 1 0
-elect 5 1 1
-arrow 3 3 1
-carat 1 5 0

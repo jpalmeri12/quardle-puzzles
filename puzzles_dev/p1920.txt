@@ -1,5 +1,0 @@
-7 10
-cargo 4 1 1
-bloom 1 5 0
-often 3 5 1
-stray 2 7 0

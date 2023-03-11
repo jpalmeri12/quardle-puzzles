@@ -1,6 +1,0 @@
-6 9 commonsecret
-edify 1 1 0
-demon 2 1 1
-horde 1 4 0
-downy 4 4 1
-!secret d

@@ -1,5 +1,0 @@
-6 10
-soggy 2 1 1
-vouch 1 2 0
-pygmy 1 5 0
-gayly 3 5 1

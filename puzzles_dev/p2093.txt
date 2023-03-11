@@ -1,5 +1,0 @@
-7 9
-adorn 5 1 1
-joker 1 4 0
-ovary 2 4 1
-revue 2 7 0

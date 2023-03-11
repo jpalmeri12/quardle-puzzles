@@ -1,5 +1,0 @@
-7 9 skyscrapers
-trace 1 5 0
-pause 5 1 1
-agape 2 1 0
-frost 2 4 1

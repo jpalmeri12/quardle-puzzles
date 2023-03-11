@@ -1,8 +1,0 @@
-6 8 twins
-mulch 1 1 0
-crank 1 3 0
-gecko 1 5 0
-doing 1 7 0
-!twins 2 3
-!twins 0 4
-!twins 0 3

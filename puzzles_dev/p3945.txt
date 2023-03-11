@@ -1,5 +1,0 @@
-6 9
-rainy 5 1 1
-tibia 1 2 0
-ripen 1 4 0
-irate 2 4 1

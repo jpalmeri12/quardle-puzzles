@@ -1,5 +1,0 @@
-7 8 fourscore
-alone 5 1 1
-wheel 2 3 1
-embed 2 5 0
-blond 1 7 0

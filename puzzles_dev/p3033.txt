@@ -1,5 +1,0 @@
-7 10
-husky 1 1 1
-youth 1 5 0
-ovary 2 5 1
-rumor 2 8 0

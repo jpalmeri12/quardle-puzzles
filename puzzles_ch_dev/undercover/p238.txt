@@ -1,6 +1,0 @@
-7 10 undercover
-aglow 1 1 0
-guise 2 1 1
-quick 4 3 1
-swung 2 4 0
-myrrh 1 9 0

@@ -1,5 +1,0 @@
-6 8 beta
-coyly 1 1 0
-lowly 4 1 1
-exert 2 3 1
-exalt 1 4 0

@@ -1,5 +1,0 @@
-7 10 beta
-thong 1 1 1
-glint 1 5 0
-trend 5 5 1
-ruler 2 7 0

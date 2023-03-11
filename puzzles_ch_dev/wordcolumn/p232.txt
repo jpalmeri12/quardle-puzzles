@@ -1,6 +1,0 @@
-7 10 wordcolumn
-throw 5 1 1
-light 2 2 1
-ivory 2 3 0
-shrew 1 5 0
-extol 4 5 1

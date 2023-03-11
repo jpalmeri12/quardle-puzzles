@@ -1,5 +1,0 @@
-7 10 spin
-crock 1 1 1
-kitty 1 5 0
-young 5 5 1
-virus 2 7 0

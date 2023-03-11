@@ -1,6 +1,0 @@
-7 9 island
-sinew 2 1 0
-envoy 5 1 1
-goody 2 4 1
-dowdy 1 5 0
-!island 311 11111 211 1111

@@ -1,5 +1,0 @@
-7 9 sweeper
-assay 1 1 0
-scuba 2 1 1
-bloat 2 4 0
-these 6 4 1

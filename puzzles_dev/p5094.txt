@@ -1,5 +1,0 @@
-7 9
-smith 5 1 1
-denim 1 2 0
-white 2 4 0
-hound 3 4 1

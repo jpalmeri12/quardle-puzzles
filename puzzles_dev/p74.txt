@@ -1,5 +1,0 @@
-7 10
-defer 4 1 1
-hurry 1 5 0
-ripen 3 5 1
-leaky 2 8 0

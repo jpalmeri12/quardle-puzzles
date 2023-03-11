@@ -1,5 +1,0 @@
-6 10 clockdown
-madam 1 1 1
-media 1 5 0
-doing 3 5 1
-idiot 1 7 0

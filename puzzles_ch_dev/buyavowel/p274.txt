@@ -1,5 +1,0 @@
-7 9 buyavowel
-askew 1 1 0
-sushi 2 1 1
-hutch 2 4 0
-hyper 6 4 1

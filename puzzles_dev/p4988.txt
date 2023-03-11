@@ -1,5 +1,0 @@
-7 10
-torch 6 1 1
-elide 2 5 1
-earth 2 5 0
-mirth 1 7 0

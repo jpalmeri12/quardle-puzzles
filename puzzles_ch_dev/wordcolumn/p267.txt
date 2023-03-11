@@ -1,6 +1,0 @@
-7 10 wordcolumn
-yield 4 1 1
-untie 2 5 1
-udder 2 5 0
-eaten 5 5 1
-stilt 1 7 0

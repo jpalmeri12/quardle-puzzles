@@ -1,5 +1,0 @@
-7 9
-mouth 6 1 1
-salon 2 4 1
-spilt 2 4 0
-knave 1 8 0

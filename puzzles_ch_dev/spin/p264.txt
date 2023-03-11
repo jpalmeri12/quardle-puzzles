@@ -1,5 +1,0 @@
-7 9 spin
-ozone 6 1 1
-basin 2 4 0
-above 3 4 1
-savvy 1 7 0

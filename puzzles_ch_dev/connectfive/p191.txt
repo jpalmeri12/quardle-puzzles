@@ -1,6 +1,0 @@
-7 10 connectfive
-screw 5 1 1
-adage 2 2 1
-decry 2 3 0
-aglow 1 5 0
-offer 4 5 1

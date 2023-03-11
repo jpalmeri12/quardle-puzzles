@@ -1,8 +1,0 @@
-6 8 twins
-ascot 1 1 0
-tumor 1 3 0
-major 1 5 0
-verso 1 7 0
-!twins 1 4
-!twins 3 4
-!twins 1 3

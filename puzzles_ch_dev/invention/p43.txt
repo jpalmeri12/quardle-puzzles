@@ -1,5 +1,0 @@
-7 9 invention
-maybe 2 1 0
-blade 5 1 1
-yield 1 4 0
-eight 3 4 1

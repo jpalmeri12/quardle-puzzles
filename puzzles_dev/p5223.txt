@@ -1,5 +1,0 @@
-7 10
-cleat 1 1 1
-torch 1 5 0
-ruddy 3 5 1
-hymen 2 9 0

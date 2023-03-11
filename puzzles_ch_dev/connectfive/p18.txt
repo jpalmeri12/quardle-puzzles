@@ -1,6 +1,0 @@
-7 8 connectfive
-crumb 1 1 1
-gecko 5 1 1
-manly 3 3 1
-banjo 1 5 0
-hyena 2 7 0

@@ -1,5 +1,0 @@
-6 7 soundscramble
-dittu 5 1 1
-bornt 2 2 1
-qoilt 1 3 0
-intru 1 5 0

@@ -1,6 +1,0 @@
-7 10 wordcolumn
-minus 1 1 1
-storm 4 4 1
-smote 1 5 0
-mangy 2 5 1
-gummy 2 8 0

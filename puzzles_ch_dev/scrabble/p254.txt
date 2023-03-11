@@ -1,5 +1,0 @@
-7 10 scrabble
-again 4 5 1
-metal 1 7 0
-whale 6 1 1
-awake 2 5 0

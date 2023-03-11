@@ -1,5 +1,0 @@
-7 10
-deuce 1 1 1
-eking 1 5 0
-inane 3 5 1
-madam 2 7 0

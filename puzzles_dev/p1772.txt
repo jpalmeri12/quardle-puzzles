@@ -1,5 +1,0 @@
-7 10
-chaff 2 1 1
-fault 2 5 0
-urban 4 5 1
-probe 1 7 0

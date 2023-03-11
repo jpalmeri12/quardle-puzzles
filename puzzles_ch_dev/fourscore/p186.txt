@@ -1,5 +1,0 @@
-7 9 fourscore
-visit 6 1 1
-fungi 2 4 0
-unify 3 4 1
-glyph 1 8 0

@@ -1,5 +1,0 @@
-7 8
-sting 5 1 1
-since 3 3 1
-giant 2 4 0
-crepe 1 7 0

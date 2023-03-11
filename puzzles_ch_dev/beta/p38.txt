@@ -1,5 +1,0 @@
-7 9 beta
-swear 1 1 0
-amend 4 1 1
-lunge 2 4 0
-lipid 2 4 1

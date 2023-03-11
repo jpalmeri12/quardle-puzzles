@@ -1,5 +1,0 @@
-7 9
-buddy 2 1 1
-adopt 1 4 0
-pulse 4 4 1
-taste 2 7 0

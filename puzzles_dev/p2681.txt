@@ -1,5 +1,0 @@
-6 9
-after 1 1 1
-fatal 1 2 0
-valve 5 4 1
-rumba 1 5 0

@@ -1,5 +1,0 @@
-7 7
-unite 4 1 1
-prone 1 2 0
-rival 2 2 1
-alert 2 5 0

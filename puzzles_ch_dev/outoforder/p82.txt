@@ -1,5 +1,0 @@
-7 10 outoforder
-train 6 1 1
-ashen 2 5 0
-strut 3 5 1
-exult 1 8 0

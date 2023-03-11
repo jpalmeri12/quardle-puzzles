@@ -1,7 +1,0 @@
-7 9 secretdistance
-allot 1 1 1
-prude 4 2 1
-opium 1 4 0
-query 2 6 0
-umbra 1 8 0
-!sdpos 0 2 3 1

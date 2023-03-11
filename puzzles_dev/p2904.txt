@@ -1,5 +1,0 @@
-7 9
-furor 1 1 1
-foggy 3 4 1
-roost 1 5 0
-aging 2 7 0

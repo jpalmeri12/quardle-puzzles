@@ -1,5 +1,0 @@
-7 9
-alive 2 1 1
-locus 2 2 0
-ivory 1 4 0
-randy 4 4 1

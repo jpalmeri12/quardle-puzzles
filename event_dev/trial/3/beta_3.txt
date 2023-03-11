@@ -1,5 +1,0 @@
-7 9 beta
-polyp 6 1 1
-paste 2 4 1
-pasty 2 4 0
-assay 1 6 0

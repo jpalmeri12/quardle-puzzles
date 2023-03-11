@@ -1,5 +1,0 @@
-6 9
-crush 1 1 1
-shine 1 4 0
-epoch 5 4 1
-tonic 1 7 0

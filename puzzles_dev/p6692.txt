@@ -1,5 +1,0 @@
-6 8
-argue 1 1 0
-utter 4 1 1
-squib 1 3 1
-queen 1 4 0

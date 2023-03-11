@@ -1,5 +1,0 @@
-7 7
-vogue 2 1 1
-owing 2 2 0
-nobly 5 2 1
-fetal 1 5 0

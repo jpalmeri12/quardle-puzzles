@@ -1,6 +1,0 @@
-7 9 island
-revel 2 1 1
-repel 2 1 0
-drown 4 4 1
-flora 1 5 0
-!island 211 22 2111 221

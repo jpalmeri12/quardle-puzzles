@@ -1,5 +1,0 @@
-7 10 frequency
-mafia 2 1 1
-alpha 2 2 0
-cameo 1 5 0
-mummy 3 5 1

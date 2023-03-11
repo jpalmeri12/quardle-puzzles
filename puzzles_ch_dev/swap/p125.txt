@@ -1,5 +1,0 @@
-7 8 swap
-lunra 2 1 0
-ucrvy 3 1 1
-piolt 1 3 1
-irver 1 4 0

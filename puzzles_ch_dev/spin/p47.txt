@@ -1,5 +1,0 @@
-6 10 spin
-shook 3 1 1
-sworn 1 3 0
-woken 1 5 0
-ovoid 2 5 1

@@ -1,5 +1,0 @@
-7 9 swap
-youht 2 1 1
-tnago 4 4 1
-tynig 2 5 0
-shvoe 1 8 0

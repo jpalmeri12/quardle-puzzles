@@ -1,5 +1,0 @@
-6 9
-snipe 1 1 1
-shock 1 1 0
-probe 1 4 0
-enjoy 5 4 1

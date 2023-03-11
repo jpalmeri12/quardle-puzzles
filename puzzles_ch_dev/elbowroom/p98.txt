@@ -1,5 +1,0 @@
-7 10 elbowroom
-abyss 1 1 0
-bicep 2 1 1
-phony 2 5 0
-young 6 5 1

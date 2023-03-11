@@ -1,5 +1,0 @@
-7 8 dblltr
-fifty 3 1 1
-recur 5 3 1
-latte 1 4 0
-curry 2 7 0

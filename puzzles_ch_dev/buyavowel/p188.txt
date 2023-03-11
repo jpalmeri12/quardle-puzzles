@@ -1,5 +1,0 @@
-7 10 buyavowel
-gavel 4 1 1
-beard 2 2 0
-ladle 1 5 0
-exist 5 5 1

@@ -1,6 +1,0 @@
-7 9 island
-ideal 4 1 1
-sadly 2 2 0
-papal 1 4 0
-ahead 2 4 1
-!island 2111 311 21 211

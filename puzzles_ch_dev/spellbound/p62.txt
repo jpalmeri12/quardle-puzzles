@@ -1,9 +1,0 @@
-7 9 spellbound
-stack 1 1 0
-tunic 2 1 1
-twice 5 4 1
-crawl 2 5 0
-!spellbound 0 3 4
-!spellbound 1 1 3
-!spellbound 2 3 4
-!spellbound 3 4 1

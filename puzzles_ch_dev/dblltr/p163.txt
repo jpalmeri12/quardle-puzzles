@@ -1,5 +1,0 @@
-7 8 dblltr
-greet 1 1 1
-proof 4 3 1
-tarot 1 5 0
-offal 2 7 0

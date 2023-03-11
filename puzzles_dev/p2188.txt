@@ -1,5 +1,0 @@
-6 9
-sauna 1 1 1
-abbot 1 2 0
-natal 1 4 0
-allow 4 4 1

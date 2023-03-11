@@ -1,5 +1,0 @@
-7 10
-preen 4 1 1
-prune 1 5 0
-rugby 2 5 1
-gayly 2 7 0

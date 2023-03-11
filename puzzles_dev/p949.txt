@@ -1,5 +1,0 @@
-7 8
-jewel 2 1 1
-ready 5 3 1
-eater 2 4 0
-boozy 1 7 0

@@ -1,5 +1,0 @@
-6 10 bestfit
-opera 1 1 1
-afoot 1 5 0
-fewer 2 5 1
-femme 1 8 0

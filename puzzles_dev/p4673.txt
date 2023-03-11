@@ -1,5 +1,0 @@
-6 9
-guilt 5 1 1
-snail 1 4 0
-nobly 2 4 1
-sleep 1 7 0

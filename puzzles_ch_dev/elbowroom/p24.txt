@@ -1,5 +1,0 @@
-6 10 elbowroom
-sushi 2 1 1
-mimic 1 5 0
-canny 5 5 1
-robin 1 7 0

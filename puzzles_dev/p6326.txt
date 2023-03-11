@@ -1,5 +1,0 @@
-6 10
-hurry 4 1 1
-scorn 1 3 0
-vinyl 1 5 0
-image 2 5 1

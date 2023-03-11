@@ -1,5 +1,0 @@
-7 9 skyscrapers
-slide 1 5 0
-ideal 4 4 1
-draft 2 7 0
-gloss 1 1 1

@@ -1,5 +1,0 @@
-7 9
-silly 2 1 0
-loath 5 1 1
-decay 2 4 1
-peach 1 5 0

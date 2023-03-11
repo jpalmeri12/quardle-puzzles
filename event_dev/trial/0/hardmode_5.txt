@@ -1,5 +1,0 @@
-7 7 hardmode
-voice 4 1 1
-actor 1 2 0
-cinch 2 2 1
-nicer 2 4 0

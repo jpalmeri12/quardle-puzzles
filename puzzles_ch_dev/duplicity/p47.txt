@@ -1,5 +1,0 @@
-7 8 duplicity
-biddy 2 1 0
-daddy 5 1 1
-blind 1 3 0
-inlay 3 3 1

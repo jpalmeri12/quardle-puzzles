@@ -1,5 +1,0 @@
-6 10 skyscrapers
-upset 1 2 0
-stage 5 1 1
-bible 1 5 0
-inbox 2 5 1

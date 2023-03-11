@@ -1,5 +1,0 @@
-6 9
-motto 1 1 0
-orbit 5 1 1
-alibi 1 4 0
-ankle 1 4 1

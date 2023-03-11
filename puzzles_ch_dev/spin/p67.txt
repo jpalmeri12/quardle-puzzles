@@ -1,5 +1,0 @@
-6 9 spin
-toddy 3 1 1
-known 1 2 0
-giddy 1 4 0
-yield 5 4 1

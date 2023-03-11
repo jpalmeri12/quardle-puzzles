@@ -1,5 +1,0 @@
-7 10
-detox 5 1 1
-relax 1 5 0
-abode 4 5 1
-madly 2 8 0

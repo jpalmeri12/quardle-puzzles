@@ -1,7 +1,0 @@
-7 11 secretdistance
-ulcer 2 1 1
-large 2 2 0
-death 1 4 0
-tiara 4 4 1
-decal 1 10 0
-!sdpos 2 3 0 0

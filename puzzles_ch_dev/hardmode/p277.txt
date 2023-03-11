@@ -1,5 +1,0 @@
-7 10 hardmode
-scuba 2 1 0
-borne 5 1 1
-spire 1 5 0
-prude 2 5 1

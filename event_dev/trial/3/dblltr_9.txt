@@ -1,5 +1,0 @@
-7 8 dblltr
-trait 4 1 1
-myrrh 1 2 0
-offer 6 3 1
-whiff 2 4 0

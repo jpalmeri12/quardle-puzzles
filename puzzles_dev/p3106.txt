@@ -1,5 +1,0 @@
-7 10
-tread 6 1 1
-third 2 5 0
-heave 3 5 1
-quark 1 7 0

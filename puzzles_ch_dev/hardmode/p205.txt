@@ -1,5 +1,0 @@
-7 9 hardmode
-chart 5 1 1
-shush 1 2 0
-snare 2 4 0
-snort 2 4 1

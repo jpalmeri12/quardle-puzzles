@@ -1,5 +1,0 @@
-7 9
-syrup 4 1 1
-mucus 2 4 1
-mouse 2 4 0
-juicy 1 7 0

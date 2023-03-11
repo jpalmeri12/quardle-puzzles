@@ -1,5 +1,0 @@
-7 9 fourscore
-story 6 1 1
-hunky 2 4 1
-humor 2 4 0
-skirt 1 7 0

@@ -1,5 +1,0 @@
-7 10
-smack 6 1 1
-clerk 2 5 1
-chick 2 5 0
-prove 1 8 0

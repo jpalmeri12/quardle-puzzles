@@ -1,5 +1,0 @@
-6 9
-sharp 2 1 1
-badge 4 4 1
-splat 1 5 0
-matey 1 8 0

@@ -1,5 +1,0 @@
-7 7 frequency
-agile 2 1 1
-growl 2 2 0
-wryly 5 2 1
-slimy 1 4 0

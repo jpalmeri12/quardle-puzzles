@@ -1,5 +1,0 @@
-7 8 unloved
-serve 1 1 0
-ethic 2 1 1
-hover 2 3 0
-rainy 6 3 1

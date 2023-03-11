@@ -1,5 +1,0 @@
-7 9 outoforder
-mamma 5 1 1
-hyena 1 2 0
-cliff 3 4 1
-algae 2 5 0

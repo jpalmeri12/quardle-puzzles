@@ -1,5 +1,0 @@
-6 10 beta
-drift 1 1 0
-flint 4 1 1
-zesty 1 5 0
-yield 5 5 1

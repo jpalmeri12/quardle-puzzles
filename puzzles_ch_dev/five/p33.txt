@@ -1,6 +1,0 @@
-7 10 five
-clear 5 1 1
-psalm 2 2 0
-elder 1 5 0
-evade 4 5 1
-goner 1 9 0

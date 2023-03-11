@@ -1,5 +1,0 @@
-6 9 outoforder
-comic 4 1 1
-tutor 1 2 0
-unlit 1 4 0
-natal 2 4 1

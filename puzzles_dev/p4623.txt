@@ -1,5 +1,0 @@
-6 8
-condo 1 1 0
-oddly 5 1 1
-dolly 1 3 1
-offal 1 4 0

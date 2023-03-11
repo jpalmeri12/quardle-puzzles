@@ -1,5 +1,0 @@
-6 10
-swept 4 1 1
-steer 1 3 0
-waltz 1 5 0
-avail 2 5 1

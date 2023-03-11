@@ -1,9 +1,0 @@
-7 10 beforeafter
-sushi 4 1 1
-pupil 1 5 0
-puree 3 5 1
-hello 2 8 0
-!beforeafter 2 r
-!beforeafter 2 n
-!beforeafter 2 j
-!beforeafter 1 j

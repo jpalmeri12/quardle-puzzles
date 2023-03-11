@@ -1,5 +1,0 @@
-7 8 clockdown
-ovate 2 1 0
-tryst 5 1 1
-newly 1 3 0
-eerie 2 3 1

@@ -1,5 +1,0 @@
-7 8 invention
-nurse 5 1 1
-trope 2 3 1
-truss 1 4 0
-eager 2 7 0

@@ -1,5 +1,0 @@
-7 7 dblltr
-pooch 2 1 1
-moose 1 2 0
-surer 4 2 1
-carry 2 4 0

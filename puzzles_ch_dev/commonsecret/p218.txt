@@ -1,6 +1,0 @@
-7 9 commonsecret
-later 4 1 1
-heard 2 2 0
-maker 1 4 0
-merge 1 4 1
-!secret r

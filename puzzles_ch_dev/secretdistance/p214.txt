@@ -1,7 +1,0 @@
-7 12 secretdistance
-ditto 4 1 1
-spool 2 5 0
-pygmy 3 5 1
-nomad 1 8 0
-aloof 1 11 0
-!sdpos 1 2 0 3

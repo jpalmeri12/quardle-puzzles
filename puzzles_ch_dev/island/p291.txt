@@ -1,6 +1,0 @@
-7 8 island
-swami 2 1 1
-scold 2 1 0
-loyal 5 3 1
-filmy 1 5 0
-!island 311 32 211 11111

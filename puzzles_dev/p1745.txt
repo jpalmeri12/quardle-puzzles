@@ -1,5 +1,0 @@
-7 8
-rupee 2 1 1
-plait 2 3 0
-inner 5 3 1
-altar 1 7 0

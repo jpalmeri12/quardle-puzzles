@@ -1,5 +1,0 @@
-7 8 reverse
-emyht 6 1 1
-fiery 2 3 0
-idiom 3 3 1
-namuh 1 7 0

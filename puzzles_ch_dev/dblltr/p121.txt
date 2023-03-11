@@ -1,5 +1,0 @@
-6 6 dblltr
-linen 1 1 0
-igloo 2 1 1
-never 5 1 1
-rotor 1 5 0

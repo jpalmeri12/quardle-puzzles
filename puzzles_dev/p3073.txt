@@ -1,5 +1,0 @@
-7 9
-verso 5 1 1
-gauge 1 2 0
-mossy 2 4 0
-octet 3 4 1

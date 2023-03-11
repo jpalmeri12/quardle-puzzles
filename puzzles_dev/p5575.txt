@@ -1,5 +1,0 @@
-7 10
-rugby 4 1 1
-satyr 1 5 0
-renal 5 5 1
-exult 2 9 0

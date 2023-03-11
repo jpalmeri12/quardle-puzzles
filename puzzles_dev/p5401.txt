@@ -1,5 +1,0 @@
-7 10
-bluff 5 1 1
-avail 1 2 0
-shift 2 5 0
-heath 3 5 1

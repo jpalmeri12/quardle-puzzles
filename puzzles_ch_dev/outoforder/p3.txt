@@ -1,5 +1,0 @@
-7 8 outoforder
-foamy 1 1 0
-mason 4 1 1
-visor 2 3 0
-vowel 2 3 1

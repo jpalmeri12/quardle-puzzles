@@ -1,5 +1,0 @@
-6 9 dblltr
-reedy 4 1 1
-erode 1 4 0
-rally 2 4 1
-elope 1 7 0

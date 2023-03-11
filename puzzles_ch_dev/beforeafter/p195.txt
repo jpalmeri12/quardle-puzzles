@@ -1,9 +1,0 @@
-7 9 beforeafter
-speak 1 1 1
-abhor 1 4 0
-heist 3 4 1
-minty 2 6 0
-!beforeafter 1 l
-!beforeafter 2 i
-!beforeafter 2 r
-!beforeafter 2 p

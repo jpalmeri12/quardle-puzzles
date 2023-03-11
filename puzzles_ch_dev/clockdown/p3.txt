@@ -1,5 +1,0 @@
-7 9 clockdown
-banjo 2 1 1
-jumbo 2 4 0
-blown 5 4 1
-threw 1 7 0

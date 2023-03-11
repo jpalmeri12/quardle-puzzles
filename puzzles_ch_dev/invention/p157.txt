@@ -1,5 +1,0 @@
-7 9 invention
-tunic 5 1 1
-kebab 3 4 1
-peach 2 5 0
-flair 1 7 0

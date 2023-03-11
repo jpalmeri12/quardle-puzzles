@@ -1,5 +1,0 @@
-6 7 soundscramble
-serur 4 1 1
-scoer 1 2 0
-conch 2 2 1
-enfud 1 4 0

@@ -1,9 +1,0 @@
-7 9 beforeafter
-usual 3 1 1
-fairy 2 4 0
-rough 5 4 1
-sprig 1 7 0
-!beforeafter 2 r
-!beforeafter 2 k
-!beforeafter 2 n
-!beforeafter 2 l

@@ -1,6 +1,0 @@
-7 9 island
-coral 5 1 1
-lasso 1 2 0
-steal 2 4 0
-tease 3 4 1
-!island 2111 22 311 31

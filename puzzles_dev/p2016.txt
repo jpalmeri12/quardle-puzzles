@@ -1,5 +1,0 @@
-7 10
-avoid 4 1 1
-pedal 2 5 0
-eclat 3 5 1
-baler 1 7 0

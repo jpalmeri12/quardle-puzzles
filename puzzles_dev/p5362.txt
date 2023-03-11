@@ -1,5 +1,0 @@
-7 8
-wooer 1 1 0
-ounce 2 1 1
-ninny 2 3 0
-neigh 4 3 1

@@ -1,5 +1,0 @@
-7 9 unloved
-deign 6 1 1
-lilac 4 4 1
-union 2 5 0
-algae 1 7 0

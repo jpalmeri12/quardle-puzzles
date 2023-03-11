@@ -1,5 +1,0 @@
-7 10
-slack 5 1 1
-mocha 1 3 0
-picky 2 5 0
-pitch 2 5 1

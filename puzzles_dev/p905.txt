@@ -1,5 +1,0 @@
-7 8
-rearm 2 1 0
-elect 3 1 1
-theta 5 3 1
-bathe 1 5 0

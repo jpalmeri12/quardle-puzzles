@@ -1,5 +1,0 @@
-7 10 duplicity
-slyly 6 1 1
-folly 2 5 0
-floor 2 5 1
-sorry 1 7 0

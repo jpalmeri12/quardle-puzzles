@@ -1,5 +1,0 @@
-7 9
-equal 2 1 0
-acrid 5 1 1
-chili 1 4 0
-inlet 3 4 1

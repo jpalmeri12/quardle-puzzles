@@ -1,5 +1,0 @@
-7 9 dblltr
-elegy 6 1 1
-aroma 4 4 1
-marry 2 5 0
-gamma 1 7 0

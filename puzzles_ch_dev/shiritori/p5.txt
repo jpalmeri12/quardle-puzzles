@@ -1,5 +1,0 @@
-6 8 shiritori
-evade 1 1 1
-tenet 4 3 1
-deter 1 4 0
-delta 1 7 0

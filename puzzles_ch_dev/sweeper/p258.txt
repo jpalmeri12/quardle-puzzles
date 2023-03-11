@@ -1,5 +1,0 @@
-6 7 sweeper
-storm 5 1 1
-afoot 1 2 0
-frost 2 2 1
-psalm 1 5 0

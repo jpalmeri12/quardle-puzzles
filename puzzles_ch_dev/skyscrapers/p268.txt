@@ -1,5 +1,0 @@
-7 7 skyscrapers
-union 1 5 0
-idiom 4 2 1
-drive 2 2 0
-admin 2 1 1

@@ -1,5 +1,0 @@
-7 7 darkness
-khaki 1 5 0
-those 2 2 0
-theta 3 1 1
-squib 5 2 1

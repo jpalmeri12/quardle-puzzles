@@ -1,5 +1,0 @@
-6 9
-cress 2 1 1
-tripe 1 2 0
-usual 1 4 0
-labor 5 4 1

@@ -1,6 +1,0 @@
-7 9 wordcolumn
-midge 2 1 0
-duchy 4 1 1
-admit 2 4 1
-ashen 2 4 0
-vista 1 7 0

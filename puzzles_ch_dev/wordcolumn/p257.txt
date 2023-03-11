@@ -1,6 +1,0 @@
-7 12 wordcolumn
-vinyl 6 1 1
-dopey 2 4 0
-point 4 4 1
-fresh 2 7 1
-wrote 1 8 0

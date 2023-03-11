@@ -1,5 +1,0 @@
-7 9 invention
-frond 6 1 1
-rerun 2 4 0
-ridge 2 4 1
-odder 1 6 0

@@ -1,5 +1,0 @@
-7 10
-dusky 3 1 1
-sissy 1 3 0
-eying 2 5 0
-inner 4 5 1

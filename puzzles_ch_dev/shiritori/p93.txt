@@ -1,5 +1,0 @@
-7 9 shiritori
-abhor 3 1 1
-aloof 1 4 0
-fetid 5 4 1
-tulip 2 7 0

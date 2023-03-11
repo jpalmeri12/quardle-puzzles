@@ -1,5 +1,0 @@
-6 9 altending
-daunt 1 1 0
-grand 1 3 0
-bloke 1 5 0
-spiny 1 7 0

@@ -1,5 +1,0 @@
-7 9
-clout 2 1 1
-udder 2 4 0
-drift 4 4 1
-shift 1 7 0

@@ -1,5 +1,0 @@
-6 7 swap
-grsap 3 1 1
-mipel 1 2 1
-ifshy 1 3 0
-erpel 1 5 0

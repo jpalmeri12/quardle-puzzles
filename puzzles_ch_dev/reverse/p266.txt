@@ -1,5 +1,0 @@
-6 10 reverse
-trohs 1 1 1
-stain 1 5 0
-afoot 3 5 1
-esorp 1 8 0

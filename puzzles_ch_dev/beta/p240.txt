@@ -1,5 +1,0 @@
-6 7 beta
-oxide 2 1 1
-axiom 1 2 0
-melon 5 2 1
-gecko 1 5 0

@@ -1,5 +1,0 @@
-7 10 spin
-basal 4 1 1
-scrum 2 5 1
-salad 2 5 0
-wrath 1 7 0

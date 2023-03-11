@@ -1,6 +1,0 @@
-6 8 squaredance
-perch 1 1 1
-eject 5 1 1
-penne 1 1 0
-hoist 1 5 0
-clear 1 7 0

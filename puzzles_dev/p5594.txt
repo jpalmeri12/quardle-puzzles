@@ -1,5 +1,0 @@
-7 8
-carat 1 1 1
-awash 3 3 1
-twang 1 5 0
-shaft 2 7 0

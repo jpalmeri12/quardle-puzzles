@@ -1,7 +1,0 @@
-7 10 secretdistance
-scene 1 1 0
-creme 2 1 1
-cried 6 3 1
-minor 2 4 0
-miner 1 9 0
-!sdpos 2 1 2 1

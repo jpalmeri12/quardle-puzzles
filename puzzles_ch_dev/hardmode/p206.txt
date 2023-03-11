@@ -1,5 +1,0 @@
-7 9 hardmode
-modem 6 1 1
-usage 2 4 0
-spend 3 4 1
-chest 1 6 0

@@ -1,5 +1,0 @@
-7 9
-beset 4 1 1
-tweet 2 4 1
-swath 1 5 0
-tweak 2 8 0

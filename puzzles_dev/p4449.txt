@@ -1,5 +1,0 @@
-7 9
-crier 4 1 1
-peril 2 2 0
-sinew 1 4 0
-iliac 2 4 1

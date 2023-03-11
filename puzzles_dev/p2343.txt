@@ -1,5 +1,0 @@
-7 9
-matey 6 1 1
-imbue 2 4 0
-breed 4 4 1
-covey 1 6 0

@@ -1,5 +1,0 @@
-7 7 scrabble
-terra 3 1 1
-stage 1 5 0
-serif 2 2 0
-impel 5 2 1

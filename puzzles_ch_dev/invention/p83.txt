@@ -1,5 +1,0 @@
-6 6 invention
-deter 2 1 1
-nanny 5 1 1
-terra 1 2 0
-deign 1 4 0

@@ -1,5 +1,0 @@
-7 10 darkness
-stone 1 8 0
-aloof 3 5 1
-mason 2 5 0
-nylon 6 1 1

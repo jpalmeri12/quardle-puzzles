@@ -1,5 +1,0 @@
-7 10 clockdown
-skimp 2 1 1
-karma 2 2 0
-spike 1 5 0
-shave 1 5 1

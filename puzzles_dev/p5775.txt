@@ -1,5 +1,0 @@
-7 8
-froth 6 1 1
-mango 2 3 0
-nurse 4 3 1
-scree 1 7 0

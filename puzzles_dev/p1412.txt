@@ -1,5 +1,0 @@
-7 10
-chess 1 1 1
-stark 1 5 0
-repay 4 5 1
-rapid 2 7 0

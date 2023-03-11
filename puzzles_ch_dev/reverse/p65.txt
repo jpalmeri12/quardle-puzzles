@@ -1,5 +1,0 @@
-6 8 reverse
-brisk 1 1 0
-ssorg 4 1 1
-abhor 1 3 0
-borht 2 3 1

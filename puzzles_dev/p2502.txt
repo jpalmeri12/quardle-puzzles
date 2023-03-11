@@ -1,5 +1,0 @@
-6 9
-medic 1 1 0
-ether 2 1 1
-dealt 1 4 0
-thief 5 4 1

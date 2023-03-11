@@ -1,5 +1,0 @@
-7 10
-verse 4 1 1
-diver 1 5 0
-visit 3 5 1
-stark 2 9 0

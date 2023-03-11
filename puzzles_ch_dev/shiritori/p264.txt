@@ -1,5 +1,0 @@
-7 7 shiritori
-snipe 5 1 1
-suing 2 2 0
-satyr 2 2 1
-stump 1 4 0

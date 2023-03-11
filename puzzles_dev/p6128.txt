@@ -1,5 +1,0 @@
-6 7
-tower 1 1 1
-optic 1 2 0
-tense 3 2 1
-risky 1 5 0

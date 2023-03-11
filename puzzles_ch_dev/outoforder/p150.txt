@@ -1,5 +1,0 @@
-6 7 outoforder
-helix 4 1 1
-umbra 2 2 1
-amply 1 3 0
-proxy 1 5 0

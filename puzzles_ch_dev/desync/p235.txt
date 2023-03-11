@@ -1,5 +1,0 @@
-7 7 desync
-inlay 5 1 1
-prune 2 2 0
-posse 2 2 1
-assay 1 5 0

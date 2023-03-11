@@ -1,5 +1,0 @@
-7 9 skyscrapers
-liege 2 4 0
-linen 2 4 1
-anode 1 8 0
-deign 5 1 1

@@ -1,5 +1,0 @@
-7 7 spaced
-gavel 5 1 1
-octal 2 2 1
-clove 2 3 0
-hazel 1 5 0

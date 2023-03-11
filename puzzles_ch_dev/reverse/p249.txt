@@ -1,5 +1,0 @@
-6 10 reverse
-lodge 3 1 1
-neerp 1 5 0
-prose 5 5 1
-redlo 1 7 0

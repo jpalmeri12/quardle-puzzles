@@ -1,5 +1,0 @@
-7 9
-stork 6 1 1
-visor 4 4 1
-chick 2 5 0
-start 1 8 0

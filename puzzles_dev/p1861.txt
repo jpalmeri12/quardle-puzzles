@@ -1,5 +1,0 @@
-6 9
-trial 1 1 0
-aroma 4 1 1
-magma 1 4 0
-medic 1 4 1

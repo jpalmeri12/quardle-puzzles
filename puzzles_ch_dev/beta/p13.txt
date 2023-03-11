@@ -1,5 +1,0 @@
-7 9 beta
-local 5 1 1
-bingo 1 2 0
-octal 2 4 1
-chill 2 5 0

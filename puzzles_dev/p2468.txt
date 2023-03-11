@@ -1,5 +1,0 @@
-6 8
-fjord 2 1 1
-smite 4 3 1
-crump 1 4 0
-alter 1 7 0

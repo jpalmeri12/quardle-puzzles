@@ -1,6 +1,0 @@
-6 11 wordcolumn
-waxen 4 1 1
-amber 1 4 0
-moist 2 4 1
-flint 5 6 1
-usual 1 7 0

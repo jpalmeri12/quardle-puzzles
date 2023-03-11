@@ -1,5 +1,0 @@
-7 10 spin
-rerun 4 1 1
-bevel 1 2 0
-minim 2 5 0
-inlet 5 5 1

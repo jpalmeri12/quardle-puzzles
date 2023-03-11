@@ -1,5 +1,0 @@
-6 9
-liner 5 1 1
-guile 1 4 0
-ultra 2 4 1
-manor 1 8 0

@@ -1,6 +1,0 @@
-6 12 drop
-gusto 4 1 1
-scoop 1 5 0
-plead 5 5 1
-masse 1 7 0
-arose 1 11 0

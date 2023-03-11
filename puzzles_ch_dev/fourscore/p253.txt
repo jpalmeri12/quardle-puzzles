@@ -1,5 +1,0 @@
-6 10 fourscore
-dirty 4 1 1
-vinyl 1 5 0
-iliac 2 5 1
-scold 1 9 0

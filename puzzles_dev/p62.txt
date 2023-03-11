@@ -1,5 +1,0 @@
-7 9
-noisy 1 1 0
-youth 5 1 1
-chute 2 4 0
-hoard 3 4 1

@@ -1,5 +1,0 @@
-7 8
-askew 2 1 1
-agony 2 1 0
-skunk 1 3 0
-knack 5 3 1

@@ -1,9 +1,0 @@
-6 7 spellbound
-lefty 5 1 1
-abode 1 2 0
-bloom 2 2 1
-mossy 1 5 0
-!spellbound 0 2 3
-!spellbound 1 2 3
-!spellbound 2 1 4
-!spellbound 3 3 0

@@ -1,5 +1,0 @@
-7 9 bestfit
-affix 2 1 0
-forty 3 1 1
-octal 1 4 0
-omega 1 4 1

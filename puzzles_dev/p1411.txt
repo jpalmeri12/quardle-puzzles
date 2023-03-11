@@ -1,5 +1,0 @@
-7 9
-quart 4 1 1
-guard 1 4 0
-under 2 4 1
-edify 2 7 0

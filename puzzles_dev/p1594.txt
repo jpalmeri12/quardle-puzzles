@@ -1,5 +1,0 @@
-7 10
-chart 2 1 1
-gayer 1 3 0
-tasty 2 5 0
-assay 3 5 1

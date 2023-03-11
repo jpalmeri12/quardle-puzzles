@@ -1,5 +1,0 @@
-6 9
-rumor 3 1 1
-diode 1 4 0
-eagle 5 4 1
-blare 1 8 0

@@ -1,5 +1,0 @@
-6 7 invention
-thyme 5 1 1
-abled 3 2 1
-tabby 1 3 0
-queue 1 5 0

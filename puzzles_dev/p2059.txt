@@ -1,5 +1,0 @@
-6 9
-slung 4 1 1
-panic 1 4 1
-plank 1 4 0
-imply 1 7 0

@@ -1,5 +1,0 @@
-7 9 skyscrapers
-slack 2 7 0
-tulle 3 4 1
-antic 1 4 0
-begat 1 1 1

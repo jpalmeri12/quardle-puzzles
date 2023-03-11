@@ -1,6 +1,0 @@
-7 9 connectfive
-snail 4 1 1
-banjo 2 2 0
-sushi 2 4 1
-fully 1 5 0
-hunky 2 7 0

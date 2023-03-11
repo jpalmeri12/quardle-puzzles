@@ -1,5 +1,0 @@
-7 9 fourscore
-tenet 5 1 1
-swept 2 4 1
-waltz 2 5 0
-space 1 7 0

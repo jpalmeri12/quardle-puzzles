@@ -1,5 +1,0 @@
-6 6 bestfit
-nylon 1 1 1
-suite 4 1 1
-lipid 1 3 0
-navel 1 5 0

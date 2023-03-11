@@ -1,5 +1,0 @@
-7 10 beta
-macaw 5 1 1
-voice 2 3 0
-allow 1 5 0
-onset 4 5 1

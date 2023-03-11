@@ -1,5 +1,0 @@
-7 10
-truth 5 1 1
-snarl 2 2 0
-batch 1 5 0
-brave 1 5 1

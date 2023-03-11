@@ -1,5 +1,0 @@
-7 10 spaced
-below 5 1 1
-hyper 2 2 0
-sinew 1 5 0
-eking 4 5 1

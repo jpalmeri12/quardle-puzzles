@@ -1,5 +1,0 @@
-7 8 spin
-demon 2 1 1
-mealy 2 3 0
-loath 5 3 1
-youth 1 7 0

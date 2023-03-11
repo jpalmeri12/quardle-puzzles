@@ -1,5 +1,0 @@
-7 10
-prior 2 1 1
-rower 2 5 0
-oddly 3 5 1
-hedge 1 7 0

@@ -1,5 +1,0 @@
-7 7
-regal 1 1 0
-enter 2 1 1
-trump 6 2 1
-tumor 2 3 0

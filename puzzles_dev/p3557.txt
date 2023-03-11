@@ -1,5 +1,0 @@
-7 9
-poser 2 1 1
-parka 2 1 0
-seven 1 4 0
-nasal 5 4 1

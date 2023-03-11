@@ -1,6 +1,0 @@
-7 12 drop
-cheap 2 1 1
-pluck 2 5 0
-carat 5 5 1
-cover 1 7 0
-recap 1 11 0

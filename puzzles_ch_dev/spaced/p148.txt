@@ -1,5 +1,0 @@
-7 9 spaced
-other 1 1 0
-husky 3 1 1
-skimp 2 4 0
-penal 6 4 1

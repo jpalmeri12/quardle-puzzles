@@ -1,5 +1,0 @@
-6 10 bestfit
-shrub 3 1 1
-ether 1 2 0
-tibia 1 5 0
-itchy 4 5 1

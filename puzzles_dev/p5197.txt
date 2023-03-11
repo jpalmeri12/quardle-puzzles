@@ -1,5 +1,0 @@
-7 9
-grape 1 1 1
-pound 1 4 0
-nobly 4 4 1
-gayly 2 8 0

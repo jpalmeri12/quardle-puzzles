@@ -1,5 +1,0 @@
-7 9
-baron 4 1 1
-whirl 2 4 1
-chant 1 5 0
-lefty 2 8 0

@@ -1,5 +1,0 @@
-7 10
-weary 2 1 1
-early 2 2 0
-lying 1 5 0
-lynch 1 5 1

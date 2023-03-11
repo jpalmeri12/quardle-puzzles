@@ -1,5 +1,0 @@
-7 10
-aisle 3 1 1
-liver 2 2 0
-creme 1 5 0
-candy 1 5 1

@@ -1,5 +1,0 @@
-7 9 spin
-parka 5 1 1
-legal 2 2 0
-creek 1 4 0
-rearm 2 4 1

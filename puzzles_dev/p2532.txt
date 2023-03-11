@@ -1,5 +1,0 @@
-7 8
-weigh 6 1 1
-khaki 2 3 0
-among 4 3 1
-stunt 1 6 0

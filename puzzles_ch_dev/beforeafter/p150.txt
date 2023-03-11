@@ -1,9 +1,0 @@
-7 8 beforeafter
-ghoul 3 1 1
-abhor 1 2 0
-flour 6 3 1
-quail 2 4 0
-!beforeafter 1 j
-!beforeafter 2 m
-!beforeafter 1 m
-!beforeafter 1 m

@@ -1,5 +1,0 @@
-7 9
-spoof 6 1 1
-metro 2 4 0
-epoxy 3 4 1
-grown 1 6 0

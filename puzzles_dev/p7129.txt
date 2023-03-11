@@ -1,5 +1,0 @@
-6 7
-snuff 5 1 1
-chain 1 2 0
-adore 3 2 1
-serif 1 5 0

@@ -1,5 +1,0 @@
-7 9
-sauce 2 1 1
-cramp 2 4 0
-meant 5 4 1
-joint 1 8 0

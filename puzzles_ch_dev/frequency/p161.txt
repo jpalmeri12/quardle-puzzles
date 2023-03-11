@@ -1,5 +1,0 @@
-7 8 frequency
-hotly 2 1 0
-trend 4 1 1
-rider 1 3 0
-ratio 1 3 1

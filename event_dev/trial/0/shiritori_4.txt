@@ -1,5 +1,0 @@
-7 8 shiritori
-forum 4 1 1
-scare 2 3 1
-churn 2 4 0
-verge 1 7 0

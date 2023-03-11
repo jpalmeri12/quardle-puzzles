@@ -1,5 +1,0 @@
-7 9
-burnt 4 1 1
-stunt 2 2 0
-plunk 1 4 0
-learn 2 4 1

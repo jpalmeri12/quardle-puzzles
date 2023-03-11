@@ -1,9 +1,0 @@
-7 7 beforeafter
-stain 2 1 1
-topic 2 2 0
-prude 4 2 1
-snide 1 5 0
-!beforeafter 1 p
-!beforeafter 2 k
-!beforeafter 2 o
-!beforeafter 1 k

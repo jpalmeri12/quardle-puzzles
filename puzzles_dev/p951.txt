@@ -1,5 +1,0 @@
-6 10
-abode 5 1 1
-flume 1 5 0
-light 2 5 1
-stave 1 9 0

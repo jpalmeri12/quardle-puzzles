@@ -1,5 +1,0 @@
-6 9
-cleat 2 1 1
-blurb 1 2 0
-prawn 4 4 1
-start 1 5 0

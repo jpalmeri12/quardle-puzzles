@@ -1,5 +1,0 @@
-7 10
-brunt 4 1 1
-chirp 1 2 0
-antic 2 5 0
-ninja 3 5 1

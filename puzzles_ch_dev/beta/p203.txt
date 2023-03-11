@@ -1,5 +1,0 @@
-7 9 beta
-giddy 2 1 0
-dusky 4 1 1
-awake 1 4 0
-abort 1 4 1

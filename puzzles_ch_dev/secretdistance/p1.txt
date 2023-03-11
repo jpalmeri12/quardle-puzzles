@@ -1,7 +1,0 @@
-7 12 secretdistance
-venom 6 1 1
-sperm 2 5 0
-pansy 3 5 1
-donor 1 7 0
-hutch 1 11 0
-!sdpos 0 2 2 1

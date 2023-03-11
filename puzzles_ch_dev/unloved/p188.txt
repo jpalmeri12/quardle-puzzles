@@ -1,5 +1,0 @@
-7 7 unloved
-scare 1 1 1
-churn 1 2 0
-ninth 5 2 1
-pithy 2 6 0

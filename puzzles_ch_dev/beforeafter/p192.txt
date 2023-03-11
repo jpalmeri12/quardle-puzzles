@@ -1,9 +1,0 @@
-6 9 beforeafter
-dealt 1 1 1
-ebony 1 2 0
-gipsy 4 4 1
-topic 1 5 0
-!beforeafter 2 i
-!beforeafter 1 i
-!beforeafter 1 k
-!beforeafter 2 j

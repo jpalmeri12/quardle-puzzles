@@ -1,5 +1,0 @@
-7 9
-paper 5 1 1
-sneer 2 4 0
-since 2 4 1
-cease 1 8 0

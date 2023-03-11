@@ -1,5 +1,0 @@
-7 9
-burly 1 1 0
-young 5 1 1
-stony 2 4 0
-tally 3 4 1

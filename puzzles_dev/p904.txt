@@ -1,5 +1,0 @@
-7 9
-eaten 5 1 1
-splat 2 2 0
-brave 1 4 0
-brook 1 4 1

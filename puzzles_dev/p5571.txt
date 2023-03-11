@@ -1,5 +1,0 @@
-7 9
-ratty 1 1 0
-admit 2 1 1
-irate 2 4 0
-torso 5 4 1

@@ -1,6 +1,0 @@
-7 11 drop
-gavel 2 1 1
-smart 5 4 1
-loamy 2 5 0
-later 1 7 0
-surly 1 10 0

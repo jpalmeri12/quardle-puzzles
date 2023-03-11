@@ -1,5 +1,0 @@
-6 9 dblltr
-hedge 1 1 0
-egret 5 1 1
-verge 1 4 1
-elect 1 5 0

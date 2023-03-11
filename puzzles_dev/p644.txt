@@ -1,5 +1,0 @@
-7 10
-slick 5 1 1
-parka 2 5 0
-abate 3 5 1
-drain 1 7 0

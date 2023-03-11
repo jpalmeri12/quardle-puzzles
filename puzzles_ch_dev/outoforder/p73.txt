@@ -1,5 +1,0 @@
-7 10 outoforder
-birch 2 1 1
-liege 1 2 0
-humid 2 5 0
-dully 6 5 1

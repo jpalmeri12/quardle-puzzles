@@ -1,5 +1,0 @@
-7 8
-madly 5 1 1
-stuck 2 3 1
-troll 2 4 0
-skiff 1 7 0

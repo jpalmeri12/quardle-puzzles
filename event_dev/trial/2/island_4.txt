@@ -1,6 +1,0 @@
-7 8 island
-stage 1 1 0
-guess 4 1 1
-fatty 6 3 1
-posit 2 5 0
-!island 32 211 31 311

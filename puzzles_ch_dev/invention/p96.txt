@@ -1,5 +1,0 @@
-6 9 invention
-khaki 3 1 1
-leaky 5 4 1
-trite 1 5 0
-freak 1 7 0

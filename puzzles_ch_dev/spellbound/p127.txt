@@ -1,9 +1,0 @@
-6 10 spellbound
-comma 2 1 1
-smoky 1 3 0
-eaten 1 5 0
-event 1 5 1
-!spellbound 0 3 0
-!spellbound 1 0 3
-!spellbound 2 2 3
-!spellbound 3 2 1

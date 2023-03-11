@@ -1,5 +1,0 @@
-7 10
-idiom 2 1 1
-oddly 1 2 0
-micro 2 5 0
-oxide 6 5 1

@@ -1,5 +1,0 @@
-7 10 frequency
-girly 1 1 0
-rodeo 3 1 1
-nobly 2 5 0
-bless 4 5 1

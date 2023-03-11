@@ -1,6 +1,0 @@
-6 10 wordcolumn
-fauna 1 1 1
-fugue 1 1 0
-again 1 5 0
-grace 2 5 1
-yearn 1 9 0

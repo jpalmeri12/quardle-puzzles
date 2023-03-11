@@ -1,7 +1,0 @@
-6 6 fourthwall
-ficus 1 1 0
-furor 1 1 1
-raven 1 3 0
-civil 3 1 1
-ruler 1 5 0
-saner 5 1 1

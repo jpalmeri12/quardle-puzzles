@@ -1,9 +1,0 @@
-7 8 beforeafter
-marry 3 1 1
-trade 1 2 0
-skiff 6 3 1
-wreck 2 4 0
-!beforeafter 1 o
-!beforeafter 1 n
-!beforeafter 1 j
-!beforeafter 1 l

@@ -1,5 +1,0 @@
-6 9
-shoal 1 1 0
-amber 4 1 1
-beefy 2 4 1
-beard 1 5 0

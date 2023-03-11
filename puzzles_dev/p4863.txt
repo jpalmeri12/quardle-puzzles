@@ -1,5 +1,0 @@
-6 8
-basil 3 1 1
-masse 1 3 1
-salon 1 5 0
-ember 1 7 0

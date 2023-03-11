@@ -1,5 +1,0 @@
-6 6
-clown 1 1 1
-crawl 5 1 1
-lover 1 2 0
-widow 1 4 0

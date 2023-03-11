@@ -1,5 +1,0 @@
-7 7 unloved
-bayou 3 1 1
-chaos 1 2 0
-scant 5 2 1
-burnt 2 5 0

@@ -1,5 +1,0 @@
-6 7 spaced
-hotel 5 1 1
-piety 3 2 1
-flirt 1 3 0
-vital 1 5 0

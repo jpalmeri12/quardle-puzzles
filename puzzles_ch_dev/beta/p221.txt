@@ -1,5 +1,0 @@
-7 8 beta
-murky 4 1 1
-abate 2 3 1
-apron 2 3 0
-satyr 1 5 0

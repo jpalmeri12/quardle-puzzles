@@ -1,6 +1,0 @@
-7 12 drop
-widen 3 1 1
-bonus 1 5 0
-suing 5 5 1
-stank 2 8 0
-basin 1 11 0

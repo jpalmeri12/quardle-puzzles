@@ -1,5 +1,0 @@
-7 8
-gorge 1 1 0
-retry 3 1 1
-stunk 2 3 0
-kappa 6 3 1

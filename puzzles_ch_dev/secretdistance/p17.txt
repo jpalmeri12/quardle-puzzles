@@ -1,7 +1,0 @@
-6 10 secretdistance
-ledge 1 1 1
-least 1 1 0
-spasm 4 3 1
-gripe 1 4 0
-salsa 1 9 0
-!sdpos 0 2 2 0

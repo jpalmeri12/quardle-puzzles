@@ -1,5 +1,0 @@
-7 7
-mange 5 1 1
-steal 2 2 0
-terse 3 2 1
-sprig 1 4 0

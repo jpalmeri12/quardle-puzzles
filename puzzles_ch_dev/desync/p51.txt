@@ -1,5 +1,0 @@
-7 9 desync
-slope 2 1 1
-lorry 2 2 0
-apron 1 4 0
-nicer 5 4 1

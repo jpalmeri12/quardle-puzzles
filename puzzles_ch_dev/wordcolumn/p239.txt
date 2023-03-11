@@ -1,6 +1,0 @@
-6 10 wordcolumn
-mafia 2 1 1
-patty 1 5 0
-price 1 5 1
-treat 4 5 1
-inlet 1 7 0

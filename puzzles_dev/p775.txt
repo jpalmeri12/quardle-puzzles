@@ -1,5 +1,0 @@
-7 9
-bloom 4 1 1
-alley 2 2 0
-false 2 4 1
-gamma 1 5 0

@@ -1,5 +1,0 @@
-7 7 darkness
-cavil 2 1 1
-leapt 2 5 0
-ivory 1 3 0
-lymph 5 2 1

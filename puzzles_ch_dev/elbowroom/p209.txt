@@ -1,5 +1,0 @@
-7 8 elbowroom
-tidal 2 1 1
-femur 4 3 1
-camel 1 4 0
-torch 2 7 0

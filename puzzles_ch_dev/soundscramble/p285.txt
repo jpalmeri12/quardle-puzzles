@@ -1,5 +1,0 @@
-7 9 soundscramble
-biule 5 1 1
-wodiw 2 2 0
-barge 3 4 1
-orate 1 5 0

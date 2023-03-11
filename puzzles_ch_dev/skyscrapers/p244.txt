@@ -1,5 +1,0 @@
-7 9 skyscrapers
-shoal 5 1 1
-freak 2 4 0
-rusty 3 4 1
-gloss 1 1 0

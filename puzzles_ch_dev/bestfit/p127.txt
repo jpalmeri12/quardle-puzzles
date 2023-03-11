@@ -1,5 +1,0 @@
-6 9 bestfit
-creme 4 1 1
-munch 2 4 1
-purer 1 5 0
-eclat 1 7 0

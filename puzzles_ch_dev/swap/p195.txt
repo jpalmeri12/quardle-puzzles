@@ -1,5 +1,0 @@
-6 6 swap
-wgaer 1 1 0
-glitn 2 1 1
-editc 4 1 1
-lnace 1 5 0

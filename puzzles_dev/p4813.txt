@@ -1,5 +1,0 @@
-7 8
-handy 1 1 0
-yacht 5 1 1
-mince 2 3 0
-midst 2 3 1

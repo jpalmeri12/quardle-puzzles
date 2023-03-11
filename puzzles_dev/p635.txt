@@ -1,5 +1,0 @@
-6 9
-woman 1 1 1
-afoot 1 4 0
-ovine 4 4 1
-token 1 8 0

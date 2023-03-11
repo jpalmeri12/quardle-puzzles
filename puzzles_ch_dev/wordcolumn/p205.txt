@@ -1,6 +1,0 @@
-7 10 wordcolumn
-brush 2 1 1
-gruel 1 2 0
-asset 6 4 1
-humus 2 5 0
-minty 4 5 1

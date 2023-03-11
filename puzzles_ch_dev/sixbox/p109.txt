@@ -1,7 +1,0 @@
-8 8 sixbox
-junta 3 1 1
-spade 5 1 1
-ninja 1 3 0
-joker 4 3 1
-toddy 3 4 0
-flake 1 5 0

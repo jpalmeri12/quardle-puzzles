@@ -1,5 +1,0 @@
-7 10
-cling 1 1 0
-giver 5 1 1
-flora 2 5 0
-augur 6 5 1

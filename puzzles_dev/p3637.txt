@@ -1,5 +1,0 @@
-7 10
-smoky 4 1 1
-gayly 2 5 0
-label 5 5 1
-shore 1 8 0

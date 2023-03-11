@@ -1,5 +1,0 @@
-6 7
-tutor 3 1 1
-stunk 1 2 0
-shush 1 2 1
-siren 1 5 0

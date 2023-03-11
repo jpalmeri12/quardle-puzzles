@@ -1,5 +1,0 @@
-6 10 bestfit
-recur 3 1 1
-geeky 1 2 0
-forth 1 5 0
-homer 5 5 1

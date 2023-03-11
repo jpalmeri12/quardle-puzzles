@@ -1,6 +1,0 @@
-6 11 drop
-belle 1 1 1
-leper 1 4 0
-pleat 3 4 1
-ditch 1 8 0
-pedal 1 10 0

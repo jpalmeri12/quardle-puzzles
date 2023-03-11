@@ -1,5 +1,0 @@
-7 7
-cycle 5 1 1
-freer 3 2 1
-wrack 2 3 0
-these 1 5 0

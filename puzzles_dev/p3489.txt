@@ -1,5 +1,0 @@
-6 9
-grime 3 1 1
-guilt 1 4 1
-gamer 1 4 0
-llama 1 7 0

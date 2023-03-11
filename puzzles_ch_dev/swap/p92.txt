@@ -1,5 +1,0 @@
-7 8 swap
-pupli 5 1 1
-formu 3 3 1
-dwoel 1 4 0
-busyh 2 7 0

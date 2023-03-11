@@ -1,6 +1,0 @@
-6 8 squaredance
-pluck 1 1 1
-heard 5 1 1
-perch 1 1 0
-knead 1 5 0
-ozone 1 7 0

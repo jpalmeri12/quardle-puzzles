@@ -1,5 +1,0 @@
-7 10
-posse 1 1 0
-smart 4 1 1
-antic 2 5 0
-amend 2 5 1

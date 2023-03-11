@@ -1,5 +1,0 @@
-7 8 swap
-hsack 3 1 1
-satsh 5 3 1
-scmap 2 4 0
-elash 1 7 0

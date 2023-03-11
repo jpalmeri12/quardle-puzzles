@@ -1,5 +1,0 @@
-6 9
-valid 4 1 1
-human 1 2 0
-solar 1 4 1
-stoic 1 4 0

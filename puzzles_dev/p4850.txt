@@ -1,5 +1,0 @@
-6 7
-fence 4 1 1
-leper 1 2 0
-eater 2 2 1
-stock 1 4 0

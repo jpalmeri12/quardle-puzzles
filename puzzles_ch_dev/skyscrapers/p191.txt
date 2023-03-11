@@ -1,5 +1,0 @@
-7 10 skyscrapers
-tango 2 1 1
-obese 2 5 0
-block 3 5 1
-bloat 1 7 0

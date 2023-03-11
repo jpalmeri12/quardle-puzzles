@@ -1,6 +1,0 @@
-7 10 wordcolumn
-altar 2 1 1
-warty 1 4 0
-those 4 4 1
-tryst 6 5 1
-rusty 2 7 0

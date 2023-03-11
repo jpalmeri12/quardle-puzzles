@@ -1,6 +1,0 @@
-6 10 wordcolumn
-bribe 1 1 0
-bleat 4 1 1
-squib 1 4 1
-quoth 1 5 0
-opium 3 5 1

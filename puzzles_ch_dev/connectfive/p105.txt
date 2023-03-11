@@ -1,6 +1,0 @@
-7 12 connectfive
-wager 5 1 1
-order 1 5 0
-refer 2 5 1
-pecan 4 7 1
-elect 2 8 0

@@ -1,5 +1,0 @@
-7 8 invention
-gamut 2 1 0
-match 4 1 1
-fifty 1 3 0
-forth 1 3 1

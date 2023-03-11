@@ -1,5 +1,0 @@
-7 8 hardmode
-patty 6 1 1
-guile 4 3 1
-erupt 2 4 0
-cello 1 6 0

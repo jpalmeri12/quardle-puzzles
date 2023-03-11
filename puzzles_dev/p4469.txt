@@ -1,5 +1,0 @@
-7 10
-afoul 5 1 1
-truly 2 5 0
-udder 4 5 1
-fibre 1 9 0

@@ -1,5 +1,0 @@
-7 8 darkness
-built 1 4 0
-syrup 2 7 0
-derby 1 1 1
-picky 3 3 1

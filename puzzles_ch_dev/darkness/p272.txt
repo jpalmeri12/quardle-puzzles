@@ -1,5 +1,0 @@
-7 9 darkness
-admit 2 4 0
-sonic 5 1 1
-dingo 3 4 1
-mambo 1 2 0

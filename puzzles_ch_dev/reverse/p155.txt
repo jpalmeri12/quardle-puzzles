@@ -1,5 +1,0 @@
-7 10 reverse
-deips 4 1 1
-urban 2 5 1
-upset 2 5 0
-ebirt 1 7 0

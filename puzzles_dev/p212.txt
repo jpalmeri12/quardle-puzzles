@@ -1,5 +1,0 @@
-7 7
-knife 4 1 1
-plank 1 2 0
-ledge 2 2 1
-geese 2 5 0

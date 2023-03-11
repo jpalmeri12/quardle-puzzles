@@ -1,5 +1,0 @@
-6 8 hardmode
-sting 4 1 1
-erase 2 3 1
-mango 1 5 0
-perky 1 7 0

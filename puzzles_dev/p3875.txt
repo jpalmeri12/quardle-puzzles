@@ -1,5 +1,0 @@
-7 10
-proxy 6 1 1
-petty 2 5 0
-embed 3 5 1
-adept 1 8 0

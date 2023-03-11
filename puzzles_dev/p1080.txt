@@ -1,5 +1,0 @@
-7 10
-mimic 5 1 1
-piece 2 5 0
-eject 4 5 1
-grace 1 8 0

@@ -1,5 +1,0 @@
-6 9 reverse
-short 1 1 0
-shoal 1 1 1
-anihc 1 4 0
-hctuh 4 4 1

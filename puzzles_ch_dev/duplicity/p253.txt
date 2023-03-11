@@ -1,5 +1,0 @@
-6 8 duplicity
-dwelt 1 1 0
-wield 2 1 1
-welch 1 3 0
-hitch 5 3 1

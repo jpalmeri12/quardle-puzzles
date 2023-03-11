@@ -1,5 +1,0 @@
-7 10 fourscore
-junta 1 1 0
-untie 2 1 1
-expel 2 5 0
-login 6 5 1

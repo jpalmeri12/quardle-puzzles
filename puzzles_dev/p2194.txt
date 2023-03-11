@@ -1,5 +1,0 @@
-6 9
-viper 4 1 1
-lever 1 4 0
-essay 2 4 1
-cycle 1 8 0

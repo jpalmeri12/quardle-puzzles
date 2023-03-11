@@ -1,5 +1,0 @@
-7 10 darkness
-prong 2 1 1
-giddy 2 5 0
-godly 1 3 0
-ditto 4 5 1

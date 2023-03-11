@@ -1,5 +1,0 @@
-6 9 beta
-polyp 5 1 1
-oddly 1 4 0
-daddy 2 4 1
-adept 1 7 0

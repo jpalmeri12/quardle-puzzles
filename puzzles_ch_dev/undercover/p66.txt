@@ -1,6 +1,0 @@
-7 12 undercover
-reedy 6 1 1
-story 2 5 0
-twirl 3 5 1
-allay 1 9 0
-punch 1 11 0

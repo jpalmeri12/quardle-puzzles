@@ -1,5 +1,0 @@
-6 7 outoforder
-claim 3 1 1
-palsy 1 2 0
-pubic 1 2 1
-brisk 1 4 0

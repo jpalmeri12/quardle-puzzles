@@ -1,5 +1,0 @@
-6 9
-wrack 1 1 0
-whack 1 1 1
-chirp 1 4 0
-repel 4 4 1

@@ -1,8 +1,0 @@
-6 8 twins
-shoal 1 1 0
-bleep 1 3 0
-beech 1 5 0
-naval 1 7 0
-!twins 1 3
-!twins 0 2
-!twins 1 4

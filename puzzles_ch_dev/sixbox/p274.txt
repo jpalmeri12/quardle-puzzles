@@ -1,7 +1,0 @@
-8 8 sixbox
-ghost 3 1 1
-honor 5 1 1
-grown 1 3 0
-whose 4 3 1
-showy 3 4 0
-motor 1 5 0

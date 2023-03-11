@@ -1,5 +1,0 @@
-7 8 clockdown
-stray 1 1 0
-twist 2 1 1
-porch 4 3 1
-torch 2 5 0

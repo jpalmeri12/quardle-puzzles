@@ -1,5 +1,0 @@
-6 7 swap
-sahle 3 1 1
-penen 5 2 1
-sohne 1 3 0
-emece 1 5 0

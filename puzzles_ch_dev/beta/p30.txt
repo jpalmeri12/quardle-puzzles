@@ -1,5 +1,0 @@
-7 9 beta
-fixer 5 1 1
-pique 1 4 0
-quiet 3 4 1
-ether 2 8 0

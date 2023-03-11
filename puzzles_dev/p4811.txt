@@ -1,5 +1,0 @@
-6 9
-bring 4 1 1
-usurp 1 2 0
-horny 1 4 0
-opera 2 4 1

@@ -1,6 +1,0 @@
-7 10 connectfive
-wafer 2 1 1
-began 5 2 1
-afire 1 3 0
-rajah 2 5 0
-abhor 3 5 1

@@ -1,5 +1,0 @@
-6 9
-wreck 1 1 1
-color 1 4 0
-lemur 3 4 1
-parry 1 8 0

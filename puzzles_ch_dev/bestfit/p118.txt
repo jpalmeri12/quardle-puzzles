@@ -1,5 +1,0 @@
-6 7 bestfit
-micro 4 1 1
-tunic 1 2 0
-urban 2 2 1
-abort 1 4 0

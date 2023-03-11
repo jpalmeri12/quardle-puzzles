@@ -1,5 +1,0 @@
-6 8 dblltr
-papal 1 1 0
-lowly 5 1 1
-widow 3 3 1
-quill 1 4 0

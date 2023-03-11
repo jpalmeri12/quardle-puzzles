@@ -1,5 +1,0 @@
-7 9
-belly 4 1 1
-cream 2 2 0
-smile 1 4 0
-miser 2 4 1

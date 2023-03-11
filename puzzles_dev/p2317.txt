@@ -1,5 +1,0 @@
-7 9
-flesh 1 1 0
-lance 2 1 1
-color 2 4 0
-omega 5 4 1

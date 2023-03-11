@@ -1,5 +1,0 @@
-6 10 swap
-slign 5 1 1
-viexn 1 5 0
-iwnch 2 5 1
-knlol 1 7 0

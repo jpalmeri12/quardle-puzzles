@@ -1,5 +1,0 @@
-7 7
-curve 2 1 1
-cubic 1 2 0
-image 4 2 1
-eight 2 5 0

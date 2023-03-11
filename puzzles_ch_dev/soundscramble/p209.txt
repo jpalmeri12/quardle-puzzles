@@ -1,5 +1,0 @@
-7 10 soundscramble
-eccur 1 1 0
-cleth 3 1 1
-sholl 2 5 0
-loaso 6 5 1

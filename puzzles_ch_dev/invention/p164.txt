@@ -1,5 +1,0 @@
-7 10 invention
-dirge 4 1 1
-swell 2 5 0
-whiny 3 5 1
-slime 1 7 0

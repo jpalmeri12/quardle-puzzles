@@ -1,6 +1,0 @@
-6 9 connectfive
-gnash 1 1 1
-email 3 1 1
-nomad 1 2 0
-spite 1 4 0
-elegy 5 4 1

@@ -1,5 +1,0 @@
-7 10 clockdown
-beard 5 1 1
-mound 1 5 0
-utile 3 5 1
-berth 2 9 0

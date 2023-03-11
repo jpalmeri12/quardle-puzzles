@@ -1,5 +1,0 @@
-7 10 beta
-octal 2 1 0
-topaz 4 1 1
-gauze 1 5 0
-ensue 5 5 1

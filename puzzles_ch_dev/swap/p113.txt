@@ -1,5 +1,0 @@
-7 10 swap
-hoonr 2 1 1
-truht 1 5 0
-uqark 3 5 1
-laive 2 7 0

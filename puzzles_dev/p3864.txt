@@ -1,5 +1,0 @@
-7 9
-prune 4 1 1
-cairn 1 2 0
-tenet 2 4 0
-twang 6 4 1

@@ -1,6 +1,0 @@
-7 11 undercover
-bobby 1 1 0
-bison 4 1 1
-shack 2 4 1
-hunky 2 5 0
-deter 1 10 0

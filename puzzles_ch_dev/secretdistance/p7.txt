@@ -1,7 +1,0 @@
-6 9 secretdistance
-stale 2 1 1
-azure 5 2 1
-waltz 1 3 0
-refer 1 5 0
-stump 1 8 0
-!sdpos 0 2 2 1

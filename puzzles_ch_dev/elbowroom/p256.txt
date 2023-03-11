@@ -1,5 +1,0 @@
-7 10 elbowroom
-mimic 2 1 1
-imbue 1 3 0
-crank 2 5 0
-alien 4 5 1

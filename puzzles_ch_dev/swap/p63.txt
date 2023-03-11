@@ -1,5 +1,0 @@
-7 10 swap
-ovice 4 1 1
-apihd 2 3 0
-piler 1 5 0
-leanr 3 5 1

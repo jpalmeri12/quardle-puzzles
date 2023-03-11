@@ -1,5 +1,0 @@
-6 7
-untie 2 1 1
-ingot 1 2 0
-octet 4 2 1
-width 1 4 0

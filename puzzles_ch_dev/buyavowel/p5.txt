@@ -1,5 +1,0 @@
-6 7 buyavowel
-pixie 2 1 1
-hovel 4 2 1
-axion 1 3 0
-fewer 1 5 0

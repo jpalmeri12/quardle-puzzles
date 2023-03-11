@@ -1,5 +1,0 @@
-6 7 beta
-satyr 3 1 1
-begat 1 2 1
-brake 1 2 0
-aorta 1 5 0

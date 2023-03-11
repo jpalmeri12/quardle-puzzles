@@ -1,5 +1,0 @@
-7 9 beta
-optic 1 1 0
-cairn 5 1 1
-savor 3 4 1
-jaunt 2 5 0

@@ -1,8 +1,0 @@
-6 8 twins
-labor 1 1 0
-stump 1 3 0
-ruler 1 5 0
-aroma 1 7 0
-!twins 1 2
-!twins 0 1
-!twins 1 2

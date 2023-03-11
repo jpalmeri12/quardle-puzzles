@@ -1,5 +1,0 @@
-7 10 darkness
-panel 5 5 1
-rouse 3 1 1
-spiel 2 8 0
-sheep 1 5 0

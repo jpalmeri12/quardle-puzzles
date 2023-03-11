@@ -1,5 +1,0 @@
-7 9 dblltr
-bless 3 1 1
-leery 5 4 1
-asset 2 5 0
-occur 1 7 0

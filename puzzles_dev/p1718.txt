@@ -1,5 +1,0 @@
-6 9
-grasp 1 1 0
-phone 5 1 1
-dally 3 4 1
-share 1 5 0

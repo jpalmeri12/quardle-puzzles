@@ -1,5 +1,0 @@
-6 7
-salve 1 1 1
-alike 1 2 0
-knelt 4 2 1
-early 1 5 0

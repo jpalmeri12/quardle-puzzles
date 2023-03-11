@@ -1,5 +1,0 @@
-7 7
-ninny 4 1 1
-spite 2 2 1
-opine 1 3 0
-tryst 2 5 0

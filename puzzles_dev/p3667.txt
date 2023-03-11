@@ -1,5 +1,0 @@
-7 10
-dogma 6 1 1
-sepia 2 5 0
-imbue 5 5 1
-uncle 1 9 0

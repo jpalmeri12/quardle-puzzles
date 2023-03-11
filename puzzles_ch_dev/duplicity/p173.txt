@@ -1,5 +1,0 @@
-7 8 duplicity
-molar 4 1 1
-stool 1 2 0
-spool 6 3 1
-tramp 2 4 0

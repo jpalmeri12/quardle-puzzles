@@ -1,5 +1,0 @@
-6 10 spin
-quail 3 1 1
-truss 1 2 0
-dolly 1 5 0
-yield 5 5 1

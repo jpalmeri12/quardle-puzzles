@@ -1,5 +1,0 @@
-7 7 hardmode
-toxic 5 1 1
-igloo 1 2 0
-goofy 2 2 1
-optic 2 4 0

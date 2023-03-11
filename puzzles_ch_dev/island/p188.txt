@@ -1,6 +1,0 @@
-6 7 island
-scent 3 1 1
-robin 1 2 1
-recut 1 2 0
-bongo 1 4 0
-!island 2111 221 311 31

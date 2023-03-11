@@ -1,9 +1,0 @@
-7 9 beforeafter
-fizzy 6 1 1
-world 3 4 1
-lousy 2 5 0
-judge 1 8 0
-!beforeafter 1 m
-!beforeafter 2 n
-!beforeafter 1 r
-!beforeafter 1 i

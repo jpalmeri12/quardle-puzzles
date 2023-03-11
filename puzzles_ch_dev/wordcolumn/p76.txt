@@ -1,6 +1,0 @@
-7 10 wordcolumn
-snout 5 1 1
-video 1 3 0
-slate 2 5 0
-snack 2 5 1
-tasty 1 7 0

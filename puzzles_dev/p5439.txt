@@ -1,5 +1,0 @@
-6 7
-golly 2 1 1
-mouse 1 2 0
-stork 4 2 1
-floor 1 4 0

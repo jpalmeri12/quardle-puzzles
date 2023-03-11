@@ -1,5 +1,0 @@
-6 9
-amuse 1 1 1
-amaze 4 4 1
-enema 1 5 0
-boozy 1 7 0

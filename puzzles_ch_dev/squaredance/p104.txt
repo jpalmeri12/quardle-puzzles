@@ -1,6 +1,0 @@
-6 8 squaredance
-scold 1 1 1
-etude 5 1 1
-sauce 1 1 0
-drive 1 5 0
-float 1 7 0

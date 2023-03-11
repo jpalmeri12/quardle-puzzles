@@ -1,5 +1,0 @@
-6 10
-regal 1 1 0
-gourd 3 1 1
-widow 1 5 0
-worse 1 5 1

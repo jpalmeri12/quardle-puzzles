@@ -1,6 +1,0 @@
-7 8 commonsecret
-edify 2 1 0
-flier 5 1 1
-saner 3 3 1
-chase 1 4 0
-!secret e

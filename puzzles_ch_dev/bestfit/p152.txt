@@ -1,5 +1,0 @@
-7 10 bestfit
-block 6 1 1
-smock 2 5 0
-mulch 3 5 1
-islet 1 7 0

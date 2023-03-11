@@ -1,5 +1,0 @@
-6 7
-mimic 3 1 1
-upper 1 2 1
-utile 1 2 0
-pried 1 4 0

@@ -1,5 +1,0 @@
-6 7
-swell 5 1 1
-threw 1 2 0
-humid 2 2 1
-rival 1 5 0

@@ -1,5 +1,0 @@
-7 8
-logic 2 1 0
-gloat 4 1 1
-canoe 1 3 0
-alloy 2 3 1

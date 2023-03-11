@@ -1,5 +1,0 @@
-7 9 hardmode
-gruff 5 1 1
-scoff 2 4 0
-cigar 3 4 1
-harsh 1 8 0

@@ -1,5 +1,0 @@
-7 9 hardmode
-lunar 2 1 1
-issue 5 4 1
-roast 2 5 0
-alive 1 8 0

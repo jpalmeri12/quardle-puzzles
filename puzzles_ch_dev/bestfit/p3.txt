@@ -1,5 +1,0 @@
-7 9 bestfit
-flail 1 1 0
-login 5 1 1
-stark 2 4 1
-think 2 5 0

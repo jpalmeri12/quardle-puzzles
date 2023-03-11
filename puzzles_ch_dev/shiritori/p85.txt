@@ -1,5 +1,0 @@
-7 9 shiritori
-dizzy 2 1 1
-finch 1 2 0
-zonal 2 4 0
-arena 5 4 1

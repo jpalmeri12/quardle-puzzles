@@ -1,5 +1,0 @@
-7 9
-arena 1 1 1
-novel 1 4 0
-enemy 4 4 1
-steam 2 6 0

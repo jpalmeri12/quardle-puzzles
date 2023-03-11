@@ -1,5 +1,0 @@
-7 7 soundscramble
-dusco 4 1 1
-sqiub 1 2 0
-qiart 2 2 1
-roomy 2 5 0

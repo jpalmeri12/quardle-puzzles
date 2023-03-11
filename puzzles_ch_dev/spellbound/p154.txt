@@ -1,9 +1,0 @@
-7 10 spellbound
-prowl 2 1 1
-pubic 2 1 0
-floor 1 5 0
-ralph 5 5 1
-!spellbound 0 3 2
-!spellbound 1 1 2
-!spellbound 2 3 2
-!spellbound 3 2 3

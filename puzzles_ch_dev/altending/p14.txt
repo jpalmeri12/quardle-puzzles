@@ -1,5 +1,0 @@
-6 9 altending
-guise 1 1 0
-worth 1 3 0
-heady 1 5 0
-ruder 1 7 0

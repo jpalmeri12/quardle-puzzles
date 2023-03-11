@@ -1,5 +1,0 @@
-6 8 swap
-cadyd 1 1 0
-debtu 3 1 1
-lebow 1 3 0
-lnien 1 3 1

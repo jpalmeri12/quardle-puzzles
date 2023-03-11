@@ -1,5 +1,0 @@
-6 9 skyscrapers
-sheen 4 1 1
-rover 1 4 0
-rugby 1 4 1
-fishy 1 2 0

@@ -1,5 +1,0 @@
-7 9 clockdown
-arose 4 1 1
-shore 1 2 0
-basin 2 4 0
-nerve 6 4 1

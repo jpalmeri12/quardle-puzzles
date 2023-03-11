@@ -1,5 +1,0 @@
-7 8
-quest 6 1 1
-drown 2 3 1
-dirge 2 3 0
-knave 1 7 0

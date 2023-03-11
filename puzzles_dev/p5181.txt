@@ -1,5 +1,0 @@
-6 9
-marsh 2 1 1
-giver 4 4 1
-their 1 5 0
-diner 1 7 0

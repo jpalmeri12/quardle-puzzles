@@ -1,9 +1,0 @@
-7 9 spellbound
-logic 2 1 1
-lathe 5 4 1
-cabal 2 5 0
-berth 1 7 0
-!spellbound 0 0 3
-!spellbound 1 4 2
-!spellbound 2 2 1
-!spellbound 3 1 0

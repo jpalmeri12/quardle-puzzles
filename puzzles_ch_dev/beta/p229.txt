@@ -1,5 +1,0 @@
-6 9 beta
-slyly 1 1 0
-lapel 4 1 1
-agate 1 4 1
-gaily 1 5 0

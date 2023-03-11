@@ -1,5 +1,0 @@
-6 9 bestfit
-plumb 1 1 0
-blast 5 1 1
-delay 3 4 1
-sleet 1 5 0

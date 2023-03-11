@@ -1,6 +1,0 @@
-7 9 connectfive
-offal 2 1 1
-fight 2 2 0
-ashen 2 4 0
-hyena 4 4 1
-suing 1 7 0

@@ -1,5 +1,0 @@
-7 7 outoforder
-antic 2 1 1
-snuff 1 2 0
-finch 5 2 1
-cinch 2 5 0

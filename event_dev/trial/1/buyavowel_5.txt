@@ -1,5 +1,0 @@
-6 7 buyavowel
-ahead 2 1 1
-chaff 1 2 0
-flown 5 2 1
-mambo 1 4 0

@@ -1,5 +1,0 @@
-7 10
-steer 4 1 1
-retch 2 2 0
-furry 1 5 0
-renew 3 5 1

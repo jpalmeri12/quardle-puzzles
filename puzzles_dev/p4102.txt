@@ -1,5 +1,0 @@
-6 8
-waist 5 1 1
-grope 1 3 1
-onset 1 5 0
-elect 1 7 0

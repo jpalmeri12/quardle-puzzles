@@ -1,5 +1,0 @@
-6 6
-crawl 1 1 1
-stank 3 1 1
-retro 1 2 0
-liken 1 5 0

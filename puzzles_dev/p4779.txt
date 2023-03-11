@@ -1,5 +1,0 @@
-7 9
-click 6 1 1
-logic 2 4 0
-gleam 4 4 1
-poser 1 6 0

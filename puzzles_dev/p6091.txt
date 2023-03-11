@@ -1,5 +1,0 @@
-7 9
-scuba 4 1 1
-alibi 1 4 0
-least 2 4 1
-spiny 2 7 0

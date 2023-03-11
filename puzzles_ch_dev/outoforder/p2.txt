@@ -1,5 +1,0 @@
-7 9 outoforder
-joist 5 1 1
-guest 3 4 1
-aunty 2 5 0
-altar 1 8 0

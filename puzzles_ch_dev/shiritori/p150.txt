@@ -1,5 +1,0 @@
-7 10 shiritori
-frond 2 1 1
-dress 2 5 0
-swirl 5 5 1
-hovel 1 9 0

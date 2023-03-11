@@ -1,6 +1,0 @@
-7 10 island
-outer 2 1 1
-urine 2 2 0
-crier 1 5 0
-rocky 5 5 1
-!island 311 221 211 2111

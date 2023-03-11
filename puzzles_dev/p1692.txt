@@ -1,5 +1,0 @@
-7 10
-segue 5 1 1
-goose 1 5 0
-oddly 3 5 1
-adorn 2 7 0

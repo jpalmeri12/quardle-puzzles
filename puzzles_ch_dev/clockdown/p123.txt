@@ -1,5 +1,0 @@
-7 9 clockdown
-after 2 1 0
-flood 3 1 1
-avoid 1 4 0
-alert 1 4 1

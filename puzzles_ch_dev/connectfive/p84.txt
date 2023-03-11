@@ -1,6 +1,0 @@
-7 10 connectfive
-mamma 3 1 1
-agape 1 2 0
-fable 2 5 0
-labor 5 5 1
-piano 1 8 0

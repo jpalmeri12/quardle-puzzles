@@ -1,5 +1,0 @@
-6 8 darkness
-pagan 5 1 1
-using 1 3 0
-lyric 1 7 0
-sally 2 3 1

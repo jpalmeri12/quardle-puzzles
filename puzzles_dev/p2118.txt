@@ -1,5 +1,0 @@
-7 9
-delve 5 1 1
-fecal 3 4 1
-beset 2 5 0
-cramp 1 7 0

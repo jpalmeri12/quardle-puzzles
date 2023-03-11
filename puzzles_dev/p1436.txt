@@ -1,5 +1,0 @@
-7 10
-stole 5 1 1
-spook 2 3 0
-phase 1 5 0
-await 3 5 1

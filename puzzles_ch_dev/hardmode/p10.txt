@@ -1,5 +1,0 @@
-7 8 hardmode
-jiffy 1 1 1
-often 5 3 1
-fluff 1 4 0
-caper 2 6 0

@@ -1,5 +1,0 @@
-6 7 elbowroom
-aphid 2 1 1
-affix 4 2 1
-whiff 1 3 0
-admit 1 5 0

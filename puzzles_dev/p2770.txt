@@ -1,5 +1,0 @@
-7 7
-cover 2 1 1
-towel 1 2 0
-error 4 2 1
-early 2 4 0

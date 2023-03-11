@@ -1,5 +1,0 @@
-6 7 sweeper
-wrath 5 1 1
-refer 1 2 0
-flood 3 2 1
-epoch 1 5 0

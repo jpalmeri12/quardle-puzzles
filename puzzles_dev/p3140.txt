@@ -1,5 +1,0 @@
-7 8
-cream 1 1 0
-regal 2 1 1
-gaudy 2 3 0
-dwelt 5 3 1

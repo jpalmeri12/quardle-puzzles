@@ -1,5 +1,0 @@
-6 9 darkness
-mossy 1 4 1
-silly 3 1 1
-melee 1 4 0
-stick 1 2 0

@@ -1,5 +1,0 @@
-7 10 hardmode
-throb 2 1 1
-began 2 5 0
-gross 4 5 1
-droop 1 7 0

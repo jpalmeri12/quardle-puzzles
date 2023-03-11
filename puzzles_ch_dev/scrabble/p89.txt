@@ -1,5 +1,0 @@
-7 10 scrabble
-trope 1 1 0
-owing 3 5 1
-foyer 2 5 0
-puffy 4 1 1

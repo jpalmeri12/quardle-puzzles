@@ -1,5 +1,0 @@
-7 7 clockdown
-eclat 2 1 1
-scamp 1 2 0
-peril 5 2 1
-trait 2 5 0

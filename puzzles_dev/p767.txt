@@ -1,5 +1,0 @@
-6 8
-sulky 5 1 1
-chaff 2 3 1
-chalk 1 4 0
-offal 1 7 0

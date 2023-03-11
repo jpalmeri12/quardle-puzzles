@@ -1,5 +1,0 @@
-6 9 hardmode
-yacht 1 1 0
-yeast 1 1 1
-stilt 1 4 0
-infer 3 4 1

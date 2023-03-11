@@ -1,5 +1,0 @@
-7 10 dblltr
-expel 2 1 1
-sleep 1 5 0
-etude 3 5 1
-hurry 2 7 0

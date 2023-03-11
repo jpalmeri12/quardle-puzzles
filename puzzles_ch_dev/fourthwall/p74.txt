@@ -1,7 +1,0 @@
-6 6 fourthwall
-movie 1 1 0
-mulch 1 1 1
-light 1 3 0
-vigor 3 1 1
-hurry 1 5 0
-entry 5 1 1

@@ -1,5 +1,0 @@
-6 6 outoforder
-shank 1 1 0
-salsa 1 1 1
-apply 3 1 1
-sally 1 4 0

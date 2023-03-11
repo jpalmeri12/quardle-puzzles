@@ -1,5 +1,0 @@
-6 7
-aroma 2 1 1
-thorn 4 2 1
-mocha 1 3 0
-marry 1 5 0

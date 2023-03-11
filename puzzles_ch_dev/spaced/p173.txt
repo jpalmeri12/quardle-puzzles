@@ -1,5 +1,0 @@
-7 9 spaced
-solve 1 1 0
-empty 5 1 1
-dirty 2 4 0
-drawn 2 4 1

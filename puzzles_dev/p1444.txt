@@ -1,5 +1,0 @@
-7 8
-tough 2 1 1
-dowel 1 2 0
-wordy 6 3 1
-humor 2 5 0

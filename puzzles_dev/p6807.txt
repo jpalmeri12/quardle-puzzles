@@ -1,5 +1,0 @@
-7 7
-beech 5 1 1
-flung 3 2 1
-flyer 2 3 0
-conch 1 5 0

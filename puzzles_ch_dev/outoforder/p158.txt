@@ -1,5 +1,0 @@
-7 9 outoforder
-amble 5 1 1
-still 2 4 0
-tense 3 4 1
-sassy 1 7 0

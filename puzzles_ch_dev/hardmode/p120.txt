@@ -1,5 +1,0 @@
-6 9 hardmode
-gavel 4 1 1
-valor 1 4 1
-adult 1 5 0
-ovary 1 7 0

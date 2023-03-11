@@ -1,5 +1,0 @@
-7 9 hardmode
-nomad 1 1 1
-agree 1 4 0
-rival 3 4 1
-avail 2 6 0

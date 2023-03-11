@@ -1,5 +1,0 @@
-7 10 elbowroom
-bayou 4 1 1
-shrub 1 5 0
-belly 5 5 1
-daily 2 7 0

@@ -1,6 +1,0 @@
-7 12 drop
-bless 5 1 1
-copse 2 5 0
-primo 4 5 1
-drain 1 7 0
-adobe 1 11 0

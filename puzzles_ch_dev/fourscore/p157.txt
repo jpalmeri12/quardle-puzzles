@@ -1,5 +1,0 @@
-7 9 fourscore
-icily 2 1 1
-image 2 1 0
-climb 1 4 0
-bliss 5 4 1

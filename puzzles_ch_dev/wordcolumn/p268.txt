@@ -1,6 +1,0 @@
-6 10 wordcolumn
-totem 3 1 1
-unity 5 4 1
-admin 1 5 0
-agora 1 5 1
-ought 1 7 0

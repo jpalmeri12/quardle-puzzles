@@ -1,5 +1,0 @@
-7 9 outoforder
-flute 1 1 0
-think 4 1 1
-sunny 2 4 0
-yacht 6 4 1

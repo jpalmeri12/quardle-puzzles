@@ -1,5 +1,0 @@
-6 10 spaced
-shake 5 1 1
-omega 1 3 0
-glint 1 5 1
-guise 1 5 0

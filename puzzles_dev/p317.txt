@@ -1,5 +1,0 @@
-6 9
-chant 4 1 1
-mushy 1 2 0
-gaunt 1 4 1
-agate 1 5 0

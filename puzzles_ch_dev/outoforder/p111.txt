@@ -1,5 +1,0 @@
-6 8 outoforder
-bless 1 1 0
-shyly 5 1 1
-pudgy 1 3 0
-uncut 2 3 1

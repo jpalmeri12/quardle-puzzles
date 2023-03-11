@@ -1,5 +1,0 @@
-6 8 darkness
-tease 3 3 1
-shave 1 5 0
-quell 1 7 0
-abyss 1 1 1

@@ -1,6 +1,0 @@
-6 10 five
-hover 4 1 1
-adorn 1 5 0
-order 3 5 1
-nasal 5 5 1
-hyena 1 8 0

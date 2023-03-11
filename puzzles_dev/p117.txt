@@ -1,5 +1,0 @@
-6 10
-pudgy 1 1 0
-doubt 3 1 1
-petal 1 5 0
-elate 2 5 1

@@ -1,5 +1,0 @@
-7 8 bestfit
-dodgy 2 1 0
-gayly 5 1 1
-gummy 1 3 0
-graze 1 3 1

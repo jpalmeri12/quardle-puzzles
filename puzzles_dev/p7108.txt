@@ -1,5 +1,0 @@
-7 9
-charm 1 1 1
-rebut 1 4 0
-until 4 4 1
-thief 2 7 0

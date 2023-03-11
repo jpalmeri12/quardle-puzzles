@@ -1,6 +1,0 @@
-6 8 squaredance
-crush 1 1 1
-exact 5 1 1
-chore 1 1 0
-heist 1 5 0
-mason 1 7 0

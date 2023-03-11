@@ -1,6 +1,0 @@
-6 10 five
-theta 1 1 0
-equal 3 1 1
-spied 5 4 1
-tulip 1 5 0
-umbra 2 5 1

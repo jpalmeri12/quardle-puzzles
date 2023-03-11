@@ -1,5 +1,0 @@
-7 10
-beefy 4 1 1
-abyss 2 5 0
-shine 5 5 1
-cacti 1 7 0

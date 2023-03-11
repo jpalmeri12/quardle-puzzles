@@ -1,5 +1,0 @@
-6 6 bestfit
-sepia 1 1 0
-swash 1 1 1
-parer 3 1 1
-stead 1 4 0

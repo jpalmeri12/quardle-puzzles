@@ -1,5 +1,0 @@
-7 8
-biddy 6 1 1
-would 2 3 0
-unset 4 3 1
-askew 1 6 0

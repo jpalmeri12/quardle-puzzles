@@ -1,5 +1,0 @@
-7 8
-tithe 1 1 0
-inert 2 1 1
-harem 5 3 1
-relay 2 4 0

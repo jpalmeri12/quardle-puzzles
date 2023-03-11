@@ -1,6 +1,0 @@
-7 9 connectfive
-elder 3 1 1
-ulcer 2 2 0
-ahead 1 4 0
-arbor 1 4 1
-rifle 1 8 0

@@ -1,5 +1,0 @@
-7 8 sweeper
-gusto 5 1 1
-fibre 3 3 1
-abbot 2 5 0
-cheap 1 7 0

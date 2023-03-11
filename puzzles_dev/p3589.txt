@@ -1,5 +1,0 @@
-7 9
-angst 2 1 1
-atone 2 1 0
-psalm 1 4 0
-loamy 4 4 1

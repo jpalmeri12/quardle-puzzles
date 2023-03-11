@@ -1,5 +1,0 @@
-7 10
-click 2 1 1
-fluid 1 2 0
-karma 2 5 0
-manor 5 5 1

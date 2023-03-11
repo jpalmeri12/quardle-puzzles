@@ -1,5 +1,0 @@
-6 10
-maker 4 1 1
-furry 1 5 0
-unfit 2 5 1
-sigma 1 8 0

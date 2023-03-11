@@ -1,5 +1,0 @@
-6 9 dblltr
-agora 1 1 0
-riser 4 1 1
-corer 1 4 0
-crock 1 4 1

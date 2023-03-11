@@ -1,6 +1,0 @@
-7 11 undercover
-pleat 2 1 1
-blurt 1 2 0
-easel 4 4 1
-trail 2 5 0
-woody 1 10 0

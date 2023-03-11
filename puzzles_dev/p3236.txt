@@ -1,5 +1,0 @@
-7 9
-mourn 6 1 1
-snowy 2 4 1
-safer 2 4 0
-vowel 1 6 0

@@ -1,5 +1,0 @@
-7 9 soundscramble
-mojar 2 1 1
-olign 2 2 0
-snart 4 4 1
-print 1 5 0

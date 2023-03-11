@@ -1,5 +1,0 @@
-7 8 skyscrapers
-spend 3 1 1
-leaky 2 3 0
-kitty 5 3 1
-beset 1 1 0

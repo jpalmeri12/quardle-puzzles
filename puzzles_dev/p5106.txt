@@ -1,5 +1,0 @@
-7 7
-filmy 5 1 1
-alibi 1 2 0
-ladle 2 2 1
-drama 2 4 0

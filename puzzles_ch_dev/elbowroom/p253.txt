@@ -1,5 +1,0 @@
-7 10 elbowroom
-circa 3 1 1
-faint 1 2 0
-cache 2 5 0
-ebony 6 5 1

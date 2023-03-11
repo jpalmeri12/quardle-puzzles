@@ -1,5 +1,0 @@
-7 9
-poise 5 1 1
-macro 1 2 0
-horse 2 4 0
-oxide 3 4 1

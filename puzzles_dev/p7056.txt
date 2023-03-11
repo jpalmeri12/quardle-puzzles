@@ -1,5 +1,0 @@
-7 9
-stack 6 1 1
-basic 2 4 0
-bleep 2 4 1
-petty 1 6 0

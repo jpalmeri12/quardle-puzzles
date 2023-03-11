@@ -1,5 +1,0 @@
-7 9 outoforder
-modem 5 1 1
-plaid 3 4 1
-plume 2 5 0
-drill 1 7 0

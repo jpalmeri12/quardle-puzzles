@@ -1,5 +1,0 @@
-6 9
-dingo 5 1 1
-fungi 1 2 0
-shrug 1 4 0
-rigor 3 4 1

@@ -1,5 +1,0 @@
-7 10
-steal 4 1 1
-pearl 2 5 1
-palsy 2 5 0
-argue 1 8 0

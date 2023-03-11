@@ -1,5 +1,0 @@
-7 9
-tonal 5 1 1
-below 2 2 0
-dogma 1 4 0
-grimy 3 4 1

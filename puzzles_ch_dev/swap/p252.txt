@@ -1,5 +1,0 @@
-6 7 swap
-melay 2 1 1
-hosre 5 2 1
-alsso 1 3 0
-gyaer 1 5 0

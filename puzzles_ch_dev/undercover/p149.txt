@@ -1,6 +1,0 @@
-7 12 undercover
-vista 3 1 1
-caste 1 3 0
-fatal 2 5 0
-louse 6 5 1
-nymph 1 11 0

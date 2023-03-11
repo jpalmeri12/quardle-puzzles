@@ -1,5 +1,0 @@
-7 10
-adopt 1 1 1
-tense 1 5 0
-needy 3 5 1
-rebar 2 7 0

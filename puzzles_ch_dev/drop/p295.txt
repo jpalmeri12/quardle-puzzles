@@ -1,6 +1,0 @@
-7 9 drop
-plant 5 1 1
-moral 1 2 0
-risky 3 2 1
-using 2 4 0
-truly 1 8 0

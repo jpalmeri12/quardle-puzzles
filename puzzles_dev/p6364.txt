@@ -1,5 +1,0 @@
-7 9
-shire 2 1 0
-rider 5 1 1
-alive 1 4 0
-avail 1 4 1

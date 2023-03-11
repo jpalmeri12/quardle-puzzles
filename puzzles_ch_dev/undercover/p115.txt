@@ -1,6 +1,0 @@
-7 12 undercover
-gazer 2 1 1
-rinse 2 5 0
-shade 5 5 1
-stole 1 9 0
-mummy 1 11 0

@@ -1,5 +1,0 @@
-7 9
-droll 3 1 1
-trunk 2 2 0
-sully 1 4 0
-sharp 1 4 1

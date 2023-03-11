@@ -1,9 +1,0 @@
-6 7 spellbound
-myrrh 5 1 1
-itchy 1 2 1
-taker 1 3 0
-hunch 1 5 0
-!spellbound 0 3 0
-!spellbound 1 0 4
-!spellbound 2 1 2
-!spellbound 3 2 3

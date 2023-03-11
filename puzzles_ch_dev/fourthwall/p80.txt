@@ -1,7 +1,0 @@
-6 6 fourthwall
-waste 1 1 0
-wiser 1 1 1
-stand 1 3 0
-stamp 3 1 1
-riper 1 5 0
-elder 5 1 1

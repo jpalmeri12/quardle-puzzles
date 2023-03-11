@@ -1,5 +1,0 @@
-6 9 altending
-stoke 1 1 0
-shard 1 3 0
-chant 1 5 0
-speak 1 7 0

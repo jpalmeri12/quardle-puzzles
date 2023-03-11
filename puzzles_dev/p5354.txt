@@ -1,5 +1,0 @@
-7 10
-ripen 2 1 1
-liege 1 2 0
-nadir 2 5 0
-datum 4 5 1

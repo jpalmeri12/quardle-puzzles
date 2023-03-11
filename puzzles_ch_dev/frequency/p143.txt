@@ -1,5 +1,0 @@
-7 10 frequency
-knife 2 1 1
-known 2 1 0
-bezel 1 5 0
-loser 5 5 1

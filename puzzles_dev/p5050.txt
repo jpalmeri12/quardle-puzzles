@@ -1,5 +1,0 @@
-6 9
-debit 2 1 1
-picky 1 4 0
-karma 4 4 1
-comma 1 7 0

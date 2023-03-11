@@ -1,5 +1,0 @@
-6 10
-abyss 2 1 1
-usurp 1 5 0
-undue 3 5 1
-dodgy 1 7 0

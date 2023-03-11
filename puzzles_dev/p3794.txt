@@ -1,5 +1,0 @@
-7 9
-world 5 1 1
-sieve 3 4 1
-biddy 2 5 0
-havoc 1 7 0

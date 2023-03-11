@@ -1,9 +1,0 @@
-6 9 beforeafter
-knife 1 1 1
-knead 1 1 0
-flint 1 4 0
-incur 3 4 1
-!beforeafter 1 j
-!beforeafter 1 j
-!beforeafter 2 m
-!beforeafter 2 p

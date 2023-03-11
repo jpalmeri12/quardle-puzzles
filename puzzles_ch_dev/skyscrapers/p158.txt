@@ -1,5 +1,0 @@
-7 10 skyscrapers
-wreck 2 5 0
-rouge 3 5 1
-adult 1 7 0
-aback 6 1 1

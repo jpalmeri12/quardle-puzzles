@@ -1,5 +1,0 @@
-7 9 desync
-avoid 5 1 1
-crave 2 2 0
-glean 1 4 1
-lipid 1 5 0

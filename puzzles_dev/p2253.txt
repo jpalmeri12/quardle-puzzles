@@ -1,5 +1,0 @@
-6 10
-foist 3 1 1
-hatch 1 5 0
-hotly 1 5 1
-taunt 1 7 0

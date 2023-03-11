@@ -1,5 +1,0 @@
-6 10
-mulch 1 1 1
-helix 1 5 0
-elbow 2 5 1
-sweep 1 9 0

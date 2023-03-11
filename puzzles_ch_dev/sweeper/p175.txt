@@ -1,5 +1,0 @@
-7 9 sweeper
-islet 1 1 1
-fixer 3 4 1
-trite 1 5 0
-armor 2 8 0

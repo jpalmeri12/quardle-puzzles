@@ -1,5 +1,0 @@
-6 7 swap
-ufngi 1 1 1
-fegin 1 2 0
-geine 3 2 1
-irnse 1 5 0

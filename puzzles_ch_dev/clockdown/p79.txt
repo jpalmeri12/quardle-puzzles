@@ -1,5 +1,0 @@
-6 9 clockdown
-globe 5 1 1
-kebab 1 4 0
-bribe 3 4 1
-debit 1 7 0

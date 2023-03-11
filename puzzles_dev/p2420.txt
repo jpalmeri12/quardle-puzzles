@@ -1,5 +1,0 @@
-7 10
-glass 4 1 1
-baste 2 5 0
-trade 5 5 1
-druid 1 8 0

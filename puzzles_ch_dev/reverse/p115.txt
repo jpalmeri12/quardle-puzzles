@@ -1,5 +1,0 @@
-6 9 reverse
-poesy 5 1 1
-citpo 1 2 0
-gniws 1 4 0
-nutty 2 4 1

@@ -1,6 +1,0 @@
-6 10 island
-bravo 3 1 1
-stand 1 3 0
-stout 1 5 0
-sheep 1 5 1
-!island 2111 311 1111 211

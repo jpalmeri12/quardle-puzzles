@@ -1,5 +1,0 @@
-6 10 frequency
-sumac 1 1 1
-ultra 1 2 0
-cadet 1 5 0
-droop 3 5 1

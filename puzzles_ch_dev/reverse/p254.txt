@@ -1,5 +1,0 @@
-7 8 reverse
-large 4 1 1
-ykcaw 1 2 0
-elder 6 3 1
-llewd 2 5 0

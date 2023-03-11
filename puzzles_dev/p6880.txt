@@ -1,5 +1,0 @@
-6 6
-beget 1 1 0
-bound 1 1 1
-gecko 3 1 1
-drove 1 5 0

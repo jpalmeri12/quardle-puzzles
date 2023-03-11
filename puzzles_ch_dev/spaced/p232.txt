@@ -1,5 +1,0 @@
-7 10 spaced
-crane 4 1 1
-relay 1 3 0
-speck 2 5 0
-knave 6 5 1

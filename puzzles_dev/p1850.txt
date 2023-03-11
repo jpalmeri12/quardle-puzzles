@@ -1,5 +1,0 @@
-7 9
-clown 1 1 1
-yearn 5 4 1
-niece 1 5 0
-spark 2 7 0

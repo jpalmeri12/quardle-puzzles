@@ -1,5 +1,0 @@
-7 10
-butch 2 1 1
-short 1 5 0
-rebel 4 5 1
-amend 2 8 0

@@ -1,9 +1,0 @@
-6 8 beforeafter
-snuck 1 1 0
-novel 2 1 1
-usage 4 3 1
-beast 1 4 0
-!beforeafter 2 l
-!beforeafter 2 m
-!beforeafter 1 l
-!beforeafter 2 o

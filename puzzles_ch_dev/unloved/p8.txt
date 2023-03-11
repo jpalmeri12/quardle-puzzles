@@ -1,5 +1,0 @@
-6 10 unloved
-mucus 1 1 1
-crust 1 3 0
-stony 1 5 0
-needy 4 5 1

@@ -1,6 +1,0 @@
-7 9 commonsecret
-idiot 4 1 1
-ethos 1 4 0
-trope 2 4 1
-primo 2 7 0
-!secret o

@@ -1,5 +1,0 @@
-6 7
-thyme 5 1 1
-swash 1 2 0
-after 3 2 1
-totem 1 4 0

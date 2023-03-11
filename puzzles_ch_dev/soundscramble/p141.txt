@@ -1,5 +1,0 @@
-6 9 soundscramble
-moler 2 1 1
-letha 1 4 0
-hunch 4 4 1
-dunca 1 7 0

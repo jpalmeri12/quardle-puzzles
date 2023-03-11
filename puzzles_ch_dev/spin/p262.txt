@@ -1,5 +1,0 @@
-7 10 spin
-corer 5 1 1
-extra 2 3 0
-alter 1 5 0
-thong 3 5 1

@@ -1,5 +1,0 @@
-7 8
-lapse 2 1 0
-piety 4 1 1
-crept 2 3 1
-trite 1 4 0

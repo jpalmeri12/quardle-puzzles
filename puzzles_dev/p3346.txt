@@ -1,5 +1,0 @@
-7 9
-facet 1 1 0
-eater 4 1 1
-bleak 2 4 0
-knock 6 4 1

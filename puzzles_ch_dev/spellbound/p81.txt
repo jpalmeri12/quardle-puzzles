@@ -1,9 +1,0 @@
-6 7 spellbound
-skate 4 1 1
-murky 1 2 0
-macro 1 2 1
-ruler 1 5 0
-!spellbound 0 2 3
-!spellbound 1 4 2
-!spellbound 2 1 4
-!spellbound 3 2 1

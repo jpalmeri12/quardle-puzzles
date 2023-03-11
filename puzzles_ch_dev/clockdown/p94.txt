@@ -1,5 +1,0 @@
-7 7 clockdown
-knoll 3 1 1
-ester 5 2 1
-copse 2 3 0
-melee 1 5 0

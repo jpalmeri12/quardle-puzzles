@@ -1,5 +1,0 @@
-7 10
-mucus 2 1 1
-slimy 2 5 0
-lofty 3 5 1
-lefty 1 7 0

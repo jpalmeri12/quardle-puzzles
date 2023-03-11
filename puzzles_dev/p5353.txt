@@ -1,5 +1,0 @@
-6 10
-scare 5 1 1
-payee 1 5 0
-agony 2 5 1
-known 1 8 0

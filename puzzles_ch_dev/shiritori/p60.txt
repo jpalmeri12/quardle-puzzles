@@ -1,5 +1,0 @@
-7 7 shiritori
-repel 6 1 1
-heron 3 2 1
-brine 2 4 0
-kinky 1 6 0

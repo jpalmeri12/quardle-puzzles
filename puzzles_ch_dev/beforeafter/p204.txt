@@ -1,9 +1,0 @@
-7 7 beforeafter
-psalm 5 1 1
-pouch 2 2 1
-voila 1 3 0
-champ 2 5 0
-!beforeafter 1 n
-!beforeafter 2 l
-!beforeafter 1 m
-!beforeafter 2 k

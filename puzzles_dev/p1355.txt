@@ -1,5 +1,0 @@
-7 9
-glaze 4 1 1
-dizzy 2 4 0
-drift 2 4 1
-strut 1 8 0

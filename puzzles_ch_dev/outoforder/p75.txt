@@ -1,5 +1,0 @@
-6 8 outoforder
-skull 4 1 1
-issue 1 3 0
-scout 2 3 1
-world 1 5 0

@@ -1,5 +1,0 @@
-6 7
-beast 2 1 1
-deity 1 2 0
-trust 4 2 1
-issue 1 4 0

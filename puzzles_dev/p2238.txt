@@ -1,5 +1,0 @@
-7 10
-loyal 4 1 1
-icily 1 5 0
-cruel 2 5 1
-upper 2 7 0

@@ -1,5 +1,0 @@
-7 10
-scram 4 1 1
-mammy 1 5 0
-alarm 2 5 1
-randy 2 8 0

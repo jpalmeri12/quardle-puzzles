@@ -1,5 +1,0 @@
-7 8
-kneed 1 1 0
-eerie 4 1 1
-start 6 3 1
-theta 2 5 0

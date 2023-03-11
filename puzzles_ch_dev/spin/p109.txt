@@ -1,5 +1,0 @@
-6 9 spin
-wince 2 1 1
-stake 5 4 1
-tenet 1 5 0
-seize 1 8 0

@@ -1,5 +1,0 @@
-7 8
-wacky 1 1 0
-chill 3 1 1
-aloud 5 3 1
-slyly 2 4 0

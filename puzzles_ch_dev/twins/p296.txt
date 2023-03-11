@@ -1,8 +1,0 @@
-6 8 twins
-axial 1 1 0
-gayer 1 3 0
-exert 1 5 0
-along 1 7 0
-!twins 0 4
-!twins 0 4
-!twins 0 3

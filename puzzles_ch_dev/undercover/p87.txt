@@ -1,6 +1,0 @@
-6 12 undercover
-nymph 1 1 0
-hater 5 1 1
-rebar 1 5 0
-rupee 1 5 1
-igloo 1 11 0

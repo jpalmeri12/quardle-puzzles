@@ -1,5 +1,0 @@
-7 10 frequency
-fetus 5 1 1
-unfit 1 3 0
-gravy 2 5 1
-guess 2 5 0

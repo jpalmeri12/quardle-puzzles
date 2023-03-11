@@ -1,5 +1,0 @@
-6 9 spaced
-tribe 1 1 1
-rogue 1 2 0
-below 1 4 0
-octal 4 4 1

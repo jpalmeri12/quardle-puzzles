@@ -1,5 +1,0 @@
-7 9
-glyph 1 1 0
-palsy 4 1 1
-frown 6 4 1
-gayer 2 5 0

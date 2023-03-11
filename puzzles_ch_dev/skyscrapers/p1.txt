@@ -1,5 +1,0 @@
-7 9 skyscrapers
-yearn 1 4 0
-skunk 5 1 1
-kinky 2 2 0
-elbow 2 4 1

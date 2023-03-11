@@ -1,5 +1,0 @@
-6 7 invention
-octal 4 1 1
-wrack 1 2 0
-rifle 2 2 1
-offal 1 4 0

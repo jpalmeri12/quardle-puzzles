@@ -1,5 +1,0 @@
-6 9 fourscore
-alley 5 1 1
-opine 1 4 0
-plush 2 4 1
-asset 1 7 0

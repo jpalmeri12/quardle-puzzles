@@ -1,5 +1,0 @@
-7 9
-alpha 2 1 1
-slant 1 2 0
-trait 5 4 1
-adore 2 5 0

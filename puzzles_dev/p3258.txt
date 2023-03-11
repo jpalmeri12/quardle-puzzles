@@ -1,5 +1,0 @@
-6 10
-clerk 5 1 1
-snare 1 3 0
-shuck 1 5 0
-hover 2 5 1

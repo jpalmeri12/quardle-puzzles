@@ -1,5 +1,0 @@
-7 10 unloved
-macho 2 1 0
-hitch 5 1 1
-pitch 1 5 0
-coupe 4 5 1

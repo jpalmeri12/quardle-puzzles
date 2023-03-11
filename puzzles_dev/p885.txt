@@ -1,5 +1,0 @@
-7 8
-chunk 1 1 0
-ninny 4 1 1
-mango 2 3 0
-overt 6 3 1

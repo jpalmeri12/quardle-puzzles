@@ -1,5 +1,0 @@
-6 9 spin
-dally 5 1 1
-bitty 2 4 1
-sixty 1 5 0
-otter 1 7 0

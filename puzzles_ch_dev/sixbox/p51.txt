@@ -1,7 +1,0 @@
-8 8 sixbox
-manga 3 1 1
-ideal 5 1 1
-wince 1 3 0
-cried 4 3 1
-grace 3 4 0
-avail 1 5 0

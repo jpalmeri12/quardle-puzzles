@@ -1,5 +1,0 @@
-6 8
-sixth 1 1 1
-silky 1 1 0
-stoke 5 3 1
-tenet 1 4 0

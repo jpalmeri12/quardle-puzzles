@@ -1,5 +1,0 @@
-7 10
-guava 2 1 1
-alarm 2 3 0
-hardy 1 5 0
-datum 4 5 1

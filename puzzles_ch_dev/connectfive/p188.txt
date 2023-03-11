@@ -1,6 +1,0 @@
-7 9 connectfive
-widow 2 1 1
-ideal 2 2 0
-lefty 5 4 1
-wager 2 5 0
-tacit 1 7 0

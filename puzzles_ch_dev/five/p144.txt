@@ -1,6 +1,0 @@
-6 10 five
-inbox 1 1 0
-omega 4 1 1
-medal 1 5 1
-macaw 1 5 0
-cleat 3 5 1

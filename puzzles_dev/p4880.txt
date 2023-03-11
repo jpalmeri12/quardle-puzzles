@@ -1,5 +1,0 @@
-7 8
-terse 2 1 0
-table 2 1 1
-abuse 1 3 0
-essay 5 3 1

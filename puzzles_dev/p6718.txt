@@ -1,5 +1,0 @@
-6 10
-angle 3 1 1
-sleet 1 5 0
-essay 4 5 1
-satyr 1 9 0

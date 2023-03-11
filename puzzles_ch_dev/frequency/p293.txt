@@ -1,5 +1,0 @@
-6 7 frequency
-actor 4 1 1
-truck 1 2 0
-ruder 2 2 1
-idiot 1 4 0

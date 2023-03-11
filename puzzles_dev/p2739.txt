@@ -1,5 +1,0 @@
-7 8
-folio 2 1 1
-jolly 5 3 1
-oddly 2 5 0
-patty 1 7 0

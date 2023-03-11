@@ -1,6 +1,0 @@
-7 9 wordcolumn
-idiot 2 1 0
-defer 3 1 1
-nerve 2 4 0
-vivid 5 4 1
-alibi 1 7 0

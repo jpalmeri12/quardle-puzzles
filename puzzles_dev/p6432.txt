@@ -1,5 +1,0 @@
-6 10
-scale 1 1 0
-acorn 3 1 1
-sense 1 5 0
-equal 5 5 1

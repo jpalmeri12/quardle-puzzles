@@ -1,5 +1,0 @@
-7 7 clockdown
-plain 4 1 1
-spill 1 2 0
-purge 2 2 1
-goner 2 5 0

@@ -1,5 +1,0 @@
-7 10
-antic 4 1 1
-welch 1 5 0
-humor 5 5 1
-afoot 2 8 0

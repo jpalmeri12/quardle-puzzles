@@ -1,5 +1,0 @@
-6 10 dblltr
-gloom 4 1 1
-skulk 1 2 0
-comma 1 5 0
-meter 3 5 1

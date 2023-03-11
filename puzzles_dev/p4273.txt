@@ -1,5 +1,0 @@
-6 10
-realm 3 1 1
-gamer 1 5 0
-annex 2 5 1
-metal 1 8 0

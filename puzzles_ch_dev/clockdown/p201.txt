@@ -1,5 +1,0 @@
-7 9 clockdown
-swoop 6 1 1
-igloo 2 4 0
-gipsy 3 4 1
-kappa 1 6 0

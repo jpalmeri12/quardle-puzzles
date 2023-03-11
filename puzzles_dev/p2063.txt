@@ -1,5 +1,0 @@
-7 8
-harpy 1 1 0
-amply 2 1 1
-penne 2 3 0
-every 6 3 1

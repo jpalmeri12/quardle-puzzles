@@ -1,5 +1,0 @@
-7 7
-flood 1 1 1
-ester 3 2 1
-outer 1 4 0
-brain 2 6 0

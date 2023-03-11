@@ -1,5 +1,0 @@
-7 9
-wrist 3 1 1
-snack 5 4 1
-atone 2 5 0
-mimic 1 7 0

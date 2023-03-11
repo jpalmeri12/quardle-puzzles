@@ -1,7 +1,0 @@
-6 9 secretdistance
-berth 5 1 1
-ample 1 2 0
-aloud 1 2 1
-orbit 1 4 0
-scorn 1 8 0
-!sdpos 3 2 1 1

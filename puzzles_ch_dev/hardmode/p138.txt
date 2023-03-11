@@ -1,5 +1,0 @@
-6 9 hardmode
-wight 5 1 1
-pitch 1 4 0
-towel 3 4 1
-allot 1 8 0

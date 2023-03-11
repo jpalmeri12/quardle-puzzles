@@ -1,5 +1,0 @@
-7 9 dblltr
-funny 1 1 0
-nerve 4 1 1
-fever 2 4 0
-retro 6 4 1

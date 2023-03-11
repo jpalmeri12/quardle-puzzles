@@ -1,5 +1,0 @@
-6 9 spin
-credo 1 1 1
-reedy 1 2 0
-disco 1 4 0
-shorn 3 4 1

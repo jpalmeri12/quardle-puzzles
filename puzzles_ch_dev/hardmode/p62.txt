@@ -1,5 +1,0 @@
-7 8 hardmode
-bawdy 1 1 1
-swamp 3 3 1
-dowry 1 4 0
-impel 2 6 0

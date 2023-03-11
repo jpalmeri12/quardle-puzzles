@@ -1,5 +1,0 @@
-6 8
-bliss 1 1 0
-loath 2 1 1
-shire 5 3 1
-stash 1 4 0

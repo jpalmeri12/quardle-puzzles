@@ -1,6 +1,0 @@
-7 10 five
-equal 2 1 1
-elfin 2 1 0
-image 5 1 1
-glaze 1 5 0
-zesty 4 5 1

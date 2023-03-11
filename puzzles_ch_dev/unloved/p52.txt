@@ -1,5 +1,0 @@
-6 6 unloved
-umbra 2 1 1
-wheat 5 1 1
-smash 1 2 0
-aroma 1 4 0

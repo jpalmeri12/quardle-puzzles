@@ -1,5 +1,0 @@
-6 9 dblltr
-seize 5 1 1
-tepee 1 2 0
-jolly 3 4 1
-moose 1 5 0

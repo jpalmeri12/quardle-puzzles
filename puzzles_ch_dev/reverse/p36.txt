@@ -1,5 +1,0 @@
-6 10 reverse
-nylon 1 1 1
-leurg 1 3 0
-nworf 1 5 0
-winch 2 5 1

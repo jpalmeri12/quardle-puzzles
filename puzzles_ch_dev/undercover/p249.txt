@@ -1,6 +1,0 @@
-7 10 undercover
-fewer 1 1 0
-woman 3 1 1
-smoke 2 3 0
-extra 6 3 1
-guild 1 9 0

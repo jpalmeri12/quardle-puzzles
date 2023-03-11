@@ -1,5 +1,0 @@
-6 10
-maize 1 1 0
-zesty 4 1 1
-vinyl 1 5 0
-lithe 5 5 1

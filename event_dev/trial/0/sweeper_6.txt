@@ -1,5 +1,0 @@
-7 9 sweeper
-risen 1 1 0
-sushi 3 1 1
-hyena 6 4 1
-ditty 2 5 0

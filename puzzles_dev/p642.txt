@@ -1,5 +1,0 @@
-7 9
-mimic 3 1 1
-chime 1 2 0
-tight 2 4 0
-tawny 6 4 1

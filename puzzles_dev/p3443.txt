@@ -1,5 +1,0 @@
-6 10
-fetch 5 1 1
-heave 1 2 0
-graph 1 5 0
-gummy 1 5 1

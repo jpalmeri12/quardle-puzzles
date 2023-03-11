@@ -1,5 +1,0 @@
-6 10 skyscrapers
-hedge 1 2 0
-chaff 1 1 1
-fresh 1 5 0
-study 4 5 1

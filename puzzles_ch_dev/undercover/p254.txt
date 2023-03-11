@@ -1,6 +1,0 @@
-6 10 undercover
-ashen 1 1 1
-abbot 1 1 0
-hover 1 3 0
-vicar 3 3 1
-guppy 1 9 0

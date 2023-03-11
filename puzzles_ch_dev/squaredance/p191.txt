@@ -1,6 +1,0 @@
-6 8 squaredance
-slush 1 1 1
-excel 5 1 1
-slope 1 1 0
-hovel 1 5 0
-topic 1 7 0

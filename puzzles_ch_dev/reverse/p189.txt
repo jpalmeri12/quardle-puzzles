@@ -1,5 +1,0 @@
-7 10 reverse
-clued 4 1 1
-redro 2 5 0
-remit 5 5 1
-xedni 1 8 0

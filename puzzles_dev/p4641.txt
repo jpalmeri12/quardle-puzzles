@@ -1,5 +1,0 @@
-7 8
-breed 5 1 1
-spiny 3 3 1
-spied 2 4 0
-gayly 1 7 0

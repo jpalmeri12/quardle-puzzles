@@ -1,5 +1,0 @@
-7 10 duplicity
-stood 5 1 1
-diode 2 5 0
-diner 2 5 1
-snort 1 7 0

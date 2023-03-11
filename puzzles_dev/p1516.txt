@@ -1,5 +1,0 @@
-7 8
-punch 1 1 1
-cheat 5 3 1
-cinch 1 4 0
-tubal 2 6 0

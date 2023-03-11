@@ -1,5 +1,0 @@
-6 8 shiritori
-snuck 1 1 0
-knelt 5 1 1
-glove 1 3 0
-lilac 2 3 1

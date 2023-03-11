@@ -1,6 +1,0 @@
-6 8 squaredance
-stork 1 1 1
-knack 5 1 1
-stank 1 1 0
-knock 1 5 0
-octal 1 7 0

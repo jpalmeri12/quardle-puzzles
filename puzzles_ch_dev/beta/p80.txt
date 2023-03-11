@@ -1,5 +1,0 @@
-6 7 beta
-allay 5 1 1
-tidal 1 2 0
-drama 3 2 1
-wimpy 1 5 0

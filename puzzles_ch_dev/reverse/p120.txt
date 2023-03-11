@@ -1,5 +1,0 @@
-6 8 reverse
-snake 1 1 1
-luofa 4 3 1
-kriuq 1 4 0
-naval 1 7 0

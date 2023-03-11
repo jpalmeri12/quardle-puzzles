@@ -1,5 +1,0 @@
-7 8 darkness
-viola 2 5 0
-anime 3 3 1
-spell 5 1 1
-tease 1 3 0

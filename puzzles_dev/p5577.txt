@@ -1,5 +1,0 @@
-7 8
-valet 2 1 1
-video 2 1 0
-beset 5 3 1
-ethos 1 5 0

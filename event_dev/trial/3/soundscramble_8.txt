@@ -1,5 +1,0 @@
-7 10 soundscramble
-trito 5 1 1
-ceurt 2 2 0
-juico 1 5 0
-inbex 3 5 1

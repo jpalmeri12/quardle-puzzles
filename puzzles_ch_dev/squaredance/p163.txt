@@ -1,6 +1,0 @@
-6 8 squaredance
-quote 1 1 1
-evict 5 1 1
-quite 1 1 0
-exult 1 5 0
-audio 1 7 0

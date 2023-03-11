@@ -1,5 +1,0 @@
-6 6
-plait 1 1 1
-amber 3 1 1
-lemon 1 2 0
-inert 1 4 0

@@ -1,5 +1,0 @@
-7 10
-lever 2 1 0
-vogue 4 1 1
-greed 1 5 0
-drape 5 5 1

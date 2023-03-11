@@ -1,5 +1,0 @@
-7 7
-ratty 2 1 1
-amble 2 2 0
-logic 5 2 1
-stung 1 4 0

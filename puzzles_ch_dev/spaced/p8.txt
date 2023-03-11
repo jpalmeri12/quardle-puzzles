@@ -1,5 +1,0 @@
-7 10 spaced
-tribe 2 1 1
-recap 1 5 0
-peach 5 5 1
-tidal 2 7 0

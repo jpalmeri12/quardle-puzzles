@@ -1,5 +1,0 @@
-7 9 swap
-gnoem 5 1 1
-tyrst 2 4 1
-ypgmy 2 5 0
-hsout 1 7 0

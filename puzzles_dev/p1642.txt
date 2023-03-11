@@ -1,5 +1,0 @@
-7 10
-crock 2 1 1
-ranch 2 2 0
-skirt 1 5 0
-imply 3 5 1

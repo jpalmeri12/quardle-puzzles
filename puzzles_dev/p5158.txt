@@ -1,5 +1,0 @@
-7 10
-angle 2 1 1
-graph 2 3 0
-femme 1 5 0
-finer 1 5 1

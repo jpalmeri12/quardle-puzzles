@@ -1,5 +1,0 @@
-6 9
-cress 4 1 1
-churn 1 2 0
-macho 2 4 1
-marsh 1 5 0

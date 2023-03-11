@@ -1,5 +1,0 @@
-7 9
-riper 6 1 1
-drove 3 4 1
-briar 2 5 0
-cover 1 7 0

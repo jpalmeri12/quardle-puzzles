@@ -1,5 +1,0 @@
-7 9 frequency
-merge 1 1 0
-gecko 4 1 1
-mange 2 4 1
-afoul 2 5 0

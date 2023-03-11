@@ -1,5 +1,0 @@
-7 9
-phony 5 1 1
-light 2 2 0
-alley 3 4 1
-belly 1 5 0

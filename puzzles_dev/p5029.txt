@@ -1,5 +1,0 @@
-6 10
-slant 4 1 1
-caulk 1 2 0
-mouth 1 5 0
-udder 3 5 1

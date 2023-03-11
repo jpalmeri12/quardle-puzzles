@@ -1,5 +1,0 @@
-7 8
-nutty 6 1 1
-graft 2 3 0
-axial 4 3 1
-essay 1 6 0

@@ -1,6 +1,0 @@
-6 12 undercover
-child 5 1 1
-slush 1 2 0
-proud 1 5 0
-untie 4 5 1
-mammy 1 11 0

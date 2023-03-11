@@ -1,5 +1,0 @@
-7 10
-timer 4 1 1
-spire 1 5 0
-inlet 3 5 1
-flyer 2 7 0

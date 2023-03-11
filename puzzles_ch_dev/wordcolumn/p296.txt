@@ -1,6 +1,0 @@
-7 9 wordcolumn
-quota 1 1 1
-quoth 1 1 0
-trump 1 4 0
-mamma 4 4 1
-ramen 2 7 0

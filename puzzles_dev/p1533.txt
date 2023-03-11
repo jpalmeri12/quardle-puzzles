@@ -1,5 +1,0 @@
-7 10
-risky 5 1 1
-badly 1 5 0
-leant 4 5 1
-range 2 8 0

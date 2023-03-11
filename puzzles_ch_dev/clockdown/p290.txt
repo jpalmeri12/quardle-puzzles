@@ -1,5 +1,0 @@
-7 10 clockdown
-salty 6 1 1
-wispy 2 5 0
-sully 4 5 1
-polyp 1 9 0

@@ -1,5 +1,0 @@
-7 10
-round 2 1 1
-noble 1 2 0
-drawl 2 5 0
-write 5 5 1

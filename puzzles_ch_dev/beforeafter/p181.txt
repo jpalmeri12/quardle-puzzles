@@ -1,9 +1,0 @@
-7 9 beforeafter
-movie 5 1 1
-micro 1 2 0
-truck 2 4 1
-tonic 2 4 0
-!beforeafter 2 k
-!beforeafter 2 n
-!beforeafter 2 m
-!beforeafter 2 j

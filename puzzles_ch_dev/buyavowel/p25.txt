@@ -1,5 +1,0 @@
-6 7 buyavowel
-trump 2 1 1
-steam 5 2 1
-audit 1 3 0
-opera 1 5 0

@@ -1,5 +1,0 @@
-6 6 unloved
-vowel 2 1 1
-scalp 4 1 1
-coach 1 2 0
-dealt 1 4 0

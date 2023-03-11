@@ -1,5 +1,0 @@
-7 7
-truss 2 1 1
-crave 1 2 0
-eater 5 2 1
-super 2 5 0

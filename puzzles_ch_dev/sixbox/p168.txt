@@ -1,7 +1,0 @@
-8 8 sixbox
-smote 3 1 1
-scent 5 1 1
-elope 1 3 0
-poppy 4 3 1
-tonal 3 4 0
-inept 1 5 0

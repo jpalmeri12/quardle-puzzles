@@ -1,5 +1,0 @@
-7 9 duplicity
-radii 3 1 1
-pearl 1 2 0
-adept 5 4 1
-tilde 2 5 0

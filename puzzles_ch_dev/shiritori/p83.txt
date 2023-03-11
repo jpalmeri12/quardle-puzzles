@@ -1,5 +1,0 @@
-6 7 shiritori
-slyly 5 1 1
-scuba 3 2 1
-decry 1 3 0
-abbey 1 5 0

@@ -1,5 +1,0 @@
-6 8 elbowroom
-bayou 1 1 1
-dally 5 3 1
-usual 1 5 0
-pinky 1 7 0

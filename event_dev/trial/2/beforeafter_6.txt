@@ -1,9 +1,0 @@
-7 10 beforeafter
-amity 2 1 0
-afoot 2 1 1
-steep 1 5 0
-patsy 5 5 1
-!beforeafter 2 n
-!beforeafter 1 j
-!beforeafter 1 r
-!beforeafter 1 q

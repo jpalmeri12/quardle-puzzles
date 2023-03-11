@@ -1,5 +1,0 @@
-7 10
-pecan 2 1 1
-knack 1 5 0
-amaze 3 5 1
-azure 2 8 0

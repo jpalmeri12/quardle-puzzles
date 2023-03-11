@@ -1,5 +1,0 @@
-7 9
-fanny 4 1 1
-phony 1 4 0
-habit 2 4 1
-islet 2 7 0

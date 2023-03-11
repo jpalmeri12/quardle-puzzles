@@ -1,5 +1,0 @@
-6 8 clockdown
-abbot 1 1 0
-bayou 2 1 1
-drape 5 3 1
-guava 1 5 0

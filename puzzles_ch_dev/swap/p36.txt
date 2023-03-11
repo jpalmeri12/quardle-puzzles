@@ -1,5 +1,0 @@
-6 9 swap
-awahs 5 1 1
-ulnch 1 4 0
-nsore 3 4 1
-eerct 1 7 0

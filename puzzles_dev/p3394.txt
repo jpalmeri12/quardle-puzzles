@@ -1,5 +1,0 @@
-7 9
-horse 2 1 1
-octal 2 2 0
-essay 1 4 0
-young 5 4 1

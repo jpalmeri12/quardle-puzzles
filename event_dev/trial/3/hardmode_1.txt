@@ -1,5 +1,0 @@
-7 7 hardmode
-actor 5 1 1
-ethic 1 2 0
-hovel 3 2 1
-heart 2 5 0

@@ -1,5 +1,0 @@
-7 7
-arbor 2 1 1
-fried 1 2 0
-dusky 5 2 1
-rocky 2 5 0

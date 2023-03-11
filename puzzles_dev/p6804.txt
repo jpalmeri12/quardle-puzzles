@@ -1,5 +1,0 @@
-7 10
-vixen 5 1 1
-sushi 1 2 0
-suing 2 5 0
-grape 6 5 1

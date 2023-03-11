@@ -1,5 +1,0 @@
-6 8 sweeper
-islet 1 1 0
-stove 2 1 1
-vowel 1 3 0
-excel 4 3 1

@@ -1,6 +1,0 @@
-7 10 five
-crimp 1 1 1
-macro 1 4 0
-chafe 3 4 1
-outer 6 5 1
-afoot 2 7 0

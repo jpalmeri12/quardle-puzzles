@@ -1,9 +1,0 @@
-7 10 beforeafter
-rough 6 1 1
-mulch 2 5 0
-labor 4 5 1
-turbo 1 7 0
-!beforeafter 2 k
-!beforeafter 2 k
-!beforeafter 2 n
-!beforeafter 2 p

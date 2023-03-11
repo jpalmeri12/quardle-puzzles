@@ -1,5 +1,0 @@
-6 10 darkness
-acute 1 5 0
-carve 1 7 0
-coach 2 5 1
-might 4 1 1

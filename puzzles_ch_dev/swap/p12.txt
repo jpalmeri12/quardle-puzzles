@@ -1,5 +1,0 @@
-7 7 swap
-ouetr 3 1 1
-crury 1 2 0
-yesat 5 2 1
-briad 2 5 0

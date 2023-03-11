@@ -1,5 +1,0 @@
-7 10
-start 4 1 1
-ultra 2 2 0
-month 1 5 0
-husky 5 5 1

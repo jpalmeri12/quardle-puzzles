@@ -1,5 +1,0 @@
-7 10 scrabble
-elect 5 5 1
-horse 1 5 0
-forth 1 1 1
-annex 2 7 0

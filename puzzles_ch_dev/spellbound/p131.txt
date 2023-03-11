@@ -1,9 +1,0 @@
-7 9 spellbound
-sauna 5 1 1
-fauna 1 2 0
-ether 3 4 1
-stead 2 5 0
-!spellbound 0 0 2
-!spellbound 1 0 2
-!spellbound 2 3 2
-!spellbound 3 4 0

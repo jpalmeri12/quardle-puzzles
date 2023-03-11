@@ -1,7 +1,0 @@
-6 6 fourthwall
-rapid 1 1 0
-rebar 1 1 1
-begat 1 3 0
-pagan 3 1 1
-randy 1 5 0
-ditty 5 1 1

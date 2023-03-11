@@ -1,7 +1,0 @@
-8 8 sixbox
-throb 3 1 1
-piety 5 1 1
-surge 1 3 0
-gulch 4 3 1
-outgo 3 4 0
-nobly 1 5 0

@@ -1,5 +1,0 @@
-7 8
-girth 2 1 0
-trial 5 1 1
-mince 2 3 1
-circa 1 4 0

@@ -1,5 +1,0 @@
-7 8
-empty 6 1 1
-strap 2 3 0
-twirl 3 3 1
-sally 1 7 0

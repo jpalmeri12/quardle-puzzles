@@ -1,5 +1,0 @@
-6 9 outoforder
-swing 1 1 1
-motel 5 4 1
-gusto 1 5 0
-forge 1 7 0

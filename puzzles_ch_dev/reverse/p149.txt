@@ -1,5 +1,0 @@
-6 10 reverse
-inbox 2 1 1
-txiwt 1 5 0
-inane 3 5 1
-yknik 1 8 0

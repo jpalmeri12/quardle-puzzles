@@ -1,5 +1,0 @@
-7 10
-dodge 2 1 1
-elate 2 5 0
-along 4 5 1
-abhor 1 7 0

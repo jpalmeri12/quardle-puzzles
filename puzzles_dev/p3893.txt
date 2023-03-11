@@ -1,5 +1,0 @@
-6 9
-pixie 4 1 1
-rival 2 4 1
-tiger 1 5 0
-savvy 1 7 0

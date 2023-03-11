@@ -1,5 +1,0 @@
-7 10 buyavowel
-mecca 2 1 1
-wafer 1 5 0
-feign 3 5 1
-siege 2 7 0

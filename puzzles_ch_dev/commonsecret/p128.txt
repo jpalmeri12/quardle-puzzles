@@ -1,6 +1,0 @@
-6 6 commonsecret
-itchy 2 1 1
-satin 4 1 1
-steak 1 2 0
-their 1 4 0
-!secret t

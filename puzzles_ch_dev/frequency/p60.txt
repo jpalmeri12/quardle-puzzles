@@ -1,5 +1,0 @@
-6 8 frequency
-easel 1 1 0
-alibi 2 1 1
-altar 4 3 1
-vista 1 5 0

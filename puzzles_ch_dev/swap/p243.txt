@@ -1,5 +1,0 @@
-7 9 swap
-gooyd 2 1 0
-garve 2 1 1
-detah 5 4 1
-sevre 1 5 0

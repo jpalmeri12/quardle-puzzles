@@ -1,5 +1,0 @@
-6 10
-truly 5 1 1
-dimly 1 5 0
-motto 3 5 1
-witty 1 7 0

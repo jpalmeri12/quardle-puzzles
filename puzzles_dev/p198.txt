@@ -1,5 +1,0 @@
-6 9
-store 1 1 1
-stoic 3 4 1
-extol 1 5 0
-bribe 1 7 0

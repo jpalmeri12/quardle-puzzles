@@ -1,6 +1,0 @@
-6 10 commonsecret
-duvet 3 1 1
-water 1 5 0
-right 5 5 1
-comet 1 9 0
-!secret t

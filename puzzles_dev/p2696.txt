@@ -1,5 +1,0 @@
-7 9
-sooty 6 1 1
-stint 2 4 0
-teary 3 4 1
-nerdy 1 7 0

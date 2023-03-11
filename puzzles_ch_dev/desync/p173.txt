@@ -1,5 +1,0 @@
-7 10 desync
-agora 4 1 1
-forgo 1 2 0
-wrack 2 5 0
-waist 2 5 1

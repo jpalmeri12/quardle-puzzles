@@ -1,5 +1,0 @@
-6 10
-satin 5 1 1
-cocoa 1 2 0
-frown 1 5 0
-wedge 4 5 1

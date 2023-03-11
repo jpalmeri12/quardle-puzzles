@@ -1,5 +1,0 @@
-6 9
-chill 4 1 1
-fifty 2 4 1
-field 1 5 0
-stoop 1 7 0

@@ -1,5 +1,0 @@
-7 8
-pleat 5 1 1
-tepee 2 3 0
-emcee 3 3 1
-ascot 1 5 0

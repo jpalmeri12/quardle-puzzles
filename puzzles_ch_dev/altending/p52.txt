@@ -1,5 +1,0 @@
-6 9 altending
-bicep 1 1 0
-bleak 1 3 0
-spear 1 5 0
-polka 1 7 0

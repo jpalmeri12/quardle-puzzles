@@ -1,5 +1,0 @@
-6 9 buyavowel
-leach 2 1 1
-afoul 4 4 1
-theft 1 5 0
-croup 1 7 0

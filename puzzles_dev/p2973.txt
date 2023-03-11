@@ -1,5 +1,0 @@
-6 9
-sooty 5 1 1
-lasso 1 2 0
-await 1 4 0
-agape 1 4 1

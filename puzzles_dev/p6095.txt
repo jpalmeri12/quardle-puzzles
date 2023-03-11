@@ -1,5 +1,0 @@
-6 10
-taboo 5 1 1
-audio 1 5 0
-drown 3 5 1
-wooer 1 7 0

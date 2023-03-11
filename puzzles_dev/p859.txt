@@ -1,5 +1,0 @@
-6 10
-mafia 1 1 0
-alter 5 1 1
-nicer 1 5 0
-choir 3 5 1

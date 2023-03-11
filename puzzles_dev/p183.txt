@@ -1,5 +1,0 @@
-6 8
-vista 1 1 0
-adorn 5 1 1
-torso 1 3 0
-tense 1 3 1

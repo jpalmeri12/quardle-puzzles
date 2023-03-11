@@ -1,5 +1,0 @@
-7 10
-coach 4 1 1
-frank 2 3 0
-tithe 1 5 0
-tacky 3 5 1

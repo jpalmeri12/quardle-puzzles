@@ -1,5 +1,0 @@
-7 9 unloved
-smith 3 1 1
-stuff 2 4 0
-fiend 5 4 1
-vixen 1 7 0

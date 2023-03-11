@@ -1,5 +1,0 @@
-7 9 dblltr
-green 2 1 1
-radar 2 2 0
-wedge 1 4 0
-enema 5 4 1

@@ -1,5 +1,0 @@
-7 10
-diner 2 1 1
-biome 1 2 0
-rusty 2 5 0
-sulky 4 5 1

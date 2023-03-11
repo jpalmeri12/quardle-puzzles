@@ -1,5 +1,0 @@
-7 8
-acute 2 1 0
-usurp 4 1 1
-forum 1 3 0
-feign 1 3 1

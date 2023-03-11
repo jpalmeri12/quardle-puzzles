@@ -1,5 +1,0 @@
-6 7 elbowroom
-lipid 1 1 1
-digit 3 2 1
-print 1 3 0
-daily 1 5 0

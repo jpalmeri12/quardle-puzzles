@@ -1,6 +1,0 @@
-7 12 drop
-vista 4 1 1
-rapid 1 2 0
-brash 2 5 0
-singe 5 5 1
-grasp 1 11 0

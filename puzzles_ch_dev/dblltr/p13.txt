@@ -1,5 +1,0 @@
-6 10 dblltr
-toddy 3 1 1
-kayak 1 5 0
-kitty 5 5 1
-stint 1 8 0

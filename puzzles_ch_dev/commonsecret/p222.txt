@@ -1,6 +1,0 @@
-7 10 commonsecret
-awful 2 1 0
-allow 2 1 1
-swamp 1 5 0
-prawn 5 5 1
-!secret w

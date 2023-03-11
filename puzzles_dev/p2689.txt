@@ -1,5 +1,0 @@
-6 7
-adobe 1 1 1
-hippo 3 2 1
-olive 1 3 0
-expel 1 5 0

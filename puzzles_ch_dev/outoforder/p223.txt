@@ -1,5 +1,0 @@
-6 8 outoforder
-khaki 5 1 1
-dingy 3 3 1
-drink 1 4 0
-thyme 1 7 0

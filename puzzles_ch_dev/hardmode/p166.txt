@@ -1,5 +1,0 @@
-6 10 hardmode
-inlet 2 1 1
-snout 1 2 0
-stern 1 5 0
-extol 3 5 1

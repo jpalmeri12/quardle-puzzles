@@ -1,5 +1,0 @@
-7 9
-coach 2 1 1
-wreak 4 4 1
-shorn 1 5 0
-thank 2 7 0

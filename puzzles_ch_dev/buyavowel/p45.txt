@@ -1,5 +1,0 @@
-6 10 buyavowel
-quota 3 1 1
-brawn 1 5 0
-women 4 5 1
-grand 1 9 0

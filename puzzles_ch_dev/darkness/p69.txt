@@ -1,5 +1,0 @@
-7 9 darkness
-flame 5 4 1
-layer 2 2 0
-flier 2 1 1
-frill 1 5 0

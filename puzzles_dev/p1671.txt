@@ -1,5 +1,0 @@
-7 10
-arrow 6 1 1
-beady 2 5 1
-below 2 5 0
-naval 1 7 0

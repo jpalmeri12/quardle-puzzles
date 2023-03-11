@@ -1,5 +1,0 @@
-7 10
-amity 4 1 1
-brisk 2 3 0
-satyr 1 5 0
-axion 2 5 1

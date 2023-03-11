@@ -1,5 +1,0 @@
-7 9
-depot 2 1 1
-optic 2 4 0
-truck 4 4 1
-wrack 1 7 0

@@ -1,5 +1,0 @@
-7 10 swap
-giryl 1 1 1
-lsurp 1 5 0
-paryt 5 5 1
-hdyro 2 7 0

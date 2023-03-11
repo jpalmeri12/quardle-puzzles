@@ -1,5 +1,0 @@
-7 9
-giddy 1 1 1
-drove 1 4 0
-organ 3 4 1
-agora 2 6 0

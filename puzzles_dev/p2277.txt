@@ -1,5 +1,0 @@
-7 8
-erode 1 1 0
-drain 4 1 1
-flask 2 3 0
-kayak 6 3 1

@@ -1,6 +1,0 @@
-7 10 commonsecret
-charm 1 1 1
-mango 1 5 0
-gavel 4 5 1
-agent 2 8 0
-!secret a

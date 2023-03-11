@@ -1,5 +1,0 @@
-6 10 clockdown
-hitch 2 1 1
-whiff 1 5 0
-flock 4 5 1
-batch 1 8 0

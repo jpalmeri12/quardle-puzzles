@@ -1,5 +1,0 @@
-7 8 shiritori
-blown 1 1 1
-stein 4 3 1
-waltz 1 4 0
-china 2 6 0

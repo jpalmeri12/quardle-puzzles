@@ -1,5 +1,0 @@
-7 10 fourscore
-guava 4 1 1
-truce 2 2 0
-regal 1 5 0
-envoy 2 5 1

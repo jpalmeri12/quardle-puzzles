@@ -1,5 +1,0 @@
-6 9
-arbor 1 1 1
-roost 1 2 0
-shade 5 4 1
-reach 1 5 0

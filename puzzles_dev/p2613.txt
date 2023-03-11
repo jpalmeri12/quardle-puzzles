@@ -1,5 +1,0 @@
-7 9
-drape 2 1 0
-polyp 5 1 1
-foamy 1 4 0
-ounce 2 4 1

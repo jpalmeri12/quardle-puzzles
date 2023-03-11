@@ -1,5 +1,0 @@
-6 8 elbowroom
-harry 1 1 1
-harsh 1 1 0
-ramen 5 3 1
-rumba 1 4 0

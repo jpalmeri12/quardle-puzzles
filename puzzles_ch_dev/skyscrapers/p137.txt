@@ -1,5 +1,0 @@
-7 9 skyscrapers
-token 2 5 0
-stick 2 4 1
-eking 1 8 0
-dense 5 1 1

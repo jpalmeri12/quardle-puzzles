@@ -1,5 +1,0 @@
-7 9
-catty 2 1 0
-teeth 4 1 1
-taste 1 4 0
-track 1 4 1

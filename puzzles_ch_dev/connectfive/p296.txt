@@ -1,6 +1,0 @@
-7 9 connectfive
-derby 1 1 0
-elude 2 1 1
-beefy 4 4 1
-steep 6 4 1
-erect 2 5 0

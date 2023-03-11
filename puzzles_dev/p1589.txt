@@ -1,5 +1,0 @@
-7 10
-trend 1 1 0
-drunk 5 1 1
-pinky 2 5 0
-ideal 3 5 1

@@ -1,5 +1,0 @@
-6 9 beta
-gaunt 5 1 1
-mamma 1 2 0
-queen 1 4 0
-quake 1 4 1

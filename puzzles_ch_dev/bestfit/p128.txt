@@ -1,5 +1,0 @@
-7 10 bestfit
-prior 2 1 1
-idyll 2 3 0
-crowd 1 5 0
-curry 1 5 1

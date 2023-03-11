@@ -1,5 +1,0 @@
-7 10
-horde 1 1 1
-enact 1 5 0
-about 3 5 1
-stand 2 9 0

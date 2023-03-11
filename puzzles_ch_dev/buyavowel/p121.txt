@@ -1,5 +1,0 @@
-7 10 buyavowel
-medic 2 1 1
-scuba 1 5 0
-apple 5 5 1
-nymph 2 7 0

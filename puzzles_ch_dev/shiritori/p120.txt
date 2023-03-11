@@ -1,5 +1,0 @@
-7 8 shiritori
-eclat 1 1 0
-cobra 2 1 1
-bylaw 2 3 0
-libel 4 3 1

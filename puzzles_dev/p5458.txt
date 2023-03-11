@@ -1,5 +1,0 @@
-7 9
-least 5 1 1
-sower 3 4 1
-scout 1 5 0
-privy 2 8 0

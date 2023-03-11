@@ -1,5 +1,0 @@
-7 10 clockdown
-booty 5 1 1
-baggy 1 5 0
-gross 4 5 1
-bosom 2 8 0

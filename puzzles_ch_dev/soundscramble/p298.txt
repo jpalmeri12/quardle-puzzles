@@ -1,5 +1,0 @@
-7 8 soundscramble
-beomi 2 1 1
-tiasi 5 3 1
-mesir 2 4 0
-cabli 1 7 0

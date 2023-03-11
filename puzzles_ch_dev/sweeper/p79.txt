@@ -1,5 +1,0 @@
-7 8 sweeper
-habit 1 1 1
-scrub 3 3 1
-incur 1 4 0
-lunar 2 6 0

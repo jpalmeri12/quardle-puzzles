@@ -1,6 +1,0 @@
-6 8 squaredance
-scale 1 1 1
-etude 5 1 1
-siege 1 1 0
-elude 1 5 0
-until 1 7 0

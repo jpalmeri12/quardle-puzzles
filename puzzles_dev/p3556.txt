@@ -1,5 +1,0 @@
-6 7
-agape 5 1 1
-twang 1 2 0
-array 3 2 1
-syrup 1 4 0

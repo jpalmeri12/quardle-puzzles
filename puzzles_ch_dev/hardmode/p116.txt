@@ -1,5 +1,0 @@
-6 7 hardmode
-fable 1 1 1
-obese 3 2 1
-bobby 1 3 0
-essay 1 5 0

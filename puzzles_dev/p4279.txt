@@ -1,5 +1,0 @@
-6 10
-there 4 1 1
-stunk 1 5 1
-sheep 1 5 0
-unset 1 7 0

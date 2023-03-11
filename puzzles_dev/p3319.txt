@@ -1,5 +1,0 @@
-6 7
-brass 4 1 1
-lorry 1 2 1
-offal 1 3 0
-rinse 1 5 0

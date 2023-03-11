@@ -1,5 +1,0 @@
-7 8 duplicity
-cheer 4 1 1
-octet 1 3 0
-chart 2 3 1
-aorta 2 5 0

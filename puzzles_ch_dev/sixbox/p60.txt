@@ -1,7 +1,0 @@
-8 8 sixbox
-swore 3 1 1
-rhyme 5 1 1
-booby 1 3 0
-begin 4 3 1
-remit 3 4 0
-liege 1 5 0

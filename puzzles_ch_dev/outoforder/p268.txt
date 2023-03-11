@@ -1,5 +1,0 @@
-7 9 outoforder
-agile 4 1 1
-fight 2 2 0
-shale 1 4 0
-stern 1 4 1

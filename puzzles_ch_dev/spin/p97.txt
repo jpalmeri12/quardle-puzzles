@@ -1,5 +1,0 @@
-7 7 spin
-cache 5 1 1
-banal 2 2 0
-abode 3 2 1
-quoth 1 4 0

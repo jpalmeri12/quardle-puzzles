@@ -1,5 +1,0 @@
-6 10 elbowroom
-grave 5 1 1
-larva 1 3 0
-crave 1 5 0
-agony 3 5 1

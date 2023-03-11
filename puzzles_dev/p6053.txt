@@ -1,5 +1,0 @@
-7 10
-dread 6 1 1
-rapid 2 5 0
-prose 4 5 1
-tumor 1 7 0

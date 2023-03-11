@@ -1,5 +1,0 @@
-7 9
-price 1 1 1
-clerk 1 4 0
-recur 4 4 1
-plush 2 7 0

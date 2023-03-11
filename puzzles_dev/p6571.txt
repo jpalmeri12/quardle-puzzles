@@ -1,5 +1,0 @@
-7 10
-flare 4 1 1
-erect 2 5 0
-resin 3 5 1
-abide 1 8 0

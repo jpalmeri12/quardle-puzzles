@@ -1,5 +1,0 @@
-7 9 dblltr
-riper 1 1 0
-eager 4 1 1
-rally 2 4 1
-aorta 2 5 0

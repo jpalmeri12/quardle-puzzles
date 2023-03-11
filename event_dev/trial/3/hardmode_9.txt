@@ -1,5 +1,0 @@
-7 7 hardmode
-canny 5 1 1
-diner 3 2 1
-fiend 2 3 0
-geeky 1 5 0

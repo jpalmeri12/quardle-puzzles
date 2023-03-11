@@ -1,5 +1,0 @@
-7 9 elbowroom
-issue 2 1 1
-minim 4 4 1
-fetid 1 5 0
-chill 2 7 0

@@ -1,5 +1,0 @@
-7 10
-abase 5 1 1
-booby 2 2 0
-curve 1 5 0
-cross 1 5 1

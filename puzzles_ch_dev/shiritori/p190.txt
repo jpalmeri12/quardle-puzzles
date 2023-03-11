@@ -1,5 +1,0 @@
-7 10 shiritori
-repel 4 1 1
-pulpy 1 3 0
-baste 2 5 1
-belly 2 5 0

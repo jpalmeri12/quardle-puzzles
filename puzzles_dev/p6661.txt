@@ -1,5 +1,0 @@
-7 9
-marry 5 1 1
-fairy 2 4 1
-ferry 2 4 0
-train 1 7 0

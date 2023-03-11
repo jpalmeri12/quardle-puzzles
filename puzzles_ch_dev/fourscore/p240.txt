@@ -1,5 +1,0 @@
-7 9 fourscore
-steak 2 1 0
-exult 4 1 1
-belle 1 4 0
-blink 1 4 1

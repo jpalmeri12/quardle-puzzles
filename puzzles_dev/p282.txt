@@ -1,5 +1,0 @@
-6 8
-stand 5 1 1
-magma 1 3 0
-abort 2 3 1
-gourd 1 5 0

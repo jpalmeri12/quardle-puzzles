@@ -1,6 +1,0 @@
-6 10 commonsecret
-sting 1 1 1
-going 1 5 0
-ninth 4 5 1
-sixty 1 8 0
-!secret i

@@ -1,5 +1,0 @@
-6 10
-toast 4 1 1
-mason 1 2 0
-hasty 1 5 0
-horde 1 5 1

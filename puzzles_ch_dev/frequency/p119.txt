@@ -1,5 +1,0 @@
-6 9 frequency
-noble 5 1 1
-fancy 2 4 1
-haute 1 5 0
-scree 1 7 0

@@ -1,5 +1,0 @@
-6 9
-spicy 2 1 1
-spool 1 2 0
-scrap 1 4 0
-angel 4 4 1

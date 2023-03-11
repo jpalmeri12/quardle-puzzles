@@ -1,5 +1,0 @@
-6 7 fourscore
-hello 2 1 1
-retro 1 2 0
-octet 5 2 1
-gloat 1 4 0

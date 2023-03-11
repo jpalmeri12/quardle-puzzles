@@ -1,5 +1,0 @@
-6 7 buyavowel
-ombre 1 1 1
-mushy 1 2 0
-heave 4 2 1
-rival 1 4 0

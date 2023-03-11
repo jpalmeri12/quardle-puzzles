@@ -1,5 +1,0 @@
-6 9
-toxin 5 1 1
-shank 2 4 1
-thorn 1 5 0
-knife 1 7 0

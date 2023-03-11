@@ -1,6 +1,0 @@
-7 9 wordcolumn
-shoot 2 1 1
-homer 2 2 0
-polyp 1 4 0
-pecan 5 4 1
-repay 2 7 0

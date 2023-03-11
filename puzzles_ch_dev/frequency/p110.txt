@@ -1,5 +1,0 @@
-7 8 frequency
-brink 6 1 1
-meaty 4 3 1
-crank 2 5 0
-satyr 1 7 0

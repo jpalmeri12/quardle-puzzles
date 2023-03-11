@@ -1,5 +1,0 @@
-7 10 dblltr
-harry 4 1 1
-terse 2 3 0
-polyp 1 5 0
-lever 3 5 1

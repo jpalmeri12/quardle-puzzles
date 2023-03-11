@@ -1,6 +1,0 @@
-7 10 wordcolumn
-basis 6 1 1
-dally 2 5 1
-dross 2 5 0
-owner 4 5 1
-plunk 1 7 0

@@ -1,6 +1,0 @@
-7 10 island
-scrum 2 1 1
-rider 2 3 0
-smell 1 5 0
-enjoy 3 5 1
-!island 11111 31 211 2111

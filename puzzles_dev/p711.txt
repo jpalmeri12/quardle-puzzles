@@ -1,5 +1,0 @@
-7 10
-stool 5 1 1
-vocal 1 5 0
-corny 3 5 1
-grand 2 7 0

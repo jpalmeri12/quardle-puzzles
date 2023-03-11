@@ -1,5 +1,0 @@
-7 8 darkness
-berth 1 7 0
-goose 2 3 1
-oddly 2 5 0
-scold 4 1 1

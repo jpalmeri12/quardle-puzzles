@@ -1,5 +1,0 @@
-7 7
-moist 2 1 1
-gooey 1 2 0
-yeast 5 2 1
-strap 2 4 0

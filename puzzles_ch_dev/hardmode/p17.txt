@@ -1,5 +1,0 @@
-7 8 hardmode
-scoff 2 1 0
-flash 5 1 1
-humid 2 3 1
-smith 1 5 0

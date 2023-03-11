@@ -1,9 +1,0 @@
-7 7 beforeafter
-wreak 6 1 1
-snide 2 2 1
-nudge 2 3 0
-least 1 6 0
-!beforeafter 1 o
-!beforeafter 1 j
-!beforeafter 1 m
-!beforeafter 2 r

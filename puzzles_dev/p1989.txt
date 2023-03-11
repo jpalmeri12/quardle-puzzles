@@ -1,5 +1,0 @@
-7 9
-loamy 4 1 1
-vapor 1 2 0
-cumin 2 4 0
-niche 6 4 1

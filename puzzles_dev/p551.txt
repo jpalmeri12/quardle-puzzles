@@ -1,5 +1,0 @@
-6 10
-diner 2 1 1
-armor 1 5 0
-rebel 5 5 1
-papal 1 9 0

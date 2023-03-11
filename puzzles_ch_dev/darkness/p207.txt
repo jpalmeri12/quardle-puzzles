@@ -1,5 +1,0 @@
-7 9 darkness
-bribe 1 4 0
-bliss 1 4 1
-spilt 2 1 0
-pubic 3 1 1

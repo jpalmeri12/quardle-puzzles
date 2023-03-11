@@ -1,5 +1,0 @@
-7 9
-share 5 1 1
-lobby 3 4 1
-goose 1 5 0
-abbey 2 7 0

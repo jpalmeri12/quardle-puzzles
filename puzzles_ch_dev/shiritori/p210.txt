@@ -1,5 +1,0 @@
-6 9 shiritori
-sheer 1 1 0
-homer 2 1 1
-finch 4 4 1
-grain 1 5 0

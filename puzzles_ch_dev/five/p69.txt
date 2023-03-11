@@ -1,6 +1,0 @@
-6 12 five
-adore 5 1 1
-later 1 4 1
-aware 1 5 0
-edict 4 7 1
-reedy 1 8 0

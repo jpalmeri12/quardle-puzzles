@@ -1,5 +1,0 @@
-7 8
-ashen 2 1 1
-aloof 2 1 0
-cress 4 3 1
-ferry 1 4 0

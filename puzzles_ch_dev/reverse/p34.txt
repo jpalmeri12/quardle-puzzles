@@ -1,5 +1,0 @@
-7 10 reverse
-gaudy 5 1 1
-purys 2 5 0
-uoyab 3 5 1
-buyer 1 7 0

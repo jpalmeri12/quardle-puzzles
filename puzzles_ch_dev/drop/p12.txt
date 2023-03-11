@@ -1,6 +1,0 @@
-7 11 drop
-moron 4 1 1
-troll 2 2 0
-baron 1 4 0
-balmy 1 4 1
-story 1 10 0

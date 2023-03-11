@@ -1,5 +1,0 @@
-7 10 swap
-htong 2 1 1
-agign 1 5 0
-guitl 4 5 1
-smlie 2 9 0

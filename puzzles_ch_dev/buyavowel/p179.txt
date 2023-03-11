@@ -1,5 +1,0 @@
-6 9 buyavowel
-polyp 5 1 1
-macho 1 2 0
-gummy 1 4 0
-melee 3 4 1

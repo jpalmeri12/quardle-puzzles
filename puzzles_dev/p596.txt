@@ -1,5 +1,0 @@
-7 9
-balmy 1 1 0
-yearn 5 1 1
-mound 3 4 1
-borne 2 5 0

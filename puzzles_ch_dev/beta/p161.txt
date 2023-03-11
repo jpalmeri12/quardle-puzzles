@@ -1,5 +1,0 @@
-6 8 beta
-fella 3 1 1
-safer 5 3 1
-wharf 1 5 0
-parer 1 7 0

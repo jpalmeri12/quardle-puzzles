@@ -1,5 +1,0 @@
-7 10
-bleep 1 1 0
-epoxy 4 1 1
-buyer 2 5 0
-roost 6 5 1

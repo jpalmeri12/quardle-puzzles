@@ -1,5 +1,0 @@
-7 9 hardmode
-sting 5 1 1
-moult 1 2 0
-after 2 4 1
-fungi 2 5 0

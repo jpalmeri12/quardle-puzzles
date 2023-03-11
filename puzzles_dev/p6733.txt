@@ -1,5 +1,0 @@
-7 9
-vaunt 5 1 1
-dunce 3 4 1
-fault 1 5 0
-scone 2 7 0

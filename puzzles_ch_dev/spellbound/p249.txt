@@ -1,9 +1,0 @@
-6 8 spellbound
-copse 1 1 1
-purge 1 3 0
-gnome 4 3 1
-golem 1 7 0
-!spellbound 0 0 4
-!spellbound 1 1 4
-!spellbound 2 3 1
-!spellbound 3 4 2

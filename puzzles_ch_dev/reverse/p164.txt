@@ -1,5 +1,0 @@
-6 9 reverse
-dlacs 4 1 1
-still 1 2 0
-eercs 1 4 0
-event 2 4 1

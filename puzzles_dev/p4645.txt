@@ -1,5 +1,0 @@
-7 9
-leery 3 1 1
-depot 2 2 0
-forte 1 4 0
-envoy 5 4 1

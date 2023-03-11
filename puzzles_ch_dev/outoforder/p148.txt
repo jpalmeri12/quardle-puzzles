@@ -1,5 +1,0 @@
-6 9 outoforder
-rival 1 1 0
-vogue 3 1 1
-bluer 1 4 0
-brake 1 4 1

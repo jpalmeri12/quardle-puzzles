@@ -1,9 +1,0 @@
-6 7 beforeafter
-abyss 1 1 1
-begun 1 2 0
-ghost 3 2 1
-stood 1 4 0
-!beforeafter 1 q
-!beforeafter 2 l
-!beforeafter 1 i
-!beforeafter 1 p

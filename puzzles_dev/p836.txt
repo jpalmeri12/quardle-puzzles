@@ -1,5 +1,0 @@
-7 9
-toast 5 1 1
-elder 2 4 1
-loath 2 5 0
-rebel 1 7 0

@@ -1,6 +1,0 @@
-6 8 squaredance
-gland 1 1 1
-elude 5 1 1
-guile 1 1 0
-drove 1 5 0
-stair 1 7 0

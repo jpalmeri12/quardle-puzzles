@@ -1,5 +1,0 @@
-6 10 soundscramble
-civil 1 1 1
-ludgu 1 5 0
-unseu 2 5 1
-delly 1 8 0

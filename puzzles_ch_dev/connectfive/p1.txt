@@ -1,6 +1,0 @@
-7 10 connectfive
-rifle 2 1 0
-ledge 5 1 1
-rigid 1 3 0
-kneed 2 5 0
-niche 3 5 1

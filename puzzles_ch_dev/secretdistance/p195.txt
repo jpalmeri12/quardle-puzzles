@@ -1,7 +1,0 @@
-7 10 secretdistance
-fritz 1 1 0
-rumba 2 1 1
-unzip 4 3 1
-bunny 2 4 0
-llama 1 9 0
-!sdpos 0 2 1 2

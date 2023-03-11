@@ -1,5 +1,0 @@
-6 9 altending
-pivot 1 1 0
-tardy 1 3 0
-goofy 1 5 0
-unity 1 7 0

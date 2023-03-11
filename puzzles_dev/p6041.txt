@@ -1,5 +1,0 @@
-7 10
-marry 4 1 1
-dryer 2 5 0
-elfin 5 5 1
-satin 1 9 0

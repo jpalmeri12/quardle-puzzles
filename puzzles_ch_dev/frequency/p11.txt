@@ -1,5 +1,0 @@
-7 7 frequency
-gayer 6 1 1
-using 3 2 1
-assay 2 3 0
-roger 1 6 0

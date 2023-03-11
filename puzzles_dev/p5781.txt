@@ -1,5 +1,0 @@
-7 10
-sloop 2 1 1
-spawn 1 5 0
-ninth 5 5 1
-prank 2 7 0

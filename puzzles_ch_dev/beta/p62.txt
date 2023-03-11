@@ -1,5 +1,0 @@
-7 7 beta
-hello 2 1 1
-knock 4 2 1
-lunar 2 3 0
-notch 1 5 0

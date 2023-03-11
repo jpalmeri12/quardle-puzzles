@@ -1,5 +1,0 @@
-7 10
-snaky 2 1 1
-eying 1 5 0
-nutty 4 5 1
-shyly 2 9 0

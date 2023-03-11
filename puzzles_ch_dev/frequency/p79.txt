@@ -1,5 +1,0 @@
-6 7 frequency
-havoc 1 1 1
-abhor 1 2 0
-hotel 3 2 1
-otter 1 4 0

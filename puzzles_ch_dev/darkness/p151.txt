@@ -1,5 +1,0 @@
-6 9 darkness
-guess 1 4 0
-savoy 5 4 1
-tally 1 1 0
-afoul 2 1 1

@@ -1,5 +1,0 @@
-7 9 outoforder
-stand 1 1 0
-donor 5 1 1
-nylon 2 4 0
-navel 2 4 1

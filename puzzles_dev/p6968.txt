@@ -1,5 +1,0 @@
-7 9
-again 1 1 0
-adobe 3 1 1
-aback 2 4 0
-knead 6 4 1

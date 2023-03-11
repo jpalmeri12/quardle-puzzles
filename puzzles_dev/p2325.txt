@@ -1,5 +1,0 @@
-6 9
-adapt 2 1 1
-admit 1 2 0
-hunch 4 4 1
-strut 1 5 0

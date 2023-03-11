@@ -1,5 +1,0 @@
-6 8 soundscramble
-snerl 5 1 1
-besic 2 3 1
-aetar 1 4 0
-scraa 1 7 0

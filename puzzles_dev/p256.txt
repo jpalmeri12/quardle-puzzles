@@ -1,5 +1,0 @@
-7 9
-penal 1 1 1
-stark 4 4 1
-lofty 1 5 0
-shrug 2 7 0

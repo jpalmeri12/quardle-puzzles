@@ -1,7 +1,0 @@
-6 6 fourthwall
-facet 1 1 0
-frame 1 1 1
-amend 1 3 0
-cheat 3 1 1
-entry 1 5 0
-today 5 1 1

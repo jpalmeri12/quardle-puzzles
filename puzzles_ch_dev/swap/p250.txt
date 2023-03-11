@@ -1,5 +1,0 @@
-7 9 swap
-knvae 2 1 1
-inetr 5 4 1
-eikng 2 5 0
-decyr 1 8 0

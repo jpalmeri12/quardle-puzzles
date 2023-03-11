@@ -1,5 +1,0 @@
-6 8 spin
-doubt 1 1 0
-bosom 4 1 1
-foist 1 3 0
-octal 2 3 1

@@ -1,5 +1,0 @@
-6 7 swap
-dveil 4 1 1
-ptaio 1 2 1
-porve 1 2 0
-astin 1 4 0

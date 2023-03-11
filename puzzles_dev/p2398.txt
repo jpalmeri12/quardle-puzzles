@@ -1,5 +1,0 @@
-7 9
-droll 5 1 1
-feast 3 4 1
-shell 1 5 0
-using 2 7 0

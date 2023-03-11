@@ -1,5 +1,0 @@
-6 8 bestfit
-spool 3 1 1
-beset 5 3 1
-grove 1 4 0
-faint 1 7 0

@@ -1,5 +1,0 @@
-6 10
-knife 5 1 1
-scale 1 5 0
-aorta 3 5 1
-shrew 1 7 0

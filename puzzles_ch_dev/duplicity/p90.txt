@@ -1,5 +1,0 @@
-7 8 duplicity
-roach 2 1 1
-horde 5 3 1
-canoe 2 4 0
-anode 1 7 0

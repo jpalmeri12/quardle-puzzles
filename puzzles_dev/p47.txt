@@ -1,5 +1,0 @@
-7 10
-grant 2 1 1
-tripe 2 5 0
-itchy 4 5 1
-belch 1 7 0

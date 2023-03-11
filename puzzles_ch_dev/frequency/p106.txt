@@ -1,5 +1,0 @@
-7 10 frequency
-pupil 1 1 0
-pilot 3 1 1
-stork 2 5 0
-rigor 5 5 1

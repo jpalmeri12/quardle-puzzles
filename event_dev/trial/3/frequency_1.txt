@@ -1,5 +1,0 @@
-6 9 frequency
-sheep 1 1 1
-tarot 5 4 1
-parka 1 5 0
-reset 1 8 0

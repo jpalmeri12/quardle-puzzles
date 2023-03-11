@@ -1,5 +1,0 @@
-6 8
-strap 1 1 0
-tamer 2 1 1
-imbue 1 3 0
-enter 5 3 1

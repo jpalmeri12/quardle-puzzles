@@ -1,5 +1,0 @@
-7 7 desync
-event 4 1 1
-agora 2 2 1
-guest 2 3 0
-wrote 1 5 0

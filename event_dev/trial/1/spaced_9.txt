@@ -1,5 +1,0 @@
-7 8 spaced
-magic 1 1 0
-cream 5 1 1
-ripen 2 3 0
-inept 3 3 1

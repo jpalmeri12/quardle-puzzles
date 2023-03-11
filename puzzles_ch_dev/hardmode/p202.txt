@@ -1,5 +1,0 @@
-7 10 hardmode
-swami 4 1 1
-thigh 2 5 0
-taint 2 5 1
-inner 1 8 0

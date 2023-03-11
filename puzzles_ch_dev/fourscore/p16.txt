@@ -1,5 +1,0 @@
-7 9 fourscore
-botch 4 1 1
-guise 2 4 1
-duchy 1 5 0
-steak 2 7 0

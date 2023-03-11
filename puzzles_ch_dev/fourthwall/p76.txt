@@ -1,7 +1,0 @@
-6 6 fourthwall
-pubic 1 1 0
-parka 1 1 1
-rigid 1 3 0
-bigot 3 1 1
-artsy 1 5 0
-caddy 5 1 1

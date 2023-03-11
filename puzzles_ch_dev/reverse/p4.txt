@@ -1,5 +1,0 @@
-6 8 reverse
-exile 4 1 1
-htoot 2 3 1
-stole 1 4 0
-htped 1 7 0

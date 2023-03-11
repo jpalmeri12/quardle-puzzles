@@ -1,9 +1,0 @@
-7 7 beforeafter
-unfed 4 1 1
-caulk 2 2 1
-canny 2 2 0
-queen 1 4 0
-!beforeafter 1 i
-!beforeafter 1 j
-!beforeafter 1 j
-!beforeafter 1 o

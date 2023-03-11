@@ -1,5 +1,0 @@
-6 10
-gavel 1 1 0
-greet 1 1 1
-torch 1 5 0
-helix 5 5 1

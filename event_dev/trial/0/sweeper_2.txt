@@ -1,5 +1,0 @@
-7 9 sweeper
-condo 4 1 1
-scald 2 4 1
-clout 2 5 0
-blunt 1 7 0

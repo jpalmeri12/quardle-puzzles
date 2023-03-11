@@ -1,5 +1,0 @@
-7 9 swap
-topci 4 1 1
-hmuph 1 3 0
-ehnce 6 4 1
-wdith 2 5 0

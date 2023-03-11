@@ -1,5 +1,0 @@
-7 9
-irony 1 1 0
-rajah 2 1 1
-missy 5 4 1
-humid 2 5 0

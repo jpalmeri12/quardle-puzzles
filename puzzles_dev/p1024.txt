@@ -1,5 +1,0 @@
-6 8
-audio 2 1 1
-harem 4 3 1
-cigar 1 4 0
-trump 1 7 0

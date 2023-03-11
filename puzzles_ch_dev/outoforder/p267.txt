@@ -1,5 +1,0 @@
-6 7 outoforder
-unzip 1 1 1
-nobly 1 2 0
-badly 3 2 1
-paler 1 5 0

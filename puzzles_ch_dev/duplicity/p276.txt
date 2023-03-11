@@ -1,5 +1,0 @@
-7 7 duplicity
-spoon 1 1 1
-psalm 1 2 0
-manly 5 2 1
-polyp 2 6 0

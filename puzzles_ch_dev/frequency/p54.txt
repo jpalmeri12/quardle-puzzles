@@ -1,5 +1,0 @@
-6 7 frequency
-cleft 1 1 1
-wedge 3 2 1
-erect 1 3 0
-tiger 1 5 0

@@ -1,5 +1,0 @@
-7 10 clockdown
-medic 4 1 1
-lodge 2 3 0
-fetch 1 5 0
-tweed 3 5 1

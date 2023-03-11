@@ -1,5 +1,0 @@
-6 7
-pansy 4 1 1
-octal 1 2 0
-chirp 2 2 1
-midst 1 4 0

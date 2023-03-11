@@ -1,5 +1,0 @@
-7 9 buyavowel
-broad 1 1 1
-inane 4 4 1
-drink 1 5 0
-tweet 2 8 0

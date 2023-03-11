@@ -1,5 +1,0 @@
-7 9 frequency
-whirl 5 1 1
-femur 1 4 0
-macro 3 4 1
-drove 2 7 0

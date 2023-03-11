@@ -1,5 +1,0 @@
-7 7 dblltr
-mecca 3 1 1
-these 1 2 0
-evoke 5 2 1
-parka 2 5 0

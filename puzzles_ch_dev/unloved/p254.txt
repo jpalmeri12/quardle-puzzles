@@ -1,5 +1,0 @@
-6 7 unloved
-hairy 3 1 1
-skate 5 2 1
-stick 1 3 0
-tryst 1 5 0

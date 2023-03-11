@@ -1,5 +1,0 @@
-6 7
-widen 1 1 1
-inane 1 2 0
-eagle 5 2 1
-navel 1 5 0

@@ -1,5 +1,0 @@
-6 6 skyscrapers
-timer 1 4 0
-model 4 1 1
-gnome 1 1 0
-girth 1 1 1

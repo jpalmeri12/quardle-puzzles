@@ -1,5 +1,0 @@
-7 10 scrabble
-irony 2 3 0
-throw 3 1 1
-equal 4 5 1
-jewel 1 5 0

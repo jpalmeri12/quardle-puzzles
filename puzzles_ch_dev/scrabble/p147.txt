@@ -1,5 +1,0 @@
-7 10 scrabble
-titan 2 5 0
-token 2 5 1
-fewer 1 3 0
-eject 4 1 1

@@ -1,5 +1,0 @@
-6 10
-parry 2 1 1
-manly 1 2 0
-cynic 1 5 0
-noisy 3 5 1

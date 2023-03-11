@@ -1,5 +1,0 @@
-6 9 beta
-loose 1 1 1
-lithe 1 1 0
-small 1 4 0
-lusty 4 4 1

@@ -1,5 +1,0 @@
-7 10 duplicity
-rebel 2 1 0
-bonus 4 1 1
-blush 1 5 0
-heron 5 5 1

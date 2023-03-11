@@ -1,5 +1,0 @@
-6 8 reverse
-dirty 5 1 1
-eecme 3 3 1
-exert 1 4 0
-neerp 1 7 0

@@ -1,5 +1,0 @@
-7 10
-blush 2 1 1
-blond 2 1 0
-thank 1 5 0
-altar 3 5 1

@@ -1,5 +1,0 @@
-7 10 dblltr
-patty 2 1 1
-arena 2 2 0
-gypsy 1 5 0
-groom 1 5 1

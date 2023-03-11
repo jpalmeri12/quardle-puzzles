@@ -1,5 +1,0 @@
-7 7
-straw 5 1 1
-booty 2 2 0
-optic 3 2 1
-ultra 1 4 0

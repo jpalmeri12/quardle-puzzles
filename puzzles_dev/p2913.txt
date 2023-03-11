@@ -1,5 +1,0 @@
-6 10
-curio 2 1 1
-world 1 5 0
-lipid 4 5 1
-begin 1 8 0

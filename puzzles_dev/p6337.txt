@@ -1,5 +1,0 @@
-7 9
-morph 2 1 1
-goody 1 2 0
-phone 2 4 0
-optic 4 4 1

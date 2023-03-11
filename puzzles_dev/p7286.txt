@@ -1,5 +1,0 @@
-7 9
-trice 5 1 1
-witty 3 4 1
-timer 2 5 0
-hitch 1 7 0

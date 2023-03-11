@@ -1,6 +1,0 @@
-6 9 wordcolumn
-brass 3 1 1
-shrub 1 2 1
-serve 1 2 0
-stoke 5 4 1
-upset 1 5 0

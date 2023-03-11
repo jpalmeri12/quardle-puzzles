@@ -1,5 +1,0 @@
-7 10 desync
-denim 5 1 1
-algae 1 2 0
-filmy 2 5 0
-yacht 6 5 1

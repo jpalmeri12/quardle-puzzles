@@ -1,7 +1,0 @@
-7 10 secretdistance
-coven 1 1 1
-video 1 3 0
-enemy 4 3 1
-demur 2 6 0
-lymph 1 9 0
-!sdpos 0 0 2 3

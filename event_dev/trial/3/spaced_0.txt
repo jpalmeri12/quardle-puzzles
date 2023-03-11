@@ -1,5 +1,0 @@
-7 9 spaced
-dwarf 2 1 1
-tweak 1 2 0
-broke 4 4 1
-forty 2 5 0

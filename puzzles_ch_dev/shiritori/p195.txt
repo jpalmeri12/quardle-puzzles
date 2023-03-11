@@ -1,5 +1,0 @@
-6 6 shiritori
-afoul 2 1 1
-filmy 4 1 1
-affix 1 2 0
-mummy 1 4 0

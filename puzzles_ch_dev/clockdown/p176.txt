@@ -1,5 +1,0 @@
-6 7 clockdown
-meant 2 1 1
-delta 1 2 0
-alibi 5 2 1
-ennui 1 4 0

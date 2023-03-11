@@ -1,9 +1,0 @@
-6 9 spellbound
-sheep 5 1 1
-agape 1 4 0
-along 3 4 1
-wince 1 7 0
-!spellbound 0 0 4
-!spellbound 1 1 0
-!spellbound 2 1 2
-!spellbound 3 3 1

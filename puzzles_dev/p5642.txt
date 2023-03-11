@@ -1,5 +1,0 @@
-7 9
-fiery 1 1 0
-rouse 4 1 1
-tango 6 4 1
-arena 2 5 0

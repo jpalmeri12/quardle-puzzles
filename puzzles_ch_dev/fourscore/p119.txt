@@ -1,5 +1,0 @@
-7 9 fourscore
-biddy 2 1 0
-deity 5 1 1
-boost 3 4 1
-ebony 1 5 0

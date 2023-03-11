@@ -1,5 +1,0 @@
-7 10
-arise 5 1 1
-optic 2 3 0
-goose 1 5 0
-gawky 1 5 1

@@ -1,5 +1,0 @@
-7 10
-harry 2 1 1
-realm 2 3 0
-cynic 1 5 0
-intro 4 5 1

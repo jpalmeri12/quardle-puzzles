@@ -1,5 +1,0 @@
-7 7 outoforder
-cycle 5 1 1
-itchy 1 2 0
-coast 3 2 1
-ashen 2 5 0

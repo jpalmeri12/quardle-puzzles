@@ -1,5 +1,0 @@
-7 9
-sadly 5 1 1
-pinky 3 4 1
-vinyl 2 5 0
-slyly 1 8 0

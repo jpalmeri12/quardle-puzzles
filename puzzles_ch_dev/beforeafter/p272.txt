@@ -1,9 +1,0 @@
-6 10 beforeafter
-usage 2 1 1
-macro 1 3 0
-lemur 1 5 0
-rumba 5 5 1
-!beforeafter 1 q
-!beforeafter 2 n
-!beforeafter 2 p
-!beforeafter 2 l

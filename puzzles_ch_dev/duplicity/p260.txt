@@ -1,5 +1,0 @@
-7 7 duplicity
-drone 1 1 0
-ridge 2 1 1
-diner 6 2 1
-groin 2 4 0

@@ -1,5 +1,0 @@
-7 9
-pulpy 2 1 1
-spell 1 4 0
-lunge 4 4 1
-sneer 2 8 0

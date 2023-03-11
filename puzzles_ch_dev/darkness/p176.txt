@@ -1,5 +1,0 @@
-6 10 darkness
-cream 1 3 0
-carry 5 5 1
-manic 1 5 0
-khaki 4 1 1

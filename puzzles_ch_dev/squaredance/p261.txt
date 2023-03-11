@@ -1,6 +1,0 @@
-6 8 squaredance
-caper 1 1 1
-kneed 5 1 1
-crock 1 1 0
-rapid 1 5 0
-abate 1 7 0

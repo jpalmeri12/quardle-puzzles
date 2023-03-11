@@ -1,5 +1,0 @@
-7 9 duplicity
-polyp 5 1 1
-alloy 2 2 0
-loamy 1 4 0
-llama 1 4 1

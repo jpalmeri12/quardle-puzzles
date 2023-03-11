@@ -1,5 +1,0 @@
-6 10 invention
-slang 1 1 0
-larva 2 1 1
-fable 1 5 0
-briny 3 5 1

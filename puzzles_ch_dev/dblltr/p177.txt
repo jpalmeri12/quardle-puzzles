@@ -1,5 +1,0 @@
-7 10 dblltr
-bluff 2 1 1
-affix 1 5 0
-inane 4 5 1
-guava 2 7 0

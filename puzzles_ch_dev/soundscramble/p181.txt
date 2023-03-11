@@ -1,5 +1,0 @@
-7 9 soundscramble
-magic 2 1 1
-arder 2 2 0
-biemo 1 4 0
-ovict 5 4 1

@@ -1,5 +1,0 @@
-7 7
-fever 6 1 1
-phase 2 2 0
-pulpy 2 2 1
-cynic 1 6 0

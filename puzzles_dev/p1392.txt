@@ -1,5 +1,0 @@
-7 7
-loyal 2 1 1
-ombre 2 2 0
-broth 4 2 1
-canoe 1 4 0

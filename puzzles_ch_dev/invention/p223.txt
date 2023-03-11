@@ -1,5 +1,0 @@
-7 7 invention
-zebra 5 1 1
-ashen 2 2 0
-adopt 2 2 1
-apnea 1 5 0

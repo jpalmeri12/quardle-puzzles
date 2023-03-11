@@ -1,5 +1,0 @@
-7 9
-craze 5 1 1
-spear 1 2 0
-blaze 2 4 0
-brave 2 4 1

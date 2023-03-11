@@ -1,5 +1,0 @@
-7 10
-belly 6 1 1
-dumpy 2 5 0
-pouch 5 5 1
-tenth 1 9 0

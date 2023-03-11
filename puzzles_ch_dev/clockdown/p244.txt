@@ -1,5 +1,0 @@
-7 10 clockdown
-radii 2 1 1
-dealt 2 3 0
-tipsy 1 5 0
-young 5 5 1

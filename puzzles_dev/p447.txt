@@ -1,5 +1,0 @@
-7 8
-harry 1 1 0
-artsy 2 1 1
-bible 4 3 1
-spine 2 4 0

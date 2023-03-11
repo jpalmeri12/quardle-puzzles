@@ -1,5 +1,0 @@
-7 8
-sweep 1 1 0
-white 2 1 1
-incur 2 3 0
-cruel 4 3 1

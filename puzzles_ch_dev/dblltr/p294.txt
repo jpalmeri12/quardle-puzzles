@@ -1,5 +1,0 @@
-6 6 dblltr
-bless 1 1 1
-villa 4 1 1
-livid 1 2 0
-spell 1 4 0

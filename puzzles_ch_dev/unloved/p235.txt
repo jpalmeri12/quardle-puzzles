@@ -1,5 +1,0 @@
-7 10 unloved
-augur 5 1 1
-tamer 1 5 0
-mauve 3 5 1
-avian 2 8 0

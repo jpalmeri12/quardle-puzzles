@@ -1,5 +1,0 @@
-7 10 dblltr
-floss 2 1 1
-leper 2 2 0
-essay 1 5 0
-scree 3 5 1

@@ -1,5 +1,0 @@
-7 7 invention
-demur 1 1 0
-exult 2 1 1
-layer 6 2 1
-lefty 2 4 0

@@ -1,5 +1,0 @@
-7 8
-vague 1 1 1
-screw 3 3 1
-ulcer 1 4 0
-swine 2 7 0

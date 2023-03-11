@@ -1,5 +1,0 @@
-6 10
-whelp 1 1 1
-plunk 1 5 0
-koala 5 5 1
-vista 1 7 0

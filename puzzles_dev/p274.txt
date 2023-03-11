@@ -1,5 +1,0 @@
-6 10
-avian 1 1 1
-amble 1 1 0
-night 1 5 0
-heist 4 5 1

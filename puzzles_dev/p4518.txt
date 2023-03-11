@@ -1,5 +1,0 @@
-7 9
-scour 2 1 1
-chock 4 4 1
-rehab 2 5 0
-lucky 1 8 0

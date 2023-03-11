@@ -1,5 +1,0 @@
-7 9 soundscramble
-swima 3 1 1
-newly 1 2 0
-ingry 5 4 1
-gaint 2 5 0

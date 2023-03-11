@@ -1,5 +1,0 @@
-7 9 desync
-psalm 2 1 0
-scoop 3 1 1
-proud 1 4 0
-parer 1 4 1

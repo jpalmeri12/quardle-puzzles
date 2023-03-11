@@ -1,5 +1,0 @@
-7 9
-bunch 2 1 1
-begun 2 1 0
-spurt 5 4 1
-thump 1 5 0

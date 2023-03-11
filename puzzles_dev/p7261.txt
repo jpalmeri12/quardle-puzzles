@@ -1,5 +1,0 @@
-6 7
-query 2 1 1
-butch 1 2 0
-count 4 2 1
-trout 1 4 0

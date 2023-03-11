@@ -1,5 +1,0 @@
-7 10
-swear 2 1 1
-eking 2 3 0
-tribe 1 5 0
-birth 4 5 1

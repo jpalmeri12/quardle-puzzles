@@ -1,5 +1,0 @@
-7 9 skyscrapers
-weave 4 1 1
-never 2 4 0
-novel 2 4 1
-glove 1 8 0

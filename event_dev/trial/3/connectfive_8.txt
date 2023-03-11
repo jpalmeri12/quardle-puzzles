@@ -1,6 +1,0 @@
-7 9 connectfive
-girth 1 1 1
-eerie 3 4 1
-dairy 5 4 1
-hyena 1 5 0
-fiery 2 7 0

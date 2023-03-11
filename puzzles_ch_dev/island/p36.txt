@@ -1,6 +1,0 @@
-6 10 island
-sewer 1 1 1
-shout 1 1 0
-route 1 5 0
-ounce 2 5 1
-!island 4 2111 311 11111

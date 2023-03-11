@@ -1,5 +1,0 @@
-7 10
-woman 1 1 0
-musty 3 1 1
-vying 2 5 0
-vogue 2 5 1

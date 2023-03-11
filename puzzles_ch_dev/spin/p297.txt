@@ -1,5 +1,0 @@
-7 8 spin
-safer 1 1 1
-havoc 5 3 1
-enema 1 4 0
-venom 2 6 0

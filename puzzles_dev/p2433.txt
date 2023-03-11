@@ -1,5 +1,0 @@
-7 10
-tapir 2 1 1
-rupee 2 5 0
-unset 3 5 1
-glean 1 8 0

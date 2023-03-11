@@ -1,5 +1,0 @@
-7 9
-drool 5 1 1
-radar 1 2 0
-furor 2 4 0
-fugue 2 4 1

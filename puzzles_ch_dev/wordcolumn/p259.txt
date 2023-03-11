@@ -1,6 +1,0 @@
-7 10 wordcolumn
-vicar 2 1 1
-write 1 5 0
-testy 4 5 1
-dross 1 7 0
-gayly 2 9 0

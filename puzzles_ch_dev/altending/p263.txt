@@ -1,5 +1,0 @@
-6 9 altending
-month 1 1 0
-frond 1 3 0
-grime 1 5 0
-creek 1 7 0

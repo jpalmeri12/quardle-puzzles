@@ -1,5 +1,0 @@
-7 8
-shard 4 1 1
-write 2 3 1
-rerun 2 4 0
-pecan 1 7 0

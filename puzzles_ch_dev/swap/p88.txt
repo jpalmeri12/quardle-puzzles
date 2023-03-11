@@ -1,5 +1,0 @@
-7 10 swap
-puibc 5 1 1
-hithc 1 5 0
-thmye 3 5 1
-lefin 2 9 0

@@ -1,5 +1,0 @@
-6 7 reverse
-xarob 1 1 1
-alibi 1 2 0
-iliac 5 2 1
-ortni 1 4 0

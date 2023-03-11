@@ -1,6 +1,0 @@
-7 10 wordcolumn
-drama 2 1 1
-mafia 4 1 1
-cream 1 2 0
-agate 2 5 0
-theft 5 5 1

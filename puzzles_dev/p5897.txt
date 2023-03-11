@@ -1,5 +1,0 @@
-7 10
-annoy 5 1 1
-slain 1 2 0
-satyr 2 5 0
-ratio 6 5 1

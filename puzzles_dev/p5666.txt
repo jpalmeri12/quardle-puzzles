@@ -1,5 +1,0 @@
-7 9
-catty 4 1 1
-sword 2 4 1
-wryly 2 5 0
-idyll 1 8 0

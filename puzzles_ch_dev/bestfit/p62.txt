@@ -1,5 +1,0 @@
-6 8 bestfit
-cross 1 1 1
-guess 5 3 1
-snare 1 5 0
-class 1 7 0

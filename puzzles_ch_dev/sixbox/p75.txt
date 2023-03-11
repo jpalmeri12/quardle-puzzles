@@ -1,7 +1,0 @@
-8 8 sixbox
-sauce 3 1 1
-ratty 5 1 1
-taunt 1 3 0
-nadir 4 3 1
-catch 3 4 0
-seedy 1 5 0

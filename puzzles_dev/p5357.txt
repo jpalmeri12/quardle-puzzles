@@ -1,5 +1,0 @@
-6 9
-rusty 5 1 1
-haute 1 4 1
-apply 1 5 0
-trait 1 7 0

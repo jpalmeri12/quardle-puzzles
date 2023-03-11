@@ -1,5 +1,0 @@
-7 9 buyavowel
-spawn 3 1 1
-spell 2 2 0
-sewer 1 4 0
-sober 1 4 1

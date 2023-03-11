@@ -1,5 +1,0 @@
-6 9
-cower 3 1 1
-shook 1 2 0
-overt 1 4 0
-opium 1 4 1

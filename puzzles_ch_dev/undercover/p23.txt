@@ -1,6 +1,0 @@
-7 11 undercover
-blaze 5 1 1
-slack 3 4 1
-pulse 1 5 0
-scant 2 7 0
-myrrh 1 10 0

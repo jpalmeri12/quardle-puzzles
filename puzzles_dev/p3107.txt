@@ -1,5 +1,0 @@
-6 10
-scout 4 1 1
-ardor 1 3 0
-haste 1 5 0
-elite 5 5 1

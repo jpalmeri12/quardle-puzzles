@@ -1,9 +1,0 @@
-7 9 beforeafter
-psalm 1 1 0
-squib 2 1 1
-usage 4 4 1
-bossy 2 5 0
-!beforeafter 1 n
-!beforeafter 2 k
-!beforeafter 1 i
-!beforeafter 1 p

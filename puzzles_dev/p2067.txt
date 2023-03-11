@@ -1,5 +1,0 @@
-7 9
-racer 5 1 1
-legal 2 2 0
-graze 1 4 0
-range 2 4 1

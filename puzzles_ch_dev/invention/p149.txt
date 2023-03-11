@@ -1,5 +1,0 @@
-7 9 invention
-spurt 2 1 1
-robin 2 4 0
-blind 4 4 1
-eying 1 7 0

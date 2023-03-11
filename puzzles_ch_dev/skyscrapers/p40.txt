@@ -1,5 +1,0 @@
-6 6 skyscrapers
-realm 1 5 0
-vowel 4 1 1
-drawl 1 3 0
-horse 2 1 1

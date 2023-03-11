@@ -1,5 +1,0 @@
-7 10
-glaze 3 1 1
-glory 2 2 0
-geeky 1 5 0
-genre 1 5 1

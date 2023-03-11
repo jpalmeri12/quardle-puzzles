@@ -1,5 +1,0 @@
-6 6
-panel 2 1 1
-manga 5 1 1
-kappa 1 2 0
-being 1 4 0

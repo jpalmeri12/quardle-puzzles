@@ -1,5 +1,0 @@
-7 9
-right 1 1 0
-icily 2 1 1
-lorry 2 4 0
-recap 4 4 1

@@ -1,5 +1,0 @@
-6 10
-racer 5 1 1
-altar 1 5 0
-taken 3 5 1
-bless 1 8 0

@@ -1,5 +1,0 @@
-7 10 beta
-kebab 4 1 1
-tabby 1 3 0
-embed 2 5 0
-dutch 6 5 1

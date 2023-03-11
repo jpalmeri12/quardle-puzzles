@@ -1,5 +1,0 @@
-7 10 reverse
-would 2 1 0
-worth 2 1 1
-ihsus 1 5 0
-ssilb 3 5 1

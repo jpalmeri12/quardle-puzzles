@@ -1,5 +1,0 @@
-7 8
-delve 2 1 0
-lousy 4 1 1
-grout 2 3 1
-cress 1 4 0

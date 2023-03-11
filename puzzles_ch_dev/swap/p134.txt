@@ -1,5 +1,0 @@
-7 8 swap
-stapm 3 1 1
-bnuch 5 3 1
-imnus 2 5 0
-ovuch 1 7 0

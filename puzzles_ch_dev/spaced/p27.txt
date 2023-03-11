@@ -1,5 +1,0 @@
-7 9 spaced
-regal 2 1 1
-gavel 4 4 1
-float 1 5 0
-agent 2 7 0

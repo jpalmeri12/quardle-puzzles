@@ -1,5 +1,0 @@
-6 8 unloved
-stock 2 1 1
-torus 1 3 0
-utter 4 3 1
-skate 1 5 0

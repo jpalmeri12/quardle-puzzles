@@ -1,5 +1,0 @@
-6 9
-atoll 2 1 1
-quoth 4 4 1
-cloud 1 5 0
-heath 1 7 0

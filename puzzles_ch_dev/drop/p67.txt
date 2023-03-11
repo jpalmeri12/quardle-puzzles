@@ -1,6 +1,0 @@
-6 12 drop
-mouth 2 1 1
-shell 1 5 0
-linen 5 5 1
-again 1 7 0
-sauna 1 11 0

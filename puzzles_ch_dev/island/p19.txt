@@ -1,6 +1,0 @@
-6 8 island
-olden 5 1 1
-tread 1 3 0
-erase 3 3 1
-queer 1 7 0
-!island 221 41 4 211

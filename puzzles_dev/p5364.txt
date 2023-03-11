@@ -1,5 +1,0 @@
-7 9
-peace 2 1 0
-chide 5 1 1
-sword 1 4 0
-optic 3 4 1

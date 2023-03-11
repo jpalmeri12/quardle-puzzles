@@ -1,5 +1,0 @@
-7 10
-guile 4 1 1
-folio 1 3 0
-green 2 5 0
-ranch 3 5 1

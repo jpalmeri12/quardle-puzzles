@@ -1,5 +1,0 @@
-7 10
-cumin 6 1 1
-brain 2 5 0
-axiom 4 5 1
-untie 1 7 0

@@ -1,5 +1,0 @@
-7 10 frequency
-ionic 2 1 1
-sneak 1 3 0
-clash 2 5 0
-sinew 5 5 1

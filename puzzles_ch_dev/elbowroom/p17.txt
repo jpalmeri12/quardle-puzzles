@@ -1,5 +1,0 @@
-6 8 elbowroom
-unify 1 1 1
-event 3 3 1
-favor 1 4 0
-betel 1 7 0

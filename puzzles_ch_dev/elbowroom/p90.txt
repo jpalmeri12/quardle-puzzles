@@ -1,5 +1,0 @@
-7 7 elbowroom
-feign 4 1 1
-oaken 1 2 0
-arbor 2 2 1
-begun 2 4 0

@@ -1,5 +1,0 @@
-6 10 elbowroom
-shrub 2 1 1
-abate 1 5 0
-alley 1 5 1
-yearn 1 9 0

@@ -1,5 +1,0 @@
-6 6 unloved
-girth 3 1 1
-pouty 5 1 1
-rhino 1 2 0
-octet 1 4 0

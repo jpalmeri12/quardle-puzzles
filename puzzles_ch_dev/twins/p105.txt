@@ -1,8 +1,0 @@
-6 8 twins
-grout 1 1 0
-knife 1 3 0
-chain 1 5 0
-rower 1 7 0
-!twins 0 1
-!twins 0 2
-!twins 3 4

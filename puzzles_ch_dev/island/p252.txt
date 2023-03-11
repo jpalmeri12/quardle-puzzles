@@ -1,6 +1,0 @@
-7 10 island
-koala 1 1 0
-amaze 5 1 1
-payee 2 5 0
-adult 3 5 1
-!island 31 211 1111 11111

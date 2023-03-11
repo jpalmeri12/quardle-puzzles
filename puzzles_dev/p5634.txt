@@ -1,5 +1,0 @@
-7 9
-cinch 4 1 1
-sonic 1 2 0
-picky 2 4 0
-piano 2 4 1

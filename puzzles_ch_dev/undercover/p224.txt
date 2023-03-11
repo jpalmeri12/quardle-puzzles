@@ -1,6 +1,0 @@
-7 11 undercover
-rabbi 2 1 0
-baler 5 1 1
-knave 1 4 0
-arson 3 4 1
-muddy 1 10 0

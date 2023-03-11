@@ -1,5 +1,0 @@
-6 10
-graph 5 1 1
-lurch 1 5 0
-rainy 3 5 1
-punch 1 8 0

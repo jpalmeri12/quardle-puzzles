@@ -1,5 +1,0 @@
-7 8
-wrung 4 1 1
-valve 2 3 1
-logic 2 5 0
-realm 1 7 0

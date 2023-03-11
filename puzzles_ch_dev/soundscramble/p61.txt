@@ -1,5 +1,0 @@
-7 7 soundscramble
-chard 2 1 1
-corry 5 2 1
-bayuo 1 3 0
-duwry 2 5 0

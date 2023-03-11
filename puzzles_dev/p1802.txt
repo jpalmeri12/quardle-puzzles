@@ -1,5 +1,0 @@
-6 7
-mogul 5 1 1
-beget 2 2 1
-debug 1 3 0
-legal 1 5 0

@@ -1,5 +1,0 @@
-7 9
-usual 2 1 1
-puree 4 4 1
-lousy 2 5 0
-covet 1 7 0

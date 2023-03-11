@@ -1,5 +1,0 @@
-7 10 spaced
-askew 2 1 1
-eking 1 3 0
-wimpy 2 5 0
-plant 5 5 1

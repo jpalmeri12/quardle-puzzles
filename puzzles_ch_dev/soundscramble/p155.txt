@@ -1,5 +1,0 @@
-7 7 soundscramble
-truor 4 1 1
-curly 2 2 0
-cleso 2 2 1
-benoy 1 4 0

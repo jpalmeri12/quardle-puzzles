@@ -1,6 +1,0 @@
-6 10 island
-fauna 5 1 1
-umbra 1 5 0
-baton 3 5 1
-rotor 1 7 0
-!island 1111 11111 2111 21

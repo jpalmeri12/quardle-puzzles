@@ -1,5 +1,0 @@
-7 8 sweeper
-would 6 1 1
-whelp 3 3 1
-shell 2 4 0
-maple 1 7 0

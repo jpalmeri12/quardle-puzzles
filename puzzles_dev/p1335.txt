@@ -1,5 +1,0 @@
-6 9
-shave 5 1 1
-haste 2 4 1
-badge 1 5 0
-feign 1 8 0

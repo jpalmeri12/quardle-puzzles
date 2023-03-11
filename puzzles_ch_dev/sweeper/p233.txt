@@ -1,5 +1,0 @@
-7 10 sweeper
-hyena 4 1 1
-spine 2 5 1
-swamp 2 5 0
-cinch 1 7 0

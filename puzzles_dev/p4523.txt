@@ -1,5 +1,0 @@
-7 9
-havoc 4 1 1
-fault 2 4 1
-sauce 1 5 0
-lever 2 7 0

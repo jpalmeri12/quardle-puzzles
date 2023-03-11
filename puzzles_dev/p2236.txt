@@ -1,5 +1,0 @@
-6 9
-pixie 1 1 1
-inlay 1 2 0
-front 4 4 1
-entry 1 5 0

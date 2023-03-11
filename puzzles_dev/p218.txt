@@ -1,5 +1,0 @@
-7 9
-alike 2 1 1
-khaki 2 4 0
-alloy 4 4 1
-swoon 1 7 0

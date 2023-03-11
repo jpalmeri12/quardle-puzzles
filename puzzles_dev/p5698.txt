@@ -1,5 +1,0 @@
-7 10
-billy 2 1 1
-hyper 1 5 0
-parse 3 5 1
-asset 2 8 0

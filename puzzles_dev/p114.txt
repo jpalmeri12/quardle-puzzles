@@ -1,5 +1,0 @@
-6 7
-chore 5 1 1
-catch 1 2 0
-threw 3 2 1
-error 1 4 0

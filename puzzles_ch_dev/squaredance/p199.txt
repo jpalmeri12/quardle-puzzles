@@ -1,6 +1,0 @@
-6 8 squaredance
-welch 1 1 1
-trove 5 1 1
-wrest 1 1 0
-haute 1 5 0
-spine 1 7 0

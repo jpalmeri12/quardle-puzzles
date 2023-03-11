@@ -1,5 +1,0 @@
-6 7 dblltr
-bluff 1 1 1
-idyll 3 2 1
-undue 1 3 0
-folly 1 5 0

@@ -1,5 +1,0 @@
-7 9
-blunt 5 1 1
-whelp 2 2 0
-bribe 2 4 1
-treat 1 5 0

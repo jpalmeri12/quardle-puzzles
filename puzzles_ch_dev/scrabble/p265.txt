@@ -1,5 +1,0 @@
-6 7 scrabble
-rebus 1 4 0
-leach 1 2 0
-shush 5 1 1
-abbey 3 2 1

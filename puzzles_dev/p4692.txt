@@ -1,5 +1,0 @@
-6 8
-blunt 1 1 0
-newer 4 1 1
-tapir 2 3 1
-cagey 1 4 0

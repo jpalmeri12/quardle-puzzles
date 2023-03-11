@@ -1,5 +1,0 @@
-6 10
-weary 5 1 1
-cagey 1 5 0
-along 2 5 1
-tower 1 7 0

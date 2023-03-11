@@ -1,5 +1,0 @@
-7 8
-drove 2 1 0
-rebel 3 1 1
-chess 5 3 1
-fresh 1 4 0

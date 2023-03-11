@@ -1,5 +1,0 @@
-6 10 swap
-ijffy 5 1 1
-socff 1 3 0
-aprry 1 5 0
-aguze 1 5 1

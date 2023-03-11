@@ -1,8 +1,0 @@
-6 8 twins
-ninth 1 1 0
-mouse 1 3 0
-valor 1 5 0
-snide 1 7 0
-!twins 0 3
-!twins 0 2
-!twins 0 2

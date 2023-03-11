@@ -1,5 +1,0 @@
-7 7
-ovate 3 1 1
-ovine 2 2 0
-nerdy 5 2 1
-later 1 4 0

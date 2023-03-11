@@ -1,5 +1,0 @@
-6 6
-sneer 1 1 0
-savvy 1 1 1
-extol 4 1 1
-vista 1 3 0

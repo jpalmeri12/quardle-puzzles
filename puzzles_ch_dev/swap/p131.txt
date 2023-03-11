@@ -1,5 +1,0 @@
-7 10 swap
-seter 1 1 1
-rgief 1 5 0
-ifber 3 5 1
-meele 2 8 0

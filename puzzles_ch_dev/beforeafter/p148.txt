@@ -1,9 +1,0 @@
-7 9 beforeafter
-tripe 2 1 0
-puree 5 1 1
-voila 1 4 1
-voice 1 4 0
-!beforeafter 1 q
-!beforeafter 2 k
-!beforeafter 1 m
-!beforeafter 1 k

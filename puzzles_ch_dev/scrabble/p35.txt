@@ -1,5 +1,0 @@
-7 10 scrabble
-gnome 2 5 1
-fling 1 3 0
-fanny 4 1 1
-gayly 2 5 0

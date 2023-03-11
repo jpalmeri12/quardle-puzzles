@@ -1,5 +1,0 @@
-6 9 altending
-heath 1 1 0
-clown 1 3 0
-frock 1 5 0
-bland 1 7 0

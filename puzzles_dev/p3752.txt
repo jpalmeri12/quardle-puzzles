@@ -1,5 +1,0 @@
-7 9
-aside 2 1 1
-drake 2 4 0
-aphid 4 4 1
-nadir 1 7 0

@@ -1,5 +1,0 @@
-7 10
-augur 2 1 1
-murky 1 2 0
-relic 2 5 0
-cadet 6 5 1

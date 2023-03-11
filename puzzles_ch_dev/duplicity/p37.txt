@@ -1,5 +1,0 @@
-7 10 duplicity
-manor 5 1 1
-arbor 1 5 0
-brunt 3 5 1
-tumor 2 7 0

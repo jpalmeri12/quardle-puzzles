@@ -1,5 +1,0 @@
-6 8
-reset 5 1 1
-dross 1 3 0
-organ 3 3 1
-might 1 5 0

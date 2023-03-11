@@ -1,5 +1,0 @@
-6 10 reverse
-vapor 3 1 1
-reclu 1 5 1
-rarer 1 5 0
-caili 1 7 0

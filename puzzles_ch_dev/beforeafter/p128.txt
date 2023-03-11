@@ -1,9 +1,0 @@
-7 10 beforeafter
-ovoid 2 1 0
-voila 3 1 1
-train 1 5 0
-input 4 5 1
-!beforeafter 2 n
-!beforeafter 1 n
-!beforeafter 1 q
-!beforeafter 1 o

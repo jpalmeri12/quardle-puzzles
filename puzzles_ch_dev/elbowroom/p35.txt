@@ -1,5 +1,0 @@
-6 8 elbowroom
-balmy 1 1 0
-lynch 3 1 1
-mania 1 3 0
-amiss 5 3 1

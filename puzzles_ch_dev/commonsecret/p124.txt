@@ -1,6 +1,0 @@
-6 10 commonsecret
-sigma 4 1 1
-scrap 1 5 0
-plait 5 5 1
-khaki 1 8 0
-!secret a

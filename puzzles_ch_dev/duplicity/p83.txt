@@ -1,5 +1,0 @@
-6 9 duplicity
-lucky 5 1 1
-picky 1 4 1
-plunk 1 4 0
-kinky 1 7 0

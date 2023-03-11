@@ -1,5 +1,0 @@
-7 9 scrabble
-afoul 2 7 0
-blush 1 4 0
-unify 3 4 1
-maybe 1 1 1

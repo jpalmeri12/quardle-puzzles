@@ -1,5 +1,0 @@
-6 9 sweeper
-fungi 1 1 1
-scree 5 4 1
-ionic 1 5 0
-stave 1 7 0

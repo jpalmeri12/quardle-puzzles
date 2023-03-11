@@ -1,5 +1,0 @@
-6 10 swap
-avain 1 1 0
-nerev 5 1 1
-driev 1 5 0
-iseve 3 5 1

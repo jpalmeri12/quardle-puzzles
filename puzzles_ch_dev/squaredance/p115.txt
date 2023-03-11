@@ -1,6 +1,0 @@
-6 8 squaredance
-swing 1 1 1
-elide 5 1 1
-stoke 1 1 0
-gouge 1 5 0
-fatal 1 7 0

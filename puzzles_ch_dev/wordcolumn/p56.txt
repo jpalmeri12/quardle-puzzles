@@ -1,6 +1,0 @@
-7 7 wordcolumn
-elder 1 1 0
-elfin 4 1 1
-crier 6 2 1
-infer 2 3 0
-binge 2 5 0

@@ -1,5 +1,0 @@
-7 8
-payee 1 1 0
-amble 2 1 1
-birth 2 3 0
-humus 6 3 1

@@ -1,5 +1,0 @@
-6 7 fourscore
-jolly 3 1 1
-scone 1 2 0
-elegy 5 2 1
-value 1 4 0

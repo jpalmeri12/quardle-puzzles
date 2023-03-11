@@ -1,5 +1,0 @@
-7 10 fourscore
-their 2 1 1
-thick 1 2 0
-regal 2 5 0
-exert 3 5 1

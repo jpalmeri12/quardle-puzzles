@@ -1,5 +1,0 @@
-7 8 frequency
-dross 2 1 1
-mossy 1 3 0
-slack 4 3 1
-stair 2 5 0

@@ -1,9 +1,0 @@
-6 10 spellbound
-alibi 3 1 1
-opine 1 5 0
-prove 2 5 1
-venue 1 9 0
-!spellbound 0 0 3
-!spellbound 1 0 3
-!spellbound 2 3 1
-!spellbound 3 0 4

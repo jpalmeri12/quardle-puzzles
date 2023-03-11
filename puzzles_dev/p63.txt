@@ -1,5 +1,0 @@
-7 9
-ethos 2 1 1
-stair 1 2 0
-vaunt 5 4 1
-squat 2 5 0

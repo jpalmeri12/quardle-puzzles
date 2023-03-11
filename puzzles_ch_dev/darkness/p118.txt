@@ -1,5 +1,0 @@
-7 8 darkness
-sally 1 4 0
-dense 1 1 1
-pleat 4 3 1
-quail 2 6 0

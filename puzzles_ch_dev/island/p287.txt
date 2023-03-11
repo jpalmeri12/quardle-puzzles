@@ -1,6 +1,0 @@
-7 8 island
-woken 5 1 1
-spank 1 3 0
-pupal 2 3 1
-prank 2 5 0
-!island 221 2111 211 11111

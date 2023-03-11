@@ -1,5 +1,0 @@
-6 9 shiritori
-kappa 1 1 1
-knack 1 1 0
-panic 1 4 0
-cleat 5 4 1

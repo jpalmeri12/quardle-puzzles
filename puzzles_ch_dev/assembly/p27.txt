@@ -1,5 +1,0 @@
-6 10 assembly
-sweep 1 3 1
-stage 5 3 1
-twist 1 1 0
-spade 1 9 0

@@ -1,5 +1,0 @@
-7 10
-plaza 6 1 1
-villa 2 5 0
-inept 3 5 1
-preen 1 7 0

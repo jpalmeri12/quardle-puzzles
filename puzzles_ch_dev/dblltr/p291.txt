@@ -1,5 +1,0 @@
-6 7 dblltr
-hello 3 1 1
-folly 1 2 1
-freed 1 2 0
-lilac 1 4 0

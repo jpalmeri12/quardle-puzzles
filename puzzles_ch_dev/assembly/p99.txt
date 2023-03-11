@@ -1,5 +1,0 @@
-6 10 assembly
-curry 1 3 1
-inner 5 3 1
-cacti 1 1 0
-resin 1 9 0

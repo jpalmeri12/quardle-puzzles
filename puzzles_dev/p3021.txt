@@ -1,5 +1,0 @@
-7 8
-debit 2 1 0
-droop 2 1 1
-banjo 5 3 1
-voila 1 4 0

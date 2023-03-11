@@ -1,5 +1,0 @@
-6 10
-carat 1 1 1
-clout 1 1 0
-token 1 5 0
-ember 4 5 1

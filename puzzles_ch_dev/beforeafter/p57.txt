@@ -1,9 +1,0 @@
-7 9 beforeafter
-polka 1 1 1
-towel 3 4 1
-afoul 1 5 0
-heron 2 7 0
-!beforeafter 1 n
-!beforeafter 2 m
-!beforeafter 1 i
-!beforeafter 1 j

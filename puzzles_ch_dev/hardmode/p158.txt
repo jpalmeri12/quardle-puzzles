@@ -1,5 +1,0 @@
-6 9 hardmode
-login 2 1 1
-dirge 1 4 0
-gonad 4 4 1
-plead 1 7 0

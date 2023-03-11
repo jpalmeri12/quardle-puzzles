@@ -1,5 +1,0 @@
-6 7
-gumbo 4 1 1
-album 1 2 0
-lynch 2 2 1
-scoop 1 5 0

@@ -1,5 +1,0 @@
-6 10
-gravy 5 1 1
-tibia 1 3 0
-dowdy 1 5 0
-wound 3 5 1

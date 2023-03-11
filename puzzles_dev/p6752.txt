@@ -1,5 +1,0 @@
-6 7
-chute 2 1 1
-chock 1 2 0
-crest 4 2 1
-steed 1 4 0

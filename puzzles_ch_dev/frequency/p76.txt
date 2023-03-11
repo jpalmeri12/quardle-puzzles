@@ -1,5 +1,0 @@
-7 7 frequency
-hymen 5 1 1
-wimpy 1 2 0
-motif 3 2 1
-utter 2 4 0

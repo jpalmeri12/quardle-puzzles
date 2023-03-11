@@ -1,7 +1,0 @@
-6 6 fourthwall
-taper 1 1 0
-thrum 1 1 1
-retry 1 3 0
-petal 3 1 1
-melon 1 5 0
-rayon 5 1 1

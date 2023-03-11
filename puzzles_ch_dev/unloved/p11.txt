@@ -1,5 +1,0 @@
-7 9 unloved
-envoy 5 1 1
-shone 2 2 0
-gusto 1 4 0
-scarf 3 4 1

@@ -1,5 +1,0 @@
-6 8
-fugue 5 1 1
-eying 1 3 0
-event 1 3 1
-tuber 1 7 0

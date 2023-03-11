@@ -1,5 +1,0 @@
-6 6 swap
-widwo 2 1 1
-wrets 4 1 1
-idcey 1 3 0
-golss 1 5 0

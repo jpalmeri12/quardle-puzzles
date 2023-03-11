@@ -1,6 +1,0 @@
-7 12 drop
-amass 4 1 1
-glean 1 3 0
-musky 2 5 0
-yeast 6 5 1
-gayly 1 11 0

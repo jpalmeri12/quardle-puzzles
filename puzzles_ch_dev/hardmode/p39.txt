@@ -1,5 +1,0 @@
-6 10 hardmode
-rapid 5 1 1
-dogma 1 2 0
-vivid 1 5 0
-vowel 1 5 1

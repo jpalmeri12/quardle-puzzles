@@ -1,5 +1,0 @@
-7 8 unloved
-leggy 1 1 0
-gusty 3 1 1
-repay 6 3 1
-state 2 4 0

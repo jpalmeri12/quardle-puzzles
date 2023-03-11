@@ -1,5 +1,0 @@
-7 10
-stilt 5 1 1
-meaty 2 2 0
-gaunt 1 5 0
-nanny 4 5 1

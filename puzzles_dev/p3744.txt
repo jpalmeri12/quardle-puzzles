@@ -1,5 +1,0 @@
-7 8
-ombre 1 1 1
-sneak 4 3 1
-rhino 1 4 0
-swamp 2 6 0

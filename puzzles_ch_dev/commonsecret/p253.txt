@@ -1,6 +1,0 @@
-6 10 commonsecret
-intro 2 1 1
-torso 1 5 0
-ombre 5 5 1
-throb 1 7 0
-!secret r

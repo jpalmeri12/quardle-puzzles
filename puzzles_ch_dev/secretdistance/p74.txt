@@ -1,7 +1,0 @@
-7 11 secretdistance
-dairy 4 1 1
-chaff 2 2 0
-hydro 1 4 0
-hefty 1 4 1
-fifty 1 10 0
-!sdpos 0 0 2 0

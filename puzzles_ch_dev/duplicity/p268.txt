@@ -1,5 +1,0 @@
-7 8 duplicity
-beget 2 1 1
-bless 2 1 0
-blast 5 3 1
-legal 1 4 0

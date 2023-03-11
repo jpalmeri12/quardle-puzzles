@@ -1,5 +1,0 @@
-6 6 unloved
-milky 1 1 0
-muddy 1 1 1
-ledge 3 1 1
-dogma 1 4 0

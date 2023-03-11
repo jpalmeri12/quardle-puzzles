@@ -1,5 +1,0 @@
-6 9 altending
-refit 1 1 0
-unfed 1 3 0
-drier 1 5 0
-ethos 1 7 0

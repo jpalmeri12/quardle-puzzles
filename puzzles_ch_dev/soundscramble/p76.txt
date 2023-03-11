@@ -1,5 +1,0 @@
-7 10 soundscramble
-kerme 2 1 1
-elgea 2 2 0
-cegay 1 5 0
-circe 1 5 1

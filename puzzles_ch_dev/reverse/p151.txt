@@ -1,5 +1,0 @@
-7 10 reverse
-strut 5 1 1
-birth 2 2 0
-llort 1 5 0
-lialf 2 5 1

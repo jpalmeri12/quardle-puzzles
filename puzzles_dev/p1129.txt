@@ -1,5 +1,0 @@
-6 10
-solve 5 1 1
-adore 1 5 0
-olive 3 5 1
-raven 1 8 0

@@ -1,5 +1,0 @@
-6 9 elbowroom
-radii 3 1 1
-leaky 1 2 0
-movie 5 4 1
-rhino 1 5 0

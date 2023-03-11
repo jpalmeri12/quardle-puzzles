@@ -1,5 +1,0 @@
-6 8 hardmode
-story 5 1 1
-march 2 3 1
-satyr 1 4 0
-threw 1 7 0

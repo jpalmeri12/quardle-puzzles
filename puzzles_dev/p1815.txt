@@ -1,5 +1,0 @@
-6 10
-chide 2 1 1
-pence 1 5 0
-naive 3 5 1
-diver 1 8 0

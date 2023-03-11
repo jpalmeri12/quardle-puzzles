@@ -1,5 +1,0 @@
-7 8 hardmode
-dingy 5 1 1
-graft 2 3 1
-batty 1 5 0
-tramp 2 7 0

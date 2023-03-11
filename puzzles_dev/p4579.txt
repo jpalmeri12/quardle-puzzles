@@ -1,5 +1,0 @@
-7 9
-brute 1 1 1
-tarot 1 4 0
-royal 3 4 1
-cable 2 7 0

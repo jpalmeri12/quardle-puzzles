@@ -1,6 +1,0 @@
-7 9 five
-story 3 1 1
-voter 1 2 0
-grasp 2 4 0
-pitch 6 4 1
-relic 2 7 0

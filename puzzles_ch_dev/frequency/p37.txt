@@ -1,5 +1,0 @@
-7 10 frequency
-cacti 5 1 1
-pubic 1 3 0
-lipid 2 5 0
-irony 3 5 1

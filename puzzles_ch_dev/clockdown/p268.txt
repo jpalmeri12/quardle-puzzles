@@ -1,5 +1,0 @@
-6 7 clockdown
-story 5 1 1
-crate 1 2 1
-chant 1 2 0
-augur 1 4 0

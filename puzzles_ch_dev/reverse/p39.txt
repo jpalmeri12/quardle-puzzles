@@ -1,5 +1,0 @@
-7 10 reverse
-comet 5 1 1
-ffits 2 5 0
-iunne 4 5 1
-sheen 1 9 0

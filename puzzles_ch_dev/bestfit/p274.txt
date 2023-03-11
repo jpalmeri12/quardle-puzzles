@@ -1,5 +1,0 @@
-6 6 bestfit
-layer 1 1 1
-hovel 3 1 1
-abode 1 2 0
-every 1 4 0

@@ -1,6 +1,0 @@
-7 9 commonsecret
-elbow 2 1 1
-ember 2 1 0
-booth 1 4 0
-habit 5 4 1
-!secret b

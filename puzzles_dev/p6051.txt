@@ -1,5 +1,0 @@
-7 9
-drill 3 1 1
-crept 5 4 1
-ruler 1 5 0
-happy 2 7 0

@@ -1,5 +1,0 @@
-6 8
-scrum 2 1 1
-prowl 1 3 0
-wispy 4 3 1
-amass 1 5 0

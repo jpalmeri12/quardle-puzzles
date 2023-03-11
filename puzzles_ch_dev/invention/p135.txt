@@ -1,5 +1,0 @@
-7 10 invention
-torso 5 1 1
-abhor 2 5 0
-house 4 5 1
-vogue 1 7 0

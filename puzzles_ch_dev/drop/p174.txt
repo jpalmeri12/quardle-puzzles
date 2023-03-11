@@ -1,6 +1,0 @@
-7 12 drop
-mange 3 1 1
-arena 1 5 0
-aisle 5 5 1
-curse 2 7 0
-gnash 1 11 0

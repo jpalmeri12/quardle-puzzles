@@ -1,5 +1,0 @@
-6 10 fourscore
-stone 5 1 1
-noble 1 5 0
-bacon 3 5 1
-tooth 1 8 0

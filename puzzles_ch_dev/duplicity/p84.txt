@@ -1,5 +1,0 @@
-6 10 duplicity
-spasm 1 1 1
-paddy 1 2 0
-midst 1 5 0
-ditty 3 5 1

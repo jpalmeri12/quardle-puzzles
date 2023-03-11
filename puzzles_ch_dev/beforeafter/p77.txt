@@ -1,9 +1,0 @@
-7 9 beforeafter
-daunt 5 1 1
-unwed 2 4 1
-input 1 5 0
-daisy 2 8 0
-!beforeafter 1 l
-!beforeafter 2 l
-!beforeafter 2 q
-!beforeafter 2 j

@@ -1,5 +1,0 @@
-6 9
-touch 1 1 0
-orbit 2 1 1
-wield 1 4 0
-dwell 5 4 1

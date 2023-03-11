@@ -1,5 +1,0 @@
-7 10 desync
-theta 1 1 1
-amass 1 5 0
-shuck 5 5 1
-mogul 2 7 0

@@ -1,6 +1,0 @@
-6 9 wordcolumn
-jumbo 1 1 0
-belie 4 1 1
-pixie 1 4 0
-ideal 2 4 1
-latte 1 7 0

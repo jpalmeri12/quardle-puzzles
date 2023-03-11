@@ -1,5 +1,0 @@
-7 9
-shaft 6 1 1
-motif 2 4 0
-mouth 2 4 1
-humid 1 6 0

@@ -1,6 +1,0 @@
-7 10 connectfive
-piano 3 1 1
-kappa 2 3 0
-atoll 1 5 0
-anime 1 5 1
-motor 1 8 0

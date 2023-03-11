@@ -1,5 +1,0 @@
-7 8 soundscramble
-selty 2 1 1
-smita 2 1 0
-alact 1 3 0
-cerol 4 3 1

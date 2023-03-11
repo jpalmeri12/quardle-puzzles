@@ -1,5 +1,0 @@
-6 7 dblltr
-utter 1 1 1
-twist 1 2 0
-spook 4 2 1
-rotor 1 5 0

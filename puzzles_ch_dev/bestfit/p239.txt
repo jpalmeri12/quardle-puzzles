@@ -1,5 +1,0 @@
-7 9 bestfit
-press 2 1 1
-arena 1 2 0
-affix 5 4 1
-shaft 2 5 0

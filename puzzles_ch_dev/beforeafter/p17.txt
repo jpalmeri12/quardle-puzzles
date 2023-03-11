@@ -1,9 +1,0 @@
-7 8 beforeafter
-unfed 3 1 1
-punch 1 2 0
-stole 6 3 1
-beast 2 4 0
-!beforeafter 1 m
-!beforeafter 1 o
-!beforeafter 2 n
-!beforeafter 2 m

@@ -1,7 +1,0 @@
-7 9 secretdistance
-acrid 1 1 1
-piper 3 2 1
-impel 1 4 0
-crime 2 6 0
-pixie 1 8 0
-!sdpos 1 0 0 0

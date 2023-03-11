@@ -1,5 +1,0 @@
-7 7 skyscrapers
-relic 1 2 0
-pleat 3 1 1
-carat 2 4 0
-champ 5 2 1

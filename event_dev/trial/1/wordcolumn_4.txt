@@ -1,6 +1,0 @@
-7 9 wordcolumn
-after 2 1 0
-toast 4 1 1
-marsh 1 4 0
-again 2 4 1
-wimpy 1 7 0

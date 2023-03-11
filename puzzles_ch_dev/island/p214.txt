@@ -1,6 +1,0 @@
-7 9 island
-polyp 6 1 1
-funky 2 4 0
-urine 3 4 1
-inner 1 7 0
-!island 31 2111 221 211

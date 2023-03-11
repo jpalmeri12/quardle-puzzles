@@ -1,5 +1,0 @@
-7 9
-adult 1 1 1
-spent 5 4 1
-troop 1 5 0
-corny 2 7 0

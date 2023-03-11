@@ -1,5 +1,0 @@
-7 9
-plumb 2 1 0
-unset 4 1 1
-belle 2 4 1
-deity 1 5 0

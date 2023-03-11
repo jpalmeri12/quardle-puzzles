@@ -1,5 +1,0 @@
-6 8 outoforder
-macho 5 1 1
-turbo 3 3 1
-youth 1 4 0
-alone 1 7 0

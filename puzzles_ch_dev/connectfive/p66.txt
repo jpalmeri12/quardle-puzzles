@@ -1,6 +1,0 @@
-7 12 connectfive
-savvy 6 1 1
-erupt 4 4 1
-parry 2 5 0
-outer 2 7 1
-gusto 1 8 0

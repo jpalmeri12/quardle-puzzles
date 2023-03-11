@@ -1,5 +1,0 @@
-7 9
-topaz 2 1 1
-ascot 2 4 0
-creek 4 4 1
-parka 1 8 0

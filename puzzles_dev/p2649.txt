@@ -1,5 +1,0 @@
-7 10
-wagon 4 1 1
-spend 1 5 0
-easel 3 5 1
-tempo 2 8 0

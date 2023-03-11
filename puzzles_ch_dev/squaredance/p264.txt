@@ -1,6 +1,0 @@
-6 8 squaredance
-adore 1 1 1
-tithe 5 1 1
-avert 1 1 0
-elide 1 5 0
-bully 1 7 0

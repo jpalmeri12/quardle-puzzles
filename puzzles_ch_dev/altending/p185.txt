@@ -1,5 +1,0 @@
-6 9 altending
-abbot 1 1 0
-allay 1 3 0
-strip 1 5 0
-tulle 1 7 0

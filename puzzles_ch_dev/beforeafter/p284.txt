@@ -1,9 +1,0 @@
-7 9 beforeafter
-bayou 2 1 1
-voila 1 4 0
-adapt 5 4 1
-fifty 2 8 0
-!beforeafter 1 n
-!beforeafter 1 m
-!beforeafter 2 i
-!beforeafter 2 m

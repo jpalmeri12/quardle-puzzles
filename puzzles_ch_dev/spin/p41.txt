@@ -1,5 +1,0 @@
-7 10 spin
-basin 1 1 1
-nylon 1 5 0
-young 2 5 1
-utter 2 7 0

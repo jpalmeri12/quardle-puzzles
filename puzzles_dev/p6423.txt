@@ -1,5 +1,0 @@
-7 10
-mambo 5 1 1
-pagan 2 2 0
-ratio 1 5 0
-abyss 2 5 1

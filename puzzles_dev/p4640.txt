@@ -1,5 +1,0 @@
-7 9
-wheat 2 1 1
-vaunt 1 4 0
-taffy 5 4 1
-cliff 2 7 0

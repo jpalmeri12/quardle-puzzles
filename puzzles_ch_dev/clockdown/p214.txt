@@ -1,5 +1,0 @@
-7 8 clockdown
-syrup 6 1 1
-offer 2 3 0
-farce 3 3 1
-pleat 1 7 0

@@ -1,5 +1,0 @@
-6 10
-guilt 5 1 1
-adapt 1 5 0
-drown 2 5 1
-nomad 1 7 0

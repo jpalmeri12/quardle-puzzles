@@ -1,5 +1,0 @@
-7 10 swap
-sahde 2 1 1
-ehard 1 3 0
-evdae 2 5 0
-ebfit 6 5 1

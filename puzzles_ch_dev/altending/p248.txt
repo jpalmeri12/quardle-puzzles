@@ -1,5 +1,0 @@
-6 9 altending
-actor 1 1 0
-motif 1 3 0
-serve 1 5 0
-solar 1 7 0

@@ -1,6 +1,0 @@
-6 9 undercover
-smear 4 1 1
-drama 1 2 0
-dairy 1 2 1
-ideal 1 4 0
-outgo 1 8 0

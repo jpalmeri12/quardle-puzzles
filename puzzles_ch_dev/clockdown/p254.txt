@@ -1,5 +1,0 @@
-6 10 clockdown
-loose 1 1 1
-erupt 1 5 0
-taker 5 5 1
-offer 1 9 0

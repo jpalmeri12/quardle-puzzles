@@ -1,5 +1,0 @@
-7 9
-daisy 6 1 1
-dross 4 4 1
-marry 2 5 0
-salsa 1 7 0

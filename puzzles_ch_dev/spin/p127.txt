@@ -1,5 +1,0 @@
-6 7 spin
-blurt 2 1 1
-wrest 5 2 1
-outer 1 3 0
-ethos 1 5 0

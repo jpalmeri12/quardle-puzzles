@@ -1,5 +1,0 @@
-7 9 buyavowel
-intro 5 1 1
-newer 1 4 0
-wharf 3 4 1
-broth 2 7 0

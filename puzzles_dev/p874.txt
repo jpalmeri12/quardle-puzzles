@@ -1,5 +1,0 @@
-7 9
-peach 1 1 1
-curvy 1 4 0
-rural 3 4 1
-bless 2 8 0

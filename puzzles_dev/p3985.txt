@@ -1,5 +1,0 @@
-7 8
-vocal 2 1 0
-covey 4 1 1
-sumac 2 3 1
-duvet 1 4 0

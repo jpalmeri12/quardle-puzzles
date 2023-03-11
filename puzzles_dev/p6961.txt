@@ -1,5 +1,0 @@
-7 7
-flesh 5 1 1
-newly 2 2 0
-ether 3 2 1
-ethos 1 4 0

@@ -1,5 +1,0 @@
-6 10
-laugh 5 1 1
-leach 1 5 0
-enemy 2 5 1
-smock 1 8 0

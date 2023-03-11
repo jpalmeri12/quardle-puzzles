@@ -1,5 +1,0 @@
-6 10
-sheet 1 1 0
-hymen 2 1 1
-knife 1 5 0
-inept 3 5 1

@@ -1,5 +1,0 @@
-6 10
-tryst 1 1 1
-rotor 1 2 0
-tunic 1 5 0
-irony 4 5 1

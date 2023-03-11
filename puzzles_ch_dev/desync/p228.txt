@@ -1,5 +1,0 @@
-7 10 desync
-brief 2 1 1
-fence 2 5 0
-crazy 5 5 1
-junta 1 7 0

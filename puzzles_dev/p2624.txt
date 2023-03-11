@@ -1,5 +1,0 @@
-6 7
-abase 5 1 1
-scrub 1 2 0
-clove 2 2 1
-evade 1 5 0

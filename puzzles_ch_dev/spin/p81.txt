@@ -1,5 +1,0 @@
-6 7 spin
-ranch 1 1 1
-agora 1 2 0
-rhino 4 2 1
-cubic 1 4 0

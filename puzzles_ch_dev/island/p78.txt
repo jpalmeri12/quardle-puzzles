@@ -1,6 +1,0 @@
-7 9 island
-palsy 2 1 0
-satyr 5 1 1
-savvy 1 4 0
-value 3 4 1
-!island 221 32 211 11111

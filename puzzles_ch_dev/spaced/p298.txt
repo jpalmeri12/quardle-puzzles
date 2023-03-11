@@ -1,5 +1,0 @@
-7 9 spaced
-rhyme 6 1 1
-gland 4 4 1
-bilge 2 5 0
-tawny 1 7 0

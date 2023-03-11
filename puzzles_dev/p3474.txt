@@ -1,5 +1,0 @@
-7 9
-gaudy 5 1 1
-bleed 1 4 0
-lapel 2 4 1
-eking 2 7 0

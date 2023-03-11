@@ -1,5 +1,0 @@
-7 7 beta
-easel 5 1 1
-creak 3 2 1
-arose 2 3 0
-trawl 1 5 0

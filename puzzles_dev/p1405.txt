@@ -1,5 +1,0 @@
-6 7
-pouch 2 1 1
-vogue 1 2 0
-early 5 2 1
-actor 1 4 0

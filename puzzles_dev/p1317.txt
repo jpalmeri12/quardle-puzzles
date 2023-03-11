@@ -1,5 +1,0 @@
-7 10
-rinse 4 1 1
-speed 1 5 0
-drawl 5 5 1
-world 2 9 0

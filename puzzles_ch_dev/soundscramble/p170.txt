@@ -1,5 +1,0 @@
-7 9 soundscramble
-scemp 1 1 1
-treda 3 4 1
-perke 1 5 0
-marit 2 8 0

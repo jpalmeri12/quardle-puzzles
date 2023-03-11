@@ -1,5 +1,0 @@
-6 10
-spill 4 1 1
-dumpy 1 2 0
-uncle 1 5 0
-cairn 3 5 1

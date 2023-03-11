@@ -1,5 +1,0 @@
-6 9
-chest 4 1 1
-foggy 2 4 1
-worth 1 5 0
-agent 1 7 0

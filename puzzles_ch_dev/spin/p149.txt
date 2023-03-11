@@ -1,5 +1,0 @@
-7 9 spin
-pudgy 1 1 0
-green 4 1 1
-thigh 2 4 1
-handy 2 5 0

@@ -1,5 +1,0 @@
-7 9 darkness
-fiber 1 5 0
-quasi 2 1 1
-crust 5 4 1
-quill 2 1 0

@@ -1,5 +1,0 @@
-6 8 fourscore
-beady 1 1 0
-equip 2 1 1
-murky 1 3 0
-young 5 3 1

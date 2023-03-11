@@ -1,5 +1,0 @@
-6 10 reverse
-mraer 2 1 1
-yreuq 1 5 0
-undid 4 5 1
-refit 1 8 0

@@ -1,5 +1,0 @@
-7 9
-dirty 5 1 1
-worth 2 4 0
-weedy 2 4 1
-bylaw 1 8 0

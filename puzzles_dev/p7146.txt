@@ -1,5 +1,0 @@
-6 6
-decry 2 1 1
-grave 4 1 1
-weary 1 2 0
-privy 1 4 0

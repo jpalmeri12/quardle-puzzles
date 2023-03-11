@@ -1,5 +1,0 @@
-6 6
-faint 1 1 1
-booty 3 1 1
-afoul 1 2 0
-notch 1 4 0

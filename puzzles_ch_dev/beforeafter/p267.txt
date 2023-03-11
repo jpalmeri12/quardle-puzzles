@@ -1,9 +1,0 @@
-7 8 beforeafter
-floss 1 1 0
-sonic 4 1 1
-lyric 6 3 1
-gaily 2 4 0
-!beforeafter 2 p
-!beforeafter 2 l
-!beforeafter 2 j
-!beforeafter 2 k

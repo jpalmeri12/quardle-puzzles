@@ -1,6 +1,0 @@
-6 10 five
-flour 2 1 1
-bingo 5 1 1
-alibi 1 2 0
-primo 1 5 0
-inlay 3 5 1

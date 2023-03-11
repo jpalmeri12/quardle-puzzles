@@ -1,5 +1,0 @@
-6 9
-wince 2 1 1
-missy 1 2 0
-force 5 4 1
-metro 1 5 0

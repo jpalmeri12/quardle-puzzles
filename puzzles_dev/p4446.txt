@@ -1,5 +1,0 @@
-6 10
-sheik 1 1 1
-hotly 1 2 0
-krill 1 5 0
-rally 2 5 1

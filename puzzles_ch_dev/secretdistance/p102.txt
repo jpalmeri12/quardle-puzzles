@@ -1,7 +1,0 @@
-6 12 secretdistance
-cavil 3 1 1
-snaky 1 2 0
-folio 1 5 0
-owner 2 5 1
-wordy 1 11 0
-!sdpos 1 3 1 0

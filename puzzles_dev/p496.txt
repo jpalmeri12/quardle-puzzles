@@ -1,5 +1,0 @@
-6 7
-goody 1 1 1
-offal 1 2 0
-flume 3 2 1
-daunt 1 4 0

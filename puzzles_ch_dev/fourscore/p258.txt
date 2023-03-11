@@ -1,5 +1,0 @@
-6 9 fourscore
-whoop 1 1 1
-harem 1 2 0
-opine 1 4 0
-elite 5 4 1

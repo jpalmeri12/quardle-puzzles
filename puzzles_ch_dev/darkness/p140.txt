@@ -1,5 +1,0 @@
-6 9 darkness
-fluid 4 1 1
-obese 2 4 1
-edify 1 1 0
-topic 1 4 0

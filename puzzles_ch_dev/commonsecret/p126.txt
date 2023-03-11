@@ -1,6 +1,0 @@
-7 8 commonsecret
-motel 1 1 0
-offal 2 1 1
-flirt 2 3 0
-impel 4 3 1
-!secret l

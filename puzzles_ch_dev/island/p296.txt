@@ -1,6 +1,0 @@
-7 9 island
-endow 2 1 1
-etude 2 1 0
-goofy 1 4 0
-freed 4 4 1
-!island 311 211 31 4

@@ -1,5 +1,0 @@
-7 10 clockdown
-fluff 1 1 1
-flask 1 5 0
-surly 4 5 1
-buyer 2 9 0

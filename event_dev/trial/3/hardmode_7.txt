@@ -1,5 +1,0 @@
-7 9 hardmode
-brief 2 1 1
-briar 1 2 0
-prick 6 4 1
-flyer 2 5 0

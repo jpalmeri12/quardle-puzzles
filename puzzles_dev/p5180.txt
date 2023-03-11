@@ -1,5 +1,0 @@
-6 8
-valet 1 1 0
-elate 4 1 1
-wreak 1 3 0
-regal 2 3 1

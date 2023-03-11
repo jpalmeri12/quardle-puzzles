@@ -1,5 +1,0 @@
-7 10 buyavowel
-feral 1 1 0
-rabbi 3 1 1
-pithy 2 5 0
-terse 4 5 1

@@ -1,5 +1,0 @@
-7 10
-agile 2 1 1
-agate 1 2 0
-ensue 2 5 0
-ninny 3 5 1

@@ -1,5 +1,0 @@
-7 10 invention
-maxim 2 1 1
-moody 2 5 0
-depot 5 5 1
-tramp 1 7 0

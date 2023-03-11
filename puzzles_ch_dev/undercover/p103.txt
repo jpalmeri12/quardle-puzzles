@@ -1,6 +1,0 @@
-7 11 undercover
-widow 1 1 0
-wooly 5 1 1
-koala 2 4 0
-ocean 3 4 1
-strut 1 10 0

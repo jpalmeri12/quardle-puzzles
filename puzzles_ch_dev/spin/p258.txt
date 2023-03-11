@@ -1,5 +1,0 @@
-6 7 spin
-bevel 1 1 1
-elite 1 2 0
-irony 3 2 1
-lingo 1 5 0

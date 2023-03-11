@@ -1,5 +1,0 @@
-7 9
-avian 4 1 1
-giver 2 2 0
-moral 1 4 0
-olive 2 4 1

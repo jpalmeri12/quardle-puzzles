@@ -1,5 +1,0 @@
-6 10 fourscore
-twixt 4 1 1
-crowd 1 2 0
-junto 1 5 0
-opine 5 5 1

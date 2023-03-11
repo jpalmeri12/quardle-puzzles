@@ -1,5 +1,0 @@
-7 10 outoforder
-metro 4 1 1
-suite 1 3 0
-alone 2 5 0
-lurid 3 5 1

@@ -1,5 +1,0 @@
-7 10
-chide 1 1 0
-drain 4 1 1
-linen 2 5 0
-nurse 6 5 1

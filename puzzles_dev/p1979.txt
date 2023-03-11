@@ -1,5 +1,0 @@
-7 8
-grove 1 1 0
-river 2 1 1
-venue 2 3 0
-nicer 4 3 1

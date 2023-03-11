@@ -1,6 +1,0 @@
-7 10 wordcolumn
-swami 2 1 1
-snake 2 1 0
-skate 4 4 1
-picky 1 5 0
-parry 1 5 1

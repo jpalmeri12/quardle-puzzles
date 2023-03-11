@@ -1,5 +1,0 @@
-7 9
-stair 3 1 1
-ditch 1 2 0
-field 2 4 0
-laugh 5 4 1

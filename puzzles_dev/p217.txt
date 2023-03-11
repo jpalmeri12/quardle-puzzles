@@ -1,5 +1,0 @@
-6 9
-rajah 4 1 1
-favor 2 4 1
-lathe 1 5 0
-prime 1 8 0

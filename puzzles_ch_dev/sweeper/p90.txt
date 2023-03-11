@@ -1,5 +1,0 @@
-6 10 sweeper
-chili 3 1 1
-aside 1 5 0
-dummy 4 5 1
-rhyme 1 7 0

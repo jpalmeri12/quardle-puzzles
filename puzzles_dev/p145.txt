@@ -1,5 +1,0 @@
-6 9
-fauna 1 1 1
-neigh 1 4 0
-homer 5 4 1
-timer 1 8 0

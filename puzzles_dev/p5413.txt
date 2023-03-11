@@ -1,5 +1,0 @@
-7 9
-camel 5 1 1
-drone 3 4 1
-wryly 2 5 0
-fancy 1 7 0

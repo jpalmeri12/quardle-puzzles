@@ -1,5 +1,0 @@
-7 9
-gnash 1 1 1
-slang 1 4 0
-naive 4 4 1
-cavil 2 7 0

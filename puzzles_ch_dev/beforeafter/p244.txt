@@ -1,9 +1,0 @@
-7 8 beforeafter
-royal 6 1 1
-kitty 2 3 0
-touch 4 3 1
-space 1 6 0
-!beforeafter 2 n
-!beforeafter 1 o
-!beforeafter 2 l
-!beforeafter 1 l

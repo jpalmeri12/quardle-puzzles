@@ -1,5 +1,0 @@
-7 10
-dowel 5 1 1
-mason 2 2 0
-brawl 1 5 0
-align 3 5 1

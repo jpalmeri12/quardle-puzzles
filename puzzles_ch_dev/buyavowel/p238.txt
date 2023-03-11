@@ -1,5 +1,0 @@
-7 9 buyavowel
-polyp 5 1 1
-buxom 2 2 0
-privy 1 4 0
-perch 1 4 1

@@ -1,5 +1,0 @@
-7 8 duplicity
-kebab 4 1 1
-kneel 1 2 0
-knelt 6 3 1
-table 2 5 0

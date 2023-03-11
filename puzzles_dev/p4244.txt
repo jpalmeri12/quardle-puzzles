@@ -1,5 +1,0 @@
-7 10
-mower 2 1 1
-goose 1 2 0
-revue 2 5 0
-vixen 4 5 1

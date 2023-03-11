@@ -1,5 +1,0 @@
-6 10 reverse
-hctiw 1 1 1
-cipot 1 2 0
-worth 1 5 0
-olden 2 5 1

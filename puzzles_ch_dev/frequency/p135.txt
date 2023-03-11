@@ -1,5 +1,0 @@
-7 9 frequency
-lathe 5 1 1
-wight 2 4 0
-wring 2 4 1
-aglow 1 8 0

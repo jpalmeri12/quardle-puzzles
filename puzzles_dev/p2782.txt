@@ -1,5 +1,0 @@
-7 7
-gassy 4 1 1
-blade 2 2 0
-butch 2 2 1
-stash 1 4 0

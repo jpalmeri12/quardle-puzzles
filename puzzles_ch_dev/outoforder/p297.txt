@@ -1,5 +1,0 @@
-7 10 outoforder
-tiara 2 1 1
-ingot 2 2 0
-laden 1 5 0
-drain 3 5 1

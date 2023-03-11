@@ -1,5 +1,0 @@
-6 8
-train 1 1 1
-tweak 1 1 0
-catty 3 3 1
-notch 1 5 0

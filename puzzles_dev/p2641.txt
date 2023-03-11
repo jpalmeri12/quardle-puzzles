@@ -1,5 +1,0 @@
-6 8
-leant 1 1 0
-tardy 5 1 1
-civil 2 3 1
-field 1 4 0

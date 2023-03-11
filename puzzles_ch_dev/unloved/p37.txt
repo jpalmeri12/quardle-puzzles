@@ -1,5 +1,0 @@
-7 8 unloved
-hence 1 1 0
-clean 4 1 1
-study 2 3 1
-trade 2 4 0

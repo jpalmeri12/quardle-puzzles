@@ -1,5 +1,0 @@
-7 9 scrabble
-safer 2 2 0
-idyll 1 5 0
-niche 1 4 1
-candy 3 1 1

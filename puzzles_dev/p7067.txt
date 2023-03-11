@@ -1,5 +1,0 @@
-7 8
-lying 2 1 0
-youth 3 1 1
-greet 5 3 1
-motor 1 4 0

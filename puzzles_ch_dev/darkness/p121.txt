@@ -1,5 +1,0 @@
-7 9 darkness
-broad 2 7 0
-banjo 1 1 1
-juice 1 4 0
-colon 4 4 1

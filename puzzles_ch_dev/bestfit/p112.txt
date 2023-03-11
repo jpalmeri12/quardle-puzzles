@@ -1,5 +1,0 @@
-7 10 bestfit
-twirl 2 1 1
-vivid 1 3 0
-lease 2 5 0
-eking 6 5 1

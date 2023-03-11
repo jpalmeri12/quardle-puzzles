@@ -1,5 +1,0 @@
-7 9
-facet 4 1 1
-scarf 2 4 1
-sweat 2 4 0
-grail 1 7 0

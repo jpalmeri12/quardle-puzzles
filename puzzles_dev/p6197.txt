@@ -1,5 +1,0 @@
-7 10
-force 1 1 1
-eager 1 5 0
-range 5 5 1
-bongo 2 8 0

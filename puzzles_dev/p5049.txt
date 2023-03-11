@@ -1,5 +1,0 @@
-7 10
-askew 2 1 1
-wordy 2 5 0
-dingo 5 5 1
-alien 1 7 0

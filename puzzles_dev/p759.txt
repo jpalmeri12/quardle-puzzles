@@ -1,5 +1,0 @@
-6 7
-spill 1 1 1
-pesto 1 2 0
-toxic 4 2 1
-logic 1 5 0

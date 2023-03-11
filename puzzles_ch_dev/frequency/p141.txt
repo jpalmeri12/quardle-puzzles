@@ -1,5 +1,0 @@
-7 10 frequency
-banjo 3 1 1
-scoop 1 5 0
-click 2 5 1
-inner 2 7 0

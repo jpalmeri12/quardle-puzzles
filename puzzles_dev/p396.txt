@@ -1,5 +1,0 @@
-6 9
-cleft 4 1 1
-chalk 1 2 0
-gaffe 1 4 0
-alter 2 4 1

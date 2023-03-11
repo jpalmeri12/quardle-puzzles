@@ -1,5 +1,0 @@
-7 10
-gazer 4 1 1
-craze 1 3 0
-earth 2 5 0
-trend 5 5 1

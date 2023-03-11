@@ -1,6 +1,0 @@
-6 10 wordcolumn
-whoop 2 1 1
-stoic 4 1 1
-donor 1 3 0
-space 1 5 0
-aloud 3 5 1

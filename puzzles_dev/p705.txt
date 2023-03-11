@@ -1,5 +1,0 @@
-7 9
-devil 5 1 1
-power 3 4 1
-godly 2 5 0
-crept 1 7 0

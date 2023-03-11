@@ -1,5 +1,0 @@
-7 10
-swing 4 1 1
-wight 2 5 0
-hilly 5 5 1
-model 1 8 0

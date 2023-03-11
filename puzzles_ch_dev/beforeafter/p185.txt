@@ -1,9 +1,0 @@
-7 8 beforeafter
-blown 1 1 1
-bliss 4 3 1
-world 1 4 0
-music 2 6 0
-!beforeafter 1 m
-!beforeafter 2 p
-!beforeafter 2 n
-!beforeafter 2 k

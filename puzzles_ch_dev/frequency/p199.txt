@@ -1,5 +1,0 @@
-6 10 frequency
-rumba 3 1 1
-quark 1 5 0
-racer 4 5 1
-sorry 1 9 0

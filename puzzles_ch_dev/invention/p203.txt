@@ -1,5 +1,0 @@
-7 9 invention
-tonic 2 1 1
-sooth 4 4 1
-cross 2 5 0
-north 1 7 0

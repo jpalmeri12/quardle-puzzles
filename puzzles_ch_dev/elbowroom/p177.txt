@@ -1,5 +1,0 @@
-7 9 elbowroom
-taffy 1 1 0
-faint 3 1 1
-enact 2 4 0
-teeth 6 4 1

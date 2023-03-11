@@ -1,5 +1,0 @@
-7 8 buyavowel
-plush 1 1 1
-freed 4 3 1
-harem 1 5 0
-wedge 2 7 0

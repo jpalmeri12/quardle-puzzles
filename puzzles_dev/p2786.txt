@@ -1,5 +1,0 @@
-7 9
-flung 3 1 1
-knelt 2 4 0
-lurid 5 4 1
-cloud 1 8 0

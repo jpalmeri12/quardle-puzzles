@@ -1,5 +1,0 @@
-7 10 spaced
-broth 3 1 1
-forum 1 2 0
-rhyme 2 5 0
-yacht 4 5 1

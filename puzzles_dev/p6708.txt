@@ -1,5 +1,0 @@
-6 7
-anode 1 1 1
-noise 1 2 0
-incur 3 2 1
-decry 1 4 0

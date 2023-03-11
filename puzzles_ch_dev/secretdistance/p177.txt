@@ -1,7 +1,0 @@
-7 11 secretdistance
-thump 1 1 1
-mucus 1 4 0
-synod 5 4 1
-wrung 2 6 0
-gaily 1 10 0
-!sdpos 1 0 0 1

@@ -1,5 +1,0 @@
-7 8
-shirk 1 1 0
-rayon 4 1 1
-probe 6 3 1
-junto 2 5 0

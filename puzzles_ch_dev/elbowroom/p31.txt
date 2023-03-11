@@ -1,5 +1,0 @@
-6 10 elbowroom
-mocha 2 1 1
-rayon 1 5 0
-royal 1 5 1
-yield 1 7 0

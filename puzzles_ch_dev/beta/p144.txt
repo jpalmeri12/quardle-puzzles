@@ -1,5 +1,0 @@
-7 7 beta
-knelt 2 1 1
-antic 1 2 0
-check 5 2 1
-lapel 2 4 0

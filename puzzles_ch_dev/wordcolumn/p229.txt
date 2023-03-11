@@ -1,6 +1,0 @@
-7 10 wordcolumn
-saner 5 1 1
-sight 2 2 1
-heard 2 5 0
-alone 4 5 1
-crank 1 8 0

@@ -1,5 +1,0 @@
-7 8
-point 6 1 1
-rabbi 2 3 0
-blimp 4 3 1
-crept 1 7 0

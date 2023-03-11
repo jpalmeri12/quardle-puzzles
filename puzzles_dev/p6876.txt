@@ -1,5 +1,0 @@
-7 7
-tulip 4 1 1
-shunt 2 2 0
-spree 2 2 1
-drain 1 4 0

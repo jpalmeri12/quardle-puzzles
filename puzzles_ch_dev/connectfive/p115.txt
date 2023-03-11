@@ -1,6 +1,0 @@
-6 10 connectfive
-ethos 1 1 1
-geeky 5 3 1
-style 1 5 0
-trump 2 5 1
-sunny 1 7 0

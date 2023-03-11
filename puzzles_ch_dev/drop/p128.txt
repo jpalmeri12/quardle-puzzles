@@ -1,6 +1,0 @@
-7 11 drop
-swami 3 1 1
-twine 2 2 0
-dealt 5 4 1
-alive 1 5 0
-irate 1 10 0

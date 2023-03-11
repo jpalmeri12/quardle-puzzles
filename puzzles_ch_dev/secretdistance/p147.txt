@@ -1,7 +1,0 @@
-6 10 secretdistance
-dogma 1 1 0
-decoy 1 1 1
-fence 5 3 1
-ovate 1 4 0
-whirl 1 9 0
-!sdpos 2 0 1 3

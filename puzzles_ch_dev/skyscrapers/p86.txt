@@ -1,5 +1,0 @@
-7 10 skyscrapers
-wring 2 5 0
-rinse 3 5 1
-pushy 1 8 0
-demon 5 1 1

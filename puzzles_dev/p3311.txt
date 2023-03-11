@@ -1,5 +1,0 @@
-7 9
-lance 2 1 1
-adorn 2 2 0
-scout 1 4 0
-tiger 5 4 1

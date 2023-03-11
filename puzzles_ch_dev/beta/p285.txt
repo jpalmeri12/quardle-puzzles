@@ -1,5 +1,0 @@
-7 10 beta
-dumpy 2 1 1
-hyena 1 5 0
-avian 5 5 1
-manic 2 7 0

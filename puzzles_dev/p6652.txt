@@ -1,5 +1,0 @@
-7 10
-parse 2 1 0
-rearm 4 1 1
-scamp 1 5 0
-among 3 5 1

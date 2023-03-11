@@ -1,5 +1,0 @@
-7 9 frequency
-hover 6 1 1
-scone 2 4 0
-condo 3 4 1
-smoky 1 8 0

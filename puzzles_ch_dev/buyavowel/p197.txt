@@ -1,5 +1,0 @@
-7 7 buyavowel
-salsa 2 1 1
-alibi 2 2 0
-bonus 5 2 1
-bayou 1 5 0

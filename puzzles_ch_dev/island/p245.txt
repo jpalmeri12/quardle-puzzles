@@ -1,6 +1,0 @@
-7 9 island
-squib 1 1 0
-bread 5 1 1
-float 2 4 0
-forge 2 4 1
-!island 2111 311 221 41

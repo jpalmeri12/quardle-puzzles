@@ -1,5 +1,0 @@
-7 9
-woven 2 1 1
-index 4 4 1
-ninth 2 5 0
-rider 1 7 0

@@ -1,9 +1,0 @@
-7 7 beforeafter
-chump 1 1 0
-undid 3 1 1
-glint 6 2 1
-idyll 2 3 0
-!beforeafter 1 k
-!beforeafter 1 j
-!beforeafter 2 m
-!beforeafter 1 k

@@ -1,5 +1,0 @@
-6 10 hardmode
-rouse 5 1 1
-bingo 1 2 0
-gouge 1 5 0
-ovary 2 5 1

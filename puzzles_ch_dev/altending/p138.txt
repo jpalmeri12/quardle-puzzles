@@ -1,5 +1,0 @@
-6 9 altending
-tatty 1 1 0
-catch 1 3 0
-coupe 1 5 0
-scold 1 7 0

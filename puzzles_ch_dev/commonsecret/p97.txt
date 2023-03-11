@@ -1,6 +1,0 @@
-6 9 commonsecret
-crave 3 1 1
-burnt 1 2 0
-sower 1 4 1
-savor 1 4 0
-!secret r

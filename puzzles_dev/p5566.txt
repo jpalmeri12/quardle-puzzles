@@ -1,5 +1,0 @@
-6 10
-derby 1 1 0
-eerie 2 1 1
-feign 1 5 0
-grace 4 5 1

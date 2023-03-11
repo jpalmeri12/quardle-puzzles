@@ -1,5 +1,0 @@
-7 9 duplicity
-yeast 2 1 0
-satyr 5 1 1
-teary 1 4 0
-terse 1 4 1

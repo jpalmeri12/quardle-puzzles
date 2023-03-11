@@ -1,5 +1,0 @@
-7 9 spin
-smack 5 1 1
-ethic 1 4 0
-hence 3 4 1
-octal 2 7 0

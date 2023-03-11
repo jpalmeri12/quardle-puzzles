@@ -1,5 +1,0 @@
-7 9 skyscrapers
-toast 2 2 0
-bayou 4 1 1
-grout 1 5 0
-again 1 4 1

@@ -1,6 +1,0 @@
-7 10 drop
-moldy 1 1 1
-loser 1 3 0
-split 3 3 1
-risky 2 6 0
-wryly 1 9 0

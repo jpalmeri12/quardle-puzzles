@@ -1,5 +1,0 @@
-7 8
-drank 1 1 0
-retro 2 1 1
-totem 2 3 0
-timer 4 3 1

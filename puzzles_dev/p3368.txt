@@ -1,5 +1,0 @@
-6 7
-belie 5 1 1
-venue 1 2 0
-nanny 3 2 1
-sense 1 5 0

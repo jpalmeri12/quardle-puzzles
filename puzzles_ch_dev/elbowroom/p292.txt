@@ -1,5 +1,0 @@
-7 7 elbowroom
-inlet 5 1 1
-whiny 2 2 0
-whale 2 2 1
-gauze 1 4 0

@@ -1,5 +1,0 @@
-7 10
-brute 5 1 1
-pride 1 5 0
-rover 2 5 1
-early 2 8 0

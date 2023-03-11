@@ -1,6 +1,0 @@
-6 10 connectfive
-skiff 1 1 1
-shiny 1 1 0
-igloo 3 1 1
-fjord 1 5 0
-riper 4 5 1

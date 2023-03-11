@@ -1,6 +1,0 @@
-6 9 wordcolumn
-satyr 1 1 1
-stump 3 2 1
-youth 1 4 0
-hinge 5 4 1
-ledge 1 8 0

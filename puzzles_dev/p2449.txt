@@ -1,5 +1,0 @@
-7 9
-sieve 2 1 0
-stage 2 1 1
-quill 4 4 1
-rerun 1 5 0

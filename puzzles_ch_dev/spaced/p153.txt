@@ -1,5 +1,0 @@
-6 9 spaced
-pixel 5 1 1
-layer 3 4 1
-quail 1 5 0
-sneak 1 7 0

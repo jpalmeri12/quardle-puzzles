@@ -1,5 +1,0 @@
-7 10
-fatty 2 1 0
-truck 5 1 1
-clock 1 5 0
-catty 4 5 1

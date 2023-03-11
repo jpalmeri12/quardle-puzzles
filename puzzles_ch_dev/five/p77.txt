@@ -1,6 +1,0 @@
-7 8 five
-scrap 6 1 1
-usage 2 2 1
-color 4 3 1
-aroma 2 4 0
-decoy 1 6 0

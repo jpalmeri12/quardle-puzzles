@@ -1,5 +1,0 @@
-6 9 unloved
-umbra 1 1 1
-missy 4 4 1
-admin 1 5 0
-frisk 1 7 0

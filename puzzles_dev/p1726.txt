@@ -1,5 +1,0 @@
-6 9
-genie 4 1 1
-clued 1 2 0
-trail 1 4 0
-realm 2 4 1

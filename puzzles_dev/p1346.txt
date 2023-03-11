@@ -1,5 +1,0 @@
-6 7
-cream 3 1 1
-tatty 1 2 1
-turbo 1 2 0
-train 1 4 0

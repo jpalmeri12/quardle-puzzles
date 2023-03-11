@@ -1,5 +1,0 @@
-7 9 outoforder
-throw 1 1 0
-heist 2 1 1
-tying 4 4 1
-thyme 2 5 0

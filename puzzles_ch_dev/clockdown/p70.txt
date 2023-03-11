@@ -1,5 +1,0 @@
-7 8 clockdown
-nutty 6 1 1
-essay 2 3 1
-spent 2 4 0
-mafia 1 6 0

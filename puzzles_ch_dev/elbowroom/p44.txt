@@ -1,5 +1,0 @@
-6 6 elbowroom
-panic 1 1 0
-adapt 2 1 1
-canny 5 1 1
-apron 1 4 0

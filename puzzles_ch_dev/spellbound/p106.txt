@@ -1,9 +1,0 @@
-7 9 spellbound
-buyer 2 1 1
-uncle 2 2 0
-owing 4 4 1
-brawl 1 5 0
-!spellbound 0 3 2
-!spellbound 1 4 3
-!spellbound 2 2 4
-!spellbound 3 0 2

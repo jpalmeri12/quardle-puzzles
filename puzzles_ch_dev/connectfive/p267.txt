@@ -1,6 +1,0 @@
-7 9 connectfive
-delve 2 1 0
-elite 6 1 1
-folio 3 4 1
-gouge 2 5 0
-choke 1 8 0

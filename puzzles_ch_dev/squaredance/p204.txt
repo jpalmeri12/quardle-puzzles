@@ -1,6 +1,0 @@
-6 8 squaredance
-chard 1 1 1
-plate 5 1 1
-crump 1 1 0
-dance 1 5 0
-locus 1 7 0

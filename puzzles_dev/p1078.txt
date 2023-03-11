@@ -1,5 +1,0 @@
-7 9
-chock 1 1 1
-smash 4 4 1
-karma 1 5 0
-wiser 2 7 0

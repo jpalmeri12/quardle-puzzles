@@ -1,5 +1,0 @@
-7 9
-couch 2 1 0
-unfed 4 1 1
-wider 1 4 0
-write 1 4 1

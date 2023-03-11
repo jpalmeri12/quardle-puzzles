@@ -1,5 +1,0 @@
-7 9 desync
-rocky 5 1 1
-demon 2 2 0
-whisk 1 4 0
-inlay 3 4 1

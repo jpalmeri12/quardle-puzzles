@@ -1,5 +1,0 @@
-7 7
-worse 5 1 1
-depot 2 2 0
-eagle 3 2 1
-salve 1 5 0

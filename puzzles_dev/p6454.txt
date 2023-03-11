@@ -1,5 +1,0 @@
-7 10
-freed 5 1 1
-cloud 2 5 1
-credo 2 5 0
-fudge 1 8 0

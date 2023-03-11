@@ -1,6 +1,0 @@
-6 10 five
-eking 4 1 1
-toast 2 2 1
-usage 1 5 0
-equal 5 5 1
-rumba 1 8 0

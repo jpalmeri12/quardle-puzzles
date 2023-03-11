@@ -1,5 +1,0 @@
-7 10 fourscore
-tango 2 1 1
-novel 2 3 0
-molar 1 5 0
-macho 1 5 1

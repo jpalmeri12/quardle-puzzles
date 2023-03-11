@@ -1,5 +1,0 @@
-7 9 spaced
-afoul 1 1 0
-froth 2 1 1
-tramp 2 4 0
-awful 4 4 1

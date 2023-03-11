@@ -1,5 +1,0 @@
-7 10
-award 4 1 1
-lease 2 3 0
-outdo 1 5 0
-usage 2 5 1

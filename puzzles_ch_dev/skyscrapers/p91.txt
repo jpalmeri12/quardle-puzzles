@@ -1,5 +1,0 @@
-7 10 skyscrapers
-spied 1 5 0
-posse 4 1 1
-goose 2 2 0
-study 1 5 1

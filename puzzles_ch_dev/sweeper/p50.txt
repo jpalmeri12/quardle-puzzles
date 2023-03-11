@@ -1,5 +1,0 @@
-7 10 sweeper
-cross 3 1 1
-bobby 2 3 0
-vista 1 5 0
-tatty 4 5 1

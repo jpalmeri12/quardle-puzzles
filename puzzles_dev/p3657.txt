@@ -1,5 +1,0 @@
-7 9
-pried 4 1 1
-heard 1 2 0
-guess 2 4 0
-sweat 6 4 1

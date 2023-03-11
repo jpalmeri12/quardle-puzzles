@@ -1,5 +1,0 @@
-7 9
-penny 4 1 1
-trunk 1 4 0
-recur 2 4 1
-usage 2 7 0

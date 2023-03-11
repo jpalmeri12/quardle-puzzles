@@ -1,5 +1,0 @@
-7 10
-shale 1 1 0
-loath 4 1 1
-usher 2 5 0
-elfin 5 5 1

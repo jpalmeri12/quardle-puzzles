@@ -1,5 +1,0 @@
-7 10
-water 4 1 1
-throw 2 5 0
-trial 2 5 1
-banal 1 8 0

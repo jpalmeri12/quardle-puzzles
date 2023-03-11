@@ -1,5 +1,0 @@
-7 10 hardmode
-logic 1 1 1
-cough 1 5 0
-gawky 4 5 1
-bawdy 2 7 0

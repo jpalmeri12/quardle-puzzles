@@ -1,5 +1,0 @@
-7 9
-three 6 1 1
-slave 4 4 1
-belle 2 5 0
-jewel 1 8 0

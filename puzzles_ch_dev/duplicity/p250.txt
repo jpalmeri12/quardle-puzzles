@@ -1,5 +1,0 @@
-7 9 duplicity
-terra 2 1 1
-trade 1 4 0
-decal 4 4 1
-color 2 8 0

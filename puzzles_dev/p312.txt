@@ -1,5 +1,0 @@
-7 10
-chaff 5 1 1
-snuff 1 5 0
-folio 4 5 1
-sulky 2 7 0

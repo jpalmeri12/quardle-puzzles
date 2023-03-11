@@ -1,5 +1,0 @@
-7 10
-razor 5 1 1
-prize 2 3 0
-ruder 1 5 0
-elfin 4 5 1

@@ -1,5 +1,0 @@
-7 9 darkness
-slice 2 7 0
-bound 1 5 0
-edict 5 4 1
-squib 1 1 1

@@ -1,5 +1,0 @@
-7 9 hardmode
-kebab 1 1 1
-after 5 4 1
-bluff 1 5 0
-finer 2 7 0

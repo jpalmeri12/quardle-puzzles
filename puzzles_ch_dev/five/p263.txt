@@ -1,6 +1,0 @@
-7 11 five
-stern 6 1 1
-ether 2 4 0
-tilde 3 4 1
-hello 1 6 0
-opera 5 6 1

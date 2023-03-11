@@ -1,9 +1,0 @@
-7 9 spellbound
-karma 4 1 1
-whisk 2 4 1
-woman 2 4 0
-usage 1 7 0
-!spellbound 0 1 4
-!spellbound 1 1 2
-!spellbound 2 3 4
-!spellbound 3 0 2

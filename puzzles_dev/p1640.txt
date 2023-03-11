@@ -1,5 +1,0 @@
-7 9
-glass 1 1 1
-field 3 4 1
-skiff 1 5 0
-odder 2 8 0

@@ -1,5 +1,0 @@
-7 9 buyavowel
-spell 2 1 1
-gleam 1 4 0
-missy 5 4 1
-vinyl 2 8 0

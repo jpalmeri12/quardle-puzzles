@@ -1,5 +1,0 @@
-6 9
-scale 5 1 1
-havoc 1 2 0
-funky 3 4 1
-flute 1 5 0

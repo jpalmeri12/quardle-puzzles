@@ -1,5 +1,0 @@
-6 7
-frill 3 1 1
-strap 1 2 0
-spice 1 2 1
-cello 1 5 0

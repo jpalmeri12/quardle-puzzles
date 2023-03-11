@@ -1,5 +1,0 @@
-6 6
-notch 1 1 1
-stoke 4 1 1
-taboo 1 3 0
-hover 1 5 0

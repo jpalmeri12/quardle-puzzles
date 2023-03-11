@@ -1,5 +1,0 @@
-6 9
-baton 1 1 0
-trash 3 1 1
-ramen 1 4 1
-riser 1 4 0

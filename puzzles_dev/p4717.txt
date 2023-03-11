@@ -1,5 +1,0 @@
-7 8
-cleat 2 1 0
-amaze 5 1 1
-solve 3 3 1
-pulse 1 5 0

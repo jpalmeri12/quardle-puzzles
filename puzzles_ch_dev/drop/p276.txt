@@ -1,6 +1,0 @@
-7 9 drop
-scour 1 1 1
-coupe 1 2 0
-unfit 3 2 1
-staid 2 6 0
-cleft 1 8 0

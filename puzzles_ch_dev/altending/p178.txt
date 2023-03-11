@@ -1,5 +1,0 @@
-6 9 altending
-choke 1 1 0
-shame 1 3 0
-plump 1 5 0
-crier 1 7 0

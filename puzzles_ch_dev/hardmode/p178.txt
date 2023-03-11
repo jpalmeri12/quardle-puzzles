@@ -1,5 +1,0 @@
-7 10 hardmode
-surge 4 1 1
-alley 1 5 0
-lingo 2 5 1
-nasal 2 7 0

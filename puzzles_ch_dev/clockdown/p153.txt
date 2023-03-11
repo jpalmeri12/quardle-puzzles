@@ -1,5 +1,0 @@
-6 10 clockdown
-zebra 1 1 0
-aback 5 1 1
-snuck 1 5 0
-nerve 2 5 1

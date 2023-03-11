@@ -1,5 +1,0 @@
-6 9
-gloss 4 1 1
-mangy 2 4 1
-parse 1 5 0
-vying 1 8 0

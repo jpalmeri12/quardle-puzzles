@@ -1,6 +1,0 @@
-7 10 five
-bribe 2 1 0
-buxom 5 1 1
-thrum 1 5 0
-unset 4 5 1
-scree 1 8 0

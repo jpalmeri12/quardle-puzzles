@@ -1,5 +1,0 @@
-7 7
-antic 2 1 1
-newer 2 2 0
-widow 4 2 1
-diode 1 4 0

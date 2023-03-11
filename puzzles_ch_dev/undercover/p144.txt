@@ -1,6 +1,0 @@
-7 12 undercover
-woken 2 1 1
-nymph 2 5 0
-perky 5 5 1
-shady 1 9 0
-blitz 1 11 0

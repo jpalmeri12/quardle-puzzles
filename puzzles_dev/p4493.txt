@@ -1,5 +1,0 @@
-7 10
-exile 1 1 1
-empty 1 5 0
-plain 3 5 1
-annul 2 9 0

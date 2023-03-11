@@ -1,5 +1,0 @@
-7 7 desync
-maize 4 1 1
-gruel 2 2 1
-frail 1 3 0
-exert 2 5 0

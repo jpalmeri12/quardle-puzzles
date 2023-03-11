@@ -1,5 +1,0 @@
-6 10 buyavowel
-forte 5 1 1
-snack 1 5 1
-spade 1 5 0
-kappa 1 9 0

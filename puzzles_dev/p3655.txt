@@ -1,5 +1,0 @@
-7 9
-fleck 5 1 1
-until 1 2 0
-crack 2 4 0
-reach 3 4 1

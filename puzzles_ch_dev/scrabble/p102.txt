@@ -1,5 +1,0 @@
-7 10 scrabble
-allay 3 5 1
-gayer 1 9 0
-palsy 2 5 0
-crump 2 1 1

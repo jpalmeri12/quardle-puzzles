@@ -1,5 +1,0 @@
-7 8 fourscore
-medic 6 1 1
-masse 3 3 1
-radii 2 4 0
-testy 1 6 0

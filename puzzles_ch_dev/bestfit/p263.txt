@@ -1,5 +1,0 @@
-7 10 bestfit
-radii 1 1 0
-iliac 5 1 1
-track 2 5 0
-kneel 6 5 1

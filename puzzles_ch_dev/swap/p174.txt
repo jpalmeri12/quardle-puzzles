@@ -1,5 +1,0 @@
-7 9 swap
-usnny 1 1 1
-nniny 1 4 0
-idlly 3 4 1
-flnig 2 6 0

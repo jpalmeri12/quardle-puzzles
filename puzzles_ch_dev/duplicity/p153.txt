@@ -1,5 +1,0 @@
-7 8 duplicity
-magma 2 1 0
-amass 3 1 1
-geese 5 3 1
-masse 1 4 0

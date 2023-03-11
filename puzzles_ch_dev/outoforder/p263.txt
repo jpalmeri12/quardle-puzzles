@@ -1,5 +1,0 @@
-6 9 outoforder
-satyr 5 1 1
-koala 1 2 0
-relay 1 4 0
-exert 2 4 1

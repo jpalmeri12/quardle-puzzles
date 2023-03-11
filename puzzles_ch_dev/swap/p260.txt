@@ -1,5 +1,0 @@
-7 7 swap
-mcuky 5 1 1
-ocmic 1 2 0
-chiil 2 2 1
-imlky 2 4 0

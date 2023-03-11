@@ -1,5 +1,0 @@
-7 7
-quash 4 1 1
-trump 2 2 0
-track 2 2 1
-patsy 1 4 0

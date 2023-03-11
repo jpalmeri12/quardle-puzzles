@@ -1,7 +1,0 @@
-6 12 secretdistance
-voila 3 1 1
-ozone 1 2 0
-crane 1 5 0
-ether 5 5 1
-feral 1 11 0
-!sdpos 3 2 1 3

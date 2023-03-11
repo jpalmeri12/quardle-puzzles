@@ -1,7 +1,0 @@
-7 11 secretdistance
-macho 2 1 0
-cacti 4 1 1
-adage 1 4 1
-debit 1 5 0
-grunt 1 10 0
-!sdpos 3 3 2 1

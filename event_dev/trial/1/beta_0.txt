@@ -1,5 +1,0 @@
-7 9 beta
-impel 1 1 0
-motif 2 1 1
-loopy 5 4 1
-floor 2 5 0

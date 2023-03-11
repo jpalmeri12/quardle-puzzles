@@ -1,5 +1,0 @@
-7 9 shiritori
-quest 5 1 1
-lemur 2 2 0
-bused 2 4 1
-quiet 1 5 0

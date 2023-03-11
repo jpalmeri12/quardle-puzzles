@@ -1,5 +1,0 @@
-7 10 spaced
-throb 2 1 1
-bushy 2 5 0
-hyper 5 5 1
-large 1 8 0

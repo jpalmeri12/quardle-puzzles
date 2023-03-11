@@ -1,5 +1,0 @@
-7 10 hardmode
-knoll 2 1 1
-alibi 1 5 0
-build 4 5 1
-waive 2 7 0

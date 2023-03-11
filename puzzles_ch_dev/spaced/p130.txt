@@ -1,5 +1,0 @@
-7 9 spaced
-vodka 4 1 1
-squib 2 4 1
-squad 1 5 0
-inlay 2 7 0

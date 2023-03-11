@@ -1,6 +1,0 @@
-7 11 undercover
-spilt 2 1 0
-lofty 5 1 1
-digit 1 4 0
-gloss 3 4 1
-crane 1 10 0

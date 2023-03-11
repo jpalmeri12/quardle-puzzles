@@ -1,5 +1,0 @@
-7 10 hardmode
-bless 4 1 1
-cress 2 3 0
-artsy 1 5 0
-relic 2 5 1

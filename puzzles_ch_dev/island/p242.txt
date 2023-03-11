@@ -1,6 +1,0 @@
-7 9 island
-satyr 6 1 1
-pasty 2 4 0
-sixth 4 4 1
-waste 1 7 0
-!island 32 221 2111 41

@@ -1,5 +1,0 @@
-7 9
-triad 5 1 1
-gamer 1 2 0
-renal 2 4 0
-elder 3 4 1

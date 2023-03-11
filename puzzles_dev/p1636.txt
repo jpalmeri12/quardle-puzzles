@@ -1,5 +1,0 @@
-7 10
-ficus 2 1 1
-asset 1 5 0
-easel 4 5 1
-their 2 8 0

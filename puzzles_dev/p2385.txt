@@ -1,5 +1,0 @@
-7 9
-swarm 4 1 1
-roast 2 4 1
-foamy 1 5 0
-tilde 2 8 0

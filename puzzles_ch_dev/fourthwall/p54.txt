@@ -1,7 +1,0 @@
-6 6 fourthwall
-beard 1 1 0
-breed 1 1 1
-egret 1 3 0
-array 3 1 1
-dryly 1 5 0
-ditty 5 1 1

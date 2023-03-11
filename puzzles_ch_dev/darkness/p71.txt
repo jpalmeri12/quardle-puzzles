@@ -1,5 +1,0 @@
-7 9 darkness
-flake 5 1 1
-skate 2 7 0
-adore 1 5 0
-rocky 3 4 1

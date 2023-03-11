@@ -1,6 +1,0 @@
-7 10 commonsecret
-crock 2 1 0
-covey 5 1 1
-lorry 1 5 0
-olden 2 5 1
-!secret o

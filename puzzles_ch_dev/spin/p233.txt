@@ -1,5 +1,0 @@
-7 9 spin
-surge 6 1 1
-shrug 2 4 0
-shear 2 4 1
-yearn 1 6 0

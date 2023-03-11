@@ -1,5 +1,0 @@
-7 9
-occur 1 1 1
-umbra 1 4 0
-basin 3 4 1
-ester 2 6 0

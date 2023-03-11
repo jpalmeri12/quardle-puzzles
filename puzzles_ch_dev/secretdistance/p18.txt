@@ -1,7 +1,0 @@
-6 11 secretdistance
-ashen 1 1 0
-shire 2 1 1
-privy 1 4 0
-verve 4 4 1
-plush 1 10 0
-!sdpos 1 2 0 2

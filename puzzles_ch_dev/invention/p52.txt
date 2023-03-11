@@ -1,5 +1,0 @@
-7 9 invention
-blitz 4 1 1
-organ 2 4 1
-craze 1 5 0
-axial 2 7 0

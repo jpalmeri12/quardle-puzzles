@@ -1,5 +1,0 @@
-7 7 shiritori
-unfed 3 1 1
-snowy 2 2 0
-waver 5 2 1
-nudge 1 5 0

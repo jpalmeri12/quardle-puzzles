@@ -1,6 +1,0 @@
-6 7 commonsecret
-etude 1 1 1
-toxic 1 2 0
-coast 5 2 1
-delta 1 4 0
-!secret t

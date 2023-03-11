@@ -1,5 +1,0 @@
-6 10
-winch 4 1 1
-might 1 5 0
-taken 5 5 1
-flick 1 7 0

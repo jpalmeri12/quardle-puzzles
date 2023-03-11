@@ -1,5 +1,0 @@
-6 10 desync
-kebab 1 1 1
-blade 1 5 0
-lynch 2 5 1
-chide 1 9 0

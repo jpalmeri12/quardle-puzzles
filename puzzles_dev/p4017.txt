@@ -1,5 +1,0 @@
-7 10
-thorn 5 1 1
-pagan 1 5 0
-given 3 5 1
-snaky 2 9 0

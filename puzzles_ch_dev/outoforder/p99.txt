@@ -1,5 +1,0 @@
-7 10 outoforder
-hyena 5 1 1
-virus 2 5 1
-viral 2 5 0
-fraud 1 7 0

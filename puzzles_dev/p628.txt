@@ -1,5 +1,0 @@
-7 9
-shush 2 1 1
-hippy 2 2 0
-psalm 1 4 0
-lorry 4 4 1

@@ -1,6 +1,0 @@
-7 9 wordcolumn
-donut 2 1 1
-joint 1 2 0
-under 2 4 0
-dealt 4 4 1
-smell 1 7 0

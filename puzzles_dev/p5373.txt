@@ -1,5 +1,0 @@
-7 9
-aglow 3 1 1
-anger 1 2 0
-midst 6 4 1
-swami 2 5 0

@@ -1,5 +1,0 @@
-6 9 frequency
-razor 2 1 1
-modal 1 4 0
-afoul 4 4 1
-rifle 1 8 0

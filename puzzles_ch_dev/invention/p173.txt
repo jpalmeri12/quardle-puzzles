@@ -1,5 +1,0 @@
-7 9 invention
-weedy 4 1 1
-abide 1 4 0
-buyer 2 4 1
-elfin 2 7 0

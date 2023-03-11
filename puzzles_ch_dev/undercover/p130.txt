@@ -1,6 +1,0 @@
-7 11 undercover
-viper 6 1 1
-madam 2 4 1
-aider 2 5 0
-gavel 1 7 0
-hunky 1 10 0

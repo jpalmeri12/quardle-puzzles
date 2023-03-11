@@ -1,6 +1,0 @@
-7 11 drop
-brush 1 1 0
-shalt 4 1 1
-palsy 2 4 0
-prick 2 4 1
-harry 1 10 0

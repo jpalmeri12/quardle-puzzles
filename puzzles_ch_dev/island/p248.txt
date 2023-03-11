@@ -1,6 +1,0 @@
-6 7 island
-hatch 5 1 1
-eerie 3 2 1
-quest 1 3 0
-thigh 1 5 0
-!island 1111 21 2111 31

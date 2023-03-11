@@ -1,7 +1,0 @@
-7 11 secretdistance
-close 1 1 0
-shake 4 1 1
-woken 2 4 0
-wordy 2 4 1
-spilt 1 10 0
-!sdpos 1 1 0 1

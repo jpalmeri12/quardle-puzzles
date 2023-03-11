@@ -1,5 +1,0 @@
-7 10
-batch 5 1 1
-quash 1 5 0
-udder 2 5 1
-rupee 2 9 0

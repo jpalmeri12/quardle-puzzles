@@ -1,5 +1,0 @@
-7 9 buyavowel
-angel 6 1 1
-ovate 2 4 0
-vixen 3 4 1
-wince 1 8 0

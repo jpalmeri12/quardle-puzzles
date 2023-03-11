@@ -1,5 +1,0 @@
-7 10 unloved
-rumba 4 1 1
-trawl 2 5 0
-world 5 5 1
-viper 1 7 0

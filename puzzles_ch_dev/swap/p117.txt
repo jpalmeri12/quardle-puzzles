@@ -1,5 +1,0 @@
-6 10 swap
-grzae 1 1 0
-asfer 4 1 1
-tiwrl 1 5 0
-weaev 3 5 1

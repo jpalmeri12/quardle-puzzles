@@ -1,5 +1,0 @@
-7 10 sweeper
-tonal 4 1 1
-false 2 5 0
-favor 2 5 1
-every 1 7 0

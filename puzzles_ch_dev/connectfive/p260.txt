@@ -1,6 +1,0 @@
-6 12 connectfive
-debug 2 1 1
-quasi 1 4 0
-spoof 4 4 1
-canoe 1 7 0
-awash 2 7 1

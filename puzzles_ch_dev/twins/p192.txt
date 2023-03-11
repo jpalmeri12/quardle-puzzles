@@ -1,8 +1,0 @@
-6 8 twins
-stake 1 1 0
-satyr 1 3 0
-annul 1 5 0
-final 1 7 0
-!twins 1 2
-!twins 2 4
-!twins 0 1

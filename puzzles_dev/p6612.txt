@@ -1,5 +1,0 @@
-7 10
-snide 6 1 1
-blade 2 5 0
-leant 3 5 1
-renew 1 8 0

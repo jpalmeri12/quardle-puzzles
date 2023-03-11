@@ -1,5 +1,0 @@
-7 10
-tunic 2 1 1
-thrum 2 1 0
-scold 1 5 0
-leach 4 5 1

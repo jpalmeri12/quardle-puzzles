@@ -1,5 +1,0 @@
-7 10
-stink 1 1 1
-knave 1 5 0
-notch 2 5 1
-trunk 2 7 0

@@ -1,5 +1,0 @@
-6 10 assembly
-drier 1 3 1
-elegy 5 3 1
-ladle 1 1 0
-horny 1 9 0

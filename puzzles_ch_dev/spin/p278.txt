@@ -1,5 +1,0 @@
-6 10 spin
-wrung 1 1 0
-gamer 5 1 1
-tamer 1 5 0
-ashen 2 5 1

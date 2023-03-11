@@ -1,5 +1,0 @@
-7 10
-shawl 2 1 1
-slime 1 5 0
-minor 4 5 1
-viola 2 8 0

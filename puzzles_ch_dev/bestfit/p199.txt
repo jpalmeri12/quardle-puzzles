@@ -1,5 +1,0 @@
-6 10 bestfit
-chili 4 1 1
-bushy 1 2 0
-tepid 1 5 0
-earth 2 5 1

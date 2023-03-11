@@ -1,5 +1,0 @@
-6 7 invention
-timid 3 1 1
-skiff 1 2 0
-fruit 5 2 1
-radii 1 5 0

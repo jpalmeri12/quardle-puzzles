@@ -1,9 +1,0 @@
-7 8 spellbound
-blink 5 1 1
-spill 2 3 1
-prune 2 4 0
-clank 1 7 0
-!spellbound 0 4 1
-!spellbound 1 2 0
-!spellbound 2 2 1
-!spellbound 3 4 2

@@ -1,5 +1,0 @@
-6 7
-timid 2 1 1
-ditch 1 2 0
-chant 4 2 1
-vicar 1 4 0

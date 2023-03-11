@@ -1,6 +1,0 @@
-7 9 connectfive
-eagle 1 1 1
-godly 1 3 0
-duvet 3 3 1
-freed 6 4 1
-cease 2 6 0

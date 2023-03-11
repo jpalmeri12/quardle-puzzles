@@ -1,5 +1,0 @@
-7 8 clockdown
-blood 6 1 1
-shrew 3 3 1
-braid 2 5 0
-sewer 1 7 0

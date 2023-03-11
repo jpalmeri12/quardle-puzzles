@@ -1,6 +1,0 @@
-7 10 wordcolumn
-float 5 1 1
-shalt 1 5 0
-hedge 2 5 1
-lemon 4 5 1
-dimly 2 7 0

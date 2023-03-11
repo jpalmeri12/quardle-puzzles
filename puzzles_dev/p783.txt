@@ -1,5 +1,0 @@
-7 10
-flout 5 1 1
-sloth 2 5 0
-outdo 4 5 1
-caddy 1 8 0

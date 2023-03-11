@@ -1,5 +1,0 @@
-6 7
-shark 4 1 1
-lithe 1 2 0
-igloo 2 2 1
-glory 1 4 0

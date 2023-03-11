@@ -1,6 +1,0 @@
-7 11 drop
-wager 2 1 0
-guild 4 1 1
-swell 1 4 1
-windy 1 5 0
-rusty 1 10 0

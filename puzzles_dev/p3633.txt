@@ -1,5 +1,0 @@
-6 10
-gauge 1 1 0
-glean 4 1 1
-sound 1 5 0
-unite 3 5 1
