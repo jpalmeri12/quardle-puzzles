@@ -1,0 +1,9 @@
+6 12 doublecross
+spore 1 1 1
+grief 5 1 1
+paler 1 2 0
+rupee 1 4 0
+quirk 1 7 1
+envoy 5 7 1
+urban 1 8 0
+radio 1 10 0

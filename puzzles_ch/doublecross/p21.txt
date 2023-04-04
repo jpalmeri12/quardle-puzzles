@@ -1,0 +1,9 @@
+6 12 doublecross
+guild 2 1 1
+pixel 5 1 1
+fungi 1 2 0
+ideal 1 5 0
+wispy 2 7 1
+snowy 5 7 1
+siren 1 8 0
+gypsy 1 11 0

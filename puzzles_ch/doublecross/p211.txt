@@ -1,0 +1,9 @@
+6 12 doublecross
+hoard 2 1 1
+chart 5 1 1
+coach 1 2 0
+idiot 1 5 0
+hence 2 7 1
+angel 5 7 1
+feign 1 8 0
+rebel 1 11 0

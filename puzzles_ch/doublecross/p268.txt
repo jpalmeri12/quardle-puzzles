@@ -1,0 +1,9 @@
+6 12 doublecross
+recur 2 1 1
+epoch 5 1 1
+recap 1 2 0
+pubic 1 4 0
+gummy 2 7 1
+ledge 5 7 1
+juice 1 8 0
+among 1 10 0

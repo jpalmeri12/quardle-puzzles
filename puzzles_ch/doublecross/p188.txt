@@ -1,0 +1,9 @@
+6 12 doublecross
+globe 3 1 1
+stead 5 1 1
+filet 1 2 0
+cobra 1 4 0
+sadly 3 7 1
+glade 5 7 1
+avail 1 8 0
+valid 1 10 0

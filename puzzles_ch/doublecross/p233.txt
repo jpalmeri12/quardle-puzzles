@@ -1,0 +1,9 @@
+6 12 doublecross
+proof 1 1 0
+offer 3 1 1
+flume 5 1 1
+eerie 1 5 0
+these 1 7 0
+evade 3 7 1
+eater 5 7 1
+shear 1 11 0

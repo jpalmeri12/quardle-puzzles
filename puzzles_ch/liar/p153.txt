@@ -1,0 +1,5 @@
+7 7 liar
+water 1 1 0
+ennui 4 1 1
+agree 6 2 1
+tribe 2 5 0

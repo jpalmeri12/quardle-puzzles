@@ -1,0 +1,9 @@
+6 12 doublecross
+skimp 1 1 0
+kinky 2 1 1
+plead 5 1 1
+synod 1 5 0
+logic 1 7 0
+outer 2 7 1
+clone 5 7 1
+tripe 1 11 0

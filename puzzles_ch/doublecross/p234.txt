@@ -1,0 +1,9 @@
+6 12 doublecross
+decay 1 1 0
+elide 2 1 1
+adopt 4 1 1
+teeth 1 5 0
+audit 1 7 0
+unzip 2 7 1
+idyll 4 7 1
+apple 1 11 0

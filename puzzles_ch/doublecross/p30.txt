@@ -1,0 +1,9 @@
+6 12 doublecross
+facet 1 1 0
+aging 2 1 1
+exalt 4 1 1
+agate 1 5 0
+shank 1 7 0
+hunky 2 7 1
+nerve 4 7 1
+hymen 1 11 0

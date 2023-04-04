@@ -1,0 +1,9 @@
+6 12 doublecross
+blitz 1 1 1
+bushy 1 1 0
+yacht 5 1 1
+iliac 1 3 0
+query 1 7 1
+quilt 1 7 0
+totem 5 7 1
+exact 1 9 0

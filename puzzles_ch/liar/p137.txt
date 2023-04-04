@@ -1,0 +1,5 @@
+7 9 liar
+livid 1 1 0
+ionic 2 1 1
+mania 5 4 1
+cedar 2 5 0

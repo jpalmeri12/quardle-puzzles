@@ -1,0 +1,9 @@
+6 12 doublecross
+augur 3 1 1
+hardy 5 1 1
+fauna 1 2 0
+array 1 5 0
+handy 3 7 1
+decay 5 7 1
+inane 1 8 0
+dryly 1 11 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+shore 1 1 0
+obese 3 1 1
+eaten 5 1 1
+scent 1 3 0
+maize 1 7 0
+iliac 3 7 1
+ember 5 7 1
+climb 1 9 0

@@ -1,0 +1,5 @@
+7 10 liar
+junto 2 1 1
+nasty 2 3 0
+louse 1 5 0
+livid 1 5 1

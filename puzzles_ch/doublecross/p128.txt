@@ -1,0 +1,9 @@
+6 12 doublecross
+bylaw 1 1 1
+sleet 4 1 1
+yield 1 2 0
+asset 1 4 0
+hasty 1 7 1
+cream 4 7 1
+abort 1 8 0
+treat 1 10 0

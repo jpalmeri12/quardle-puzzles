@@ -1,0 +1,9 @@
+6 12 doublecross
+shush 1 1 0
+havoc 2 1 1
+shirt 4 1 1
+acute 1 5 0
+stage 1 7 0
+terse 2 7 1
+gripe 4 7 1
+reset 1 11 0

@@ -1,0 +1,5 @@
+6 7 liar
+tumor 2 1 1
+funky 1 2 0
+yacht 5 2 1
+sonic 1 4 0

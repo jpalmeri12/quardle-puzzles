@@ -1,0 +1,9 @@
+6 12 doublecross
+lusty 1 1 1
+taffy 5 1 1
+umbra 1 2 0
+thief 1 4 0
+porch 1 7 1
+write 5 7 1
+odder 1 8 0
+court 1 10 0

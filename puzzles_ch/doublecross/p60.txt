@@ -1,0 +1,9 @@
+6 12 doublecross
+truce 1 1 0
+unset 3 1 1
+edify 5 1 1
+putty 1 5 0
+laugh 1 7 0
+undue 3 7 1
+hater 5 7 1
+swear 1 11 0

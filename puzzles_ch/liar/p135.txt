@@ -1,0 +1,5 @@
+7 9 liar
+tense 5 1 1
+range 1 2 0
+rough 3 4 1
+wooer 2 5 0

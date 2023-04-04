@@ -1,0 +1,9 @@
+6 12 doublecross
+frisk 1 1 0
+idyll 3 1 1
+knock 5 1 1
+relic 1 4 0
+edict 1 7 0
+index 3 7 1
+tidal 5 7 1
+theta 1 10 0

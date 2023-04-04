@@ -1,0 +1,9 @@
+6 12 doublecross
+debut 2 1 1
+audio 4 1 1
+rebus 1 2 0
+humid 1 4 0
+resin 2 7 1
+puree 4 7 1
+venue 1 8 0
+rivet 1 10 0

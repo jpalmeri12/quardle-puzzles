@@ -1,0 +1,5 @@
+7 9 liar
+glory 5 1 1
+taboo 3 4 1
+mealy 1 5 0
+sound 2 7 0

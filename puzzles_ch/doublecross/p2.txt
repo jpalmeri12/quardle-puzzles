@@ -1,0 +1,9 @@
+6 12 doublecross
+scram 1 1 0
+cheer 2 1 1
+ashen 4 1 1
+grand 1 5 0
+blaze 1 7 0
+lover 2 7 1
+zebra 4 7 1
+great 1 11 0

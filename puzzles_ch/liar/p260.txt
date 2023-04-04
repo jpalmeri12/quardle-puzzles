@@ -1,0 +1,5 @@
+6 8 liar
+purer 4 1 1
+extra 1 3 0
+exile 1 3 1
+intro 1 5 0

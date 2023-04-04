@@ -1,0 +1,5 @@
+7 9 liar
+outdo 3 1 1
+acute 1 2 0
+merge 6 4 1
+goose 2 5 0

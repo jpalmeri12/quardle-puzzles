@@ -1,0 +1,5 @@
+7 7 liar
+nicer 1 1 0
+court 3 1 1
+nylon 6 2 1
+rusty 2 3 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+curve 1 1 0
+unity 2 1 1
+vocal 4 1 1
+cycle 1 5 0
+beady 1 7 0
+elder 2 7 1
+dingo 4 7 1
+brook 1 11 0

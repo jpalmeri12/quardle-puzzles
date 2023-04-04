@@ -1,0 +1,9 @@
+6 12 doublecross
+caput 2 1 1
+muddy 4 1 1
+vague 1 2 0
+buddy 1 4 0
+clock 2 7 1
+recut 4 7 1
+flyer 1 8 0
+scour 1 10 0

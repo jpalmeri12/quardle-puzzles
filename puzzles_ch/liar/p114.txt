@@ -1,0 +1,5 @@
+6 9 liar
+unite 1 1 1
+nerve 1 2 0
+timer 1 4 0
+riser 5 4 1

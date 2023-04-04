@@ -1,0 +1,9 @@
+6 12 doublecross
+dozen 1 1 0
+obese 2 1 1
+exert 4 1 1
+usurp 1 4 0
+rabbi 1 7 0
+arose 2 7 1
+baler 4 7 1
+ester 1 10 0

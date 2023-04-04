@@ -1,0 +1,9 @@
+6 12 doublecross
+nudge 1 1 0
+drove 3 1 1
+etude 5 1 1
+vivid 1 4 0
+adopt 1 7 0
+order 3 7 1
+taken 5 7 1
+theme 1 10 0

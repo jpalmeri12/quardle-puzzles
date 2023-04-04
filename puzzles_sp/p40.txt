@@ -1,0 +1,5 @@
+7 9 liar
+query 2 1 1
+fully 1 2 0
+rumba 2 4 0
+mogul 4 4 1

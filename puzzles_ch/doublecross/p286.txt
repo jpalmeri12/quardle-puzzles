@@ -1,0 +1,9 @@
+6 12 doublecross
+blade 1 1 1
+cabal 4 1 1
+lilac 1 2 0
+delay 1 4 0
+bathe 1 7 1
+aptly 4 7 1
+agape 1 8 0
+hilly 1 10 0

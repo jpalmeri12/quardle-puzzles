@@ -1,0 +1,9 @@
+6 12 doublecross
+solar 1 1 1
+steal 1 1 0
+agate 4 1 1
+aorta 1 4 0
+papal 1 7 1
+poser 1 7 0
+easel 4 7 1
+abbey 1 10 0

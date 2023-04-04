@@ -1,0 +1,5 @@
+7 9 liar
+canon 2 1 1
+lobby 1 4 0
+bawdy 4 4 1
+mayor 2 8 0

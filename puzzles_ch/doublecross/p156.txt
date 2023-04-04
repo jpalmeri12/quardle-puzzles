@@ -1,0 +1,9 @@
+6 12 doublecross
+allay 1 1 0
+leafy 2 1 1
+yield 5 1 1
+afoul 1 4 0
+stain 1 7 0
+tamer 2 7 1
+north 5 7 1
+remit 1 10 0

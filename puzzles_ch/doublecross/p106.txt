@@ -1,0 +1,9 @@
+6 12 doublecross
+brain 1 1 1
+freer 5 1 1
+abase 1 3 0
+nadir 1 5 0
+salvo 1 7 1
+clear 5 7 1
+lapse 1 9 0
+odder 1 11 0

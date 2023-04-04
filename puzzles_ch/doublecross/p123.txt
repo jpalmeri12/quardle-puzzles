@@ -1,0 +1,9 @@
+6 12 doublecross
+clerk 1 1 1
+pasta 4 1 1
+lunar 1 2 0
+rusty 1 4 0
+smirk 1 7 1
+merge 4 7 1
+miner 1 8 0
+rough 1 10 0

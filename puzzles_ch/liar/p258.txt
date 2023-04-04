@@ -1,0 +1,5 @@
+6 9 liar
+fungi 4 1 1
+opium 1 2 0
+brood 2 4 1
+braid 1 5 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+creed 1 1 1
+harry 4 1 1
+radar 1 2 0
+entry 1 4 0
+bench 1 7 1
+eater 4 7 1
+eclat 1 8 0
+crier 1 10 0

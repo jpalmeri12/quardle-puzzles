@@ -1,0 +1,9 @@
+6 12 doublecross
+melon 1 1 0
+earth 2 1 1
+neigh 5 1 1
+thigh 1 5 0
+scope 1 7 0
+crack 2 7 1
+erode 5 7 1
+skate 1 11 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+riper 2 1 1
+frown 5 1 1
+liner 1 2 0
+renew 1 4 0
+croup 2 7 1
+posse 5 7 1
+bravo 1 8 0
+guess 1 10 0

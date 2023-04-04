@@ -1,0 +1,5 @@
+6 9 liar
+gloss 1 1 1
+modem 3 4 1
+scold 1 5 0
+freak 1 7 0

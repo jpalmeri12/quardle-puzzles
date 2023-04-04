@@ -1,0 +1,5 @@
+6 7 liar
+irony 5 1 1
+vigor 1 2 0
+green 3 2 1
+preen 1 4 0

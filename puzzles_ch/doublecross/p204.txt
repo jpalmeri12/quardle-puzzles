@@ -1,0 +1,9 @@
+6 12 doublecross
+grout 1 1 1
+gloom 1 1 0
+occur 4 1 1
+ounce 1 3 0
+lunge 1 7 1
+least 1 7 0
+savor 4 7 1
+naive 1 9 0

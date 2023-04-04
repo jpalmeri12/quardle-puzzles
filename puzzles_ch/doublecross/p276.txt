@@ -1,0 +1,9 @@
+6 12 doublecross
+eclat 2 1 1
+gloat 4 1 1
+scale 1 2 0
+basal 1 4 0
+dingy 2 7 1
+metro 4 7 1
+finer 1 8 0
+agora 1 10 0

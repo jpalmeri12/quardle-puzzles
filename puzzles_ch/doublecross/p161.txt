@@ -1,0 +1,9 @@
+6 12 doublecross
+droop 2 1 1
+plunk 5 1 1
+troll 1 2 0
+robin 1 4 0
+sully 2 7 1
+liken 5 7 1
+fungi 1 8 0
+elide 1 10 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+style 1 1 1
+stern 1 1 0
+radii 4 1 1
+ethic 1 5 0
+digit 1 7 1
+decry 1 7 0
+radar 4 7 1
+tiara 1 11 0

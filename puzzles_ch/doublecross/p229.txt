@@ -1,0 +1,9 @@
+6 12 doublecross
+hotel 1 1 1
+hefty 1 1 0
+furor 3 1 1
+elope 1 4 0
+gassy 1 7 1
+guilt 1 7 0
+image 3 7 1
+sugar 1 10 0

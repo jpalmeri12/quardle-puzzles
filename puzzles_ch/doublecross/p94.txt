@@ -1,0 +1,9 @@
+6 12 doublecross
+leapt 2 1 1
+quite 5 1 1
+rabbi 1 3 0
+store 1 5 0
+quake 2 7 1
+niche 5 7 1
+panic 1 9 0
+verve 1 11 0

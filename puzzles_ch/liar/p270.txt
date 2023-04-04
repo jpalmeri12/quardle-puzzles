@@ -1,0 +1,5 @@
+7 10 liar
+swami 2 1 1
+azure 2 3 0
+tidal 1 5 0
+doing 3 5 1

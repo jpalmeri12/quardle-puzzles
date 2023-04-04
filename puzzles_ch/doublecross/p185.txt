@@ -1,0 +1,9 @@
+6 12 doublecross
+baggy 2 1 1
+snare 4 1 1
+gaunt 1 2 0
+cyber 1 5 0
+stair 2 7 1
+rigid 4 7 1
+stein 1 8 0
+crude 1 11 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+prune 1 1 1
+pupil 1 1 0
+inane 4 1 1
+ember 1 5 0
+flyer 1 7 1
+frisk 1 7 0
+shawl 4 7 1
+reply 1 11 0

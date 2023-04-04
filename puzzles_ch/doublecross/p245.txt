@@ -1,0 +1,9 @@
+6 12 doublecross
+thrum 1 1 0
+heron 2 1 1
+mound 5 1 1
+kneed 1 5 0
+humph 1 7 0
+unfit 2 7 1
+hotel 5 7 1
+atoll 1 11 0

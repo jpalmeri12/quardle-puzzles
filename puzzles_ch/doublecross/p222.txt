@@ -1,0 +1,9 @@
+6 12 doublecross
+puffy 3 1 1
+yearn 5 1 1
+flute 1 2 0
+defer 1 4 0
+havoc 3 7 1
+today 5 7 1
+piano 1 8 0
+quota 1 10 0

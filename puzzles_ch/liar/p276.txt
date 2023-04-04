@@ -1,0 +1,5 @@
+7 7 liar
+bribe 4 1 1
+retro 1 2 0
+ether 2 2 1
+erect 2 5 0

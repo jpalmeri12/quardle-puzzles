@@ -1,0 +1,9 @@
+6 12 doublecross
+recur 1 1 1
+range 1 1 0
+gnash 4 1 1
+cacao 1 3 0
+grace 1 7 1
+gleam 1 7 0
+ardor 4 7 1
+abode 1 9 0

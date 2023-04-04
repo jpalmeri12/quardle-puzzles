@@ -1,0 +1,9 @@
+6 12 doublecross
+droop 1 1 1
+dutch 1 1 0
+thick 3 1 1
+poker 1 5 0
+whelp 1 7 1
+whiff 1 7 0
+inlet 3 7 1
+petty 1 11 0

@@ -1,0 +1,5 @@
+6 10 liar
+satyr 5 1 1
+anger 1 5 0
+genie 3 5 1
+dwelt 1 9 0

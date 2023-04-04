@@ -1,0 +1,9 @@
+6 12 doublecross
+usher 1 1 0
+scrum 2 1 1
+erect 4 1 1
+dutch 1 4 0
+atone 1 7 0
+trend 2 7 1
+nerve 4 7 1
+knave 1 10 0

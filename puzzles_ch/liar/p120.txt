@@ -1,0 +1,5 @@
+7 9 liar
+howdy 1 1 1
+duchy 1 4 0
+hasty 4 4 1
+basin 2 6 0

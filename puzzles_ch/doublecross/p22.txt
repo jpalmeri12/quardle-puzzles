@@ -1,0 +1,9 @@
+6 12 doublecross
+forty 1 1 0
+octet 2 1 1
+tenet 4 1 1
+betel 1 4 0
+moist 1 7 0
+other 2 7 1
+sloth 4 7 1
+deity 1 10 0

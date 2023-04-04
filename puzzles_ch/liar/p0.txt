@@ -1,0 +1,5 @@
+7 9 liar
+cobra 6 1 1
+upper 2 4 0
+peril 3 4 1
+allay 1 8 0

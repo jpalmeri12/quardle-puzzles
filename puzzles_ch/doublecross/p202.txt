@@ -1,0 +1,9 @@
+6 12 doublecross
+soapy 2 1 1
+smite 5 1 1
+forum 1 2 0
+spurt 1 4 0
+yearn 2 7 1
+slung 5 7 1
+level 1 8 0
+preen 1 10 0

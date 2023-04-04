@@ -1,0 +1,9 @@
+6 12 doublecross
+debug 1 1 0
+enact 2 1 1
+urban 4 1 1
+stunt 1 5 0
+utile 1 7 0
+terse 2 7 1
+layer 4 7 1
+weird 1 11 0

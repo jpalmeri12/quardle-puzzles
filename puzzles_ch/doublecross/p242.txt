@@ -1,0 +1,9 @@
+6 12 doublecross
+organ 1 1 0
+graze 3 1 1
+noble 5 1 1
+hazel 1 4 0
+nasty 1 7 0
+swami 3 7 1
+yacht 5 7 1
+nymph 1 10 0

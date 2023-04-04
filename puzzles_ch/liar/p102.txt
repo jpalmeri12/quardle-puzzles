@@ -1,0 +1,5 @@
+7 7 liar
+basis 2 1 1
+nasty 1 2 0
+tread 4 2 1
+spare 2 5 0

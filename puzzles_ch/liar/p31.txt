@@ -1,0 +1,5 @@
+7 7 liar
+after 6 1 1
+dunce 4 2 1
+penne 2 4 0
+steep 1 6 0

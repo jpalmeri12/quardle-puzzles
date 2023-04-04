@@ -1,0 +1,9 @@
+6 12 doublecross
+acrid 1 1 1
+eater 4 1 1
+coral 1 2 0
+decry 1 5 0
+dowdy 1 7 1
+evict 4 7 1
+olive 1 8 0
+youth 1 11 0

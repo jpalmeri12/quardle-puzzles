@@ -1,0 +1,9 @@
+6 12 doublecross
+palsy 2 1 1
+snare 4 1 1
+sauna 1 2 0
+usurp 1 4 0
+vista 2 7 1
+olive 4 7 1
+villa 1 8 0
+stave 1 10 0

@@ -1,0 +1,5 @@
+7 9 liar
+chili 2 1 1
+hyper 2 2 0
+hymen 5 4 1
+kinky 1 5 0

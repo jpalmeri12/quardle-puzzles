@@ -1,0 +1,9 @@
+6 12 doublecross
+kebab 1 1 1
+kneed 1 1 0
+dowdy 5 1 1
+aphid 1 4 0
+ledge 1 7 1
+lupus 1 7 0
+shoot 5 7 1
+gecko 1 10 0

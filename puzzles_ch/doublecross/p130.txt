@@ -1,0 +1,9 @@
+6 12 doublecross
+spree 1 1 1
+spook 1 1 0
+outdo 4 1 1
+error 1 5 0
+local 1 7 1
+loath 1 7 0
+trunk 4 7 1
+leaky 1 11 0

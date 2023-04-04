@@ -1,0 +1,9 @@
+6 12 doublecross
+heron 1 1 0
+erect 2 1 1
+ninth 5 1 1
+melon 1 3 0
+gypsy 1 7 0
+yearn 2 7 1
+yacht 5 7 1
+magic 1 9 0

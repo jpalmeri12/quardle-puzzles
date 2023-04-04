@@ -1,0 +1,5 @@
+7 8 liar
+madam 1 1 1
+singe 3 3 1
+amiss 1 4 0
+lever 2 7 0

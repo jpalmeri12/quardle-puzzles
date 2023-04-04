@@ -1,0 +1,5 @@
+6 9 liar
+smoke 5 1 1
+mirth 2 4 1
+rifle 1 5 0
+thing 1 8 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+tulip 1 1 1
+tally 1 1 0
+larva 4 1 1
+pagan 1 5 0
+photo 1 7 1
+polar 1 7 0
+alien 4 7 1
+ovine 1 11 0

@@ -1,0 +1,5 @@
+7 10 liar
+bayou 2 1 1
+yearn 2 3 0
+purge 1 5 0
+gouge 4 5 1

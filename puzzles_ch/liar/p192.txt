@@ -1,0 +1,5 @@
+6 9 liar
+spawn 4 1 1
+dimly 1 4 1
+drawn 1 4 0
+lofty 1 7 0

@@ -1,0 +1,5 @@
+6 10 liar
+plaid 3 1 1
+toddy 1 5 0
+denim 4 5 1
+stunt 1 7 0

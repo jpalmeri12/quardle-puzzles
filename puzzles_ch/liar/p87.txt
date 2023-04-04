@@ -1,0 +1,5 @@
+7 9 liar
+uncle 1 1 1
+liege 1 4 0
+glean 4 4 1
+cynic 2 8 0

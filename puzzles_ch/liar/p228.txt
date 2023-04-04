@@ -1,0 +1,5 @@
+7 8 liar
+bayou 2 1 1
+idyll 5 3 1
+dusty 1 5 0
+dwelt 2 7 0

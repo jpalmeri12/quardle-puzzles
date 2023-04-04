@@ -1,0 +1,9 @@
+6 12 doublecross
+blast 1 1 1
+blunt 1 1 0
+trust 5 1 1
+tract 1 5 0
+cloud 1 7 1
+check 1 7 0
+knack 5 7 1
+drink 1 11 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+bluff 1 1 0
+ledge 2 1 1
+fully 5 1 1
+meaty 1 5 0
+trace 1 7 0
+robot 2 7 1
+elder 5 7 1
+ether 1 11 0

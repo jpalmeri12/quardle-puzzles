@@ -1,0 +1,9 @@
+6 12 doublecross
+clout 1 1 1
+pearl 5 1 1
+liege 1 2 0
+utter 1 4 0
+oaken 1 7 1
+knelt 5 7 1
+admin 1 8 0
+excel 1 10 0

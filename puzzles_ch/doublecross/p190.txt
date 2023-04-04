@@ -1,0 +1,9 @@
+6 12 doublecross
+blink 1 1 1
+trope 4 1 1
+learn 1 2 0
+kneed 1 5 0
+ninth 1 7 1
+baste 4 7 1
+iliac 1 8 0
+hotel 1 11 0

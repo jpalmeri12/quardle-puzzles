@@ -1,0 +1,9 @@
+6 12 doublecross
+wrist 2 1 1
+quoth 4 1 1
+croup 1 2 0
+itchy 1 5 0
+showy 2 7 1
+zebra 4 7 1
+thief 1 8 0
+bylaw 1 11 0

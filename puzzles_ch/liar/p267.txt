@@ -1,0 +1,5 @@
+6 7 liar
+china 1 1 1
+humus 1 2 0
+spool 5 2 1
+audio 1 5 0

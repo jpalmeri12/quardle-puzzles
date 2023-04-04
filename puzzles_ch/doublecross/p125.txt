@@ -1,0 +1,9 @@
+6 12 doublecross
+intro 1 1 1
+index 1 1 0
+ditto 3 1 1
+ozone 1 5 0
+sooth 1 7 1
+stain 1 7 0
+allot 3 7 1
+hotly 1 11 0

@@ -1,0 +1,5 @@
+7 7 liar
+macaw 2 1 1
+bayou 1 2 0
+unite 5 2 1
+wrath 2 5 0

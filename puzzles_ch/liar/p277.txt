@@ -1,0 +1,5 @@
+7 8 liar
+unset 1 1 0
+sushi 3 1 1
+parer 6 3 1
+aider 2 5 0

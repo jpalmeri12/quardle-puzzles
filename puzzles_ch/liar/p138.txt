@@ -1,0 +1,5 @@
+7 8 liar
+acorn 5 1 1
+parka 3 3 1
+grunt 2 5 0
+crawl 1 7 0

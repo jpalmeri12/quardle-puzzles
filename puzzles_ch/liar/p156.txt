@@ -1,0 +1,5 @@
+7 8 liar
+craft 1 1 0
+refer 2 1 1
+flown 2 3 0
+weigh 5 3 1

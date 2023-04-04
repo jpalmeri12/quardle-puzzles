@@ -1,0 +1,9 @@
+6 12 doublecross
+gaily 1 1 0
+agape 2 1 1
+yacht 5 1 1
+epoch 1 4 0
+glove 1 7 0
+livid 2 7 1
+embed 5 7 1
+niche 1 10 0

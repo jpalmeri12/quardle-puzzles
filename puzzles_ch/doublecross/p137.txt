@@ -1,0 +1,9 @@
+6 12 doublecross
+nudge 1 1 0
+undid 2 1 1
+guppy 4 1 1
+wimpy 1 4 0
+birth 1 7 0
+inbox 2 7 1
+tardy 4 7 1
+moody 1 10 0

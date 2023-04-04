@@ -1,0 +1,5 @@
+7 9 liar
+lymph 2 1 1
+lasso 2 1 0
+speak 1 4 0
+khaki 5 4 1

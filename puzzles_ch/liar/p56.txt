@@ -1,0 +1,5 @@
+7 8 liar
+sally 6 1 1
+death 3 3 1
+repel 2 4 0
+tatty 1 6 0

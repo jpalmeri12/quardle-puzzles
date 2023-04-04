@@ -1,0 +1,9 @@
+6 12 doublecross
+quirk 1 1 1
+saint 3 1 1
+usage 1 2 0
+renew 1 4 0
+pouty 1 7 1
+sheet 3 7 1
+other 1 8 0
+tweet 1 10 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+jumpy 2 1 1
+refit 4 1 1
+buyer 1 2 0
+optic 1 4 0
+lobby 2 7 1
+amber 4 7 1
+roomy 1 8 0
+abled 1 10 0

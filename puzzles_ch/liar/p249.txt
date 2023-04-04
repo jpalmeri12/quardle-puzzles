@@ -1,0 +1,5 @@
+7 10 liar
+harem 2 1 1
+midst 2 5 0
+setup 5 5 1
+bayou 1 8 0

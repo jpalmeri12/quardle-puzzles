@@ -1,0 +1,5 @@
+7 9 liar
+chief 1 1 1
+quick 3 4 1
+fruit 1 5 0
+scalp 2 7 0

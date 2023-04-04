@@ -1,0 +1,9 @@
+6 12 doublecross
+deity 1 1 0
+imbue 3 1 1
+yacht 5 1 1
+spelt 1 5 0
+front 1 7 0
+older 3 7 1
+today 5 7 1
+nerdy 1 11 0

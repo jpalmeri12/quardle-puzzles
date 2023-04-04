@@ -1,0 +1,9 @@
+6 12 doublecross
+dowel 1 1 1
+dirge 1 1 0
+rumor 3 1 1
+women 1 3 0
+rivet 1 7 1
+relic 1 7 0
+limbo 3 7 1
+vomit 1 9 0

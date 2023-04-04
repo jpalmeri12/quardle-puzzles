@@ -1,0 +1,9 @@
+6 12 doublecross
+loyal 1 1 0
+overt 2 1 1
+anode 4 1 1
+pride 1 4 0
+fried 1 7 0
+rajah 2 7 1
+email 4 7 1
+tacit 1 10 0

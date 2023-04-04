@@ -1,0 +1,5 @@
+6 8 liar
+apnea 1 1 0
+pushy 2 1 1
+uncut 5 3 1
+thorn 1 4 0

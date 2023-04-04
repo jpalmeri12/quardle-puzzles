@@ -1,0 +1,5 @@
+7 10 liar
+doing 4 1 1
+ingot 1 2 0
+tiger 2 5 0
+epoch 5 5 1

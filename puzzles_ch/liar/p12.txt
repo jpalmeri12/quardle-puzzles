@@ -1,0 +1,5 @@
+7 7 liar
+couch 5 1 1
+scope 2 2 1
+caput 2 3 0
+epoch 1 5 0

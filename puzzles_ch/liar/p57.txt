@@ -1,0 +1,5 @@
+6 9 liar
+steam 1 1 0
+adapt 4 1 1
+puppy 1 4 0
+payee 1 4 1

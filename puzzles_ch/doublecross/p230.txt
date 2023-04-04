@@ -1,0 +1,9 @@
+6 12 doublecross
+stole 1 1 1
+round 4 1 1
+tumor 1 2 0
+erode 1 5 0
+eater 1 7 1
+shrug 4 7 1
+alpha 1 8 0
+reign 1 11 0

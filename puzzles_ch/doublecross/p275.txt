@@ -1,0 +1,9 @@
+6 12 doublecross
+grout 1 1 1
+forty 5 1 1
+rhino 1 2 0
+unfit 1 4 0
+plush 1 7 1
+fetid 5 7 1
+loose 1 8 0
+swami 1 10 0

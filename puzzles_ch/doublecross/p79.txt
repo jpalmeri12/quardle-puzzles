@@ -1,0 +1,9 @@
+6 12 doublecross
+brook 1 1 1
+bossy 1 1 0
+spoil 4 1 1
+optic 1 4 0
+modem 1 7 1
+munch 1 7 0
+candy 4 7 1
+elude 1 10 0

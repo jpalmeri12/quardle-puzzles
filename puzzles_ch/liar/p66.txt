@@ -1,0 +1,5 @@
+7 9 liar
+slate 2 1 1
+stood 2 1 0
+steal 1 4 0
+lofty 5 4 1

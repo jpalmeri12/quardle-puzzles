@@ -1,0 +1,5 @@
+7 10 liar
+relic 2 1 1
+ulcer 1 3 0
+candy 2 5 0
+aisle 3 5 1

@@ -1,0 +1,5 @@
+6 9 liar
+smear 2 1 1
+amiss 1 2 0
+savor 1 4 0
+ought 4 4 1

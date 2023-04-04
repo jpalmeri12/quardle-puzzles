@@ -1,0 +1,9 @@
+6 12 doublecross
+dirty 2 1 1
+blame 4 1 1
+villa 1 2 0
+stamp 1 4 0
+shrub 2 7 1
+afire 4 7 1
+whiff 1 8 0
+hurry 1 10 0

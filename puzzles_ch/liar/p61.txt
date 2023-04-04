@@ -1,0 +1,5 @@
+7 9 liar
+nomad 1 1 0
+debit 5 1 1
+ionic 2 4 0
+ingot 2 4 1

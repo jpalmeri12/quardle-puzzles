@@ -1,0 +1,5 @@
+7 10 liar
+trait 5 1 1
+unite 2 5 0
+undue 2 5 1
+admin 1 7 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+those 2 1 1
+singe 5 1 1
+khaki 1 2 0
+using 1 4 0
+allow 2 7 1
+jelly 5 7 1
+globe 1 8 0
+royal 1 10 0

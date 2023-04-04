@@ -1,0 +1,9 @@
+6 12 doublecross
+eject 1 1 1
+entry 1 1 0
+yearn 5 1 1
+toxin 1 5 0
+towel 1 7 1
+thyme 1 7 0
+error 5 7 1
+leper 1 11 0

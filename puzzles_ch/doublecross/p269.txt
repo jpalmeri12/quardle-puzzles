@@ -1,0 +1,9 @@
+6 12 doublecross
+afoot 1 1 1
+smear 5 1 1
+forum 1 2 0
+truer 1 5 0
+afoul 1 7 1
+risen 5 7 1
+fungi 1 8 0
+liken 1 11 0

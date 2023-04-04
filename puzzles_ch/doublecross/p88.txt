@@ -1,0 +1,9 @@
+6 12 doublecross
+stink 2 1 1
+delay 5 1 1
+stage 1 2 0
+enema 1 4 0
+sushi 2 7 1
+error 5 7 1
+ruder 1 8 0
+rhino 1 10 0

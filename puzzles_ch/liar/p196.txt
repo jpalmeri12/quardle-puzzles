@@ -1,0 +1,5 @@
+7 10 liar
+maybe 2 1 1
+lyric 1 3 0
+early 2 5 0
+young 6 5 1

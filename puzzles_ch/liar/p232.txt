@@ -1,0 +1,5 @@
+7 7 liar
+cameo 1 1 0
+mourn 3 1 1
+legal 6 2 1
+guise 2 3 0

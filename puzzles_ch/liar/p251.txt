@@ -1,0 +1,5 @@
+6 7 liar
+tipsy 4 1 1
+strip 1 2 0
+terse 2 2 1
+arose 1 4 0

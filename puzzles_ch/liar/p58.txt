@@ -1,0 +1,5 @@
+6 7 liar
+slyly 4 1 1
+quilt 1 2 0
+quark 1 2 1
+amble 1 4 0

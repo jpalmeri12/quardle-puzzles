@@ -1,0 +1,5 @@
+7 7 liar
+align 2 1 1
+altar 1 2 0
+rebar 5 2 1
+globe 2 4 0

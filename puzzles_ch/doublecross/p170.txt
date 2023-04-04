@@ -1,0 +1,9 @@
+6 12 doublecross
+anime 2 1 1
+baler 4 1 1
+sneak 1 2 0
+emcee 1 4 0
+prune 2 7 1
+aisle 4 7 1
+orbit 1 8 0
+angle 1 10 0

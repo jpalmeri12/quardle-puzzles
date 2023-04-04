@@ -1,0 +1,9 @@
+6 12 doublecross
+crush 1 1 0
+relic 2 1 1
+heave 5 1 1
+scone 1 5 0
+tiger 1 7 0
+inept 2 7 1
+roost 5 7 1
+stunt 1 11 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+inlet 1 1 1
+itchy 1 1 0
+yield 5 1 1
+trend 1 5 0
+limit 1 7 1
+livid 1 7 0
+derby 5 7 1
+taffy 1 11 0

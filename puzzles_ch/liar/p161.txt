@@ -1,0 +1,5 @@
+6 9 liar
+splat 3 1 1
+hippo 1 2 0
+teach 1 4 0
+hobby 5 4 1

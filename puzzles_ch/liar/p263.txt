@@ -1,0 +1,5 @@
+7 8 liar
+robin 4 1 1
+talon 1 2 0
+decoy 6 3 1
+spine 2 4 0

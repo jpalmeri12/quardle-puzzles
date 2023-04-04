@@ -1,0 +1,5 @@
+7 9 liar
+dense 5 1 1
+these 2 4 0
+turbo 2 4 1
+foist 1 8 0

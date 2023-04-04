@@ -1,0 +1,5 @@
+7 9 liar
+plain 5 1 1
+agent 2 4 1
+grant 2 5 0
+unzip 1 7 0

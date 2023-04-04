@@ -1,0 +1,9 @@
+6 12 doublecross
+guild 1 1 0
+udder 2 1 1
+lease 4 1 1
+yeast 1 4 0
+clang 1 7 0
+livid 2 7 1
+north 4 7 1
+fifth 1 10 0

@@ -1,0 +1,5 @@
+6 10 liar
+bless 1 1 0
+south 5 1 1
+girth 1 5 0
+tower 4 5 1

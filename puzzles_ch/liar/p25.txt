@@ -1,0 +1,5 @@
+6 10 liar
+thong 1 1 0
+grunt 5 1 1
+spurt 1 5 0
+smash 1 5 1

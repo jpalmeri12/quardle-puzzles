@@ -1,0 +1,9 @@
+6 12 doublecross
+fully 1 1 0
+lasso 3 1 1
+young 5 1 1
+mason 1 4 0
+gruff 1 7 0
+unfit 3 7 1
+forge 5 7 1
+using 1 10 0

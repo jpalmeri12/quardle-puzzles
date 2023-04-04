@@ -1,0 +1,9 @@
+6 12 doublecross
+waive 1 1 1
+wager 1 1 0
+exile 4 1 1
+villa 1 4 0
+jumpy 1 7 1
+jolly 1 7 0
+logic 4 7 1
+peril 1 10 0

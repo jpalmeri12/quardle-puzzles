@@ -1,0 +1,9 @@
+6 12 doublecross
+dusty 1 1 0
+utter 2 1 1
+youth 5 1 1
+broth 1 5 0
+wordy 1 7 0
+opera 2 7 1
+yield 5 7 1
+rapid 1 11 0

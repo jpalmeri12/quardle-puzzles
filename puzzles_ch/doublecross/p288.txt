@@ -1,0 +1,9 @@
+6 12 doublecross
+forth 1 1 1
+shade 4 1 1
+ought 1 2 0
+homer 1 5 0
+bagel 1 7 1
+flick 4 7 1
+ankle 1 8 0
+lanky 1 11 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+stove 1 1 1
+aware 5 1 1
+threw 1 2 0
+eagle 1 5 0
+finer 1 7 1
+booth 5 7 1
+intro 1 8 0
+ralph 1 11 0

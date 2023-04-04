@@ -1,0 +1,9 @@
+6 12 doublecross
+tract 2 1 1
+ripen 4 1 1
+groin 1 2 0
+octet 1 4 0
+twang 2 7 1
+tried 4 7 1
+twirl 1 8 0
+sneer 1 10 0

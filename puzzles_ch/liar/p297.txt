@@ -1,0 +1,5 @@
+7 8 liar
+maybe 1 1 1
+joker 4 3 1
+bayou 1 4 0
+worst 2 7 0

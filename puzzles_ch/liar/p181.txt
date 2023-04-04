@@ -1,0 +1,5 @@
+7 8 liar
+synod 5 1 1
+grout 3 3 1
+howdy 2 5 0
+octet 1 7 0

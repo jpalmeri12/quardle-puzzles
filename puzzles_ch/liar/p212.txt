@@ -1,0 +1,5 @@
+7 9 liar
+torso 4 1 1
+froze 2 2 0
+kayak 2 4 1
+savoy 1 5 0

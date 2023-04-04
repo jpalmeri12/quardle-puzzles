@@ -1,0 +1,9 @@
+6 12 doublecross
+magic 1 1 0
+afoot 2 1 1
+idyll 4 1 1
+atoll 1 5 0
+frond 1 7 0
+rowdy 2 7 1
+newer 4 7 1
+myrrh 1 11 0

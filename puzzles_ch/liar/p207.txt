@@ -1,0 +1,5 @@
+7 8 liar
+naval 3 1 1
+quake 1 2 0
+buyer 6 3 1
+elegy 2 5 0

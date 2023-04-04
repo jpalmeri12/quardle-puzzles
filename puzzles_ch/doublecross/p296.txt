@@ -1,0 +1,9 @@
+6 12 doublecross
+flora 1 1 0
+ovoid 3 1 1
+after 5 1 1
+odder 1 5 0
+minty 1 7 0
+nomad 3 7 1
+youth 5 7 1
+width 1 11 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+icing 2 1 1
+tease 5 1 1
+scene 1 2 0
+agile 1 5 0
+truce 2 7 1
+sense 5 7 1
+erase 1 8 0
+venue 1 11 0

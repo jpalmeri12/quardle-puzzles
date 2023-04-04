@@ -1,0 +1,5 @@
+7 7 liar
+sully 4 1 1
+issue 1 2 0
+south 2 2 1
+unlit 2 4 0

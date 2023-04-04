@@ -1,0 +1,9 @@
+6 12 doublecross
+glare 1 1 1
+gummy 1 1 0
+yeast 5 1 1
+rebus 1 4 0
+wrath 1 7 1
+wiser 1 7 0
+rinse 5 7 1
+truss 1 10 0

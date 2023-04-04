@@ -1,0 +1,5 @@
+7 10 liar
+vista 3 1 1
+beast 1 5 0
+tonga 5 5 1
+shone 2 7 0

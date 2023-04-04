@@ -1,0 +1,5 @@
+7 9 liar
+recut 4 1 1
+bleak 2 2 0
+vague 1 4 0
+alone 2 4 1

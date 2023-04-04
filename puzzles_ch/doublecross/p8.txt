@@ -1,0 +1,9 @@
+6 12 doublecross
+billy 1 1 1
+brief 1 1 0
+eater 4 1 1
+lefty 1 3 0
+cheat 1 7 1
+chalk 1 7 0
+lucid 4 7 1
+elect 1 9 0

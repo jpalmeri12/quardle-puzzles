@@ -1,0 +1,5 @@
+7 10 liar
+scram 4 1 1
+corny 2 3 0
+scamp 1 5 0
+cloth 2 5 1

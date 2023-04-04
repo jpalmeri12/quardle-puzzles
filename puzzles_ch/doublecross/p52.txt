@@ -1,0 +1,9 @@
+6 12 doublecross
+scuba 2 1 1
+sedan 4 1 1
+guide 1 3 0
+rainy 1 5 0
+drawl 2 7 1
+tithe 4 7 1
+tatty 1 9 0
+clued 1 11 0

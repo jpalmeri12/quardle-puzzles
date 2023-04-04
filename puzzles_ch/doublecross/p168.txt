@@ -1,0 +1,9 @@
+6 12 doublecross
+daisy 1 1 0
+alpha 2 1 1
+spade 4 1 1
+taker 1 5 0
+leafy 1 7 0
+edict 2 7 1
+frock 4 7 1
+stoke 1 11 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+baggy 1 1 1
+basin 1 1 0
+stomp 3 1 1
+gamma 1 4 0
+lumpy 1 7 1
+leery 1 7 0
+eking 3 7 1
+pence 1 10 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+basis 1 1 1
+holly 4 1 1
+apron 1 2 0
+icily 1 4 0
+hence 1 7 1
+halve 4 7 1
+equal 1 8 0
+curve 1 10 0

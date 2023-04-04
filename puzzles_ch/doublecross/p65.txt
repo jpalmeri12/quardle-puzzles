@@ -1,0 +1,9 @@
+6 12 doublecross
+smote 1 1 1
+spank 1 1 0
+noisy 4 1 1
+ovoid 1 3 0
+risky 1 7 1
+retch 1 7 0
+chasm 4 7 1
+scram 1 9 0

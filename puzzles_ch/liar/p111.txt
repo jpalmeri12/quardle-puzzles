@@ -1,0 +1,5 @@
+7 10 liar
+jumbo 3 1 1
+prune 1 2 0
+would 2 5 0
+waste 2 5 1

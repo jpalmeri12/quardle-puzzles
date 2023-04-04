@@ -1,0 +1,5 @@
+6 8 liar
+party 1 1 1
+puree 1 1 0
+avoid 4 3 1
+trove 1 4 0

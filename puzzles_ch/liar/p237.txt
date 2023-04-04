@@ -1,0 +1,5 @@
+6 6 liar
+abide 1 1 1
+voila 3 1 1
+boozy 1 2 0
+dally 1 4 0

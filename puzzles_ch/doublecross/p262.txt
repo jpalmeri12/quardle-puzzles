@@ -1,0 +1,9 @@
+6 12 doublecross
+stink 1 1 1
+seedy 1 1 0
+elbow 3 1 1
+noose 1 4 0
+offal 1 7 1
+otter 1 7 0
+towel 3 7 1
+avert 1 10 0

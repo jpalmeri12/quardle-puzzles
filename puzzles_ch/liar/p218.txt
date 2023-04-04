@@ -1,0 +1,5 @@
+6 8 liar
+stuff 1 1 0
+froze 4 1 1
+feast 2 3 1
+label 1 5 0

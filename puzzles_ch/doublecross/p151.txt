@@ -1,0 +1,9 @@
+6 12 doublecross
+blurt 1 1 1
+tract 5 1 1
+lemur 1 2 0
+relic 1 4 0
+nasty 1 7 1
+tenor 5 7 1
+alone 1 8 0
+turbo 1 10 0

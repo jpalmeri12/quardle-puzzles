@@ -1,0 +1,5 @@
+6 6 liar
+scaly 1 1 1
+fully 3 1 1
+court 1 2 0
+lilac 1 4 0

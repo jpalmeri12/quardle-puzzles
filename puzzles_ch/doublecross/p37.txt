@@ -1,0 +1,9 @@
+6 12 doublecross
+iliac 1 1 0
+inane 3 1 1
+count 5 1 1
+canon 1 4 0
+manic 1 7 0
+nymph 3 7 1
+chirp 5 7 1
+super 1 10 0

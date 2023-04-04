@@ -1,0 +1,9 @@
+6 12 doublecross
+begat 1 1 1
+unzip 3 1 1
+ennui 1 2 0
+alike 1 4 0
+forte 1 7 1
+ditty 3 7 1
+ovine 1 8 0
+tutor 1 10 0

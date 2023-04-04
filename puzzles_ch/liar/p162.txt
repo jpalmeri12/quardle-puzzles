@@ -1,0 +1,5 @@
+7 9 liar
+topic 2 1 1
+fibre 1 4 0
+rugby 4 4 1
+idyll 2 8 0

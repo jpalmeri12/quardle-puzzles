@@ -1,0 +1,9 @@
+6 12 doublecross
+ozone 2 1 1
+crick 4 1 1
+azure 1 2 0
+enact 1 4 0
+spurt 2 7 1
+haute 4 7 1
+spray 1 8 0
+truth 1 10 0

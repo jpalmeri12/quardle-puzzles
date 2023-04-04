@@ -1,0 +1,9 @@
+6 12 doublecross
+spiel 1 1 0
+inbox 3 1 1
+ledge 5 1 1
+pixie 1 5 0
+pinch 1 7 0
+nerve 3 7 1
+heron 5 7 1
+clean 1 11 0

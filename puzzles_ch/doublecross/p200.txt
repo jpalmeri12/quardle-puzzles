@@ -1,0 +1,9 @@
+6 12 doublecross
+spore 2 1 1
+llama 5 1 1
+spoil 1 2 0
+cream 1 4 0
+hedge 2 7 1
+drawn 5 7 1
+debar 1 8 0
+aglow 1 10 0

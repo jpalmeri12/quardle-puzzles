@@ -1,0 +1,9 @@
+6 12 doublecross
+jaunt 1 1 1
+could 5 1 1
+audio 1 2 0
+third 1 5 0
+credo 1 7 1
+night 5 7 1
+radii 1 8 0
+octet 1 11 0

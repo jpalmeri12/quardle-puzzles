@@ -1,0 +1,9 @@
+6 12 doublecross
+loyal 1 1 1
+bowel 3 1 1
+ovoid 1 2 0
+agent 1 4 0
+cower 1 7 1
+fancy 3 7 1
+ovate 1 8 0
+excel 1 10 0

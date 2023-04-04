@@ -1,0 +1,9 @@
+6 12 doublecross
+truss 1 1 1
+trace 1 1 0
+charm 4 1 1
+short 1 4 0
+elite 1 7 1
+elide 1 7 0
+dilly 4 7 1
+table 1 10 0

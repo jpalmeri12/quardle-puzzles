@@ -1,0 +1,5 @@
+6 8 liar
+raven 1 1 1
+risen 1 1 0
+tuber 4 3 1
+ensue 1 4 0

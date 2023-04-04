@@ -1,0 +1,5 @@
+6 6 liar
+clove 2 1 1
+pesto 5 1 1
+slope 1 2 0
+evict 1 4 0

@@ -1,0 +1,5 @@
+7 9 liar
+party 1 1 0
+tread 4 1 1
+heard 2 4 0
+hoist 2 4 1

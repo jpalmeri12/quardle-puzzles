@@ -1,0 +1,5 @@
+7 7 liar
+dingy 5 1 1
+harem 2 2 1
+humid 2 2 0
+pesky 1 5 0

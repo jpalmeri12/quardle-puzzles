@@ -1,0 +1,5 @@
+7 8 liar
+dicey 2 1 1
+clock 2 3 0
+clink 5 3 1
+clerk 1 7 0

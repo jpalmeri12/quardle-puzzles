@@ -1,0 +1,5 @@
+7 10 liar
+inbox 2 1 0
+blade 4 1 1
+oaken 1 5 0
+obese 1 5 1

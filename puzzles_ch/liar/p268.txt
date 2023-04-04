@@ -1,0 +1,5 @@
+6 9 liar
+skimp 2 1 1
+sepia 4 4 1
+spree 1 5 0
+merit 1 7 0

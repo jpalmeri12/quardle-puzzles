@@ -1,0 +1,9 @@
+6 12 doublecross
+gruff 1 1 1
+group 1 1 0
+puree 5 1 1
+fibre 1 4 0
+drake 1 7 1
+debit 1 7 0
+tulle 5 7 1
+kneel 1 10 0

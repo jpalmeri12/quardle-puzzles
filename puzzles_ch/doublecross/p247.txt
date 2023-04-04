@@ -1,0 +1,9 @@
+6 12 doublecross
+riser 1 1 1
+rodeo 1 1 0
+elite 4 1 1
+earth 1 4 0
+quack 1 7 1
+quick 1 7 0
+curve 4 7 1
+crave 1 10 0

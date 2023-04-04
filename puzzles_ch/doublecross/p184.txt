@@ -1,0 +1,9 @@
+6 12 doublecross
+older 2 1 1
+thing 4 1 1
+alpha 1 2 0
+meant 1 4 0
+woken 2 7 1
+crisp 4 7 1
+mourn 1 8 0
+tense 1 10 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+split 1 1 0
+plate 2 1 1
+touch 5 1 1
+ethic 1 4 0
+gayly 1 7 0
+ankle 2 7 1
+youth 5 7 1
+flirt 1 10 0

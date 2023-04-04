@@ -1,0 +1,5 @@
+7 10 liar
+mamma 2 1 1
+abbey 2 5 0
+baker 3 5 1
+liken 1 7 0

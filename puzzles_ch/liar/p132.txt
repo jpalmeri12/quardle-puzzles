@@ -1,0 +1,5 @@
+7 10 liar
+cabin 2 1 0
+basis 4 1 1
+chest 1 5 0
+comfy 1 5 1

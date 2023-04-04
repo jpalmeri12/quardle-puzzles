@@ -1,0 +1,9 @@
+6 12 doublecross
+coven 1 1 1
+crest 1 1 0
+truly 5 1 1
+equal 1 4 0
+baggy 1 7 1
+bawdy 1 7 0
+yield 5 7 1
+gruel 1 10 0

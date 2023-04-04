@@ -1,0 +1,9 @@
+6 12 doublecross
+freer 1 1 0
+epoxy 3 1 1
+racer 5 1 1
+stoic 1 3 0
+niche 1 7 0
+cargo 3 7 1
+elder 5 7 1
+acrid 1 9 0

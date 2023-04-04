@@ -1,0 +1,9 @@
+6 12 doublecross
+lathe 2 1 1
+meter 5 1 1
+canoe 1 2 0
+lemur 1 5 0
+usage 2 7 1
+flame 5 7 1
+usual 1 8 0
+genie 1 11 0

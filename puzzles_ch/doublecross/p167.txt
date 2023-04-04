@@ -1,0 +1,9 @@
+6 12 doublecross
+canoe 1 1 1
+goody 3 1 1
+aloft 1 2 0
+odder 1 4 0
+diary 1 7 1
+bluer 3 7 1
+igloo 1 8 0
+reedy 1 10 0

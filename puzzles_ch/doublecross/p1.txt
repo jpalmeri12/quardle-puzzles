@@ -1,0 +1,9 @@
+6 12 doublecross
+alley 1 1 1
+arbor 1 1 0
+revel 5 1 1
+elate 1 4 0
+prior 1 7 1
+pygmy 1 7 0
+yield 5 7 1
+offal 1 10 0

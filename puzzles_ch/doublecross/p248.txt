@@ -1,0 +1,9 @@
+6 12 doublecross
+debar 1 1 1
+demur 1 1 0
+undid 4 1 1
+audio 1 4 0
+aware 1 7 1
+acorn 1 7 0
+rival 4 7 1
+relax 1 10 0

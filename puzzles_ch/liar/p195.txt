@@ -1,0 +1,5 @@
+6 8 liar
+guile 1 1 1
+abate 3 3 1
+labor 1 4 0
+queen 1 7 0

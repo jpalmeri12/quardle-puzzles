@@ -1,0 +1,9 @@
+6 12 doublecross
+voila 2 1 1
+salad 5 1 1
+dogma 1 2 0
+flora 1 4 0
+vogue 2 7 1
+inlay 5 7 1
+dozen 1 8 0
+rumba 1 10 0

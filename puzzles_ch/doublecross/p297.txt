@@ -1,0 +1,9 @@
+6 12 doublecross
+china 2 1 1
+spoke 4 1 1
+shape 1 2 0
+snaky 1 4 0
+scram 2 7 1
+drier 4 7 1
+scare 1 8 0
+oaken 1 10 0

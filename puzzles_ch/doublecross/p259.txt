@@ -1,0 +1,9 @@
+6 12 doublecross
+arena 1 1 1
+anode 1 1 0
+ombre 3 1 1
+elbow 1 3 0
+creek 1 7 1
+clung 1 7 0
+ulcer 3 7 1
+emcee 1 9 0

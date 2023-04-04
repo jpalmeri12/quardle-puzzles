@@ -1,0 +1,5 @@
+7 10 liar
+power 3 1 1
+frond 1 2 0
+arise 2 5 0
+alloy 2 5 1

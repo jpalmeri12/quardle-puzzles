@@ -1,0 +1,9 @@
+6 12 doublecross
+ideal 1 1 1
+index 1 1 0
+elbow 4 1 1
+axion 1 4 0
+moldy 1 7 1
+mamma 1 7 0
+musty 4 7 1
+ditto 1 10 0

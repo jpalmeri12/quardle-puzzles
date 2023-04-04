@@ -1,0 +1,9 @@
+6 12 doublecross
+track 2 1 1
+lofty 4 1 1
+broom 1 2 0
+acute 1 4 0
+swash 2 7 1
+papal 4 7 1
+swear 1 8 0
+assay 1 10 0

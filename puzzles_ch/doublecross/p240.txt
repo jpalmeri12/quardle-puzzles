@@ -1,0 +1,9 @@
+6 12 doublecross
+cacti 3 1 1
+shirk 5 1 1
+wrath 1 2 0
+quick 1 5 0
+elope 3 7 1
+briar 5 7 1
+ruler 1 8 0
+queer 1 11 0

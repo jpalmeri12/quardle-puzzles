@@ -1,0 +1,5 @@
+7 8 liar
+globe 1 1 0
+broom 4 1 1
+panic 6 3 1
+human 2 5 0

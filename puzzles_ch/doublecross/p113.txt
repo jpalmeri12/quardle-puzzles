@@ -1,0 +1,9 @@
+6 12 doublecross
+basis 1 1 0
+slick 3 1 1
+swing 5 1 1
+pecan 1 4 0
+manor 1 7 0
+north 3 7 1
+react 5 7 1
+antic 1 10 0

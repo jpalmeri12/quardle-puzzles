@@ -1,0 +1,9 @@
+6 12 doublecross
+vegan 2 1 1
+edify 5 1 1
+beard 1 2 0
+unity 1 5 0
+black 2 7 1
+infer 5 7 1
+clean 1 8 0
+skier 1 11 0

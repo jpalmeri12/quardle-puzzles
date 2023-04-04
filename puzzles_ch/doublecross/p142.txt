@@ -1,0 +1,9 @@
+6 12 doublecross
+buddy 1 1 1
+broil 1 1 0
+liege 5 1 1
+drove 1 3 0
+slang 1 7 1
+smith 1 7 0
+hello 5 7 1
+awful 1 9 0

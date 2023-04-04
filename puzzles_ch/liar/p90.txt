@@ -1,0 +1,5 @@
+7 10 liar
+reuse 4 1 1
+couch 2 3 0
+inner 1 5 0
+nadir 3 5 1

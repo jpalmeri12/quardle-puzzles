@@ -1,0 +1,5 @@
+6 8 liar
+phase 3 1 1
+sedan 5 3 1
+baste 1 4 0
+grain 1 7 0

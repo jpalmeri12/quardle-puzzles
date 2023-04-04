@@ -1,0 +1,9 @@
+6 12 doublecross
+baste 1 1 1
+queen 5 1 1
+shape 1 3 0
+elfin 1 5 0
+evoke 1 7 1
+bleat 5 7 1
+ovine 1 9 0
+edict 1 11 0

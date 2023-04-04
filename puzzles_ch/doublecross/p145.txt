@@ -1,0 +1,9 @@
+6 12 doublecross
+strap 1 1 1
+smirk 3 1 1
+tempo 1 2 0
+poker 1 5 0
+maple 1 7 1
+creep 3 7 1
+array 1 8 0
+empty 1 11 0

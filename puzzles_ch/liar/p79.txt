@@ -1,0 +1,5 @@
+7 8 liar
+turbo 1 1 0
+bongo 4 1 1
+dingo 2 3 0
+ocean 6 3 1

@@ -1,0 +1,9 @@
+6 12 doublecross
+radar 1 1 1
+reach 1 1 0
+aloud 3 1 1
+radio 1 5 0
+sever 1 7 1
+stiff 1 7 0
+inert 3 7 1
+retro 1 11 0

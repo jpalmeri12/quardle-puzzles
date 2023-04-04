@@ -1,0 +1,9 @@
+6 12 doublecross
+synod 2 1 1
+spook 4 1 1
+nymph 1 2 0
+color 1 4 0
+deter 2 7 1
+slide 4 7 1
+belly 1 8 0
+weedy 1 10 0

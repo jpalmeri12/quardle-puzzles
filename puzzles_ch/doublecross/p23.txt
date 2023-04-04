@@ -1,0 +1,9 @@
+6 12 doublecross
+bluff 1 1 0
+lapel 2 1 1
+fjord 5 1 1
+defer 1 4 0
+prank 1 7 0
+rebus 2 7 1
+kebab 5 7 1
+quota 1 10 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+botch 1 1 1
+broth 1 1 0
+topic 4 1 1
+cavil 1 4 0
+ditch 1 7 1
+dress 1 7 0
+stove 4 7 1
+clove 1 10 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+sting 1 1 0
+thump 2 1 1
+natal 4 1 1
+spill 1 5 0
+twirl 1 7 0
+wooer 2 7 1
+rabbi 4 7 1
+druid 1 11 0

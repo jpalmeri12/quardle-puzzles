@@ -1,0 +1,5 @@
+7 10 liar
+quasi 2 1 1
+upper 2 2 0
+filet 1 5 0
+tried 5 5 1

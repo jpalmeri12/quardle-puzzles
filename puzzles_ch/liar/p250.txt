@@ -1,0 +1,5 @@
+6 8 liar
+grace 1 1 0
+crone 4 1 1
+icily 2 3 1
+scone 1 4 0

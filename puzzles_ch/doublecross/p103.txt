@@ -1,0 +1,9 @@
+6 12 doublecross
+jetty 1 1 0
+truss 3 1 1
+youth 5 1 1
+upset 1 4 0
+flank 1 7 0
+amend 3 7 1
+knelt 5 7 1
+penal 1 10 0

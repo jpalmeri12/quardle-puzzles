@@ -1,0 +1,5 @@
+7 7 liar
+heart 5 1 1
+poker 2 2 0
+prowl 2 2 1
+tweet 1 5 0

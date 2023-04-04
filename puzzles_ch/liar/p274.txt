@@ -1,0 +1,5 @@
+6 10 liar
+stink 1 1 1
+knife 1 5 0
+flash 4 5 1
+basal 1 7 0

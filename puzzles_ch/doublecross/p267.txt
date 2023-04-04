@@ -1,0 +1,9 @@
+6 12 doublecross
+welch 1 1 1
+level 4 1 1
+eater 1 2 0
+cower 1 4 0
+botch 1 7 1
+elfin 4 7 1
+oddly 1 8 0
+claim 1 10 0

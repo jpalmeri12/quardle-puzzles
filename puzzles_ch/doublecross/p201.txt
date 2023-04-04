@@ -1,0 +1,9 @@
+6 12 doublecross
+macho 1 1 1
+croak 4 1 1
+afire 1 2 0
+human 1 4 0
+ombre 1 7 1
+snipe 4 7 1
+mound 1 8 0
+ralph 1 10 0

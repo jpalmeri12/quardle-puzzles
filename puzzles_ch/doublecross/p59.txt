@@ -1,0 +1,9 @@
+6 12 doublecross
+ascot 1 1 1
+azure 1 1 0
+udder 3 1 1
+caddy 1 3 0
+throw 1 7 1
+tense 1 7 0
+nurse 3 7 1
+rarer 1 9 0

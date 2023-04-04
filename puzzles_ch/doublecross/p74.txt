@@ -1,0 +1,9 @@
+6 12 doublecross
+stale 2 1 1
+demur 4 1 1
+steer 1 2 0
+retry 1 5 0
+buyer 2 7 1
+penne 4 7 1
+quiet 1 8 0
+preen 1 11 0

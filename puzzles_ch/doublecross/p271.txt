@@ -1,0 +1,9 @@
+6 12 doublecross
+clock 3 1 1
+state 5 1 1
+allot 1 2 0
+ascot 1 4 0
+revue 3 7 1
+women 5 7 1
+credo 1 8 0
+saute 1 10 0

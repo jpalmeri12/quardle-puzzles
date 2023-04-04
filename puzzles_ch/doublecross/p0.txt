@@ -1,0 +1,9 @@
+6 12 doublecross
+troop 2 1 1
+bugle 4 1 1
+gouge 1 3 0
+spree 1 5 0
+cacti 2 7 1
+stuff 4 7 1
+scour 1 9 0
+jiffy 1 11 0

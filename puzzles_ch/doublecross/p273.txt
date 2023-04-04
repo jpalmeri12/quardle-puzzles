@@ -1,0 +1,9 @@
+6 12 doublecross
+glare 2 1 1
+sword 4 1 1
+clown 1 2 0
+beady 1 5 0
+minty 2 7 1
+chose 4 7 1
+sight 1 8 0
+hymen 1 11 0

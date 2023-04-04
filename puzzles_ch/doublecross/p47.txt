@@ -1,0 +1,9 @@
+6 12 doublecross
+solve 1 1 1
+stake 1 1 0
+kneel 4 1 1
+lower 1 3 0
+goose 1 7 1
+glyph 1 7 0
+phony 4 7 1
+onion 1 9 0

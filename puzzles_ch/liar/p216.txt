@@ -1,0 +1,5 @@
+7 10 liar
+toxic 4 1 1
+maxim 2 3 0
+wench 1 5 0
+noise 3 5 1

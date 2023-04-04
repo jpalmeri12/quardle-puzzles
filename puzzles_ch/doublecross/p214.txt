@@ -1,0 +1,9 @@
+6 12 doublecross
+crash 1 1 1
+creed 1 1 0
+enemy 4 1 1
+slimy 1 4 0
+drawl 1 7 1
+devil 1 7 0
+ideal 4 7 1
+wreak 1 10 0

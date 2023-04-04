@@ -1,0 +1,5 @@
+7 9 liar
+sight 1 1 1
+horse 1 4 0
+smock 4 4 1
+knoll 2 6 0

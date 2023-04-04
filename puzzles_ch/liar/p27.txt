@@ -1,0 +1,5 @@
+6 9 liar
+brown 1 1 0
+wreck 4 1 1
+butch 1 4 0
+belly 1 4 1

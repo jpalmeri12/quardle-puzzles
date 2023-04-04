@@ -1,0 +1,9 @@
+6 12 doublecross
+sushi 2 1 1
+serve 4 1 1
+puree 1 2 0
+shave 1 4 0
+awful 2 7 1
+hippo 4 7 1
+await 1 8 0
+lumpy 1 10 0

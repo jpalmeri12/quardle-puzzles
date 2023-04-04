@@ -1,0 +1,5 @@
+7 8 liar
+scoff 1 1 0
+cubic 2 1 1
+light 5 3 1
+cargo 2 5 0

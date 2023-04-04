@@ -1,0 +1,9 @@
+6 12 doublecross
+sappy 1 1 1
+smock 1 1 0
+olive 3 1 1
+yield 1 5 0
+swoop 1 7 1
+spore 1 7 0
+ovoid 3 7 1
+paddy 1 11 0

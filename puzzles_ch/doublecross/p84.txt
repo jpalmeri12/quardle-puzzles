@@ -1,0 +1,9 @@
+6 12 doublecross
+yacht 1 1 1
+shirk 3 1 1
+cried 1 3 0
+token 1 5 0
+budge 1 7 1
+later 3 7 1
+detox 1 9 0
+error 1 11 0

@@ -1,0 +1,5 @@
+7 8 liar
+pecan 2 1 0
+claim 4 1 1
+dunce 2 3 1
+enemy 1 5 0

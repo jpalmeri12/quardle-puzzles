@@ -1,0 +1,9 @@
+6 12 doublecross
+broil 1 1 0
+rhyme 2 1 1
+infer 4 1 1
+emcee 1 4 0
+bench 1 7 0
+eater 2 7 1
+cocoa 4 7 1
+below 1 10 0

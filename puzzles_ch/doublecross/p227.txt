@@ -1,0 +1,9 @@
+6 12 doublecross
+cabin 1 1 1
+unfit 3 1 1
+annoy 1 2 0
+iliac 1 4 0
+apple 1 7 1
+mambo 3 7 1
+plane 1 8 0
+label 1 10 0

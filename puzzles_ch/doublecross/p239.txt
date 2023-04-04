@@ -1,0 +1,9 @@
+6 12 doublecross
+repay 1 1 0
+eaten 2 1 1
+youth 5 1 1
+dealt 1 4 0
+sneer 1 7 0
+navel 2 7 1
+raspy 5 7 1
+recap 1 10 0

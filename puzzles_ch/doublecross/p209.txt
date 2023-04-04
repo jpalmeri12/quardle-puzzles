@@ -1,0 +1,9 @@
+6 12 doublecross
+pooch 1 1 0
+optic 2 1 1
+choke 4 1 1
+kinky 1 4 0
+hover 1 7 0
+outer 2 7 1
+embed 4 7 1
+beset 1 10 0

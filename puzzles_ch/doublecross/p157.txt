@@ -1,0 +1,9 @@
+6 12 doublecross
+rehab 1 1 1
+rapid 1 1 0
+doubt 5 1 1
+blunt 1 5 0
+spook 1 7 1
+steer 1 7 0
+raven 5 7 1
+known 1 11 0

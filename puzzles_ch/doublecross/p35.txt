@@ -1,0 +1,9 @@
+6 12 doublecross
+death 1 1 1
+drove 1 1 0
+other 3 1 1
+horny 1 5 0
+vomit 1 7 1
+vigil 1 7 0
+gusto 3 7 1
+those 1 11 0

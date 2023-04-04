@@ -1,0 +1,9 @@
+6 12 doublecross
+learn 1 1 1
+shave 3 1 1
+ethic 1 2 0
+revel 1 4 0
+smoky 1 7 1
+borax 3 7 1
+moose 1 8 0
+koala 1 10 0

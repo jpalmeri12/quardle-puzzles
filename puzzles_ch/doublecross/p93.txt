@@ -1,0 +1,9 @@
+6 12 doublecross
+bezel 1 1 1
+motel 3 1 1
+elope 1 2 0
+eject 1 4 0
+taboo 1 7 1
+pubic 3 7 1
+abuse 1 8 0
+oxide 1 10 0

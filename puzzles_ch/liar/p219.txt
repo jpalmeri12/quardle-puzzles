@@ -1,0 +1,5 @@
+6 6 liar
+ficus 1 1 0
+feral 1 1 1
+crude 3 1 1
+ardor 1 4 0

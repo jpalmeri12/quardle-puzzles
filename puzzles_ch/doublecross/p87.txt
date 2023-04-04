@@ -1,0 +1,9 @@
+6 12 doublecross
+strap 1 1 1
+stare 1 1 0
+enter 5 1 1
+parer 1 5 0
+tacky 1 7 1
+tried 1 7 0
+daunt 5 7 1
+yacht 1 11 0

@@ -1,0 +1,5 @@
+7 7 liar
+great 6 1 1
+wager 4 2 1
+quake 2 3 0
+court 1 6 0

@@ -1,0 +1,5 @@
+7 9 liar
+lilac 5 1 1
+fewer 3 4 1
+retch 2 5 0
+sweep 1 7 0

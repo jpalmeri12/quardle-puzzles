@@ -1,0 +1,9 @@
+6 12 doublecross
+miner 1 1 1
+moldy 1 1 0
+debut 4 1 1
+route 1 5 0
+unlit 1 7 1
+urban 1 7 0
+alert 4 7 1
+tasty 1 11 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+daddy 1 1 0
+actor 2 1 1
+death 4 1 1
+lofty 1 4 0
+preen 1 7 0
+rainy 2 7 1
+enema 4 7 1
+anime 1 10 0

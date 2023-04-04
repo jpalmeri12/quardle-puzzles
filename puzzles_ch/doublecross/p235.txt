@@ -1,0 +1,9 @@
+6 12 doublecross
+renal 2 1 1
+vouch 5 1 1
+pesto 1 2 0
+panic 1 4 0
+tenth 2 7 1
+drier 5 7 1
+deter 1 8 0
+stage 1 10 0

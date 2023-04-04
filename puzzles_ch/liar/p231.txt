@@ -1,0 +1,5 @@
+7 8 liar
+rhino 2 1 1
+crept 4 3 1
+power 1 5 0
+pithy 2 7 0

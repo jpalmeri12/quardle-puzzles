@@ -1,0 +1,9 @@
+6 12 doublecross
+trend 1 1 1
+taint 1 1 0
+never 4 1 1
+newer 1 4 0
+tight 1 7 1
+treat 1 7 0
+amber 4 7 1
+hymen 1 10 0

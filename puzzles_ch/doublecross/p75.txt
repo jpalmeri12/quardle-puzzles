@@ -1,0 +1,9 @@
+6 12 doublecross
+rodeo 1 1 1
+reset 1 1 0
+elect 4 1 1
+edict 1 4 0
+needy 1 7 1
+nanny 1 7 0
+nurse 4 7 1
+daisy 1 10 0

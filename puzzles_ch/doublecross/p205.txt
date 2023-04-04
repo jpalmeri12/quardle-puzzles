@@ -1,0 +1,9 @@
+6 12 doublecross
+grade 2 1 1
+edict 5 1 1
+druid 1 2 0
+least 1 5 0
+quite 2 7 1
+leapt 5 7 1
+fugue 1 8 0
+debit 1 11 0

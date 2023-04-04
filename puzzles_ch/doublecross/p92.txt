@@ -1,0 +1,9 @@
+6 12 doublecross
+wryly 1 1 0
+recut 2 1 1
+lupus 4 1 1
+humus 1 4 0
+comet 1 7 0
+orbit 2 7 1
+elope 4 7 1
+hippy 1 10 0

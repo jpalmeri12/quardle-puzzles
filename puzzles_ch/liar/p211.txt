@@ -1,0 +1,5 @@
+7 8 liar
+cress 1 1 1
+harsh 3 3 1
+slash 1 4 0
+shore 2 7 0

@@ -1,0 +1,5 @@
+7 9 liar
+woozy 4 1 1
+prong 2 2 0
+craze 1 4 0
+recur 2 4 1

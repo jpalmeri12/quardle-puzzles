@@ -1,0 +1,5 @@
+7 9 liar
+vinyl 6 1 1
+amply 2 4 1
+alloy 2 4 0
+spiny 1 6 0

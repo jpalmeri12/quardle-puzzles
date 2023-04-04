@@ -1,0 +1,9 @@
+6 12 doublecross
+tenor 2 1 1
+shell 5 1 1
+neigh 1 2 0
+local 1 4 0
+tangy 2 7 1
+venom 5 7 1
+gauge 1 8 0
+igloo 1 10 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+eject 1 1 0
+jaunt 2 1 1
+churn 4 1 1
+snort 1 4 0
+fecal 1 7 0
+equip 2 7 1
+audio 4 7 1
+minim 1 10 0

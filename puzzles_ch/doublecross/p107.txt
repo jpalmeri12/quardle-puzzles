@@ -1,0 +1,9 @@
+6 12 doublecross
+gamer 1 1 0
+algae 2 1 1
+refer 5 1 1
+lemur 1 5 0
+chaos 1 7 0
+hatch 2 7 1
+sprig 5 7 1
+thing 1 11 0

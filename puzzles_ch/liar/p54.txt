@@ -1,0 +1,5 @@
+7 10 liar
+spine 2 1 1
+wispy 1 3 0
+ennui 2 5 0
+igloo 6 5 1

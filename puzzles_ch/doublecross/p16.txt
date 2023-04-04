@@ -1,0 +1,9 @@
+6 12 doublecross
+refit 2 1 1
+guild 4 1 1
+revue 1 2 0
+study 1 5 0
+blurb 2 7 1
+churn 4 7 1
+alpha 1 8 0
+ebony 1 11 0

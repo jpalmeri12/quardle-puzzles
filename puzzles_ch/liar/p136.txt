@@ -1,0 +1,5 @@
+7 10 liar
+slang 5 1 1
+llama 1 3 0
+manga 2 5 0
+align 3 5 1

@@ -1,0 +1,9 @@
+6 12 doublecross
+overt 1 1 1
+ought 1 1 0
+hound 4 1 1
+rainy 1 4 0
+stand 1 7 1
+sorry 1 7 0
+razor 4 7 1
+nylon 1 10 0

@@ -1,0 +1,5 @@
+7 10 liar
+khaki 4 1 1
+eight 1 2 0
+twixt 2 5 0
+tulle 6 5 1

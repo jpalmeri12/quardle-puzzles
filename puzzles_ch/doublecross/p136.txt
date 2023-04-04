@@ -1,0 +1,9 @@
+6 12 doublecross
+obese 1 1 0
+belie 2 1 1
+erode 5 1 1
+livid 1 4 0
+class 1 7 0
+level 2 7 1
+smelt 5 7 1
+penal 1 10 0

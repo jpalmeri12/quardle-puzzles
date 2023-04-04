@@ -1,0 +1,5 @@
+6 7 liar
+scuba 2 1 1
+scowl 1 2 0
+wiser 4 2 1
+camel 1 5 0

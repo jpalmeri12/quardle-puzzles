@@ -1,0 +1,9 @@
+6 12 doublecross
+ruddy 1 1 0
+unmet 2 1 1
+drunk 4 1 1
+being 1 4 0
+hurry 1 7 0
+urban 2 7 1
+route 4 7 1
+haute 1 10 0

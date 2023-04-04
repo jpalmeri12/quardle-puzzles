@@ -1,0 +1,9 @@
+6 12 doublecross
+vomit 1 1 0
+orbit 2 1 1
+inert 4 1 1
+micro 1 4 0
+needy 1 7 0
+enter 2 7 1
+dress 4 7 1
+lease 1 10 0

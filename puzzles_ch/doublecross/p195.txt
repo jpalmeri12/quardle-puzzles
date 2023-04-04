@@ -1,0 +1,9 @@
+6 12 doublecross
+admin 1 1 1
+angle 1 1 0
+lodge 4 1 1
+nicer 1 5 0
+dusty 1 7 1
+drama 1 7 0
+match 4 7 1
+yacht 1 11 0

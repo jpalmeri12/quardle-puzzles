@@ -1,0 +1,5 @@
+7 10 liar
+bayou 3 1 1
+shyly 1 3 0
+rusty 2 5 0
+yearn 6 5 1

@@ -1,0 +1,5 @@
+7 10 liar
+shoal 6 1 1
+total 2 5 0
+touch 2 5 1
+buyer 1 7 0

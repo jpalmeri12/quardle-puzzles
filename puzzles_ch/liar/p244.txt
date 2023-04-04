@@ -1,0 +1,5 @@
+7 9 liar
+where 2 1 0
+renal 5 1 1
+viola 1 4 0
+imbue 2 4 1

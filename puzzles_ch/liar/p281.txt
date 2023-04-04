@@ -1,0 +1,5 @@
+7 10 liar
+booty 2 1 0
+thumb 5 1 1
+climb 1 5 0
+leapt 2 5 1

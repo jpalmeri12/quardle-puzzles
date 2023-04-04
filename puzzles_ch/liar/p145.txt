@@ -1,0 +1,5 @@
+7 7 liar
+raspy 1 1 0
+pedal 4 1 1
+oaken 6 2 1
+thank 2 4 0

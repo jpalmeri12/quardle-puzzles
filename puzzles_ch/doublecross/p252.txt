@@ -1,0 +1,9 @@
+6 12 doublecross
+lucid 1 1 0
+utter 2 1 1
+igloo 4 1 1
+felon 1 4 0
+woozy 1 7 0
+older 2 7 1
+zesty 4 7 1
+jetty 1 10 0

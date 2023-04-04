@@ -1,0 +1,5 @@
+7 10 liar
+octet 4 1 1
+lofty 1 3 0
+eater 2 5 0
+axiom 3 5 1

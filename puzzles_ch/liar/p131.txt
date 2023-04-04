@@ -1,0 +1,5 @@
+7 7 liar
+inane 5 1 1
+bacon 1 2 0
+curve 3 2 1
+drone 2 4 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+green 1 1 0
+renew 2 1 1
+ninth 5 1 1
+awash 1 5 0
+greed 1 7 0
+rigid 2 7 1
+debut 5 7 1
+adopt 1 11 0

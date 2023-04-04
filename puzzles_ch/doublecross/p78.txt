@@ -1,0 +1,9 @@
+6 12 doublecross
+wordy 2 1 1
+spill 4 1 1
+trait 1 3 0
+cycle 1 5 0
+vault 2 7 1
+ombre 4 7 1
+jumbo 1 9 0
+steel 1 11 0

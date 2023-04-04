@@ -1,0 +1,9 @@
+6 12 doublecross
+fight 2 1 1
+scary 5 1 1
+lilac 1 2 0
+their 1 4 0
+bland 2 7 1
+riser 5 7 1
+alibi 1 8 0
+knife 1 10 0

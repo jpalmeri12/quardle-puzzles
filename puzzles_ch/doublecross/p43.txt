@@ -1,0 +1,9 @@
+6 12 doublecross
+bayou 1 1 1
+begat 1 1 0
+goody 3 1 1
+order 1 4 0
+outgo 1 7 1
+ought 1 7 0
+graze 3 7 1
+gazer 1 10 0

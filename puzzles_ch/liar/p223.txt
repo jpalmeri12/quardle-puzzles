@@ -1,0 +1,5 @@
+6 7 liar
+segue 2 1 1
+tenet 1 2 0
+tense 5 2 1
+queen 1 4 0

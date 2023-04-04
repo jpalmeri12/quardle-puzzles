@@ -1,0 +1,5 @@
+7 10 liar
+kebab 2 1 1
+burly 2 5 0
+retro 4 5 1
+aunty 1 7 0

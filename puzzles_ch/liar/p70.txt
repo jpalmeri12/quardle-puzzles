@@ -1,0 +1,5 @@
+7 9 liar
+dumpy 1 1 0
+peril 4 1 1
+beset 2 4 1
+built 2 4 0

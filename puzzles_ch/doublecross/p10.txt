@@ -1,0 +1,9 @@
+6 12 doublecross
+audit 1 1 1
+ought 3 1 1
+usurp 1 2 0
+titan 1 5 0
+trunk 1 7 1
+edict 3 7 1
+rider 1 8 0
+kitty 1 11 0

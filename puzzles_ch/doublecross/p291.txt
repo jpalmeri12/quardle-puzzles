@@ -1,0 +1,9 @@
+6 12 doublecross
+basic 1 1 1
+buyer 1 1 0
+enter 4 1 1
+islet 1 4 0
+avert 1 7 1
+avoid 1 7 0
+itchy 4 7 1
+right 1 10 0

@@ -1,0 +1,9 @@
+6 12 doublecross
+navel 1 1 0
+alike 2 1 1
+lodge 5 1 1
+segue 1 5 0
+worth 1 7 0
+otter 2 7 1
+harem 5 7 1
+cream 1 11 0

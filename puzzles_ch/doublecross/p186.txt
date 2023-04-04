@@ -1,0 +1,9 @@
+6 12 doublecross
+rover 2 1 1
+claim 4 1 1
+holly 1 2 0
+refit 1 4 0
+jaunt 2 7 1
+nymph 4 7 1
+satyr 1 8 0
+snipe 1 10 0

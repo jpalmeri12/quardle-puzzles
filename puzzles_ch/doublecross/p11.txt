@@ -1,0 +1,9 @@
+6 12 doublecross
+cliff 1 1 1
+crimp 1 1 0
+ionic 3 1 1
+inner 1 3 0
+butch 1 7 1
+below 1 7 0
+leggy 3 7 1
+tight 1 9 0

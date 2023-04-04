@@ -1,0 +1,9 @@
+6 12 doublecross
+risen 1 1 1
+recur 1 1 0
+crude 3 1 1
+endow 1 4 0
+slave 1 7 1
+sulky 1 7 0
+locus 3 7 1
+vault 1 10 0

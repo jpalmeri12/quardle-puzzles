@@ -1,0 +1,9 @@
+6 12 doublecross
+bingo 2 1 1
+stare 5 1 1
+digit 1 2 0
+copse 1 5 0
+snuck 2 7 1
+swung 5 7 1
+endow 1 8 0
+eking 1 11 0

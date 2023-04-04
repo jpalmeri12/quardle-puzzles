@@ -1,0 +1,9 @@
+6 12 doublecross
+honey 1 1 1
+downy 4 1 1
+onion 1 2 0
+event 1 4 0
+skill 1 7 1
+savoy 4 7 1
+knead 1 8 0
+labor 1 10 0

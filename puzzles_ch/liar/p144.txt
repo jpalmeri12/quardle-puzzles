@@ -1,0 +1,5 @@
+7 9 liar
+crass 1 1 1
+outer 4 4 1
+spout 1 5 0
+tweet 2 7 0

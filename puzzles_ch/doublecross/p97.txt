@@ -1,0 +1,9 @@
+6 12 doublecross
+slick 1 1 1
+stall 1 1 0
+apnea 3 1 1
+knack 1 5 0
+idyll 1 7 1
+idiot 1 7 0
+intro 3 7 1
+loopy 1 11 0

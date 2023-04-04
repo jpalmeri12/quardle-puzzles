@@ -1,0 +1,9 @@
+6 12 doublecross
+femme 2 1 1
+taste 5 1 1
+mecca 1 2 0
+penne 1 5 0
+shave 2 7 1
+house 5 7 1
+rhino 1 8 0
+revue 1 11 0

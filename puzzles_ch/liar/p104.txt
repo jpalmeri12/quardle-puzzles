@@ -1,0 +1,5 @@
+7 8 liar
+idyll 1 1 0
+dumpy 2 1 1
+myrrh 2 3 0
+husky 6 3 1

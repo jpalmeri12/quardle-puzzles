@@ -1,0 +1,9 @@
+6 12 doublecross
+micro 1 1 0
+idiom 2 1 1
+offer 5 1 1
+ember 1 5 0
+envoy 1 7 0
+nanny 2 7 1
+young 5 7 1
+lying 1 11 0

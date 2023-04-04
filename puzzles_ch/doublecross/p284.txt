@@ -1,0 +1,9 @@
+6 12 doublecross
+fetid 1 1 0
+ethos 2 1 1
+dirge 5 1 1
+doing 1 4 0
+gecko 1 7 0
+exert 2 7 1
+omega 5 7 1
+bring 1 10 0

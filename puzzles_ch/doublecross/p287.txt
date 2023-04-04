@@ -1,0 +1,9 @@
+6 12 doublecross
+glide 1 1 1
+growl 1 1 0
+wooer 4 1 1
+exert 1 5 0
+whose 1 7 1
+world 1 7 0
+lynch 4 7 1
+eight 1 11 0

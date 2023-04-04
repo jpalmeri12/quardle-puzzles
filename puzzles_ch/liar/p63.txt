@@ -1,0 +1,5 @@
+7 9 liar
+rainy 5 1 1
+pecan 1 4 0
+cheat 3 4 1
+valet 2 7 0
