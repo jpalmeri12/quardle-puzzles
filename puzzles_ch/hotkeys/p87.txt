@@ -1,0 +1,5 @@
+7 8 hotkeys
+spoof 2 1 1
+stiff 2 1 0
+cried 4 3 1
+board 1 4 0

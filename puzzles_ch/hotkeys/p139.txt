@@ -1,0 +1,5 @@
+7 9 hotkeys
+comet 1 1 0
+optic 2 1 1
+sassy 4 4 1
+chard 2 5 0

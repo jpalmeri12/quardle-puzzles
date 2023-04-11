@@ -1,0 +1,5 @@
+7 8 hotkeys
+agora 6 1 1
+adore 2 3 1
+diner 2 4 0
+wrest 1 6 0

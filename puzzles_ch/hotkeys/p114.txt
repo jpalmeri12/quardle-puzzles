@@ -1,0 +1,5 @@
+7 8 hotkeys
+doing 1 1 0
+oddly 2 1 1
+dizzy 2 3 0
+zebra 4 3 1

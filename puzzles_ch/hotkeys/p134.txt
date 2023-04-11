@@ -1,0 +1,5 @@
+7 9 hotkeys
+murky 5 1 1
+awful 2 2 0
+blink 1 4 0
+lofty 2 4 1

@@ -1,0 +1,5 @@
+7 10 hotkeys
+house 5 1 1
+lunge 1 5 0
+gavel 4 5 1
+allay 2 9 0

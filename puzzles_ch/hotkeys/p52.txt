@@ -1,0 +1,5 @@
+7 9 hotkeys
+pinky 2 1 0
+penal 2 1 1
+carat 1 4 0
+anvil 4 4 1

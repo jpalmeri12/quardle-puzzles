@@ -1,0 +1,5 @@
+7 10 hotkeys
+risen 2 1 1
+inert 1 5 0
+elect 3 5 1
+scrap 2 8 0

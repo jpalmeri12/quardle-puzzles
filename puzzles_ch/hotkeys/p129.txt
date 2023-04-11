@@ -1,0 +1,5 @@
+6 10 hotkeys
+rabbi 2 1 1
+width 1 5 0
+whiff 1 5 1
+ionic 1 7 0

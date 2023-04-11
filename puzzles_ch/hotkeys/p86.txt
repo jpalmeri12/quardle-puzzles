@@ -1,0 +1,5 @@
+7 10 hotkeys
+bayou 2 1 1
+yield 2 3 0
+pupal 1 5 0
+abuse 4 5 1

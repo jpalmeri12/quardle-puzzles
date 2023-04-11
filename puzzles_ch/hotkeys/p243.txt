@@ -1,0 +1,5 @@
+7 7 hotkeys
+tempo 2 1 1
+extra 2 2 0
+tryst 4 2 1
+loose 1 5 0

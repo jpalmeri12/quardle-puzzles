@@ -1,0 +1,5 @@
+6 6 hotkeys
+ethos 1 1 0
+elide 1 1 1
+hedge 3 1 1
+digit 1 4 0

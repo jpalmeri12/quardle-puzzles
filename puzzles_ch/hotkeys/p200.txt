@@ -1,0 +1,5 @@
+7 9 hotkeys
+moose 5 1 1
+actor 2 2 0
+lupus 1 4 0
+livid 1 4 1

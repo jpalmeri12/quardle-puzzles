@@ -1,0 +1,5 @@
+7 8 hotkeys
+mambo 1 1 0
+bayou 4 1 1
+salon 6 3 1
+gruel 2 5 0

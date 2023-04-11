@@ -1,0 +1,5 @@
+7 10 hotkeys
+mambo 3 1 1
+flown 1 5 0
+women 4 5 1
+lanky 2 9 0

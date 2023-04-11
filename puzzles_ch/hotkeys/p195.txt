@@ -1,0 +1,5 @@
+6 6 hotkeys
+cacti 1 1 0
+apple 2 1 1
+irony 5 1 1
+plain 1 4 0

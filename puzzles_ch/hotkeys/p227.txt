@@ -1,0 +1,5 @@
+6 7 hotkeys
+alert 4 1 1
+trout 2 2 1
+freer 1 3 0
+musty 1 5 0

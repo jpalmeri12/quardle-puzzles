@@ -1,0 +1,5 @@
+7 10 hotkeys
+sting 4 1 1
+moist 2 3 0
+deign 1 5 0
+night 5 5 1

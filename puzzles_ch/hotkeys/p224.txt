@@ -1,0 +1,5 @@
+7 10 hotkeys
+tango 3 1 1
+worst 2 5 0
+scram 5 5 1
+bosom 1 9 0

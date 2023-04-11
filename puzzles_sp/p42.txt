@@ -1,0 +1,5 @@
+7 9 hotkeys
+grown 3 1 1
+swift 2 4 0
+fatty 5 4 1
+retry 1 8 0

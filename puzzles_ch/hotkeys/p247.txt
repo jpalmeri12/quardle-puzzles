@@ -1,0 +1,5 @@
+7 9 hotkeys
+begin 5 1 1
+golem 2 2 0
+ozone 3 4 1
+dozen 1 5 0

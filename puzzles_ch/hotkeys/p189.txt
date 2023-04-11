@@ -1,0 +1,5 @@
+7 10 hotkeys
+bayou 4 1 1
+thrum 1 5 0
+hovel 2 5 1
+valet 2 7 0

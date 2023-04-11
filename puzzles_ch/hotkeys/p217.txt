@@ -1,0 +1,5 @@
+6 10 hotkeys
+ralph 1 1 0
+arson 2 1 1
+under 1 5 0
+usher 1 5 1

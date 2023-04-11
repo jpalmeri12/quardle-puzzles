@@ -1,0 +1,5 @@
+6 10 hotkeys
+vegan 4 1 1
+which 1 5 1
+whiny 1 5 0
+incur 1 7 0

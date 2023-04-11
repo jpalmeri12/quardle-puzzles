@@ -1,0 +1,5 @@
+7 9 hotkeys
+broth 6 1 1
+uncut 2 4 0
+chock 4 4 1
+spiky 1 8 0

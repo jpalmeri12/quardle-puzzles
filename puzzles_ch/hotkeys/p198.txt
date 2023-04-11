@@ -1,0 +1,5 @@
+7 9 hotkeys
+soggy 4 1 1
+sword 2 2 0
+manga 1 4 0
+mammy 1 4 1

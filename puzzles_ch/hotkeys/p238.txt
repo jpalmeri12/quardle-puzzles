@@ -1,0 +1,5 @@
+6 7 hotkeys
+mamma 3 1 1
+beach 1 2 0
+birch 1 2 1
+coast 1 5 0

@@ -1,0 +1,5 @@
+7 10 hotkeys
+stint 5 1 1
+bitty 2 2 0
+digit 1 5 0
+gusto 3 5 1

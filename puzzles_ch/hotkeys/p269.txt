@@ -1,0 +1,5 @@
+7 7 hotkeys
+elegy 6 1 1
+equal 2 2 0
+eagle 2 2 1
+bezel 1 6 0

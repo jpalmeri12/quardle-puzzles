@@ -1,0 +1,5 @@
+7 7 hotkeys
+quote 1 1 0
+tough 4 1 1
+cutie 6 2 1
+digit 2 4 0

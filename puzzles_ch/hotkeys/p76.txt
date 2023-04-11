@@ -1,0 +1,5 @@
+7 10 hotkeys
+lupus 2 1 1
+dusky 1 2 0
+shady 2 5 0
+dowry 5 5 1

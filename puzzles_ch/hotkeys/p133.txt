@@ -1,0 +1,5 @@
+7 9 hotkeys
+covey 5 1 1
+salvo 2 4 1
+fatty 1 5 0
+outdo 2 8 0

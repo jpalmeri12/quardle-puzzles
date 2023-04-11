@@ -1,0 +1,5 @@
+7 9 hotkeys
+wacky 6 1 1
+quote 2 4 1
+unify 2 5 0
+rebar 1 8 0

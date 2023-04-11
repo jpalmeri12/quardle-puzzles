@@ -1,0 +1,5 @@
+6 9 hotkeys
+pride 1 1 0
+decoy 4 1 1
+moron 1 4 0
+mural 1 4 1

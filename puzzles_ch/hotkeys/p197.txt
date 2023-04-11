@@ -1,0 +1,5 @@
+7 7 hotkeys
+fleck 5 1 1
+snort 2 2 1
+shalt 2 2 0
+wreak 1 5 0

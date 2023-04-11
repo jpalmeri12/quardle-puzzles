@@ -1,0 +1,5 @@
+6 6 hotkeys
+showy 1 1 0
+slide 1 1 1
+wrong 4 1 1
+dying 1 4 0

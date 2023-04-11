@@ -1,0 +1,5 @@
+6 7 hotkeys
+fluke 4 1 1
+bitty 2 2 1
+pique 1 3 0
+steer 1 5 0

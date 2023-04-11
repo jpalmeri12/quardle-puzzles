@@ -1,0 +1,5 @@
+7 10 hotkeys
+above 4 1 1
+slept 2 5 0
+papal 5 5 1
+mecca 1 8 0

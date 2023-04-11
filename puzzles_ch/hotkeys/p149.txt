@@ -1,0 +1,5 @@
+7 9 hotkeys
+dogma 2 1 1
+musky 2 4 0
+shame 4 4 1
+femme 1 7 0

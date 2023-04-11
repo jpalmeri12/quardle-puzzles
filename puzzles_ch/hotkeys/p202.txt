@@ -1,0 +1,5 @@
+7 8 hotkeys
+aping 6 1 1
+front 3 3 1
+preen 2 4 0
+owner 1 6 0

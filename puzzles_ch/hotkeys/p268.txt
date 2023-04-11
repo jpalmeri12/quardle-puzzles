@@ -1,0 +1,5 @@
+7 10 hotkeys
+poser 4 1 1
+ardor 1 2 0
+corny 2 5 0
+cabal 2 5 1

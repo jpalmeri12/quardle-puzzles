@@ -1,0 +1,5 @@
+7 10 hotkeys
+aisle 4 1 1
+refit 1 2 0
+siege 2 5 0
+style 2 5 1

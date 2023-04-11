@@ -1,0 +1,5 @@
+7 7 hotkeys
+floor 2 1 1
+lodge 2 2 0
+godly 5 2 1
+krill 1 5 0

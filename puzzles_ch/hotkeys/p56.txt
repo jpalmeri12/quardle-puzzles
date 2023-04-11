@@ -1,0 +1,5 @@
+7 8 hotkeys
+scope 2 1 0
+churn 3 1 1
+trump 1 3 0
+paste 5 3 1

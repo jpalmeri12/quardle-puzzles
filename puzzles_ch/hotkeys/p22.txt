@@ -1,0 +1,5 @@
+7 7 hotkeys
+ingot 5 1 1
+spent 2 2 0
+poser 3 2 1
+sweet 1 5 0

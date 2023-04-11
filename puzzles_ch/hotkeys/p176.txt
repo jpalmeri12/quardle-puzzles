@@ -1,0 +1,5 @@
+6 10 hotkeys
+spoof 1 1 1
+frame 1 5 0
+mince 4 5 1
+match 1 8 0

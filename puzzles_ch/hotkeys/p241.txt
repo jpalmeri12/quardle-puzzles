@@ -1,0 +1,5 @@
+7 10 hotkeys
+later 1 1 1
+rusty 1 5 0
+think 4 5 1
+dingo 2 8 0

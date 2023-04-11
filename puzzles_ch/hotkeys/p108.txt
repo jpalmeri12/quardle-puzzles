@@ -1,0 +1,5 @@
+7 10 hotkeys
+moral 4 1 1
+sloop 2 2 0
+golly 1 5 0
+young 5 5 1

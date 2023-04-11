@@ -1,0 +1,5 @@
+7 10 hotkeys
+splat 3 1 1
+ripen 1 2 0
+stork 2 5 0
+rigor 5 5 1

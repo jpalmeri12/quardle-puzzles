@@ -1,0 +1,5 @@
+7 10 hotkeys
+ruler 4 1 1
+dealt 1 3 0
+perky 2 5 0
+yacht 6 5 1

@@ -1,0 +1,5 @@
+7 7 hotkeys
+ninja 2 1 1
+scout 4 2 1
+knock 1 3 0
+acute 2 5 0

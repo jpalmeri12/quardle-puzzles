@@ -1,0 +1,5 @@
+7 8 hotkeys
+muddy 5 1 1
+brash 2 3 1
+happy 1 5 0
+heady 2 7 0

@@ -1,0 +1,5 @@
+6 8 hotkeys
+knave 3 1 1
+folly 5 3 1
+wheel 1 5 0
+handy 1 7 0

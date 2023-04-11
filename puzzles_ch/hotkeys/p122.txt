@@ -1,0 +1,5 @@
+6 6 hotkeys
+ester 1 1 1
+tripe 4 1 1
+storm 1 2 0
+erupt 1 4 0

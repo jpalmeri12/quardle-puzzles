@@ -1,0 +1,5 @@
+7 8 hotkeys
+dolly 1 1 1
+scoop 4 3 1
+latch 1 4 0
+apply 2 7 0

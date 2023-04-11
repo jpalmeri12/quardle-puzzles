@@ -1,0 +1,5 @@
+7 10 hotkeys
+hotly 5 1 1
+spray 1 5 0
+polyp 2 5 1
+pixel 2 9 0

@@ -1,0 +1,5 @@
+7 9 hotkeys
+beget 2 1 1
+recur 1 2 0
+hyper 4 4 1
+thyme 2 5 0

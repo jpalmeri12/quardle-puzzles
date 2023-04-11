@@ -1,0 +1,5 @@
+6 8 hotkeys
+sooty 5 1 1
+gauge 2 3 1
+taunt 1 4 0
+serum 1 7 0

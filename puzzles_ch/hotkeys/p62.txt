@@ -1,0 +1,5 @@
+6 10 hotkeys
+minor 5 1 1
+khaki 1 2 0
+gayer 1 5 0
+yield 3 5 1

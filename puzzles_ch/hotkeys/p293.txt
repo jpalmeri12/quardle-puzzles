@@ -1,0 +1,5 @@
+7 9 hotkeys
+hatch 1 1 1
+slant 3 4 1
+holly 1 5 0
+steep 2 8 0

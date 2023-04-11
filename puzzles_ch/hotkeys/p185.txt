@@ -1,0 +1,5 @@
+6 7 hotkeys
+abled 3 1 1
+tango 1 2 1
+table 1 2 0
+godly 1 5 0

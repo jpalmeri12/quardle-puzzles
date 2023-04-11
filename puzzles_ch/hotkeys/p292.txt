@@ -1,0 +1,5 @@
+7 7 hotkeys
+stint 5 1 1
+meaty 2 2 0
+merge 2 2 1
+agent 1 5 0

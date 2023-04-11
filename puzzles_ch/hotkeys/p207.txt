@@ -1,0 +1,5 @@
+6 9 hotkeys
+chair 1 1 0
+hazel 2 1 1
+scoop 4 4 1
+slice 1 5 0

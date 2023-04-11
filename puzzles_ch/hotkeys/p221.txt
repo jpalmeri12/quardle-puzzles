@@ -1,0 +1,5 @@
+6 7 hotkeys
+preen 5 1 1
+usher 1 2 0
+surly 2 2 1
+drone 1 4 0

@@ -1,0 +1,5 @@
+6 7 hotkeys
+snort 5 1 1
+demon 1 2 0
+mafia 3 2 1
+infer 1 4 0

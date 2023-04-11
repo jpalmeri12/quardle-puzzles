@@ -1,0 +1,5 @@
+7 8 hotkeys
+nerve 1 1 0
+vocal 4 1 1
+adore 6 3 1
+beard 2 4 0

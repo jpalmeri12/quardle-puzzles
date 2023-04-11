@@ -1,0 +1,5 @@
+7 10 hotkeys
+synod 6 1 1
+timid 2 5 0
+musty 4 5 1
+tasty 1 8 0

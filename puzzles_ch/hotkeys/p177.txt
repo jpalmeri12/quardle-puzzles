@@ -1,0 +1,5 @@
+6 9 hotkeys
+whiff 1 1 1
+wrack 4 4 1
+flare 1 5 0
+botch 1 7 0

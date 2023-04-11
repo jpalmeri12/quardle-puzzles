@@ -1,0 +1,5 @@
+7 10 hotkeys
+grill 2 1 1
+latch 2 5 0
+clock 5 5 1
+cynic 1 8 0

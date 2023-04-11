@@ -1,0 +1,5 @@
+7 10 hotkeys
+befit 1 1 1
+topaz 1 5 0
+zonal 5 5 1
+debar 2 8 0

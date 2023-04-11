@@ -1,0 +1,5 @@
+7 9 hotkeys
+bayou 2 1 1
+salve 1 2 0
+slack 6 4 1
+usual 2 5 0

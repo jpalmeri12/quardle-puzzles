@@ -1,0 +1,5 @@
+6 10 hotkeys
+deuce 4 1 1
+hovel 1 5 0
+hussy 1 5 1
+youth 1 9 0

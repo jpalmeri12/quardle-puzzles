@@ -1,0 +1,5 @@
+7 9 hotkeys
+titan 4 1 1
+glare 2 4 0
+guest 2 4 1
+usual 1 7 0

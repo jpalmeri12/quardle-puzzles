@@ -1,0 +1,5 @@
+7 9 hotkeys
+moron 6 1 1
+limbo 2 4 0
+macaw 4 4 1
+altar 1 7 0

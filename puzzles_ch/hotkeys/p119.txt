@@ -1,0 +1,5 @@
+6 7 hotkeys
+giant 4 1 1
+eerie 1 2 0
+ember 1 2 1
+blink 1 4 0

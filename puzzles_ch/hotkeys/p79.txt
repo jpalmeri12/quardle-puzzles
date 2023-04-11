@@ -1,0 +1,5 @@
+7 8 hotkeys
+sixth 1 1 1
+batch 3 3 1
+hotel 1 5 0
+threw 2 7 0

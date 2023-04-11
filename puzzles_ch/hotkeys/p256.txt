@@ -1,0 +1,5 @@
+7 9 hotkeys
+toxic 2 1 1
+mirth 1 4 0
+hovel 5 4 1
+drill 2 8 0

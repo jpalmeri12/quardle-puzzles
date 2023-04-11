@@ -1,0 +1,5 @@
+7 9 hotkeys
+print 3 1 1
+surer 1 2 0
+angry 2 4 0
+rocky 5 4 1

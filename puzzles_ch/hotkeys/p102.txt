@@ -1,0 +1,5 @@
+7 10 hotkeys
+abide 1 1 0
+baker 2 1 1
+repel 2 5 0
+loopy 6 5 1

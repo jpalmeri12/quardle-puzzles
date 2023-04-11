@@ -1,0 +1,5 @@
+7 7 hotkeys
+ridge 5 1 1
+puree 3 2 1
+clued 1 3 0
+leper 2 5 0

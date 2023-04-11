@@ -1,0 +1,5 @@
+7 7 hotkeys
+ovary 4 1 1
+easel 2 2 1
+envoy 2 2 0
+usurp 1 4 0

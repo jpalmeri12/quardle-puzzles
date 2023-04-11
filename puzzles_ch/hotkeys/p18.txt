@@ -1,0 +1,5 @@
+7 10 hotkeys
+cocoa 5 1 1
+shoal 2 5 0
+scold 2 5 1
+clown 1 8 0

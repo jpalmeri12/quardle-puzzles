@@ -1,0 +1,5 @@
+7 9 hotkeys
+glyph 2 1 0
+poppy 5 1 1
+scrap 1 4 0
+canon 2 4 1

@@ -1,0 +1,5 @@
+7 9 hotkeys
+crepe 2 1 1
+pagan 2 4 0
+grill 4 4 1
+dwell 1 7 0

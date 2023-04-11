@@ -1,0 +1,5 @@
+7 10 hotkeys
+enema 2 1 1
+inane 1 2 0
+along 2 5 0
+naive 5 5 1

@@ -1,0 +1,5 @@
+7 8 hotkeys
+steak 1 1 0
+today 2 1 1
+felon 5 3 1
+after 2 4 0

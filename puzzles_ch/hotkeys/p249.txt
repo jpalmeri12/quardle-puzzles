@@ -1,0 +1,5 @@
+7 10 hotkeys
+puree 4 1 1
+libel 1 5 0
+large 5 5 1
+third 2 7 0

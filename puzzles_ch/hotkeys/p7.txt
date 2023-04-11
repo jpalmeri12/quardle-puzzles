@@ -1,0 +1,5 @@
+7 8 hotkeys
+avoid 1 1 0
+vicar 2 1 1
+credo 2 3 0
+drier 5 3 1

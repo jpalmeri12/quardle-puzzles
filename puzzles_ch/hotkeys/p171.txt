@@ -1,0 +1,5 @@
+7 9 hotkeys
+flown 1 1 1
+waver 1 4 0
+eject 4 4 1
+mecca 2 7 0

@@ -1,0 +1,5 @@
+7 7 hotkeys
+beget 5 1 1
+ester 2 2 0
+snort 3 2 1
+swore 1 4 0

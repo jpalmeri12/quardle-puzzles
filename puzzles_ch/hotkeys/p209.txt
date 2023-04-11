@@ -1,0 +1,5 @@
+6 9 hotkeys
+cairn 5 1 1
+offer 1 4 0
+fussy 3 4 1
+mayor 1 8 0

@@ -1,0 +1,5 @@
+6 8 hotkeys
+meant 1 1 0
+audio 3 1 1
+eking 5 3 1
+drink 1 4 0

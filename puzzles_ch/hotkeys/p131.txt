@@ -1,0 +1,5 @@
+6 9 hotkeys
+chalk 1 1 0
+agora 3 1 1
+oddly 5 4 1
+award 1 5 0

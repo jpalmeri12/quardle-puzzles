@@ -1,0 +1,5 @@
+7 8 hotkeys
+endow 2 1 1
+early 2 1 0
+awful 5 3 1
+dwarf 1 5 0

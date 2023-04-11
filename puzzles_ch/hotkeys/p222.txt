@@ -1,0 +1,5 @@
+6 8 hotkeys
+toxin 2 1 1
+delve 4 3 1
+liner 1 4 0
+thief 1 7 0

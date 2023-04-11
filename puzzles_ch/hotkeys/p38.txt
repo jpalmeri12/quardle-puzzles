@@ -1,0 +1,5 @@
+7 10 hotkeys
+forte 2 1 1
+fugue 2 1 0
+debut 1 5 0
+thigh 5 5 1

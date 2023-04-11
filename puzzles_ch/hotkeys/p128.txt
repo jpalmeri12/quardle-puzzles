@@ -1,0 +1,5 @@
+6 9 hotkeys
+mushy 1 1 1
+unwed 1 2 0
+haste 1 4 0
+tying 4 4 1

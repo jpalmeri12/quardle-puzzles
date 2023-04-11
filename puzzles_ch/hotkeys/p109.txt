@@ -1,0 +1,5 @@
+6 7 hotkeys
+quail 3 1 1
+haunt 1 2 0
+hover 1 2 1
+voila 1 4 0

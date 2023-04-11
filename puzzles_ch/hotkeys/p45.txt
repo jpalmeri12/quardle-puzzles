@@ -1,0 +1,5 @@
+7 8 hotkeys
+fifth 1 1 0
+turbo 4 1 1
+fleck 6 3 1
+whole 2 5 0

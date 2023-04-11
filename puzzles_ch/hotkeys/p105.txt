@@ -1,0 +1,5 @@
+6 6 hotkeys
+optic 2 1 1
+steel 5 1 1
+splat 1 2 0
+siege 1 4 0

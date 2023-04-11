@@ -1,0 +1,5 @@
+7 10 hotkeys
+fable 4 1 1
+wreak 1 2 0
+scene 2 5 0
+canon 3 5 1

@@ -1,0 +1,5 @@
+7 9 hotkeys
+dummy 6 1 1
+admin 2 4 1
+dilly 2 5 0
+biddy 1 7 0

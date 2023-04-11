@@ -1,0 +1,5 @@
+7 7 hotkeys
+blurt 2 1 1
+lefty 2 2 0
+fewer 4 2 1
+prowl 1 4 0

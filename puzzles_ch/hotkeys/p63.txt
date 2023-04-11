@@ -1,0 +1,5 @@
+7 8 hotkeys
+glide 2 1 1
+patch 5 3 1
+recut 1 5 0
+cache 2 7 0

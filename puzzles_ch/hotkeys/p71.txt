@@ -1,0 +1,5 @@
+7 9 hotkeys
+pearl 5 1 1
+refer 1 4 0
+forte 3 4 1
+vegan 2 8 0

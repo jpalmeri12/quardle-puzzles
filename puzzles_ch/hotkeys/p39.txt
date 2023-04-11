@@ -1,0 +1,5 @@
+7 10 hotkeys
+pizza 2 1 1
+viola 1 2 0
+axial 2 5 0
+lousy 6 5 1

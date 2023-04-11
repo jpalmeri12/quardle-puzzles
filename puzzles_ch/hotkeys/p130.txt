@@ -1,0 +1,5 @@
+7 10 hotkeys
+ionic 2 1 1
+cleft 2 5 0
+foamy 5 5 1
+junta 1 7 0

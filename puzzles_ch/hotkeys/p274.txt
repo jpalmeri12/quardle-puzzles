@@ -1,0 +1,5 @@
+7 8 hotkeys
+filth 4 1 1
+polar 2 3 0
+privy 2 3 1
+wight 1 5 0

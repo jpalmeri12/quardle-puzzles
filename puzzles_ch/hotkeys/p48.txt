@@ -1,0 +1,5 @@
+7 10 hotkeys
+music 5 1 1
+bayou 1 2 0
+lurch 2 5 0
+ripen 4 5 1

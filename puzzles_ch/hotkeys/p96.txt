@@ -1,0 +1,5 @@
+7 7 hotkeys
+clamp 1 1 0
+apple 3 1 1
+genie 6 2 1
+flown 2 4 0

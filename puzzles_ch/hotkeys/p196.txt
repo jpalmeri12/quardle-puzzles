@@ -1,0 +1,5 @@
+7 8 hotkeys
+error 3 1 1
+teach 5 3 1
+loose 1 4 0
+fishy 2 7 0

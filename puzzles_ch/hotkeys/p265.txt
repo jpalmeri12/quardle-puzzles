@@ -1,0 +1,5 @@
+7 8 hotkeys
+wreak 6 1 1
+evoke 2 3 1
+voila 2 4 0
+skier 1 6 0
