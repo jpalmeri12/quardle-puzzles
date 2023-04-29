@@ -1,0 +1,6 @@
+7 10 divisions
+hobby 1 1 0
+bayou 4 1 1
+gaudy 2 5 0
+dress 5 5 1
+!divisions 03200311131113110323130232

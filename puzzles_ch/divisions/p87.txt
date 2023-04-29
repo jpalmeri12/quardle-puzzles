@@ -1,0 +1,6 @@
+6 6 divisions
+frost 1 1 1
+abide 3 1 1
+rebel 1 2 0
+there 1 5 0
+!divisions 32233211000001003121123213

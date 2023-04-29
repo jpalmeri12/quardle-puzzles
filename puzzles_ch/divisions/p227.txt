@@ -1,0 +1,6 @@
+6 10 divisions
+heron 3 1 1
+tango 1 5 0
+gooey 4 5 1
+wagon 1 7 0
+!divisions 21332011010011002330012302

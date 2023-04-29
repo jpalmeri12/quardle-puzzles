@@ -1,0 +1,6 @@
+6 8 divisions
+hyena 2 1 1
+decal 1 3 0
+abide 4 3 1
+cabin 1 5 0
+!divisions 02220012113333330021120210

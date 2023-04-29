@@ -1,0 +1,6 @@
+7 9 divisions
+allow 3 1 1
+glean 2 2 0
+story 1 4 1
+tawny 1 5 0
+!divisions 30223000101100113220103212

@@ -1,0 +1,6 @@
+7 10 divisions
+cacti 3 1 1
+bigot 2 5 0
+banal 2 5 1
+floss 1 9 0
+!divisions 10031033232222221313301031

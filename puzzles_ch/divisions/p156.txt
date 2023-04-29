@@ -1,0 +1,6 @@
+6 7 divisions
+elfin 5 1 1
+giver 3 2 1
+skiff 1 3 0
+stern 1 5 0
+!divisions 10221210303330331121021202

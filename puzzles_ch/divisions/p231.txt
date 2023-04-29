@@ -1,0 +1,6 @@
+7 9 divisions
+sigma 5 1 1
+bevel 3 4 1
+rehab 2 5 0
+jelly 1 8 0
+!divisions 02230322111122110303120330

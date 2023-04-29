@@ -1,0 +1,6 @@
+6 8 divisions
+tribe 1 1 0
+bilge 4 1 1
+ghost 2 3 1
+comet 1 5 0
+!divisions 21222111330031002123312232

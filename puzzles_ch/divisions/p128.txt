@@ -1,0 +1,6 @@
+7 10 divisions
+retro 4 1 1
+arson 1 5 0
+siege 3 5 1
+debit 2 7 0
+!divisions 13221233300000001212331232

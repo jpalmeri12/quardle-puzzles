@@ -1,0 +1,6 @@
+6 9 divisions
+gamma 1 1 1
+ankle 5 4 1
+adorn 1 5 0
+stone 1 8 0
+!divisions 20211130330000301123321232

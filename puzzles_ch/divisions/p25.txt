@@ -1,0 +1,6 @@
+7 8 divisions
+spear 5 1 1
+chump 3 3 1
+shear 2 4 0
+happy 1 7 0
+!divisions 12113330002222221313021101

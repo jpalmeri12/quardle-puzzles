@@ -1,0 +1,6 @@
+6 9 divisions
+crumb 1 1 1
+assay 3 4 1
+beset 1 5 0
+drawl 1 7 0
+!divisions 01333311222211220101230310

@@ -1,0 +1,6 @@
+7 8 divisions
+cumin 1 1 0
+unify 2 1 1
+skate 6 3 1
+fleck 2 4 0
+!divisions 23222001133333112020102202

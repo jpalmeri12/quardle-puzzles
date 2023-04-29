@@ -1,0 +1,6 @@
+7 9 divisions
+touch 2 1 1
+point 1 2 0
+crawl 2 4 0
+whole 5 4 1
+!divisions 03300311112213220303130010

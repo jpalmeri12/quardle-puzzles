@@ -1,0 +1,6 @@
+7 8 divisions
+abuse 1 1 0
+baste 2 1 1
+gnash 5 3 1
+twine 2 4 0
+!divisions 03011123233333220101201020

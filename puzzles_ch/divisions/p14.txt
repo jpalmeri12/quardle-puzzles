@@ -1,0 +1,6 @@
+6 9 divisions
+porch 1 1 0
+ranch 3 1 1
+tacky 1 4 0
+totem 1 4 1
+!divisions 10221303300000001213331232

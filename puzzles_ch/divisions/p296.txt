@@ -1,0 +1,6 @@
+6 10 divisions
+elfin 5 1 1
+raven 1 5 0
+vista 3 5 1
+hotly 1 8 0
+!divisions 01300331212211220003310030

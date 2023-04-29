@@ -1,0 +1,6 @@
+7 9 divisions
+leper 3 1 1
+fetal 2 4 0
+awful 5 4 1
+bayou 1 7 0
+!divisions 13222233300000001212331131

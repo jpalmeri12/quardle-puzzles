@@ -1,0 +1,6 @@
+7 9 divisions
+radii 3 1 1
+fruit 5 4 1
+micro 2 5 0
+cleat 1 8 0
+!divisions 23332331010011002221132312

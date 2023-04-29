@@ -1,0 +1,6 @@
+6 9 divisions
+polyp 5 1 1
+taboo 1 2 0
+nanny 1 4 0
+nicer 3 4 1
+!divisions 02002221331111310222302030

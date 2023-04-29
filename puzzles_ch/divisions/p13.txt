@@ -1,0 +1,6 @@
+7 8 divisions
+beach 5 1 1
+assay 2 3 0
+snore 3 3 1
+sooth 1 5 0
+!divisions 21332000111111112330102302

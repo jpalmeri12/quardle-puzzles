@@ -1,0 +1,6 @@
+6 6 divisions
+creme 1 1 0
+rodeo 2 1 1
+medal 4 1 1
+would 1 5 0
+!divisions 30332230111100112220032303

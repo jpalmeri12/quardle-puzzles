@@ -1,0 +1,6 @@
+6 9 divisions
+adept 1 1 0
+elect 3 1 1
+facet 1 4 0
+felon 1 4 1
+!divisions 31123111000000003232213223

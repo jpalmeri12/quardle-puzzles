@@ -1,0 +1,6 @@
+7 9 divisions
+tunic 2 1 1
+guava 1 2 0
+usurp 5 4 1
+cress 2 5 0
+!divisions 13210123333333330010320231

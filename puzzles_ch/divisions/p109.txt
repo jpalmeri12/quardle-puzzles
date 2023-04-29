@@ -1,0 +1,6 @@
+7 8 divisions
+viola 2 1 1
+mouth 1 3 0
+tamer 4 3 1
+armor 2 5 0
+!divisions 20011330303300332111302032

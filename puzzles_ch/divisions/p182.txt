@@ -1,0 +1,6 @@
+7 9 divisions
+nanny 1 1 1
+nosey 1 4 0
+spook 3 4 1
+horny 2 6 0
+!divisions 32330322121112110030120303

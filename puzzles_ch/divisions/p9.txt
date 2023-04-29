@@ -1,0 +1,6 @@
+6 10 divisions
+debit 2 1 1
+beech 1 2 0
+stint 1 5 0
+imply 3 5 1
+!divisions 20012103333300332111302102

@@ -1,0 +1,6 @@
+6 7 divisions
+rogue 2 1 1
+locus 1 2 0
+spiny 5 2 1
+sushi 1 4 0
+!divisions 10211200333330331112021101

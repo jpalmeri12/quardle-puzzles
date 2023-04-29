@@ -1,0 +1,6 @@
+7 10 divisions
+fiber 3 1 1
+amble 1 3 0
+truly 2 5 0
+using 4 5 1
+!divisions 23112113033033002212012102

@@ -1,0 +1,6 @@
+6 10 divisions
+wacky 1 1 0
+circa 3 1 1
+slang 1 5 0
+libel 2 5 1
+!divisions 12231332000002001313221231

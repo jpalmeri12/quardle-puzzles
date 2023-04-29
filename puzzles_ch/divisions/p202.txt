@@ -1,0 +1,6 @@
+6 7 divisions
+hefty 5 1 1
+image 1 2 0
+inbox 1 2 1
+boast 1 4 0
+!divisions 03301223233233220111231020

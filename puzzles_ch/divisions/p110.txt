@@ -1,0 +1,6 @@
+6 8 divisions
+crime 1 1 1
+harem 4 3 1
+mural 1 4 0
+pygmy 1 7 0
+!divisions 21220211313331330000120202

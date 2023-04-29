@@ -1,0 +1,6 @@
+7 9 divisions
+coast 4 1 1
+droll 2 2 0
+foist 1 4 0
+foray 1 4 1
+!divisions 23312133000003002221332111

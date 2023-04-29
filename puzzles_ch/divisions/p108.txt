@@ -1,0 +1,6 @@
+7 10 divisions
+ledge 4 1 1
+steel 2 5 0
+scout 2 5 1
+toddy 1 7 0
+!divisions 02220211313331330201120010

@@ -1,0 +1,6 @@
+6 9 divisions
+timid 2 1 1
+ripen 1 4 0
+enact 4 4 1
+sixty 1 8 0
+!divisions 30033022121112113332203020

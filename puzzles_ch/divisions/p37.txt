@@ -1,0 +1,6 @@
+6 10 divisions
+style 1 1 1
+erase 1 5 0
+alert 3 5 1
+nerdy 1 8 0
+!divisions 02003222111111113232123020

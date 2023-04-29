@@ -1,0 +1,6 @@
+6 9 divisions
+stiff 1 1 1
+screw 1 1 0
+dutch 4 4 1
+femur 1 5 0
+!divisions 31222001111111113030123203

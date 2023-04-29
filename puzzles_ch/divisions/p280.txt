@@ -1,0 +1,6 @@
+6 7 divisions
+quash 4 1 1
+croup 1 2 0
+chaos 1 2 1
+awash 1 4 0
+!divisions 31122101000001003120013203

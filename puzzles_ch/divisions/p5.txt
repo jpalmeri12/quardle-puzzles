@@ -1,0 +1,6 @@
+7 8 divisions
+scone 2 1 1
+lynch 5 3 1
+snaky 1 4 0
+lathe 2 7 0
+!divisions 20233000101100113333123232

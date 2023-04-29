@@ -1,0 +1,6 @@
+6 7 divisions
+ditty 5 1 1
+crumb 2 2 1
+grunt 1 3 0
+amply 1 5 0
+!divisions 12221120303300331112321231

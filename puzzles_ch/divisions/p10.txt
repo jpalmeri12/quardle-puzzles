@@ -1,0 +1,6 @@
+7 10 divisions
+mania 3 1 1
+purse 2 5 1
+patch 2 5 0
+print 1 7 0
+!divisions 20032011101100112320102313

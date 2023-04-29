@@ -1,0 +1,6 @@
+7 10 divisions
+salon 4 1 1
+dance 2 5 0
+chime 5 5 1
+swami 1 7 0
+!divisions 32113100002222223110023303

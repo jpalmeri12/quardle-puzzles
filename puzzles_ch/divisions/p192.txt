@@ -1,0 +1,6 @@
+6 10 divisions
+flask 5 1 1
+brawl 1 2 0
+cluck 1 5 0
+utile 3 5 1
+!divisions 13311232020033001212231321

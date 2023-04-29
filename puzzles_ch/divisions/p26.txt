@@ -1,0 +1,6 @@
+6 8 divisions
+shame 1 1 0
+havoc 2 1 1
+actor 5 3 1
+tonic 1 4 0
+!divisions 03330222121122110303130010

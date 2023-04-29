@@ -1,0 +1,6 @@
+7 9 divisions
+medal 6 1 1
+mafia 2 4 0
+march 2 4 1
+primo 1 6 0
+!divisions 12311300022222021310031101

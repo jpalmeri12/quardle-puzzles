@@ -1,0 +1,6 @@
+7 10 divisions
+modal 3 1 1
+clown 1 2 0
+plane 2 5 0
+antic 4 5 1
+!divisions 23233300100100112323132212

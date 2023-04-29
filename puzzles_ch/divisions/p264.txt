@@ -1,0 +1,6 @@
+7 9 divisions
+druid 3 1 1
+proxy 2 2 0
+anime 1 4 0
+embed 5 4 1
+!divisions 03001113223333220101210020

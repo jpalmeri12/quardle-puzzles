@@ -1,0 +1,6 @@
+7 10 divisions
+above 1 1 0
+basic 2 1 1
+clink 2 5 0
+issue 4 5 1
+!divisions 20333300111110112323002202

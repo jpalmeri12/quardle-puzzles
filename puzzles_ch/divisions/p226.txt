@@ -1,0 +1,6 @@
+6 10 divisions
+guess 1 1 1
+epoxy 1 3 0
+spite 1 5 0
+topic 4 5 1
+!divisions 13001033222223221113301030

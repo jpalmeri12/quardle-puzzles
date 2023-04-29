@@ -1,0 +1,6 @@
+6 8 divisions
+aphid 1 1 0
+harem 3 1 1
+flyer 5 3 1
+jumpy 1 5 0
+!divisions 30003022121122113330103323

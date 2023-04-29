@@ -1,0 +1,6 @@
+6 8 divisions
+shrub 1 1 0
+broom 5 1 1
+chest 2 3 1
+venom 1 5 0
+!divisions 10221223330000301112321231

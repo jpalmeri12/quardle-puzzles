@@ -1,0 +1,6 @@
+7 7 divisions
+mammy 1 1 0
+mafia 4 1 1
+threw 6 2 1
+chase 2 5 0
+!divisions 12000022333332331212301021

@@ -1,0 +1,6 @@
+6 9 divisions
+junta 2 1 1
+bulge 1 2 0
+teary 5 4 1
+valve 1 5 0
+!divisions 31223211100000003332123213

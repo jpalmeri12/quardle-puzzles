@@ -1,0 +1,6 @@
+7 9 divisions
+vigil 6 1 1
+pooch 4 4 1
+droll 2 5 0
+night 1 8 0
+!divisions 01000033312221220000310030

@@ -1,0 +1,6 @@
+7 9 divisions
+flute 6 1 1
+peace 4 4 1
+these 2 5 0
+tenet 1 8 0
+!divisions 02001022222322331002201020

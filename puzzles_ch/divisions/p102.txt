@@ -1,0 +1,6 @@
+7 9 divisions
+snuff 1 1 0
+fella 5 1 1
+scuba 2 4 1
+croak 2 5 0
+!divisions 23311330000033002111031232

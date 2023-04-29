@@ -1,0 +1,6 @@
+7 10 divisions
+bayou 2 1 1
+quail 1 5 0
+lance 5 5 1
+trick 2 8 0
+!divisions 21232300001111112323002232

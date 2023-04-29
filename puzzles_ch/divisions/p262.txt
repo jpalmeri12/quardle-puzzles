@@ -1,0 +1,6 @@
+6 8 divisions
+stole 1 1 0
+tithe 2 1 1
+dough 5 3 1
+photo 1 4 0
+!divisions 32233321001111003332023223

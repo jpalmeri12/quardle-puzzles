@@ -1,0 +1,6 @@
+7 9 divisions
+mercy 1 1 0
+crime 4 1 1
+mimic 2 4 0
+crude 6 4 1
+!divisions 13101003222233221010331101

@@ -1,0 +1,6 @@
+7 10 divisions
+abase 4 1 1
+tuber 2 2 0
+tried 1 5 0
+denim 5 5 1
+!divisions 21200031311111110303330232

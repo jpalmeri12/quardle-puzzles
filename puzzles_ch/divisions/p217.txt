@@ -1,0 +1,6 @@
+7 9 divisions
+write 1 1 0
+teeth 4 1 1
+natal 2 4 0
+lying 6 4 1
+!divisions 30213110000000003311103212

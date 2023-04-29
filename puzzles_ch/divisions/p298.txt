@@ -1,0 +1,6 @@
+6 7 divisions
+theta 2 1 1
+shaft 1 2 0
+folio 4 2 1
+stalk 1 4 0
+!divisions 03222333111113110202120030

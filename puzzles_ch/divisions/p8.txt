@@ -1,0 +1,6 @@
+7 9 divisions
+piano 5 1 1
+fungi 1 2 0
+abate 2 4 1
+buxom 2 5 0
+!divisions 32333220100000113332123313

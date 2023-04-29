@@ -1,0 +1,6 @@
+7 9 divisions
+conic 2 1 1
+ember 5 4 1
+champ 2 5 0
+dense 1 7 0
+!divisions 02233221111112110101120313

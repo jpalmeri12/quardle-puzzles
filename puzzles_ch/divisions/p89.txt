@@ -1,0 +1,6 @@
+6 7 divisions
+choir 2 1 1
+charm 1 2 0
+razor 4 2 1
+prior 1 5 0
+!divisions 13122113030003002222312131

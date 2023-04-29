@@ -1,0 +1,6 @@
+7 7 divisions
+gusty 1 1 0
+shorn 3 1 1
+syrup 6 2 1
+roomy 2 3 0
+!divisions 30223220101100113332223323

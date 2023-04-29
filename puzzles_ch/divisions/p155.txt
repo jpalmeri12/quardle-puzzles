@@ -1,0 +1,6 @@
+7 8 divisions
+sally 5 1 1
+brace 2 3 1
+belly 2 3 0
+gaudy 1 5 0
+!divisions 13001033222233221010031101

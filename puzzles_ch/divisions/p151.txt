@@ -1,0 +1,6 @@
+7 8 divisions
+cavil 5 1 1
+agora 2 3 1
+genie 2 4 0
+baler 1 7 0
+!divisions 23322230101113112020032202

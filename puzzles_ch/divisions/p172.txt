@@ -1,0 +1,6 @@
+7 10 divisions
+vocal 3 1 1
+actor 2 3 0
+salvo 1 5 0
+along 2 5 1
+!divisions 13312323230003001212231121

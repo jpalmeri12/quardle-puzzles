@@ -1,0 +1,6 @@
+6 10 divisions
+cocoa 2 1 1
+sauna 1 5 0
+arrow 5 5 1
+photo 1 8 0
+!divisions 03200233111113110202130232

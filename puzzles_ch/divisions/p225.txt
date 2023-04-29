@@ -1,0 +1,6 @@
+7 8 divisions
+liege 6 1 1
+abode 2 3 0
+apply 2 3 1
+gloat 1 6 0
+!divisions 13311133030203021010031101

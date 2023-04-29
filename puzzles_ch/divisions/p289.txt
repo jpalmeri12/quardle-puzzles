@@ -1,0 +1,6 @@
+7 7 divisions
+flora 4 1 1
+rally 1 2 0
+abate 2 2 1
+arrow 2 4 0
+!divisions 03222331111113110203132030

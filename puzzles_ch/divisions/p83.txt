@@ -1,0 +1,6 @@
+7 8 divisions
+wield 2 1 0
+wound 2 1 1
+being 4 3 1
+infer 1 4 0
+!divisions 13221223030003001111321212

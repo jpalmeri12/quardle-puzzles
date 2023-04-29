@@ -1,0 +1,6 @@
+7 10 divisions
+torus 1 1 1
+scrap 1 5 0
+cramp 2 5 1
+alloy 2 7 0
+!divisions 13200223333333331010220021

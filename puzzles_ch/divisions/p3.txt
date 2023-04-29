@@ -1,0 +1,6 @@
+7 9 divisions
+lover 6 1 1
+cumin 3 4 1
+juror 2 5 0
+slick 1 7 0
+!divisions 13111333330000221113331131

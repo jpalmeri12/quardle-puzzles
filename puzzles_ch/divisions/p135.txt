@@ -1,0 +1,6 @@
+6 6 divisions
+abbot 2 1 1
+scald 4 1 1
+aback 1 2 0
+etude 1 5 0
+!divisions 30113111000200023131013103

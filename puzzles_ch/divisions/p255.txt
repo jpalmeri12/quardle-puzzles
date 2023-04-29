@@ -1,0 +1,6 @@
+6 10 divisions
+snarl 4 1 1
+cheat 1 3 0
+icily 1 5 0
+crypt 2 5 1
+!divisions 13311111020033001232231323

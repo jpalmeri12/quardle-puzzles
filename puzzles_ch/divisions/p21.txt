@@ -1,0 +1,6 @@
+7 10 divisions
+shrub 5 1 1
+rehab 1 5 0
+howdy 3 5 1
+idiom 2 8 0
+!divisions 03322333111111110223130030

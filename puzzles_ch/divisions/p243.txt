@@ -1,0 +1,6 @@
+6 6 divisions
+offal 1 1 1
+synod 5 1 1
+fuzzy 1 2 0
+livid 1 5 0
+!divisions 20112210303300332221112212

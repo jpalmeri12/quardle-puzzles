@@ -1,0 +1,6 @@
+7 7 divisions
+hobby 4 1 1
+moody 2 2 0
+madam 2 2 1
+adobe 1 4 0
+!divisions 21020000111311332020102202

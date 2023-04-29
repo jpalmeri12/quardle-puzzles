@@ -1,0 +1,6 @@
+6 8 divisions
+tenth 5 1 1
+quell 3 3 1
+adult 1 4 0
+gully 1 7 0
+!divisions 20112110333300332121012212

@@ -1,0 +1,6 @@
+7 9 divisions
+elder 2 1 1
+ashen 4 4 1
+risen 2 5 0
+clung 1 8 0
+!divisions 12313302022222221310001101

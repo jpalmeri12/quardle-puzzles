@@ -1,0 +1,6 @@
+7 8 divisions
+overt 5 1 1
+matey 2 3 1
+tatty 2 5 0
+lying 1 7 0
+!divisions 30023220101100113232103212

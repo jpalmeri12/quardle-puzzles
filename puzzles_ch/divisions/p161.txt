@@ -1,0 +1,6 @@
+7 7 divisions
+fluid 5 1 1
+nasal 1 2 0
+satyr 3 2 1
+ethic 2 4 0
+!divisions 10021022333333331212301021

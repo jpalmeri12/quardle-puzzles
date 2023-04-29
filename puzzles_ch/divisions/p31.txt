@@ -1,0 +1,6 @@
+7 10 divisions
+clean 5 1 1
+anger 2 3 0
+talon 1 5 0
+onion 4 5 1
+!divisions 20220201313311332020100212

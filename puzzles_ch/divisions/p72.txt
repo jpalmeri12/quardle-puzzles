@@ -1,0 +1,6 @@
+6 10 divisions
+hotel 4 1 1
+taste 1 3 0
+idyll 1 5 0
+yeast 3 5 1
+!divisions 10222220333330331210001101

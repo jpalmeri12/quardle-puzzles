@@ -1,0 +1,6 @@
+7 10 divisions
+junta 2 1 1
+award 2 5 0
+wrist 3 5 1
+visit 1 8 0
+!divisions 32113212000022003212013121

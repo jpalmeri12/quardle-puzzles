@@ -1,0 +1,6 @@
+7 9 divisions
+frost 2 1 0
+snaky 5 1 1
+stink 1 4 0
+ingot 3 4 1
+!divisions 02001032322222331111301030

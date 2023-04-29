@@ -1,0 +1,6 @@
+7 9 divisions
+until 3 1 1
+annoy 2 2 0
+snide 1 4 0
+ebony 5 4 1
+!divisions 13111322003033001212031121

@@ -1,0 +1,6 @@
+7 10 divisions
+mafia 4 1 1
+relax 1 2 0
+heave 2 5 0
+eking 3 5 1
+!divisions 01102212313331330202210020

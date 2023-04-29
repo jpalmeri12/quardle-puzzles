@@ -1,0 +1,6 @@
+7 8 divisions
+swung 3 1 1
+modem 5 3 1
+rigid 1 5 0
+enemy 2 7 0
+!divisions 10133122200000003132223121

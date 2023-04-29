@@ -1,0 +1,6 @@
+7 8 divisions
+fifty 2 1 0
+flung 4 1 1
+riper 1 3 1
+pudgy 1 5 0
+!divisions 12111220330000301213321131

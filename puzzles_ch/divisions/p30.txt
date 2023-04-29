@@ -1,0 +1,6 @@
+7 9 divisions
+bacon 4 1 1
+saucy 1 3 0
+meant 6 4 1
+hence 2 5 0
+!divisions 20003303111110112333102032

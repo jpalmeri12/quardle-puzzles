@@ -1,0 +1,6 @@
+7 9 divisions
+spice 4 1 1
+sandy 2 4 1
+eager 1 5 0
+yearn 2 8 0
+!divisions 21000031111111112323112232

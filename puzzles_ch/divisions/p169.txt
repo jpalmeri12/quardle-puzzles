@@ -1,0 +1,6 @@
+6 9 divisions
+usurp 5 1 1
+abhor 1 4 0
+borax 2 4 1
+exert 1 8 0
+!divisions 20211100333300332121321202

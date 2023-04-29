@@ -1,0 +1,6 @@
+6 9 divisions
+stuff 1 1 1
+thong 1 2 0
+fella 1 4 0
+aging 5 4 1
+!divisions 03110133222222220113330030

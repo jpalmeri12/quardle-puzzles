@@ -1,0 +1,6 @@
+6 10 divisions
+essay 1 1 0
+allot 4 1 1
+ditty 1 5 0
+yearn 5 5 1
+!divisions 01033331222211220303130010

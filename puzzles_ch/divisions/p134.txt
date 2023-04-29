@@ -1,0 +1,6 @@
+6 10 divisions
+shift 2 1 1
+minus 1 3 0
+scram 1 5 1
+stout 1 5 0
+!divisions 20121100303330332121312102

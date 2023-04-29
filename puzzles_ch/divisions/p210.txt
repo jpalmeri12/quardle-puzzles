@@ -1,0 +1,6 @@
+7 9 divisions
+scour 1 1 0
+condo 2 1 1
+snuff 6 4 1
+onion 2 5 0
+!divisions 13331332222022001113231131

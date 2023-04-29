@@ -1,0 +1,6 @@
+7 8 divisions
+slick 1 1 1
+aider 4 3 1
+cabin 1 4 0
+sweet 2 6 0
+!divisions 13012000333333331210301101

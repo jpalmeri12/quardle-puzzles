@@ -1,0 +1,6 @@
+7 9 divisions
+queer 2 1 1
+quota 2 1 0
+abled 5 4 1
+crumb 1 5 0
+!divisions 23300033111113112000132032

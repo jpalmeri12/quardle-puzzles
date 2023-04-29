@@ -1,0 +1,6 @@
+7 8 divisions
+wedge 5 1 1
+unfed 1 3 0
+filly 3 3 1
+lyric 2 7 0
+!divisions 21333111000000002331032312

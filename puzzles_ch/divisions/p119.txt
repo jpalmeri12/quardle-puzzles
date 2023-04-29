@@ -1,0 +1,6 @@
+6 10 divisions
+scrub 1 1 1
+coven 1 2 0
+bitty 1 5 0
+troll 4 5 1
+!divisions 01002113331311332201302030

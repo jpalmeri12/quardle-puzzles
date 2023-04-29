@@ -1,0 +1,6 @@
+7 9 divisions
+month 6 1 1
+prick 3 4 1
+froth 2 5 0
+cycle 1 7 0
+!divisions 32223202101110113333023303

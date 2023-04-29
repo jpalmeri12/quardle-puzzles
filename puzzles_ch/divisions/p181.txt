@@ -1,0 +1,6 @@
+6 9 divisions
+rumba 1 1 1
+roach 1 1 0
+banal 1 4 0
+needy 3 4 1
+!divisions 21232211311011002323312232

@@ -1,0 +1,6 @@
+6 9 divisions
+jumpy 1 1 0
+pesky 4 1 1
+rocky 1 4 0
+regal 1 4 1
+!divisions 32330022121112110030230303

@@ -1,0 +1,6 @@
+7 8 divisions
+bayou 4 1 1
+carat 1 2 0
+copse 6 3 1
+slurp 2 5 0
+!divisions 01022111333331332201312010

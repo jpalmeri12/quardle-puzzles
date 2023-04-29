@@ -1,0 +1,6 @@
+7 8 divisions
+upset 1 1 1
+stoic 1 3 0
+chute 5 3 1
+baler 2 7 0
+!divisions 31133100022220223330013103

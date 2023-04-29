@@ -1,0 +1,6 @@
+6 10 divisions
+carat 2 1 1
+badge 1 2 0
+smart 1 5 1
+stony 1 5 0
+!divisions 01333312212221220331213010

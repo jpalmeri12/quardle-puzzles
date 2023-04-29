@@ -1,0 +1,6 @@
+7 7 divisions
+porch 2 1 1
+snack 4 2 1
+renal 2 3 0
+whack 1 5 0
+!divisions 30030011221111223031203323

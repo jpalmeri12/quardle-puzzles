@@ -1,0 +1,6 @@
+6 8 divisions
+bossy 3 1 1
+masse 1 3 0
+mercy 1 3 1
+youth 1 7 0
+!divisions 23022113333333332121302010

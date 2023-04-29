@@ -1,0 +1,6 @@
+7 10 divisions
+mango 3 1 1
+clock 2 5 1
+cower 2 5 0
+skiff 1 9 0
+!divisions 03110133222233220001230131

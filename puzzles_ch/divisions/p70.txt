@@ -1,0 +1,6 @@
+6 9 divisions
+mouth 5 1 1
+macho 1 2 0
+spilt 1 4 0
+piney 2 4 1
+!divisions 11111122023332001111211121

@@ -1,0 +1,6 @@
+7 7 divisions
+bused 1 1 0
+storm 3 1 1
+gypsy 6 2 1
+dowry 2 3 0
+!divisions 23002033111111112200332030

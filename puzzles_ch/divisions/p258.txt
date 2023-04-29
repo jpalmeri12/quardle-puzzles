@@ -1,0 +1,6 @@
+6 7 divisions
+flush 1 1 1
+lunge 1 2 0
+geeky 4 2 1
+steer 1 4 0
+!divisions 01200113333333330021120212

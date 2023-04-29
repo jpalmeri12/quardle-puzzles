@@ -1,0 +1,6 @@
+6 9 divisions
+burst 1 1 0
+skill 4 1 1
+agile 1 4 1
+gayly 1 5 0
+!divisions 01000113232231220001310010

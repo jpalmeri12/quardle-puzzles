@@ -1,0 +1,6 @@
+7 9 divisions
+quasi 3 1 1
+elude 1 2 0
+octet 5 4 1
+cinch 2 5 0
+!divisions 20022001133311332020102212

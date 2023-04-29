@@ -1,0 +1,6 @@
+7 9 divisions
+rabbi 5 1 1
+pasta 1 2 0
+globe 2 4 0
+lanky 3 4 1
+!divisions 12111322020002001313321131

@@ -1,0 +1,6 @@
+7 8 divisions
+cycle 2 1 0
+yeast 3 1 1
+hymen 5 3 1
+risky 1 4 0
+!divisions 32000222111111113202123023

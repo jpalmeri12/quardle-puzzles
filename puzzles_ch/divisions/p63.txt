@@ -1,0 +1,6 @@
+7 7 divisions
+ethic 5 1 1
+apart 1 2 0
+picky 2 2 1
+knack 2 5 0
+!divisions 03200223111133110202320030

@@ -1,0 +1,6 @@
+7 10 divisions
+store 5 1 1
+macho 1 3 0
+towel 2 5 0
+ocean 3 5 1
+!divisions 32033002221111113032203020

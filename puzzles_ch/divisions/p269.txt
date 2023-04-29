@@ -1,0 +1,6 @@
+7 8 divisions
+bayou 3 1 1
+odder 5 3 1
+bound 1 5 0
+fibre 2 7 0
+!divisions 12331332020002001313221321

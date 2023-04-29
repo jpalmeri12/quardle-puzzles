@@ -1,0 +1,6 @@
+7 10 divisions
+front 4 1 1
+chock 2 3 0
+taste 1 5 0
+equip 5 5 1
+!divisions 21122113030033002221312212

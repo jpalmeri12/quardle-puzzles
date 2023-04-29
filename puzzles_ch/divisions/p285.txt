@@ -1,0 +1,6 @@
+6 10 divisions
+alloy 5 1 1
+feral 1 3 0
+decry 1 5 0
+enema 2 5 1
+!divisions 31113122000002003132213123

@@ -1,0 +1,6 @@
+7 10 divisions
+spoof 2 1 1
+booty 1 3 0
+fella 2 5 0
+admit 6 5 1
+!divisions 23322333001103112222032202

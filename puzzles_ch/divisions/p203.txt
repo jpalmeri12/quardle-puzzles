@@ -1,0 +1,6 @@
+7 9 divisions
+aloof 2 1 1
+clued 1 2 0
+outer 2 4 0
+tulip 4 4 1
+!divisions 03220221113333330202120210

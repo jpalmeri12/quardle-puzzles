@@ -1,0 +1,6 @@
+6 7 divisions
+eerie 1 1 1
+elect 1 2 0
+circa 4 2 1
+epoch 1 5 0
+!divisions 02330122222222220131220323

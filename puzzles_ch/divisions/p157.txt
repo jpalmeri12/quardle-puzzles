@@ -1,0 +1,6 @@
+6 10 divisions
+swamp 1 1 1
+prone 1 5 0
+nudge 4 5 1
+tangy 1 8 0
+!divisions 31133110000200023131013313

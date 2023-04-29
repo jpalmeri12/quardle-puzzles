@@ -1,0 +1,6 @@
+7 10 divisions
+alibi 3 1 1
+micro 2 5 0
+ruddy 5 5 1
+gourd 1 8 0
+!divisions 30033200122122113332203020

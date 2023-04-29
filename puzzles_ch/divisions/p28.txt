@@ -1,0 +1,6 @@
+7 9 divisions
+pecan 1 1 0
+clash 3 1 1
+blond 5 4 1
+shyly 2 5 0
+!divisions 01003313111211220333130030

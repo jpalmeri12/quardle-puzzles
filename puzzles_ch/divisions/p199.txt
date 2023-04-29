@@ -1,0 +1,6 @@
+6 9 divisions
+chirp 1 1 1
+octal 4 4 1
+pinch 1 5 0
+spilt 1 8 0
+!divisions 20022020303133112222302222

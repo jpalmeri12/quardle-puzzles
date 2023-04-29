@@ -1,0 +1,6 @@
+6 9 divisions
+dwell 5 1 1
+hurry 3 4 1
+usual 1 5 0
+carve 1 7 0
+!divisions 21222111000000003121013212

@@ -1,0 +1,6 @@
+6 9 divisions
+chore 4 1 1
+afire 1 4 0
+fluke 2 4 1
+skiff 1 7 0
+!divisions 12001032322222331110301031

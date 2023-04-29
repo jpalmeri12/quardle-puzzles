@@ -1,0 +1,6 @@
+6 9 divisions
+crimp 1 1 1
+grasp 3 4 1
+purge 1 5 0
+musky 1 7 0
+!divisions 11100133223233220000210131

@@ -1,0 +1,6 @@
+6 10 divisions
+obese 1 1 0
+bosom 2 1 1
+smile 1 5 0
+ionic 3 5 1
+!divisions 10111100233330221110201121

@@ -1,0 +1,6 @@
+6 9 divisions
+thyme 1 1 1
+tacit 1 1 0
+medic 1 4 0
+climb 5 4 1
+!divisions 22332320100100112232032303

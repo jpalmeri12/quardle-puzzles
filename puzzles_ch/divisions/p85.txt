@@ -1,0 +1,6 @@
+6 7 divisions
+loath 2 1 1
+blown 4 2 1
+vault 1 3 0
+shown 1 5 0
+!divisions 01200221333311330202310020

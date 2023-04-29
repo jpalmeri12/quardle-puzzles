@@ -1,0 +1,6 @@
+7 9 divisions
+igloo 2 1 1
+lobby 1 4 0
+blurt 4 4 1
+fetch 2 8 0
+!divisions 03330323232123110002230020

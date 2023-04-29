@@ -1,0 +1,6 @@
+7 7 divisions
+basic 4 1 1
+avian 1 2 0
+video 2 2 1
+daily 2 4 0
+!divisions 21112333030000002323012131

@@ -1,0 +1,6 @@
+6 9 divisions
+cameo 2 1 1
+patsy 1 2 0
+synod 5 4 1
+downy 1 5 0
+!divisions 13001022223333221010231001

@@ -1,0 +1,6 @@
+6 9 divisions
+filly 4 1 1
+unlit 1 2 0
+agile 1 4 0
+arbor 1 4 1
+!divisions 10011110223330331100201001

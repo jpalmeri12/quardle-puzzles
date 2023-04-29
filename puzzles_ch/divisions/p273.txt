@@ -1,0 +1,6 @@
+6 8 divisions
+satyr 5 1 1
+zonal 2 3 1
+honey 1 4 0
+elegy 1 7 0
+!divisions 01000111333333332101310010

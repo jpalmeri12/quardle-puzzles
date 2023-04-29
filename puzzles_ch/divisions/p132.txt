@@ -1,0 +1,6 @@
+7 8 divisions
+blown 1 1 1
+stony 3 3 1
+water 1 4 0
+hymen 2 7 0
+!divisions 32213000000022003111023103

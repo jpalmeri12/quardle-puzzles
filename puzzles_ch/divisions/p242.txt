@@ -1,0 +1,6 @@
+7 7 divisions
+karma 6 1 1
+mecca 2 2 0
+color 4 2 1
+pearl 1 6 0
+!divisions 32300302121122113000123323

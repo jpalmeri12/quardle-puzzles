@@ -1,0 +1,6 @@
+6 10 divisions
+brush 4 1 1
+datum 1 3 0
+might 1 5 0
+groom 3 5 1
+!divisions 02110121312222330001310010

@@ -1,0 +1,6 @@
+6 9 divisions
+spurt 2 1 1
+grape 1 4 0
+pagan 4 4 1
+treat 1 7 0
+!divisions 20333301011111012320032202

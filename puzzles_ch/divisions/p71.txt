@@ -1,0 +1,6 @@
+7 10 divisions
+juice 3 1 1
+haute 1 2 0
+legal 2 5 0
+labor 6 5 1
+!divisions 02233322121112110303320030

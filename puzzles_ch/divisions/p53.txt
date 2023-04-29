@@ -1,0 +1,6 @@
+7 10 divisions
+plant 3 1 1
+stray 2 5 0
+ruddy 4 5 1
+vinyl 1 9 0
+!divisions 32223220111100113230123303

@@ -1,0 +1,6 @@
+7 9 divisions
+quack 5 1 1
+virus 2 2 0
+octet 1 4 1
+clack 1 5 0
+!divisions 31133112020022003332013323

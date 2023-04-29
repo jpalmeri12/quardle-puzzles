@@ -1,0 +1,6 @@
+6 6 divisions
+relic 1 1 0
+lucky 3 1 1
+chose 5 1 1
+macho 1 3 0
+!divisions 01001133322223220113310030

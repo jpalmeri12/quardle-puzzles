@@ -1,0 +1,6 @@
+7 10 divisions
+agora 4 1 1
+agape 2 5 0
+phone 5 5 1
+midge 1 9 0
+!divisions 30223220101100113232023323

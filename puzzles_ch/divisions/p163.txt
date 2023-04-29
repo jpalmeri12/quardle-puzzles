@@ -1,0 +1,6 @@
+7 9 divisions
+whisk 1 1 1
+sushi 1 4 0
+haste 4 4 1
+notch 2 7 0
+!divisions 12221000333330331110321202

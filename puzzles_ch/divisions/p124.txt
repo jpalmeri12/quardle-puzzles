@@ -1,0 +1,6 @@
+7 10 divisions
+gloss 4 1 1
+testy 2 5 0
+token 2 5 1
+welch 1 8 0
+!divisions 20332331110000102323132212

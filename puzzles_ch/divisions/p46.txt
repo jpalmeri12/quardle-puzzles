@@ -1,0 +1,6 @@
+6 10 divisions
+amass 4 1 1
+chump 1 2 0
+burst 1 5 0
+braid 1 5 1
+!divisions 32233200101110113230023202

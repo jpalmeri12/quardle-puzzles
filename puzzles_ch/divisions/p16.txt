@@ -1,0 +1,6 @@
+7 9 divisions
+swine 5 1 1
+aglow 1 2 0
+paint 2 4 0
+axion 3 4 1
+!divisions 31030011222211223030103303

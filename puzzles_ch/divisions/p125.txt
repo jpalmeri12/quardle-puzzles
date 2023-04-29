@@ -1,0 +1,6 @@
+7 9 divisions
+flora 1 1 1
+recap 1 4 0
+clear 3 4 1
+greed 2 8 0
+!divisions 13001333222223221313231030

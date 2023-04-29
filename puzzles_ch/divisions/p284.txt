@@ -1,0 +1,6 @@
+7 10 divisions
+floss 5 1 1
+drawl 1 2 0
+ghost 2 5 0
+humor 3 5 1
+!divisions 21002011333311332121302012

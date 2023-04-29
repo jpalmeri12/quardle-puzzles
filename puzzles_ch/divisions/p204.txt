@@ -1,0 +1,6 @@
+7 10 divisions
+bayou 5 1 1
+recur 2 5 0
+cider 4 5 1
+crude 1 7 0
+!divisions 12031022222222221030201323

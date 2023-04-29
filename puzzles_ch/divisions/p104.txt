@@ -1,0 +1,6 @@
+6 7 divisions
+afire 1 1 1
+finer 1 2 0
+enter 4 2 1
+ester 1 5 0
+!divisions 31003011222221223001113013

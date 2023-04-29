@@ -1,0 +1,6 @@
+7 8 divisions
+smoke 2 1 0
+mamma 3 1 1
+donor 5 3 1
+slain 1 5 0
+!divisions 01200211313311330202310222

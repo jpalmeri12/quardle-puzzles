@@ -1,0 +1,6 @@
+6 7 divisions
+ashen 4 1 1
+blush 1 2 0
+lance 2 2 1
+scent 1 5 0
+!divisions 32322201011011003232023303

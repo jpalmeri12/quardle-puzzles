@@ -1,0 +1,6 @@
+7 10 divisions
+tango 4 1 1
+junta 2 3 0
+annoy 1 5 0
+yeast 5 5 1
+!divisions 01001011313233220101310030

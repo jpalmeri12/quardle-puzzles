@@ -1,0 +1,6 @@
+7 8 divisions
+unset 1 1 0
+shook 3 1 1
+cloth 6 3 1
+hotel 2 4 0
+!divisions 03300331112221220000130310

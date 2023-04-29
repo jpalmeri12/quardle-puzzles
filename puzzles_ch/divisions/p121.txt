@@ -1,0 +1,6 @@
+7 9 divisions
+crump 1 1 1
+micro 1 4 0
+ripen 4 4 1
+tonga 2 8 0
+!divisions 20002003131133112220102032

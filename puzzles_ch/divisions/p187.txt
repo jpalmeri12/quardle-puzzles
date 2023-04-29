@@ -1,0 +1,6 @@
+6 10 divisions
+irony 5 1 1
+flair 1 2 0
+sorry 1 5 0
+saucy 1 5 1
+!divisions 02333332111122110303230020

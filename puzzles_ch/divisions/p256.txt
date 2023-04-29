@@ -1,0 +1,6 @@
+7 9 divisions
+terse 5 1 1
+purer 2 2 0
+bonus 1 4 0
+outer 2 4 1
+!divisions 12220223333333330202320131

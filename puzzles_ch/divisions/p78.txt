@@ -1,0 +1,6 @@
+6 7 divisions
+relay 5 1 1
+aping 1 2 1
+prowl 1 3 0
+needy 1 5 0
+!divisions 13000223233333231002200121

@@ -1,0 +1,6 @@
+7 10 divisions
+bayou 2 1 1
+umbra 2 5 0
+blend 4 5 1
+cameo 1 7 0
+!divisions 01110133232223220103310030

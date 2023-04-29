@@ -1,0 +1,6 @@
+7 10 divisions
+refer 1 1 0
+favor 3 1 1
+proud 2 5 0
+union 5 5 1
+!divisions 12331330022222221010031301

@@ -1,0 +1,6 @@
+6 6 divisions
+thank 1 1 0
+humus 2 1 1
+kneed 5 1 1
+bulge 1 4 0
+!divisions 12001002333332331212301121

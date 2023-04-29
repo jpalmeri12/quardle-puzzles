@@ -1,0 +1,6 @@
+7 8 divisions
+moldy 1 1 1
+nylon 5 3 1
+daisy 1 4 0
+throb 2 6 0
+!divisions 30033000222122113330003303

@@ -1,0 +1,6 @@
+6 9 divisions
+viola 2 1 1
+micro 1 2 0
+circa 5 4 1
+rabbi 1 5 0
+!divisions 23002033131133112202332020

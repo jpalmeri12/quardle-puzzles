@@ -1,0 +1,6 @@
+7 10 divisions
+fauna 5 1 1
+sigma 1 5 0
+gruel 3 5 1
+surer 2 7 0
+!divisions 01330311212221220303110030

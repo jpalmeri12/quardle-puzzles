@@ -1,0 +1,6 @@
+7 8 divisions
+alibi 3 1 1
+valid 5 3 1
+spiel 1 5 0
+bawdy 2 7 0
+!divisions 32331122122222120131131313

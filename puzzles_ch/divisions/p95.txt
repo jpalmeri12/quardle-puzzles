@@ -1,0 +1,6 @@
+7 8 divisions
+scarf 1 1 0
+chain 2 1 1
+amber 4 3 1
+nobly 2 5 0
+!divisions 21110000333331332020310101

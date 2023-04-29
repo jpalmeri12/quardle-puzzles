@@ -1,0 +1,6 @@
+6 7 divisions
+annoy 5 1 1
+widen 1 2 0
+decoy 3 2 1
+macro 1 4 0
+!divisions 21233211000011003320013202

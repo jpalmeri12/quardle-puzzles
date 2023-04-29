@@ -1,0 +1,6 @@
+7 9 divisions
+spoke 2 1 1
+nylon 5 4 1
+heady 1 5 0
+colon 2 7 0
+!divisions 02220211311311330202120010

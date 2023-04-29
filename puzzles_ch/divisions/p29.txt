@@ -1,0 +1,6 @@
+6 10 divisions
+miser 2 1 1
+wince 1 2 0
+draft 1 5 0
+abbot 3 5 1
+!divisions 12011002223332331010201101

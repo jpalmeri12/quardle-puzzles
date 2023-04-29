@@ -1,0 +1,6 @@
+7 10 divisions
+villa 6 1 1
+judge 2 5 1
+junta 2 5 0
+idyll 1 7 0
+!divisions 12221333020022001313321131

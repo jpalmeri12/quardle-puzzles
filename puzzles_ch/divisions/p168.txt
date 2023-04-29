@@ -1,0 +1,6 @@
+6 10 divisions
+cigar 4 1 1
+share 1 5 0
+satyr 1 5 1
+youth 1 8 0
+!divisions 32223002101111113230023303

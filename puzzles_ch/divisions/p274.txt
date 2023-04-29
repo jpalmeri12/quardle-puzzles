@@ -1,0 +1,6 @@
+6 7 divisions
+mogul 3 1 1
+gloat 1 2 0
+grass 1 2 1
+sully 1 5 0
+!divisions 23302330111113112020032202

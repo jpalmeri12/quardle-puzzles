@@ -1,0 +1,6 @@
+7 8 divisions
+alter 6 1 1
+built 2 3 0
+block 2 3 1
+scree 1 6 0
+!divisions 01000221331111330202320020

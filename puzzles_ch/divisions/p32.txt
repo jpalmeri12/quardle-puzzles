@@ -1,0 +1,6 @@
+7 9 divisions
+fight 2 1 1
+fecal 2 1 0
+theta 1 4 0
+tacky 4 4 1
+!divisions 20203001111110113323103212

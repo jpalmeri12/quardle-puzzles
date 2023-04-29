@@ -1,0 +1,6 @@
+6 9 divisions
+lingo 2 1 1
+rifle 1 2 0
+abode 4 4 1
+lobby 1 5 0
+!divisions 20322331110000112323132232
