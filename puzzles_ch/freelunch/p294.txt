@@ -1,0 +1,6 @@
+7 12 freelunch
+sworn 6 1 1
+token 2 5 0
+ovary 3 5 1
+scald 1 7 0
+scant 1 7 1

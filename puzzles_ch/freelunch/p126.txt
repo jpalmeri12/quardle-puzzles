@@ -1,0 +1,6 @@
+6 10 freelunch
+bliss 1 1 0
+swami 5 1 1
+chill 2 4 1
+chili 1 5 0
+lodge 4 5 1

@@ -1,0 +1,6 @@
+6 9 freelunch
+taboo 1 1 1
+amend 5 3 1
+taste 3 4 1
+ovate 1 5 0
+fetid 1 7 0

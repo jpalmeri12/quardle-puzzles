@@ -1,0 +1,6 @@
+7 10 freelunch
+crier 5 1 1
+chart 2 2 0
+fifty 2 4 1
+diner 1 5 0
+envoy 4 5 1

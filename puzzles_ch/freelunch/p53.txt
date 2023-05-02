@@ -1,0 +1,6 @@
+6 10 freelunch
+tally 5 1 1
+mercy 1 5 0
+elder 2 5 1
+chaff 4 5 1
+ideal 1 7 0

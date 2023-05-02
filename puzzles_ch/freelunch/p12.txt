@@ -1,0 +1,6 @@
+7 9 freelunch
+spiky 1 1 0
+poser 2 1 1
+elite 2 4 0
+theta 5 4 1
+caste 2 7 0

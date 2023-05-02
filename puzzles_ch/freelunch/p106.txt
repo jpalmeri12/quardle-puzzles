@@ -1,0 +1,6 @@
+7 12 freelunch
+mafia 3 1 1
+agate 1 5 0
+gauge 2 5 1
+forgo 4 7 1
+error 2 9 0

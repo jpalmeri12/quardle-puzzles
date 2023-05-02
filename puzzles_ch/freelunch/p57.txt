@@ -1,0 +1,6 @@
+6 10 freelunch
+salvo 5 1 1
+rarer 2 4 1
+cargo 1 5 0
+glare 4 5 1
+renal 1 7 0

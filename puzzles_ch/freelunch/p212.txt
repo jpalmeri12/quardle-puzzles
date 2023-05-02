@@ -1,0 +1,6 @@
+7 9 freelunch
+floss 2 1 1
+plump 1 2 0
+magic 4 2 1
+deity 6 4 1
+spice 2 5 0

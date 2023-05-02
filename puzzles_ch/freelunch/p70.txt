@@ -1,0 +1,6 @@
+7 10 freelunch
+idiom 3 1 1
+privy 1 3 0
+amiss 2 5 0
+angst 2 5 1
+scamp 6 5 1

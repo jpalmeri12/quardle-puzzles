@@ -1,0 +1,6 @@
+6 10 freelunch
+dwell 1 1 1
+ovoid 4 4 1
+larva 1 5 0
+abhor 2 5 1
+chain 1 7 0

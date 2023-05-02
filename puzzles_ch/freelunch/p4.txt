@@ -1,0 +1,6 @@
+7 9 freelunch
+verve 3 1 1
+retry 2 2 0
+elfin 5 4 1
+realm 2 5 0
+swami 1 7 0

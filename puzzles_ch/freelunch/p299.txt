@@ -1,0 +1,6 @@
+7 10 freelunch
+bonus 2 1 1
+overt 4 1 1
+unfed 1 3 0
+satyr 2 5 0
+rumba 6 5 1

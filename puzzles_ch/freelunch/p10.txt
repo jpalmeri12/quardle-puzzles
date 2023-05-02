@@ -1,0 +1,6 @@
+7 10 freelunch
+inter 3 1 1
+crept 2 5 0
+caddy 2 5 1
+polka 5 5 1
+ideal 1 7 0

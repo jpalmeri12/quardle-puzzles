@@ -1,0 +1,6 @@
+7 10 freelunch
+total 5 1 1
+befit 1 3 0
+facet 3 3 1
+scaly 2 5 0
+yearn 6 5 1

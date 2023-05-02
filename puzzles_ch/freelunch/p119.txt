@@ -1,0 +1,6 @@
+6 10 freelunch
+whine 3 1 1
+guest 1 5 0
+until 2 5 1
+skier 4 5 1
+ethic 1 7 0

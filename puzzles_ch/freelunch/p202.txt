@@ -1,0 +1,6 @@
+7 10 freelunch
+arose 1 1 1
+abide 4 3 1
+scuba 1 4 0
+rodeo 6 5 1
+stead 2 7 0

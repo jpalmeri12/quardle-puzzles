@@ -1,0 +1,6 @@
+7 9 freelunch
+arbor 2 1 1
+brook 1 2 0
+robin 1 4 0
+north 5 4 1
+bushy 2 8 0

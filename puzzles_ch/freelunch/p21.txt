@@ -1,0 +1,6 @@
+7 10 freelunch
+shyly 3 1 1
+ether 1 2 0
+flyer 1 5 0
+leant 2 5 1
+affix 2 7 0

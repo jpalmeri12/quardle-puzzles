@@ -1,0 +1,6 @@
+7 10 freelunch
+usual 4 1 1
+rusty 2 2 0
+rally 1 5 0
+racer 1 5 1
+endow 1 8 0

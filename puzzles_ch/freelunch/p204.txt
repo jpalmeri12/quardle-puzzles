@@ -1,0 +1,6 @@
+7 12 freelunch
+alibi 2 1 1
+impel 2 5 0
+moody 3 5 1
+shrew 5 7 1
+dryer 1 9 0

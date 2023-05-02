@@ -1,0 +1,6 @@
+7 10 freelunch
+jiffy 1 1 0
+fiend 4 1 1
+dread 2 3 0
+heady 1 5 0
+aside 3 5 1

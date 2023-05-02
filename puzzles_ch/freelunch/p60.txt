@@ -1,0 +1,6 @@
+6 10 freelunch
+trash 5 1 1
+jetty 2 4 1
+teach 1 5 0
+chief 4 5 1
+stain 1 7 0

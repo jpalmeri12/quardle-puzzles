@@ -1,0 +1,6 @@
+7 9 freelunch
+grain 5 1 1
+sword 2 2 0
+amble 3 4 1
+woman 1 5 0
+swell 1 8 0

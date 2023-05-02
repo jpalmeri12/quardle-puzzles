@@ -1,0 +1,6 @@
+7 12 freelunch
+timid 2 1 1
+debar 2 5 0
+brace 4 5 1
+trope 2 7 1
+crick 1 8 0

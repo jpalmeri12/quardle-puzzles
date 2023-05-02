@@ -1,0 +1,6 @@
+7 10 freelunch
+gonad 2 1 1
+golem 1 2 0
+dodgy 2 5 0
+dance 4 5 1
+ideal 2 9 0

@@ -1,0 +1,6 @@
+7 9 freelunch
+hefty 6 1 1
+posse 2 2 1
+plant 4 4 1
+salty 2 5 0
+jetty 1 8 0

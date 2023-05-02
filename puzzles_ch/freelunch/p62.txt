@@ -1,0 +1,6 @@
+7 10 freelunch
+chili 2 1 1
+comma 2 1 0
+myrrh 5 1 1
+fifth 1 5 0
+fleck 3 5 1

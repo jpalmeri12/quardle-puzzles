@@ -1,0 +1,6 @@
+7 10 freelunch
+aloof 4 1 1
+taffy 1 5 0
+angry 2 5 1
+yearn 5 5 1
+great 2 7 0

@@ -1,0 +1,6 @@
+6 7 freelunch
+bring 5 1 1
+verse 1 2 1
+valor 1 2 0
+login 3 2 1
+swing 1 5 0

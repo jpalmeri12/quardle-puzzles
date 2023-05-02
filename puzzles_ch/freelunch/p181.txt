@@ -1,0 +1,6 @@
+7 10 freelunch
+bayou 3 1 1
+surer 2 5 0
+elate 5 5 1
+penal 2 7 0
+shine 1 9 0

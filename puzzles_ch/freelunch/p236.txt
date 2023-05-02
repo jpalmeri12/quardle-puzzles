@@ -1,0 +1,6 @@
+7 11 freelunch
+goody 1 1 1
+tasty 4 2 1
+daisy 1 4 0
+gayer 2 6 0
+earth 5 6 1

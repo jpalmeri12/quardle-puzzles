@@ -1,0 +1,6 @@
+7 9 freelunch
+bonus 2 1 0
+shorn 6 1 1
+shone 4 4 1
+ashen 2 5 0
+plier 1 8 0

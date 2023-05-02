@@ -1,0 +1,6 @@
+6 10 freelunch
+timer 4 1 1
+right 2 2 1
+biome 1 3 0
+short 1 5 0
+triad 5 5 1

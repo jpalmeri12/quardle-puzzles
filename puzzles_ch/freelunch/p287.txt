@@ -1,0 +1,6 @@
+7 10 freelunch
+apnea 5 1 1
+truly 2 2 1
+tripe 2 2 0
+alpha 1 5 0
+howdy 4 5 1

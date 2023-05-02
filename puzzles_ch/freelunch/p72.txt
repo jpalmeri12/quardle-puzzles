@@ -1,0 +1,6 @@
+7 10 freelunch
+pupil 1 1 1
+fibre 3 2 1
+prior 1 3 0
+timid 5 5 1
+befit 2 6 0

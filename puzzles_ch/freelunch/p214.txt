@@ -1,0 +1,6 @@
+7 10 freelunch
+adobe 1 1 0
+bayou 4 1 1
+mouse 2 5 0
+obese 3 5 1
+shade 5 5 1

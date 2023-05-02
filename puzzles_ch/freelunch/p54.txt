@@ -1,0 +1,6 @@
+6 10 freelunch
+actor 2 1 1
+exalt 5 1 1
+crest 1 5 0
+clump 1 5 1
+usurp 1 7 0

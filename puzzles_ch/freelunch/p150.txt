@@ -1,0 +1,6 @@
+6 10 freelunch
+limbo 2 1 1
+smell 1 3 0
+lodge 1 5 0
+lasso 1 5 1
+gayly 4 5 1

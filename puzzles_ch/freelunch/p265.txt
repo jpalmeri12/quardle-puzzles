@@ -1,0 +1,6 @@
+7 10 freelunch
+elect 6 1 1
+kebab 3 4 1
+meant 2 5 0
+nerve 5 5 1
+stair 1 7 0

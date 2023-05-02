@@ -1,0 +1,6 @@
+7 8 freelunch
+flesh 1 1 0
+solve 4 1 1
+fetus 6 2 1
+belle 2 3 0
+beard 2 3 1

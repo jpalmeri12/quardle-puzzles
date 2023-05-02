@@ -1,0 +1,6 @@
+7 10 freelunch
+bosom 2 1 0
+smack 4 1 1
+choke 1 5 0
+could 1 5 1
+untie 1 7 0

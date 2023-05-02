@@ -1,0 +1,6 @@
+6 10 freelunch
+whack 5 1 1
+scoff 1 4 1
+click 1 5 0
+issue 3 5 1
+fishy 1 7 0

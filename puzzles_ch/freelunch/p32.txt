@@ -1,0 +1,6 @@
+7 8 freelunch
+human 2 1 0
+nadir 6 1 1
+llama 3 3 1
+gamer 2 5 0
+graft 1 7 0

@@ -1,0 +1,6 @@
+6 10 freelunch
+least 1 1 1
+total 1 5 0
+ought 2 5 1
+axiom 4 5 1
+again 1 7 0

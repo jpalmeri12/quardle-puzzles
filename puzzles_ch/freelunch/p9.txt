@@ -1,0 +1,6 @@
+7 8 freelunch
+skiff 1 1 0
+froth 5 1 1
+adage 3 3 1
+roach 1 5 0
+debug 2 7 0

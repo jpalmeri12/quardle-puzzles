@@ -1,0 +1,6 @@
+7 9 freelunch
+hatch 1 1 0
+crown 4 1 1
+rowdy 2 4 0
+relax 2 4 1
+young 6 4 1

@@ -1,0 +1,6 @@
+6 10 freelunch
+gamut 1 1 1
+optic 4 2 1
+morph 1 3 0
+trait 1 5 0
+raspy 2 5 1

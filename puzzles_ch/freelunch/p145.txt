@@ -1,0 +1,6 @@
+7 8 freelunch
+chute 6 1 1
+fjord 2 3 1
+tutor 4 3 1
+joust 2 4 0
+droop 1 6 0

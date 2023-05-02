@@ -1,0 +1,6 @@
+7 10 freelunch
+novel 1 1 1
+newly 4 4 1
+lumen 1 5 0
+unfed 2 5 1
+felon 2 7 0

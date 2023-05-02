@@ -1,0 +1,6 @@
+7 12 freelunch
+shorn 1 1 1
+rajah 1 4 0
+jerky 3 4 1
+skirt 2 7 0
+tenor 6 7 1

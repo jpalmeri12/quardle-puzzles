@@ -1,0 +1,6 @@
+7 10 freelunch
+poker 4 1 1
+taken 2 3 0
+shirt 1 5 0
+tweet 5 5 1
+water 2 8 0

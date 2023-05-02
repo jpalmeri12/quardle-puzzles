@@ -1,0 +1,6 @@
+7 10 freelunch
+grand 6 1 1
+stead 2 2 1
+swear 2 2 0
+glory 4 5 1
+adult 1 6 0

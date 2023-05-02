@@ -1,0 +1,6 @@
+7 10 freelunch
+swami 3 1 1
+llama 5 1 1
+bowel 1 2 0
+tarot 2 5 1
+tidal 2 5 0

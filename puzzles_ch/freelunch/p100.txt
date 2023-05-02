@@ -1,0 +1,6 @@
+7 9 freelunch
+valet 3 1 1
+silky 5 1 1
+panic 2 2 0
+wreak 1 4 0
+wacky 1 4 1

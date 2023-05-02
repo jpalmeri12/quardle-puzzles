@@ -1,0 +1,6 @@
+6 10 freelunch
+equip 1 1 0
+pause 5 1 1
+ample 2 4 1
+imbue 1 5 0
+unmet 4 5 1

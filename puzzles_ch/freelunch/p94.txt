@@ -1,0 +1,6 @@
+6 9 freelunch
+tenor 5 1 1
+gaffe 1 2 0
+fetus 3 2 1
+patio 1 4 0
+pixel 1 4 1

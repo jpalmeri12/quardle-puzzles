@@ -1,0 +1,6 @@
+7 10 freelunch
+tread 4 1 1
+abhor 2 2 1
+beefy 2 3 0
+dowdy 1 5 0
+young 5 5 1

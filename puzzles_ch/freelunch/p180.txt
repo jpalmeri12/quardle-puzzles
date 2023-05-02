@@ -1,0 +1,6 @@
+7 10 freelunch
+kappa 3 1 1
+sling 5 1 1
+snail 1 2 0
+laugh 2 5 0
+hover 6 5 1

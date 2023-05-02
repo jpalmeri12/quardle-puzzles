@@ -1,0 +1,6 @@
+7 10 freelunch
+opera 3 1 1
+boast 1 2 1
+shape 1 5 0
+prude 4 5 1
+omega 2 9 0

@@ -1,0 +1,6 @@
+7 12 freelunch
+randy 6 1 1
+stray 2 5 0
+resin 4 5 1
+awoke 2 7 1
+await 1 8 0

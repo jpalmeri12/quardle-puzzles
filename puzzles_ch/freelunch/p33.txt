@@ -1,0 +1,6 @@
+7 10 freelunch
+botch 1 1 0
+occur 2 1 1
+spicy 5 4 1
+raspy 2 5 0
+axial 3 5 1

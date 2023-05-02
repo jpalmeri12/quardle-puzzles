@@ -1,0 +1,6 @@
+7 10 freelunch
+carve 4 1 1
+armor 2 3 1
+bravo 1 4 0
+ranch 6 5 1
+ramen 2 7 0

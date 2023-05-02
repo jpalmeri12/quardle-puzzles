@@ -1,0 +1,6 @@
+7 10 freelunch
+bless 1 1 0
+sinew 5 1 1
+spoof 2 5 1
+shawl 2 5 0
+lowly 6 5 1

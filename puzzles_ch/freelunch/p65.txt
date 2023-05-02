@@ -1,0 +1,6 @@
+6 9 freelunch
+tramp 1 1 1
+right 1 2 0
+cache 3 4 1
+plaid 1 5 0
+ethos 1 7 0

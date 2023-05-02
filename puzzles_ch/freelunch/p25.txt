@@ -1,0 +1,6 @@
+7 8 freelunch
+clown 2 1 1
+allot 1 2 0
+chock 6 3 1
+winch 2 4 0
+slack 2 7 0

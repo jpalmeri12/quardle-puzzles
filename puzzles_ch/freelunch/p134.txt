@@ -1,0 +1,6 @@
+7 10 freelunch
+bayou 2 1 1
+lucid 1 5 0
+cough 3 5 1
+diver 5 5 1
+agree 2 8 0

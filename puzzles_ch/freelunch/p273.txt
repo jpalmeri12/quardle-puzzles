@@ -1,0 +1,6 @@
+7 8 freelunch
+known 1 1 0
+wagon 4 1 1
+login 2 3 0
+liken 2 3 1
+skunk 1 5 0

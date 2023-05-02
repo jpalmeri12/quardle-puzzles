@@ -1,0 +1,6 @@
+7 8 freelunch
+quart 6 1 1
+avian 2 3 1
+usual 4 3 1
+visor 2 4 0
+fatal 1 6 0

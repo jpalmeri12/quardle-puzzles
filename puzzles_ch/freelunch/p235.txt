@@ -1,0 +1,6 @@
+6 10 freelunch
+saner 2 1 1
+dense 4 1 1
+inane 1 3 0
+grief 1 5 0
+filet 5 5 1

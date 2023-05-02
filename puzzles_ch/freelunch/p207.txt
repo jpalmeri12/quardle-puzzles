@@ -1,0 +1,6 @@
+7 9 freelunch
+assay 2 1 0
+stink 3 1 1
+winch 1 4 0
+women 1 4 1
+erode 1 7 0

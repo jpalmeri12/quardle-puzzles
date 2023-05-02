@@ -1,0 +1,6 @@
+7 10 freelunch
+cheap 2 1 1
+pause 2 5 0
+adobe 3 5 1
+shrew 5 5 1
+noble 1 8 0

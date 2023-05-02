@@ -1,0 +1,6 @@
+6 10 freelunch
+apnea 1 1 1
+plant 4 1 1
+psalm 1 2 0
+abate 1 5 0
+align 3 5 1

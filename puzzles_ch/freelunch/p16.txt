@@ -1,0 +1,6 @@
+6 10 freelunch
+spoof 1 1 1
+cache 4 2 1
+offal 1 3 0
+fight 1 5 0
+inter 2 5 1

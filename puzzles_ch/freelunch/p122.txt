@@ -1,0 +1,6 @@
+7 10 freelunch
+swing 4 1 1
+crawl 1 2 0
+rearm 2 2 1
+roger 2 5 0
+rabid 6 5 1

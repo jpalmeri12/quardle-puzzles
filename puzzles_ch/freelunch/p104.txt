@@ -1,0 +1,6 @@
+7 8 freelunch
+bride 2 1 0
+rough 3 1 1
+death 5 1 1
+aback 1 3 1
+bigot 1 4 0

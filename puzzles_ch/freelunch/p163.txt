@@ -1,0 +1,6 @@
+7 10 freelunch
+serum 2 1 1
+shalt 2 1 0
+racer 2 3 0
+smash 1 5 0
+arose 3 5 1

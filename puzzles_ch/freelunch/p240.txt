@@ -1,0 +1,6 @@
+7 10 freelunch
+fungi 2 1 1
+satyr 5 2 1
+natal 2 3 0
+silly 1 5 0
+lusty 3 5 1

@@ -1,0 +1,6 @@
+7 10 freelunch
+leapt 1 1 1
+gamut 3 3 1
+plant 1 4 0
+stamp 6 5 1
+ought 2 6 0

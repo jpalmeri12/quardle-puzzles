@@ -1,0 +1,6 @@
+7 11 freelunch
+known 1 1 1
+widow 1 4 0
+wreck 5 4 1
+limbo 3 6 1
+disco 2 7 0

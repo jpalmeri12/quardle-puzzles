@@ -1,0 +1,6 @@
+6 10 freelunch
+ample 5 1 1
+snoop 2 4 1
+untie 1 5 0
+inlet 4 5 1
+jolly 1 7 0

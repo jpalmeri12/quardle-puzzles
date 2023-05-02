@@ -1,0 +1,6 @@
+7 10 freelunch
+crime 5 1 1
+spire 2 2 0
+pearl 3 2 1
+surge 1 5 0
+spurn 1 5 1

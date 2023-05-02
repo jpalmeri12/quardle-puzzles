@@ -1,0 +1,6 @@
+6 10 freelunch
+chess 1 1 1
+inlet 3 4 1
+sinew 1 5 0
+warty 5 5 1
+their 1 7 0

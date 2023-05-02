@@ -1,0 +1,6 @@
+7 10 freelunch
+coach 1 1 1
+shyly 5 1 1
+horny 1 5 0
+nasty 4 5 1
+sushi 2 7 0

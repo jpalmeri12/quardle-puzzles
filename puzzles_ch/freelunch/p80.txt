@@ -1,0 +1,6 @@
+7 10 freelunch
+pilot 2 1 1
+ennui 4 1 1
+fiend 1 2 0
+thigh 2 5 0
+heavy 6 5 1

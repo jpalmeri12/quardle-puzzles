@@ -1,0 +1,6 @@
+7 10 freelunch
+abyss 1 1 0
+swoon 5 1 1
+prank 2 5 0
+payer 2 5 1
+lynch 1 7 0

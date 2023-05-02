@@ -1,0 +1,6 @@
+6 12 freelunch
+float 5 1 1
+trout 1 5 0
+unfed 4 5 1
+staff 1 7 0
+terse 2 7 1

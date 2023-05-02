@@ -1,0 +1,6 @@
+7 12 freelunch
+swami 3 1 1
+naive 2 5 1
+ninja 2 5 0
+siege 1 7 0
+gamer 4 7 1

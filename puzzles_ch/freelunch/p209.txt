@@ -1,0 +1,6 @@
+6 10 freelunch
+condo 2 1 1
+satyr 5 2 1
+enema 1 3 0
+jolly 1 5 0
+jumpy 1 5 1

@@ -1,0 +1,6 @@
+7 10 freelunch
+hobby 2 1 0
+bayou 4 1 1
+hippy 1 5 1
+humus 1 5 0
+mange 3 5 1

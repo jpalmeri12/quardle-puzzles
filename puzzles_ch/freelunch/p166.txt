@@ -1,0 +1,6 @@
+7 10 freelunch
+bowel 3 1 1
+spoon 1 2 0
+slyly 2 5 0
+youth 6 5 1
+bayou 2 7 0

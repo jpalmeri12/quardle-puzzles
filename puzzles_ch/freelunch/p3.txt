@@ -1,0 +1,6 @@
+7 10 freelunch
+radio 3 1 1
+adult 2 3 0
+frost 1 5 0
+recap 2 5 1
+slick 4 5 1

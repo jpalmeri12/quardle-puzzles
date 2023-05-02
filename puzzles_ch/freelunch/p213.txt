@@ -1,0 +1,6 @@
+7 8 freelunch
+pique 2 1 0
+quake 4 1 1
+slept 2 3 1
+sewer 1 5 0
+tawny 2 7 0

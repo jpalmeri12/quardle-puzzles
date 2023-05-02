@@ -1,0 +1,6 @@
+7 9 freelunch
+tight 2 1 1
+trite 2 1 0
+whirl 1 4 0
+leant 5 4 1
+flown 1 7 0

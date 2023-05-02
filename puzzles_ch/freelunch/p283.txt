@@ -1,0 +1,6 @@
+6 10 freelunch
+stung 1 1 0
+theta 2 1 1
+glean 5 1 1
+salon 1 5 0
+other 4 5 1

@@ -1,0 +1,6 @@
+7 10 freelunch
+cacti 5 1 1
+clove 2 2 1
+iliac 1 3 0
+vigil 2 5 0
+grind 4 5 1

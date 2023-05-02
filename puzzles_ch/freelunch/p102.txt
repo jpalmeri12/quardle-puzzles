@@ -1,0 +1,6 @@
+7 9 freelunch
+leery 4 1 1
+metal 6 2 1
+first 2 4 0
+flood 2 4 1
+conch 1 7 0

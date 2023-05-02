@@ -1,0 +1,6 @@
+7 10 freelunch
+serve 5 1 1
+grief 2 2 0
+argue 1 5 0
+raven 2 5 1
+exert 2 8 0

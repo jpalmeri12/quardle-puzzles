@@ -1,0 +1,6 @@
+7 9 freelunch
+might 6 1 1
+worst 4 3 1
+quash 2 4 1
+quoth 2 4 0
+cause 1 6 0

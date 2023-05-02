@@ -1,0 +1,6 @@
+6 12 freelunch
+easel 2 1 1
+ashen 4 4 1
+flash 1 5 0
+ulcer 1 7 0
+umbra 1 7 1

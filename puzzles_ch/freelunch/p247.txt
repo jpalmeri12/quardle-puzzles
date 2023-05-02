@@ -1,0 +1,6 @@
+7 8 freelunch
+alpha 1 1 0
+hinge 4 1 1
+hyper 6 2 1
+bunny 2 3 0
+bunch 2 3 1

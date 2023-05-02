@@ -1,0 +1,6 @@
+7 9 freelunch
+hunch 1 1 1
+genie 3 3 1
+lymph 5 4 1
+handy 1 5 0
+tempo 2 7 0

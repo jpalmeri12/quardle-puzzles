@@ -1,0 +1,6 @@
+7 9 freelunch
+soapy 1 1 1
+shale 1 1 0
+pesto 1 4 0
+satyr 3 4 1
+syrup 2 7 0

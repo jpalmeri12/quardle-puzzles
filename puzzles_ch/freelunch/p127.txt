@@ -1,0 +1,6 @@
+7 9 freelunch
+bless 1 1 0
+slurp 4 1 1
+adore 1 4 0
+dizzy 2 4 1
+zesty 2 7 0

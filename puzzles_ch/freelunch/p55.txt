@@ -1,0 +1,6 @@
+6 10 freelunch
+liver 5 1 1
+offer 1 4 1
+flyer 1 5 0
+enact 4 5 1
+ranch 1 8 0

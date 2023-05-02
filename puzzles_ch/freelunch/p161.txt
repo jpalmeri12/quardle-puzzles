@@ -1,0 +1,6 @@
+6 10 freelunch
+alive 4 1 1
+spire 1 2 1
+ruler 1 5 0
+relic 5 5 1
+chili 1 8 0

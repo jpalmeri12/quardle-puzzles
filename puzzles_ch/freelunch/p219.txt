@@ -1,0 +1,6 @@
+7 8 freelunch
+rehab 1 1 1
+reedy 1 1 0
+quart 3 3 1
+beast 1 5 0
+stray 2 7 0

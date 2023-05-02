@@ -1,0 +1,6 @@
+7 8 freelunch
+umbra 1 1 1
+skimp 5 2 1
+brook 1 3 0
+onion 3 3 1
+soapy 2 6 0

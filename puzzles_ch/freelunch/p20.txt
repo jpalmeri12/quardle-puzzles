@@ -1,0 +1,6 @@
+7 10 freelunch
+harsh 3 1 1
+there 2 5 0
+theme 2 5 1
+rebel 5 5 1
+kebab 1 7 0

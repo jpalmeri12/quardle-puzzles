@@ -1,0 +1,6 @@
+6 10 freelunch
+scram 4 1 1
+kappa 2 4 1
+balmy 1 5 0
+young 5 5 1
+baron 1 8 0

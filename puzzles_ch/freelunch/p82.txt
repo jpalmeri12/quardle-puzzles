@@ -1,0 +1,6 @@
+7 10 freelunch
+thing 2 1 1
+holly 2 2 0
+agent 1 5 0
+nerve 4 5 1
+ripen 1 9 0

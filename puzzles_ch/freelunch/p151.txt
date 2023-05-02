@@ -1,0 +1,6 @@
+7 9 freelunch
+usage 1 1 0
+shrub 2 1 1
+slush 5 4 1
+bible 2 5 0
+bless 2 7 0

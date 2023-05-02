@@ -1,0 +1,6 @@
+6 10 freelunch
+kebab 1 1 1
+taint 3 4 1
+brand 1 5 0
+ditty 5 5 1
+tenet 1 7 0

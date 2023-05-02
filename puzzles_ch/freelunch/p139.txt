@@ -1,0 +1,6 @@
+6 10 freelunch
+sweet 5 1 1
+bound 2 2 1
+force 1 3 0
+ingot 1 5 0
+optic 4 5 1

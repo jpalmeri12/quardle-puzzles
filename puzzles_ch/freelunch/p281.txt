@@ -1,0 +1,6 @@
+7 10 freelunch
+shelf 6 1 1
+tubal 4 4 1
+fishy 2 5 1
+fluff 2 5 0
+shyly 1 8 0

@@ -1,0 +1,6 @@
+7 10 freelunch
+groin 2 1 1
+grand 2 1 0
+villa 5 3 1
+snarl 1 5 0
+abort 3 5 1

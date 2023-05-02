@@ -1,0 +1,6 @@
+7 10 freelunch
+cross 2 1 1
+yearn 5 2 1
+force 1 3 0
+sworn 2 5 0
+welsh 3 5 1

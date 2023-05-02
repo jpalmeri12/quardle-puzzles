@@ -1,0 +1,6 @@
+7 10 freelunch
+squib 2 1 1
+equip 1 2 0
+blurb 2 5 0
+using 4 5 1
+adage 1 9 0

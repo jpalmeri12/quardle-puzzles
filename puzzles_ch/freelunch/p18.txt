@@ -1,0 +1,6 @@
+7 8 freelunch
+abode 2 1 0
+bench 3 1 1
+crepe 5 3 1
+sheep 2 5 0
+sauce 1 7 0

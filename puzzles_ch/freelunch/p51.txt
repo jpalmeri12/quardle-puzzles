@@ -1,0 +1,6 @@
+7 10 freelunch
+radii 3 1 1
+tense 5 4 1
+poise 2 5 1
+piney 2 5 0
+virus 1 7 0

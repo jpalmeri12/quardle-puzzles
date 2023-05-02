@@ -1,0 +1,6 @@
+6 9 freelunch
+flick 1 1 1
+fraud 1 1 0
+delta 5 1 1
+crest 1 4 0
+eject 3 4 1

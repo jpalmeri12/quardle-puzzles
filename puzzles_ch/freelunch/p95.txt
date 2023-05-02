@@ -1,0 +1,6 @@
+6 10 freelunch
+gloss 1 1 1
+scree 4 3 1
+store 1 5 0
+tryst 2 5 1
+stank 1 9 0

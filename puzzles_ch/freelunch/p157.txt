@@ -1,0 +1,6 @@
+7 10 freelunch
+rogue 6 1 1
+sprig 2 3 0
+piece 2 5 0
+equip 4 5 1
+quail 1 8 0

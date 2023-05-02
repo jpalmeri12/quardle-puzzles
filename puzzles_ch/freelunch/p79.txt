@@ -1,0 +1,6 @@
+7 10 freelunch
+gumbo 4 1 1
+bread 2 2 1
+anode 2 5 0
+dummy 5 5 1
+minim 1 8 0

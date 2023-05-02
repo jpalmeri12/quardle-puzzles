@@ -1,0 +1,6 @@
+6 10 freelunch
+ethos 1 1 1
+slush 1 5 0
+lover 2 5 1
+slime 4 5 1
+avail 1 7 0

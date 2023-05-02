@@ -1,0 +1,6 @@
+6 10 freelunch
+cacao 5 1 1
+carol 2 2 1
+manic 1 3 0
+motto 1 5 0
+trash 4 5 1

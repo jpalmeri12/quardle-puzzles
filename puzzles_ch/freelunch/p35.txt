@@ -1,0 +1,6 @@
+6 9 freelunch
+mimic 1 1 1
+torso 5 1 1
+eclat 3 4 1
+cacao 1 5 0
+batch 1 8 0

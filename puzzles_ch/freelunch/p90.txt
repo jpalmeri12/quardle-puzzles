@@ -1,0 +1,6 @@
+7 10 freelunch
+vodka 4 1 1
+diode 1 3 0
+quasi 2 5 0
+skirt 5 5 1
+alibi 1 7 0

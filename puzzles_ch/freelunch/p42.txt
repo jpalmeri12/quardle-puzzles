@@ -1,0 +1,6 @@
+7 9 freelunch
+known 3 1 1
+foamy 1 2 1
+scope 5 4 1
+manic 1 5 0
+crepe 2 7 0

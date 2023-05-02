@@ -1,0 +1,6 @@
+6 10 freelunch
+sling 3 1 1
+offer 1 4 1
+fight 1 5 0
+halve 4 5 1
+eagle 1 7 0

@@ -1,0 +1,6 @@
+7 11 freelunch
+sense 2 1 1
+serve 2 4 0
+viper 5 4 1
+agony 1 6 1
+gauge 1 7 0

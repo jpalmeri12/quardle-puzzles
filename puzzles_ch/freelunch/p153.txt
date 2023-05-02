@@ -1,0 +1,6 @@
+7 10 freelunch
+greet 4 1 1
+blurt 1 2 0
+girth 1 5 0
+holly 5 5 1
+polyp 2 9 0

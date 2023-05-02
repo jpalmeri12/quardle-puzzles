@@ -1,0 +1,6 @@
+7 12 freelunch
+llama 3 1 1
+hardy 2 5 0
+rowdy 4 5 1
+savoy 1 7 1
+vinyl 1 9 0

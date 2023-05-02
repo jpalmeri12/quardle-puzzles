@@ -1,0 +1,6 @@
+6 10 freelunch
+rodeo 2 1 1
+haven 5 4 1
+clang 1 5 1
+cobra 1 5 0
+nylon 1 8 0

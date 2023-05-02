@@ -1,0 +1,6 @@
+7 10 freelunch
+fetal 4 1 1
+tidal 2 2 1
+fault 1 5 0
+thyme 5 5 1
+blimp 2 8 0

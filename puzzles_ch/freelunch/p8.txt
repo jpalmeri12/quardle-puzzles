@@ -1,0 +1,6 @@
+7 10 freelunch
+timid 3 1 1
+fever 5 2 1
+emcee 2 3 0
+midge 1 5 0
+merge 1 5 1

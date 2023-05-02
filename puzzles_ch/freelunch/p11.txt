@@ -1,0 +1,6 @@
+6 10 freelunch
+enema 1 1 1
+snarl 3 4 1
+apnea 1 5 0
+award 5 5 1
+baler 1 8 0

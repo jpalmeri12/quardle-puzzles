@@ -1,0 +1,6 @@
+6 10 freelunch
+clean 1 1 0
+chart 1 1 1
+thump 1 5 0
+undue 3 5 1
+leery 1 9 0

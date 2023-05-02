@@ -1,0 +1,6 @@
+7 9 freelunch
+space 1 1 1
+trawl 3 2 1
+craft 1 4 0
+those 5 4 1
+floor 2 6 0
