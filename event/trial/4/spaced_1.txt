@@ -1,0 +1,5 @@
+7 10 spaced
+swami 4 1 1
+leapt 2 3 0
+cavil 1 5 0
+lurch 5 5 1

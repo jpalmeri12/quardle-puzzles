@@ -1,0 +1,5 @@
+6 9 frequency
+utile 4 1 1
+slung 1 4 1
+spelt 1 4 0
+niece 1 7 0

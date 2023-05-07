@@ -1,0 +1,6 @@
+7 10 five
+tamer 2 1 1
+recut 2 5 0
+exile 3 5 1
+under 5 5 1
+belle 1 8 0

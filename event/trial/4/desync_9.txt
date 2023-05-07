@@ -1,0 +1,5 @@
+7 9 desync
+lyric 3 1 1
+reign 1 4 0
+nurse 5 4 1
+betel 2 8 0

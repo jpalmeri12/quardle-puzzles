@@ -1,0 +1,5 @@
+7 9 frequency
+chair 2 1 0
+aroma 4 1 1
+igloo 1 4 1
+gloat 1 5 0

@@ -1,0 +1,6 @@
+7 9 freelunch
+unzip 6 1 1
+swill 2 4 1
+poesy 4 4 1
+whoop 2 5 0
+blast 1 7 0

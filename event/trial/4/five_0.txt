@@ -1,0 +1,6 @@
+7 9 five
+wispy 1 1 0
+start 3 1 1
+grope 2 4 0
+pesto 5 4 1
+demon 2 8 0

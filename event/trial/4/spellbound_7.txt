@@ -1,0 +1,9 @@
+7 7 spellbound
+tibia 4 1 1
+opium 2 2 0
+otter 2 2 1
+legal 1 5 0
+!spellbound 0 3 0
+!spellbound 1 4 3
+!spellbound 2 1 2
+!spellbound 3 4 2

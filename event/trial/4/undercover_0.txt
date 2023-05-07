@@ -1,0 +1,6 @@
+7 11 undercover
+swoon 4 1 1
+drown 1 2 0
+smote 2 4 0
+scold 2 4 1
+buggy 1 10 0

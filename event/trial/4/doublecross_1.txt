@@ -1,0 +1,9 @@
+6 12 doublecross
+snuff 1 1 0
+nymph 2 1 1
+fluke 4 1 1
+cheer 1 5 0
+bulky 1 7 0
+urine 2 7 1
+khaki 4 7 1
+medic 1 11 0

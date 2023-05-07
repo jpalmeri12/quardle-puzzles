@@ -1,0 +1,6 @@
+7 11 drop
+joust 5 1 1
+primo 1 2 0
+feast 2 4 0
+elate 3 4 1
+noose 1 10 0

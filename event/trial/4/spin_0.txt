@@ -1,0 +1,5 @@
+6 7 spin
+cower 2 1 1
+doubt 1 2 0
+bound 4 2 1
+recut 1 4 0

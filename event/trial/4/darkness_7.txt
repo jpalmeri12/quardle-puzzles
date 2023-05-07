@@ -1,0 +1,5 @@
+6 9 darkness
+blown 1 7 0
+amass 1 1 1
+stain 1 5 0
+talon 3 4 1

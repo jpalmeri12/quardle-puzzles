@@ -1,0 +1,6 @@
+6 10 freelunch
+retro 2 1 1
+dingo 4 1 1
+stint 1 3 0
+rotor 1 5 0
+ralph 5 5 1

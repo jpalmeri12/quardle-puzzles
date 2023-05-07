@@ -1,0 +1,6 @@
+6 9 undercover
+weedy 5 1 1
+curse 1 2 1
+cutie 1 2 0
+rapid 1 4 0
+bloom 1 8 0

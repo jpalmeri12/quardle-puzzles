@@ -1,0 +1,5 @@
+7 7 soundscramble
+agony 5 1 1
+spreg 1 2 0
+revir 3 2 1
+oveni 2 4 0

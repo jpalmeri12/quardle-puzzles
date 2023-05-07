@@ -1,0 +1,9 @@
+6 7 spellbound
+oddly 5 1 1
+crowd 1 2 0
+court 1 2 1
+relay 1 5 0
+!spellbound 0 0 2
+!spellbound 1 2 1
+!spellbound 2 2 4
+!spellbound 3 3 1

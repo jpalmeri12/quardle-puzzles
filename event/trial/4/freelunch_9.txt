@@ -1,0 +1,6 @@
+7 9 freelunch
+hunch 6 1 1
+pedal 2 3 1
+stout 4 4 1
+ditch 2 5 0
+clout 1 7 0

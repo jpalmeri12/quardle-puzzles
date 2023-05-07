@@ -1,0 +1,5 @@
+7 7 hotkeys
+rival 4 1 1
+shirt 2 2 0
+sushi 2 2 1
+essay 1 4 0

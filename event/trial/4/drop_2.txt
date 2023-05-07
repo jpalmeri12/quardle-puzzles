@@ -1,0 +1,6 @@
+6 8 drop
+steam 1 1 0
+trout 2 1 1
+month 5 1 1
+moron 1 3 0
+sonar 1 7 0

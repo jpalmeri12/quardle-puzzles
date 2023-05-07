@@ -1,0 +1,5 @@
+6 10 desync
+creme 1 1 1
+ether 1 5 0
+haven 3 5 1
+wield 1 8 0

@@ -1,0 +1,6 @@
+6 12 drop
+agent 1 1 1
+amaze 1 1 0
+tilde 1 5 0
+drain 4 5 1
+salad 1 11 0

@@ -1,0 +1,6 @@
+7 9 divisions
+dross 1 1 1
+scrub 1 4 0
+boozy 5 4 1
+vapor 2 6 0
+!divisions 02010112322322330101310010

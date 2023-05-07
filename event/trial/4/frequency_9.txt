@@ -1,0 +1,5 @@
+7 9 frequency
+deuce 1 1 1
+cause 1 4 0
+salon 4 4 1
+erode 2 7 0

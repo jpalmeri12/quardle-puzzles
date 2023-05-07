@@ -1,0 +1,5 @@
+7 9 dblltr
+khaki 1 1 1
+known 1 4 0
+whiff 4 4 1
+taffy 2 8 0

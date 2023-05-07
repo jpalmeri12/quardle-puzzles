@@ -1,0 +1,6 @@
+7 10 divisions
+linen 6 1 1
+deign 2 5 0
+decay 2 5 1
+scope 1 7 0
+!divisions 03330333112222110000130303

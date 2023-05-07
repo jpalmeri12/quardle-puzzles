@@ -1,0 +1,5 @@
+7 9 liar
+logic 1 1 0
+creed 5 1 1
+fleet 2 4 0
+liken 3 4 1

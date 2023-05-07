@@ -1,0 +1,5 @@
+7 10 spaced
+wring 4 1 1
+lurch 2 2 0
+image 1 5 0
+awful 3 5 1

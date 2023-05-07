@@ -1,0 +1,5 @@
+7 10 liar
+foyer 5 1 1
+vinyl 2 3 0
+freer 1 5 0
+enjoy 4 5 1

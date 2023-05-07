@@ -1,0 +1,9 @@
+6 12 doublecross
+house 1 1 0
+olden 2 1 1
+ensue 5 1 1
+undue 1 5 0
+oaken 1 7 0
+acute 2 7 1
+nosey 5 7 1
+zesty 1 11 0

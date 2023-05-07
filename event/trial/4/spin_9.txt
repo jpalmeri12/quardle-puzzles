@@ -1,0 +1,5 @@
+7 10 spin
+grain 4 1 1
+sonic 2 5 0
+owing 3 5 1
+panic 1 8 0

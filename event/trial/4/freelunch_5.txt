@@ -1,0 +1,6 @@
+6 10 freelunch
+papal 2 1 1
+basal 1 2 0
+blurt 1 5 0
+barge 1 5 1
+rural 4 5 1

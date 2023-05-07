@@ -1,0 +1,5 @@
+6 9 soundscramble
+glebo 1 1 1
+linge 1 2 0
+basis 1 4 0
+issuo 4 4 1

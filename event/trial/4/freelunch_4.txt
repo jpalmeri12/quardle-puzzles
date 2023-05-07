@@ -1,0 +1,6 @@
+7 10 freelunch
+canny 5 1 1
+banal 2 2 0
+bread 2 2 1
+fairy 1 5 0
+roger 4 5 1

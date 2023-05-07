@@ -1,0 +1,6 @@
+7 10 five
+shock 4 1 1
+brick 1 4 0
+razor 2 4 1
+lance 6 5 1
+oaken 2 7 0

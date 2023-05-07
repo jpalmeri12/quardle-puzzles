@@ -1,0 +1,6 @@
+6 9 divisions
+straw 2 1 1
+strip 1 2 0
+radii 1 4 0
+imply 5 4 1
+!divisions 02300321112222120303130313

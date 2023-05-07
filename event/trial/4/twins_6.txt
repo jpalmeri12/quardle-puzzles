@@ -1,0 +1,8 @@
+6 8 twins
+arise 1 1 0
+bulge 1 3 0
+axion 1 5 0
+droll 1 7 0
+!twins 1 2
+!twins 1 2
+!twins 1 2

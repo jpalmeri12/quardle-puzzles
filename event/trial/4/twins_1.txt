@@ -1,0 +1,8 @@
+6 8 twins
+shiny 1 1 0
+omega 1 3 0
+black 1 5 0
+amend 1 7 0
+!twins 0 2
+!twins 2 3
+!twins 0 1

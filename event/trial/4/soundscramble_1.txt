@@ -1,0 +1,5 @@
+7 10 soundscramble
+ector 6 1 1
+driar 2 5 0
+apoch 5 5 1
+megic 1 8 0

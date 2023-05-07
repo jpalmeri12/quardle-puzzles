@@ -1,0 +1,5 @@
+7 9 spaced
+singe 1 1 1
+girly 1 4 0
+loath 4 4 1
+entry 2 7 0

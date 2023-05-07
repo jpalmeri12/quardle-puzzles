@@ -1,0 +1,5 @@
+7 10 spaced
+incur 5 1 1
+torch 2 3 0
+flour 1 5 0
+funky 1 5 1

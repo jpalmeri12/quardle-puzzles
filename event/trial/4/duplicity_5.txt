@@ -1,0 +1,5 @@
+7 7 duplicity
+drove 1 1 0
+rival 2 1 1
+elder 6 2 1
+avoid 2 4 0

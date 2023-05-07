@@ -1,0 +1,5 @@
+7 10 soundscramble
+scary 2 1 0
+rodeo 5 1 1
+aiduo 1 5 0
+inute 2 5 1

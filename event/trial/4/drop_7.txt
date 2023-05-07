@@ -1,0 +1,6 @@
+6 9 drop
+heath 2 1 1
+ascot 4 2 1
+raise 1 3 0
+whoop 1 5 0
+aware 1 8 0

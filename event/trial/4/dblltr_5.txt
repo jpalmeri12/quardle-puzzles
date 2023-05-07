@@ -1,0 +1,5 @@
+7 7 dblltr
+leech 2 1 1
+lever 1 2 0
+recur 5 2 1
+humus 2 5 0

@@ -1,0 +1,5 @@
+7 10 soundscramble
+jembo 2 1 0
+jento 2 1 1
+poisu 1 5 0
+posur 1 5 1

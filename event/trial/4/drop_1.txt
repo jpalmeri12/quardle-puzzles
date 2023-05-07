@@ -1,0 +1,6 @@
+7 11 drop
+latte 1 1 1
+tuber 1 4 0
+beast 3 4 1
+stave 2 8 0
+trait 1 10 0

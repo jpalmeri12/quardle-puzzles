@@ -1,0 +1,5 @@
+7 10 liar
+blown 2 1 1
+ocean 2 3 0
+ensue 1 5 0
+unset 4 5 1

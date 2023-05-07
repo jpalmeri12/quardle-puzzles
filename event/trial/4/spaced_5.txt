@@ -1,0 +1,5 @@
+7 10 spaced
+metro 2 1 1
+covet 1 5 0
+trawl 5 5 1
+cheat 2 7 0

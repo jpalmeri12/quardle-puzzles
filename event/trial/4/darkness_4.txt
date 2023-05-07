@@ -1,0 +1,5 @@
+6 10 darkness
+comma 5 5 1
+steam 1 7 0
+iliac 1 5 0
+rumba 4 1 1

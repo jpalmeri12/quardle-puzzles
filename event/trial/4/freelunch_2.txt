@@ -1,0 +1,6 @@
+7 8 freelunch
+trawl 2 1 0
+witty 5 1 1
+teeth 2 3 0
+eking 3 3 1
+dairy 1 5 0

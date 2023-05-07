@@ -1,0 +1,6 @@
+6 8 freelunch
+gloom 1 1 1
+worst 3 3 1
+botch 5 3 1
+merit 1 5 0
+patch 1 7 0

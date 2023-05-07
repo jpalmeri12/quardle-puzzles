@@ -1,0 +1,5 @@
+7 10 soundscramble
+fungi 4 1 1
+sinco 2 3 0
+eptic 1 5 0
+epora 1 5 1

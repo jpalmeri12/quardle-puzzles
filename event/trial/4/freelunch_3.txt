@@ -1,0 +1,6 @@
+6 10 freelunch
+hilly 5 1 1
+natal 1 5 1
+nanny 1 5 0
+nosey 4 5 1
+agree 1 8 0

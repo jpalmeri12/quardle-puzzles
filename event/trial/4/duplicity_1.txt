@@ -1,0 +1,5 @@
+7 9 duplicity
+small 2 1 1
+bossy 4 4 1
+bloom 1 5 0
+abyss 2 8 0

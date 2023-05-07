@@ -1,0 +1,6 @@
+7 9 five
+taste 1 1 0
+enact 5 1 1
+outgo 3 4 1
+joust 1 5 0
+egret 2 7 0

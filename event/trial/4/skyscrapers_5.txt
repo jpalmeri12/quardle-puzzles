@@ -1,0 +1,5 @@
+7 10 skyscrapers
+sharp 2 5 0
+drier 5 1 1
+ennui 1 3 0
+pasty 6 5 1

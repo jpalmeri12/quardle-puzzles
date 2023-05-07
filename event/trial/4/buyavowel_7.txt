@@ -1,0 +1,5 @@
+7 9 buyavowel
+youth 2 1 1
+young 2 1 0
+seedy 4 4 1
+cheer 1 5 0

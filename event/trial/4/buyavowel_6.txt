@@ -1,0 +1,5 @@
+7 9 buyavowel
+trite 6 1 1
+brawl 3 4 1
+grace 2 5 0
+dowdy 1 7 0

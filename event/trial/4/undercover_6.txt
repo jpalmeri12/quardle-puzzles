@@ -1,0 +1,6 @@
+7 9 undercover
+biddy 5 1 1
+befit 2 2 0
+bagel 2 2 1
+needy 1 5 0
+chuck 1 8 0

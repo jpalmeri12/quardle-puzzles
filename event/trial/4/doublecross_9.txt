@@ -1,0 +1,9 @@
+6 12 doublecross
+agape 1 1 1
+grunt 3 1 1
+gorge 1 2 0
+enter 1 5 0
+grill 1 7 1
+surer 3 7 1
+route 1 8 0
+lurch 1 11 0

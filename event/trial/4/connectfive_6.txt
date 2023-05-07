@@ -1,0 +1,6 @@
+7 10 connectfive
+ashen 4 1 1
+gourd 2 2 1
+urine 1 5 0
+equal 5 5 1
+splat 2 8 0

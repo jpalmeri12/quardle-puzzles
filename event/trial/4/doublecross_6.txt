@@ -1,0 +1,9 @@
+6 12 doublecross
+share 2 1 1
+sassy 4 1 1
+ahead 1 2 0
+truss 1 4 0
+fella 2 7 1
+alarm 4 7 1
+jelly 1 8 0
+glory 1 10 0

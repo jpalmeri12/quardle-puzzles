@@ -1,0 +1,5 @@
+7 10 buyavowel
+umbra 4 1 1
+stalk 2 5 1
+spare 2 5 0
+handy 1 7 0

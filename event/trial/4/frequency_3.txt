@@ -1,0 +1,5 @@
+6 7 frequency
+steak 1 1 1
+teach 1 2 0
+chime 4 2 1
+aphid 1 4 0

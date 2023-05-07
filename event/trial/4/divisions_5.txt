@@ -1,0 +1,6 @@
+7 9 divisions
+clasp 2 1 1
+syrup 2 4 0
+uncut 5 4 1
+start 1 8 0
+!divisions 30011100202220223131203113

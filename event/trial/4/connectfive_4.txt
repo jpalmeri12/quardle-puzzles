@@ -1,0 +1,6 @@
+6 10 connectfive
+lasso 2 1 1
+curly 5 2 1
+hound 1 5 1
+hotel 1 5 0
+navel 1 8 0

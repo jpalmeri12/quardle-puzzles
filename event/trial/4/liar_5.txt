@@ -1,0 +1,5 @@
+7 9 liar
+often 2 1 1
+after 1 2 0
+piggy 5 4 1
+nadir 2 5 0

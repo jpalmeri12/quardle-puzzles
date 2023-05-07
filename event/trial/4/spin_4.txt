@@ -1,0 +1,5 @@
+7 9 spin
+joust 2 1 0
+satyr 5 1 1
+soapy 1 4 0
+augur 3 4 1

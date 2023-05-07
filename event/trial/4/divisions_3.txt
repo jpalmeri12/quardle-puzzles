@@ -1,0 +1,6 @@
+6 6 divisions
+eclat 2 1 1
+snout 5 1 1
+scion 1 2 0
+bayou 1 4 0
+!divisions 10211220330300331212301121

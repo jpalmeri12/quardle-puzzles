@@ -1,0 +1,5 @@
+7 10 desync
+jiffy 2 1 0
+fungi 4 1 1
+squib 1 5 1
+split 1 5 0

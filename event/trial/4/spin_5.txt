@@ -1,0 +1,5 @@
+7 10 spin
+kiosk 1 1 0
+kayak 5 1 1
+lucky 2 5 0
+learn 2 5 1

@@ -1,0 +1,6 @@
+7 12 drop
+larva 4 1 1
+cream 1 2 0
+track 2 5 0
+rainy 3 5 1
+carry 1 11 0

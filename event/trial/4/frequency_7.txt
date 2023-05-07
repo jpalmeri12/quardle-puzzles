@@ -1,0 +1,5 @@
+7 7 frequency
+stint 4 1 1
+fairy 2 2 1
+tacit 1 3 0
+retro 2 5 0

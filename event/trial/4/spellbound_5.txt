@@ -1,0 +1,9 @@
+7 10 spellbound
+lease 2 1 1
+lever 1 5 0
+valid 3 5 1
+admit 2 9 0
+!spellbound 0 3 2
+!spellbound 1 0 3
+!spellbound 2 2 3
+!spellbound 3 4 0

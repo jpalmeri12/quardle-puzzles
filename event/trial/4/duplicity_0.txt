@@ -1,0 +1,5 @@
+7 10 duplicity
+legal 5 1 1
+offal 1 5 0
+flood 3 5 1
+adage 2 9 0

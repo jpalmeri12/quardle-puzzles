@@ -1,0 +1,9 @@
+6 12 doublecross
+vodka 1 1 1
+visit 1 1 0
+inner 4 1 1
+kneed 1 4 0
+ozone 1 7 1
+omega 1 7 0
+grill 4 7 1
+newly 1 10 0

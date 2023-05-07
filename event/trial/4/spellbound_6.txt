@@ -1,0 +1,9 @@
+6 9 spellbound
+blimp 3 1 1
+polar 1 2 0
+tempo 1 4 0
+theft 1 4 1
+!spellbound 0 2 4
+!spellbound 1 1 0
+!spellbound 2 3 4
+!spellbound 3 4 1

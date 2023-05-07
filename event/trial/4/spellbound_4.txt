@@ -1,0 +1,9 @@
+6 10 spellbound
+aping 4 1 1
+hippy 1 2 0
+fudge 1 5 0
+elder 5 5 1
+!spellbound 0 0 2
+!spellbound 1 0 4
+!spellbound 2 2 1
+!spellbound 3 4 1

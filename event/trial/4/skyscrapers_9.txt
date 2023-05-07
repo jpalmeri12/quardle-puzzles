@@ -1,0 +1,5 @@
+6 6 skyscrapers
+range 1 4 0
+rainy 3 1 1
+charm 1 2 0
+acorn 1 1 1

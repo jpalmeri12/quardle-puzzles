@@ -1,0 +1,5 @@
+7 9 duplicity
+fluff 3 1 1
+fluid 2 2 0
+dried 1 4 1
+defer 1 4 0

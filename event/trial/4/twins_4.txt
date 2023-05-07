@@ -1,0 +1,8 @@
+6 8 twins
+rearm 1 1 0
+meant 1 3 0
+risky 1 5 0
+rusty 1 7 0
+!twins 1 2
+!twins 0 4
+!twins 0 2

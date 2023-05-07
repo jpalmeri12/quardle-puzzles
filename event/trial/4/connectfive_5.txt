@@ -1,0 +1,6 @@
+6 8 connectfive
+angst 1 1 0
+spend 4 1 1
+defer 1 3 1
+eying 1 4 0
+rehab 1 7 0

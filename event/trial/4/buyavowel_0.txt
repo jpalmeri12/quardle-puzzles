@@ -1,0 +1,5 @@
+7 8 buyavowel
+alibi 1 1 1
+slain 4 3 1
+boule 1 4 0
+grime 2 6 0

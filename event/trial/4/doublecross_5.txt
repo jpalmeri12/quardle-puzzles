@@ -1,0 +1,9 @@
+6 12 doublecross
+radio 1 1 0
+ahead 2 1 1
+ionic 4 1 1
+leant 1 3 0
+ether 1 7 0
+tasty 2 7 1
+elect 4 7 1
+askew 1 9 0

@@ -1,0 +1,5 @@
+7 10 duplicity
+swash 1 1 0
+shale 4 1 1
+whelp 2 5 0
+lapse 5 5 1

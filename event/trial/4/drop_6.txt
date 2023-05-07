@@ -1,0 +1,6 @@
+6 10 drop
+puffy 1 1 0
+frail 4 1 1
+usher 1 3 1
+staid 1 4 0
+hefty 1 9 0

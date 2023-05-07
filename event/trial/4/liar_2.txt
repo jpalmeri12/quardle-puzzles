@@ -1,0 +1,5 @@
+7 10 liar
+taboo 2 1 1
+dowdy 1 5 0
+dusky 4 5 1
+asset 2 7 0

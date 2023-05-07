@@ -1,0 +1,5 @@
+7 10 dblltr
+rigid 5 1 1
+weedy 2 5 0
+enema 4 5 1
+rajah 1 9 0

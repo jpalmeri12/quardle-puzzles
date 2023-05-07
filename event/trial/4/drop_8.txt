@@ -1,0 +1,6 @@
+6 10 drop
+solid 5 1 1
+spell 1 3 0
+parka 2 3 1
+tried 1 5 0
+tapir 1 9 0

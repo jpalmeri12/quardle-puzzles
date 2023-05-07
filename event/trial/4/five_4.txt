@@ -1,0 +1,6 @@
+7 12 five
+beady 1 1 1
+dimly 1 4 0
+mafia 3 4 1
+skier 6 7 1
+caulk 2 8 0

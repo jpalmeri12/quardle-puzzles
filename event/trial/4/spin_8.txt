@@ -1,0 +1,5 @@
+7 10 spin
+tango 5 1 1
+stank 2 3 0
+macho 1 5 0
+ashen 2 5 1

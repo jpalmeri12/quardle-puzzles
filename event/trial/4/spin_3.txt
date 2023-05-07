@@ -1,0 +1,5 @@
+6 10 spin
+waltz 4 1 1
+dwell 1 3 0
+craze 1 5 0
+aunty 3 5 1

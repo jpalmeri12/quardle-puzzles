@@ -1,0 +1,6 @@
+7 10 undercover
+amity 1 1 0
+tapir 4 1 1
+tepee 2 3 0
+envoy 6 3 1
+skull 1 9 0
