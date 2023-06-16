@@ -1,0 +1,5 @@
+7 8 mirror
+outer 6 1 1
+splat 2 3 0
+plate 3 3 1
+wield 1 7 0

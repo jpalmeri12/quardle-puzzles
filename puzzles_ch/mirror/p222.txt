@@ -1,0 +1,5 @@
+7 9 mirror
+blurt 4 1 1
+spook 2 4 1
+patsy 2 5 0
+koala 1 7 0

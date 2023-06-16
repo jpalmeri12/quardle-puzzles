@@ -1,0 +1,5 @@
+7 9 mirror
+stale 3 1 1
+atoll 2 2 0
+talon 1 4 0
+tryst 1 4 1

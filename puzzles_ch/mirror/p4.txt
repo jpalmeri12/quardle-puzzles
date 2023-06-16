@@ -1,0 +1,5 @@
+7 10 mirror
+curio 4 1 1
+labor 1 5 0
+brush 3 5 1
+shied 2 9 0

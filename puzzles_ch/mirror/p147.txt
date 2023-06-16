@@ -1,0 +1,5 @@
+7 9 mirror
+blurb 2 1 1
+leave 5 4 1
+bicep 2 5 0
+eagle 1 8 0

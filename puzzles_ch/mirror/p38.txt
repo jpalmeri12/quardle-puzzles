@@ -1,0 +1,5 @@
+6 9 mirror
+dowry 3 1 1
+virus 1 4 0
+snarl 5 4 1
+recur 1 7 0

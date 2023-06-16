@@ -1,0 +1,5 @@
+6 7 mirror
+apply 1 1 1
+pleat 1 2 0
+tacky 5 2 1
+lilac 1 4 0

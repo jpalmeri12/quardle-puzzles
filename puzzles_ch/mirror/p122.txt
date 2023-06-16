@@ -1,0 +1,5 @@
+7 8 mirror
+humor 3 1 1
+adult 5 3 1
+dowdy 2 4 0
+refit 1 7 0

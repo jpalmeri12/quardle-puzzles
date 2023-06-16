@@ -1,0 +1,5 @@
+7 8 mirror
+whine 6 1 1
+amply 4 3 1
+women 2 4 0
+gayly 1 6 0

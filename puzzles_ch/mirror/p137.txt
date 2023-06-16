@@ -1,0 +1,5 @@
+7 9 mirror
+class 2 1 1
+easel 1 3 0
+agile 6 4 1
+slang 2 5 0

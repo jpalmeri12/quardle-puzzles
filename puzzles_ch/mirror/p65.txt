@@ -1,0 +1,5 @@
+7 10 mirror
+layer 5 1 1
+canal 2 2 0
+tally 1 5 1
+truer 1 5 0

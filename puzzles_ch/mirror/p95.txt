@@ -1,0 +1,5 @@
+7 9 mirror
+glide 2 1 0
+delta 5 1 1
+inert 1 4 0
+naval 2 4 1

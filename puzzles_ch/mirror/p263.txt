@@ -1,0 +1,5 @@
+7 10 mirror
+delta 3 1 1
+cabin 2 5 0
+batty 4 5 1
+satyr 1 9 0

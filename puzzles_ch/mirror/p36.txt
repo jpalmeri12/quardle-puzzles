@@ -1,0 +1,5 @@
+7 9 mirror
+yacht 2 1 1
+youth 2 1 0
+chide 1 4 0
+eerie 5 4 1

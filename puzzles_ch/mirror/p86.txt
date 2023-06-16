@@ -1,0 +1,5 @@
+7 8 mirror
+rebus 4 1 1
+udder 1 2 0
+tryst 6 3 1
+testy 2 5 0

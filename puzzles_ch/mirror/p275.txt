@@ -1,0 +1,5 @@
+7 7 mirror
+sheik 1 1 1
+clasp 5 2 1
+easel 1 3 0
+ralph 2 6 0

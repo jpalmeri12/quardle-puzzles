@@ -1,0 +1,5 @@
+7 10 mirror
+froth 3 1 1
+chalk 2 5 0
+alone 4 5 1
+burnt 1 8 0

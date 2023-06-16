@@ -1,0 +1,5 @@
+7 8 mirror
+aside 1 1 0
+shale 2 1 1
+afoul 2 3 0
+unity 5 3 1

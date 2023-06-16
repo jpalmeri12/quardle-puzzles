@@ -1,0 +1,5 @@
+6 8 mirror
+blank 2 1 1
+cyber 5 3 1
+inlay 1 4 0
+miner 1 7 0

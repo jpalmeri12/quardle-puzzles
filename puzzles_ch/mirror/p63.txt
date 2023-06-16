@@ -1,0 +1,5 @@
+7 9 mirror
+truth 5 1 1
+jetty 2 4 1
+leach 1 5 0
+tiger 2 7 0

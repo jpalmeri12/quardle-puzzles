@@ -1,0 +1,5 @@
+7 10 mirror
+froth 5 1 1
+gourd 2 2 0
+weigh 1 5 0
+write 1 5 1

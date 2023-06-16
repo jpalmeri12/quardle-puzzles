@@ -1,0 +1,5 @@
+7 7 mirror
+buyer 6 1 1
+party 4 2 1
+leaky 2 3 0
+satyr 1 6 0

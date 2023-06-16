@@ -1,0 +1,5 @@
+7 9 mirror
+waive 1 1 1
+vault 1 4 0
+under 3 4 1
+adult 2 6 0

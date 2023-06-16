@@ -1,0 +1,5 @@
+7 10 mirror
+stale 2 1 1
+style 1 2 0
+eclat 2 5 0
+cower 3 5 1

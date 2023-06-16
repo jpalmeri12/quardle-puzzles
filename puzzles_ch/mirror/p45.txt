@@ -1,0 +1,5 @@
+7 8 mirror
+awoke 6 1 1
+stuck 3 3 1
+stork 2 4 0
+occur 1 6 0

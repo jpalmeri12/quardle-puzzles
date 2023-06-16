@@ -1,0 +1,5 @@
+6 9 mirror
+poise 1 1 1
+ovine 1 2 0
+siege 1 4 0
+elite 3 4 1

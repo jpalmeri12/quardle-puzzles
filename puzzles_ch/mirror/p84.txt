@@ -1,0 +1,5 @@
+7 9 mirror
+neigh 6 1 1
+shrug 2 4 0
+rider 4 4 1
+pride 1 6 0

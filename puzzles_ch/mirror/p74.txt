@@ -1,0 +1,5 @@
+6 7 mirror
+feign 4 1 1
+askew 1 2 0
+sheik 2 2 1
+reign 1 4 0

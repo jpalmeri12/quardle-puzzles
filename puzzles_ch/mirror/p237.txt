@@ -1,0 +1,5 @@
+7 9 mirror
+niece 2 1 1
+aglow 4 4 1
+eagle 2 5 0
+blown 1 8 0

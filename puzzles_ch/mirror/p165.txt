@@ -1,0 +1,5 @@
+7 9 mirror
+alibi 1 1 1
+navel 3 4 1
+irate 1 5 0
+pesky 2 7 0

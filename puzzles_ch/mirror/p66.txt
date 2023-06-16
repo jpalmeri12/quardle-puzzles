@@ -1,0 +1,5 @@
+7 9 mirror
+juice 2 1 1
+scuba 1 4 0
+brawl 4 4 1
+sower 2 7 0

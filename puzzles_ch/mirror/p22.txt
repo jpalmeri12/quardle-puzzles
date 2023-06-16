@@ -1,0 +1,5 @@
+7 10 mirror
+whisk 5 1 1
+stink 1 5 0
+their 2 5 1
+elbow 2 7 0

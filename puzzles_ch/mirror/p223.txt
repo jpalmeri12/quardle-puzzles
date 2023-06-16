@@ -1,0 +1,5 @@
+6 10 mirror
+serum 1 1 1
+eking 1 2 0
+matey 1 5 0
+eagle 4 5 1

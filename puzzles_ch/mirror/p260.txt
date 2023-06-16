@@ -1,0 +1,5 @@
+7 9 mirror
+grout 3 1 1
+pupal 2 4 0
+axial 5 4 1
+rumba 1 7 0

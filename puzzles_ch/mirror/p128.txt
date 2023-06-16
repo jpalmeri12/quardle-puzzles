@@ -1,0 +1,5 @@
+7 8 mirror
+dally 1 1 0
+altar 2 1 1
+truck 2 3 0
+crowd 5 3 1

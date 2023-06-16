@@ -1,0 +1,5 @@
+7 9 mirror
+tiger 5 1 1
+usual 3 4 1
+riser 1 5 0
+glaze 2 8 0

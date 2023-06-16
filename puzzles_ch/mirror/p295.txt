@@ -1,0 +1,5 @@
+7 7 mirror
+ruder 6 1 1
+drown 4 2 1
+lurid 2 3 0
+shank 1 6 0

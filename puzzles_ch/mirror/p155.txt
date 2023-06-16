@@ -1,0 +1,5 @@
+7 10 mirror
+islet 5 1 1
+crush 2 2 0
+float 1 5 0
+frown 1 5 1

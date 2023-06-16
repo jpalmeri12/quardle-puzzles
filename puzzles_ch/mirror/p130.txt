@@ -1,0 +1,5 @@
+7 10 mirror
+juror 2 1 1
+rugby 2 5 0
+brown 5 5 1
+turbo 1 7 0

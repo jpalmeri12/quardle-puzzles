@@ -1,0 +1,5 @@
+7 9 mirror
+snarl 2 1 1
+artsy 1 4 0
+surer 4 4 1
+verve 2 8 0

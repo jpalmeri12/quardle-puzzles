@@ -1,0 +1,5 @@
+7 10 mirror
+stoke 2 1 1
+least 1 5 0
+spine 4 5 1
+lanky 2 8 0

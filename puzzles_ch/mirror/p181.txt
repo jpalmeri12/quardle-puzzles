@@ -1,0 +1,5 @@
+6 9 mirror
+yield 1 1 1
+lower 1 4 0
+wield 3 4 1
+video 1 8 0

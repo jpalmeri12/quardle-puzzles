@@ -1,0 +1,5 @@
+7 10 mirror
+relax 3 1 1
+beech 1 2 0
+exist 2 5 0
+tying 6 5 1

@@ -1,0 +1,5 @@
+7 9 mirror
+medal 2 1 1
+smoky 5 4 1
+loamy 2 5 0
+shock 1 7 0

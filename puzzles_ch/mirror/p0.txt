@@ -1,0 +1,5 @@
+6 10 mirror
+curio 3 1 1
+flora 1 5 0
+ruder 4 5 1
+fjord 1 9 0

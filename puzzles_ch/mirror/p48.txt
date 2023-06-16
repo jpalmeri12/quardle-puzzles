@@ -1,0 +1,5 @@
+6 10 mirror
+angle 5 1 1
+feign 1 2 0
+whine 1 5 0
+nasal 4 5 1

@@ -1,0 +1,5 @@
+7 9 mirror
+peril 2 1 1
+plain 2 1 0
+diner 1 4 0
+eagle 4 4 1

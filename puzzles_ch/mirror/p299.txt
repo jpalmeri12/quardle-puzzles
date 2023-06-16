@@ -1,0 +1,5 @@
+6 9 mirror
+rinse 1 1 1
+slack 1 4 0
+court 4 4 1
+spurn 1 7 0

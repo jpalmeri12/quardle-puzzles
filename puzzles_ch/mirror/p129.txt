@@ -1,0 +1,5 @@
+7 8 mirror
+caulk 6 1 1
+avail 4 3 1
+cavil 2 4 0
+basil 1 6 0

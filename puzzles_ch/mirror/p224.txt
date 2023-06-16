@@ -1,0 +1,5 @@
+7 10 mirror
+scaly 1 1 0
+climb 2 1 1
+brisk 2 5 0
+knife 6 5 1

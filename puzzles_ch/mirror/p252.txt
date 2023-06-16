@@ -1,0 +1,5 @@
+7 10 mirror
+furor 2 1 1
+rally 2 5 0
+along 3 5 1
+fight 1 9 0

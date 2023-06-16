@@ -1,0 +1,5 @@
+6 8 mirror
+dicey 2 1 1
+aside 4 3 1
+heist 1 4 0
+cider 1 7 0

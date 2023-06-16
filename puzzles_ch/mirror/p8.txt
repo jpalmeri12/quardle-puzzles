@@ -1,0 +1,5 @@
+7 10 mirror
+latch 2 1 0
+alibi 3 1 1
+edify 1 5 0
+equal 1 5 1

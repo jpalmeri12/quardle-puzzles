@@ -1,0 +1,5 @@
+7 10 mirror
+align 2 1 1
+inter 1 5 0
+ethic 4 5 1
+aging 2 8 0

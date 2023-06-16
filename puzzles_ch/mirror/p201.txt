@@ -1,0 +1,5 @@
+7 9 mirror
+glade 5 1 1
+silky 3 4 1
+miser 2 5 0
+askew 1 7 0

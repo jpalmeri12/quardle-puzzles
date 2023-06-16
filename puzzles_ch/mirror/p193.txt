@@ -1,0 +1,5 @@
+7 9 mirror
+teary 1 1 1
+riser 1 4 0
+swoon 3 4 1
+loamy 2 7 0

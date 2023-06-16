@@ -1,0 +1,5 @@
+7 9 mirror
+leash 6 1 1
+endow 4 4 1
+bench 2 5 0
+valor 1 7 0

@@ -1,0 +1,5 @@
+7 10 mirror
+carol 5 1 1
+glean 2 2 0
+skill 1 5 0
+inlay 3 5 1

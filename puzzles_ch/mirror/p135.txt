@@ -1,0 +1,5 @@
+7 7 mirror
+plain 2 1 1
+voice 4 2 1
+aloof 2 3 0
+snack 1 5 0

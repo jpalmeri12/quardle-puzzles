@@ -1,0 +1,5 @@
+7 10 mirror
+spoke 6 1 1
+glare 2 5 0
+rerun 5 5 1
+miser 1 7 0

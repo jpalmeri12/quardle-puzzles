@@ -1,0 +1,5 @@
+7 8 mirror
+viola 1 1 0
+aisle 5 1 1
+total 3 3 1
+voila 2 4 0

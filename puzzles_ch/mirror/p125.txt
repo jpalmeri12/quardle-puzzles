@@ -1,0 +1,5 @@
+7 10 mirror
+polka 5 1 1
+pupal 2 5 0
+prize 4 5 1
+navel 1 9 0

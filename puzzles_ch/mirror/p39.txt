@@ -1,0 +1,5 @@
+7 10 mirror
+image 5 1 1
+forum 1 2 0
+truer 2 5 0
+ralph 3 5 1

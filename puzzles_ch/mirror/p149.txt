@@ -1,0 +1,5 @@
+7 9 mirror
+splat 2 1 0
+awful 5 1 1
+empty 1 4 1
+modal 1 5 0

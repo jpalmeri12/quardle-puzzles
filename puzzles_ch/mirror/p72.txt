@@ -1,0 +1,5 @@
+6 8 mirror
+fjord 1 1 0
+juror 2 1 1
+whoop 5 3 1
+botch 1 4 0

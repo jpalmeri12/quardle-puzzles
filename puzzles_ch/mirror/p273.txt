@@ -1,0 +1,5 @@
+7 8 mirror
+edify 2 1 0
+devil 3 1 1
+rerun 5 3 1
+voice 1 4 0

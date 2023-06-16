@@ -1,0 +1,5 @@
+7 9 mirror
+class 2 1 1
+flame 4 4 1
+salon 2 5 0
+crime 1 7 0

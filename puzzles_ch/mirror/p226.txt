@@ -1,0 +1,5 @@
+6 9 mirror
+shift 1 1 0
+tribe 5 1 1
+blurb 1 4 0
+below 1 4 1

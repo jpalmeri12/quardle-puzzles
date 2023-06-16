@@ -1,0 +1,5 @@
+6 9 mirror
+virus 1 1 1
+islet 1 2 0
+slunk 4 4 1
+scald 1 5 0

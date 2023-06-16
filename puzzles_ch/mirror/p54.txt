@@ -1,0 +1,5 @@
+7 9 mirror
+piece 2 1 0
+edify 4 1 1
+whiff 1 4 0
+husky 2 4 1

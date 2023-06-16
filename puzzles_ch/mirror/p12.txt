@@ -1,0 +1,5 @@
+7 10 mirror
+umbra 4 1 1
+papal 1 5 0
+puree 3 5 1
+truce 2 7 0

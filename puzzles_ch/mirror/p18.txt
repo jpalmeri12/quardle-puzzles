@@ -1,0 +1,5 @@
+7 7 mirror
+swoon 1 1 1
+whiff 1 2 0
+fruit 5 2 1
+froth 2 6 0

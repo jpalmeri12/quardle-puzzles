@@ -1,0 +1,5 @@
+7 10 mirror
+shrub 4 1 1
+curve 2 3 0
+bribe 1 5 0
+inane 3 5 1

@@ -1,0 +1,5 @@
+7 10 mirror
+reign 2 1 1
+snail 1 5 0
+latch 5 5 1
+ditty 2 7 0

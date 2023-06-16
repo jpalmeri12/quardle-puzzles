@@ -1,0 +1,5 @@
+6 9 mirror
+leafy 1 1 1
+least 1 1 0
+flown 1 4 0
+wooly 4 4 1

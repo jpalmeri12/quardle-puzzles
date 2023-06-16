@@ -1,0 +1,5 @@
+7 8 mirror
+croup 1 1 0
+plied 5 1 1
+sheik 2 3 0
+spied 2 3 1

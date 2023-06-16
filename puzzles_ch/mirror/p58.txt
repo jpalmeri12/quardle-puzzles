@@ -1,0 +1,5 @@
+7 9 mirror
+pixel 5 1 1
+basil 2 2 0
+azure 1 4 0
+aunty 1 4 1

@@ -1,0 +1,5 @@
+6 9 mirror
+clank 5 1 1
+canal 1 2 0
+alien 1 4 0
+lilac 2 4 1

@@ -1,0 +1,5 @@
+7 9 mirror
+fetid 4 1 1
+plaid 2 4 1
+plied 2 4 0
+ideal 1 8 0

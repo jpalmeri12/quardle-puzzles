@@ -1,0 +1,5 @@
+7 9 mirror
+afire 1 1 1
+rugby 1 4 0
+blade 4 4 1
+judge 2 7 0

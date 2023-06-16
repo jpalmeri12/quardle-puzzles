@@ -1,0 +1,5 @@
+7 9 mirror
+field 3 1 1
+prime 1 2 0
+aloft 2 4 0
+trail 6 4 1

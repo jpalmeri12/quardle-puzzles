@@ -1,0 +1,5 @@
+7 7 mirror
+sepia 2 1 1
+atoll 4 2 1
+patty 2 3 0
+ladle 1 5 0

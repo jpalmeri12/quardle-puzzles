@@ -1,0 +1,5 @@
+7 9 mirror
+amble 2 1 0
+lease 5 1 1
+widen 3 4 1
+urine 1 5 0

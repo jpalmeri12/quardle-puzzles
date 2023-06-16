@@ -1,0 +1,5 @@
+7 10 mirror
+toddy 2 1 0
+debit 5 1 1
+islet 1 5 0
+llama 3 5 1

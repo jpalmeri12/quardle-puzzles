@@ -1,0 +1,5 @@
+6 9 mirror
+ennui 3 1 1
+weigh 1 4 1
+exist 1 5 0
+giver 1 7 0

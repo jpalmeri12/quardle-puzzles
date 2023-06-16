@@ -1,0 +1,5 @@
+7 10 mirror
+turbo 5 1 1
+slurp 2 3 0
+curio 1 5 0
+udder 2 5 1

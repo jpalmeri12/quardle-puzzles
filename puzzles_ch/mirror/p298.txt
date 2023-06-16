@@ -1,0 +1,5 @@
+7 10 mirror
+navel 5 1 1
+alpha 1 2 0
+chalk 2 5 0
+howdy 3 5 1

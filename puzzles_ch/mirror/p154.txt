@@ -1,0 +1,5 @@
+7 9 mirror
+slate 1 1 0
+alibi 3 1 1
+plaid 5 4 1
+field 2 5 0

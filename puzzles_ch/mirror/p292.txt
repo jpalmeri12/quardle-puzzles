@@ -1,0 +1,5 @@
+7 10 mirror
+class 1 1 1
+story 1 5 0
+testy 2 5 1
+turbo 2 8 0

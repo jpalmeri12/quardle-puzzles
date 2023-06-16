@@ -1,0 +1,5 @@
+7 8 mirror
+satyr 6 1 1
+avail 4 3 1
+savvy 2 4 0
+angle 1 7 0

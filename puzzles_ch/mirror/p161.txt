@@ -1,0 +1,5 @@
+7 9 mirror
+qualm 1 1 0
+medal 5 1 1
+easel 3 4 1
+badly 2 5 0

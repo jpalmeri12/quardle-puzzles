@@ -1,0 +1,5 @@
+6 6 mirror
+clang 2 1 1
+unite 5 1 1
+slain 1 2 0
+agile 1 5 0

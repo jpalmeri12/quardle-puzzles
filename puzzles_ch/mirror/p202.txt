@@ -1,0 +1,5 @@
+7 9 mirror
+surer 1 1 1
+elbow 1 4 0
+worst 5 4 1
+fresh 2 7 0

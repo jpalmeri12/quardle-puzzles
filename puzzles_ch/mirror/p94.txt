@@ -1,0 +1,5 @@
+7 9 mirror
+tying 1 1 1
+pixie 3 4 1
+grief 1 5 0
+pique 2 7 0

@@ -1,0 +1,5 @@
+7 9 mirror
+recur 1 1 1
+plied 5 4 1
+rival 1 5 0
+timer 2 7 0

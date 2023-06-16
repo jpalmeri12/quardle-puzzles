@@ -1,0 +1,5 @@
+7 8 mirror
+basal 1 1 0
+laden 5 1 1
+ovine 2 3 1
+video 2 4 0

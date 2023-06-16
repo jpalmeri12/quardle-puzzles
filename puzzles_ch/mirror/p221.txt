@@ -1,0 +1,5 @@
+7 9 mirror
+slurp 4 1 1
+valid 2 2 0
+flora 1 4 0
+flown 1 4 1

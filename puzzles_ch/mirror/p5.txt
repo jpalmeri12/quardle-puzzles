@@ -1,0 +1,5 @@
+7 9 mirror
+modal 2 1 1
+scrum 4 4 1
+clack 1 5 0
+cruel 2 7 0

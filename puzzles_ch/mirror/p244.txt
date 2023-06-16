@@ -1,0 +1,5 @@
+6 7 mirror
+abled 1 1 1
+burst 1 2 0
+retry 3 2 1
+dirge 1 5 0

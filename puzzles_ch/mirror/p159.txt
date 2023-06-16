@@ -1,0 +1,5 @@
+6 7 mirror
+giver 4 1 1
+flier 2 2 1
+olive 1 3 0
+weird 1 5 0

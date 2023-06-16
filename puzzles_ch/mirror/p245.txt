@@ -1,0 +1,5 @@
+7 10 mirror
+tripe 5 1 1
+power 2 5 0
+whisk 4 5 1
+flake 1 9 0

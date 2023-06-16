@@ -1,0 +1,5 @@
+7 9 mirror
+rebus 2 1 0
+below 4 1 1
+scuba 1 4 1
+crown 1 5 0

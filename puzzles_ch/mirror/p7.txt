@@ -1,0 +1,5 @@
+7 9 mirror
+ethic 1 1 0
+cutie 5 1 1
+lurid 3 4 1
+ruder 2 5 0

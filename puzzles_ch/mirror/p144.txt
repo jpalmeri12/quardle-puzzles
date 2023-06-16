@@ -1,0 +1,5 @@
+7 9 mirror
+ennui 4 1 1
+drunk 1 3 0
+heist 6 4 1
+spine 2 5 0

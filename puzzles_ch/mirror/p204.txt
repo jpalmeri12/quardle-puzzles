@@ -1,0 +1,5 @@
+7 9 mirror
+plait 2 1 1
+flush 1 2 0
+relax 5 4 1
+tuber 2 5 0

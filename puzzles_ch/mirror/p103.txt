@@ -1,0 +1,5 @@
+7 9 mirror
+pearl 2 1 1
+rouse 2 4 0
+stick 5 4 1
+snuck 1 8 0

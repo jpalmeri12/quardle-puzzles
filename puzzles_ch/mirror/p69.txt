@@ -1,0 +1,5 @@
+7 8 mirror
+beech 1 1 0
+curio 4 1 1
+pasty 2 3 1
+smoky 2 5 0

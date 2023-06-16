@@ -1,0 +1,5 @@
+7 7 mirror
+purse 1 1 1
+niece 5 2 1
+snipe 1 4 0
+power 2 6 0

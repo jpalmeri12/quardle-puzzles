@@ -1,0 +1,5 @@
+7 9 mirror
+loyal 3 1 1
+shall 1 4 0
+large 5 4 1
+buggy 2 7 0

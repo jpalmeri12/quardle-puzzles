@@ -1,0 +1,5 @@
+7 10 mirror
+ultra 1 1 1
+alibi 1 5 0
+birch 4 5 1
+lurid 2 7 0

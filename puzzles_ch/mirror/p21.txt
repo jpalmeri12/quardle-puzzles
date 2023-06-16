@@ -1,0 +1,5 @@
+7 9 mirror
+leapt 1 1 1
+pubic 1 4 0
+crump 5 4 1
+torus 2 6 0

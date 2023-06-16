@@ -1,0 +1,5 @@
+6 8 mirror
+toddy 1 1 1
+tripe 1 1 0
+cyber 5 3 1
+dowry 1 4 0

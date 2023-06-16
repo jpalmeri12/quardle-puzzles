@@ -1,0 +1,5 @@
+7 8 mirror
+tasty 2 1 0
+steak 4 1 1
+matey 1 3 0
+aloft 2 3 1

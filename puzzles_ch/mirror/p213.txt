@@ -1,0 +1,5 @@
+6 9 mirror
+truss 1 1 1
+tally 1 1 0
+story 1 4 0
+ovine 3 4 1
