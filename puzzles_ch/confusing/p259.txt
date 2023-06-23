@@ -1,0 +1,5 @@
+6 9 confusing
+genie 1 1 1
+eclat 1 2 0
+index 1 4 0
+elate 4 4 1

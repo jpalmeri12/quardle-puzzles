@@ -1,0 +1,5 @@
+7 8 confusing
+angry 1 1 1
+trite 4 3 1
+retro 1 4 0
+treat 2 7 0

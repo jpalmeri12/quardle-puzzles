@@ -1,0 +1,5 @@
+7 10 confusing
+tunic 1 1 1
+coast 1 5 0
+sumac 4 5 1
+admit 2 7 0

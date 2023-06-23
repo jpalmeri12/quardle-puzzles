@@ -1,0 +1,5 @@
+7 10 confusing
+labor 2 1 0
+blind 4 1 1
+heady 1 5 0
+avail 3 5 1

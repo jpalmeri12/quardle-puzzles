@@ -1,0 +1,5 @@
+6 8 confusing
+cobra 1 1 0
+aping 5 1 1
+wrung 2 3 1
+suing 1 5 0

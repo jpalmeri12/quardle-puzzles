@@ -1,0 +1,5 @@
+7 9 confusing
+polyp 5 1 1
+arson 2 2 0
+bully 1 4 0
+lurid 3 4 1

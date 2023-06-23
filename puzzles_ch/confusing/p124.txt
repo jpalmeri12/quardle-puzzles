@@ -1,0 +1,5 @@
+6 8 confusing
+forte 1 1 0
+fetus 1 1 1
+pupal 4 3 1
+soapy 1 5 0

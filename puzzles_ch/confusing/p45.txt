@@ -1,0 +1,5 @@
+6 9 confusing
+quasi 2 1 1
+scald 4 4 1
+birch 1 5 0
+muddy 1 8 0

@@ -1,0 +1,5 @@
+7 10 confusing
+loyal 1 1 0
+yearn 3 1 1
+endow 2 5 0
+octal 5 5 1

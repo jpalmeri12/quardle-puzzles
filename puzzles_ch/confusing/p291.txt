@@ -1,0 +1,5 @@
+7 10 confusing
+copse 4 1 1
+diner 1 5 0
+regal 5 5 1
+weigh 2 7 0

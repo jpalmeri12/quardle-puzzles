@@ -1,0 +1,5 @@
+7 9 confusing
+slant 2 1 0
+locus 3 1 1
+grimy 1 4 1
+riser 1 5 0

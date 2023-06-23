@@ -1,0 +1,5 @@
+7 10 confusing
+slimy 4 1 1
+dolly 1 2 0
+kayak 2 5 0
+abide 5 5 1

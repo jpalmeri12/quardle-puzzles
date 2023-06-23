@@ -1,0 +1,5 @@
+7 10 confusing
+quasi 4 1 1
+queue 1 2 0
+triad 2 5 0
+thorn 2 5 1

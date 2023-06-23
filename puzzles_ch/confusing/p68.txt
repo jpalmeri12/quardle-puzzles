@@ -1,0 +1,5 @@
+6 8 confusing
+tight 5 1 1
+tepee 3 3 1
+teeth 1 4 0
+liege 1 7 0

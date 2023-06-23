@@ -1,0 +1,5 @@
+7 10 confusing
+roost 6 1 1
+posit 2 5 0
+prism 2 5 1
+ridge 1 7 0

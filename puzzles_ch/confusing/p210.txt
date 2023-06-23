@@ -1,0 +1,5 @@
+7 9 confusing
+queer 3 1 1
+guile 2 2 0
+treat 1 4 0
+tiara 5 4 1

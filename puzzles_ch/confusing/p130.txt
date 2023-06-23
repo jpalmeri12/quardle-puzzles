@@ -1,0 +1,5 @@
+7 9 confusing
+chief 2 1 1
+showy 1 2 0
+needy 4 4 1
+fleck 2 5 0

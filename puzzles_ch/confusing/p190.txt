@@ -1,0 +1,5 @@
+7 9 confusing
+mimic 1 1 1
+delay 5 4 1
+crude 1 5 0
+pedal 2 7 0

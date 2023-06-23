@@ -1,0 +1,5 @@
+7 9 confusing
+field 5 1 1
+fungi 1 2 0
+scout 2 4 1
+crude 2 5 0

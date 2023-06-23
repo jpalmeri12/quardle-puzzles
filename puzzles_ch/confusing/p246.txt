@@ -1,0 +1,5 @@
+7 8 confusing
+stiff 4 1 1
+maize 2 3 0
+macho 2 3 1
+scoff 1 5 0

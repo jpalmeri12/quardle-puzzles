@@ -1,0 +1,5 @@
+7 10 confusing
+detox 6 1 1
+affix 2 5 0
+frisk 3 5 1
+sassy 1 8 0

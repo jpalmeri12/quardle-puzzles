@@ -1,0 +1,5 @@
+7 10 confusing
+roger 6 1 1
+miser 2 5 0
+elegy 5 5 1
+noble 1 7 0

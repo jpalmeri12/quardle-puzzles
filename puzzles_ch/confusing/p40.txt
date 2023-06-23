@@ -1,0 +1,5 @@
+6 8 confusing
+angel 2 1 1
+hazel 4 3 1
+repay 1 4 0
+exalt 1 7 0

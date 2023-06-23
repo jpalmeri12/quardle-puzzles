@@ -1,0 +1,5 @@
+7 9 confusing
+scion 2 1 0
+cross 3 1 1
+gloss 1 4 1
+lasso 1 5 0

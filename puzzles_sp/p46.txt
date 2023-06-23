@@ -1,0 +1,5 @@
+7 7 confusing
+admin 3 1 1
+vodka 1 2 0
+aging 5 2 1
+civil 2 4 0

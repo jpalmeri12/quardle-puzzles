@@ -1,0 +1,5 @@
+7 10 confusing
+braid 5 1 1
+opera 1 3 0
+randy 2 5 0
+alien 3 5 1

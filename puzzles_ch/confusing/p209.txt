@@ -1,0 +1,5 @@
+7 8 confusing
+decry 6 1 1
+lowly 3 3 1
+polar 2 4 0
+payee 1 7 0

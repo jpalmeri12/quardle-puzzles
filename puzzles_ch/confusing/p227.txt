@@ -1,0 +1,5 @@
+7 7 confusing
+rival 1 1 1
+quirk 4 2 1
+audit 1 4 0
+token 2 6 0

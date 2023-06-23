@@ -1,0 +1,5 @@
+7 7 confusing
+tepid 2 1 1
+epoch 2 2 0
+opium 4 2 1
+civil 1 4 0

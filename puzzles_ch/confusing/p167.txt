@@ -1,0 +1,5 @@
+7 9 confusing
+aglow 1 1 1
+strut 4 4 1
+white 1 5 0
+stuff 2 7 0

@@ -1,0 +1,5 @@
+7 7 confusing
+ocean 4 1 1
+macaw 2 2 0
+melee 2 2 1
+cloak 1 4 0

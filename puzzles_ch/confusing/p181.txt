@@ -1,0 +1,5 @@
+6 9 confusing
+bicep 1 1 0
+plain 5 1 1
+aglow 1 4 1
+groan 1 5 0

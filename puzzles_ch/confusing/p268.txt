@@ -1,0 +1,5 @@
+7 9 confusing
+fence 5 1 1
+sheet 2 2 0
+randy 2 4 1
+gauze 1 5 0

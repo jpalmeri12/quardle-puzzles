@@ -1,0 +1,5 @@
+7 8 confusing
+puffy 6 1 1
+ladle 4 3 1
+dwarf 2 4 0
+golem 1 7 0

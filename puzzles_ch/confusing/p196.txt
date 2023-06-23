@@ -1,0 +1,5 @@
+7 10 confusing
+queer 5 1 1
+gamut 2 2 0
+ruder 1 5 0
+unify 2 5 1

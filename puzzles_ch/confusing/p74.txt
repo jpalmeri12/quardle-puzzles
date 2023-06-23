@@ -1,0 +1,5 @@
+7 10 confusing
+doing 5 1 1
+curio 2 3 0
+wrung 1 5 0
+would 1 5 1

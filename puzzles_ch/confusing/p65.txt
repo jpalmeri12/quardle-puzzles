@@ -1,0 +1,5 @@
+7 10 confusing
+piper 3 1 1
+spark 2 3 0
+moron 1 5 0
+orbit 2 5 1

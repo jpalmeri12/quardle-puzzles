@@ -1,0 +1,5 @@
+7 10 confusing
+genre 6 1 1
+shame 2 5 0
+month 5 5 1
+admin 1 7 0

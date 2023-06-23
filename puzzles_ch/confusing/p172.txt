@@ -1,0 +1,5 @@
+7 10 confusing
+qualm 4 1 1
+heavy 2 3 0
+chain 1 5 1
+crumb 1 5 0

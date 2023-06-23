@@ -1,0 +1,5 @@
+7 10 confusing
+enemy 2 1 0
+mince 5 1 1
+phase 1 5 0
+shell 4 5 1

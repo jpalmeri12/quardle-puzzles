@@ -1,0 +1,5 @@
+7 9 confusing
+banjo 2 1 1
+wench 4 4 1
+golem 1 5 0
+facet 2 7 0

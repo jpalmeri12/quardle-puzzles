@@ -1,0 +1,5 @@
+7 9 confusing
+cater 2 1 0
+aloof 3 1 1
+droop 1 4 0
+daunt 1 4 1

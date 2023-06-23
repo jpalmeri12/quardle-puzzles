@@ -1,0 +1,5 @@
+7 9 confusing
+quoth 2 1 1
+trove 4 4 1
+harpy 2 5 0
+nerve 1 7 0

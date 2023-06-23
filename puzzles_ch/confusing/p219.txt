@@ -1,0 +1,5 @@
+7 9 confusing
+unzip 1 1 0
+ninth 2 1 1
+tulle 2 4 0
+lumpy 5 4 1

@@ -1,0 +1,5 @@
+6 8 confusing
+creed 1 1 1
+clock 1 1 0
+ready 3 3 1
+drape 1 5 0

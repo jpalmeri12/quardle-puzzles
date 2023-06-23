@@ -1,0 +1,5 @@
+7 10 confusing
+threw 2 1 1
+crisp 1 3 0
+wench 2 5 0
+carat 5 5 1

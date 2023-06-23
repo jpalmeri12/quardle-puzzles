@@ -1,0 +1,5 @@
+7 8 confusing
+scrub 1 1 0
+cider 2 1 1
+cycle 6 3 1
+essay 2 4 0

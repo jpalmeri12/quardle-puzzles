@@ -1,0 +1,5 @@
+7 10 confusing
+algae 2 1 0
+gloss 4 1 1
+slosh 1 5 0
+leant 2 5 1

@@ -1,0 +1,5 @@
+7 9 confusing
+shove 5 1 1
+salsa 3 4 1
+camel 2 5 0
+pesky 1 7 0

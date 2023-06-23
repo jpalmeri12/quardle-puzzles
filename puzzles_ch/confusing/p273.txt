@@ -1,0 +1,5 @@
+6 6 confusing
+omega 1 1 1
+azure 4 1 1
+maize 1 2 0
+glare 1 4 0

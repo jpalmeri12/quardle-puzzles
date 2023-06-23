@@ -1,0 +1,5 @@
+7 8 confusing
+grasp 2 1 1
+lucky 5 3 1
+peach 2 5 0
+parry 1 7 0

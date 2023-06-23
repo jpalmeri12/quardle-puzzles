@@ -1,0 +1,5 @@
+6 9 confusing
+court 3 1 1
+croup 1 2 0
+worth 1 4 0
+write 1 4 1

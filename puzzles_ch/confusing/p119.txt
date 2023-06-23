@@ -1,0 +1,5 @@
+7 10 confusing
+wedge 5 1 1
+gaudy 2 3 0
+dodge 1 5 0
+dough 3 5 1

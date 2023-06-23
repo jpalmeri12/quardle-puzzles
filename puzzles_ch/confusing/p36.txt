@@ -1,0 +1,5 @@
+7 9 confusing
+manga 3 1 1
+sassy 2 2 0
+felon 5 4 1
+knave 1 5 0

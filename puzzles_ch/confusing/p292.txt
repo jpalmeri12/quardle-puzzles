@@ -1,0 +1,5 @@
+7 10 confusing
+slink 1 1 1
+karma 1 5 0
+annul 2 5 1
+undid 2 8 0

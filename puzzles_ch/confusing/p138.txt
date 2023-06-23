@@ -1,0 +1,5 @@
+7 9 confusing
+slump 1 1 0
+manor 4 1 1
+adobe 2 4 0
+eking 6 4 1

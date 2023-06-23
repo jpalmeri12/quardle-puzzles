@@ -1,0 +1,5 @@
+7 9 confusing
+betel 2 1 0
+banjo 2 1 1
+slack 4 4 1
+godly 1 5 0

@@ -1,0 +1,5 @@
+7 9 confusing
+batch 1 1 0
+horde 5 1 1
+heady 2 4 0
+empty 3 4 1

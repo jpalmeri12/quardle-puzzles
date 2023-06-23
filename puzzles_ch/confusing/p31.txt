@@ -1,0 +1,5 @@
+7 9 confusing
+faith 1 1 1
+thyme 1 4 0
+midge 4 4 1
+segue 2 7 0

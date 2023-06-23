@@ -1,0 +1,5 @@
+7 10 confusing
+jiffy 5 1 1
+fluff 2 3 0
+entry 1 5 0
+nasal 2 5 1

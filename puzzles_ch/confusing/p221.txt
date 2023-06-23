@@ -1,0 +1,5 @@
+6 9 confusing
+outdo 4 1 1
+agony 1 4 1
+groom 1 5 0
+nerve 1 7 0

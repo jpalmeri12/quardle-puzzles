@@ -1,0 +1,5 @@
+7 8 confusing
+scrub 1 1 1
+array 3 3 1
+birch 1 5 0
+hymen 2 7 0

@@ -1,0 +1,5 @@
+7 10 confusing
+aware 3 1 1
+dowdy 1 2 0
+decal 2 5 0
+dally 2 5 1

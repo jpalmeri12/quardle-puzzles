@@ -1,0 +1,5 @@
+7 7 confusing
+kayak 6 1 1
+crock 4 2 1
+foray 2 3 0
+khaki 1 6 0

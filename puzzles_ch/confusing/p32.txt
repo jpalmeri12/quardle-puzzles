@@ -1,0 +1,5 @@
+7 9 confusing
+suing 5 1 1
+brain 2 4 1
+blind 2 4 0
+video 1 7 0

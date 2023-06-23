@@ -1,0 +1,5 @@
+7 8 confusing
+usher 1 1 0
+swarm 2 1 1
+shone 6 3 1
+ranch 2 4 0

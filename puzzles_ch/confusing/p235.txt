@@ -1,0 +1,5 @@
+7 10 confusing
+peril 2 1 0
+rayon 4 1 1
+spiny 1 5 0
+infer 3 5 1

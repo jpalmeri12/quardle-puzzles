@@ -1,0 +1,5 @@
+6 10 confusing
+recut 1 1 1
+tidal 1 5 0
+digit 3 5 1
+tiger 1 7 0

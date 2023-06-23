@@ -1,0 +1,5 @@
+6 8 confusing
+dusty 1 1 0
+showy 3 1 1
+dross 5 3 1
+rower 1 4 0

@@ -1,0 +1,5 @@
+7 8 confusing
+stool 1 1 0
+trail 2 1 1
+argue 2 3 0
+until 5 3 1

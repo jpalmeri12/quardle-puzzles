@@ -1,0 +1,5 @@
+7 10 confusing
+gloat 5 1 1
+ingot 2 3 0
+midst 1 5 0
+inlet 2 5 1

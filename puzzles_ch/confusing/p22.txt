@@ -1,0 +1,5 @@
+7 10 confusing
+avert 2 1 0
+vying 3 1 1
+wager 1 5 0
+roach 5 5 1

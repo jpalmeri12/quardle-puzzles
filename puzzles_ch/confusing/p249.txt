@@ -1,0 +1,5 @@
+7 10 confusing
+grove 4 1 1
+adept 2 5 0
+dowdy 3 5 1
+lowly 1 7 0

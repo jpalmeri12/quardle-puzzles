@@ -1,0 +1,5 @@
+7 9 confusing
+chart 1 1 0
+realm 4 1 1
+steel 6 4 1
+admit 2 5 0

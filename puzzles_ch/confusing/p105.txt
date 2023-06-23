@@ -1,0 +1,5 @@
+7 9 confusing
+cigar 6 1 1
+hinge 4 4 1
+drier 2 5 0
+siege 1 7 0

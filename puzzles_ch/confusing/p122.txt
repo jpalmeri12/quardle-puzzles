@@ -1,0 +1,5 @@
+6 9 confusing
+elegy 1 1 0
+loath 2 1 1
+peril 4 4 1
+cheek 1 5 0

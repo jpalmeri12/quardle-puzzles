@@ -1,0 +1,5 @@
+7 10 confusing
+burst 2 1 1
+humid 1 2 0
+twine 2 5 0
+islet 4 5 1

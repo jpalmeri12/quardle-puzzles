@@ -1,0 +1,5 @@
+7 10 confusing
+goose 4 1 1
+flown 2 2 0
+rarer 1 5 0
+reedy 1 5 1

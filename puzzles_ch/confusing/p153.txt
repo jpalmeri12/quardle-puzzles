@@ -1,0 +1,5 @@
+6 8 confusing
+fight 1 1 0
+gumbo 3 1 1
+stone 5 3 1
+debut 1 4 0

@@ -1,0 +1,5 @@
+7 9 confusing
+afoul 2 1 0
+flora 3 1 1
+abate 1 4 1
+blare 1 5 0

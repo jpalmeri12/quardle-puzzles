@@ -1,0 +1,5 @@
+7 9 confusing
+vinyl 6 1 1
+tacky 2 4 0
+colon 4 4 1
+scaly 1 6 0

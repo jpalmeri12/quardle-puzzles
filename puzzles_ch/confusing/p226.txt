@@ -1,0 +1,5 @@
+7 9 confusing
+ruder 2 1 1
+raspy 2 1 0
+leash 1 4 0
+spree 4 4 1

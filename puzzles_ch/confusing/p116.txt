@@ -1,0 +1,5 @@
+6 10 confusing
+renal 5 1 1
+boule 1 2 0
+mason 1 5 1
+mural 1 5 0

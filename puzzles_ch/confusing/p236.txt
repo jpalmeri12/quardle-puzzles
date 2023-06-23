@@ -1,0 +1,5 @@
+6 9 confusing
+roomy 1 1 1
+maybe 1 4 0
+baste 4 4 1
+smite 1 7 0

@@ -1,0 +1,5 @@
+7 9 confusing
+women 5 1 1
+tarot 2 2 0
+utile 1 4 0
+ingot 3 4 1

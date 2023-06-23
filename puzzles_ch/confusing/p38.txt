@@ -1,0 +1,5 @@
+7 9 confusing
+manic 4 1 1
+ahead 1 2 0
+swirl 2 4 0
+leper 6 4 1

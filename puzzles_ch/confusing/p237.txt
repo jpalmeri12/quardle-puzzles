@@ -1,0 +1,5 @@
+6 7 confusing
+swath 2 1 1
+swept 1 2 0
+plate 4 2 1
+steak 1 4 0

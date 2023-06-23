@@ -1,0 +1,5 @@
+6 8 confusing
+shawl 1 1 1
+spunk 5 3 1
+whoop 1 4 0
+wrack 1 7 0

@@ -1,0 +1,5 @@
+7 9 confusing
+floss 6 1 1
+slide 3 4 1
+glass 2 5 0
+madly 1 7 0

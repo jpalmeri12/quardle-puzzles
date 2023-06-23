@@ -1,0 +1,5 @@
+7 7 confusing
+sewer 2 1 1
+ethos 2 2 0
+humph 4 2 1
+graph 1 5 0

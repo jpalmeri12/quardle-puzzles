@@ -1,0 +1,5 @@
+6 8 confusing
+glass 1 1 0
+shade 4 1 1
+tripe 2 3 1
+erode 1 4 0

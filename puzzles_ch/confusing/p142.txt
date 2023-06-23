@@ -1,0 +1,5 @@
+7 10 confusing
+hairy 6 1 1
+golly 2 5 0
+learn 5 5 1
+polka 1 7 0

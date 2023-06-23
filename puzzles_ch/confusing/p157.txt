@@ -1,0 +1,5 @@
+7 9 confusing
+rerun 1 1 0
+rural 3 1 1
+reach 6 4 1
+elope 2 5 0

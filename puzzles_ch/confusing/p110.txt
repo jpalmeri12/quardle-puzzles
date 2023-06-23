@@ -1,0 +1,5 @@
+7 10 confusing
+fungi 3 1 1
+thief 1 5 0
+flush 5 5 1
+revue 2 7 0

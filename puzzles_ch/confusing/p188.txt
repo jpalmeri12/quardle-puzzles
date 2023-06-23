@@ -1,0 +1,5 @@
+7 9 confusing
+gecko 6 1 1
+match 3 4 1
+lasso 2 5 0
+cacti 1 7 0

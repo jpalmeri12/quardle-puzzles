@@ -1,0 +1,5 @@
+7 9 confusing
+plump 2 1 1
+mason 2 4 0
+sorry 4 4 1
+vinyl 1 8 0

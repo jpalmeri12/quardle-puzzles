@@ -1,0 +1,5 @@
+7 8 confusing
+hippo 2 1 0
+poker 5 1 1
+flask 1 3 0
+abase 3 3 1
