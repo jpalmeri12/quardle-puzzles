@@ -1,0 +1,5 @@
+7 9 dictattack
+crept 2 1 1
+patty 2 4 0
+torch 4 4 1
+notch 1 7 0

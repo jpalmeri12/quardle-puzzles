@@ -1,0 +1,5 @@
+7 10 dictattack
+bayou 3 1 1
+duchy 2 5 0
+holly 5 5 1
+betel 1 7 0

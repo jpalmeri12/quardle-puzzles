@@ -1,0 +1,5 @@
+6 9 dictattack
+girly 2 1 1
+clasp 1 4 0
+sewer 4 4 1
+honey 1 7 0

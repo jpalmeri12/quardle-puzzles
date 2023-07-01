@@ -1,0 +1,5 @@
+7 7 dictattack
+tibia 3 1 1
+hilly 2 2 0
+lymph 5 2 1
+idiom 1 4 0

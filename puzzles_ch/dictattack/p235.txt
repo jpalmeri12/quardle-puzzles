@@ -1,0 +1,5 @@
+7 9 dictattack
+rajah 4 1 1
+bloat 1 2 0
+scary 2 4 0
+yearn 6 4 1

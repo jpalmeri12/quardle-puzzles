@@ -1,0 +1,5 @@
+7 7 dictattack
+quart 1 1 1
+nymph 3 2 1
+rumba 1 4 0
+shoal 2 6 0

@@ -1,0 +1,5 @@
+7 9 dictattack
+mercy 3 1 1
+exert 1 2 0
+scant 2 4 0
+nadir 5 4 1

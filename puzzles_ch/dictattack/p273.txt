@@ -1,0 +1,5 @@
+6 6 dictattack
+unmet 3 1 1
+befit 5 1 1
+fence 1 2 0
+octet 1 5 0

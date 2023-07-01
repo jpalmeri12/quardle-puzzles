@@ -1,0 +1,5 @@
+7 9 dictattack
+llama 5 1 1
+stare 2 4 1
+tweak 2 5 0
+femme 1 8 0

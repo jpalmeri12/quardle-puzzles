@@ -1,0 +1,5 @@
+7 8 dictattack
+wafer 1 1 0
+fella 3 1 1
+slunk 2 3 0
+naval 5 3 1

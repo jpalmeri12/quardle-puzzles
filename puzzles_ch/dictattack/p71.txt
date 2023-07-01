@@ -1,0 +1,5 @@
+7 10 dictattack
+slate 6 1 1
+booby 2 5 1
+bugle 2 5 0
+porch 1 7 0

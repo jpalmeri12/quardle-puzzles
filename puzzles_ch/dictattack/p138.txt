@@ -1,0 +1,5 @@
+7 10 dictattack
+rehab 1 1 1
+blare 1 5 0
+arson 3 5 1
+anvil 2 9 0

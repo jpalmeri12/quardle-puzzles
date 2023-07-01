@@ -1,0 +1,5 @@
+7 9 dictattack
+golem 1 1 1
+artsy 5 4 1
+miner 1 5 0
+satyr 2 8 0

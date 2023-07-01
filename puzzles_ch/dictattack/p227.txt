@@ -1,0 +1,5 @@
+7 10 dictattack
+dogma 1 1 1
+agora 1 5 0
+anode 5 5 1
+bison 2 7 0

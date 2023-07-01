@@ -1,0 +1,5 @@
+7 8 dictattack
+humus 1 1 1
+jolly 4 3 1
+surly 1 5 0
+tryst 2 7 0

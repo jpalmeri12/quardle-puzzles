@@ -1,0 +1,5 @@
+7 10 dictattack
+terra 2 1 1
+ashen 2 5 0
+sandy 3 5 1
+munch 1 7 0

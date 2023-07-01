@@ -1,0 +1,5 @@
+7 8 dictattack
+juicy 4 1 1
+mogul 1 2 0
+stove 6 3 1
+tacit 2 4 0

@@ -1,0 +1,5 @@
+6 10 dictattack
+abase 1 1 1
+edify 1 5 0
+droop 2 5 1
+upset 1 9 0

@@ -1,0 +1,5 @@
+7 9 dictattack
+froth 6 1 1
+wrist 2 4 0
+rivet 3 4 1
+bevel 1 6 0

@@ -1,0 +1,5 @@
+7 8 dictattack
+smock 2 1 1
+steak 2 1 0
+loamy 1 3 0
+midge 4 3 1

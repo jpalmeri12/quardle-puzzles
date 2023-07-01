@@ -1,0 +1,5 @@
+7 8 dictattack
+abase 1 1 1
+icing 4 3 1
+smack 1 4 0
+diner 2 6 0

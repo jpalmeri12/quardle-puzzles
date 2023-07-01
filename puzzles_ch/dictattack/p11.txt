@@ -1,0 +1,5 @@
+7 8 dictattack
+emcee 4 1 1
+goofy 2 3 1
+coven 1 4 0
+yacht 2 7 0

@@ -1,0 +1,5 @@
+6 9 dictattack
+uncut 2 1 1
+knave 1 2 0
+junto 1 4 0
+outer 5 4 1

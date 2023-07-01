@@ -1,0 +1,5 @@
+7 10 dictattack
+bigot 5 1 1
+evade 2 5 1
+elite 2 5 0
+baler 1 7 0

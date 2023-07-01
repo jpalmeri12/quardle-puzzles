@@ -1,0 +1,5 @@
+6 8 dictattack
+snaky 5 1 1
+ascot 1 3 1
+slink 1 4 0
+toast 1 7 0

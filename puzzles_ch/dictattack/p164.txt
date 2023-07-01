@@ -1,0 +1,5 @@
+7 10 dictattack
+sushi 2 1 1
+slime 2 1 0
+gnash 1 5 1
+giddy 1 5 0

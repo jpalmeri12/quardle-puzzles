@@ -1,0 +1,5 @@
+6 7 dictattack
+forte 2 1 1
+toast 1 2 0
+sperm 4 2 1
+otter 1 4 0

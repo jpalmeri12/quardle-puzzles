@@ -1,0 +1,5 @@
+7 10 dictattack
+myrrh 1 1 1
+humus 1 5 0
+sooty 5 5 1
+satyr 2 9 0

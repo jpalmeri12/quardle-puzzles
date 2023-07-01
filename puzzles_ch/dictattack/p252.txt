@@ -1,0 +1,5 @@
+7 9 dictattack
+swift 6 1 1
+scoff 2 4 0
+snack 2 4 1
+scent 1 7 0

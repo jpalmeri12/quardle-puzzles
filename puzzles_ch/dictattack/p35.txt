@@ -1,0 +1,5 @@
+7 10 dictattack
+cramp 4 1 1
+tidal 1 3 0
+lapel 2 5 0
+abled 3 5 1

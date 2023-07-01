@@ -1,0 +1,5 @@
+7 8 dictattack
+jumbo 2 1 1
+modal 2 3 0
+alibi 5 3 1
+swami 1 7 0

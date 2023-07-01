@@ -1,0 +1,5 @@
+6 6 dictattack
+squad 1 1 1
+wager 3 1 1
+quail 1 2 0
+dirge 1 5 0

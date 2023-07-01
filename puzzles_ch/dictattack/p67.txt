@@ -1,0 +1,5 @@
+7 8 dictattack
+knelt 4 1 1
+lunar 2 3 1
+leery 2 3 0
+unity 1 5 0

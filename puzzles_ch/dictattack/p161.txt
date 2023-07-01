@@ -1,0 +1,5 @@
+6 8 dictattack
+porch 2 1 1
+curse 4 3 1
+whirl 1 5 0
+expel 1 7 0

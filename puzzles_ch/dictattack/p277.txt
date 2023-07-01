@@ -1,0 +1,5 @@
+7 7 dictattack
+brake 2 1 1
+bleed 4 2 1
+allot 2 3 0
+bezel 1 5 0

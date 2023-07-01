@@ -1,0 +1,5 @@
+7 10 dictattack
+blink 6 1 1
+stare 2 5 1
+skunk 2 5 0
+fatal 1 7 0

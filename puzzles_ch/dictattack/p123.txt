@@ -1,0 +1,5 @@
+7 9 dictattack
+curve 6 1 1
+segue 3 4 1
+wedge 2 5 0
+beech 1 8 0

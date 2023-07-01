@@ -1,0 +1,5 @@
+7 10 dictattack
+guile 4 1 1
+skulk 2 2 0
+preen 1 5 0
+penne 1 5 1

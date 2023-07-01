@@ -1,0 +1,5 @@
+7 10 dictattack
+quill 3 1 1
+siren 2 3 0
+gulch 1 5 0
+gecko 1 5 1

@@ -1,0 +1,5 @@
+7 10 dictattack
+quasi 4 1 1
+stair 2 3 0
+lyric 1 5 0
+rabid 3 5 1

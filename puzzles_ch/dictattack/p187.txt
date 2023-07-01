@@ -1,0 +1,5 @@
+7 10 dictattack
+truss 4 1 1
+stunk 2 3 0
+amuse 1 5 0
+utile 3 5 1

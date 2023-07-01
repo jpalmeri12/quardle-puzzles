@@ -1,0 +1,5 @@
+7 9 dictattack
+lemon 1 1 1
+ounce 1 4 0
+niece 3 4 1
+scamp 2 7 0

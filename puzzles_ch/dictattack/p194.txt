@@ -1,0 +1,5 @@
+7 9 dictattack
+yeast 2 1 0
+stark 5 1 1
+wager 1 4 0
+weird 1 4 1

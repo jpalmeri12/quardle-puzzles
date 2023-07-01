@@ -1,0 +1,5 @@
+7 7 dictattack
+stead 3 1 1
+hutch 1 2 0
+hover 5 2 1
+carve 2 4 0

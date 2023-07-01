@@ -1,0 +1,5 @@
+7 9 dictattack
+polyp 6 1 1
+jiffy 2 4 0
+juror 2 4 1
+voila 1 7 0

@@ -1,0 +1,5 @@
+7 9 dictattack
+abase 5 1 1
+blurb 1 2 0
+noose 2 4 0
+onset 3 4 1

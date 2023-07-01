@@ -1,0 +1,5 @@
+7 10 dictattack
+flock 5 1 1
+stork 1 5 0
+tulip 2 5 1
+incur 2 8 0

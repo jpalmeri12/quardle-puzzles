@@ -1,0 +1,5 @@
+7 10 dictattack
+agora 4 1 1
+brood 2 3 0
+scram 1 5 0
+rival 3 5 1

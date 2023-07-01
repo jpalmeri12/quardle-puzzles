@@ -1,0 +1,5 @@
+6 8 dictattack
+finch 1 1 0
+cumin 4 1 1
+thyme 1 3 0
+hippo 2 3 1

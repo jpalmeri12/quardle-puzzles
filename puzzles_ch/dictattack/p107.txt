@@ -1,0 +1,5 @@
+7 10 dictattack
+quasi 5 1 1
+aorta 1 3 0
+curio 2 5 0
+cider 2 5 1

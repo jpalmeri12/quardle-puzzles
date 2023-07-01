@@ -1,0 +1,5 @@
+6 10 dictattack
+sushi 2 1 1
+rifle 1 5 0
+fluke 3 5 1
+woken 1 8 0

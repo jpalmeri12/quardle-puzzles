@@ -1,0 +1,5 @@
+7 10 dictattack
+leapt 5 1 1
+zonal 2 3 0
+habit 1 5 0
+amaze 2 5 1

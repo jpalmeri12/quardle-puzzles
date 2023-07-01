@@ -1,0 +1,5 @@
+7 9 dictattack
+snake 2 1 0
+khaki 5 1 1
+shook 1 4 0
+screw 1 4 1

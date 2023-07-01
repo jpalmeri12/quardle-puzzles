@@ -1,0 +1,5 @@
+7 9 dictattack
+ninja 5 1 1
+krill 3 4 1
+groan 2 5 0
+dilly 1 7 0

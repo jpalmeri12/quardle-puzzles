@@ -1,0 +1,5 @@
+7 10 dictattack
+incur 1 1 0
+cramp 3 1 1
+spawn 2 5 0
+spoof 2 5 1

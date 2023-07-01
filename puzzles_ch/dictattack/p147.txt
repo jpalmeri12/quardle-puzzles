@@ -1,0 +1,5 @@
+7 9 dictattack
+kappa 2 1 0
+polyp 5 1 1
+minty 1 4 0
+nosey 3 4 1

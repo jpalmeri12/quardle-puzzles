@@ -1,0 +1,5 @@
+7 9 dictattack
+plumb 1 1 1
+octet 3 4 1
+bicep 1 5 0
+stork 2 8 0

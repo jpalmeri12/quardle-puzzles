@@ -1,0 +1,5 @@
+7 7 dictattack
+credo 2 1 1
+crumb 1 2 0
+mango 4 2 1
+organ 2 5 0

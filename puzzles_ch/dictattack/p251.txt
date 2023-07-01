@@ -1,0 +1,5 @@
+6 7 dictattack
+bused 1 1 1
+skate 4 2 1
+smoky 1 3 0
+ditto 1 5 0

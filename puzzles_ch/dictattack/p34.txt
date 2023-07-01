@@ -1,0 +1,5 @@
+7 9 dictattack
+berry 1 1 0
+revue 4 1 1
+blunt 2 4 0
+borax 2 4 1

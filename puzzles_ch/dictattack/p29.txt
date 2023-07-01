@@ -1,0 +1,5 @@
+7 10 dictattack
+cigar 3 1 1
+shrew 1 5 0
+holly 2 5 1
+lemon 2 7 0

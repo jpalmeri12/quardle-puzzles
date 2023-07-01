@@ -1,0 +1,5 @@
+7 10 dictattack
+gruff 4 1 1
+furor 2 2 0
+comfy 1 5 0
+yearn 5 5 1

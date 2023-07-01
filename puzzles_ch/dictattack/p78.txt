@@ -1,0 +1,5 @@
+7 9 dictattack
+gypsy 1 1 0
+snout 4 1 1
+tying 6 4 1
+petty 2 5 0

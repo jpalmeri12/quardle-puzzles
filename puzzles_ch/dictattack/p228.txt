@@ -1,0 +1,5 @@
+7 10 dictattack
+zebra 2 1 1
+rajah 1 5 0
+junta 3 5 1
+anger 2 7 0

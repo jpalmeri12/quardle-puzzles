@@ -1,0 +1,5 @@
+7 9 dictattack
+elder 2 1 0
+dense 4 1 1
+tipsy 1 4 0
+ivory 2 4 1

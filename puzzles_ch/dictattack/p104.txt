@@ -1,0 +1,5 @@
+6 6 dictattack
+debit 3 1 1
+drunk 5 1 1
+cheer 1 2 0
+onion 1 4 0

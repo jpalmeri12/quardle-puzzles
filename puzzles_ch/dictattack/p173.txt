@@ -1,0 +1,5 @@
+7 9 dictattack
+zonal 5 1 1
+segue 3 4 1
+steal 1 5 0
+purge 2 7 0

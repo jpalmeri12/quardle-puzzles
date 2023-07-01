@@ -1,0 +1,5 @@
+7 8 dictattack
+habit 1 1 1
+blimp 1 3 0
+pupil 5 3 1
+filly 2 7 0

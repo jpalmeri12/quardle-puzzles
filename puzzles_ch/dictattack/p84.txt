@@ -1,0 +1,5 @@
+6 8 dictattack
+aphid 2 1 1
+shack 1 3 0
+crier 4 3 1
+agora 1 7 0

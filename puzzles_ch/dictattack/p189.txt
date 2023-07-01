@@ -1,0 +1,5 @@
+7 7 dictattack
+lorry 5 1 1
+taboo 1 2 0
+bevel 3 2 1
+avert 2 4 0

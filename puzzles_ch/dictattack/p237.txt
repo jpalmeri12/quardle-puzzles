@@ -1,0 +1,5 @@
+6 9 dictattack
+beret 1 1 1
+eking 1 2 0
+elfin 1 4 0
+filer 3 4 1

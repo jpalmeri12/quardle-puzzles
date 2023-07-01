@@ -1,0 +1,5 @@
+7 9 dictattack
+cutie 5 1 1
+bayou 1 2 0
+await 2 4 0
+angry 2 4 1

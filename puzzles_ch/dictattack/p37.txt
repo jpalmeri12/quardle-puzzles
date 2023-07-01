@@ -1,0 +1,5 @@
+7 8 dictattack
+ether 1 1 0
+humid 3 1 1
+smash 2 3 0
+skull 5 3 1

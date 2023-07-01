@@ -1,0 +1,5 @@
+6 8 dictattack
+slope 1 1 1
+snake 1 1 0
+privy 3 3 1
+peril 1 4 0

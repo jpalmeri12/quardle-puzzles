@@ -1,0 +1,5 @@
+7 10 dictattack
+mafia 2 1 1
+arise 2 5 0
+sober 5 5 1
+climb 1 7 0

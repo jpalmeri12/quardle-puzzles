@@ -1,0 +1,5 @@
+7 9 dictattack
+unmet 4 1 1
+topaz 2 4 1
+otter 2 5 0
+barge 1 7 0

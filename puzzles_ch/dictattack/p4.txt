@@ -1,0 +1,5 @@
+7 9 dictattack
+lusty 2 1 0
+lucid 2 1 1
+trait 5 4 1
+odder 1 5 0

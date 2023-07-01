@@ -1,0 +1,5 @@
+7 10 dictattack
+rhino 3 1 1
+usher 1 2 0
+woozy 2 5 0
+wimpy 2 5 1

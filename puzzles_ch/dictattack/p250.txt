@@ -1,0 +1,5 @@
+6 6 dictattack
+stork 1 1 0
+terra 2 1 1
+rabbi 4 1 1
+tribe 1 4 0

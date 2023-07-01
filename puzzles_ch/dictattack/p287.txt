@@ -1,0 +1,5 @@
+7 7 dictattack
+hatch 2 1 1
+mambo 1 2 0
+bland 4 2 1
+crave 2 4 0

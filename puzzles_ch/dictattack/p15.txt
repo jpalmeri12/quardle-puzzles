@@ -1,0 +1,5 @@
+7 9 dictattack
+odder 5 1 1
+usher 2 4 0
+snarl 3 4 1
+mirth 1 7 0

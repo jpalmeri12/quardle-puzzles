@@ -1,0 +1,5 @@
+7 10 dictattack
+bayou 4 1 1
+polyp 1 3 0
+blunt 2 5 0
+thyme 6 5 1

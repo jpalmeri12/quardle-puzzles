@@ -1,0 +1,5 @@
+7 9 dictattack
+nobly 6 1 1
+mogul 2 4 0
+gulch 4 4 1
+spill 1 6 0

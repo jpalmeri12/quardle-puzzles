@@ -1,0 +1,5 @@
+7 8 dictattack
+windy 2 1 0
+dally 5 1 1
+staid 3 3 1
+extol 1 4 0

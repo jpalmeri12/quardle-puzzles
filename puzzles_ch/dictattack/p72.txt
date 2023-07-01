@@ -1,0 +1,5 @@
+7 7 dictattack
+snort 4 1 1
+brute 2 2 1
+armor 1 3 0
+titan 2 5 0

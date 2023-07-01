@@ -1,0 +1,5 @@
+7 9 dictattack
+stink 3 1 1
+angst 2 4 0
+steak 5 4 1
+karma 1 7 0

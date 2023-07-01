@@ -1,0 +1,5 @@
+7 7 dictattack
+ionic 2 1 1
+nomad 1 2 0
+affix 4 2 1
+chime 2 5 0

@@ -1,0 +1,5 @@
+7 9 dictattack
+slain 5 1 1
+welch 3 4 1
+leant 2 5 0
+picky 1 7 0

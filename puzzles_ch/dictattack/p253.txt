@@ -1,0 +1,5 @@
+7 7 dictattack
+milky 1 1 0
+lurid 3 1 1
+alter 6 2 1
+grail 2 3 0

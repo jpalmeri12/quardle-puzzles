@@ -1,0 +1,5 @@
+7 8 dictattack
+adore 1 1 0
+dunce 2 1 1
+niece 2 3 0
+elite 4 3 1

@@ -1,0 +1,5 @@
+7 8 dictattack
+snail 1 1 0
+llama 5 1 1
+friar 2 3 0
+relax 3 3 1

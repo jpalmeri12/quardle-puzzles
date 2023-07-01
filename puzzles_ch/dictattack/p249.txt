@@ -1,0 +1,5 @@
+7 9 dictattack
+guppy 1 1 0
+pupil 4 1 1
+purer 2 4 1
+pried 2 4 0

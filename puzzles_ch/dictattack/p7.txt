@@ -1,0 +1,5 @@
+7 9 dictattack
+gecko 2 1 1
+showy 5 4 1
+porch 1 5 0
+satyr 2 8 0

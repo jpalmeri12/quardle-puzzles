@@ -1,0 +1,5 @@
+7 10 dictattack
+melon 6 1 1
+cairn 2 5 0
+rhino 5 5 1
+rabbi 1 7 0

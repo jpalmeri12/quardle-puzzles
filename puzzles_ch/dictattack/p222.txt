@@ -1,0 +1,5 @@
+7 9 dictattack
+lapel 5 1 1
+octet 2 4 0
+ovine 2 4 1
+snare 1 7 0

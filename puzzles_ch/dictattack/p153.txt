@@ -1,0 +1,5 @@
+7 10 dictattack
+clove 4 1 1
+clown 2 3 0
+taker 1 5 0
+kebab 3 5 1

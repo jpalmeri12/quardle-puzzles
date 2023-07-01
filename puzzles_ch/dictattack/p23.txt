@@ -1,0 +1,5 @@
+7 10 dictattack
+wring 4 1 1
+corny 2 2 0
+lingo 1 5 0
+ninja 3 5 1

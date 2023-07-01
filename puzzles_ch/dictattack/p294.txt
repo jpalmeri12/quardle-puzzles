@@ -1,0 +1,5 @@
+7 8 dictattack
+condo 1 1 1
+gnash 3 3 1
+diner 1 4 0
+shear 2 7 0

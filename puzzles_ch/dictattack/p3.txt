@@ -1,0 +1,5 @@
+7 7 dictattack
+abhor 1 1 1
+brave 1 2 0
+voila 4 2 1
+ovate 2 6 0

@@ -1,0 +1,5 @@
+7 10 dictattack
+cacti 4 1 1
+roast 2 2 0
+habit 1 5 0
+bully 3 5 1

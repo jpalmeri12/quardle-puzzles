@@ -1,0 +1,5 @@
+7 10 dictattack
+bingo 4 1 1
+broom 1 5 0
+mummy 5 5 1
+dogma 2 7 0

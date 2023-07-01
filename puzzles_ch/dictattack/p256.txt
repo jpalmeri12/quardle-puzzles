@@ -1,0 +1,5 @@
+7 9 dictattack
+polyp 4 1 1
+idiom 1 2 0
+gayly 2 4 0
+yacht 6 4 1

@@ -1,0 +1,5 @@
+7 9 dictattack
+banjo 1 1 1
+jelly 1 4 0
+latte 4 4 1
+hatch 2 7 0

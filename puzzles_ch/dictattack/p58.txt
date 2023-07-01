@@ -1,0 +1,5 @@
+6 8 dictattack
+pinto 2 1 1
+rodeo 4 3 1
+dowdy 1 5 0
+moron 1 7 0

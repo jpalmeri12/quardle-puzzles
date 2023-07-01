@@ -1,0 +1,5 @@
+7 10 dictattack
+botch 2 1 1
+chick 1 5 0
+inbox 3 5 1
+abort 2 7 0

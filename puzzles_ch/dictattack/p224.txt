@@ -1,0 +1,5 @@
+7 10 dictattack
+stein 4 1 1
+slang 1 5 0
+giver 5 5 1
+shave 2 7 0

@@ -1,0 +1,5 @@
+7 10 dictattack
+awoke 5 1 1
+sinew 1 2 0
+haven 2 5 0
+vixen 4 5 1

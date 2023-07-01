@@ -1,0 +1,5 @@
+7 9 dictattack
+omega 1 1 0
+mecca 2 1 1
+apnea 5 4 1
+adopt 2 5 0

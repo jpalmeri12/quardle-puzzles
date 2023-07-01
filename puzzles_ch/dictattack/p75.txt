@@ -1,0 +1,5 @@
+7 10 dictattack
+fluff 2 1 1
+fugue 2 5 0
+grimy 4 5 1
+gummy 1 8 0

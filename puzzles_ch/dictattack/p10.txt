@@ -1,0 +1,5 @@
+6 9 dictattack
+askew 1 1 0
+shyly 2 1 1
+clump 1 4 0
+mimic 4 4 1

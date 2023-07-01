@@ -1,0 +1,5 @@
+7 8 dictattack
+lyric 6 1 1
+boast 3 3 1
+havoc 2 5 0
+octal 1 7 0

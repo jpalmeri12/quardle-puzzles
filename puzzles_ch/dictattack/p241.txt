@@ -1,0 +1,5 @@
+7 10 dictattack
+bayou 4 1 1
+spare 2 2 0
+mogul 1 5 0
+laden 5 5 1

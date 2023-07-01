@@ -1,0 +1,5 @@
+7 10 dictattack
+shawl 1 1 1
+locus 1 5 0
+slice 5 5 1
+await 2 7 0

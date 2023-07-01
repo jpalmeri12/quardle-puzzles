@@ -1,0 +1,5 @@
+6 9 dictattack
+polyp 2 1 1
+dying 1 4 0
+genie 5 4 1
+lathe 1 8 0

@@ -1,0 +1,5 @@
+7 7 dictattack
+afire 4 1 1
+fluff 1 2 0
+lurch 2 2 1
+creep 2 5 0

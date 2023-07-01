@@ -1,0 +1,5 @@
+6 9 dictattack
+manic 3 1 1
+staid 1 2 0
+slash 1 4 1
+locus 1 5 0
