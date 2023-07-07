@@ -1,0 +1,5 @@
+7 8 swaptwo
+tuile 1 1 0
+uqasi 2 1 1
+sahen 6 3 1
+iwnch 2 5 0

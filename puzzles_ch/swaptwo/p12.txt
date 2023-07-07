@@ -1,0 +1,5 @@
+7 10 swaptwo
+gusyt 4 1 1
+bosmo 2 3 0
+captu 1 5 0
+clikn 1 5 1

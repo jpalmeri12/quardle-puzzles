@@ -1,0 +1,5 @@
+7 9 swaptwo
+hores 2 1 1
+horyn 1 2 0
+enniu 6 4 1
+suign 2 5 0

@@ -1,0 +1,5 @@
+7 9 swaptwo
+priom 2 1 1
+lobyb 1 4 0
+bosmo 5 4 1
+metor 2 8 0

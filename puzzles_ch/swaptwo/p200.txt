@@ -1,0 +1,5 @@
+7 10 swaptwo
+shakc 5 1 1
+pithc 2 2 0
+ejetc 1 5 0
+triec 4 5 1

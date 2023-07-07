@@ -1,0 +1,5 @@
+7 10 swaptwo
+ailbi 4 1 1
+fsihy 2 5 0
+semll 3 5 1
+colve 1 9 0

@@ -1,0 +1,5 @@
+7 10 swaptwo
+cursh 5 1 1
+rtech 1 5 0
+eavde 3 5 1
+cvail 2 7 0

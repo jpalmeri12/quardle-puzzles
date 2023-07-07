@@ -1,0 +1,5 @@
+7 8 swaptwo
+gafef 1 1 0
+fugeu 5 1 1
+khaik 3 3 1
+theem 2 4 0

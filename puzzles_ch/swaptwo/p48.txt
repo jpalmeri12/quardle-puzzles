@@ -1,0 +1,5 @@
+7 10 swaptwo
+eveyr 4 1 1
+blaed 1 3 0
+perli 2 5 0
+pusyh 2 5 1

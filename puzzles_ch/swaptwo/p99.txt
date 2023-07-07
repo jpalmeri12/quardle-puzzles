@@ -1,0 +1,5 @@
+7 9 swaptwo
+smkoy 5 1 1
+inret 3 4 1
+whniy 1 5 0
+strat 2 8 0

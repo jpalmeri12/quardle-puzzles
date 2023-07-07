@@ -1,0 +1,5 @@
+7 10 swaptwo
+emali 4 1 1
+usign 2 5 1
+uniyf 2 5 0
+fifht 1 7 0

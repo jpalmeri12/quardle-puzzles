@@ -1,0 +1,5 @@
+7 9 swaptwo
+shlel 2 1 1
+shlat 1 2 0
+etdue 2 4 0
+unitl 5 4 1

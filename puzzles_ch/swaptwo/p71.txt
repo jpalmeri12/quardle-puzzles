@@ -1,0 +1,5 @@
+6 9 swaptwo
+mtoel 5 1 1
+kenlt 1 2 0
+ohter 3 4 1
+sahwl 1 5 0

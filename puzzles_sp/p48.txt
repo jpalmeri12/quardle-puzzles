@@ -1,0 +1,5 @@
+7 9 swaptwo
+seirf 1 1 1
+ilaic 4 4 1
+fielt 1 5 0
+focre 2 8 0

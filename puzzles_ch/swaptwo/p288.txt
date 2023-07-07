@@ -1,0 +1,5 @@
+6 9 swaptwo
+urien 1 1 0
+relci 2 1 1
+scapl 1 4 0
+priem 4 4 1

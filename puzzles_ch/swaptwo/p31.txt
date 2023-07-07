@@ -1,0 +1,5 @@
+6 9 swaptwo
+touhc 5 1 1
+groni 3 4 1
+lurhc 1 5 0
+lunhc 1 7 0

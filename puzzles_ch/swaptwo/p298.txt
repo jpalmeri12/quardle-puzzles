@@ -1,0 +1,5 @@
+7 9 swaptwo
+sinec 4 1 1
+chiil 1 2 0
+stepe 2 4 0
+shukc 2 4 1

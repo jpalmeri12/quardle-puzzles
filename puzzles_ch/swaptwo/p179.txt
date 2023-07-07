@@ -1,0 +1,5 @@
+7 8 swaptwo
+fliet 4 1 1
+rnach 2 3 1
+rvier 2 3 0
+aabte 1 5 0

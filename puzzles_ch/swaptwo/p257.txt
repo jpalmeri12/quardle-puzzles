@@ -1,0 +1,5 @@
+7 9 swaptwo
+etnor 2 1 1
+nuzip 4 4 1
+rtuss 2 5 0
+asppy 1 8 0

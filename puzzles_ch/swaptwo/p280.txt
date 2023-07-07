@@ -1,0 +1,5 @@
+6 10 swaptwo
+falme 5 1 1
+sohne 1 5 0
+hlave 3 5 1
+oovid 1 8 0

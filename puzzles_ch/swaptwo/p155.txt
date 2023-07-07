@@ -1,0 +1,5 @@
+7 9 swaptwo
+imepl 6 1 1
+usrup 2 4 0
+scarp 3 4 1
+foary 1 6 0

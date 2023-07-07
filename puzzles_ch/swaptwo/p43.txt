@@ -1,0 +1,5 @@
+6 9 swaptwo
+timdi 2 1 1
+adoeb 1 4 0
+brieb 5 4 1
+filte 1 7 0

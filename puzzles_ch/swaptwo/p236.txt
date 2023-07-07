@@ -1,0 +1,5 @@
+7 9 swaptwo
+byaou 1 1 1
+lnuar 3 4 1
+uinty 1 5 0
+satsh 2 7 0

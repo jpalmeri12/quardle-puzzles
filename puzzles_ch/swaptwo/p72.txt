@@ -1,0 +1,5 @@
+7 9 swaptwo
+rpowl 1 1 1
+wsorn 1 4 0
+rbief 4 4 1
+lfeet 2 7 0

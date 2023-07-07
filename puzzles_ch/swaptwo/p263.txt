@@ -1,0 +1,5 @@
+7 8 swaptwo
+ihppy 2 1 0
+pseed 4 1 1
+emter 1 3 0
+miply 2 3 1

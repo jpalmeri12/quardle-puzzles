@@ -1,0 +1,5 @@
+6 10 swaptwo
+drire 4 1 1
+colro 1 2 0
+boren 1 5 0
+resni 3 5 1

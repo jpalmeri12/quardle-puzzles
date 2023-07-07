@@ -1,0 +1,5 @@
+6 10 swaptwo
+lpael 2 1 1
+gpysy 1 2 0
+vlila 1 5 0
+lnace 4 5 1

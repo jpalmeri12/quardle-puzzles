@@ -1,0 +1,5 @@
+7 10 swaptwo
+tsave 2 1 1
+tseam 1 2 0
+esnse 2 5 0
+ewlch 6 5 1

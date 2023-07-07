@@ -1,0 +1,5 @@
+7 10 swaptwo
+shcok 5 1 1
+ulecr 2 3 0
+trcik 1 5 0
+rosot 2 5 1

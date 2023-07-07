@@ -1,0 +1,5 @@
+7 9 swaptwo
+labro 2 1 1
+lumyp 2 1 0
+orbti 1 4 0
+idlre 5 4 1

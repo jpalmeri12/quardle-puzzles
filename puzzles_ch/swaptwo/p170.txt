@@ -1,0 +1,5 @@
+7 9 swaptwo
+chaep 3 1 1
+lihgt 1 2 0
+beclh 2 4 0
+lahte 5 4 1

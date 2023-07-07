@@ -1,0 +1,5 @@
+7 7 swaptwo
+umbar 1 1 0
+mucsu 2 1 1
+opear 6 2 1
+sowre 2 4 0

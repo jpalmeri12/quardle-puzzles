@@ -1,0 +1,5 @@
+7 7 swaptwo
+ebard 5 1 1
+rtibe 2 2 0
+rpobe 2 2 1
+cocur 1 4 0

@@ -1,0 +1,5 @@
+7 9 swaptwo
+ilder 2 1 0
+duece 4 1 1
+ohter 1 4 1
+hmyen 1 5 0

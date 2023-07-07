@@ -1,0 +1,5 @@
+7 9 swaptwo
+kenad 5 1 1
+celan 2 4 0
+eejct 3 4 1
+seter 1 8 0

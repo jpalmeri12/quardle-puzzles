@@ -1,0 +1,5 @@
+7 10 swaptwo
+sahle 6 1 1
+eutde 2 5 1
+eavde 2 5 0
+otcet 1 7 0

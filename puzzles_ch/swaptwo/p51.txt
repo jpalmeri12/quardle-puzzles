@@ -1,0 +1,5 @@
+6 10 swaptwo
+hcili 2 1 1
+nilet 1 5 0
+lfair 3 5 1
+wsift 1 8 0

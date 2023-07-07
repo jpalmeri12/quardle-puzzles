@@ -1,0 +1,5 @@
+7 8 swaptwo
+tohrn 6 1 1
+baerd 4 3 1
+gzaer 2 4 0
+purde 1 7 0

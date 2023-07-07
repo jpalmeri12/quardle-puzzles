@@ -1,0 +1,5 @@
+7 8 swaptwo
+amjor 1 1 1
+nenui 4 3 1
+omwer 1 4 0
+rpice 2 7 0

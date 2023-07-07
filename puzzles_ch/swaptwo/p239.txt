@@ -1,0 +1,5 @@
+7 10 swaptwo
+vciar 4 1 1
+sowrd 1 5 0
+dceoy 5 5 1
+lmeon 2 8 0

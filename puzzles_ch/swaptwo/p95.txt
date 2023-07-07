@@ -1,0 +1,5 @@
+7 7 swaptwo
+humsu 1 1 1
+flokc 3 2 1
+swono 1 4 0
+scino 2 6 0

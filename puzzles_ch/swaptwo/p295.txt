@@ -1,0 +1,5 @@
+7 9 swaptwo
+lpush 2 1 1
+hsyly 1 4 0
+lfaky 4 4 1
+abker 2 7 0

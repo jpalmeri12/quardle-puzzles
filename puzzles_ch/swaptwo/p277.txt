@@ -1,0 +1,5 @@
+6 7 swaptwo
+dzizy 2 1 1
+tneor 4 2 1
+liyng 1 3 0
+ryaon 1 5 0

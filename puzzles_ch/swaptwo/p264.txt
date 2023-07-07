@@ -1,0 +1,5 @@
+7 10 swaptwo
+cerek 1 1 1
+krama 1 5 0
+raect 2 5 1
+tnoal 2 9 0

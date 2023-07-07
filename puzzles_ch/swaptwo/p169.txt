@@ -1,0 +1,5 @@
+7 10 swaptwo
+oliev 6 1 1
+aboev 2 5 0
+buxmo 3 5 1
+pixle 1 7 0

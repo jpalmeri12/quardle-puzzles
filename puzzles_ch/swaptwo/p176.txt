@@ -1,0 +1,5 @@
+7 10 swaptwo
+loive 4 1 1
+nkeel 1 5 0
+lebow 5 5 1
+nsoop 2 8 0

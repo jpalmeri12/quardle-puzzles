@@ -1,0 +1,5 @@
+7 10 swaptwo
+legla 2 1 1
+eigth 2 2 0
+tafyf 1 5 0
+fieyr 5 5 1

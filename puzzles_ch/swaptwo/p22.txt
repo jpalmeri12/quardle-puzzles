@@ -1,0 +1,5 @@
+7 10 swaptwo
+appel 5 1 1
+scapl 1 5 0
+cabla 2 5 1
+bityt 2 7 0

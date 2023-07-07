@@ -1,0 +1,5 @@
+7 10 swaptwo
+ltihe 3 1 1
+mtero 1 5 0
+tarin 2 5 1
+rrual 2 7 0

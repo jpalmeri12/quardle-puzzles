@@ -1,0 +1,5 @@
+7 9 swaptwo
+bluge 5 1 1
+socwl 1 2 0
+sikll 2 4 1
+sgogy 2 4 0

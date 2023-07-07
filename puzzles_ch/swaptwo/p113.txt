@@ -1,0 +1,5 @@
+6 9 swaptwo
+thyem 5 1 1
+pokre 1 4 0
+koaal 3 4 1
+quali 1 7 0

@@ -1,0 +1,5 @@
+7 7 swaptwo
+setin 5 1 1
+euqal 3 2 1
+turth 2 3 0
+tkaen 1 5 0

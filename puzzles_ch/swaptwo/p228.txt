@@ -1,0 +1,5 @@
+7 7 swaptwo
+lgiht 1 1 1
+sveen 3 2 1
+hlelo 1 4 0
+mnoth 2 6 0

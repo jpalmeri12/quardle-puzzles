@@ -1,0 +1,5 @@
+7 9 swaptwo
+rbeel 2 1 1
+cohck 4 4 1
+lgoin 2 5 0
+ctach 1 7 0

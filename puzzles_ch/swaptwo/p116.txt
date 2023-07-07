@@ -1,0 +1,5 @@
+7 8 swaptwo
+scolw 1 1 0
+cacoa 2 1 1
+chaef 2 3 0
+elied 5 3 1

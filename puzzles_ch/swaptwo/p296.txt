@@ -1,0 +1,5 @@
+7 10 swaptwo
+boudn 4 1 1
+tokne 1 5 0
+koaal 3 5 1
+ranhc 2 7 0

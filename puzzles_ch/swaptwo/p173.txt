@@ -1,0 +1,5 @@
+7 9 swaptwo
+asest 2 1 0
+stlye 3 1 1
+anegr 5 4 1
+laedn 1 5 0

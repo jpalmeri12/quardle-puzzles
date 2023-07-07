@@ -1,0 +1,5 @@
+7 9 swaptwo
+scodl 4 1 1
+stenr 2 4 1
+tiled 2 5 0
+knief 1 7 0

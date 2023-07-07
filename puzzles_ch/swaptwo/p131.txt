@@ -1,0 +1,5 @@
+7 9 swaptwo
+noesy 2 1 1
+sopay 2 4 0
+pakra 4 4 1
+caorl 1 7 0

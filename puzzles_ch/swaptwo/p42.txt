@@ -1,0 +1,5 @@
+7 10 swaptwo
+anvli 3 1 1
+risre 2 5 0
+slani 4 5 1
+rumab 1 7 0

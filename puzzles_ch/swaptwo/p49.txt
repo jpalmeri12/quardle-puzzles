@@ -1,0 +1,5 @@
+7 10 swaptwo
+dorss 4 1 1
+aabse 1 5 0
+bteel 3 5 1
+mleon 2 9 0

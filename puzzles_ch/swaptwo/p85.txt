@@ -1,0 +1,5 @@
+7 8 swaptwo
+hpipo 1 1 0
+psate 4 1 1
+slaad 2 3 0
+dorve 6 3 1

@@ -1,0 +1,5 @@
+7 10 swaptwo
+ocbra 2 1 1
+lcoak 1 2 0
+amnge 2 5 0
+geret 5 5 1

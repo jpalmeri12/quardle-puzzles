@@ -1,0 +1,5 @@
+7 10 swaptwo
+spien 3 1 1
+hipyp 1 2 0
+gnahs 2 5 0
+hefyt 5 5 1

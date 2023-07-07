@@ -1,0 +1,5 @@
+7 9 swaptwo
+takre 5 1 1
+knokc 2 4 1
+entre 1 5 0
+kioks 2 7 0

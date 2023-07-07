@@ -1,0 +1,5 @@
+7 9 swaptwo
+utlip 5 1 1
+nigot 3 4 1
+niept 2 5 0
+nutil 1 8 0

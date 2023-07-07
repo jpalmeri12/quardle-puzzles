@@ -1,0 +1,5 @@
+6 8 swaptwo
+trpoe 5 1 1
+stirp 1 3 0
+strom 1 3 1
+rhmye 1 5 0

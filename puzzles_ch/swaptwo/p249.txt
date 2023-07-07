@@ -1,0 +1,5 @@
+6 9 swaptwo
+thubm 1 1 1
+hauet 1 2 0
+brani 1 4 0
+inptu 5 4 1

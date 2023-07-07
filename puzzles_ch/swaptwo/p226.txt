@@ -1,0 +1,5 @@
+7 8 swaptwo
+sproe 3 1 1
+qurat 1 3 0
+tiraa 5 3 1
+tesre 2 5 0

@@ -1,0 +1,5 @@
+7 10 swaptwo
+trikc 2 1 1
+driev 1 2 0
+crakc 2 5 0
+karam 5 5 1

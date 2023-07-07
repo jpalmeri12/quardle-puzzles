@@ -1,0 +1,5 @@
+7 8 swaptwo
+amdit 1 1 0
+deram 3 1 1
+btahe 6 3 1
+satrt 2 4 0

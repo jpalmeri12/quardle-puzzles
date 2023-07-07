@@ -1,0 +1,5 @@
+7 9 swaptwo
+babot 1 1 1
+noion 3 4 1
+tsore 1 5 0
+onble 2 8 0

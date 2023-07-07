@@ -1,0 +1,5 @@
+7 9 swaptwo
+chepa 1 1 1
+posti 1 4 0
+scoer 3 4 1
+conod 2 6 0

@@ -1,0 +1,5 @@
+7 7 swaptwo
+taost 2 1 1
+raoch 1 2 0
+cihrp 4 2 1
+sohwn 2 4 0

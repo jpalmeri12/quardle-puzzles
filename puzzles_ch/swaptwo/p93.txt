@@ -1,0 +1,5 @@
+6 7 swaptwo
+ufdge 2 1 1
+rfail 1 2 0
+ibson 4 2 1
+egese 1 4 0

@@ -1,0 +1,5 @@
+7 9 swaptwo
+bgeat 3 1 1
+lgaer 1 4 0
+rdier 5 4 1
+cbora 2 8 0

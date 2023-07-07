@@ -1,0 +1,5 @@
+7 9 swaptwo
+manci 1 1 1
+cabyb 1 4 0
+basci 5 4 1
+conci 2 7 0

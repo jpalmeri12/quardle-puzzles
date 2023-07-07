@@ -1,0 +1,5 @@
+7 10 swaptwo
+captu 1 1 0
+perli 3 1 1
+sieev 2 5 0
+essya 5 5 1

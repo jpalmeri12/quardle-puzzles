@@ -1,0 +1,5 @@
+7 7 swaptwo
+rtack 3 1 1
+lseek 5 2 1
+maass 2 3 0
+nakle 1 5 0

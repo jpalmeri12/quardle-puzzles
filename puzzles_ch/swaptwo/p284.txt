@@ -1,0 +1,5 @@
+6 7 swaptwo
+iwtch 2 1 1
+owrse 1 2 0
+saide 4 2 1
+icvil 1 4 0

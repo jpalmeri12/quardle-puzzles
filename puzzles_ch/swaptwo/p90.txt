@@ -1,0 +1,5 @@
+6 9 swaptwo
+asasy 1 1 0
+satly 2 1 1
+plaet 1 4 0
+eqaul 4 4 1

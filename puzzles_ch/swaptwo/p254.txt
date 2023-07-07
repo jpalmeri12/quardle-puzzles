@@ -1,0 +1,5 @@
+7 9 swaptwo
+hithc 5 1 1
+tacti 1 2 0
+nothc 2 4 0
+newre 2 4 1

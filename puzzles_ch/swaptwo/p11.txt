@@ -1,0 +1,5 @@
+7 10 swaptwo
+lbond 3 1 1
+acbby 1 2 0
+udtch 2 5 0
+hsaky 6 5 1

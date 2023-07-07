@@ -1,0 +1,5 @@
+7 10 swaptwo
+lsime 2 1 1
+csamp 1 2 0
+ebget 2 5 0
+emdia 5 5 1

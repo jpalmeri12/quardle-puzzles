@@ -1,0 +1,5 @@
+7 8 swaptwo
+deify 2 1 0
+ilvid 4 1 1
+oyung 1 3 1
+ycnic 1 4 0

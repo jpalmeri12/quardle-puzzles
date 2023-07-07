@@ -1,0 +1,5 @@
+7 9 swaptwo
+figth 2 1 1
+stokc 4 4 1
+hatre 2 5 0
+stukn 1 7 0

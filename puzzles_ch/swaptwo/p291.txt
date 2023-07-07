@@ -1,0 +1,5 @@
+7 8 swaptwo
+icvil 2 1 0
+ivnyl 5 1 1
+nucle 2 3 1
+nuify 1 4 0

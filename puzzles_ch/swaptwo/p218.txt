@@ -1,0 +1,5 @@
+6 8 swaptwo
+rhion 1 1 0
+omber 4 1 1
+gypys 1 3 1
+pokre 1 5 0

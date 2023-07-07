@@ -1,0 +1,5 @@
+6 7 swaptwo
+misys 4 1 1
+swaim 1 2 0
+waits 2 2 1
+pityh 1 4 0

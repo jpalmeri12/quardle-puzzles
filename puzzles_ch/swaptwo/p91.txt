@@ -1,0 +1,5 @@
+7 8 swaptwo
+satte 6 1 1
+balst 2 3 0
+arpon 3 3 1
+sinde 1 7 0

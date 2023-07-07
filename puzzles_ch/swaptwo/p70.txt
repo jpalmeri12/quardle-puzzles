@@ -1,0 +1,5 @@
+7 7 swaptwo
+birar 5 1 1
+rgoer 2 2 1
+rdaii 2 2 0
+folra 1 4 0

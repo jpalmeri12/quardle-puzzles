@@ -1,0 +1,5 @@
+7 10 swaptwo
+allyo 4 1 1
+devli 1 3 0
+swonr 2 5 0
+ranyd 6 5 1

@@ -1,0 +1,5 @@
+7 7 swaptwo
+ulrta 6 1 1
+flcek 3 2 1
+eledr 2 3 0
+mukcy 1 6 0

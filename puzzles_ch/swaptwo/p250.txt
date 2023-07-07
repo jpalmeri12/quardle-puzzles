@@ -1,0 +1,5 @@
+7 9 swaptwo
+omrbe 2 1 1
+bilbe 2 4 0
+blnad 5 4 1
+crwod 1 8 0

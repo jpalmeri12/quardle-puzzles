@@ -1,0 +1,5 @@
+7 8 swaptwo
+plukc 2 1 1
+upste 2 3 0
+shrgu 4 3 1
+occru 1 5 0

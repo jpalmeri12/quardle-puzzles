@@ -1,0 +1,5 @@
+7 8 swaptwo
+scrwe 1 1 1
+usula 5 3 1
+wores 1 4 0
+lable 2 6 0

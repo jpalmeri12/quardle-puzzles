@@ -1,0 +1,5 @@
+6 10 swaptwo
+vinly 4 1 1
+gulyl 1 5 0
+leatn 5 5 1
+salyt 1 8 0

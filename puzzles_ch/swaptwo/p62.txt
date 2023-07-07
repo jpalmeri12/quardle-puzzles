@@ -1,0 +1,5 @@
+7 9 swaptwo
+beagn 4 1 1
+raevn 2 2 0
+fined 2 4 1
+ligno 1 5 0

@@ -1,0 +1,5 @@
+7 9 swaptwo
+chrun 2 1 1
+jubmo 1 4 0
+oaekn 5 4 1
+woekn 2 7 0

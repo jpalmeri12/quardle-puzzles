@@ -1,0 +1,5 @@
+6 9 swaptwo
+rpess 3 1 1
+etpid 1 2 0
+apsta 1 4 0
+apste 5 4 1

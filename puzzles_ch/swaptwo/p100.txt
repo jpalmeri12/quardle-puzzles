@@ -1,0 +1,5 @@
+6 9 swaptwo
+satnd 2 1 1
+sauve 1 2 0
+pneal 1 4 0
+laest 5 4 1

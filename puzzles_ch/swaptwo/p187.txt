@@ -1,0 +1,5 @@
+7 8 swaptwo
+bieng 2 1 1
+duant 5 3 1
+sgima 1 5 0
+ftaty 2 7 0

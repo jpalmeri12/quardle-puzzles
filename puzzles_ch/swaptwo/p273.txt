@@ -1,0 +1,5 @@
+7 10 swaptwo
+ethre 1 1 0
+thrbo 2 1 1
+occru 2 5 0
+cleta 3 5 1

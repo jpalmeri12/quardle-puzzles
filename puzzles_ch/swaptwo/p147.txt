@@ -1,0 +1,5 @@
+6 8 swaptwo
+wirng 4 1 1
+sahrp 1 3 0
+setin 1 3 1
+tnoga 1 5 0

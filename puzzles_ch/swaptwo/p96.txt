@@ -1,0 +1,5 @@
+7 7 swaptwo
+srcub 3 1 1
+darma 1 2 0
+asile 5 2 1
+abmle 2 5 0

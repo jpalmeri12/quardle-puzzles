@@ -1,0 +1,5 @@
+7 10 swaptwo
+rgown 5 1 1
+laong 2 5 0
+lcuck 2 5 1
+oclor 1 8 0

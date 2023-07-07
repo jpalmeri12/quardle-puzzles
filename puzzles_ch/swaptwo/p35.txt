@@ -1,0 +1,5 @@
+7 10 swaptwo
+funig 6 1 1
+bagyg 2 5 0
+graps 4 5 1
+mafai 1 7 0

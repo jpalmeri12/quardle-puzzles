@@ -1,0 +1,5 @@
+7 10 swaptwo
+trsah 2 1 1
+rasie 2 2 0
+shurb 1 5 0
+unidd 3 5 1

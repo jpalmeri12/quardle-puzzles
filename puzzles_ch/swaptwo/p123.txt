@@ -1,0 +1,5 @@
+7 10 swaptwo
+csrub 1 1 1
+beony 1 5 0
+erlic 2 5 1
+lbuff 2 7 0

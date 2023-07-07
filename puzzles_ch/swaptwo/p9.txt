@@ -1,0 +1,5 @@
+6 7 swaptwo
+sieev 5 1 1
+rabdi 1 2 0
+bawyd 3 2 1
+cowre 1 4 0

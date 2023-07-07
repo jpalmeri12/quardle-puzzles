@@ -1,0 +1,5 @@
+6 9 swaptwo
+gyaer 5 1 1
+srcub 1 4 1
+rgoer 1 5 0
+bnaal 1 8 0

@@ -1,0 +1,5 @@
+7 8 swaptwo
+arobr 2 1 1
+feoln 4 3 1
+frwon 1 5 0
+stnoe 2 7 0

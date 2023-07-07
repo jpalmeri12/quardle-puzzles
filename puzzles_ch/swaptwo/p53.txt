@@ -1,0 +1,5 @@
+7 10 swaptwo
+huose 1 1 0
+semll 4 1 1
+selet 2 5 0
+eevry 3 5 1

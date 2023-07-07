@@ -1,0 +1,5 @@
+6 7 swaptwo
+worte 2 1 1
+gorwl 1 2 0
+wirte 4 2 1
+etnry 1 4 0

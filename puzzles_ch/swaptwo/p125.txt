@@ -1,0 +1,5 @@
+6 10 swaptwo
+smuac 4 1 1
+rreun 1 3 0
+felck 1 5 0
+ktity 5 5 1

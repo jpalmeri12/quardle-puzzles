@@ -1,0 +1,5 @@
+7 9 swaptwo
+satmp 1 1 1
+msisy 1 4 0
+setep 4 4 1
+dmeur 2 7 0

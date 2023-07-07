@@ -1,0 +1,5 @@
+6 10 swaptwo
+crnoe 2 1 1
+reabr 1 5 0
+reuct 1 5 1
+caorl 1 8 0

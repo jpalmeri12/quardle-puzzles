@@ -1,0 +1,5 @@
+6 8 swaptwo
+niceh 1 1 1
+cobar 5 3 1
+hobyb 1 5 0
+inetr 1 7 0

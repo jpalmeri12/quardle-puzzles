@@ -1,0 +1,5 @@
+6 7 swaptwo
+laoof 3 1 1
+rgail 1 2 0
+loden 5 2 1
+lfood 1 4 0

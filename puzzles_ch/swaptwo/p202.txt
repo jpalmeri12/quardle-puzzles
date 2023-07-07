@@ -1,0 +1,5 @@
+7 8 swaptwo
+usgar 3 1 1
+ugmmy 2 3 0
+mibue 5 3 1
+rgate 1 7 0

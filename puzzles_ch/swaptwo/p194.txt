@@ -1,0 +1,5 @@
+6 7 swaptwo
+viory 1 1 1
+irfle 1 2 0
+lgoss 4 2 1
+rador 1 4 0

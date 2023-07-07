@@ -1,0 +1,5 @@
+7 8 swaptwo
+ikosk 3 1 1
+anval 5 3 1
+wsine 2 4 0
+ksill 1 7 0

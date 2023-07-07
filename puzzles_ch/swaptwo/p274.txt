@@ -1,0 +1,5 @@
+7 8 swaptwo
+wrtie 6 1 1
+adpot 2 3 0
+dercy 3 3 1
+bocth 1 6 0

@@ -1,0 +1,5 @@
+7 9 swaptwo
+asoct 1 1 0
+sturt 2 1 1
+melay 6 4 1
+thsee 2 5 0

@@ -1,0 +1,5 @@
+7 9 swaptwo
+otxic 5 1 1
+ahute 2 4 1
+htick 2 5 0
+htose 1 7 0

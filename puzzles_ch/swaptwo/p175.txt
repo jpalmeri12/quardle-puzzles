@@ -1,0 +1,5 @@
+7 9 swaptwo
+glaer 5 1 1
+godyl 1 2 0
+ediyf 2 4 1
+demru 2 5 0

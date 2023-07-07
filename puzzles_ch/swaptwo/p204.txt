@@ -1,0 +1,5 @@
+7 8 swaptwo
+ocyly 1 1 0
+lfunk 4 1 1
+suual 2 3 0
+sisue 2 3 1

@@ -1,0 +1,5 @@
+6 6 swaptwo
+diler 1 1 1
+psiel 4 1 1
+irnse 1 2 0
+rtoll 1 5 0

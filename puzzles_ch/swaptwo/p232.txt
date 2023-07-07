@@ -1,0 +1,5 @@
+7 10 swaptwo
+rdawn 6 1 1
+rgoan 2 5 0
+omdem 4 5 1
+otddy 1 7 0

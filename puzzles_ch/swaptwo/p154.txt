@@ -1,0 +1,5 @@
+6 10 swaptwo
+decyo 2 1 1
+bosys 1 5 0
+swetp 3 5 1
+bleta 1 7 0

@@ -1,0 +1,5 @@
+6 10 swaptwo
+aumse 2 1 1
+secnt 1 5 0
+tgier 5 5 1
+fnugi 1 7 0

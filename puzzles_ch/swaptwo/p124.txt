@@ -1,0 +1,5 @@
+7 7 swaptwo
+trubo 3 1 1
+darma 1 2 0
+aabse 5 2 1
+rbabi 2 4 0

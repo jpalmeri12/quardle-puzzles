@@ -1,0 +1,5 @@
+6 9 swaptwo
+sprem 2 1 1
+aplty 1 2 0
+debry 1 4 0
+ragne 4 4 1

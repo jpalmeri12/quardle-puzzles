@@ -1,0 +1,5 @@
+6 8 swaptwo
+iilac 3 1 1
+folss 1 3 0
+sopke 5 3 1
+srcap 1 5 0

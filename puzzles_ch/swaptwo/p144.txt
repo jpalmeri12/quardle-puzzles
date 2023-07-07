@@ -1,0 +1,5 @@
+7 10 swaptwo
+baiss 2 1 1
+raoyn 1 2 0
+snrae 2 5 0
+naatl 3 5 1

@@ -1,0 +1,5 @@
+7 7 swaptwo
+daore 1 1 1
+nkock 3 2 1
+reode 1 4 0
+ekbab 2 6 0

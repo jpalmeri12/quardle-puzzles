@@ -1,0 +1,5 @@
+6 7 swaptwo
+genei 5 1 1
+annxe 1 2 0
+adutl 1 2 1
+ulcre 1 4 0

@@ -1,0 +1,5 @@
+7 8 swaptwo
+staed 6 1 1
+crwal 2 3 1
+wolud 2 5 0
+glsos 1 7 0

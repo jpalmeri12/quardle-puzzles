@@ -1,0 +1,5 @@
+7 9 swaptwo
+thubm 3 1 1
+shotr 2 2 0
+abbto 1 4 0
+ounec 5 4 1

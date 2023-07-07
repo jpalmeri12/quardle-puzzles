@@ -1,0 +1,5 @@
+6 9 swaptwo
+acrat 2 1 1
+hceer 1 2 0
+damit 1 4 0
+ipece 4 4 1

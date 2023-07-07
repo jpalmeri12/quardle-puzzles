@@ -1,0 +1,5 @@
+7 9 swaptwo
+qulel 4 1 1
+wolud 1 2 0
+dienr 2 4 0
+drian 2 4 1

@@ -1,0 +1,5 @@
+7 9 swaptwo
+crpyt 6 1 1
+beday 2 4 0
+berad 2 4 1
+navie 1 7 0

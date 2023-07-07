@@ -1,0 +1,5 @@
+7 10 swaptwo
+osber 1 1 0
+rtoll 5 1 1
+islly 2 5 0
+ivsor 2 5 1

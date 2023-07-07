@@ -1,0 +1,5 @@
+6 9 swaptwo
+uniet 3 1 1
+stupm 5 4 1
+ditot 1 5 0
+lumyp 1 7 0

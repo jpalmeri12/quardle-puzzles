@@ -1,0 +1,5 @@
+6 7 swaptwo
+wotrh 2 1 1
+goenr 1 2 0
+raido 5 2 1
+sheid 1 5 0

@@ -1,0 +1,5 @@
+6 10 swaptwo
+obard 3 1 1
+otday 1 5 0
+aslty 4 5 1
+rtoll 1 7 0

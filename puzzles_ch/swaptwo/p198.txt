@@ -1,0 +1,5 @@
+6 9 swaptwo
+biosn 5 1 1
+blses 1 4 0
+skeir 3 4 1
+reimt 1 7 0

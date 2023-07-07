@@ -1,0 +1,5 @@
+7 8 swaptwo
+hsorn 1 1 1
+miply 4 3 1
+rdoit 1 4 0
+htyme 2 7 0

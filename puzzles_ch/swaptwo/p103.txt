@@ -1,0 +1,5 @@
+6 9 swaptwo
+aliib 3 1 1
+filyl 1 2 0
+grede 1 4 1
+rabdi 1 5 0

@@ -1,0 +1,5 @@
+7 7 swaptwo
+poylp 6 1 1
+obsee 2 2 1
+bukly 2 3 0
+lenat 1 6 0

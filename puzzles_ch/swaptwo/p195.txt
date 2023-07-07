@@ -1,0 +1,5 @@
+6 10 swaptwo
+swoer 4 1 1
+aifre 1 5 0
+felck 3 5 1
+sakte 1 9 0

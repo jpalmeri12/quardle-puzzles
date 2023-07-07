@@ -1,0 +1,5 @@
+7 9 swaptwo
+iicly 1 1 0
+cruly 3 1 1
+slily 2 4 0
+yaest 6 4 1

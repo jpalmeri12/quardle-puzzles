@@ -1,0 +1,5 @@
+7 9 swaptwo
+ulcre 6 1 1
+thonr 2 4 0
+hilyl 3 4 1
+felal 1 8 0

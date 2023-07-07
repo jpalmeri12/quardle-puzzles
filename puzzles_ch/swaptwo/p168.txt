@@ -1,0 +1,5 @@
+7 10 swaptwo
+grsas 2 1 1
+crtae 1 2 0
+scpoe 2 5 0
+oznoe 5 5 1
