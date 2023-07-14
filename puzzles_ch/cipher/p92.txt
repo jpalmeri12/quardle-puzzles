@@ -1,0 +1,6 @@
+7 9 cipher
+spred 4 1 1
+socpy 1 2 0
+mouan 2 4 1
+hondo 1 5 0
+nympi 2 8 0

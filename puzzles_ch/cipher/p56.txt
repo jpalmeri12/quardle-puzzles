@@ -1,0 +1,6 @@
+6 9 cipher
+delow 1 1 0
+worbe 5 1 1
+taist 1 4 1
+anire 1 5 0
+tilfe 1 8 0

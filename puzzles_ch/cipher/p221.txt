@@ -1,0 +1,6 @@
+7 7 cipher
+scyee 1 1 0
+cjafe 2 1 1
+testg 6 2 1
+adahe 2 3 0
+erect 2 5 0

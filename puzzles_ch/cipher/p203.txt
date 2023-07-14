@@ -1,0 +1,6 @@
+6 12 cipher
+husto 5 1 1
+otner 1 5 1
+outgo 1 5 0
+dfoul 3 7 1
+elfia 1 8 0

@@ -1,0 +1,6 @@
+6 10 cipher
+tarch 1 1 0
+conmc 4 1 1
+cowir 2 4 1
+youch 1 5 0
+hurre 5 5 1

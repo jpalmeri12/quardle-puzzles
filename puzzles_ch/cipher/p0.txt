@@ -1,0 +1,6 @@
+6 10 cipher
+carin 2 1 1
+afite 4 4 1
+scenu 1 5 1
+snvff 1 5 0
+nobel 1 8 0

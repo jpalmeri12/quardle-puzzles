@@ -1,0 +1,6 @@
+7 10 cipher
+oerit 2 1 1
+rywer 2 3 0
+trulb 2 5 0
+unwem 4 5 1
+redel 1 8 0

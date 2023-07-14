@@ -1,0 +1,6 @@
+6 10 cipher
+tuter 2 1 1
+nupus 1 2 0
+soiff 5 2 1
+brihf 1 5 0
+brusl 1 5 1

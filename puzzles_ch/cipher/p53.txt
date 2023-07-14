@@ -1,0 +1,6 @@
+7 10 cipher
+bayvu 4 1 1
+soeer 2 3 1
+snyly 2 3 0
+regue 1 5 0
+eaher 5 5 1

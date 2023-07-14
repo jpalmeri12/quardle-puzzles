@@ -1,0 +1,6 @@
+7 10 cipher
+tigia 3 1 1
+bafer 5 2 1
+taoen 2 5 0
+twtal 2 5 1
+manke 1 8 0

@@ -1,0 +1,6 @@
+6 10 cipher
+stvaw 2 1 1
+stasp 1 2 0
+sagoy 4 2 1
+swoor 1 5 0
+slanh 1 5 1

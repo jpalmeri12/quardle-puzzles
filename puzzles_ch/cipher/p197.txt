@@ -1,0 +1,6 @@
+7 8 cipher
+swain 1 1 0
+neigj 5 1 1
+yound 3 3 1
+dodgh 2 4 0
+tudge 1 7 0

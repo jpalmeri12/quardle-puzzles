@@ -1,0 +1,6 @@
+7 8 cipher
+nicke 2 1 0
+creal 4 1 1
+hocus 2 3 1
+royap 1 4 0
+sfoon 2 7 0

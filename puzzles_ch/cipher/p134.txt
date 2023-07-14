@@ -1,0 +1,6 @@
+6 11 cipher
+casal 1 1 1
+swpft 1 3 0
+feber 4 3 1
+vutty 2 6 1
+iurry 1 7 0

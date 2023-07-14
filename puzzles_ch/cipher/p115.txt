@@ -1,0 +1,6 @@
+6 10 cipher
+hrimp 4 1 1
+estry 1 2 0
+nippy 1 5 0
+procd 3 5 1
+utory 1 7 0

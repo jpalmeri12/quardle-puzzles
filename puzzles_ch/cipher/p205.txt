@@ -1,0 +1,6 @@
+7 9 cipher
+yomen 1 1 1
+celie 5 2 1
+ebsel 1 4 0
+stoiw 3 4 1
+honea 2 6 0

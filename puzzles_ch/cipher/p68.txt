@@ -1,0 +1,6 @@
+6 10 cipher
+reimn 5 1 1
+wauve 1 2 0
+blagk 1 5 1
+broyn 1 5 0
+ovarc 3 5 1

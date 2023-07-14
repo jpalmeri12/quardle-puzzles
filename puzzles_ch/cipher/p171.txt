@@ -1,0 +1,6 @@
+7 10 cipher
+etgde 1 1 0
+topsc 2 1 1
+claup 4 3 1
+ciant 2 5 0
+tonha 6 5 1

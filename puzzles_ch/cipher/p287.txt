@@ -1,0 +1,6 @@
+6 10 cipher
+artse 2 1 1
+orass 1 2 0
+scarb 4 4 1
+reych 1 5 0
+rumga 1 5 1

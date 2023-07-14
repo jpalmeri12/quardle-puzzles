@@ -1,0 +1,6 @@
+6 9 cipher
+bleap 4 1 1
+gollc 1 2 0
+fokal 1 4 0
+ouyer 2 4 1
+grout 1 8 0

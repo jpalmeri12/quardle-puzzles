@@ -1,0 +1,6 @@
+6 10 cipher
+viren 1 1 1
+forse 4 1 1
+retra 1 3 0
+neyer 1 5 0
+enemc 2 5 1

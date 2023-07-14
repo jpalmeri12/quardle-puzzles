@@ -1,0 +1,6 @@
+7 10 cipher
+yomad 1 1 1
+magbe 1 3 0
+brlar 4 3 1
+reben 6 5 1
+adaie 2 6 0

@@ -1,0 +1,6 @@
+7 10 cipher
+naybe 6 1 1
+sieak 2 3 1
+spmky 2 3 0
+sedar 4 5 1
+gayet 1 6 0

@@ -1,0 +1,6 @@
+7 11 cipher
+brdve 5 1 1
+litne 1 5 0
+tosic 3 5 1
+prieh 6 6 1
+acope 2 9 0

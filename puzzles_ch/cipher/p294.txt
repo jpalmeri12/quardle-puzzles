@@ -1,0 +1,6 @@
+7 10 cipher
+larwa 5 1 1
+vappa 1 2 0
+eimpy 3 4 1
+cikar 2 5 0
+ripgr 6 5 1

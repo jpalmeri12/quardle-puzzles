@@ -1,0 +1,6 @@
+6 9 cipher
+amcly 5 1 1
+gream 1 2 0
+aspde 1 4 1
+barhe 3 4 1
+siaky 1 5 0

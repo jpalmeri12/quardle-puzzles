@@ -1,0 +1,6 @@
+7 8 cipher
+ewent 1 1 1
+eiult 1 3 0
+unxed 3 3 1
+trtle 5 3 1
+uddev 2 7 0

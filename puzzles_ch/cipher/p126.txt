@@ -1,0 +1,6 @@
+7 10 cipher
+brace 2 1 1
+hyfro 5 1 1
+dello 1 5 0
+leamy 4 5 1
+thyve 2 9 0

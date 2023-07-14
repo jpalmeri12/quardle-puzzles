@@ -1,0 +1,6 @@
+7 9 cipher
+reggy 1 1 1
+gdwky 1 4 0
+waist 3 4 1
+nicle 2 6 0
+fetih 1 8 0

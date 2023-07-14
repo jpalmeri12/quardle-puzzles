@@ -1,0 +1,6 @@
+6 9 cipher
+rdbbi 3 1 1
+psone 1 3 1
+umite 5 4 1
+opiam 1 5 0
+ehict 1 7 0

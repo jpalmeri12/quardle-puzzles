@@ -1,0 +1,6 @@
+7 10 cipher
+fienl 2 1 1
+inoet 1 4 0
+edter 4 4 1
+srawn 6 5 1
+arrpw 2 8 0

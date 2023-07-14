@@ -1,0 +1,6 @@
+7 10 cipher
+gayou 3 1 1
+bayon 1 3 0
+muess 2 5 0
+spite 6 5 1
+srite 2 9 0

@@ -1,0 +1,6 @@
+7 10 cipher
+antar 2 1 0
+reyue 6 1 1
+lugue 2 5 0
+uvset 3 5 1
+tastf 1 7 0

@@ -1,0 +1,6 @@
+6 12 cipher
+uavel 5 1 1
+afowl 1 5 0
+forie 2 5 1
+trant 1 7 0
+tragl 5 7 1

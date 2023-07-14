@@ -1,0 +1,6 @@
+7 9 cipher
+lofmy 2 1 0
+mines 5 1 1
+winge 1 4 0
+nealy 3 4 1
+rlood 2 7 0

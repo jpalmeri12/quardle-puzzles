@@ -1,0 +1,6 @@
+7 9 cipher
+cabbe 4 1 1
+swamu 6 1 1
+albym 2 4 0
+apoot 2 4 1
+stolf 1 8 0

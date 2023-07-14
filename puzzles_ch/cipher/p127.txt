@@ -1,0 +1,6 @@
+7 10 cipher
+vroud 1 1 1
+dewil 1 5 0
+eping 2 5 1
+lobly 5 5 1
+nokly 2 8 0

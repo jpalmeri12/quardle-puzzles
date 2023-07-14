@@ -1,0 +1,6 @@
+6 10 cipher
+guyer 2 1 1
+hydrs 1 3 0
+mreen 1 5 0
+eneoa 3 5 1
+nurbe 5 5 1

@@ -1,0 +1,6 @@
+7 10 cipher
+grisk 1 1 1
+lrave 4 3 1
+sbork 1 4 0
+aispe 6 5 1
+tress 2 7 0

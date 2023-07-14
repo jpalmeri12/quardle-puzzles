@@ -1,0 +1,6 @@
+6 10 cipher
+giner 1 1 1
+nerbe 1 3 0
+rodin 1 5 0
+onsev 2 5 1
+usate 1 7 0

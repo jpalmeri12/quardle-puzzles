@@ -1,0 +1,6 @@
+7 10 cipher
+radwo 2 1 1
+cahle 5 2 1
+delab 2 3 0
+toyel 1 5 0
+tenti 1 5 1

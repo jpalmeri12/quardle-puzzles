@@ -1,0 +1,6 @@
+6 10 cipher
+layou 4 1 1
+fatan 2 2 1
+batyr 1 3 0
+casut 1 5 0
+tepor 5 5 1

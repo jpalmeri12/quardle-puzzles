@@ -1,0 +1,6 @@
+7 12 cipher
+hella 1 1 1
+nefer 4 3 1
+lwmen 1 4 0
+torse 2 7 0
+spelu 5 7 1

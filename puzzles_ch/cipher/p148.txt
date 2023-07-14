@@ -1,0 +1,6 @@
+7 12 cipher
+dudgy 1 1 1
+gwppy 1 4 0
+prode 4 4 1
+aedge 2 7 0
+essiy 6 7 1

@@ -1,0 +1,6 @@
+7 9 cipher
+dpawn 4 1 1
+clero 6 1 1
+cswer 2 4 0
+chake 2 4 1
+fepth 1 8 0

@@ -1,0 +1,6 @@
+6 12 cipher
+brcss 1 1 1
+erust 4 4 1
+syirl 1 5 0
+smwlt 1 7 1
+musta 1 8 0

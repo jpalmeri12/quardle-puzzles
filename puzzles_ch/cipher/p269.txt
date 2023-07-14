@@ -1,0 +1,6 @@
+6 12 cipher
+ucion 5 1 1
+motis 1 5 1
+moarn 1 5 0
+tdper 1 7 0
+embef 4 7 1

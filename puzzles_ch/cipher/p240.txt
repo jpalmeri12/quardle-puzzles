@@ -1,0 +1,6 @@
+6 8 cipher
+dodgi 1 1 0
+dtsco 3 1 1
+nelon 5 3 1
+wroll 1 5 0
+cloyn 1 7 0

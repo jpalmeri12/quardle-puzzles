@@ -1,0 +1,6 @@
+7 10 cipher
+seier 4 1 1
+creeo 2 2 0
+lyrkc 2 5 0
+lefvy 2 5 1
+tffal 1 7 0

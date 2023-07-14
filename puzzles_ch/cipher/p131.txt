@@ -1,0 +1,6 @@
+7 10 cipher
+dacon 4 1 1
+moeal 1 2 0
+bayon 6 3 1
+flumk 2 5 1
+funry 2 5 0

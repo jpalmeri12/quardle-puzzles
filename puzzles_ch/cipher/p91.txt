@@ -1,0 +1,6 @@
+7 10 cipher
+tauch 6 1 1
+rmght 2 2 1
+hdrsh 2 5 0
+spero 5 5 1
+ruier 1 8 0

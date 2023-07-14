@@ -1,0 +1,6 @@
+6 9 cipher
+ejeft 1 1 0
+jomer 2 1 1
+cnite 4 4 1
+kront 1 5 0
+auity 1 7 0

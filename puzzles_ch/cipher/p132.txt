@@ -1,0 +1,6 @@
+6 9 cipher
+swasl 1 1 0
+sutge 4 1 1
+bioge 1 4 0
+inbrx 2 4 1
+exish 1 8 0

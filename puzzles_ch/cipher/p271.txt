@@ -1,0 +1,6 @@
+6 10 cipher
+elrte 2 1 1
+yecut 1 5 0
+ciute 3 5 1
+tattd 5 5 1
+houbt 1 7 0

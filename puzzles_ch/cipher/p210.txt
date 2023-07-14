@@ -1,0 +1,6 @@
+6 12 cipher
+gtuff 4 1 1
+rsalm 1 3 1
+seaff 1 4 0
+magpc 1 7 0
+gliam 3 7 1

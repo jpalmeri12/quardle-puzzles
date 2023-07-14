@@ -1,0 +1,6 @@
+6 10 cipher
+llasa 1 1 1
+ielay 5 1 1
+lmthe 1 2 0
+artwy 1 5 0
+thred 3 5 1

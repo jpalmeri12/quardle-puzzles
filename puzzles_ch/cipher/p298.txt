@@ -1,0 +1,6 @@
+6 12 cipher
+grown 1 1 1
+worsb 1 4 0
+retel 3 4 1
+lyncp 5 7 1
+holly 1 8 0

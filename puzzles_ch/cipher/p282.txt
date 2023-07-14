@@ -1,0 +1,6 @@
+6 9 cipher
+dally 5 1 1
+hloor 3 2 1
+trafe 1 4 1
+roosy 1 5 0
+etmer 1 8 0

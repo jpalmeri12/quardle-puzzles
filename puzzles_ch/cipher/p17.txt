@@ -1,0 +1,6 @@
+6 10 cipher
+nyoph 1 1 0
+hcrry 5 1 1
+spimy 1 5 0
+sinea 1 5 1
+nwrth 1 7 0

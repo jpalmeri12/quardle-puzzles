@@ -1,0 +1,6 @@
+7 10 cipher
+drana 3 1 1
+serve 5 1 1
+gaier 2 5 0
+grmll 2 5 1
+zlate 1 8 0

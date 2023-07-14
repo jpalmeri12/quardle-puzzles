@@ -1,0 +1,6 @@
+7 9 cipher
+hauot 1 1 1
+humbr 1 1 0
+newer 4 4 1
+tuder 1 5 0
+wielf 2 7 0

@@ -1,0 +1,6 @@
+6 10 cipher
+redur 5 1 1
+shafe 2 3 1
+saqer 1 5 0
+eyuip 4 5 1
+harpc 1 9 0

@@ -1,0 +1,6 @@
+7 12 cipher
+rhico 3 1 1
+gorty 2 5 0
+toxie 5 5 1
+hflix 1 7 0
+linht 3 7 1

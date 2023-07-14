@@ -1,0 +1,6 @@
+6 9 cipher
+froar 4 1 1
+querb 1 2 0
+ielle 1 4 1
+exyra 1 5 0
+ltwer 1 7 0

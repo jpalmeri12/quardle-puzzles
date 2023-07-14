@@ -1,0 +1,6 @@
+7 9 cipher
+urism 1 1 1
+nealy 5 2 1
+dgent 3 4 1
+mogwl 1 5 0
+steep 2 8 0

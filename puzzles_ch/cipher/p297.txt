@@ -1,0 +1,6 @@
+7 10 cipher
+iayou 5 1 1
+drava 1 2 0
+knput 2 5 0
+neber 3 5 1
+mnead 1 8 0

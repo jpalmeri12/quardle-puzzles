@@ -1,0 +1,6 @@
+7 10 cipher
+mupus 3 1 1
+spast 2 3 0
+serip 5 3 1
+wronl 1 5 1
+wisgr 1 5 0

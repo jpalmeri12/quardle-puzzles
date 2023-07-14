@@ -1,0 +1,6 @@
+6 8 cipher
+zloop 3 1 1
+psong 1 3 0
+plaha 1 3 1
+glypm 5 3 1
+arply 1 5 0

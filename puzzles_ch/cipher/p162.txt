@@ -1,0 +1,6 @@
+7 10 cipher
+gaber 6 1 1
+amdle 2 4 1
+minyr 2 5 0
+nufge 4 5 1
+oeign 1 8 0

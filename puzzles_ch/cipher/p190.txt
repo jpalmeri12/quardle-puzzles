@@ -1,0 +1,6 @@
+7 10 cipher
+sapsa 4 1 1
+iroan 1 2 0
+snagk 2 5 0
+knlfe 6 5 1
+croof 2 8 0

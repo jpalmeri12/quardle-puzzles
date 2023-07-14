@@ -1,0 +1,6 @@
+7 10 cipher
+ecowl 1 1 1
+punch 4 2 1
+wronm 1 4 0
+idgal 6 5 1
+ashid 2 6 0

@@ -1,0 +1,6 @@
+7 9 cipher
+ibory 1 1 0
+ouvht 3 1 1
+throc 2 4 0
+olger 5 4 1
+dease 1 7 0

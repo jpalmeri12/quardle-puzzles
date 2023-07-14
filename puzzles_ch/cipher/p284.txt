@@ -1,0 +1,6 @@
+7 12 cipher
+linht 2 1 1
+whase 1 4 0
+scami 4 4 1
+gomma 2 7 0
+apkle 6 7 1

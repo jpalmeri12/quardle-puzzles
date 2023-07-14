@@ -1,0 +1,6 @@
+7 10 cipher
+ftung 2 1 1
+pesyo 6 1 1
+gumdo 2 5 0
+unler 3 5 1
+enemb 1 8 0

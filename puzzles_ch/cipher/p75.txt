@@ -1,0 +1,6 @@
+7 10 cipher
+raior 2 1 1
+astly 2 2 0
+rabbp 2 5 0
+bazdy 4 5 1
+watyr 1 9 0

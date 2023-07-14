@@ -1,0 +1,6 @@
+6 10 cipher
+psumb 1 1 1
+buaom 1 5 0
+umbrh 2 5 1
+moutl 5 5 1
+cruxt 1 8 0

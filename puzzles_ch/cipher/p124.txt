@@ -1,0 +1,6 @@
+7 9 cipher
+gayge 6 1 1
+kliff 4 2 1
+blone 2 4 1
+beiug 2 4 0
+goofc 1 6 0

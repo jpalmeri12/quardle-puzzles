@@ -1,0 +1,6 @@
+7 10 cipher
+crunb 2 1 1
+gotad 5 1 1
+braeo 1 2 0
+bmady 2 5 0
+youvh 6 5 1

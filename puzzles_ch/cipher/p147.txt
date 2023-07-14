@@ -1,0 +1,6 @@
+7 11 cipher
+hobbg 6 1 1
+crwmb 2 4 0
+ridse 3 4 1
+yoken 5 6 1
+uheik 1 8 0

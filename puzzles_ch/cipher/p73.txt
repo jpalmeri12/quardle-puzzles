@@ -1,0 +1,6 @@
+7 8 cipher
+fifcy 1 1 1
+fangy 1 3 0
+notey 3 3 1
+younp 5 3 1
+senne 2 6 0

@@ -1,0 +1,6 @@
+7 10 cipher
+layou 4 1 1
+sabyr 1 3 0
+skumk 2 5 0
+skutk 2 5 1
+karna 6 5 1

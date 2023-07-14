@@ -1,0 +1,6 @@
+7 10 cipher
+smort 2 1 1
+endoc 4 2 1
+pount 1 3 0
+trowe 2 5 0
+enaht 6 5 1

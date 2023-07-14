@@ -1,0 +1,6 @@
+7 10 cipher
+tuasi 4 1 1
+vokue 1 2 0
+ogese 2 2 1
+slicq 2 5 0
+clefb 5 5 1

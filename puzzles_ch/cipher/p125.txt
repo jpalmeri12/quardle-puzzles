@@ -1,0 +1,6 @@
+7 10 cipher
+oktal 2 1 1
+cetel 5 2 1
+thsew 2 3 0
+blate 1 5 0
+awore 3 5 1

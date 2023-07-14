@@ -1,0 +1,6 @@
+7 10 cipher
+iluff 2 1 1
+puthy 1 3 0
+febal 2 5 0
+axnal 5 5 1
+hyesa 1 8 0

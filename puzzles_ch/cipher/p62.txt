@@ -1,0 +1,6 @@
+7 8 cipher
+curst 1 1 0
+tirum 5 1 1
+vapbr 1 3 0
+audot 2 3 1
+traht 2 7 0

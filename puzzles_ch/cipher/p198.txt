@@ -1,0 +1,6 @@
+7 9 cipher
+mcngo 4 1 1
+shinp 1 3 0
+hasky 2 3 1
+skimu 6 4 1
+stoek 2 5 0

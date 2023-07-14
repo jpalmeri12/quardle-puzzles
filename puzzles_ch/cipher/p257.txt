@@ -1,0 +1,6 @@
+7 9 cipher
+vuasi 2 1 1
+yaunt 1 3 0
+nutte 4 3 1
+drqll 6 4 1
+intor 2 5 0

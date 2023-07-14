@@ -1,0 +1,6 @@
+7 12 cipher
+ctmfy 3 1 1
+ploer 5 3 1
+ahful 1 4 0
+siare 2 7 0
+swake 2 7 1

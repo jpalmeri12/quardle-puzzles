@@ -1,0 +1,6 @@
+6 10 cipher
+flrss 1 1 1
+feash 1 1 0
+sluop 1 5 0
+pusmy 5 5 1
+btass 1 7 0

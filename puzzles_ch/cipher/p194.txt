@@ -1,0 +1,6 @@
+7 10 cipher
+sduba 3 1 1
+kaffe 2 5 0
+flavy 4 5 1
+segan 1 7 0
+cinyl 1 9 0

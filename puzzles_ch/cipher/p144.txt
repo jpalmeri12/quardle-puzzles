@@ -1,0 +1,6 @@
+7 10 cipher
+hkier 2 1 0
+kmaki 3 1 1
+naker 5 3 1
+driok 1 5 0
+rscky 2 5 1

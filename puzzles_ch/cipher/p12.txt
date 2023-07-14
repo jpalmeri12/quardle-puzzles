@@ -1,0 +1,6 @@
+7 10 cipher
+pazer 2 1 0
+proyl 2 1 1
+blean 1 5 0
+arsow 4 5 1
+rakor 1 8 0

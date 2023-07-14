@@ -1,0 +1,6 @@
+7 10 cipher
+sissh 1 1 0
+syeep 3 1 1
+tupic 1 5 0
+coina 5 5 1
+brwnt 2 8 0

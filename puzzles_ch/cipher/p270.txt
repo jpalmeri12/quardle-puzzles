@@ -1,0 +1,6 @@
+7 10 cipher
+scrwb 2 1 1
+xaltz 5 1 1
+boozn 2 5 0
+ouset 4 5 1
+eycel 1 8 0

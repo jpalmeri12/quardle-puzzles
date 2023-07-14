@@ -1,0 +1,6 @@
+7 10 cipher
+ucent 2 1 0
+cramb 3 1 1
+orbst 1 5 0
+olier 1 5 1
+edten 1 8 0

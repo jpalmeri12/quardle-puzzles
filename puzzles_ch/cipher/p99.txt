@@ -1,0 +1,6 @@
+7 12 cipher
+wabte 5 1 1
+hlond 2 4 1
+leves 2 5 0
+unrfy 1 7 0
+youti 5 7 1

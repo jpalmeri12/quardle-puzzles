@@ -1,0 +1,6 @@
+7 9 cipher
+smitn 6 1 1
+jrust 2 4 0
+juice 2 4 1
+uodid 4 4 1
+acyid 1 7 0

@@ -1,0 +1,6 @@
+7 10 cipher
+yeaft 3 1 1
+laoky 5 1 1
+iatty 1 5 0
+trspe 4 5 1
+nmpel 2 8 0

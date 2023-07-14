@@ -1,0 +1,6 @@
+7 10 cipher
+robkn 1 1 1
+astew 3 2 1
+basye 1 3 0
+assah 5 5 1
+swasi 2 6 0

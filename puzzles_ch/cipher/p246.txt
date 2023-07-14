@@ -1,0 +1,6 @@
+6 10 cipher
+tyrup 1 1 0
+pouby 5 1 1
+layou 1 3 0
+madny 1 5 0
+drisk 3 5 1

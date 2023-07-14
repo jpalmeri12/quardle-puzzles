@@ -1,0 +1,6 @@
+7 10 cipher
+dbarf 5 1 1
+flcus 2 3 1
+ciafe 2 5 0
+awong 4 5 1
+hadge 1 9 0

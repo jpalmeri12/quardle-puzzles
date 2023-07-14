@@ -1,0 +1,6 @@
+6 12 cipher
+emiss 1 1 1
+scoor 1 5 0
+caony 2 5 1
+podly 1 7 0
+yigld 5 7 1

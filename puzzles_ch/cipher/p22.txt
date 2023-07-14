@@ -1,0 +1,6 @@
+7 10 cipher
+slinm 4 1 1
+slank 1 4 0
+liubo 2 4 1
+boarg 6 5 1
+occdr 2 8 0

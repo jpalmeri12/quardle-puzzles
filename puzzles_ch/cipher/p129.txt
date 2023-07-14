@@ -1,0 +1,6 @@
+6 10 cipher
+gavge 4 1 1
+berse 1 3 1
+ruger 1 5 0
+gorth 3 5 1
+rehai 1 9 0

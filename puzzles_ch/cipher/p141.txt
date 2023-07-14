@@ -1,0 +1,6 @@
+6 10 cipher
+knaki 4 1 1
+eital 1 3 0
+islht 2 3 1
+vlait 1 5 0
+twapg 5 5 1

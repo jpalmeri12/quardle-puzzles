@@ -1,0 +1,6 @@
+7 9 cipher
+chorl 1 1 0
+rehad 4 1 1
+btter 6 3 1
+suart 2 4 0
+stimt 2 4 1

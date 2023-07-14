@@ -1,0 +1,6 @@
+6 10 cipher
+daiby 5 1 1
+lused 2 4 1
+outty 1 5 0
+trpaz 4 5 1
+neapt 1 7 0

@@ -1,0 +1,6 @@
+7 10 cipher
+snash 2 1 0
+sgale 5 1 1
+hotse 1 5 0
+oaker 2 5 1
+eamle 2 8 0

@@ -1,0 +1,6 @@
+6 12 cipher
+driad 3 1 1
+oddle 1 5 0
+drasn 2 5 1
+forym 4 7 1
+unarl 1 9 0

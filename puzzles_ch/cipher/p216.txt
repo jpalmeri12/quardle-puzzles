@@ -1,0 +1,6 @@
+7 10 cipher
+shaoe 4 1 1
+dleat 2 2 1
+lvath 2 3 0
+gayel 1 5 0
+laber 5 5 1

@@ -1,0 +1,6 @@
+6 12 cipher
+inler 4 1 1
+cpurn 1 5 0
+pubid 2 5 1
+abife 1 7 0
+eagse 5 7 1

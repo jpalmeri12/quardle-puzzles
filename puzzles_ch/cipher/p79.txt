@@ -1,0 +1,6 @@
+7 9 cipher
+gsade 1 1 0
+denir 4 1 1
+noiuy 2 4 0
+naime 2 4 1
+yovng 6 4 1

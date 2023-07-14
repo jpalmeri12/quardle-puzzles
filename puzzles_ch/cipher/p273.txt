@@ -1,0 +1,6 @@
+7 11 cipher
+upyet 6 1 1
+abost 4 3 1
+roble 2 4 0
+binot 2 6 1
+dittg 1 7 0

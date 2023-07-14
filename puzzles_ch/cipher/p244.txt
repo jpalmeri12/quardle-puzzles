@@ -1,0 +1,6 @@
+7 9 cipher
+clueh 2 1 0
+ciurn 2 1 1
+reloc 2 4 0
+lpyal 4 4 1
+denal 1 7 0

@@ -1,0 +1,6 @@
+6 9 cipher
+cynkc 1 1 1
+tiere 5 2 1
+awaoe 3 4 1
+cdwer 1 5 0
+neehy 1 8 0

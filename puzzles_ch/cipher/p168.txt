@@ -1,0 +1,6 @@
+7 10 cipher
+aiora 3 1 1
+ovold 1 3 0
+ratte 2 5 0
+tubay 5 5 1
+kgbab 1 7 0

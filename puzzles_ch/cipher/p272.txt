@@ -1,0 +1,6 @@
+7 8 cipher
+reual 1 1 1
+holor 5 2 1
+nolly 3 3 1
+afobl 1 4 0
+clare 2 6 0

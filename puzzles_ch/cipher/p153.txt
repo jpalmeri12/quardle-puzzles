@@ -1,0 +1,6 @@
+7 10 cipher
+twiul 1 1 1
+shtin 3 1 1
+lynco 1 5 0
+crnic 4 5 1
+lacky 2 9 0

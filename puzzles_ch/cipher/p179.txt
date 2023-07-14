@@ -1,0 +1,6 @@
+6 10 cipher
+vhrub 1 1 1
+smbre 4 4 1
+blomp 1 5 0
+liyer 2 5 1
+reael 1 8 0

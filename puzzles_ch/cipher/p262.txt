@@ -1,0 +1,6 @@
+7 10 cipher
+everb 2 1 0
+redel 5 1 1
+yhall 1 5 0
+agais 3 5 1
+winow 2 8 0

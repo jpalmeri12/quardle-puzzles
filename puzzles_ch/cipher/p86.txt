@@ -1,0 +1,6 @@
+7 8 cipher
+uever 1 1 1
+cbrry 3 2 1
+ieter 5 3 1
+eerle 1 4 0
+cyder 2 6 0

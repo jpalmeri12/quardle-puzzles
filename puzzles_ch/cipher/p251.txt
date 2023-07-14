@@ -1,0 +1,6 @@
+7 10 cipher
+bacou 2 1 1
+gheer 5 1 1
+aspha 2 2 0
+yuper 1 5 0
+purle 3 5 1

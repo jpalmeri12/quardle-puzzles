@@ -1,0 +1,6 @@
+7 10 cipher
+ruasi 2 1 1
+gummb 1 2 0
+hinge 1 5 0
+notcq 3 5 1
+scoye 2 8 0

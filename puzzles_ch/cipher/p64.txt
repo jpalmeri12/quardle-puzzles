@@ -1,0 +1,6 @@
+7 10 cipher
+hriar 1 1 0
+igsoo 3 1 1
+rafio 5 1 1
+bodom 2 5 0
+moutl 6 5 1

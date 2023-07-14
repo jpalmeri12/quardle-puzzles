@@ -1,0 +1,6 @@
+7 9 cipher
+ravah 3 1 1
+hearj 1 2 0
+faird 2 4 0
+rawen 5 4 1
+froyn 1 8 0

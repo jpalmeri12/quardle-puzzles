@@ -1,0 +1,6 @@
+6 9 cipher
+clasr 1 1 1
+atise 3 2 1
+spile 1 4 0
+elaue 5 4 1
+camse 1 8 0

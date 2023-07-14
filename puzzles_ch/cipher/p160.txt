@@ -1,0 +1,6 @@
+6 12 cipher
+crite 3 1 1
+dhime 1 3 1
+hoten 1 4 0
+ewemy 1 7 0
+etule 3 7 1

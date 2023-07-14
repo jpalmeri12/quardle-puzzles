@@ -1,0 +1,6 @@
+7 10 cipher
+ywirl 2 1 1
+ceing 5 1 1
+ionif 2 3 0
+tling 1 5 0
+newlb 4 5 1

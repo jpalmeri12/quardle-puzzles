@@ -1,0 +1,6 @@
+6 9 cipher
+thrwm 5 1 1
+bsrth 1 2 0
+ucene 1 4 1
+chirm 1 5 0
+neaer 1 7 0

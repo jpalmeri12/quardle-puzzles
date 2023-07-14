@@ -1,0 +1,6 @@
+7 10 cipher
+mamho 3 1 1
+ciess 5 3 1
+clobe 1 5 0
+lemuv 2 5 1
+mrssy 2 7 0

@@ -1,0 +1,6 @@
+7 10 cipher
+cayou 2 1 1
+suspi 1 5 0
+sblit 3 5 1
+iliad 5 5 1
+tihal 2 8 0

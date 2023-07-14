@@ -1,0 +1,6 @@
+7 11 cipher
+codka 5 1 1
+mhaos 2 3 1
+hvsky 2 4 0
+slaut 4 6 1
+psaln 1 7 0

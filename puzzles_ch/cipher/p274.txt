@@ -1,0 +1,6 @@
+7 12 cipher
+ezema 1 1 1
+amker 1 5 0
+maibe 2 5 1
+isnet 2 7 0
+tricl 6 7 1

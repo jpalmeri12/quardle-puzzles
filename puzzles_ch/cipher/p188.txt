@@ -1,0 +1,6 @@
+7 8 cipher
+sporf 2 1 1
+booza 4 1 1
+spook 1 2 0
+brooy 6 3 1
+rezor 2 4 0

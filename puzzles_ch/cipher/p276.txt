@@ -1,0 +1,6 @@
+7 10 cipher
+dumac 2 1 1
+cparm 5 1 1
+omeha 1 3 0
+crams 2 5 0
+argor 4 5 1

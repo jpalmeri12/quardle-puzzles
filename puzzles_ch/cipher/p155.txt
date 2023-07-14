@@ -1,0 +1,6 @@
+7 10 cipher
+cgddy 1 1 1
+debkt 1 3 0
+boael 3 3 1
+hunwy 5 5 1
+cluni 2 7 0

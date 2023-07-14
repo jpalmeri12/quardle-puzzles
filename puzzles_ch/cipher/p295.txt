@@ -1,0 +1,6 @@
+7 9 cipher
+valio 2 1 1
+uaffy 1 2 0
+fpcal 4 2 1
+incdr 2 4 0
+retel 6 4 1

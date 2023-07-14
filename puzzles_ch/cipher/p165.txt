@@ -1,0 +1,6 @@
+6 10 cipher
+crafl 5 1 1
+qloor 2 3 1
+nowel 1 5 0
+etuip 4 5 1
+adepv 1 9 0

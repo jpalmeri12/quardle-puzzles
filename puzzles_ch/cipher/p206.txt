@@ -1,0 +1,6 @@
+7 10 cipher
+actpr 2 1 0
+coant 3 1 1
+eatty 1 5 0
+anhst 2 5 1
+ygast 5 5 1

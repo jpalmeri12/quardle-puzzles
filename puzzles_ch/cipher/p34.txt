@@ -1,0 +1,6 @@
+6 12 cipher
+iolly 5 1 1
+tewly 1 5 0
+lochl 4 5 1
+ejeca 1 7 0
+junce 2 7 1

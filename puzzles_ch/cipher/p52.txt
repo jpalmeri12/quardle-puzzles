@@ -1,0 +1,6 @@
+6 10 cipher
+trism 2 1 1
+shirp 1 5 1
+smiyh 1 5 0
+icila 3 5 1
+iliec 1 7 0

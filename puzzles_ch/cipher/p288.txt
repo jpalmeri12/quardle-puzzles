@@ -1,0 +1,6 @@
+7 8 cipher
+sacho 4 1 1
+danal 1 2 0
+trybt 6 3 1
+mrony 2 5 0
+aiult 2 7 0

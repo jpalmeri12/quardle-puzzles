@@ -1,0 +1,6 @@
+7 10 cipher
+fnoss 4 1 1
+shool 1 3 0
+koost 1 5 0
+targy 5 5 1
+satyb 2 9 0

@@ -1,0 +1,6 @@
+7 8 cipher
+gence 1 1 1
+ahain 3 2 1
+smirl 5 3 1
+ckarm 1 4 0
+snarp 2 6 0

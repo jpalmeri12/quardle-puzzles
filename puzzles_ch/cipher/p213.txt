@@ -1,0 +1,6 @@
+7 10 cipher
+heign 6 1 1
+mudge 2 2 0
+woven 2 5 0
+efery 5 5 1
+jorde 1 7 0

@@ -1,0 +1,6 @@
+7 10 cipher
+fhurn 4 1 1
+achen 2 2 0
+ruoer 2 4 1
+lunny 1 5 0
+ysuth 5 5 1

@@ -1,0 +1,6 @@
+7 12 cipher
+shage 2 1 1
+tempr 1 5 0
+madim 3 5 1
+seoue 5 7 1
+fibex 2 8 0

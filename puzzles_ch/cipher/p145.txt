@@ -1,0 +1,6 @@
+7 12 cipher
+gicep 2 1 1
+pithb 2 5 0
+imale 3 5 1
+steaq 5 7 1
+yueue 1 9 0

@@ -1,0 +1,6 @@
+7 12 cipher
+sedia 2 1 1
+fappy 1 5 0
+pmead 3 5 1
+hruit 6 7 1
+later 2 8 0

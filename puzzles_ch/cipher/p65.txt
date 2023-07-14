@@ -1,0 +1,6 @@
+7 12 cipher
+baver 3 1 1
+truok 2 5 0
+usner 4 5 1
+stwrm 1 7 1
+tuher 1 8 0

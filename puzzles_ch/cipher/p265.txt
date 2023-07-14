@@ -1,0 +1,6 @@
+7 8 cipher
+plirt 6 1 1
+eivil 4 2 1
+troob 2 3 1
+rovfr 2 4 0
+nocly 1 6 0

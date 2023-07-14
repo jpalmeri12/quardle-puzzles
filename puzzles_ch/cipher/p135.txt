@@ -1,0 +1,6 @@
+7 10 cipher
+ciaic 2 1 1
+petbl 5 1 1
+oilge 1 2 0
+cellr 2 5 0
+lepev 4 5 1

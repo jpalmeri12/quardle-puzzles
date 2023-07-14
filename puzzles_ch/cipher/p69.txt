@@ -1,0 +1,6 @@
+6 10 cipher
+spast 1 1 0
+poodh 2 1 1
+slace 4 1 1
+shiek 1 5 0
+smill 1 5 1

@@ -1,0 +1,6 @@
+6 12 cipher
+teach 1 1 1
+vapir 4 3 1
+happg 1 5 0
+alora 1 7 0
+oyoid 3 7 1

@@ -1,0 +1,6 @@
+7 10 cipher
+yucus 1 1 1
+suiar 1 5 0
+unlon 2 5 1
+appme 4 5 1
+needg 2 9 0

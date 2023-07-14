@@ -1,0 +1,6 @@
+7 8 cipher
+tepse 2 1 1
+tease 1 2 0
+snout 4 2 1
+fellh 6 3 1
+sroke 2 4 0

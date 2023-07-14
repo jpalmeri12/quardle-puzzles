@@ -1,0 +1,6 @@
+7 10 cipher
+xinor 2 1 1
+shakc 5 2 1
+nimht 2 3 0
+greak 1 5 0
+eyert 3 5 1

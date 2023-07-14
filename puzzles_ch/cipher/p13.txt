@@ -1,0 +1,6 @@
+6 10 cipher
+kmaki 4 1 1
+blfak 2 2 1
+hloat 1 3 0
+ranic 1 5 0
+ceick 5 5 1

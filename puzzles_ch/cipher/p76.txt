@@ -1,0 +1,6 @@
+6 10 cipher
+cayou 2 1 1
+hagey 5 2 1
+ryena 1 3 0
+pulbe 1 5 0
+lasge 3 5 1

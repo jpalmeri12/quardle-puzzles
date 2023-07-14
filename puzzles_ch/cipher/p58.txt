@@ -1,0 +1,6 @@
+7 9 cipher
+clucm 2 1 0
+cryup 5 1 1
+gasse 3 4 1
+traop 1 5 0
+islkt 2 7 0

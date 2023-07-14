@@ -1,0 +1,6 @@
+7 9 cipher
+joter 2 1 0
+enkow 5 1 1
+phouo 1 4 0
+occar 3 4 1
+ferdl 1 8 0

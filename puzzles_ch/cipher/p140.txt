@@ -1,0 +1,6 @@
+7 10 cipher
+guscy 1 1 0
+slrpe 3 1 1
+aloen 6 2 1
+peaie 2 5 0
+atena 4 5 1

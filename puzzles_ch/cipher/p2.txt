@@ -1,0 +1,6 @@
+6 10 cipher
+ytain 2 1 1
+ralps 4 2 1
+hatal 1 3 0
+infpt 1 5 0
+ivore 1 5 1

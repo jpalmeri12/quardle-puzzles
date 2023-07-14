@@ -1,0 +1,6 @@
+6 10 cipher
+viuta 1 1 1
+isage 1 2 0
+glanm 4 2 1
+agond 1 5 0
+grynt 2 5 1

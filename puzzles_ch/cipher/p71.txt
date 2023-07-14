@@ -1,0 +1,6 @@
+6 12 cipher
+sunng 2 1 1
+inash 1 4 0
+sayor 4 4 1
+troov 1 7 0
+tunpc 1 7 1

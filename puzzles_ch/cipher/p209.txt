@@ -1,0 +1,6 @@
+7 10 cipher
+irost 6 1 1
+usurq 2 4 1
+sfuat 2 5 0
+annup 5 5 1
+groln 1 7 0

@@ -1,0 +1,6 @@
+7 9 cipher
+cruth 6 1 1
+ilour 4 3 1
+fbove 2 4 1
+broah 2 5 0
+svory 1 7 0

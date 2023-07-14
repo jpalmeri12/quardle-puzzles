@@ -1,0 +1,6 @@
+6 9 cipher
+hruff 5 1 1
+favtr 1 2 0
+valey 3 2 1
+essag 1 4 1
+soelf 1 5 0

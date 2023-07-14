@@ -1,0 +1,6 @@
+7 10 cipher
+ydder 5 1 1
+upade 2 2 0
+prsbe 3 2 1
+eober 1 5 0
+earlm 1 5 1

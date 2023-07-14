@@ -1,0 +1,6 @@
+6 10 cipher
+nirst 2 1 1
+uydid 4 1 1
+fredo 1 3 0
+studa 1 5 0
+ultrc 3 5 1

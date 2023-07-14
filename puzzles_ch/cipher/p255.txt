@@ -1,0 +1,6 @@
+7 10 cipher
+slusr 2 1 0
+linho 3 1 1
+dyown 1 5 0
+nomgd 5 5 1
+dowda 2 9 0

@@ -1,0 +1,6 @@
+7 10 cipher
+fouff 6 1 1
+gedar 4 2 1
+dcarf 2 5 0
+dwubt 2 5 1
+stale 1 9 0

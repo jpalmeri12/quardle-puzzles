@@ -1,0 +1,6 @@
+7 10 cipher
+braln 1 1 1
+tonar 5 3 1
+nymon 1 5 0
+yachi 2 5 1
+chars 2 7 0

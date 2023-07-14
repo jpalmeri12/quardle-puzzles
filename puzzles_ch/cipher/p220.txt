@@ -1,0 +1,6 @@
+6 10 cipher
+antar 4 1 1
+lorgo 1 2 1
+oyate 1 3 0
+gevre 1 5 0
+epoxf 5 5 1

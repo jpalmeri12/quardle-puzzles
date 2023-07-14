@@ -1,0 +1,6 @@
+7 9 cipher
+mabga 4 1 1
+crass 2 2 0
+lorum 2 4 1
+sonar 1 5 0
+matfh 2 8 0

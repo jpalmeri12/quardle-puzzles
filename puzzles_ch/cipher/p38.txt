@@ -1,0 +1,6 @@
+7 8 cipher
+brewn 1 1 0
+wooay 4 1 1
+spirh 2 3 1
+slosv 2 3 0
+zinyl 1 5 0

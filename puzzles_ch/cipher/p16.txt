@@ -1,0 +1,6 @@
+6 10 cipher
+adyss 1 1 1
+eizzy 3 4 1
+suill 1 5 0
+lapst 5 5 1
+bnzip 1 7 0

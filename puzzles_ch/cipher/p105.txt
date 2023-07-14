@@ -1,0 +1,6 @@
+7 10 cipher
+wrban 4 1 1
+pelee 2 3 1
+tlank 1 5 0
+knomn 5 5 1
+exuol 2 7 0

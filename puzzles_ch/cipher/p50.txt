@@ -1,0 +1,6 @@
+7 9 cipher
+mress 2 1 1
+strig 4 1 1
+ferrc 1 3 0
+bayhe 6 4 1
+sigpa 2 5 0

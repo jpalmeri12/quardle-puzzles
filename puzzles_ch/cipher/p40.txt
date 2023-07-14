@@ -1,0 +1,6 @@
+7 12 cipher
+cayou 2 1 1
+ubage 2 5 0
+gsoat 5 5 1
+ralio 1 7 0
+retdh 1 7 1

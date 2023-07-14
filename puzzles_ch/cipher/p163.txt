@@ -1,0 +1,6 @@
+7 10 cipher
+iskew 2 1 0
+shash 3 1 1
+euher 1 5 0
+rpsky 5 5 1
+stook 1 8 0

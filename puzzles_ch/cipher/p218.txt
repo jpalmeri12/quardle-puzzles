@@ -1,0 +1,6 @@
+7 10 cipher
+hyiro 4 1 1
+dabby 2 2 1
+bpoat 2 5 0
+arlse 5 5 1
+cress 1 8 0

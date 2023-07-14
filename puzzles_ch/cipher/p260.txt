@@ -1,0 +1,6 @@
+6 10 cipher
+abzss 1 1 1
+tumyr 4 3 1
+skomp 1 5 0
+kneei 2 5 1
+debra 1 7 0

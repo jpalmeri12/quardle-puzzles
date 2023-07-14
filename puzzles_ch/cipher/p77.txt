@@ -1,0 +1,6 @@
+7 10 cipher
+iowel 2 1 1
+benue 5 1 1
+ownes 2 2 0
+elrde 1 5 0
+envue 1 5 1

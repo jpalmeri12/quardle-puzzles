@@ -1,0 +1,6 @@
+7 10 cipher
+haech 1 1 0
+croud 4 1 1
+ninla 2 3 1
+nadit 2 5 0
+issuj 5 5 1

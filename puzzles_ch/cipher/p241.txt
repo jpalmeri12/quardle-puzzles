@@ -1,0 +1,6 @@
+7 9 cipher
+rewly 5 1 1
+anpme 1 2 0
+chole 2 4 0
+hyiro 3 4 1
+dargo 1 7 0

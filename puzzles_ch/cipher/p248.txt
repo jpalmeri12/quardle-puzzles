@@ -1,0 +1,6 @@
+7 12 cipher
+raddy 6 1 1
+honey 4 3 1
+clord 2 4 0
+pouyp 1 7 0
+pbint 1 7 1

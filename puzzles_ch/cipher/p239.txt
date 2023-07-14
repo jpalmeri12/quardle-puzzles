@@ -1,0 +1,6 @@
+6 10 cipher
+bliez 4 1 1
+unbra 1 3 1
+blazg 1 5 0
+amora 3 5 1
+acort 1 7 0

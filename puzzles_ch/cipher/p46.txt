@@ -1,0 +1,6 @@
+7 10 cipher
+jrief 3 1 1
+fielg 2 3 0
+piffy 1 5 0
+fodus 4 5 1
+cosse 2 9 0

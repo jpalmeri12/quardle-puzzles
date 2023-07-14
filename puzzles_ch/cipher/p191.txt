@@ -1,0 +1,6 @@
+7 10 cipher
+clarp 2 1 1
+fahna 1 3 0
+etios 6 4 1
+plamt 2 5 0
+auson 4 5 1

@@ -1,0 +1,6 @@
+6 10 cipher
+sodel 1 1 1
+limen 1 5 0
+ionik 2 5 1
+endoc 4 5 1
+wnide 1 7 0

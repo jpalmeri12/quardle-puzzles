@@ -1,0 +1,6 @@
+7 10 cipher
+aieve 2 1 0
+vegcn 5 1 1
+londo 2 4 1
+rogin 1 5 0
+innes 4 5 1

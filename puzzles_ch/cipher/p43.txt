@@ -1,0 +1,6 @@
+7 9 cipher
+ninjc 1 1 1
+jaror 1 4 0
+righu 3 4 1
+rigit 5 4 1
+dhoir 2 7 0

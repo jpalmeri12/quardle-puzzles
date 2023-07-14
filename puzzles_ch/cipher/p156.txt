@@ -1,0 +1,6 @@
+7 10 cipher
+ketus 3 1 1
+poryp 5 2 1
+stoof 2 3 0
+daspy 1 5 0
+abacl 2 5 1

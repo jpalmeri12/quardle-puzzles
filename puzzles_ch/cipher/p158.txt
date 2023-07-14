@@ -1,0 +1,6 @@
+6 10 cipher
+cruob 2 1 1
+cmase 5 1 1
+tbese 1 5 0
+svuff 4 5 1
+hague 1 7 0

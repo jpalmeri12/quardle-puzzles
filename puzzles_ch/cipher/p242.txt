@@ -1,0 +1,6 @@
+7 10 cipher
+caged 1 1 0
+cywer 1 1 1
+rimle 1 5 0
+ioage 2 5 1
+guilf 2 8 0

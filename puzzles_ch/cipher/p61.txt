@@ -1,0 +1,6 @@
+7 12 cipher
+uhave 1 1 1
+vasor 1 4 0
+rwmor 5 4 1
+throd 2 7 0
+horle 3 7 1

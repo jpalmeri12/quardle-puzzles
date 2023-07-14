@@ -1,0 +1,6 @@
+6 10 cipher
+oeign 5 1 1
+chdrn 1 5 0
+hpney 2 5 1
+rasty 4 5 1
+angsu 1 7 0

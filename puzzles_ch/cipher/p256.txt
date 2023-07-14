@@ -1,0 +1,6 @@
+7 9 cipher
+plaim 2 1 1
+leakd 2 2 0
+yinch 1 4 0
+howel 5 4 1
+stile 1 7 0

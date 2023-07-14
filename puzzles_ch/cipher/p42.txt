@@ -1,0 +1,6 @@
+6 10 cipher
+slpth 5 1 1
+agare 1 4 1
+goash 1 5 0
+sleen 4 5 1
+eatek 1 8 0

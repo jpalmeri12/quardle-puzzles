@@ -1,0 +1,6 @@
+7 10 cipher
+afyss 2 1 1
+myena 1 3 0
+hella 6 4 1
+slite 2 5 0
+inleb 4 5 1

@@ -1,0 +1,6 @@
+7 9 cipher
+euhos 1 1 1
+peary 4 2 1
+howel 1 3 0
+tarse 6 4 1
+bvyer 2 6 0

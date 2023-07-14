@@ -1,0 +1,6 @@
+7 10 cipher
+attkc 1 1 1
+ypool 5 4 1
+crasp 1 5 0
+relai 2 5 1
+anmle 2 8 0

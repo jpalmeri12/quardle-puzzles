@@ -1,0 +1,6 @@
+7 10 cipher
+baypu 2 1 1
+rygmy 1 3 0
+unfik 2 5 0
+filet 4 5 1
+anole 1 7 0

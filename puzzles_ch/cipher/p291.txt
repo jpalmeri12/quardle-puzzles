@@ -1,0 +1,6 @@
+7 10 cipher
+bacou 2 1 1
+adapw 2 2 0
+poyer 5 2 1
+surte 1 5 0
+sguba 1 5 1

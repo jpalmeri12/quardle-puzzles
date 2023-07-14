@@ -1,0 +1,6 @@
+6 10 cipher
+rpgue 4 1 1
+hazeo 1 5 0
+auncy 2 5 1
+snulk 1 7 0
+hyter 1 9 0

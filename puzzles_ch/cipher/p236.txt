@@ -1,0 +1,6 @@
+7 10 cipher
+grspe 4 1 1
+utray 2 2 0
+iello 2 4 1
+neher 1 5 0
+rerwn 5 5 1

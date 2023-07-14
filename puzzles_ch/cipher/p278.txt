@@ -1,0 +1,6 @@
+7 9 cipher
+nroup 2 1 0
+relaf 3 1 1
+glake 1 4 0
+esdow 5 4 1
+ytraw 1 8 0

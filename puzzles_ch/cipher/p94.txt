@@ -1,0 +1,6 @@
+7 10 cipher
+bsown 4 1 1
+aunny 1 5 0
+utrle 2 5 1
+youni 5 5 1
+legnt 2 8 0

@@ -1,0 +1,6 @@
+7 8 cipher
+hunkh 2 1 1
+hcter 2 1 0
+sneel 1 3 0
+liaer 5 3 1
+vhirt 2 7 0

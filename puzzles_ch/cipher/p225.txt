@@ -1,0 +1,6 @@
+7 10 cipher
+prlor 3 1 1
+troce 2 5 0
+teagh 2 5 1
+offav 4 5 1
+iaffe 1 7 0

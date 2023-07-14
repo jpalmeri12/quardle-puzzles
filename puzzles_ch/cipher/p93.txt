@@ -1,0 +1,6 @@
+7 10 cipher
+pynch 2 1 1
+nasdy 2 3 0
+howfy 2 5 0
+otera 3 5 1
+larce 1 8 0

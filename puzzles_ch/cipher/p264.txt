@@ -1,0 +1,6 @@
+7 10 cipher
+zruss 1 1 1
+undpd 1 3 0
+steak 1 5 0
+acure 4 5 1
+ihurn 2 7 0
