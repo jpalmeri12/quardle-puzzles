@@ -1,0 +1,9 @@
+6 7 beforeafter
+harpy 2 1 1
+happy 1 2 0
+plaid 4 2 1
+speak 1 4 0
+!beforeafter 1 l
+!beforeafter 1 k
+!beforeafter 1 k
+!beforeafter 1 l

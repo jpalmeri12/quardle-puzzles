@@ -1,0 +1,6 @@
+7 11 drop
+magic 4 1 1
+plank 2 2 0
+usage 1 4 1
+since 1 5 0
+cluck 1 10 0

@@ -1,0 +1,5 @@
+7 10 dictattack
+octal 6 1 1
+dowel 2 5 0
+dopey 2 5 1
+revel 1 8 0

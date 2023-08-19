@@ -1,0 +1,5 @@
+7 10 outoforder
+grave 2 1 0
+vapid 5 1 1
+blind 1 5 0
+bless 1 5 1

@@ -1,0 +1,6 @@
+6 10 five
+tithe 2 1 1
+goner 4 2 1
+stoop 1 3 0
+sewer 1 5 0
+squat 1 5 1

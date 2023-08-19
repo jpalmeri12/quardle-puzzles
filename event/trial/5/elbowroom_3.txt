@@ -1,0 +1,5 @@
+7 9 elbowroom
+shake 5 1 1
+befit 2 4 1
+genie 1 5 0
+tibia 2 8 0

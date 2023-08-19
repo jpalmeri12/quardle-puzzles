@@ -1,0 +1,5 @@
+7 10 elbowroom
+larva 4 1 1
+quail 2 2 0
+naval 1 5 0
+ladle 5 5 1

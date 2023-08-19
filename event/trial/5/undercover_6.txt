@@ -1,0 +1,6 @@
+6 10 undercover
+cubic 1 1 1
+shyly 5 3 1
+coyly 1 5 0
+fifty 1 7 0
+evade 1 9 0

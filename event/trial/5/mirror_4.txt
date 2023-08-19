@@ -1,0 +1,5 @@
+6 7 mirror
+brute 4 1 1
+stork 1 2 0
+tribe 2 2 1
+abled 1 5 0

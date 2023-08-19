@@ -1,0 +1,5 @@
+7 8 buyavowel
+truth 5 1 1
+boney 3 3 1
+motto 2 4 0
+wryly 1 7 0

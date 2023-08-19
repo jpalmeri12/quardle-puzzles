@@ -1,0 +1,5 @@
+7 10 outoforder
+gonad 2 1 1
+daddy 2 5 0
+dryer 5 5 1
+loopy 1 7 0

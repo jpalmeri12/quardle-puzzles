@@ -1,0 +1,5 @@
+6 10 mirror
+salsa 3 1 1
+chafe 1 2 0
+plant 1 5 0
+local 2 5 1

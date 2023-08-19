@@ -1,0 +1,5 @@
+7 9 swaptwo
+pealr 2 1 1
+belyl 1 2 0
+voial 6 4 1
+rumro 2 5 0

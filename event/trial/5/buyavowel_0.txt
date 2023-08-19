@@ -1,0 +1,5 @@
+6 9 buyavowel
+gross 4 1 1
+shirk 1 2 0
+wrist 1 4 0
+roach 2 4 1

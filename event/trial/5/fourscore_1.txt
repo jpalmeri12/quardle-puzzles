@@ -1,0 +1,5 @@
+7 8 fourscore
+joker 2 1 1
+juror 2 1 0
+skull 1 3 0
+leery 4 3 1

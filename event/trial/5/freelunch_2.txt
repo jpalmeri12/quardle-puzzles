@@ -1,0 +1,6 @@
+7 9 freelunch
+speed 2 1 1
+beefy 1 3 0
+fizzy 4 3 1
+eying 6 4 1
+dizzy 2 5 0

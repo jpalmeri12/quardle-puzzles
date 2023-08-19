@@ -1,0 +1,6 @@
+7 10 freelunch
+merit 3 1 1
+revue 2 2 0
+hatch 1 5 0
+cease 4 5 1
+avian 1 7 0

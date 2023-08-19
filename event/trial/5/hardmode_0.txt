@@ -1,0 +1,5 @@
+7 9 hardmode
+radii 2 1 1
+anode 2 2 0
+agent 4 4 1
+piggy 1 5 0

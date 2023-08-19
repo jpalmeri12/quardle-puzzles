@@ -1,0 +1,5 @@
+7 10 confusing
+topic 2 1 1
+overt 2 2 0
+scorn 1 5 0
+scale 1 5 1

@@ -1,0 +1,5 @@
+7 10 fourscore
+doing 2 1 1
+conic 1 2 0
+glean 2 5 0
+nymph 6 5 1

@@ -1,0 +1,5 @@
+7 10 mirror
+salad 2 1 1
+gland 1 3 0
+dicey 2 5 0
+elbow 5 5 1

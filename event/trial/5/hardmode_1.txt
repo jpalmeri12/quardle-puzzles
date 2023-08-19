@@ -1,0 +1,5 @@
+7 10 hardmode
+cleft 6 1 1
+toast 2 5 0
+trice 2 5 1
+civic 1 7 0

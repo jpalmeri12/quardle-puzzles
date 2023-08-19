@@ -1,0 +1,5 @@
+7 9 reverse
+ardor 2 1 0
+ditty 4 1 1
+rettu 1 4 0
+edarg 2 4 1

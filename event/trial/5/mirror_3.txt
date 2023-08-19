@@ -1,0 +1,5 @@
+7 9 mirror
+syrup 4 1 1
+issue 1 4 0
+stank 2 4 1
+natal 2 7 0

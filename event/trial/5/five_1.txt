@@ -1,0 +1,6 @@
+7 9 five
+altar 2 1 0
+twang 4 1 1
+wiser 2 4 1
+lingo 1 5 0
+ester 2 7 0

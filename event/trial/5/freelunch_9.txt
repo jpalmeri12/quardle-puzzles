@@ -1,0 +1,6 @@
+7 12 freelunch
+state 1 1 1
+trawl 1 4 0
+wheel 4 4 1
+spear 2 7 0
+spill 2 7 1

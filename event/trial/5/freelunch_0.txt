@@ -1,0 +1,6 @@
+7 9 freelunch
+duchy 2 1 0
+creme 4 1 1
+limit 2 4 1
+vixen 1 5 0
+tibia 1 7 0

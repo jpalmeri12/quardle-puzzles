@@ -1,0 +1,5 @@
+7 9 swaptwo
+rsien 6 1 1
+falke 2 4 0
+lwoly 4 4 1
+tmuor 1 6 0

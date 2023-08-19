@@ -1,0 +1,5 @@
+7 9 confusing
+devil 4 1 1
+hovel 1 2 0
+seize 2 4 0
+evoke 6 4 1

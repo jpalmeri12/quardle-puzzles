@@ -1,0 +1,6 @@
+6 10 five
+tumor 2 1 1
+feign 4 1 1
+surer 1 2 0
+frond 1 5 0
+ombre 3 5 1

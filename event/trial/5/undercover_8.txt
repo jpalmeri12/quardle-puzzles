@@ -1,0 +1,6 @@
+7 11 undercover
+guess 2 1 1
+payer 4 4 1
+state 2 5 0
+embed 1 7 0
+known 1 10 0

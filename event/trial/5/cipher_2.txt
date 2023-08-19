@@ -1,0 +1,6 @@
+7 10 cipher
+ligpt 1 1 1
+takhn 1 5 0
+knaek 3 5 1
+slain 1 7 0
+ckulk 2 9 0

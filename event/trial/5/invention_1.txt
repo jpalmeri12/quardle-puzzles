@@ -1,0 +1,5 @@
+6 9 invention
+vinyl 5 1 1
+quasi 1 2 0
+palsy 1 4 0
+liege 3 4 1

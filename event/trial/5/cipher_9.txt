@@ -1,0 +1,6 @@
+6 10 cipher
+elgow 1 1 1
+libid 1 2 0
+wedne 1 5 0
+elecv 5 5 1
+cotic 1 8 0

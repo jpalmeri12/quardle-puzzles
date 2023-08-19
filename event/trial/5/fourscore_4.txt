@@ -1,0 +1,5 @@
+6 8 fourscore
+torus 1 1 0
+stamp 5 1 1
+rigid 1 3 1
+grasp 1 5 0

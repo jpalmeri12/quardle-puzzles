@@ -1,0 +1,5 @@
+6 9 unloved
+stood 2 1 1
+goofy 1 4 0
+fight 4 4 1
+itchy 1 7 0

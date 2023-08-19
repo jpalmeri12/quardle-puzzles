@@ -1,0 +1,6 @@
+6 9 divisions
+moult 4 1 1
+chaos 1 2 0
+stunk 1 4 1
+tasty 1 5 0
+!divisions 12100202323322331000321131

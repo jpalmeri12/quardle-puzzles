@@ -1,0 +1,6 @@
+7 10 five
+fetal 4 1 1
+offal 1 4 0
+found 2 4 1
+abyss 6 5 1
+nasty 2 7 0

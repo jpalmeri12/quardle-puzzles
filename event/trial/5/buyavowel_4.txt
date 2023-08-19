@@ -1,0 +1,5 @@
+6 7 buyavowel
+credo 2 1 1
+grief 1 2 0
+fauna 5 2 1
+token 1 5 0

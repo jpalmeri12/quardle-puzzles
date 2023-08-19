@@ -1,0 +1,5 @@
+7 10 outoforder
+tango 3 1 1
+soapy 2 5 0
+scope 2 5 1
+spike 1 8 0

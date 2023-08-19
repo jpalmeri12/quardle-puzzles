@@ -1,0 +1,6 @@
+6 9 drop
+harem 4 1 1
+psalm 1 2 1
+shard 1 3 0
+loamy 1 5 0
+mossy 1 8 0

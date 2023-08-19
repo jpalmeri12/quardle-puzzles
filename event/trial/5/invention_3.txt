@@ -1,0 +1,5 @@
+7 7 invention
+overt 1 1 1
+vodka 1 2 0
+drove 3 2 1
+demur 2 6 0

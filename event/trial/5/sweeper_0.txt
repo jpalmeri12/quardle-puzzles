@@ -1,0 +1,5 @@
+6 9 sweeper
+feign 1 1 1
+gloom 1 4 0
+match 5 4 1
+hunch 1 8 0

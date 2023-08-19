@@ -1,0 +1,9 @@
+6 9 beforeafter
+flout 1 1 1
+torch 3 4 1
+trope 1 5 0
+gecko 1 7 0
+!beforeafter 2 q
+!beforeafter 2 j
+!beforeafter 1 q
+!beforeafter 2 j

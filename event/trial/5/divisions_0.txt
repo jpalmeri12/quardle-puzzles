@@ -1,0 +1,6 @@
+7 8 divisions
+spore 1 1 0
+recur 4 1 1
+sport 6 3 1
+chump 2 4 0
+!divisions 02110112323322330101320010

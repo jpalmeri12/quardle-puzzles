@@ -1,0 +1,5 @@
+7 7 elbowroom
+boozy 3 1 1
+conic 2 2 0
+imbue 5 2 1
+bayou 1 5 0

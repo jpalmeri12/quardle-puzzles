@@ -1,0 +1,6 @@
+7 10 drop
+rider 5 1 1
+aside 2 3 0
+swami 3 3 1
+spiny 1 7 0
+risky 1 9 0

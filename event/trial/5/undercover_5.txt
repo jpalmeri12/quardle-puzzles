@@ -1,0 +1,6 @@
+7 9 undercover
+loser 1 1 0
+stall 3 1 1
+cress 6 2 1
+glide 2 4 0
+funny 1 8 0

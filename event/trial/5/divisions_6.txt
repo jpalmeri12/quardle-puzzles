@@ -1,0 +1,6 @@
+7 8 divisions
+troop 3 1 1
+chord 1 3 0
+dingo 5 3 1
+spend 2 5 0
+!divisions 33330001211211223030030303

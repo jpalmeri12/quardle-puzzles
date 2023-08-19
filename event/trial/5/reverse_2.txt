@@ -1,0 +1,5 @@
+6 6 reverse
+pedal 1 1 0
+putes 1 1 1
+dummy 3 1 1
+temnu 1 3 0

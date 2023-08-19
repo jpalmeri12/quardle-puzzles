@@ -1,0 +1,5 @@
+7 10 hardmode
+loath 3 1 1
+rhino 2 5 0
+ninth 5 5 1
+linen 1 7 0

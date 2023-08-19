@@ -1,0 +1,6 @@
+6 11 drop
+parka 1 1 0
+aider 5 1 1
+dwell 1 4 1
+wager 1 5 0
+ardor 1 10 0

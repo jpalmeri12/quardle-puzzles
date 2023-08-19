@@ -1,0 +1,5 @@
+7 7 elbowroom
+align 4 1 1
+twist 2 2 1
+wrist 2 3 0
+using 1 5 0

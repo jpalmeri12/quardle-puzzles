@@ -1,0 +1,5 @@
+6 6 fourscore
+cigar 3 1 1
+hedge 5 1 1
+slime 1 2 0
+slang 1 4 0

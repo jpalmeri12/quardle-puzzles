@@ -1,0 +1,5 @@
+7 9 swaptwo
+bayuo 2 1 1
+humsu 1 4 0
+slikc 4 4 1
+mocah 2 8 0

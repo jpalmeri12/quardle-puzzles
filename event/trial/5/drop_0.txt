@@ -1,0 +1,6 @@
+7 12 drop
+pearl 2 1 1
+lumpy 2 5 0
+pried 5 5 1
+swami 1 7 0
+girly 1 11 0

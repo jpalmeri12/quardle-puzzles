@@ -1,0 +1,6 @@
+7 8 cipher
+csing 1 1 0
+steap 2 1 1
+elmin 5 3 1
+fanal 1 4 0
+auing 2 7 0

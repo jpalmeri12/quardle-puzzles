@@ -1,0 +1,6 @@
+6 9 drop
+teddy 5 1 1
+cache 1 2 0
+coast 3 2 1
+bland 1 4 0
+botch 1 8 0

@@ -1,0 +1,6 @@
+7 9 freelunch
+cress 4 1 1
+parse 2 2 0
+sissy 2 4 0
+shard 2 4 1
+crime 1 7 0

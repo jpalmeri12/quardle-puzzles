@@ -1,0 +1,5 @@
+7 10 swaptwo
+tesne 2 1 0
+shvae 4 1 1
+sedey 1 5 0
+exlie 2 5 1

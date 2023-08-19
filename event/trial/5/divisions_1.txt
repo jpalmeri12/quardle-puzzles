@@ -1,0 +1,6 @@
+6 10 divisions
+bayou 2 1 1
+rayon 1 2 0
+bulky 1 5 0
+yeast 5 5 1
+!divisions 02000322111112110303130030

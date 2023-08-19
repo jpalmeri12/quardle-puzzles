@@ -1,0 +1,6 @@
+6 7 divisions
+alert 5 1 1
+downy 3 2 1
+moose 1 3 0
+tenet 1 5 0
+!divisions 13221330003333001210021202

@@ -1,0 +1,5 @@
+6 6 mirror
+would 2 1 1
+amble 5 1 1
+forum 1 2 0
+flail 1 4 0

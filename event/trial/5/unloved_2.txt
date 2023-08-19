@@ -1,0 +1,5 @@
+7 9 unloved
+mummy 5 1 1
+sloth 2 4 1
+shame 2 4 0
+stare 1 7 0

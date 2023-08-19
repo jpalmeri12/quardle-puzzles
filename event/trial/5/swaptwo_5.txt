@@ -1,0 +1,5 @@
+7 9 swaptwo
+nures 1 1 1
+slukn 3 4 1
+soldi 1 5 0
+intor 2 8 0

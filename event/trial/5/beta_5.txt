@@ -1,0 +1,5 @@
+7 10 beta
+kebab 2 1 1
+blast 2 5 0
+alloy 4 5 1
+satyr 1 9 0

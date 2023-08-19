@@ -1,0 +1,9 @@
+6 8 beforeafter
+stank 5 1 1
+caput 2 3 1
+spank 1 5 0
+stack 1 7 0
+!beforeafter 1 p
+!beforeafter 2 r
+!beforeafter 1 o
+!beforeafter 1 o

@@ -1,0 +1,6 @@
+7 11 cipher
+polar 1 1 1
+vinto 4 2 1
+ament 1 4 0
+showe 2 6 0
+seger 2 6 1

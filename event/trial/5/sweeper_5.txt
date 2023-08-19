@@ -1,0 +1,5 @@
+7 9 sweeper
+prism 1 1 1
+stuff 1 4 0
+flank 5 4 1
+stoke 2 8 0

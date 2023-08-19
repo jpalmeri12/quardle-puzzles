@@ -1,0 +1,5 @@
+7 10 reverse
+umbra 3 1 1
+obmam 2 3 0
+ekauq 1 5 0
+udder 4 5 1

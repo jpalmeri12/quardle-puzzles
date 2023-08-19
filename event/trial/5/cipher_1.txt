@@ -1,0 +1,6 @@
+6 7 cipher
+sdarm 1 1 1
+fryer 5 1 1
+ilesh 3 2 1
+allwy 1 3 0
+moser 1 5 0

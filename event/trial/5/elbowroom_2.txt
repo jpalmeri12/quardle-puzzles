@@ -1,0 +1,5 @@
+7 9 elbowroom
+owing 5 1 1
+lingo 3 4 1
+aping 1 5 0
+hotly 2 8 0

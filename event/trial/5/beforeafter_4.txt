@@ -1,0 +1,9 @@
+7 10 beforeafter
+blitz 4 1 1
+tulip 1 3 0
+dizzy 2 5 0
+idyll 3 5 1
+!beforeafter 2 n
+!beforeafter 1 q
+!beforeafter 1 p
+!beforeafter 1 k

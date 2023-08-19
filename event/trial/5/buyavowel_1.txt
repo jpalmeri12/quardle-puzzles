@@ -1,0 +1,5 @@
+7 10 buyavowel
+seven 4 1 1
+ebony 1 5 0
+bleak 2 5 1
+eking 2 7 0

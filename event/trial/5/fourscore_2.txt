@@ -1,0 +1,5 @@
+7 7 fourscore
+leech 2 1 1
+enjoy 2 2 0
+jiffy 4 2 1
+theft 1 5 0

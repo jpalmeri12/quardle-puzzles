@@ -1,0 +1,5 @@
+7 9 hardmode
+grief 2 1 1
+cinch 1 3 0
+myrrh 6 4 1
+fairy 2 5 0

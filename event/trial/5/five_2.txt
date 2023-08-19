@@ -1,0 +1,6 @@
+6 10 five
+bliss 1 1 1
+relic 4 1 1
+spicy 1 5 0
+icing 3 5 1
+chirp 1 7 0

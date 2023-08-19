@@ -1,0 +1,5 @@
+6 9 fourscore
+fecal 1 1 1
+felon 1 1 0
+agate 1 4 0
+table 4 4 1

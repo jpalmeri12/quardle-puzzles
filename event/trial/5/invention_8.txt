@@ -1,0 +1,5 @@
+6 9 invention
+cache 1 1 1
+hussy 1 4 0
+snoop 3 4 1
+drone 1 7 0

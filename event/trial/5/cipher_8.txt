@@ -1,0 +1,6 @@
+7 10 cipher
+gatum 2 1 1
+retcl 5 4 1
+imahe 1 5 0
+asien 3 5 1
+dince 2 7 0

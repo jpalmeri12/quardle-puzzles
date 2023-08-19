@@ -1,0 +1,5 @@
+6 10 dictattack
+fence 4 1 1
+jewel 1 5 0
+jumbo 1 5 1
+overt 1 9 0

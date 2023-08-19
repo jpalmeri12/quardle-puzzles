@@ -1,0 +1,6 @@
+7 12 drop
+swami 4 1 1
+aside 2 5 0
+snack 3 5 1
+shale 1 7 0
+shiny 1 11 0
